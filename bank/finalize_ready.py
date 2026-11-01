@@ -4,7 +4,7 @@ import sys, os, re, json, subprocess, glob
 B = os.path.dirname(os.path.abspath(__file__))
 slug = sys.argv[1]; E = f'{B}/{slug}'
 MASTER = {'dendera-zodiac': 'Dendera-Zodiac', 'serapeum-boxes': 'Serapeum-Boxes',
-          'fermi-paradox': 'Fermi-Paradox', 'oumuamua-atlas': 'Oumuamua-vs-3I-ATLAS', 'puma-punku': 'Puma-Punku', 'simulation': 'Simulation-Hypothesis', 'vimanas': 'Vimanas-vs-UAP-Files', 'dendera-lightbulbs': 'Dendera-Light-Bulbs', 'gobekli-vulture': 'Gobekli-Tepe-Vulture-Stone', 'ufo-art': 'UFOs-in-Ancient-Art'}[slug]
+          'fermi-paradox': 'Fermi-Paradox', 'oumuamua-atlas': 'Oumuamua-vs-3I-ATLAS', 'puma-punku': 'Puma-Punku', 'simulation': 'Simulation-Hypothesis', 'vimanas': 'Vimanas-vs-UAP-Files', 'dendera-lightbulbs': 'Dendera-Light-Bulbs', 'gobekli-vulture': 'Gobekli-Tepe-Vulture-Stone', 'ufo-art': 'UFOs-in-Ancient-Art'}.get(slug) or open(f'{E}/MASTER_NAME').read().strip()
 UPLOAD = {'serapeum-boxes': 'serapeum-boxes-upload.mp4', 'puma-punku': 'puma-punku-upload.mp4', 'simulation': 'simulation-upload.mp4', 'vimanas': 'vimanas-upload.mp4', 'dendera-lightbulbs': 'dendera-lightbulbs-upload.mp4', 'gobekli-vulture': 'gobekli-vulture-upload.mp4', 'ufo-art': 'ufo-art-upload.mp4'}.get(slug, f'{MASTER}-upload.mp4')
 
 def probe(f):

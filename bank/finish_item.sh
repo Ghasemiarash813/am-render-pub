@@ -19,6 +19,7 @@ case $slug in
  dendera-lightbulbs) M=Dendera-Light-Bulbs; U=dendera-lightbulbs-upload.mp4; LEG="";;
  gobekli-vulture) M=Gobekli-Tepe-Vulture-Stone; U=gobekli-vulture-upload.mp4; LEG="";;
  ufo-art) M=UFOs-in-Ancient-Art; U=ufo-art-upload.mp4; LEG="";;
+ *) [ -s MASTER_NAME ] || { echo "$slug: no MASTER_NAME file (master basename, e.g. Bronze-Ring)"; exit 1; }; M=$(head -1 MASTER_NAME | tr -d "[:space:]"); U=$slug-upload.mp4; LEG="";;
 esac
 nf(){ ffprobe -v error -count_packets -select_streams v:0 -show_entries stream=nb_read_packets -of csv=p=0 "$1" 2>/dev/null || echo 0; }
 TOT=$(python3 -c "import json;print(json.load(open('timeline.json'))['total'])")
