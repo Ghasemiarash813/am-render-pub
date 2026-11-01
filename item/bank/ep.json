@@ -1,0 +1,1507 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of a grey andesite H-shaped stone block with razor-sharp edges and perfect right-angle steps, lying on high-altitude grass at dawn, golden light, photoreal cinematic, film grain",
+  "lines": [
+   [
+    "narrator",
+    "This is an H-block from Puma Punku, in Bolivia. Sharp edges. Flat faces. Inside corners at ninety degrees. And it is about fourteen hundred years old."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is an H-block from Puma Punku, in Bolivia. Sharp edges. Flat faces. Inside corners at ninety degrees. And it is about fourteen hundred years old.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Engineer's gloved hand holding a steel try square against the inner corner of a grey carved stone block, golden hour, macro, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Millions of people have seen this stone online, with one claim attached. Laser cut. Machined. Built by visitors from another world."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Millions of people have seen this stone online, with one claim attached. Laser cut. Machined. Built by visitors from another world.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 9.192
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Surveyor's tripod, clipboard and measuring tape set up among scattered carved stone blocks on a high Andean plain, mountains behind, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "So today we do something simple. We walk the site like engineers. Station by station, stone by stone, with a tape measure and the published survey data."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So today we do something simple. We walk the site like engineers. Station by station, stone by stone, with a tape measure and the published survey data.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 10.392
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide aerial view of scattered megalithic stone ruins on a grassy plateau with snow-capped Andes mountains, morning light, photoreal cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Laser-cut stones, or Tiwanaku genius? At the end, every claim goes on a scorecard. Let's start the survey."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Laser-cut stones, or Tiwanaku genius? At the end, every claim goes on a scorecard. Let's start the survey.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 8.112
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "High Andean plateau Altiplano landscape with a low ruined terraced earth mound and stone blocks, Lake Titicaca shimmering far away, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Station one. The ground. Puma Punku sits on the Altiplano, about three thousand eight hundred and fifty metres above sea level, south of Lake Titicaca."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STATION 1",
+   "The Ground",
+   "ALTIPLANO \u00b7 3,850 M"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station one. The ground. Puma Punku sits on the Altiplano, about three thousand eight hundred and fifty metres above sea level, south of Lake Titicaca.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 11.088
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "sand",
+  "motion": "left",
+  "prompt": "Low stepped earthen platform mound faced with stone, T-shaped, ruins, wind blowing dust, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The name means Gate of the Puma. It was a T-shaped platform mound, faced with stone, about one hundred and sixty-seven metres by one hundred and seventeen."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The name means Gate of the Puma. It was a T-shaped platform mound, faced with stone, about one hundred and sixty-seven metres by one hundred and seventeen.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient Andean city at its height with stone temples, plazas and raised fields, people in colourful textiles, AD 800, photoreal reconstruction",
+  "lines": [
+   [
+    "narrator",
+    "It belonged to Tiwanaku, a great Andean city. At its peak, between about seven hundred and one thousand AD, ten to twenty thousand people lived in its core."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It belonged to Tiwanaku, a great Andean city. At its peak, between about seven hundred and one thousand AD, ten to twenty thousand people lived in its core.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Archaeologist in a deep excavation trench measuring soil layers with a tape, layered clay and gravel visible, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "First measurement: age. Archaeologist Alexei Vranich dug down to the deepest, oldest layer of fill inside the mound and dated the organic material in it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First measurement: age. Archaeologist Alexei Vranich dug down to the deepest, oldest layer of fill inside the mound and dated the organic material in it.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.472
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Laboratory radiocarbon sample vials and charcoal fragment under a lamp, dark lab, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The result: between AD five hundred and thirty-six and six hundred. The stone buildings on top came after that. And under the fill, there was only sterile Ice Age sediment."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The result: between AD five hundred and thirty-six and six hundred. The stone buildings on top came after that. And under the fill, there was only sterile Ice Age sediment.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "left",
+  "prompt": "Old leather-bound archaeology book open on a stone with sketches of stars and stone alignments, candlelight, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "That matters, because one of the most repeated claims says Puma Punku is fifteen thousand years old. Keep that number in your pocket. We will test it later."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That matters, because one of the most repeated claims says Puma Punku is fifteen thousand years old. Keep that number in your pocket. We will test it later.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 10.248
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Spanish conquistador era traveler in 16th century clothing looking at ruined stone gateway on Andean plateau, photoreal period scene",
+  "lines": [
+   [
+    "narrator",
+    "The first European to describe the site was Pedro Cieza de Le\u00f3n, in fifteen forty-nine. The Spanish called what they saw inconceivable. Some walls and a gateway were still standing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The first European to describe the site was Pedro Cieza de Le\u00f3n, in fifteen forty-nine. The Spanish called what they saw inconceivable. Some walls and a gateway were still standing.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "right",
+  "prompt": "Ruined stone blocks being carted away by colonial era workers with mules, dusty plateau, photoreal period scene",
+  "lines": [
+   [
+    "narrator",
+    "Then came five centuries of damage. Treasure hunters dug for gold. Stones were hauled away for churches, houses, and even railway ballast."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came five centuries of damage. Treasure hunters dug for gold. Stones were hauled away for churches, houses, and even railway ballast.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Archaeologist kneeling among displaced carved blocks, none in their original place, overcast light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "So the first rule of this survey: nothing is in its original position. As Vranich put it, there isn't a single stone in place."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the first rule of this survey: nothing is in its original position. As Vranich put it, there isn't a single stone in place.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 8.832
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Gigantic flat red sandstone slab lying on the ground with a person standing beside it for scale, Andean plateau, photoreal cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Station two. The giants. On the east side lies the stone platform, the Plataforma L\u00edtica, paved with the biggest slabs on the entire Tiwanaku site."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STATION 2",
+   "The Giants",
+   "PLATAFORMA L\u00cdTICA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station two. The giants. On the east side lies the stone platform, the Plataforma L\u00edtica, paved with the biggest slabs on the entire Tiwanaku site.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Measuring tape stretched across a huge red sandstone slab, engineer's boots, close up, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The largest slab measures about seven point eight metres long, five point two metres wide, and just over one metre thick."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The largest slab measures about seven point eight metres long, five point two metres wide, and just over one metre thick.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 8.592
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Engineer writing calculations on a clipboard beside a giant red stone slab, density formula, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Multiply by the density of red sandstone and you get roughly one hundred and thirty-one tonnes. The second largest comes in at about eighty-five tonnes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Multiply by the density of red sandstone and you get roughly one hundred and thirty-one tonnes. The second largest comes in at about eighty-five tonnes.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "left",
+  "prompt": "Television studio style dramatic graphic of a giant stone with exaggerated weight, cinematic lighting, no text",
+  "lines": [
+   [
+    "narrator",
+    "Now compare that with the internet. Websites have listed four hundred and forty tons. One television series went all the way up to eight hundred."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now compare that with the internet. Websites have listed four hundred and forty tons. One television series went all the way up to eight hundred.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Red sandstone quarry in a narrow mountain valley with roughly cut blocks abandoned on the slope, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Those big numbers came from early guesses that were corrected long ago. Real ceiling: about one hundred and thirty-one tonnes. And after the top two, the sizes drop sharply."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Those big numbers came from early guesses that were corrected long ago. Real ceiling: about one hundred and thirty-one tonnes. And after the top two, the sizes drop sharply.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 11.88
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Geologist using a hand lens on a red sandstone sample, thin section microscope nearby, field lab, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Where did the slabs come from? Geologists compared the stone, mineral by mineral and chemically, with quarries in the hills south of the site."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Where did the slabs come from? Geologists compared the stone, mineral by mineral and chemically, with quarries in the hills south of the site.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 8.904
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Narrow valley in the Kimsachata mountains with an ancient sandstone quarry face and a trail descending toward a plain, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "They found a match about ten to fifteen kilometres away. Later fieldwork pinned the main quarry down: a place called Kaliri, in the Kausani Valley."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They found a match about ten to fifteen kilometres away. Later fieldwork pinned the main quarry down: a place called Kaliri, in the Kausani Valley.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 10.536
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "left",
+  "prompt": "Hundreds of Andean workers hauling a giant stone slab with thick ropes over log rails up a slope, dramatic sky, photoreal reconstruction",
+  "lines": [
+   [
+    "narrator",
+    "Moving a hundred-tonne slab that far is hard work. Proposed methods include ropes of llama hide, ramps and inclined planes. The exact method is still debated."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Moving a hundred-tonne slab that far is hard work. Proposed methods include ropes of llama hide, ramps and inclined planes. The exact method is still debated.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 11.904
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of the smooth flat surface of a red sandstone slab with a crisp edge and drilled holes in a line, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "But hard is not impossible. Other ancient builders moved far heavier stones. And here, the quarry is known, the stone is local, and the slabs are real sandstone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But hard is not impossible. Other ancient builders moved far heavier stones. And here, the quarry is known, the stone is local, and the slabs are real sandstone.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Row of grey andesite H-shaped blocks lined up on grass, each with stepped recesses, dramatic side light, photoreal cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Station three. The famous ones. The H-blocks. Grey volcanic andesite, carved into stepped H-shapes with crisp edges and deep recesses."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STATION 3",
+   "The H-Blocks",
+   "ANDESITE \u00b7 VOLCANIC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station three. The famous ones. The H-blocks. Grey volcanic andesite, carved into stepped H-shapes with crisp edges and deep recesses.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.536
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro of a stepped inner corner of a grey stone block with sharp 90 degree angles, measuring calipers resting on it, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Each one has dozens of faces. Flat planes, sharp steps, and inside corners that really are close to a perfect right angle. This is the strongest card in the alien deck."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Each one has dozens of faces. Flat planes, sharp steps, and inside corners that really are close to a perfect right angle. This is the strongest card in the alien deck.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "left",
+  "prompt": "Two nearly identical grey H-shaped stone blocks side by side with a tape measure between them, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The claim on screen: every H-block is identical, so they must have been cut by one machine. Let's check that against the survey."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The claim on screen: every H-block is identical, so they must have been cut by one machine. Let's check that against the survey.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 8.616
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Architect's drawing of interlocking H-shaped stone modules on old paper beside a real stone, lamp light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The architectural historians Jean-Pierre Protzen and Stella Nair measured them. Their finding: the blocks are so uniform they could be swapped with each other and still give a level surface and even joints."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The architectural historians Jean-Pierre Protzen and Stella Nair measured them. Their finding: the blocks are so uniform they could be swapped with each other and still give a level surface and even joints.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close up of tape measure showing slightly different widths on two similar stone blocks, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "But, quote, the blocks do not have the same dimensions. Similar. Standardised. Not identical. That points to a template and a skilled crew, not a machine."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But, quote, the blocks do not have the same dimensions. Similar. Standardised. Not identical. That points to a template and a skilled crew, not a machine.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Small carved stone architectural model of a gateway resting on a larger block, museum lighting, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Here is the clue that explains them. Tiwanaku carvers made scale models in stone, like the block called the Escritorio del Inca, a miniature of full-size architecture."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the clue that explains them. Tiwanaku carvers made scale models in stone, like the block called the Escritorio del Inca, a miniature of full-size architecture.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "right",
+  "prompt": "Several matching carved stone pieces laid out in a row like prefabricated parts on a workshop floor, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Many of these model stones exist in several copies. Protzen and Nair called it mass production. The H-blocks were prefabricated parts, made to fit into blind miniature gateways."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Many of these model stones exist in several copies. Protzen and Nair called it mass production. The H-blocks were prefabricated parts, made to fit into blind miniature gateways.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Lake Titicaca shoreline with a volcanic peninsula and reed boats, deep blue water, high altitude light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Second measurement on andesite: its origin. This harder, volcanic stone came from across Lake Titicaca, from the Copacabana Peninsula and Mount Ccapia, roughly ninety kilometres away."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second measurement on andesite: its origin. This harder, volcanic stone came from across Lake Titicaca, from the Copacabana Peninsula and Mount Ccapia, roughly ninety kilometres away.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "left",
+  "prompt": "Abandoned roughly carved grey stone block lying on a lake shore near reeds, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "And on the lake shore at a place called Iwawi, archaeologists found roughly shaped andesite blocks left behind on the route. Locals call them tired stones."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And on the lake shore at a place called Iwawi, archaeologists found roughly shaped andesite blocks left behind on the route. Locals call them tired stones.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 11.4
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Large totora reed raft carrying a grey stone block across a calm lake at dawn, Andean people poling it, photoreal reconstruction",
+  "lines": [
+   [
+    "narrator",
+    "That is a transport trail with evidence on it. Quarry, half-finished blocks, a lake crossing, and the finished stones at Puma Punku."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is a transport trail with evidence on it. Quarry, half-finished blocks, a lake crossing, and the finished stones at Puma Punku.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 8.808
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two carved stone blocks fitted tightly together at an angled joint, close up, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Station four. The joints. How do these stones hold together without falling apart in earthquakes?"
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STATION 4",
+   "The Joints",
+   "CRAMPS \u00b7 SOCKETS \u00b7 SEATS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station four. The joints. How do these stones hold together without falling apart in earthquakes?",
+    "file": "ep/audio/s33.mp3",
+    "dur": 6.552
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Stone block with a precisely carved angled seat, a second block cut to match sliding onto it, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The blocks interlock like a puzzle. One trick: the top of a lower stone is cut at an angle, and the stone above is cut to match, so it cannot slide off."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The blocks interlock like a puzzle. One trick: the top of a lower stone is cut at an angle, and the stone above is cut to match, so it cannot slide off.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 10.344
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro of a thin white layer between two fitted stones, scale ruler beside it, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Protzen and Nair also found a thin whitish coat, one to one and a half millimetres thick, on some stones. Possibly a mortar. So the famous no-mortar claim is not quite right either."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Protzen and Nair also found a thin whitish coat, one to one and a half millimetres thick, on some stones. Possibly a mortar. So the famous no-mortar claim is not quite right either.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close up of an I-shaped socket carved into the top surfaces of two adjoining stone blocks, metal cramp inside, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Now look at the tops. Little I-shaped and T-shaped slots run across the joints. These held metal cramps that locked neighbouring blocks together."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now look at the tops. Little I-shaped and T-shaped slots run across the joints. These held metal cramps that locked neighbouring blocks together.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.408
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Molten bronze being poured from a small clay crucible into an I-shaped stone socket, glowing metal, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Chemical analysis shows the cramps are a rare bronze of copper, arsenic and nickel. In one canal at Puma Punku, the metal was poured molten, straight into the sockets."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chemical analysis shows the cramps are a rare bronze of copper, arsenic and nickel. In one canal at Puma Punku, the metal was poured molten, straight into the sockets.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "left",
+  "prompt": "Ancient Greek marble temple blocks with I-shaped clamp sockets, Athens, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "And that technique is not alien. Ancient Greek builders used the same cramp shapes on the Erechtheion in Athens. The Egyptians used them too."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that technique is not alien. Ancient Greek builders used the same cramp shapes on the Erechtheion in Athens. The Egyptians used them too.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Same alloy small metal tools and pins laid on a cloth, museum lighting, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The same copper-arsenic-nickel bronze turns up in Tiwanaku artefacts across the region, from about AD six hundred to nine hundred. The metal fits the people and the period."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The same copper-arsenic-nickel bronze turns up in Tiwanaku artefacts across the region, from about AD six hundred to nine hundred. The metal fits the people and the period.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Experimental archaeologist at a workbench chiselling a grey andesite block with a flint tool, stone dust, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Station five. The tool test. If no machines were used, can a human with ancient tools actually carve this?"
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STATION 5",
+   "The Tool Test",
+   "EXPERIMENTAL ARCHAEOLOGY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station five. The tool test. If no machines were used, can a human with ancient tools actually carve this?",
+    "file": "ep/audio/s40.mp3",
+    "dur": 7.56
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Archaeologist reading notes beside a carved stone with sharp crisp corners, overcast, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "First, an honest admission. Protzen and Nair wrote that the crisp inside right angles were most likely not made with hammerstones. Inca stonework has rounded inner corners. Tiwanaku does not."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First, an honest admission. Protzen and Nair wrote that the crisp inside right angles were most likely not made with hammerstones. Inca stonework has rounded inner corners. Tiwanaku does not.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 14.184
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "left",
+  "prompt": "Empty display case with a label but no tools, museum, moody lighting, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "And no construction tools have been identified at the site. So the experts themselves said: we do not know exactly how they did it. Remember that, because it is true."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And no construction tools have been identified at the site. So the experts themselves said: we do not know exactly how they did it. Remember that, because it is true.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Collection of small stone tools: flint, obsidian, jasper, quartzite, hematite chisels laid out on cloth, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "So Stella Nair ran an experiment. She tested blades, flakes and thin chisels of flint, agate, jasper, obsidian, quartzite and hematite on hard andesite. Bronze tools barely worked."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So Stella Nair ran an experiment. She tested blades, flakes and thin chisels of flint, agate, jasper, obsidian, quartzite and hematite on hard andesite. Bronze tools barely worked.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 13.536
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Half-cross step design being carved into grey andesite, sharp inner corners appearing, hands with a stone chisel, photoreal macro",
+  "lines": [
+   [
+    "narrator",
+    "With stone tools, she carved a half-cross design about twenty centimetres across, with the same precision as the carvings at Puma Punku."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "With stone tools, she carved a half-cross design about twenty centimetres across, with the same precision as the carvings at Puma Punku.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 9.6
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Clock on a workshop wall beside a finished stone carving, warm lamp, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "It took forty hours, including trial and error. The researchers estimated an experienced carver would need about twenty-five."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It took forty hours, including trial and error. The researchers estimated an experienced carver would need about twenty-five.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a perfectly flat inner surface of a carved stone recess, light grazing across it, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "But one thing she could not reproduce: the perfectly flat inside surface of the carving. That part is still an open question, and we mark it as unsolved."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But one thing she could not reproduce: the perfectly flat inside surface of the carving. That part is still an open question, and we mark it as unsolved.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Team of Tiwanaku stoneworkers carving and grinding blocks in an open workshop, sand and water, photoreal reconstruction",
+  "lines": [
+   [
+    "narrator",
+    "Now scale it up. A state of tens of thousands of people, organised labour, years of work, and specialists repeating the same shapes over and over."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now scale it up. A state of tens of thousands of people, organised labour, years of work, and specialists repeating the same shapes over and over.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Tiwanaku craftsman grinding a stone face flat with a larger flat stone and sand, close up, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Grinding with sand and flat stones, checking with straight edges, repeating a proven template. Slow, but entirely human."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Grinding with sand and flat stones, checking with straight edges, repeating a proven template. Slow, but entirely human.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 8.664
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Night sky with faint moving lights above silhouetted megalithic stone ruins on a high plateau, eerie, photoreal cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Station six. The alien hypothesis, tested claim by claim."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STATION 6",
+   "The Alien Test",
+   "CLAIM BY CLAIM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station six. The alien hypothesis, tested claim by claim.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 4.32
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Paperback science book from 1968 lying on a stone with a flying saucer illustration, dramatic light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The modern version starts in nineteen sixty-eight, with Erich von D\u00e4niken's book Chariots of the Gods. Television picked it up and made Puma Punku a star."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The modern version starts in nineteen sixty-eight, with Erich von D\u00e4niken's book Chariots of the Gods. Television picked it up and made Puma Punku a star.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "TV presenter silhouette standing among scattered megaliths at sunset, film crew lights, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "On one episode, Giorgio Tsoukalos said Puma Punku is the only site on Earth that, in his opinion, was built directly by extraterrestrials. Let's test what the evidence says."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On one episode, Giorgio Tsoukalos said Puma Punku is the only site on Earth that, in his opinion, was built directly by extraterrestrials. Let's test what the evidence says.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Old archaeoastronomy diagram of the sun rising over stone pillars, sepia, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Claim one: fifteen thousand years old. That idea comes from Arthur Posnansky, who calculated star alignments at a different building, the Kalasasaya. He assumed perfect alignment to start with."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim one: fifteen thousand years old. That idea comes from Arthur Posnansky, who calculated star alignments at a different building, the Kalasasaya. He assumed perfect alignment to start with.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Soil profile in an excavation wall with a radiocarbon sample label, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The radiocarbon date from inside the mound says after AD five hundred and thirty-six. An assumption cannot beat a measurement. Claim one fails."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The radiocarbon date from inside the mound says after AD five hundred and thirty-six. An assumption cannot beat a measurement. Claim one fails.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 10.584
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Diamond tipped industrial drill bit next to a weathered ancient stone surface, studio light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Claim two: diamond drills or lasers. A laser leaves melted, glassy rims. Machines leave regular cutting marks. Nobody has published a single measurement showing either at Puma Punku."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim two: diamond drills or lasers. A laser leaves melted, glassy rims. Machines leave regular cutting marks. Nobody has published a single measurement showing either at Puma Punku.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 13.56
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Engineer comparing a modern diamond-sawn stone sample against a weathered ancient stone face on a workbench, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "On the same show, Tsoukalos visited a machinist's workshop and admitted the surface looks nothing like a diamond-cut surface. His answer: it must have eroded. That is not evidence. It is an excuse."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the same show, Tsoukalos visited a machinist's workshop and admitted the surface looks nothing like a diamond-cut surface. His answer: it must have eroded. That is not evidence. It is an excuse.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 13.8
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Set square held against a carved stone block showing a visible gap of a few degrees, photoreal close up",
+  "lines": [
+   [
+    "narrator",
+    "And when David Childress held a set square against a block on camera to prove precision angles, the square did not line up. The block was out by a few degrees."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And when David Childress held a set square against a block on camera to prove precision angles, the square did not line up. The block was out by a few degrees.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "dust",
+  "motion": "left",
+  "prompt": "Laboratory scanning electron microscope image style view of rock grains, grey tones, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Claim three: the stones are poured concrete, a geopolymer. Joseph Davidovits published papers in twenty nineteen arguing this, using microscope samples."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim three: the stones are poured concrete, a geopolymer. Joseph Davidovits published papers in twenty nineteen arguing this, using microscope samples.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Natural andesite outcrop on a volcanic slope next to a carved block of the same grey stone, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "But earlier petrographic and chemical work matched the stones to natural quarries, and abandoned blocks sit on the route from those quarries. Casting is not needed. The claim stays fringe."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But earlier petrographic and chemical work matched the stones to natural quarries, and abandoned blocks sit on the route from those quarries. Casting is not needed. The claim stays fringe.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 12.456
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Lake Titicaca shore far below a high plain, wide landscape, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Claim four: Puma Punku was a lake port. Lake Titicaca drains out about thirty metres below Tiwanaku, and its highest levels kept the shore many kilometres away. No port."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim four: Puma Punku was a lake port. Lake Titicaca drains out about thirty metres below Tiwanaku, and its highest levels kept the shore many kilometres away. No port.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "3D printed white miniature stone blocks being assembled into a small temple model on a table, researcher's hands, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "And then the strongest test of all. In twenty eighteen, Vranich modelled one hundred and forty andesite pieces and seventeen sandstone slabs, and 3D printed them at four percent scale."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then the strongest test of all. In twenty eighteen, Vranich modelled one hundred and forty andesite pieces and seventeen sandstone slabs, and 3D printed them at four percent scale.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 13.08
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Finished 3D printed miniature reconstruction of a stepped temple with gateways on a platform, studio light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The whole model cost about twelve hundred dollars. When a building was put back together, its design was immediately recognisable from older sites nearby, like Chiripa and Pukara."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The whole model cost about twelve hundred dollars. When a building was put back together, its design was immediately recognisable from older sites nearby, like Chiripa and Pukara.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient small stone storage buildings with doorways at an Andean archaeological site near a lake, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Puma Punku has local ancestors. The design grew out of Andean building traditions. Vranich called that a solid piece of evidence against the alien claim."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Puma Punku has local ancestors. The design grew out of Andean building traditions. Vranich called that a solid piece of evidence against the alien claim.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic night sky over silhouetted megalithic ruins on a plateau, lots of empty dark space, no text",
+  "lines": [
+   [
+    "narrator",
+    "Survey complete. Here is the report."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "SURVEY REPORT",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Survey complete. Here is the report.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 2.28
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic night sky over silhouetted megalithic ruins on a plateau, lots of empty dark space, no text",
+  "lines": [
+   [
+    "narrator",
+    "Built by Tiwanaku, after AD five hundred and thirty-six: evidence. Stone from known local quarries: evidence. Standardised, prefabricated H-blocks: evidence. Identical, machine-perfect blocks: false."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Built by Tiwanaku, after AD five hundred and thirty-six: evidence. Stone from known local quarries: evidence. Standardised, prefabricated H-blocks: evidence. Identical, machine-perfect blocks: false.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 16.056
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic night sky over silhouetted megalithic ruins on a plateau, lots of empty dark space, no text",
+  "lines": [
+   [
+    "narrator",
+    "Hand tools match the carving: partly, with the flat inner faces still unsolved. Eight-hundred-ton stones and a fifteen-thousand-year date: debunked. Lasers and alien builders: no evidence at all."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hand tools match the carving: partly, with the flat inner faces still unsolved. Eight-hundred-ton stones and a fifteen-thousand-year date: debunked. Lasers and alien builders: no evidence at all.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Lone grey andesite H-block on grass at golden sunset with the Andes behind, reverent mood, photoreal cinematic",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Puma Punku is not a crash site of alien technology. It is a masterpiece of engineering by the people of Tiwanaku, with standard parts, metal cramps and scale models."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Puma Punku is not a crash site of alien technology. It is a masterpiece of engineering by the people of Tiwanaku, with standard parts, metal cramps and scale models.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 13.224
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Weathered hands of an Andean stonemason resting on a carved grey stone, warm light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "There is still a real mystery here: exactly which tools made those flat inner faces. That is a question for archaeology, not for spaceships."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is still a real mystery here: exactly which tools made those flat inner faces. That is a question for archaeology, not for spaceships.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Aymara family standing proudly near the ruins of Tiwanaku at sunrise, colourful textiles, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "And giving the credit to aliens takes it away from the people who earned it. The ancestors of the Aymara built this, fourteen hundred years ago."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And giving the credit to aliens takes it away from the people who earned it. The ancestors of the Aymara built this, fourteen hundred years ago.",
+    "file": "ep/audio/s68.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "fx": "stars",
+  "motion": "up",
+  "prompt": "Starry night sky with the Milky Way over the Tiwanaku ruins and Andes, photoreal cinematic",
+  "lines": [
+   [
+    "narrator",
+    "That is the survey. More ancient mysteries are waiting, from the stars to the stones."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the survey. More ancient mysteries are waiting, from the stars to the stones.",
+    "file": "ep/audio/s69.mp3",
+    "dur": 5.376
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background with a grey stone H-block lit by warm lamp light, no text, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Subscribe so you do not miss the next case. And tell us in the comments: if you could take one instrument to Puma Punku, what would you measure first?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Subscribe so you do not miss the next case. And tell us in the comments: if you could take one instrument to Puma Punku, what would you measure first?",
+    "file": "ep/audio/s70.mp3",
+    "dur": 9.264
+   }
+  ]
+ }
+]
