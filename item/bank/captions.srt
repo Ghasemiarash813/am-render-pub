@@ -1,0 +1,887 @@
+1
+00:00:00,333 --> 00:00:06,747
+What if everything you can see, touch and remember is running on a machine you will never find?
+
+2
+00:00:06,747 --> 00:00:07,558
+Not a dream.
+
+3
+00:00:07,558 --> 00:00:08,233
+A program.
+
+4
+00:00:08,699 --> 00:00:14,029
+Elon Musk once said the chance we live in base reality is one in billions.
+
+5
+00:00:14,029 --> 00:00:17,197
+Millions of people take that idea seriously.
+
+6
+00:00:17,197 --> 00:00:20,366
+Some say the programmers are not even human.
+
+7
+00:00:20,833 --> 00:00:23,750
+So today we board a train through time.
+
+8
+00:00:23,750 --> 00:00:25,545
+Seven stops, seven eras.
+
+9
+00:00:25,545 --> 00:00:29,060
+At every stop, someone asked the same question.
+
+10
+00:00:29,060 --> 00:00:32,799
+And at the last stop, scientists tried to test it.
+
+11
+00:00:33,266 --> 00:00:36,337
+The ticket says: are we living in a simulation?
+
+12
+00:00:36,337 --> 00:00:39,082
+Evidence on one side, theory on the other.
+
+13
+00:00:39,082 --> 00:00:41,500
+And a verdict at the end of the line.
+
+14
+00:00:45,966 --> 00:00:46,700
+First stop.
+
+15
+00:00:46,700 --> 00:00:50,033
+Athens, about two thousand four hundred years ago.
+
+16
+00:00:50,500 --> 00:00:54,632
+The philosopher Plato wrote a scene that still feels modern.
+
+17
+00:00:54,632 --> 00:00:58,696
+Prisoners chained in a cave since childhood, facing a wall.
+
+18
+00:00:58,696 --> 00:01:00,899
+They can never turn their heads.
+
+19
+00:01:01,366 --> 00:01:03,133
+Behind them burns a fire.
+
+20
+00:01:03,133 --> 00:01:10,414
+Between the fire and the prisoners, people walk past carrying objects, like puppeteers behind a screen.
+
+21
+00:01:10,414 --> 00:01:13,099
+The objects throw shadows on the wall.
+
+22
+00:01:13,566 --> 00:01:17,532
+The prisoners hear echoes and think the shadows are speaking.
+
+23
+00:01:17,532 --> 00:01:20,783
+For them, the shadows are not pictures of reality.
+
+24
+00:01:20,783 --> 00:01:21,889
+They are reality.
+
+25
+00:01:21,889 --> 00:01:24,099
+The only one they have ever known.
+
+26
+00:01:24,566 --> 00:01:26,518
+Then one prisoner is freed.
+
+27
+00:01:26,518 --> 00:01:28,614
+The firelight hurts his eyes.
+
+28
+00:01:28,614 --> 00:01:31,216
+Dragged outside, the sun blinds him.
+
+29
+00:01:31,216 --> 00:01:38,299
+Slowly he sees reflections in water, then real things, then the stars, and finally the sun itself.
+
+30
+00:01:38,766 --> 00:01:40,858
+He goes back to tell the others.
+
+31
+00:01:40,858 --> 00:01:44,912
+But his eyes cannot adjust to the dark, and they laugh at him.
+
+32
+00:01:44,912 --> 00:01:48,900
+Plato says they would kill anyone who tried to drag them out.
+
+33
+00:01:49,366 --> 00:01:52,627
+It sounds like a description of a virtual world.
+
+34
+00:01:52,627 --> 00:01:56,974
+Shadows projected for an audience that cannot see the projector.
+
+35
+00:01:56,974 --> 00:02:00,166
+Some simulation fans call it the first warning.
+
+36
+00:02:00,633 --> 00:02:02,052
+But check the label.
+
+37
+00:02:02,052 --> 00:02:07,939
+Plato wrote this in his Republic to show the effect of education on the human mind.
+
+38
+00:02:07,939 --> 00:02:10,918
+The cave is about knowledge and ignorance.
+
+39
+00:02:10,918 --> 00:02:12,266
+Not about machines.
+
+40
+00:02:12,733 --> 00:02:13,580
+Second stop.
+
+41
+00:02:13,580 --> 00:02:16,966
+China, the fourth century before the common era.
+
+42
+00:02:17,433 --> 00:02:20,658
+A philosopher named Zhuangzi had a dream.
+
+43
+00:02:20,658 --> 00:02:25,849
+He was a butterfly, fluttering around, happy, doing as he pleased.
+
+44
+00:02:25,849 --> 00:02:28,366
+He did not know he was Zhuangzi.
+
+45
+00:02:28,833 --> 00:02:30,084
+Then he woke up.
+
+46
+00:02:30,084 --> 00:02:32,352
+Solid, unmistakable Zhuangzi.
+
+47
+00:02:32,352 --> 00:02:34,228
+But now he was not sure.
+
+48
+00:02:34,228 --> 00:02:37,982
+Was he a man who had dreamed he was a butterfly?
+
+49
+00:02:37,982 --> 00:02:41,266
+Or a butterfly, now dreaming it was a man?
+
+50
+00:02:41,733 --> 00:02:44,655
+He called it the transformation of things.
+
+51
+00:02:44,655 --> 00:02:48,969
+And it asks the question every simulation argument depends on.
+
+52
+00:02:48,969 --> 00:02:52,866
+From the inside, how could you ever tell the difference?
+
+53
+00:02:53,333 --> 00:02:55,159
+Think about your own dreams.
+
+54
+00:02:55,159 --> 00:02:58,225
+While you are in one, it feels completely real.
+
+55
+00:02:58,225 --> 00:03:01,356
+You only notice it was a dream when you wake up.
+
+56
+00:03:01,356 --> 00:03:03,900
+If you never wake up, you never notice.
+
+57
+00:03:04,366 --> 00:03:05,380
+Third stop.
+
+58
+00:03:05,380 --> 00:03:05,933
+India.
+
+59
+00:03:06,400 --> 00:03:09,204
+Indian philosophy has a word for this.
+
+60
+00:03:09,204 --> 00:03:09,573
+Maya.
+
+61
+00:03:09,573 --> 00:03:12,525
+In Sanskrit it means magic, or illusion.
+
+62
+00:03:12,525 --> 00:03:19,166
+At first it was the power of a god to make people believe in something that was not there.
+
+63
+00:03:19,633 --> 00:03:28,103
+Around thirteen hundred years ago, the philosopher Shankara made it central to the school called Advaita Vedanta.
+
+64
+00:03:28,103 --> 00:03:31,101
+One reality, called Brahman, unchanging.
+
+65
+00:03:31,101 --> 00:03:33,500
+The many things we see are maya.
+
+66
+00:03:33,966 --> 00:03:36,660
+The classic example is a rope at dusk.
+
+67
+00:03:36,660 --> 00:03:37,794
+You see a snake.
+
+68
+00:03:37,794 --> 00:03:38,999
+Your heart races.
+
+69
+00:03:38,999 --> 00:03:43,110
+Then someone brings a lamp, and the snake was never there.
+
+70
+00:03:43,110 --> 00:03:45,166
+It was a rope the whole time.
+
+71
+00:03:45,633 --> 00:03:47,894
+An older verse says it directly.
+
+72
+00:03:47,894 --> 00:03:54,466
+As a rope in the dark is imagined to be a snake, so the true self is imagined as many things.
+
+73
+00:03:54,933 --> 00:03:58,274
+For simulation fans, this is the closest match.
+
+74
+00:03:58,274 --> 00:04:04,033
+A whole world that feels solid, sitting on top of a deeper reality we cannot see.
+
+75
+00:04:04,500 --> 00:04:05,993
+But notice the detail.
+
+76
+00:04:05,993 --> 00:04:12,576
+In Advaita the illusion always needs something real underneath it, like the rope under the snake.
+
+77
+00:04:12,576 --> 00:04:15,291
+Nobody here is talking about a computer.
+
+78
+00:04:15,291 --> 00:04:17,666
+It is about the nature of the self.
+
+79
+00:04:18,133 --> 00:04:19,052
+Fourth stop.
+
+80
+00:04:19,052 --> 00:04:19,511
+Egypt.
+
+81
+00:04:19,511 --> 00:04:23,033
+But we arrive in December nineteen forty-five.
+
+82
+00:04:23,500 --> 00:04:30,021
+A farmer named Muhammed al-Samman was digging for soft soil to fertilise his fields.
+
+83
+00:04:30,021 --> 00:04:31,963
+He hit a sealed clay jar.
+
+84
+00:04:31,963 --> 00:04:34,835
+He was afraid a jinn might be inside.
+
+85
+00:04:34,835 --> 00:04:36,233
+He hoped for gold.
+
+86
+00:04:36,699 --> 00:04:38,347
+Instead he found books.
+
+87
+00:04:38,347 --> 00:04:45,152
+Twelve leather-bound papyrus volumes and part of a thirteenth, about sixteen hundred years old.
+
+88
+00:04:45,152 --> 00:04:50,166
+Some pages were reportedly burned as kindling before experts saw them.
+
+89
+00:04:50,633 --> 00:04:52,932
+This is the Nag Hammadi library.
+
+90
+00:04:52,932 --> 00:05:00,333
+Fifty-two texts, most of them Gnostic, from early Christian groups whose own writings were almost lost.
+
+91
+00:05:00,800 --> 00:05:02,586
+Their story is startling.
+
+92
+00:05:02,586 --> 00:05:06,159
+The world we live in was not made by the true God.
+
+93
+00:05:06,159 --> 00:05:09,660
+It was built by a lesser craftsman, the demiurge.
+
+94
+00:05:09,660 --> 00:05:12,733
+In some texts he is ignorant, even hostile.
+
+95
+00:05:13,199 --> 00:05:18,521
+And humans are trapped inside his creation, with a spark from a higher world.
+
+96
+00:05:18,521 --> 00:05:20,042
+The way out is gnosis.
+
+97
+00:05:20,042 --> 00:05:20,733
+Knowledge.
+
+98
+00:05:21,199 --> 00:05:26,752
+Swap the demiurge for a programmer and you get a story that sounds like The Matrix.
+
+99
+00:05:26,752 --> 00:05:30,966
+A false world, a hidden maker, and an escape through knowledge.
+
+100
+00:05:31,433 --> 00:05:33,368
+But again, check the label.
+
+101
+00:05:33,368 --> 00:05:37,381
+The Gnostics were talking about God, evil and salvation.
+
+102
+00:05:37,381 --> 00:05:40,176
+Their maker is a myth, not an engineer.
+
+103
+00:05:40,176 --> 00:05:41,681
+A beautiful parallel.
+
+104
+00:05:41,681 --> 00:05:42,899
+Not a prediction.
+
+105
+00:05:43,366 --> 00:05:44,176
+Fifth stop.
+
+106
+00:05:44,176 --> 00:05:46,165
+Holland, sixteen forty-one.
+
+107
+00:05:46,165 --> 00:05:47,933
+A Frenchman by the fire.
+
+108
+00:05:48,399 --> 00:05:52,333
+René Descartes wanted to find one thing he could not doubt.
+
+109
+00:05:52,333 --> 00:05:54,000
+So he doubted everything.
+
+110
+00:05:54,000 --> 00:05:59,066
+He wrote that there are no sure signs to tell being awake from being asleep.
+
+111
+00:05:59,533 --> 00:06:02,041
+Then he imagined something darker.
+
+112
+00:06:02,041 --> 00:06:06,761
+A powerful demon, using all its skill to feed him a false world.
+
+113
+00:06:06,761 --> 00:06:08,826
+Sky, earth, colours, sounds.
+
+114
+00:06:08,826 --> 00:06:09,933
+All of it fake.
+
+115
+00:06:10,399 --> 00:06:14,504
+In the twentieth century philosophers upgraded the demon.
+
+116
+00:06:14,504 --> 00:06:19,688
+A brain in a vat, wired to a computer that sends it a perfect fake life.
+
+117
+00:06:19,688 --> 00:06:23,433
+Hilary Putnam made it famous in nineteen eighty-one.
+
+118
+00:06:23,899 --> 00:06:26,302
+Descartes found his one certainty.
+
+119
+00:06:26,302 --> 00:06:27,998
+I think, therefore I am.
+
+120
+00:06:27,998 --> 00:06:31,955
+Even a demon cannot fake the fact that you are thinking.
+
+121
+00:06:31,955 --> 00:06:34,499
+But everything else stayed in doubt.
+
+122
+00:06:34,966 --> 00:06:38,863
+Bertrand Russell later gave the common-sense answer.
+
+123
+00:06:38,863 --> 00:06:42,311
+A life-long dream is not logically impossible.
+
+124
+00:06:42,311 --> 00:06:46,433
+But a real world outside us is the simpler explanation.
+
+125
+00:06:46,899 --> 00:06:47,668
+Sixth stop.
+
+126
+00:06:47,668 --> 00:06:49,066
+The machines arrive.
+
+127
+00:06:49,533 --> 00:06:56,586
+In nineteen sixty-nine, the German computer pioneer Konrad Zuse published Calculating Space.
+
+128
+00:06:56,586 --> 00:07:01,033
+His idea: the universe itself might be a kind of computer.
+
+129
+00:07:01,500 --> 00:07:07,950
+The physicist John Wheeler went further, and described physics as the flow of information.
+
+130
+00:07:07,950 --> 00:07:08,810
+It from bit.
+
+131
+00:07:08,810 --> 00:07:13,899
+The roboticist Hans Moravec wondered if future minds might simulate us.
+
+132
+00:07:14,366 --> 00:07:20,950
+Then, in two thousand three, an Oxford philosopher named Nick Bostrom published a short paper.
+
+133
+00:07:20,950 --> 00:07:23,751
+Are you living in a computer simulation?
+
+134
+00:07:23,751 --> 00:07:26,133
+It changed the whole conversation.
+
+135
+00:07:26,600 --> 00:07:29,638
+Bostrom did not say we are in a simulation.
+
+136
+00:07:29,638 --> 00:07:33,171
+He said at least one of three things must be true.
+
+137
+00:07:33,171 --> 00:07:36,633
+That structure is called the simulation argument.
+
+138
+00:07:37,100 --> 00:07:37,764
+Door one.
+
+139
+00:07:37,764 --> 00:07:44,633
+Almost every civilization like ours dies out before it gets the technology to simulate minds.
+
+140
+00:07:45,100 --> 00:07:45,736
+Door two.
+
+141
+00:07:45,736 --> 00:07:52,733
+Civilizations that do get the technology almost never choose to run simulations of their ancestors.
+
+142
+00:07:53,199 --> 00:07:53,995
+Door three.
+
+143
+00:07:53,995 --> 00:07:57,395
+We are almost certainly living in a simulation.
+
+144
+00:07:57,395 --> 00:08:03,833
+Because if simulations are run at all, simulated people would vastly outnumber real ones.
+
+145
+00:08:04,300 --> 00:08:05,787
+His numbers are wild.
+
+146
+00:08:05,787 --> 00:08:11,664
+He estimated all of human mental history at about ten to the thirty-six operations.
+
+147
+00:08:11,664 --> 00:08:18,533
+A planet-sized computer could run that using less than one millionth of its power for one second.
+
+148
+00:08:19,000 --> 00:08:22,462
+And a simulation would not need to fake everything.
+
+149
+00:08:22,462 --> 00:08:27,078
+Bostrom wrote that the inside of the Earth could be safely left out.
+
+150
+00:08:27,078 --> 00:08:30,133
+Detail only has to appear when someone looks.
+
+151
+00:08:30,600 --> 00:08:33,496
+Here is where the alien theory comes in.
+
+152
+00:08:33,496 --> 00:08:36,755
+Bostrom's simulators are our own descendants.
+
+153
+00:08:36,755 --> 00:08:42,114
+But some believers say the programmers could be any advanced civilization.
+
+154
+00:08:42,114 --> 00:08:44,866
+Aliens running Earth as an experiment.
+
+155
+00:08:45,333 --> 00:08:47,148
+And Bostrom's own advice?
+
+156
+00:08:47,148 --> 00:08:54,628
+In the dark forest of our ignorance, he said, split your belief roughly evenly between the three doors.
+
+157
+00:08:54,628 --> 00:08:56,371
+Not ninety-nine percent.
+
+158
+00:08:56,371 --> 00:08:57,533
+About one third.
+
+159
+00:08:58,000 --> 00:08:58,781
+Final stop.
+
+160
+00:08:58,781 --> 00:08:59,349
+The lab.
+
+161
+00:08:59,349 --> 00:09:02,333
+Can physics actually catch the programmer?
+
+162
+00:09:02,799 --> 00:09:04,593
+Test one, twenty twelve.
+
+163
+00:09:04,593 --> 00:09:10,647
+Physicists Silas Beane, Zohreh Davoudi and Martin Savage asked a simple question.
+
+164
+00:09:10,647 --> 00:09:14,833
+If space is computed on a grid, could we see the pixels?
+
+165
+00:09:15,299 --> 00:09:19,418
+The best place to look is the most energetic cosmic rays.
+
+166
+00:09:19,418 --> 00:09:22,958
+A grid would make them prefer certain directions.
+
+167
+00:09:22,958 --> 00:09:27,582
+Their paper set a limit on how tiny the pixels would have to be.
+
+168
+00:09:27,582 --> 00:09:30,399
+So far, no grid pattern has been found.
+
+169
+00:09:30,866 --> 00:09:31,530
+Test two.
+
+170
+00:09:31,530 --> 00:09:43,700
+At Fermilab near Chicago, a two point five million dollar machine called the Holometer used two laser beams forty metres long to listen for a jitter in space itself.
+
+171
+00:09:44,166 --> 00:09:49,346
+After a year of data, in December twenty fifteen, the answer came back.
+
+172
+00:09:49,346 --> 00:09:50,075
+No jitter.
+
+173
+00:09:50,075 --> 00:09:55,328
+One model of a pixelated universe was ruled out at four point six sigma.
+
+174
+00:09:55,328 --> 00:09:56,933
+Others are still open.
+
+175
+00:09:57,399 --> 00:09:59,930
+Test three is a lesson in headlines.
+
+176
+00:09:59,930 --> 00:10:09,000
+In twenty seventeen, an Oxford paper showed some quantum effects cannot be efficiently simulated by one standard computer method.
+
+177
+00:10:09,466 --> 00:10:13,440
+The internet called it proof that we are not in a simulation.
+
+178
+00:10:13,440 --> 00:10:15,329
+The paper never claimed that.
+
+179
+00:10:15,329 --> 00:10:19,433
+It was about the limits of one method, on our kind of computer.
+
+180
+00:10:19,899 --> 00:10:21,670
+Test four is still fresh.
+
+181
+00:10:21,670 --> 00:10:32,933
+In twenty twenty-five, a team including Mir Faizal and Lawrence Krauss used Gödel's incompleteness theorem to argue the universe cannot be a simulation at all.
+
+182
+00:10:33,399 --> 00:10:35,518
+Critics replied within weeks.
+
+183
+00:10:35,518 --> 00:10:39,172
+Undecidable means you cannot prove certain things.
+
+184
+00:10:39,172 --> 00:10:41,948
+It does not mean a program cannot run.
+
+185
+00:10:41,948 --> 00:10:47,866
+Simple simulations already contain undecidable questions, and they run just fine.
+
+186
+00:10:48,333 --> 00:10:49,313
+And the odds?
+
+187
+00:10:49,313 --> 00:10:55,874
+Astronomer David Kipping ran the argument through Bayesian statistics in twenty twenty.
+
+188
+00:10:55,874 --> 00:11:00,926
+His result: slightly less than fifty percent that we are simulated.
+
+189
+00:11:00,926 --> 00:11:02,133
+Not ninety-nine.
+
+190
+00:11:02,600 --> 00:11:04,149
+The critics are blunt.
+
+191
+00:11:04,149 --> 00:11:07,179
+Sabine Hossenfelder calls it pseudoscience.
+
+192
+00:11:07,179 --> 00:11:09,997
+Frank Wilczek asks the hardest question.
+
+193
+00:11:09,997 --> 00:11:15,633
+If this world is simulated, what is the computer made of, and whose laws run it?
+
+194
+00:11:16,100 --> 00:11:17,040
+End of the line.
+
+195
+00:11:17,040 --> 00:11:18,333
+Here is the scorecard.
+
+196
+00:11:18,799 --> 00:11:23,487
+Ancient thinkers doubted the senses: evidence, the texts survive.
+
+197
+00:11:23,487 --> 00:11:28,967
+Ancients described a computer simulation: no evidence, those were metaphors.
+
+198
+00:11:28,967 --> 00:11:34,592
+Bostrom's three doors: partial, the logic works but the premises are unproven.
+
+199
+00:11:34,592 --> 00:11:36,899
+A pixel grid in space: not seen.
+
+200
+00:11:37,366 --> 00:11:41,562
+Holographic jitter of space: ruled out, for one model.
+
+201
+00:11:41,562 --> 00:11:45,291
+Physics proves we cannot be simulated: disputed.
+
+202
+00:11:45,291 --> 00:11:47,933
+We live in a simulation: unproven.
+
+203
+00:11:48,399 --> 00:11:49,319
+The verdict.
+
+204
+00:11:49,319 --> 00:11:52,769
+The simulation hypothesis is not a discovery.
+
+205
+00:11:52,769 --> 00:11:57,139
+It is one of humanity's oldest questions, in new clothes.
+
+206
+00:11:57,139 --> 00:12:04,499
+Plato's shadows, Zhuangzi's butterfly, Shankara's rope, the Gnostic craftsman, Descartes' demon.
+
+207
+00:12:04,966 --> 00:12:07,770
+Every test so far has come back empty.
+
+208
+00:12:07,770 --> 00:12:08,508
+No pixels.
+
+209
+00:12:08,508 --> 00:12:09,246
+No glitch.
+
+210
+00:12:09,246 --> 00:12:11,533
+No message from the programmer.
+
+211
+00:12:11,533 --> 00:12:13,820
+But no proof against it either.
+
+212
+00:12:13,820 --> 00:12:17,804
+That is exactly what makes it philosophy, not science.
+
+213
+00:12:17,804 --> 00:12:18,100
+Yet.
+
+214
+00:12:18,566 --> 00:12:22,015
+And maybe Bostrom said the wisest part himself.
+
+215
+00:12:22,015 --> 00:12:27,664
+Even if it is a simulation, the world we see is still the only guide we have.
+
+216
+00:12:27,664 --> 00:12:30,746
+The people you love are still real to you.
+
+217
+00:12:30,746 --> 00:12:31,700
+Live like it.
+
+218
+00:12:32,166 --> 00:12:33,573
+That is the case file.
+
+219
+00:12:33,573 --> 00:12:36,899
+More ancient mysteries are waiting at the next stop.
+
+220
+00:12:37,366 --> 00:12:39,510
+Subscribe so you do not miss it.
+
+221
+00:12:39,510 --> 00:12:43,127
+And tell us in the comments: which door do you choose?
+
+222
+00:12:43,127 --> 00:12:44,399
+One, two, or three?

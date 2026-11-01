@@ -1,0 +1,1491 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A human eye in extreme close-up reflecting a glowing grid of green digital code, dark background, cinematic photoreal, film grain",
+  "lines": [
+   [
+    "narrator",
+    "What if everything you can see, touch and remember is running on a machine you will never find? Not a dream. A program."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What if everything you can see, touch and remember is running on a machine you will never find? Not a dream. A program.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 7.872
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Lone person standing on a hill at night looking up at a starry sky where a faint square pixel grid is visible in the stars, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Elon Musk once said the chance we live in base reality is one in billions. Millions of people take that idea seriously. Some say the programmers are not even human."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Elon Musk once said the chance we live in base reality is one in billions. Millions of people take that idea seriously. Some say the programmers are not even human.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Antique brass time-travel train carriage interior with a glowing route map on the wall showing seven stops, warm lamps, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "So today we board a train through time. Seven stops, seven eras. At every stop, someone asked the same question. And at the last stop, scientists tried to test it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So today we board a train through time. Seven stops, seven eras. At every stop, someone asked the same question. And at the last stop, scientists tried to test it.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Vintage railway ticket and pocket watch on a velvet seat, golden light, shallow depth of field, photoreal, no readable text",
+  "lines": [
+   [
+    "narrator",
+    "The ticket says: are we living in a simulation? Evidence on one side, theory on the other. And a verdict at the end of the line."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The ticket says: are we living in a simulation? Evidence on one side, theory on the other. And a verdict at the end of the line.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 8.208
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Athens at dusk, the Acropolis on its hill glowing in warm light, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "First stop. Athens, about two thousand four hundred years ago."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STOP 1",
+   "Athens",
+   "PLATO \u00b7 c. 375 BC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First stop. Athens, about two thousand four hundred years ago.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 4.056
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Dark cave interior, chained prisoners seen from behind facing a rock wall covered in flickering shadows of objects, firelight, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The philosopher Plato wrote a scene that still feels modern. Prisoners chained in a cave since childhood, facing a wall. They can never turn their heads."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The philosopher Plato wrote a scene that still feels modern. Prisoners chained in a cave since childhood, facing a wall. They can never turn their heads.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "dust",
+  "motion": "left",
+  "prompt": "Behind a low stone wall in a cave, figures carrying wooden statues and objects above their heads in front of a large fire, puppeteer style, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Behind them burns a fire. Between the fire and the prisoners, people walk past carrying objects, like puppeteers behind a screen. The objects throw shadows on the wall."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Behind them burns a fire. Between the fire and the prisoners, people walk past carrying objects, like puppeteers behind a screen. The objects throw shadows on the wall.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cave wall with flickering shadow shapes of animals and people, echoing atmosphere, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The prisoners hear echoes and think the shadows are speaking. For them, the shadows are not pictures of reality. They are reality. The only one they have ever known."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The prisoners hear echoes and think the shadows are speaking. For them, the shadows are not pictures of reality. They are reality. The only one they have ever known.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A freed man shielding his eyes from blinding sunlight at the mouth of a cave, dramatic backlight, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Then one prisoner is freed. The firelight hurts his eyes. Dragged outside, the sun blinds him. Slowly he sees reflections in water, then real things, then the stars, and finally the sun itself."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then one prisoner is freed. The firelight hurts his eyes. Dragged outside, the sun blinds him. Slowly he sees reflections in water, then real things, then the stars, and finally the sun itself.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.728
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Man re-entering a dark cave, other prisoners turning toward him angrily, firelight, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "He goes back to tell the others. But his eyes cannot adjust to the dark, and they laugh at him. Plato says they would kill anyone who tried to drag them out."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He goes back to tell the others. But his eyes cannot adjust to the dark, and they laugh at him. Plato says they would kill anyone who tried to drag them out.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Rendered side by side feel: shadows on a cave wall morphing into green computer code on a dark screen, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "It sounds like a description of a virtual world. Shadows projected for an audience that cannot see the projector. Some simulation fans call it the first warning."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It sounds like a description of a virtual world. Shadows projected for an audience that cannot see the projector. Some simulation fans call it the first warning.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Classical marble bust of Plato in a museum, soft light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "But check the label. Plato wrote this in his Republic to show the effect of education on the human mind. The cave is about knowledge and ignorance. Not about machines."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But check the label. Plato wrote this in his Republic to show the effect of education on the human mind. The cave is about knowledge and ignorance. Not about machines.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 11.616
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Misty mountains and a river in ancient China at dawn, a small wooden pavilion, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Second stop. China, the fourth century before the common era."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STOP 2",
+   "China",
+   "ZHUANGZI \u00b7 4TH C. BC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second stop. China, the fourth century before the common era.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 4.224
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Ancient Chinese philosopher in robes asleep under a tree, a glowing butterfly hovering above him, dreamy light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "A philosopher named Zhuangzi had a dream. He was a butterfly, fluttering around, happy, doing as he pleased. He did not know he was Zhuangzi."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A philosopher named Zhuangzi had a dream. He was a butterfly, fluttering around, happy, doing as he pleased. He did not know he was Zhuangzi.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a colorful butterfly resting on an open hand, soft focus, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Then he woke up. Solid, unmistakable Zhuangzi. But now he was not sure. Was he a man who had dreamed he was a butterfly? Or a butterfly, now dreaming it was a man?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then he woke up. Solid, unmistakable Zhuangzi. But now he was not sure. Was he a man who had dreamed he was a butterfly? Or a butterfly, now dreaming it was a man?",
+    "file": "ep/audio/s15.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ink brush calligraphy on rice paper with a butterfly painting, warm lamp, photoreal, no readable text",
+  "lines": [
+   [
+    "narrator",
+    "He called it the transformation of things. And it asks the question every simulation argument depends on. From the inside, how could you ever tell the difference?"
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He called it the transformation of things. And it asks the question every simulation argument depends on. From the inside, how could you ever tell the difference?",
+    "file": "ep/audio/s16.mp3",
+    "dur": 11.112
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Person waking in bed at night, a faint digital glitch effect in the dark room, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Think about your own dreams. While you are in one, it feels completely real. You only notice it was a dream when you wake up. If you never wake up, you never notice."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Think about your own dreams. While you are in one, it feels completely real. You only notice it was a dream when you wake up. If you never wake up, you never notice.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Ancient Indian temple at sunrise with river ghats and incense smoke, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Third stop. India."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STOP 3",
+   "India",
+   "MAYA \u00b7 THE GREAT ILLUSION"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Third stop. India.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 1.536
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Hindu sage meditating by a river at dawn, golden light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Indian philosophy has a word for this. Maya. In Sanskrit it means magic, or illusion. At first it was the power of a god to make people believe in something that was not there."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Indian philosophy has a word for this. Maya. In Sanskrit it means magic, or illusion. At first it was the power of a god to make people believe in something that was not there.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient Indian scholar writing on palm-leaf manuscripts by oil lamp, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Around thirteen hundred years ago, the philosopher Shankara made it central to the school called Advaita Vedanta. One reality, called Brahman, unchanging. The many things we see are maya."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around thirteen hundred years ago, the philosopher Shankara made it central to the school called Advaita Vedanta. One reality, called Brahman, unchanging. The many things we see are maya.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A coiled rope lying on a dusty path at dusk, looking like a snake in dim light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The classic example is a rope at dusk. You see a snake. Your heart races. Then someone brings a lamp, and the snake was never there. It was a rope the whole time."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The classic example is a rope at dusk. You see a snake. Your heart races. Then someone brings a lamp, and the snake was never there. It was a rope the whole time.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Oil lamp illuminating a rope on the ground, revealing it is not a snake, warm light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "An older verse says it directly. As a rope in the dark is imagined to be a snake, so the true self is imagined as many things."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "An older verse says it directly. As a rope in the dark is imagined to be a snake, so the true self is imagined as many things.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 8.808
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Swirling cosmic nebula forming the shape of a veil over planets, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "For simulation fans, this is the closest match. A whole world that feels solid, sitting on top of a deeper reality we cannot see."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For simulation fans, this is the closest match. A whole world that feels solid, sitting on top of a deeper reality we cannot see.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Rope and lamp on a temple floor, calm still life, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "But notice the detail. In Advaita the illusion always needs something real underneath it, like the rope under the snake. Nobody here is talking about a computer. It is about the nature of the self."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But notice the detail. In Advaita the illusion always needs something real underneath it, like the rope under the snake. Nobody here is talking about a computer. It is about the nature of the self.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 13.152
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Egyptian desert cliffs near the Nile at sunset, a clay jar half buried at the foot of a boulder, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Fourth stop. Egypt. But we arrive in December nineteen forty-five."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STOP 4",
+   "Egypt",
+   "NAG HAMMADI \u00b7 1945"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fourth stop. Egypt. But we arrive in December nineteen forty-five.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 4.872
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Egyptian farmer in 1940s clothing digging soil with a hoe at the foot of a cliff, a sealed red clay jar appearing, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "A farmer named Muhammed al-Samman was digging for soft soil to fertilise his fields. He hit a sealed clay jar. He was afraid a jinn might be inside. He hoped for gold."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A farmer named Muhammed al-Samman was digging for soft soil to fertilise his fields. He hit a sealed clay jar. He was afraid a jinn might be inside. He hoped for gold.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Ancient leather-bound papyrus codices spilling from a broken clay jar, warm light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Instead he found books. Twelve leather-bound papyrus volumes and part of a thirteenth, about sixteen hundred years old. Some pages were reportedly burned as kindling before experts saw them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Instead he found books. Twelve leather-bound papyrus volumes and part of a thirteenth, about sixteen hundred years old. Some pages were reportedly burned as kindling before experts saw them.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Museum display of a fragile papyrus codex page with Coptic script, soft light, photoreal, no readable text",
+  "lines": [
+   [
+    "narrator",
+    "This is the Nag Hammadi library. Fifty-two texts, most of them Gnostic, from early Christian groups whose own writings were almost lost."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is the Nag Hammadi library. Fifty-two texts, most of them Gnostic, from early Christian groups whose own writings were almost lost.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 9.672
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A shadowy lesser god figure with a lion-like face building a glowing world from light and clay in a dark cosmos, mythic, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Their story is startling. The world we live in was not made by the true God. It was built by a lesser craftsman, the demiurge. In some texts he is ignorant, even hostile."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their story is startling. The world we live in was not made by the true God. It was built by a lesser craftsman, the demiurge. In some texts he is ignorant, even hostile.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 11.904
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Human figure reaching upward through layers of glowing light toward a bright point, mystical cinematic",
+  "lines": [
+   [
+    "narrator",
+    "And humans are trapped inside his creation, with a spark from a higher world. The way out is gnosis. Knowledge."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And humans are trapped inside his creation, with a spark from a higher world. The way out is gnosis. Knowledge.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 7.512
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Glowing green computer code forming the shape of a robed creator figure, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Swap the demiurge for a programmer and you get a story that sounds like The Matrix. A false world, a hidden maker, and an escape through knowledge."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Swap the demiurge for a programmer and you get a story that sounds like The Matrix. A false world, a hidden maker, and an escape through knowledge.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 9.744
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Ancient papyrus and a modern laptop side by side on a desk, warm light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "But again, check the label. The Gnostics were talking about God, evil and salvation. Their maker is a myth, not an engineer. A beautiful parallel. Not a prediction."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But again, check the label. The Gnostics were talking about God, evil and salvation. Their maker is a myth, not an engineer. A beautiful parallel. Not a prediction.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "17th century study with candles, quill, books and a fireplace, a philosopher writing at night, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Fifth stop. Holland, sixteen forty-one. A Frenchman by the fire."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STOP 5",
+   "1641",
+   "DESCARTES \u00b7 THE DEMON"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fifth stop. Holland, sixteen forty-one. A Frenchman by the fire.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 4.56
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Portrait style photoreal recreation of a 17th century philosopher with long hair writing by candlelight",
+  "lines": [
+   [
+    "narrator",
+    "Ren\u00e9 Descartes wanted to find one thing he could not doubt. So he doubted everything. He wrote that there are no sure signs to tell being awake from being asleep."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ren\u00e9 Descartes wanted to find one thing he could not doubt. So he doubted everything. He wrote that there are no sure signs to tell being awake from being asleep.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 10.656
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A sinister shadowy figure behind a seated man, puppet strings of light running to his head, dark candlelit room, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Then he imagined something darker. A powerful demon, using all its skill to feed him a false world. Sky, earth, colours, sounds. All of it fake."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then he imagined something darker. A powerful demon, using all its skill to feed him a false world. Sky, earth, colours, sounds. All of it fake.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.392
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Human brain floating in a glass vat of liquid connected to wires and a computer, laboratory, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "In the twentieth century philosophers upgraded the demon. A brain in a vat, wired to a computer that sends it a perfect fake life. Hilary Putnam made it famous in nineteen eighty-one."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the twentieth century philosophers upgraded the demon. A brain in a vat, wired to a computer that sends it a perfect fake life. Hilary Putnam made it famous in nineteen eighty-one.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Candle flame close-up with a reflection of a man's eye, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Descartes found his one certainty. I think, therefore I am. Even a demon cannot fake the fact that you are thinking. But everything else stayed in doubt."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Descartes found his one certainty. I think, therefore I am. Even a demon cannot fake the fact that you are thinking. But everything else stayed in doubt.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 10.584
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Old philosopher reading in a library, calm light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Bertrand Russell later gave the common-sense answer. A life-long dream is not logically impossible. But a real world outside us is the simpler explanation."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Bertrand Russell later gave the common-sense answer. A life-long dream is not logically impossible. But a real world outside us is the simpler explanation.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Early room-sized computer with blinking lights and magnetic tape reels, 1960s laboratory, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Sixth stop. The machines arrive."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STOP 6",
+   "1969 \u2192 2003",
+   "THE COMPUTER AGE \u00b7 BOSTROM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Sixth stop. The machines arrive.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 2.16
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "German engineer in the 1960s beside an early computer and handwritten diagrams, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen sixty-nine, the German computer pioneer Konrad Zuse published Calculating Space. His idea: the universe itself might be a kind of computer."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen sixty-nine, the German computer pioneer Konrad Zuse published Calculating Space. His idea: the universe itself might be a kind of computer.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Glowing binary code flowing through outer space forming galaxies, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "The physicist John Wheeler went further, and described physics as the flow of information. It from bit. The roboticist Hans Moravec wondered if future minds might simulate us."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The physicist John Wheeler went further, and described physics as the flow of information. It from bit. The roboticist Hans Moravec wondered if future minds might simulate us.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Oxford university stone courtyard on a grey day, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Then, in two thousand three, an Oxford philosopher named Nick Bostrom published a short paper. Are you living in a computer simulation? It changed the whole conversation."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, in two thousand three, an Oxford philosopher named Nick Bostrom published a short paper. Are you living in a computer simulation? It changed the whole conversation.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Three glowing doors in a dark void, each marked by a different light color, cinematic, no text",
+  "lines": [
+   [
+    "narrator",
+    "Bostrom did not say we are in a simulation. He said at least one of three things must be true. That structure is called the simulation argument."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Bostrom did not say we are in a simulation. He said at least one of three things must be true. That structure is called the simulation argument.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ruined futuristic city overgrown with plants under a red sky, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Door one. Almost every civilization like ours dies out before it gets the technology to simulate minds."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Door one. Almost every civilization like ours dies out before it gets the technology to simulate minds.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 7.512
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Advanced alien or posthuman civilization of glowing towers choosing to switch off giant computers, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Door two. Civilizations that do get the technology almost never choose to run simulations of their ancestors."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Door two. Civilizations that do get the technology almost never choose to run simulations of their ancestors.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 7.632
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Endless rows of glowing server racks stretching into darkness, each containing tiny worlds, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Door three. We are almost certainly living in a simulation. Because if simulations are run at all, simulated people would vastly outnumber real ones."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Door three. We are almost certainly living in a simulation. Because if simulations are run at all, simulated people would vastly outnumber real ones.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a futuristic glowing computer chip the size of a planet, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "His numbers are wild. He estimated all of human mental history at about ten to the thirty-six operations. A planet-sized computer could run that using less than one millionth of its power for one second."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His numbers are wild. He estimated all of human mental history at about ten to the thirty-six operations. A planet-sized computer could run that using less than one millionth of its power for one second.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wireframe Earth with only the surface rendered in detail and the interior empty, cinematic digital art",
+  "lines": [
+   [
+    "narrator",
+    "And a simulation would not need to fake everything. Bostrom wrote that the inside of the Earth could be safely left out. Detail only has to appear when someone looks."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And a simulation would not need to fake everything. Bostrom wrote that the inside of the Earth could be safely left out. Detail only has to appear when someone looks.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 11.112
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Glowing alien silhouettes watching a miniature Earth inside a glass sphere, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Here is where the alien theory comes in. Bostrom's simulators are our own descendants. But some believers say the programmers could be any advanced civilization. Aliens running Earth as an experiment."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is where the alien theory comes in. Bostrom's simulators are our own descendants. But some believers say the programmers could be any advanced civilization. Aliens running Earth as an experiment.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 14.256
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Philosopher standing in a dark forest at night holding a lantern, three paths ahead, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "And Bostrom's own advice? In the dark forest of our ignorance, he said, split your belief roughly evenly between the three doors. Not ninety-nine percent. About one third."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And Bostrom's own advice? In the dark forest of our ignorance, he said, split your belief roughly evenly between the three doors. Not ninety-nine percent. About one third.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Modern physics laboratory with laser beams, vacuum chambers and blinking equipment, blue light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Final stop. The lab. Can physics actually catch the programmer?"
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STOP 7",
+   "The Lab",
+   "PHYSICS ON TRIAL \u00b7 2012\u20132025"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Final stop. The lab. Can physics actually catch the programmer?",
+    "file": "ep/audio/s51.mp3",
+    "dur": 4.32
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Visualization of a 3D cubic lattice grid overlaying space with a cosmic ray streaking through it, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Test one, twenty twelve. Physicists Silas Beane, Zohreh Davoudi and Martin Savage asked a simple question. If space is computed on a grid, could we see the pixels?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test one, twenty twelve. Physicists Silas Beane, Zohreh Davoudi and Martin Savage asked a simple question. If space is computed on a grid, could we see the pixels?",
+    "file": "ep/audio/s52.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Ultra-high-energy cosmic ray particle shower hitting Earth's atmosphere, scientific visualization, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "The best place to look is the most energetic cosmic rays. A grid would make them prefer certain directions. Their paper set a limit on how tiny the pixels would have to be. So far, no grid pattern has been found."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The best place to look is the most energetic cosmic rays. A grid would make them prefer certain directions. Their paper set a limit on how tiny the pixels would have to be. So far, no grid pattern has been found.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 15.072
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Long laser interferometer tunnel with steel vacuum tubes and mirrors, Fermilab style, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Test two. At Fermilab near Chicago, a two point five million dollar machine called the Holometer used two laser beams forty metres long to listen for a jitter in space itself."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test two. At Fermilab near Chicago, a two point five million dollar machine called the Holometer used two laser beams forty metres long to listen for a jitter in space itself.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 12.816
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Scientist looking at flat noise graphs on monitors in a dark control room, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "After a year of data, in December twenty fifteen, the answer came back. No jitter. One model of a pixelated universe was ruled out at four point six sigma. Others are still open."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "After a year of data, in December twenty fifteen, the answer came back. No jitter. One model of a pixelated universe was ruled out at four point six sigma. Others are still open.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Newspaper-style glowing headlines floating in darkness, blurred, no readable text, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Test three is a lesson in headlines. In twenty seventeen, an Oxford paper showed some quantum effects cannot be efficiently simulated by one standard computer method."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test three is a lesson in headlines. In twenty seventeen, an Oxford paper showed some quantum effects cannot be efficiently simulated by one standard computer method.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Fact checker with a red pen circling a headline on a screen, photoreal, no readable text",
+  "lines": [
+   [
+    "narrator",
+    "The internet called it proof that we are not in a simulation. The paper never claimed that. It was about the limits of one method, on our kind of computer."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The internet called it proof that we are not in a simulation. The paper never claimed that. It was about the limits of one method, on our kind of computer.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 9.936
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Chalkboard covered with equations and the symbol of a mathematical proof, dramatic light, photoreal, no readable text",
+  "lines": [
+   [
+    "narrator",
+    "Test four is still fresh. In twenty twenty-five, a team including Mir Faizal and Lawrence Krauss used G\u00f6del's incompleteness theorem to argue the universe cannot be a simulation at all."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test four is still fresh. In twenty twenty-five, a team including Mir Faizal and Lawrence Krauss used G\u00f6del's incompleteness theorem to argue the universe cannot be a simulation at all.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 13.008
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Conway's Game of Life cellular automaton patterns glowing on a dark screen, cinematic",
+  "lines": [
+   [
+    "narrator",
+    "Critics replied within weeks. Undecidable means you cannot prove certain things. It does not mean a program cannot run. Simple simulations already contain undecidable questions, and they run just fine."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Critics replied within weeks. Undecidable means you cannot prove certain things. It does not mean a program cannot run. Simple simulations already contain undecidable questions, and they run just fine.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Astronomer at a desk calculating probabilities with a starry window behind, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "And the odds? Astronomer David Kipping ran the argument through Bayesian statistics in twenty twenty. His result: slightly less than fifty percent that we are simulated. Not ninety-nine."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the odds? Astronomer David Kipping ran the argument through Bayesian statistics in twenty twenty. His result: slightly less than fifty percent that we are simulated. Not ninety-nine.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Two scientists debating in front of a whiteboard, one pointing at a question mark, photoreal, no readable text",
+  "lines": [
+   [
+    "narrator",
+    "The critics are blunt. Sabine Hossenfelder calls it pseudoscience. Frank Wilczek asks the hardest question. If this world is simulated, what is the computer made of, and whose laws run it?"
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The critics are blunt. Sabine Hossenfelder calls it pseudoscience. Frank Wilczek asks the hardest question. If this world is simulated, what is the computer made of, and whose laws run it?",
+    "file": "ep/audio/s61.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic railway station at night with a single lamp, lots of empty dark space, no text",
+  "lines": [
+   [
+    "narrator",
+    "End of the line. Here is the scorecard."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VERDICT",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "End of the line. Here is the scorecard.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 2.208
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic railway station at night with a single lamp, lots of empty dark space, no text",
+  "lines": [
+   [
+    "narrator",
+    "Ancient thinkers doubted the senses: evidence, the texts survive. Ancients described a computer simulation: no evidence, those were metaphors. Bostrom's three doors: partial, the logic works but the premises are unproven. A pixel grid in space: not seen."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ancient thinkers doubted the senses: evidence, the texts survive. Ancients described a computer simulation: no evidence, those were metaphors. Bostrom's three doors: partial, the logic works but the premises are unproven. A pixel grid in space: not seen.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 18.096
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic railway station at night with a single lamp, lots of empty dark space, no text",
+  "lines": [
+   [
+    "narrator",
+    "Holographic jitter of space: ruled out, for one model. Physics proves we cannot be simulated: disputed. We live in a simulation: unproven."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Holographic jitter of space: ruled out, for one model. Physics proves we cannot be simulated: disputed. We live in a simulation: unproven.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 10.536
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Lone traveler stepping off a train onto a misty platform at dawn, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The simulation hypothesis is not a discovery. It is one of humanity's oldest questions, in new clothes. Plato's shadows, Zhuangzi's butterfly, Shankara's rope, the Gnostic craftsman, Descartes' demon."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The simulation hypothesis is not a discovery. It is one of humanity's oldest questions, in new clothes. Plato's shadows, Zhuangzi's butterfly, Shankara's rope, the Gnostic craftsman, Descartes' demon.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 16.08
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a hand touching a sunlit stone wall, warm real texture, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "Every test so far has come back empty. No pixels. No glitch. No message from the programmer. But no proof against it either. That is exactly what makes it philosophy, not science. Yet."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every test so far has come back empty. No pixels. No glitch. No message from the programmer. But no proof against it either. That is exactly what makes it philosophy, not science. Yet.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Family laughing around a dinner table in warm evening light, photoreal",
+  "lines": [
+   [
+    "narrator",
+    "And maybe Bostrom said the wisest part himself. Even if it is a simulation, the world we see is still the only guide we have. The people you love are still real to you. Live like it."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And maybe Bostrom said the wisest part himself. Even if it is a simulation, the world we see is still the only guide we have. The people you love are still real to you. Live like it.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "fx": "stars",
+  "motion": "up",
+  "prompt": "Starry night sky with a faint shimmer like a screen, over a quiet landscape, cinematic photoreal",
+  "lines": [
+   [
+    "narrator",
+    "That is the case file. More ancient mysteries are waiting at the next stop."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the case file. More ancient mysteries are waiting at the next stop.",
+    "file": "ep/audio/s68.mp3",
+    "dur": 4.704
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a glowing golden butterfly drifting among stars, no text",
+  "lines": [
+   [
+    "narrator",
+    "Subscribe so you do not miss it. And tell us in the comments: which door do you choose? One, two, or three?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Subscribe so you do not miss it. And tell us in the comments: which door do you choose? One, two, or three?",
+    "file": "ep/audio/s69.mp3",
+    "dur": 7.008
+   }
+  ]
+ }
+]
