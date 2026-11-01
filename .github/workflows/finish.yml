@@ -1,0 +1,53 @@
+name: finish
+run-name: finish ${{ inputs.slug }}
+on:
+  workflow_dispatch:
+    inputs:
+      slug: { required: true }
+      tag: { description: "release holding the cs*.mp4 segments (out-<slug>-<render run id>)", required: true }
+permissions:
+  contents: write
+env:
+  SLUG: ${{ inputs.slug }}
+  TAG: ${{ inputs.tag }}
+  R: /workspace/projects/135872d5-70e2-46c7-af0f-bc6c101de728
+jobs:
+  finish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with: { ref: "item/${{ inputs.slug }}", path: itm }
+      - name: tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          pip install --quiet numpy soundfile || pip install --quiet --break-system-packages numpy soundfile
+          ffmpeg -version | head -1
+      - name: replicate sandbox layout
+        run: |
+          sudo mkdir -p $R/pipeline && sudo chown -R $USER $R
+          ln -s $GITHUB_WORKSPACE $R/pipeline/pyramid-ai
+          B=$R/pipeline/bank; mkdir -p $B/cloud $B/oumuamua-atlas/dub $B/$SLUG
+          cp bank/finish_item.sh bank/finalize_ready.py $B/; cp bank/cloud/shorts_lib.py $B/cloud/; cp bank/_dubfallback/dub_b2.py $B/oumuamua-atlas/dub/
+          cp -r itm/item/bank/. $B/$SLUG/; mkdir -p $B/$SLUG/audio; cp itm/item/audio/*.mp3 $B/$SLUG/audio/; cp itm/item/music.wav $B/$SLUG/
+          touch $B/render.lock $B/$SLUG/CLOUD_RENDER
+          echo "FONTCONFIG_FILE=$GITHUB_WORKSPACE/fonts/fonts.conf" >> "$GITHUB_ENV"
+          ls -R $B/$SLUG | head -40
+      - name: segments
+        run: gh release download "$TAG" -p 'cs*.mp4' -D $R/pipeline/bank/$SLUG -R "$GITHUB_REPOSITORY" && ls -la $R/pipeline/bank/$SLUG/*.mp4
+        env: { GH_TOKEN: "${{ github.token }}" }
+      - name: finish (audio mix, loudnorm mux, upload copy, 5 Shorts) - same finish_item.sh as the sandbox
+        run: |
+          cd $R/pipeline/bank; start=$(date +%s)
+          CLOUD_OK=1 bash finish_item.sh $SLUG 2>&1 | tee finish.log
+          echo "finish seconds $(( $(date +%s) - start ))" | tee -a finish.log
+          grep -q "mux frames=" finish.log
+      - name: upload outputs
+        run: |
+          E=$R/pipeline/bank/$SLUG; cd $E
+          M=$(ls *.mp4 | grep -v -- '-upload.mp4' | grep -v '^cs' | head -1); U=$(ls *-upload.mp4 | head -1)
+          tar cf shorts.tar shorts; cp $R/pipeline/bank/finish.log finish.log; [ -f shorts.log ] && cat shorts.log >> finish.log
+          ls -la "$M" "$U" shorts.tar
+          gh release upload "$TAG" "$M" "$U" shorts.tar finish.log --clobber -R "$GITHUB_REPOSITORY"
+        env: { GH_TOKEN: "${{ github.token }}" }
