@@ -1,0 +1,1380 @@
+{
+ "fps": 30,
+ "total": 23306,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 398,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In a palace in Florence hangs a painting of the Virgin Mary. Over her shoulder floats a grey oval object. Below it, a man shields his eyes, and his dog looks up too.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 12.168,
+     "start": 10,
+     "end": 376
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 380,
+   "end": 803,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Online, that painting sits in a famous lineup. A medieval fresco with two pilots in capsules. A German news sheet about a battle in the sky. Rock carvings of figures in helmets.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 13.008,
+     "start": 390,
+     "end": 781
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 785,
+   "end": 1143,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ancient astronaut writers call it proof: artists recording visitors from somewhere else. So tonight we walk through a gallery of six of the most famous exhibits.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 10.848,
+     "start": 795,
+     "end": 1121
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1125,
+   "end": 1659,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At every exhibit we ask three questions. What did the artist mean? Does the shape match the conventions of its time? And did anyone back then call it a machine? Then a scorecard, and a verdict.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 12.72,
+     "start": 1135,
+     "end": 1517
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1641,
+   "end": 2011,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One note before we enter. The images you will see are stylised reconstructions made for this video, not the original artworks. Every source is in the description.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 11.256,
+     "start": 1651,
+     "end": 1989
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "ROOM 1",
+    "The Wandjina",
+    "KIMBERLEY, AUSTRALIA \u00b7 c. 4,000 YEARS"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1993,
+   "end": 2304,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Room one: the Kimberley, in the far north-west of Australia. On its cliffs and cave walls are some of the most striking figures ever painted.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 9.288,
+     "start": 2003,
+     "end": 2282
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2286,
+   "end": 2711,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They are the Wandjina. Huge white faces, large dark eyes, a nose, but no mouth. Around each head runs a band of red lines. Some stretch five metres across a rock ceiling.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.08,
+     "start": 2296,
+     "end": 2689
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2693,
+   "end": 3133,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen sixty-eight, Erich von Daniken used them in Chariots of the Gods. The band became a space helmet, the mouthless face a visor. Visitors from the stars, remembered on rock.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 13.584,
+     "start": 2703,
+     "end": 3111
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "none",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3115,
+   "end": 3477,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The idea that outsiders made them is older. In eighteen thirty-eight, the explorer George Grey sketched Wandjina and doubted that local people could have painted them.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 10.968,
+     "start": 3125,
+     "end": 3455
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3459,
+   "end": 3888,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the art history, from the people whose art it is. The Wandjina are cloud and rain spirits of the Worrorra, Ngarinyin and Wunambal peoples. The lines around the head are lightning.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 13.224,
+     "start": 3469,
+     "end": 3866
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3870,
+   "end": 4146,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the missing mouth? They are so powerful they need no speech. And if they had mouths, it is said, the rain would never stop.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 8.112,
+     "start": 3880,
+     "end": 4124
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4128,
+   "end": 4530,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "These are living paintings. The Mowanjum community repaints them to renew the Wandjina's presence and call the monsoon. At one site, the paint is over forty layers deep.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 12.312,
+     "start": 4138,
+     "end": 4508
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4512,
+   "end": 4891,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The style appears around four thousand years ago, after a long drought gave way to regular monsoons. Rain spirits, arriving in the art as the rains returned.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 11.544,
+     "start": 4522,
+     "end": 4869
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4873,
+   "end": 5304,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Exhibit one verdict. A helmet only if you ignore the people who paint them. Traditional owners have worked to reclaim the Wandjina from the alien story. This is a rain spirit, not a pilot.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 13.296,
+     "start": 4883,
+     "end": 5282
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "ROOM 2",
+    "The 'Astronauts'",
+    "VAL CAMONICA, ITALY \u00b7 c. 1000 BC"
+   ],
+   "img": "ep/img/shot_15.jpg",
+   "start": 5286,
+   "end": 5614,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Room two: the Italian Alps. In Val Camonica, glaciers polished the bedrock smooth, and for thousands of years people hammered images into it.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 9.84,
+     "start": 5296,
+     "end": 5592
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5596,
+   "end": 5973,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is one of the largest collections of prehistoric rock art in the world, over one hundred forty thousand figures, and Italy's first UNESCO World Heritage Site.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 11.472,
+     "start": 5606,
+     "end": 5951
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5955,
+   "end": 6347,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On one rock at Zurla, near Nadro, stand two figures with round, rayed heads, each holding an object. Since the nineteen sixties, they have had a nickname: the astronauts.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 11.976,
+     "start": 5965,
+     "end": 6325
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6329,
+   "end": 6622,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The theory says the rays are helmets with antennae, the objects instruments. Some websites even date them to eight thousand BC.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 8.688,
+     "start": 6339,
+     "end": 6600
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6604,
+   "end": 6964,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Archaeologists see something else. Figures like these belong to the valley's late phase, roughly three thousand years ago, when the Camunni made most of the carvings.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 10.92,
+     "start": 6614,
+     "end": 6942
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6946,
+   "end": 7349,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Rayed heads appear on many Camunian figures. Specialists read them as feathered or horned headdresses, solar symbols, or the radiance of gods and masked celebrants.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 12.336,
+     "start": 6956,
+     "end": 7327
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7331,
+   "end": 7713,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Around them are duels, hunts, ploughing scenes, huts and maps. A world of farmers and warriors, drawn as ideas. Nothing here flies, lands, or carries anyone away.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 11.664,
+     "start": 7341,
+     "end": 7691
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7695,
+   "end": 8032,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And popular photos often show the astronauts with their grooves filled in bright white, a modern addition that makes the outlines look crisp and helmet-like.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.152,
+     "start": 7705,
+     "end": 8010
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8014,
+   "end": 8356,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Exhibit two verdict. Ritual figures with radiant heads, carved by the people of the valley. Space helmet is our word for a shape they already understood.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.32,
+     "start": 8024,
+     "end": 8334
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "ROOM 3",
+    "The Crucifixion",
+    "VISOKI DE\u010cANI, KOSOVO \u00b7 c. 1350"
+   ],
+   "img": "ep/img/shot_24.jpg",
+   "start": 8338,
+   "end": 8705,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Room three: a monastery in Kosovo. Visoki De\u010dani, begun in thirteen twenty-seven, is by far the largest medieval church in the Balkans.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 11.16,
+     "start": 8348,
+     "end": 8683
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8687,
+   "end": 9017,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside are more than a thousand fresco compositions. High on one wall is a Crucifixion, painted around the middle of the fourteenth century.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 9.912,
+     "start": 8697,
+     "end": 8995
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8999,
+   "end": 9367,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And this is the detail that went viral. On each side of the cross, a teardrop-shaped object streaks across the sky, with a small human figure sitting inside.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.184,
+     "start": 9009,
+     "end": 9345
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9349,
+   "end": 9592,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "To ufologists, it is obvious. Two pilots in two capsules, watching the crucifixion from above.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 7.008,
+     "start": 9359,
+     "end": 9570
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "out",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9574,
+   "end": 10002,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But crucifixion scenes almost always include two extra guests: the Sun and the Moon. The Gospels say darkness covered the land, and artists showed the Sun and Moon mourning beside the cross.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 13.2,
+     "start": 9584,
+     "end": 9980
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9984,
+   "end": 10314,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They appear as faces, busts, or figures riding inside the discs, a tradition reaching back to the sun and moon gods of Greek and Roman art.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 9.912,
+     "start": 9994,
+     "end": 10292
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10296,
+   "end": 10739,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look again at De\u010dani. The right-hand object is shaped like a crescent moon, and the streaks show motion. Serbian art historians call it a standard Sun and Moon, painted in an unusual way.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 13.68,
+     "start": 10306,
+     "end": 10717
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10721,
+   "end": 11085,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A twenty seventeen study in the journal Culture and Cosmos examined these exact images, and concluded the same: personifications of the Sun and the Moon.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 11.064,
+     "start": 10731,
+     "end": 11063
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11067,
+   "end": 11320,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Exhibit three verdict. Not capsules. The Sun and the Moon, grieving at the cross, for nearly seven hundred years.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 7.344,
+     "start": 11077,
+     "end": 11298
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "ROOM 4",
+    "The Madonna's 'UFO'",
+    "PALAZZO VECCHIO, FLORENCE \u00b7 c. 1500"
+   ],
+   "img": "ep/img/shot_33.jpg",
+   "start": 11302,
+   "end": 11586,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Room four brings us back to Florence: the Palazzo Vecchio, and the painting known as the Madonna with Saint Giovannino.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 8.376,
+     "start": 11312,
+     "end": 11564
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11568,
+   "end": 11978,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is a round panel from around the year fifteen hundred. Even the painter is disputed: Jacopo del Sellaio, Sebastiano Mainardi, and online, often Ghirlandaio.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 12.576,
+     "start": 11578,
+     "end": 11956
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 11960,
+   "end": 12342,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Over Mary's shoulder hangs the object: grey, oval, tilted, with rays around its rim. A man below raises a hand to his forehead. His dog looks up too.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 11.64,
+     "start": 11970,
+     "end": 12320
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12324,
+   "end": 12662,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For believers, this is the clearest case of all. A leaden craft over Tuscany, witnessed by a shepherd centuries before anyone said flying saucer.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 10.176,
+     "start": 12334,
+     "end": 12640
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 12644,
+   "end": 13081,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now read it as a Florentine would. A shepherd, a dog, a flock, a light in the sky. That is the Annunciation to the Shepherds, from Luke: the glory of the Lord shone round about them.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 13.488,
+     "start": 12654,
+     "end": 13059
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 13063,
+   "end": 13519,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Painters also used the Protevangelium of James, from the second century. A luminous cloud covers the Nativity cave, so bright the eyes could not bear it. That is why shepherds shield their eyes.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 14.112,
+     "start": 13073,
+     "end": 13497
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 13501,
+   "end": 13853,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the grey colour? Close-up photographs show tiny fragments of gold leaf at the rim. On one reading, the cloud was once gilded, and the gold flaked away.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 10.656,
+     "start": 13511,
+     "end": 13831
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 13835,
+   "end": 14232,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bright outlined clouds carrying angels appear in countless religious paintings. In scripture, a cloud is how God's presence appears, from Exodus to the Transfiguration.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.144,
+     "start": 13845,
+     "end": 14210
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14214,
+   "end": 14565,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Exhibit four verdict. An angel's luminous cloud that lost its gold. The shepherd is not filing a UFO report. He is hearing news of a birth.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 10.632,
+     "start": 14224,
+     "end": 14543
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "ROOM 5",
+    "The Sky Battle",
+    "NUREMBERG BROADSHEET \u00b7 1561"
+   ],
+   "img": "ep/img/shot_42.jpg",
+   "start": 14547,
+   "end": 14869,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Room five is different. Not a religious painting, but a piece of news. Nuremberg, at dawn on the fourteenth of April, fifteen sixty-one.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 9.648,
+     "start": 14557,
+     "end": 14847
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 14851,
+   "end": 15204,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A broadsheet by Hans Glaser reports that many men and women saw a dreadful apparition on the sun. The sheet survives in the Central Library of Zurich.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 10.68,
+     "start": 14861,
+     "end": 15182
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 15186,
+   "end": 15584,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It describes blood-red arcs, balls of black and iron colour, crosses, and tubes holding globes. They fought for over an hour, then fell to earth as if burning, in great smoke.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 12.192,
+     "start": 15196,
+     "end": 15562
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 15566,
+   "end": 15935,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ufologists call it the first recorded air battle between alien craft. Cylinders as mother ships, spheres as fighters, and a huge black spear at the end.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 11.208,
+     "start": 15576,
+     "end": 15913
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "out",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 15917,
+   "end": 16343,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But read it as a meteorologist would. Thin ice clouds, eight to ten kilometres up, can paint rings, arcs, bright sun dogs and crossing lines around the sun. A halo display.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 13.104,
+     "start": 15927,
+     "end": 16321
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 16325,
+   "end": 16687,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Red arcs beside the sun. Coloured spots on both sides. Crosses where circles meet. And it happened at sunrise, with the sun low, where sun dogs often appear.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 10.992,
+     "start": 16335,
+     "end": 16665
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16669,
+   "end": 17008,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The fit is not perfect. A woodcut is not a photograph. And the text ends like a sermon: whatever such signs mean, God alone knows, so repent.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 10.224,
+     "start": 16679,
+     "end": 16986
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 16990,
+   "end": 17361,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sheets of sky wonders, comets and multiple suns, were popular in sixteenth-century Germany. Each was read as a sign from God, not a report about aircraft.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 11.28,
+     "start": 17000,
+     "end": 17339
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 17343,
+   "end": 17692,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Exhibit five verdict. A real sky event, most likely a halo display, filtered through fear and faith. People saw something. It just was not a fleet.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 10.56,
+     "start": 17353,
+     "end": 17670
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "ROOM 6",
+    "The Baptism",
+    "AERT DE GELDER \u00b7 c. 1710"
+   ],
+   "img": "ep/img/shot_51.jpg",
+   "start": 17674,
+   "end": 17979,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Our last room. The Fitzwilliam Museum in Cambridge owns a small oil painting, made around seventeen ten by Aert de Gelder.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 9.072,
+     "start": 17684,
+     "end": 17957
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 17961,
+   "end": 18223,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "De Gelder was one of Rembrandt's last pupils, and he carried Rembrandt's dark, glowing style into the eighteenth century.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 7.656,
+     "start": 17971,
+     "end": 18201
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 18205,
+   "end": 18533,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Baptism of Christ shows John and Jesus by the water. Above them hangs a bright disc, and four beams of light shoot down onto the figures.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 9.84,
+     "start": 18215,
+     "end": 18511
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 18515,
+   "end": 18837,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The UFO reading: a silver saucer, beaming light down like a tractor beam. It still appears in nearly every list of UFOs in art.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 9.648,
+     "start": 18525,
+     "end": 18815
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 18819,
+   "end": 19216,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the Gospels describe this moment plainly. The heavens opened, and the Spirit descended like a dove. And at the centre of the disc, a researcher found exactly that: a tiny dove.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 12.144,
+     "start": 18829,
+     "end": 19194
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 19198,
+   "end": 19539,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Opening heavens, rays and a dove are the standard way to paint the baptism. De Gelder simply painted it in Rembrandt's language of darkness and light.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 10.272,
+     "start": 19208,
+     "end": 19517
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 19521,
+   "end": 19834,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Exhibit six verdict. The Holy Spirit as a dove in a burst of light. The saucer is the sky opening, exactly as the text describes it.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 9.36,
+     "start": 19531,
+     "end": 19812
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": [
+    "CURATOR'S NOTE",
+    "Why We See Saucers",
+    "1947 \u2192 TODAY"
+   ],
+   "img": "ep/img/shot_58.jpg",
+   "start": 19816,
+   "end": 20175,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So why do these images fool us? Because we bring our own picture of a flying saucer, born in nineteen forty-seven, and lay it over art made long before.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 10.872,
+     "start": 19826,
+     "end": 20153
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 20157,
+   "end": 20587,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Every exhibit had a meaning in its own time. A rain spirit. A ritual figure. The Sun and Moon. An angel's cloud. A frightening sky. A dove. Not one was described as a machine.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 13.248,
+     "start": 20167,
+     "end": 20565
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 20569,
+   "end": 20936,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And there is a cost. Calling these works alien takes them away from the people who made them: Aboriginal artists, Alpine farmers, Serbian monks, Florentine painters.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 11.16,
+     "start": 20579,
+     "end": 20914
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VERDICT",
+    "The Scorecard",
+    "SIX EXHIBITS"
+   ],
+   "img": "ep/img/shot_61.jpg",
+   "start": 20918,
+   "end": 21036,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The gallery is closed. Here is the scorecard.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 2.856,
+     "start": 20928,
+     "end": 21014
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 21018,
+   "end": 21527,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Wandjina as helmeted visitors: debunked, rain spirits. Val Camonica astronauts: debunked, ritual figures. De\u010dani capsules: debunked, the Sun and Moon. The Madonna's object: debunked, an angel's cloud.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 15.888,
+     "start": 21028,
+     "end": 21505
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 21509,
+   "end": 21848,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nuremberg: partly explained, most likely a halo display. De Gelder's saucer: debunked, a dove. Any of the six meant as a craft: none.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 10.224,
+     "start": 21519,
+     "end": 21826
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 21830,
+   "end": 22281,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Six famous UFOs in art, and six works that make sense once you read them in their own language. The only real unknown was Nuremberg's sky, and even that has a natural suspect.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 13.944,
+     "start": 21840,
+     "end": 22259
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 22263,
+   "end": 22686,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That does not make the sky boring. People have always turned what they saw above them into gods, omens and angels. That instinct is the real treasure here, and it is entirely human.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 13.032,
+     "start": 22273,
+     "end": 22664
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 22668,
+   "end": 22958,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So next time you spot a saucer in an old painting, ask our three questions. The answer is usually more beautiful than aliens.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 8.592,
+     "start": 22678,
+     "end": 22936
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 22940,
+   "end": 23231,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the gallery. Which exhibit fooled you the longest? Tell us in the comments, and subscribe for the next ancient mystery on trial.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 8.616,
+     "start": 22950,
+     "end": 23209
+    }
+   ]
+  }
+ ]
+}
