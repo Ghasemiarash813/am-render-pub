@@ -1,0 +1,85 @@
+name: render
+run-name: render ${{ inputs.slug }} ${{ inputs.only }}
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: bank item slug (assets on branch item/<slug>)
+        required: true
+      only:
+        description: optional comma list of segment tags (e.g. s000000,s001400); empty = all
+        required: false
+        default: ""
+permissions:
+  contents: write
+  actions: read
+env:
+  SLUG: ${{ inputs.slug }}
+  TAG: out-${{ inputs.slug }}-${{ github.run_id }}
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with: { ref: "item/${{ inputs.slug }}", path: itm, sparse-checkout: item/timeline.json, sparse-checkout-cone-mode: false }
+      - id: m
+        run: |
+          M=$(python3 scripts/segments.py itm/item/timeline.json 1400 "${{ inputs.only }}")
+          echo "matrix=$M" >> "$GITHUB_OUTPUT"; echo "$M"
+          gh release create "$TAG" --title "$TAG" --notes "segments for $SLUG run ${{ github.run_id }}" --prerelease
+        env: { GH_TOKEN: "${{ github.token }}" }
+  render:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        include: ${{ fromJson(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with: { ref: "item/${{ inputs.slug }}", path: itm }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - id: nm
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: nm-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-v1
+      - if: steps.nm.outputs.cache-hit != 'true'
+        run: npm ci --no-audit --no-fund
+      - name: browser
+        run: npx remotion browser ensure
+      - name: stage item
+        run: |
+          mkdir -p public/ep/img public/ep/audio
+          cp itm/item/Doc.tsx src/Doc.tsx; cp itm/item/timeline.json src/doc_timeline.json
+          cp itm/item/audio/*.mp3 public/ep/audio/; cp itm/item/music.wav public/ep/
+          cp itm/item/img/*.jpg public/ep/img/
+          export FONTCONFIG_FILE=$PWD/fonts/fonts.conf; fc-match Georgia; fc-match "Courier New"; fc-match serif
+          echo "FONTCONFIG_FILE=$PWD/fonts/fonts.conf" >> "$GITHUB_ENV"
+          nproc
+      - name: render ${{ matrix.tag }} (${{ matrix.a }}-${{ matrix.b }})
+        run: |
+          start=$(date +%s)
+          npx remotion render Doc out/c${{ matrix.tag }}.mp4 --frames=${{ matrix.a }}-${{ matrix.b }} --concurrency=$(nproc) --muted --crf=18 --log=error
+          echo "render seconds: $(( $(date +%s) - start ))"
+          n=$(npx remotion ffprobe -v error -count_packets -select_streams v:0 -show_entries stream=nb_read_packets -of csv=p=0 out/c${{ matrix.tag }}.mp4 | tr -d '[:space:]')
+          want=$(( ${{ matrix.b }} - ${{ matrix.a }} + 1 )); echo "frames $n / $want"
+          [ "$n" = "$want" ]
+      - name: upload segment to release
+        run: gh release upload "$TAG" out/c${{ matrix.tag }}.mp4 --clobber
+        env: { GH_TOKEN: "${{ github.token }}" }
+  done:
+    needs: [plan, render]
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          gh release view "$TAG" -R "$GITHUB_REPOSITORY" --json assets -q '.assets[]|.name+" "+(.size|tostring)' | sort > assets.txt
+          cat assets.txt; echo "count $(wc -l < assets.txt) expected $(echo '${{ needs.plan.outputs.matrix }}' | python3 -c 'import json,sys;print(len(json.load(sys.stdin)))')"
+        env: { GH_TOKEN: "${{ github.token }}" }
