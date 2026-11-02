@@ -1,0 +1,1320 @@
+{
+ "fps": 30,
+ "total": 24788,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 484,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three thousand years ago, on a dusty road outside Jerusalem, an ox stumbles. A cart tips. A man named Uzzah reaches out to steady the sacred chest it carries. And according to the Bible, he falls dead on the spot.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 15.048,
+     "start": 10,
+     "end": 462
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 466,
+   "end": 814,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For two hundred years, people have offered a startling explanation. Not divine judgment. Electricity. The Ark of the Covenant, they say, was a machine.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 10.512,
+     "start": 476,
+     "end": 792
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 796,
+   "end": 1272,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen sixty-eight, Erich von D\u00e4niken wrote: undoubtedly the Ark was electrically charged. Rebuild it from the instructions of Moses, he claimed, and you get several hundred volts. Hollywood took it from there.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 14.784,
+     "start": 806,
+     "end": 1250
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1254,
+   "end": 1592,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So we will treat it like evidence. A chain of custody. Follow the object from the day it was made to the day it vanished, and log every claim along the way.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 10.2,
+     "start": 1264,
+     "end": 1570
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1574,
+   "end": 2137,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One promise first. This object is sacred to Jews and Christians, honored in Islam, and guarded, Ethiopia's church says, to this day. We are testing a modern theory. Not anyone's faith.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 13.68,
+     "start": 1584,
+     "end": 1995
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "S",
+   "ch": [
+    "ENTRY 01 \u00b7 SINAI",
+    "The Blueprint",
+    "EXODUS 25"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 2119,
+   "end": 2418,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Entry one. Mount Sinai. The book of Exodus, chapter twenty-five, gives the specification. And it reads almost like a work order.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 8.88,
+     "start": 2129,
+     "end": 2396
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2400,
+   "end": 2726,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A chest of acacia wood, two and a half cubits long, a cubit and a half wide and high. Roughly one hundred thirty by eighty by eighty centimeters.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 9.792,
+     "start": 2410,
+     "end": 2704
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2708,
+   "end": 3152,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Overlaid with pure gold, inside and out. A gold molding around the top. Four gold rings at its feet, and two poles of acacia covered in gold, slid through the rings, never to be removed.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 13.704,
+     "start": 2718,
+     "end": 3130
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3134,
+   "end": 3524,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the lid, called the mercy seat, made of solid gold. On it, two cherubim facing each other, wings spread over the top. Inside, the stone tablets of the covenant.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 11.928,
+     "start": 3144,
+     "end": 3502
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3506,
+   "end": 3799,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And one line that theorists love. God tells Moses: there I will meet with you, and speak with you, from between the two cherubim.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 8.688,
+     "start": 3516,
+     "end": 3777
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3781,
+   "end": 4184,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Read it as an engineer, they say. Two layers of gold, separated by insulating wood. That is a capacitor. The winged figures are the terminals. And a voice between them? A radio.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 12.336,
+     "start": 3791,
+     "end": 4162
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4166,
+   "end": 4682,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First surprise in the file. This idea is not from the space age. The Leyden jar, the first device to store electric charge, was invented in seventeen forty-five. Within decades, German scholars compared it to the Ark.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 16.104,
+     "start": 4176,
+     "end": 4660
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4664,
+   "end": 5179,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The physicist Georg Christoph Lichtenberg drew the comparison. In seventeen ninety-seven, a writer named Lazarus Bendavid published the full claim: the Ark was a very good Leyden jar. The theory is older than the light bulb.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 16.08,
+     "start": 4674,
+     "end": 5157
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 5161,
+   "end": 5503,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Log one more detail. Deuteronomy tells the story again, and there Moses simply makes an ark of acacia wood. No gold mentioned at all.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 10.32,
+     "start": 5171,
+     "end": 5481
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "S",
+   "ch": [
+    "ENTRY 02 \u00b7 THE MARCH",
+    "Ahead of the People",
+    "NUMBERS \u00b7 JOSHUA"
+   ],
+   "img": "ep/img/shot_15.jpg",
+   "start": 5485,
+   "end": 5795,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Entry two. The march. For forty years in the wilderness, the Ark travels ahead of the people, carried on the shoulders of Levites, by its poles.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 9.24,
+     "start": 5495,
+     "end": 5773
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5777,
+   "end": 6084,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the river Jordan, the book of Joshua says the water stopped flowing the moment the priests' feet touched it. The people crossed on dry ground.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 9.144,
+     "start": 5787,
+     "end": 6062
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6066,
+   "end": 6469,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At Jericho, the Ark is carried around the city once a day for six days. On the seventh day, seven times. Seven priests blow rams' horns, the people shout, and the wall falls.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.36,
+     "start": 6076,
+     "end": 6447
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6451,
+   "end": 6712,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Theorists read this as a weapon. A sonic device, or a power source that knocked down walls and parted water.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 7.608,
+     "start": 6461,
+     "end": 6690
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6694,
+   "end": 7157,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But look at who acts in the text. The Ark does not glow, hum or fire. It is carried. The trumpets are rams' horns, the shout comes from people, and the story credits God. There is no mechanism here to test.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 14.352,
+     "start": 6704,
+     "end": 7135
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "S",
+   "ch": [
+    "ENTRY 03 \u00b7 ASHDOD",
+    "Captured",
+    "1 SAMUEL 4\u20136"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 7139,
+   "end": 7543,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Entry three. Captivity. First Samuel, chapter four. Israel carries the Ark into battle against the Philistines, hoping it will guarantee victory. They lose. And the Ark is captured.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 12.384,
+     "start": 7149,
+     "end": 7521
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7525,
+   "end": 7998,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Philistines put it in the temple of their god Dagon at Ashdod. The next morning, the statue of Dagon lies on its face before the Ark. They set it back up. The next morning it is down again, and broken.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 14.688,
+     "start": 7535,
+     "end": 7976
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7980,
+   "end": 8315,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the people of Ashdod are struck with tumors. Rodents spread through the land. The Ark is moved to Gath, then to Ekron, and the affliction follows it.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.08,
+     "start": 7990,
+     "end": 8293
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8297,
+   "end": 8551,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For the machine theory, this is radiation sickness. A dangerous energy source, poisoning everyone who kept it.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 7.392,
+     "start": 8307,
+     "end": 8529
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8533,
+   "end": 9033,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the text gives its own clues. Tumors that spread with rodents. Many readers see bubonic plague. After seven months the Philistines send it back with golden tumors and golden mice as an offering. Ancient ritual, not physics.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 15.6,
+     "start": 8543,
+     "end": 9011
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9015,
+   "end": 9391,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At Beth Shemesh, men look inside the Ark, and seventy are struck down. The lesson is the same every time. This object has rules. Break them, and holiness strikes back.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 11.448,
+     "start": 9025,
+     "end": 9369
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "S",
+   "ch": [
+    "ENTRY 04 \u00b7 THE ROAD",
+    "Uzzah",
+    "2 SAMUEL 6"
+   ],
+   "img": "ep/img/shot_26.jpg",
+   "start": 9373,
+   "end": 9800,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Entry four. The road to Jerusalem. The Ark rests for twenty years at Kiriath Jearim, in the house of a man named Abinadab. His son Eleazar is set apart to guard it.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 13.152,
+     "start": 9383,
+     "end": 9778
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "left",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9782,
+   "end": 10163,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then King David comes to bring it to Jerusalem. With music and celebration. But they put it on a brand-new cart, pulled by oxen, the way the Philistines had sent it back.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.616,
+     "start": 9792,
+     "end": 10141
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10145,
+   "end": 10468,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The oxen stumble. Uzzah takes hold of the Ark. He dies beside it. David names the place Perez Uzzah, the outburst against Uzzah.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 9.672,
+     "start": 10155,
+     "end": 10446
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10450,
+   "end": 10835,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here the machine theory makes its strongest case. A man touches a gold-covered box and drops dead instantly. To an electrical engineer, it looks like a lethal discharge.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 11.76,
+     "start": 10460,
+     "end": 10813
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10817,
+   "end": 11375,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "An eighteen ninety-four article in the Electrical Review called the Ark a very expensive but very perfect Leyden jar. But to make it work, the writer added things the Bible never says: a fire burning on top, and golden lightning poles fifty yards high.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 17.52,
+     "start": 10827,
+     "end": 11353
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11357,
+   "end": 11695,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the text has a rule. In Numbers, the Ark is carried by Levites, on their shoulders, by the poles. Never touched directly. The cart was the mistake.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 10.2,
+     "start": 11367,
+     "end": 11673
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11677,
+   "end": 12206,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the detail that hurts the electric theory. After Uzzah, the Ark stays three months in the house of Obed Edom, and his household is blessed. Then Levites carry it into Jerusalem by its gold-covered poles. People lived with it, and held it.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 16.56,
+     "start": 11687,
+     "end": 12184
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "S",
+   "ch": [
+    "ENTRY 05 \u00b7 THE TEMPLE",
+    "The Holy of Holies",
+    "1 KINGS 8"
+   ],
+   "img": "ep/img/shot_33.jpg",
+   "start": 12188,
+   "end": 12596,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Entry five. The Holy of Holies. King Solomon builds the Temple, and the Ark is placed in its innermost room, beneath the wings of two great cherubim. A cloud fills the house.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.528,
+     "start": 12198,
+     "end": 12574
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12578,
+   "end": 12872,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Once a year, on Yom Kippur, the Day of Atonement, only the high priest may enter. And here the internet adds a famous detail.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 8.712,
+     "start": 12588,
+     "end": 12850
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12854,
+   "end": 13228,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A rope tied to his ankle, so that if the power of the Ark killed him, the others could drag his body out. Proof, theorists say, that even the priests feared what was inside.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 11.376,
+     "start": 12864,
+     "end": 13206
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13210,
+   "end": 13668,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But check the source. The rope appears nowhere in the Bible, the Dead Sea Scrolls, Josephus, the Mishnah or the Talmud. Its earliest known mention is the Zohar, a mystical book from thirteenth-century Spain.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 14.184,
+     "start": 13220,
+     "end": 13646
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13650,
+   "end": 14079,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So what was the Ark, to the people who made it? Scholars look at its neighbors. In Egypt, gods traveled in gilded shrines carried on poles by priests, in processions, and sometimes gave oracles.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 13.224,
+     "start": 13660,
+     "end": 14057
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14061,
+   "end": 14525,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And we have a real one. In Tutankhamun's tomb, Howard Carter's team found a gilded wooden chest on long carrying poles, with the jackal god Anubis on top. A sacred box, made to be carried.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 14.4,
+     "start": 14071,
+     "end": 14503
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14507,
+   "end": 14967,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Bible itself calls the Ark the footstool of God. The cherubim form an empty throne above it. Covenant documents were kept at a god's feet in the ancient world. The design makes sense. As a shrine.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 14.256,
+     "start": 14517,
+     "end": 14945
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14949,
+   "end": 15341,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scholar Scott Noegel argues the best parallel to the Ark is the Egyptian sacred barque, and that the idea probably took shape under Egyptian influence in the Late Bronze Age.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 11.976,
+     "start": 14959,
+     "end": 15319
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "S",
+   "ch": [
+    "ENTRY 06 \u00b7 VANISHED",
+    "The Missing Entry",
+    "587 BC \u2192 TODAY"
+   ],
+   "img": "ep/img/shot_41.jpg",
+   "start": 15323,
+   "end": 15648,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Entry six. The last entry in the log is a blank. In five hundred eighty-seven B.C., Babylon destroys Jerusalem and its Temple.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 9.744,
+     "start": 15333,
+     "end": 15626
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15630,
+   "end": 16015,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The book of Kings lists what was carried off. Bronze pillars. Bronze stands. Pots, shovels, bowls. The Ark is not on the list. From here on, the chain of custody breaks.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.736,
+     "start": 15640,
+     "end": 15993
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "K",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 15997,
+   "end": 16444,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tradition fills the gap. Second Maccabees says the prophet Jeremiah hid it in a cave on Mount Nebo. Rabbis debated whether it went to Babylon, or whether King Josiah hid it beneath the Temple.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 13.824,
+     "start": 16007,
+     "end": 16422
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "K",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16426,
+   "end": 16770,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And in Axum, Ethiopia, the Orthodox Church says the Ark is here, in a chapel guarded by a single monk, who never leaves and lets no one see it.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 10.392,
+     "start": 16436,
+     "end": 16748
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 16752,
+   "end": 17227,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Every Ethiopian Orthodox church keeps a tabot, a replica of the tablets, carried wrapped in procession. The story of how the Ark came there, the Kebra Nagast, dates in its Ge'ez form to thirteen twenty-one.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 14.736,
+     "start": 16762,
+     "end": 17205
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "out",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17209,
+   "end": 17718,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One outsider claimed to have seen it. Edward Ullendorff, a scholar of Ethiopia, said he examined the Axum ark in nineteen forty-one. A wooden box, he said. Empty. Medieval construction. Nobody has been able to check.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 15.888,
+     "start": 17219,
+     "end": 17696
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17700,
+   "end": 18191,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Since twenty seventeen, archaeologists Israel Finkelstein and Thomas R\u00f6mer have excavated Kiriath Jearim, where the Ark rested for twenty years. They found a monumental platform from the eighth century B.C.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 15.288,
+     "start": 17710,
+     "end": 18169
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18173,
+   "end": 18578,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They found no Ark, and they were not looking for one. The chain of custody ends in an empty box. Which means one thing for our test. Nobody can put the actual object on a lab bench.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 12.432,
+     "start": 18183,
+     "end": 18556
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "B",
+   "ch": [
+    "THE LAB",
+    "Bench Test",
+    "CAPACITOR CHECK"
+   ],
+   "img": "ep/img/shot_49.jpg",
+   "start": 18560,
+   "end": 18840,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But we can test the design. The theory says: build it to the specification, and it becomes a capacitor. So let's run the numbers.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 8.256,
+     "start": 18570,
+     "end": 18818
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "B",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18822,
+   "end": 19181,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Gold on both sides of the wood, around five square meters each, with a wooden wall a few centimeters thick. Our estimate: between three and ten nanofarads.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 10.896,
+     "start": 18832,
+     "end": 19159
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "B",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19163,
+   "end": 19588,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now charge it to von D\u00e4niken's several hundred volts. The energy stored is less than one thousandth of a joule. That is weaker than the static spark from a doorknob on a dry winter day.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 13.08,
+     "start": 19173,
+     "end": 19566
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "B",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19570,
+   "end": 20070,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For comparison, a hospital defibrillator delivers well over a hundred joules. Safety standards treat discharges above five joules as a serious risk. The Ark at several hundred volts is thousands of times below that.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 15.576,
+     "start": 19580,
+     "end": 20048
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 20052,
+   "end": 20517,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Could it be charged higher? To hold five joules, it would need around thirty thousand volts, and something to supply them. The Bible describes no generator and no lightning rods. Those were added in the eighteen hundreds.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 14.424,
+     "start": 20062,
+     "end": 20495
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 20499,
+   "end": 20913,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One last problem. The gold poles sit in gold rings attached to the outer gold, and the carriers held them on their shoulders. Any charge on the outside would drain through them as they walked.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 12.72,
+     "start": 20509,
+     "end": 20891
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 20895,
+   "end": 21357,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The radio version fails the same bench. No power source. No antenna. No receiver. A voice from between the cherubim is how the text describes God's presence. It is not a wiring diagram.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 14.304,
+     "start": 20905,
+     "end": 21335
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21339,
+   "end": 21823,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice the pattern. In the age of the Leyden jar, the Ark was a Leyden jar. In the radio age, a radio. In the age of science fiction, a weapon from space. Each era rebuilt the Ark out of its own technology.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 15.048,
+     "start": 21349,
+     "end": 21801
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VERDICT",
+    "The Scorecard",
+    "ARK VS MACHINE"
+   ],
+   "img": "ep/img/shot_57.jpg",
+   "start": 21805,
+   "end": 21927,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chain of custody complete. Here is the scorecard.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 2.976,
+     "start": 21815,
+     "end": 21905
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 21909,
+   "end": 22394,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A detailed design survives in Exodus: evidence. Gold, wood, gold looks like a capacitor: shape only. It could kill by electric shock: debunked. The Philistine plague was radiation: no evidence.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 15.072,
+     "start": 21919,
+     "end": 22372
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 22376,
+   "end": 22811,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The high priest's rope proves deadly power: debunked, a medieval legend. Real Bronze Age parallels exist: evidence, in Egypt. The Ark was an alien machine: not supported.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 13.416,
+     "start": 22386,
+     "end": 22789
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 22793,
+   "end": 23273,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. The machine theory is not an ancient secret. It is a clever eighteenth-century comparison that grew with every retelling. Built to its own specification, the Ark is a poor capacitor and no radio at all.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 14.928,
+     "start": 22803,
+     "end": 23251
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 23255,
+   "end": 23676,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What the evidence does support is stranger in its own way. A people who carried a golden throne for an invisible God at the front of their march, and wrote that its power was holiness, not voltage.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 12.936,
+     "start": 23265,
+     "end": 23654
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23658,
+   "end": 24063,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Where it is today, nobody can prove. In Axum, under Jerusalem, in a cave on Mount Nebo, or gone with Babylon. That part of the case stays open. Maybe it always will.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 12.432,
+     "start": 23668,
+     "end": 24041
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "up",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 24045,
+   "end": 24417,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But if the Ark is ever found, it will not need to be a machine to be one of the most important discoveries in history. A wooden box with gold on both sides would be enough.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 11.304,
+     "start": 24055,
+     "end": 24395
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 24399,
+   "end": 24713,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the custody log. Machine, shrine, or something else? Tell us in the comments, and subscribe for the next ancient mystery on trial.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 9.384,
+     "start": 24409,
+     "end": 24691
+    }
+   ]
+  }
+ ]
+}

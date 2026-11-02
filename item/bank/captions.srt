@@ -1,0 +1,855 @@
+1
+00:00:00,333 --> 00:00:05,786
+Three thousand years ago, on a dusty road outside Jerusalem, an ox stumbles.
+
+2
+00:00:05,786 --> 00:00:06,646
+A cart tips.
+
+3
+00:00:06,646 --> 00:00:11,525
+A man named Uzzah reaches out to steady the sacred chest it carries.
+
+4
+00:00:11,525 --> 00:00:15,400
+And according to the Bible, he falls dead on the spot.
+
+5
+00:00:15,866 --> 00:00:20,635
+For two hundred years, people have offered a startling explanation.
+
+6
+00:00:20,635 --> 00:00:22,058
+Not divine judgment.
+
+7
+00:00:22,058 --> 00:00:22,912
+Electricity.
+
+8
+00:00:22,912 --> 00:00:26,400
+The Ark of the Covenant, they say, was a machine.
+
+9
+00:00:26,866 --> 00:00:33,467
+In nineteen sixty-eight, Erich von Däniken wrote: undoubtedly the Ark was electrically charged.
+
+10
+00:00:33,467 --> 00:00:39,651
+Rebuild it from the instructions of Moses, he claimed, and you get several hundred volts.
+
+11
+00:00:39,651 --> 00:00:41,666
+Hollywood took it from there.
+
+12
+00:00:42,133 --> 00:00:44,385
+So we will treat it like evidence.
+
+13
+00:00:44,385 --> 00:00:45,643
+A chain of custody.
+
+14
+00:00:45,643 --> 00:00:52,333
+Follow the object from the day it was made to the day it vanished, and log every claim along the way.
+
+15
+00:00:52,799 --> 00:00:54,162
+One promise first.
+
+16
+00:00:54,162 --> 00:01:02,715
+This object is sacred to Jews and Christians, honored in Islam, and guarded, Ethiopia's church says, to this day.
+
+17
+00:01:02,715 --> 00:01:05,061
+We are testing a modern theory.
+
+18
+00:01:05,061 --> 00:01:06,499
+Not anyone's faith.
+
+19
+00:01:10,966 --> 00:01:11,678
+Entry one.
+
+20
+00:01:11,678 --> 00:01:12,533
+Mount Sinai.
+
+21
+00:01:12,533 --> 00:01:17,161
+The book of Exodus, chapter twenty-five, gives the specification.
+
+22
+00:01:17,161 --> 00:01:19,866
+And it reads almost like a work order.
+
+23
+00:01:20,333 --> 00:01:26,118
+A chest of acacia wood, two and a half cubits long, a cubit and a half wide and high.
+
+24
+00:01:26,118 --> 00:01:30,133
+Roughly one hundred thirty by eighty by eighty centimeters.
+
+25
+00:01:30,599 --> 00:01:33,585
+Overlaid with pure gold, inside and out.
+
+26
+00:01:33,585 --> 00:01:35,824
+A gold molding around the top.
+
+27
+00:01:35,824 --> 00:01:44,333
+Four gold rings at its feet, and two poles of acacia covered in gold, slid through the rings, never to be removed.
+
+28
+00:01:44,799 --> 00:01:48,899
+Then the lid, called the mercy seat, made of solid gold.
+
+29
+00:01:48,899 --> 00:01:53,658
+On it, two cherubim facing each other, wings spread over the top.
+
+30
+00:01:53,658 --> 00:01:56,733
+Inside, the stone tablets of the covenant.
+
+31
+00:01:57,200 --> 00:01:59,442
+And one line that theorists love.
+
+32
+00:01:59,442 --> 00:02:05,900
+God tells Moses: there I will meet with you, and speak with you, from between the two cherubim.
+
+33
+00:02:06,366 --> 00:02:08,739
+Read it as an engineer, they say.
+
+34
+00:02:08,739 --> 00:02:12,262
+Two layers of gold, separated by insulating wood.
+
+35
+00:02:12,262 --> 00:02:13,700
+That is a capacitor.
+
+36
+00:02:13,700 --> 00:02:16,360
+The winged figures are the terminals.
+
+37
+00:02:16,360 --> 00:02:18,158
+And a voice between them?
+
+38
+00:02:18,158 --> 00:02:18,733
+A radio.
+
+39
+00:02:19,199 --> 00:02:21,235
+First surprise in the file.
+
+40
+00:02:21,235 --> 00:02:23,949
+This idea is not from the space age.
+
+41
+00:02:23,949 --> 00:02:31,186
+The Leyden jar, the first device to store electric charge, was invented in seventeen forty-five.
+
+42
+00:02:31,186 --> 00:02:35,333
+Within decades, German scholars compared it to the Ark.
+
+43
+00:02:35,800 --> 00:02:40,296
+The physicist Georg Christoph Lichtenberg drew the comparison.
+
+44
+00:02:40,296 --> 00:02:48,999
+In seventeen ninety-seven, a writer named Lazarus Bendavid published the full claim: the Ark was a very good Leyden jar.
+
+45
+00:02:48,999 --> 00:02:51,899
+The theory is older than the light bulb.
+
+46
+00:02:52,366 --> 00:02:53,944
+Log one more detail.
+
+47
+00:02:53,944 --> 00:03:00,727
+Deuteronomy tells the story again, and there Moses simply makes an ark of acacia wood.
+
+48
+00:03:00,727 --> 00:03:02,699
+No gold mentioned at all.
+
+49
+00:03:03,166 --> 00:03:03,819
+Entry two.
+
+50
+00:03:03,819 --> 00:03:04,471
+The march.
+
+51
+00:03:04,471 --> 00:03:12,433
+For forty years in the wilderness, the Ark travels ahead of the people, carried on the shoulders of Levites, by its poles.
+
+52
+00:03:12,900 --> 00:03:19,965
+At the river Jordan, the book of Joshua says the water stopped flowing the moment the priests' feet touched it.
+
+53
+00:03:19,965 --> 00:03:22,066
+The people crossed on dry ground.
+
+54
+00:03:22,533 --> 00:03:27,638
+At Jericho, the Ark is carried around the city once a day for six days.
+
+55
+00:03:27,638 --> 00:03:29,938
+On the seventh day, seven times.
+
+56
+00:03:29,938 --> 00:03:34,899
+Seven priests blow rams' horns, the people shout, and the wall falls.
+
+57
+00:03:35,366 --> 00:03:37,649
+Theorists read this as a weapon.
+
+58
+00:03:37,649 --> 00:03:43,000
+A sonic device, or a power source that knocked down walls and parted water.
+
+59
+00:03:43,466 --> 00:03:45,813
+But look at who acts in the text.
+
+60
+00:03:45,813 --> 00:03:48,302
+The Ark does not glow, hum or fire.
+
+61
+00:03:48,302 --> 00:03:49,298
+It is carried.
+
+62
+00:03:49,298 --> 00:03:55,344
+The trumpets are rams' horns, the shout comes from people, and the story credits God.
+
+63
+00:03:55,344 --> 00:03:57,833
+There is no mechanism here to test.
+
+64
+00:03:58,300 --> 00:03:59,145
+Entry three.
+
+65
+00:03:59,145 --> 00:03:59,849
+Captivity.
+
+66
+00:03:59,849 --> 00:04:01,752
+First Samuel, chapter four.
+
+67
+00:04:01,752 --> 00:04:08,304
+Israel carries the Ark into battle against the Philistines, hoping it will guarantee victory.
+
+68
+00:04:08,304 --> 00:04:09,009
+They lose.
+
+69
+00:04:09,009 --> 00:04:10,700
+And the Ark is captured.
+
+70
+00:04:11,166 --> 00:04:15,969
+The Philistines put it in the temple of their god Dagon at Ashdod.
+
+71
+00:04:15,969 --> 00:04:21,063
+The next morning, the statue of Dagon lies on its face before the Ark.
+
+72
+00:04:21,063 --> 00:04:22,519
+They set it back up.
+
+73
+00:04:22,519 --> 00:04:25,866
+The next morning it is down again, and broken.
+
+74
+00:04:26,333 --> 00:04:29,589
+Then the people of Ashdod are struck with tumors.
+
+75
+00:04:29,589 --> 00:04:31,715
+Rodents spread through the land.
+
+76
+00:04:31,715 --> 00:04:36,433
+The Ark is moved to Gath, then to Ekron, and the affliction follows it.
+
+77
+00:04:36,899 --> 00:04:40,362
+For the machine theory, this is radiation sickness.
+
+78
+00:04:40,362 --> 00:04:44,300
+A dangerous energy source, poisoning everyone who kept it.
+
+79
+00:04:44,766 --> 00:04:47,075
+But the text gives its own clues.
+
+80
+00:04:47,075 --> 00:04:49,313
+Tumors that spread with rodents.
+
+81
+00:04:49,313 --> 00:04:51,552
+Many readers see bubonic plague.
+
+82
+00:04:51,552 --> 00:04:58,407
+After seven months the Philistines send it back with golden tumors and golden mice as an offering.
+
+83
+00:04:58,407 --> 00:05:00,366
+Ancient ritual, not physics.
+
+84
+00:05:00,833 --> 00:05:05,727
+At Beth Shemesh, men look inside the Ark, and seventy are struck down.
+
+85
+00:05:05,727 --> 00:05:08,104
+The lesson is the same every time.
+
+86
+00:05:08,104 --> 00:05:09,643
+This object has rules.
+
+87
+00:05:09,643 --> 00:05:12,300
+Break them, and holiness strikes back.
+
+88
+00:05:12,766 --> 00:05:13,666
+Entry four.
+
+89
+00:05:13,666 --> 00:05:15,465
+The road to Jerusalem.
+
+90
+00:05:15,465 --> 00:05:22,580
+The Ark rests for twenty years at Kiriath Jearim, in the house of a man named Abinadab.
+
+91
+00:05:22,580 --> 00:05:25,933
+His son Eleazar is set apart to guard it.
+
+92
+00:05:26,399 --> 00:05:29,654
+Then King David comes to bring it to Jerusalem.
+
+93
+00:05:29,654 --> 00:05:31,524
+With music and celebration.
+
+94
+00:05:31,524 --> 00:05:38,033
+But they put it on a brand-new cart, pulled by oxen, the way the Philistines had sent it back.
+
+95
+00:05:38,500 --> 00:05:39,819
+The oxen stumble.
+
+96
+00:05:39,819 --> 00:05:41,991
+Uzzah takes hold of the Ark.
+
+97
+00:05:41,991 --> 00:05:43,388
+He dies beside it.
+
+98
+00:05:43,388 --> 00:05:48,199
+David names the place Perez Uzzah, the outburst against Uzzah.
+
+99
+00:05:48,666 --> 00:05:52,119
+Here the machine theory makes its strongest case.
+
+100
+00:05:52,119 --> 00:05:56,205
+A man touches a gold-covered box and drops dead instantly.
+
+101
+00:05:56,205 --> 00:06:00,433
+To an electrical engineer, it looks like a lethal discharge.
+
+102
+00:06:00,899 --> 00:06:09,072
+An eighteen ninety-four article in the Electrical Review called the Ark a very expensive but very perfect Leyden jar.
+
+103
+00:06:09,072 --> 00:06:18,433
+But to make it work, the writer added things the Bible never says: a fire burning on top, and golden lightning poles fifty yards high.
+
+104
+00:06:18,899 --> 00:06:20,554
+And the text has a rule.
+
+105
+00:06:20,554 --> 00:06:25,791
+In Numbers, the Ark is carried by Levites, on their shoulders, by the poles.
+
+106
+00:06:25,791 --> 00:06:27,377
+Never touched directly.
+
+107
+00:06:27,377 --> 00:06:29,100
+The cart was the mistake.
+
+108
+00:06:29,566 --> 00:06:32,755
+Now the detail that hurts the electric theory.
+
+109
+00:06:32,755 --> 00:06:39,409
+After Uzzah, the Ark stays three months in the house of Obed Edom, and his household is blessed.
+
+110
+00:06:39,409 --> 00:06:43,776
+Then Levites carry it into Jerusalem by its gold-covered poles.
+
+111
+00:06:43,776 --> 00:06:46,133
+People lived with it, and held it.
+
+112
+00:06:46,600 --> 00:06:47,406
+Entry five.
+
+113
+00:06:47,406 --> 00:06:48,798
+The Holy of Holies.
+
+114
+00:06:48,798 --> 00:06:57,374
+King Solomon builds the Temple, and the Ark is placed in its innermost room, beneath the wings of two great cherubim.
+
+115
+00:06:57,374 --> 00:06:59,133
+A cloud fills the house.
+
+116
+00:06:59,600 --> 00:07:05,304
+Once a year, on Yom Kippur, the Day of Atonement, only the high priest may enter.
+
+117
+00:07:05,304 --> 00:07:08,333
+And here the internet adds a famous detail.
+
+118
+00:07:08,800 --> 00:07:15,759
+A rope tied to his ankle, so that if the power of the Ark killed him, the others could drag his body out.
+
+119
+00:07:15,759 --> 00:07:20,199
+Proof, theorists say, that even the priests feared what was inside.
+
+120
+00:07:20,666 --> 00:07:22,121
+But check the source.
+
+121
+00:07:22,121 --> 00:07:28,840
+The rope appears nowhere in the Bible, the Dead Sea Scrolls, Josephus, the Mishnah or the Talmud.
+
+122
+00:07:28,840 --> 00:07:34,866
+Its earliest known mention is the Zohar, a mystical book from thirteenth-century Spain.
+
+123
+00:07:35,333 --> 00:07:38,572
+So what was the Ark, to the people who made it?
+
+124
+00:07:38,572 --> 00:07:40,709
+Scholars look at its neighbors.
+
+125
+00:07:40,709 --> 00:07:48,566
+In Egypt, gods traveled in gilded shrines carried on poles by priests, in processions, and sometimes gave oracles.
+
+126
+00:07:49,033 --> 00:07:50,813
+And we have a real one.
+
+127
+00:07:50,813 --> 00:08:00,878
+In Tutankhamun's tomb, Howard Carter's team found a gilded wooden chest on long carrying poles, with the jackal god Anubis on top.
+
+128
+00:08:00,878 --> 00:08:03,433
+A sacred box, made to be carried.
+
+129
+00:08:03,899 --> 00:08:07,685
+The Bible itself calls the Ark the footstool of God.
+
+130
+00:08:07,685 --> 00:08:10,814
+The cherubim form an empty throne above it.
+
+131
+00:08:10,814 --> 00:08:15,619
+Covenant documents were kept at a god's feet in the ancient world.
+
+132
+00:08:15,619 --> 00:08:17,293
+The design makes sense.
+
+133
+00:08:17,293 --> 00:08:18,166
+As a shrine.
+
+134
+00:08:18,633 --> 00:08:30,633
+Scholar Scott Noegel argues the best parallel to the Ark is the Egyptian sacred barque, and that the idea probably took shape under Egyptian influence in the Late Bronze Age.
+
+135
+00:08:31,100 --> 00:08:31,887
+Entry six.
+
+136
+00:08:31,887 --> 00:08:34,801
+The last entry in the log is a blank.
+
+137
+00:08:34,801 --> 00:08:40,866
+In five hundred eighty-seven B.C., Babylon destroys Jerusalem and its Temple.
+
+138
+00:08:41,333 --> 00:08:44,561
+The book of Kings lists what was carried off.
+
+139
+00:08:44,561 --> 00:08:45,638
+Bronze pillars.
+
+140
+00:08:45,638 --> 00:08:46,642
+Bronze stands.
+
+141
+00:08:46,642 --> 00:08:48,149
+Pots, shovels, bowls.
+
+142
+00:08:48,149 --> 00:08:50,086
+The Ark is not on the list.
+
+143
+00:08:50,086 --> 00:08:53,100
+From here on, the chain of custody breaks.
+
+144
+00:08:53,566 --> 00:08:55,314
+Tradition fills the gap.
+
+145
+00:08:55,314 --> 00:09:00,701
+Second Maccabees says the prophet Jeremiah hid it in a cave on Mount Nebo.
+
+146
+00:09:00,701 --> 00:09:07,399
+Rabbis debated whether it went to Babylon, or whether King Josiah hid it beneath the Temple.
+
+147
+00:09:07,866 --> 00:09:18,266
+And in Axum, Ethiopia, the Orthodox Church says the Ark is here, in a chapel guarded by a single monk, who never leaves and lets no one see it.
+
+148
+00:09:18,733 --> 00:09:26,152
+Every Ethiopian Orthodox church keeps a tabot, a replica of the tablets, carried wrapped in procession.
+
+149
+00:09:26,152 --> 00:09:33,500
+The story of how the Ark came there, the Kebra Nagast, dates in its Ge'ez form to thirteen twenty-one.
+
+150
+00:09:33,966 --> 00:09:36,754
+One outsider claimed to have seen it.
+
+151
+00:09:36,754 --> 00:09:43,838
+Edward Ullendorff, a scholar of Ethiopia, said he examined the Axum ark in nineteen forty-one.
+
+152
+00:09:43,838 --> 00:09:45,496
+A wooden box, he said.
+
+153
+00:09:45,496 --> 00:09:45,948
+Empty.
+
+154
+00:09:45,948 --> 00:09:47,606
+Medieval construction.
+
+155
+00:09:47,606 --> 00:09:49,866
+Nobody has been able to check.
+
+156
+00:09:50,333 --> 00:10:01,080
+Since twenty seventeen, archaeologists Israel Finkelstein and Thomas Römer have excavated Kiriath Jearim, where the Ark rested for twenty years.
+
+157
+00:10:01,080 --> 00:10:05,633
+They found a monumental platform from the eighth century B.C.
+
+158
+00:10:06,100 --> 00:10:09,802
+They found no Ark, and they were not looking for one.
+
+159
+00:10:09,802 --> 00:10:12,735
+The chain of custody ends in an empty box.
+
+160
+00:10:12,735 --> 00:10:15,180
+Which means one thing for our test.
+
+161
+00:10:15,180 --> 00:10:18,533
+Nobody can put the actual object on a lab bench.
+
+162
+00:10:19,000 --> 00:10:20,757
+But we can test the design.
+
+163
+00:10:20,757 --> 00:10:25,639
+The theory says: build it to the specification, and it becomes a capacitor.
+
+164
+00:10:25,639 --> 00:10:27,266
+So let's run the numbers.
+
+165
+00:10:27,733 --> 00:10:35,306
+Gold on both sides of the wood, around five square meters each, with a wooden wall a few centimeters thick.
+
+166
+00:10:35,306 --> 00:10:38,633
+Our estimate: between three and ten nanofarads.
+
+167
+00:10:39,100 --> 00:10:42,893
+Now charge it to von Däniken's several hundred volts.
+
+168
+00:10:42,893 --> 00:10:46,974
+The energy stored is less than one thousandth of a joule.
+
+169
+00:10:46,974 --> 00:10:52,200
+That is weaker than the static spark from a doorknob on a dry winter day.
+
+170
+00:10:52,666 --> 00:10:58,306
+For comparison, a hospital defibrillator delivers well over a hundred joules.
+
+171
+00:10:58,306 --> 00:11:03,432
+Safety standards treat discharges above five joules as a serious risk.
+
+172
+00:11:03,432 --> 00:11:08,266
+The Ark at several hundred volts is thousands of times below that.
+
+173
+00:11:08,733 --> 00:11:10,520
+Could it be charged higher?
+
+174
+00:11:10,520 --> 00:11:16,744
+To hold five joules, it would need around thirty thousand volts, and something to supply them.
+
+175
+00:11:16,744 --> 00:11:20,385
+The Bible describes no generator and no lightning rods.
+
+176
+00:11:20,385 --> 00:11:23,166
+Those were added in the eighteen hundreds.
+
+177
+00:11:23,633 --> 00:11:24,772
+One last problem.
+
+178
+00:11:24,772 --> 00:11:31,943
+The gold poles sit in gold rings attached to the outer gold, and the carriers held them on their shoulders.
+
+179
+00:11:31,943 --> 00:11:36,366
+Any charge on the outside would drain through them as they walked.
+
+180
+00:11:36,833 --> 00:11:39,938
+The radio version fails the same bench.
+
+181
+00:11:39,938 --> 00:11:41,212
+No power source.
+
+182
+00:11:41,212 --> 00:11:42,088
+No antenna.
+
+183
+00:11:42,088 --> 00:11:43,044
+No receiver.
+
+184
+00:11:43,044 --> 00:11:49,016
+A voice from between the cherubim is how the text describes God's presence.
+
+185
+00:11:49,016 --> 00:11:51,166
+It is not a wiring diagram.
+
+186
+00:11:51,633 --> 00:11:53,050
+Notice the pattern.
+
+187
+00:11:53,050 --> 00:11:57,152
+In the age of the Leyden jar, the Ark was a Leyden jar.
+
+188
+00:11:57,152 --> 00:11:59,092
+In the radio age, a radio.
+
+189
+00:11:59,092 --> 00:12:02,896
+In the age of science fiction, a weapon from space.
+
+190
+00:12:02,896 --> 00:12:06,700
+Each era rebuilt the Ark out of its own technology.
+
+191
+00:12:07,166 --> 00:12:08,791
+Chain of custody complete.
+
+192
+00:12:08,791 --> 00:12:10,166
+Here is the scorecard.
+
+193
+00:12:10,633 --> 00:12:14,368
+A detailed design survives in Exodus: evidence.
+
+194
+00:12:14,368 --> 00:12:18,501
+Gold, wood, gold looks like a capacitor: shape only.
+
+195
+00:12:18,501 --> 00:12:21,839
+It could kill by electric shock: debunked.
+
+196
+00:12:21,839 --> 00:12:25,733
+The Philistine plague was radiation: no evidence.
+
+197
+00:12:26,200 --> 00:12:31,957
+The high priest's rope proves deadly power: debunked, a medieval legend.
+
+198
+00:12:31,957 --> 00:12:36,115
+Real Bronze Age parallels exist: evidence, in Egypt.
+
+199
+00:12:36,115 --> 00:12:39,633
+The Ark was an alien machine: not supported.
+
+200
+00:12:40,100 --> 00:12:40,945
+The verdict.
+
+201
+00:12:40,945 --> 00:12:44,044
+The machine theory is not an ancient secret.
+
+202
+00:12:44,044 --> 00:12:49,398
+It is a clever eighteenth-century comparison that grew with every retelling.
+
+203
+00:12:49,398 --> 00:12:55,033
+Built to its own specification, the Ark is a poor capacitor and no radio at all.
+
+204
+00:12:55,500 --> 00:12:59,337
+What the evidence does support is stranger in its own way.
+
+205
+00:12:59,337 --> 00:13:08,466
+A people who carried a golden throne for an invisible God at the front of their march, and wrote that its power was holiness, not voltage.
+
+206
+00:13:08,933 --> 00:13:11,696
+Where it is today, nobody can prove.
+
+207
+00:13:11,696 --> 00:13:17,222
+In Axum, under Jerusalem, in a cave on Mount Nebo, or gone with Babylon.
+
+208
+00:13:17,222 --> 00:13:19,754
+That part of the case stays open.
+
+209
+00:13:19,754 --> 00:13:21,366
+Maybe it always will.
+
+210
+00:13:21,833 --> 00:13:29,653
+But if the Ark is ever found, it will not need to be a machine to be one of the most important discoveries in history.
+
+211
+00:13:29,653 --> 00:13:33,166
+A wooden box with gold on both sides would be enough.
+
+212
+00:13:33,633 --> 00:13:35,292
+That is the custody log.
+
+213
+00:13:35,292 --> 00:13:37,711
+Machine, shrine, or something else?
+
+214
+00:13:37,711 --> 00:13:43,033
+Tell us in the comments, and subscribe for the next ancient mystery on trial.
