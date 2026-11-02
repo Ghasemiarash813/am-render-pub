@@ -1,0 +1,1365 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night over the Nazca desert in Peru, vast flat plain under a sky full of stars, faint geoglyph lines on the ground, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In September twenty twenty-three, inside Mexico's Congress, two small boxes were opened in front of the cameras. Inside lay two tiny bodies with long heads and three fingers on each hand."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In September twenty twenty-three, inside Mexico's Congress, two small boxes were opened in front of the cameras. Inside lay two tiny bodies with long heads and three fingers on each hand.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.272
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Glowing blue holographic wireframe of a small three-fingered hand floating above a dark laboratory table, scientific visualization, cinematic, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The man presenting them said, under oath, that they were not human. Not from our evolution. A thousand years old. Found in the desert of Nazca, in Peru."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The man presenting them said, under oath, that they were not human. Not from our evolution. A thousand years old. Found in the desert of Nazca, in Peru.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 10.68
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide view of a dark modern parliament hall with rows of empty seats and a single spotlight on a small glass display case covered with a dark cloth, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The clip went around the world in hours. Aliens, shown to a parliament. For millions of people, that sounded like disclosure."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The clip went around the world in hours. Aliens, shown to a parliament. For millions of people, that sounded like disclosure.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 8.208
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Scientific journal manuscript pages stacked on a dark wooden desk under a green banker's lamp, a red wax seal and a fountain pen, blank pages, moody photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But a parliament is not a laboratory. Science has its own test for an extraordinary claim. You submit it, and experts tear it apart before anyone believes it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But a parliament is not a laboratory. Science has its own test for an extraordinary claim. You submit it, and experts tear it apart before anyone believes it.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An editor's desk at night with five closed folders fanned out under a lamp, magnifying glass, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we do exactly that. We send the Nazca mummies out for peer review. Five referees. One rebuttal from the authors. And then the editor's decision."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we do exactly that. We send the Nazca mummies out for peer review. Five referees. One rebuttal from the authors. And then the editor's decision.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 11.232
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A sealed envelope and a small archive box tied with string on a desk in warm lamplight, the desert visible through a dark window, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First, the submission. The claim, as its authors make it, is simple. In the deserts around Nazca and Palpa, a group of three-fingered beings was found, preserved for over a thousand years. They are not human."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "SUBMISSION",
+   "The Manuscript",
+   "NAZCA \u00b7 PALPA \u00b7 2015\u20132017"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First, the submission. The claim, as its authors make it, is simple. In the deserts around Nazca and Palpa, a group of three-fingered beings was found, preserved for over a thousand years. They are not human.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "sand",
+  "motion": "left",
+  "prompt": "Lonely desert landscape near Palpa, Peru, at dusk, dry hills and sand, distant small lights of a town, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every paper needs a methods section. Where were the specimens found, by whom, and how? Here the trouble starts. No archaeologist excavated them. Ever."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every paper needs a methods section. Where were the specimens found, by whom, and how? Here the trouble starts. No archaeologist excavated them. Ever.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Silhouettes of shovels and a lantern beside a disturbed patch of desert sand at night, footprints, ominous mood, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "According to the people who promoted them, the bodies came from huaqueros, tomb looters from Palpa. Their leader was known only as Mario. One of the promoters called him a delinquent, well known to the local police."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "According to the people who promoted them, the bodies came from huaqueros, tomb looters from Palpa. Their leader was known only as Mario. One of the promoters called him a delinquent, well known to the local police.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Old typewritten letter on a desk seen from a sharp angle so no words are readable, a Peruvian desert photograph clipped to it, warm light, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In January twenty seventeen, the French explorer Thierry Jamin wrote to Peru's Ministry of Culture. He described about twenty humanoid bodies in stone sarcophagi, with three-fingered hands. Then he raised money online, almost forty thousand euros, to study them."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In January twenty seventeen, the French explorer Thierry Jamin wrote to Peru's Ministry of Culture. He described about twenty humanoid bodies in stone sarcophagi, with three-fingered hands. Then he raised money online, almost forty thousand euros, to study them.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 18.312
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Dark editing studio with several monitors showing glowing desert footage and blurred laboratory scenes, streaming documentary production, cinematic, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In June twenty seventeen, a streaming site released a series about the largest body, a pale, white-powdered figure the team called Maria. Gaia, the site, said she might be around seventeen hundred years old."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In June twenty seventeen, a streaming site released a series about the largest body, a pale, white-powdered figure the team called Maria. Gaia, the site, said she might be around seventeen hundred years old.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Glowing wireframe hologram of a slender humanoid figure rotating slowly above a dark table, blue light, scientific visualization, abstract, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Six years later, smaller bodies, about sixty centimetres tall, reached Mexico's Congress, presented by the journalist and UFO researcher Jaime Maussan. The claim had grown. Non-human, and possibly intelligent."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Six years later, smaller bodies, about sixty centimetres tall, reached Mexico's Congress, presented by the journalist and UFO researcher Jaime Maussan. The claim had grown. Non-human, and possibly intelligent.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 15.216
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "An editor at a desk handing five sealed folders to unseen hands, lamp light, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Editor's note on the submission. A specimen bought from looters has no context: no grave, no layers, no record. Science can still test it. But every test now has to work twice as hard. Send it to the first referee."
+   ]
+  ],
+  "tag": "N",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Editor's note on the submission. A specimen bought from looters has no context: no grave, no layers, no record. Science can still test it. But every test now has to work twice as hard. Send it to the first referee.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 15.408
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Radiology reading room in the dark, glowing lightboxes showing abstract grey bone-like shapes, a radiologist silhouette, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Referee one is a radiologist. Because the strongest card the authors hold is the scans. X-rays and CT scans, published for years, showing skeletons inside the bodies."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "REFEREE 1",
+   "The Radiologist",
+   "X-RAY \u00b7 CT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Referee one is a radiologist. Because the strongest card the authors hold is the scans. X-rays and CT scans, published for years, showing skeletons inside the bodies.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 13.176
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a radiologist's hand pointing a pen at a glowing lightbox with abstract skeletal silhouettes, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And it's true. There are real bones inside. Promoters point to skeletons with no obvious seams, organs, even what they call eggs. To them, that is the end of the argument. To a radiologist, it is the beginning."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And it's true. There are real bones inside. Promoters point to skeletons with no obvious seams, organs, even what they call eggs. To them, that is the end of the argument. To a radiologist, it is the beginning.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 14.832
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeology lab: a cloth-wrapped seated mummy bundle in a museum archive box, covered respectfully with a woven textile, soft light, no body visible, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look at Maria first. Anthropologist Andrew Nelson said she looks like a typical Nazca mummy, sitting in the flexed position Nazca people used for their dead. A human being. Wrapped and buried by her family centuries ago."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look at Maria first. Anthropologist Andrew Nelson said she looks like a typical Nazca mummy, sitting in the flexed position Nazca people used for their dead. A human being. Wrapped and buried by her family centuries ago.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 16.008
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Abstract glowing X-ray style illustration of a human hand with five fingers, two fingers fading away, blue on black, scientific visualization, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The hands and feet are where the scans get interesting. Experts reading the images say they show signs of manipulation: digits removed, bones rearranged, and a white powder coating that hides the joins."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The hands and feet are where the scans get interesting. Experts reading the images say they show signs of manipulation: digits removed, bones rearranged, and a white powder coating that hides the joins.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 14.28
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Glowing holographic three-fingered hand with the finger bones highlighted, one bone glowing red as if reversed, dark lab, scientific visualization, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then a three-fingered hand came into the hands of Peru's own forensic institute. The X-rays showed human bones from adults and juveniles. One finger bone had been glued in backwards."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then a three-fingered hand came into the hands of Peru's own forensic institute. The X-rays showed human bones from adults and juveniles. One finger bone had been glued in backwards.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Small grey river stones arranged on a black velvet cloth under a lab lamp, three oval stones, macro photography, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the eggs? In one sixty centimetre figure seized by Peruvian authorities, the eggs on the scan turned out to be stones."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the eggs? In one sixty centimetre figure seized by Peruvian authorities, the eggs on the scan turned out to be stones.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 8.568
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Radiologist removing glasses in a dark reading room, lightbox glow on her face, thoughtful mood, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reviewer note. A scan shows what is inside. It cannot tell you whether it grew there. Real bones are what you would expect, whether the body is alien, or assembled from real remains."
+   ]
+  ],
+  "tag": "N",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reviewer note. A scan shows what is inside. It cannot tell you whether it grew there. Real bones are what you would expect, whether the body is alien, or assembled from real remains.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Comparative anatomy lab with animal skeletons in glass cases, a llama skull and bird skeletons under soft light, museum atmosphere, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Referee two is an anatomist. The job: does this body make sense as a living animal? Every vertebrate on Earth follows a plan. Bones meet in predictable ways, because they have to carry weight."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "REFEREE 2",
+   "The Anatomist",
+   "COMPARATIVE OSTEOLOGY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Referee two is an anatomist. The job: does this body make sense as a living animal? Every vertebrate on Earth follows a plan. Bones meet in predictable ways, because they have to carry weight.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 14.016
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A llama standing on a high Andean plateau at golden hour, mountains behind, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In January twenty twenty-four, forensic archaeologist Flavio Estrada showed what was inside two small figures seized at a Lima courier office, on their way to Mexico. The head of one was the skull of a camelid. A llama or an alpaca."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In January twenty twenty-four, forensic archaeologist Flavio Estrada showed what was inside two small figures seized at a Lima courier office, on their way to Mexico. The head of one was the skull of a camelid. A llama or an alpaca.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 17.592
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Bird bones arranged in a row on a black cloth in a laboratory, delicate and clean, macro photography, scientific, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The arms and legs? Bird bones. The snout of the skull had been cut away, and a face was modelled on the back of the braincase. Metal plates had been placed on the chest, to look mysterious on an X-ray."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The arms and legs? Bird bones. The snout of the skull had been cut away, and a face was modelled on the back of the braincase. Metal plates had been placed on the chest, to look mysterious on an X-ray.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 13.536
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Forensic scientist in a white coat examining a bone fragment under a magnifying lamp, dark lab, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Estrada's verdict was blunt. These are not extraterrestrials. Not intraterrestrials. Not a new species. Not hybrids. In his words, they are dolls assembled from the bones of animals from this planet."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Estrada's verdict was blunt. These are not extraterrestrials. Not intraterrestrials. Not a new species. Not hybrids. In his words, they are dolls assembled from the bones of animals from this planet.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Glowing wireframe of a small humanoid skeleton that tilts and cannot balance, unstable posture, blue scientific hologram on black, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He also noted something any anatomist would: there is no evolutionary logic. With those flat feet and those joints, the figures could never have walked, or even stood."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He also noted something any anatomist would: there is no evolutionary logic. With those flat feet and those joints, the figures could never have walked, or even stood.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.544
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Researcher in silhouette pinning photos and string on an evidence board, dark room, photos blurred and abstract, cinematic, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The authors push back. A report by Cliff Miles proposes the small bodies are a brand-new genus and species. And promoters insist the seized figures were cheap folk dolls, not their specimens."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The authors push back. A report by Cliff Miles proposes the small bodies are a brand-new genus and species. And promoters insist the seized figures were cheap folk dolls, not their specimens.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 13.584
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "An anatomist closing a heavy anatomy atlas on a desk, warm lamp, photoreal, closed book, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reviewer note. That objection cuts both ways. If the authors' bodies are different, they must be opened to the same independent test. Until then, the only small figures examined by a state lab were built, not born."
+   ]
+  ],
+  "tag": "N",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reviewer note. That objection cuts both ways. If the authors' bodies are different, they must be opened to the same independent test. Until then, the only small figures examined by a state lab were built, not born.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 15.144
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Analytical chemistry lab at night, infrared spectrometer glowing, sample vials, blue light, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Referee three is a chemist. Forget the bones. What is the skin made of? A body that is a thousand years old should be made of a thousand-year-old body."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "REFEREE 3",
+   "The Chemist",
+   "INFRARED SPECTROSCOPY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Referee three is a chemist. Forget the bones. What is the skin made of? A body that is a thousand years old should be made of a thousand-year-old body.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 10.728
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a spectrometer screen with smooth abstract glowing curves, no numbers, blue light, shallow depth of field, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Peru's forensic team used infrared spectroscopy, which reads the chemical fingerprint of a material. On the three-fingered hand, they found wool, polypropylene plastic, and a glue so specific they matched it to a brand: UHU."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Peru's forensic team used infrared spectroscopy, which reads the chemical fingerprint of a material. On the three-fingered hand, they found wool, polypropylene plastic, and a glue so specific they matched it to a brand: UHU.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 16.224
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Torn paper pulp, plant fibres and a drop of clear glue on a lab tray under bright light, macro photography, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The so-called skin of the small figures was a paste of glues, plant fibre and ground paper. Estrada's team looked for cells and found none. Just fibre, gum, glue and oils."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The so-called skin of the small figures was a paste of glues, plant fibre and ground paper. Estrada's team looked for cells and found none. Just fibre, gum, glue and oils.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Fine white powder spilled on a dark slate surface with a small brush, macro, dramatic side light, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the white powder. The authors told Congress the beings were buried in diatomaceous earth, fossil algae, and that is what preserved them. Maybe. But a white coat over everything is also exactly how you hide a join."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the white powder. The authors told Congress the beings were buried in diatomaceous earth, fossil algae, and that is what preserved them. Maybe. But a white coat over everything is also exactly how you hide a join.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 15.168
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Chemist holding a small sealed sample bag up to the light, laboratory, photoreal, bag without label, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reviewer note. Modern synthetic glue cannot be a thousand years old. Whatever is ancient in these objects, the assembly is recent."
+   ]
+  ],
+  "tag": "N",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reviewer note. Modern synthetic glue cannot be a thousand years old. Whatever is ancient in these objects, the assembly is recent.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Accelerator mass spectrometry laboratory with large metal beamline equipment, cool blue lighting, empty, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Referee four runs a radiocarbon lab. And this is the evidence Congress heard most about: a carbon-fourteen date from Mexico's national university, UNAM, about a thousand years."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "REFEREE 4",
+   "The Dating Lab",
+   "RADIOCARBON \u00b7 UNAM 2017"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Referee four runs a radiocarbon lab. And this is the evidence Congress heard most about: a carbon-fourteen date from Mexico's national university, UNAM, about a thousand years.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Tiny tissue-free sample on a precision scale in a clean lab, tweezers, bright light, macro photography, scale display blank, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is what the lab actually did. In May twenty seventeen, a client sent samples which, the client said, were skin and brain tissue. About half a gram. The lab dated them. That was all."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is what the lab actually did. In May twenty seventeen, a client sent samples which, the client said, were skin and brain tissue. About half a gram. The lab dated them. That was all.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Scientist standing in front of accelerator equipment with arms crossed, serious mood, blue light, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "When the date was used in Congress, the university reissued its statement. Its staff never took the samples and never saw the source. It rejects any use or interpretation of its results beyond the date itself."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "When the date was used in Congress, the university reissued its statement. Its staff never took the samples and never saw the source. It rejects any use or interpretation of its results beyond the date itself.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient textile fragment and a broken Nasca-style painted pot on a museum table, soft light, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And think about what an old date means. Peru's desert is full of real burials more than a thousand years old. Old tissue is exactly what you would get from a looted grave."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And think about what an old date means. Peru's desert is full of real burials more than a thousand years old. Old tissue is exactly what you would get from a looted grave.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Hourglass with sand on a desk beside an old ceramic bowl, dark background, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reviewer note. Radiocarbon dates the material in the tube, not the object on the table. An ancient date is fully consistent with ancient human remains, reworked today."
+   ]
+  ],
+  "tag": "N",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reviewer note. Radiocarbon dates the material in the tube, not the object on the table. An ancient date is fully consistent with ancient human remains, reworked today.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Genetics laboratory with DNA sequencer machines glowing, a glowing double helix hologram, blue light, cinematic, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Referee five is a geneticist. This is the test that should settle it. Alien life would not share our genetic code. Human remains would."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "REFEREE 5",
+   "The Geneticist",
+   "DNA \u00b7 2018\u20132025"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Referee five is a geneticist. This is the test that should settle it. Alien life would not share our genetic code. Human remains would.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 9.528
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Glowing double helix strand breaking into scattered light fragments against a dark background, abstract scientific art, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The promoters' own sequencing has circulated since twenty eighteen, with headlines about unknown DNA. Large shares of the reads could not be matched to anything. That sounded like a smoking gun."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The promoters' own sequencing has circulated since twenty eighteen, with headlines about unknown DNA. Large shares of the reads could not be matched to anything. That sounded like a smoking gun.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 13.56
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Microscope view stylized: colorful bacteria shapes and fragments, abstract scientific art, glowing, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But unknown is not alien. Old, dirty, handled tissue is full of bacteria and broken fragments that databases cannot place. Even the promoters' reports said most identifiable reads were human contamination."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But unknown is not alien. Old, dirty, handled tissue is full of bacteria and broken fragments that databases cannot place. Even the promoters' reports said most identifiable reads were human contamination.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 15.504
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Computer screen glowing in a dark room with abstract genomic data bars, a researcher's silhouette, no readable text, cinematic, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The raw data was public, so anyone could check it. In December twenty twenty-five, bioinformatician Alaina Hardie and Alan Izarraras-Gomez of UNAM published their reanalysis."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The raw data was public, so anyone could check it. In December twenty twenty-five, bioinformatician Alaina Hardie and Alan Izarraras-Gomez of UNAM published their reanalysis.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Glowing human silhouette made of DNA strands, warm light, scientific art, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their conclusion: the DNA is unambiguously modern human. It lacks the damage patterns that real ancient DNA always shows. The most likely source is contamination in the lab."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their conclusion: the DNA is unambiguously modern human. It lacks the damage patterns that real ancient DNA always shows. The most likely source is contamination in the lab.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Geneticist sealing a sample tube and placing it in a rack, clean lab, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reviewer note. The genetic signal is human, and modern. Nothing in the published sequence data requires a non-human source."
+   ]
+  ],
+  "tag": "N",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reviewer note. The genetic signal is human, and modern. Nothing in the published sequence data requires a non-human source.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 8.616
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A man in a suit seen from behind at a podium facing a dark auditorium with screens, blurred, cinematic, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the authors get their right of reply. In November twenty twenty-three, at a second session in Mexico's Congress, a line of doctors testified that the bodies were real, once-living organisms."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "REBUTTAL",
+   "The Authors Reply",
+   "2023\u20132026"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the authors get their right of reply. In November twenty twenty-three, at a second session in Mexico's Congress, a line of doctors testified that the bodies were real, once-living organisms.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Macro photograph of fingerprint ridges glowing blue under forensic light, abstract, no text, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty twenty-four, an American lawyer and his team said Maria's fingerprints did not look like human prints. Preliminary, he stressed. In twenty twenty-five, a Russian doctor self-published a CT study arguing the bodies looked biologically consistent."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty twenty-four, an American lawyer and his team said Maria's fingerprints did not look like human prints. Preliminary, he stressed. In twenty twenty-five, a Russian doctor self-published a CT study arguing the bodies looked biologically consistent.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 17.688
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "University corridor at night with a locked storage room door, Peruvian colonial style building, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In January twenty twenty-six, the promoters said six bodies were handed to a university in Ica, which asked for them to be registered as cultural heritage. Research, they say, continues."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In January twenty twenty-six, the promoters said six bodies were handed to a university in Ica, which asked for them to be registered as cultural heritage. Research, they say, continues.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 13.416
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Empty courtroom gallery in Lima style with wooden benches, closed case files on a table, dim light, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there was a lawsuit. Maussan announced a three hundred million dollar claim against Peru. The court record tells a quieter story: declared inadmissible in twenty twenty-five, rejected on appeal, archived in April twenty twenty-six. It never reached trial."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there was a lawsuit. Maussan announced a three hundred million dollar claim against Peru. The court record tells a quieter story: declared inadmissible in twenty twenty-five, rejected on appeal, archived in April twenty twenty-six. It never reached trial.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 17.616
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Futuristic abstract silhouette of a human figure dissolving into light particles, blue and gold, cinematic art, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the theory keeps moving. In October twenty twenty-six, Maussan floated a new idea: maybe the bodies are humans from the future."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the theory keeps moving. In October twenty twenty-six, Maussan floated a new idea: maybe the bodies are humans from the future.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Editor reading a thick reply letter at a desk late at night, lamp light, pages blank, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Editor's reading of the rebuttal. It offers many voices, but no one has handed a specimen, with a documented chain of custody, to an independent lab that publishes in a peer-reviewed journal."
+   ]
+  ],
+  "tag": "N",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Editor's reading of the rebuttal. It offers many voices, but no one has handed a specimen, with a documented chain of custody, to an independent lab that publishes in a peer-reviewed journal.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Old black and white style photograph of a Victorian scientist with a skull, abstract and blurred, sepia tone, no writing, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is one more referee the authors never asked for. History. In the nineteenth century, scientists measured Andean skulls to argue that ancient Peruvians were somehow other. The historian Christopher Heaney sees the same pattern here."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is one more referee the authors never asked for. History. In the nineteenth century, scientists measured Andean skulls to argue that ancient Peruvians were somehow other. The historian Christopher Heaney sees the same pattern here.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 15.576
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient Nazca pottery with painted birds and orcas in a museum case, warm spotlight, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ancient Peruvians built cities, irrigation, and the giant lines in the desert. Every alien story about Nazca quietly takes that achievement away from them, and gives it to someone from the sky."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ancient Peruvians built cities, irrigation, and the giant lines in the desert. Every alien story about Nazca quietly takes that achievement away from them, and gives it to someone from the sky.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Peruvian archaeologist in a field hat kneeling at a protected excavation site, careful brush work, golden light, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Peru's mummy experts said it most clearly in twenty seventeen. These finds, they wrote, are without any doubt human remains, the cultural heritage of the nation. One of them added: you cannot take away the condition of human from a human being."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Peru's mummy experts said it most clearly in twenty seventeen. These finds, they wrote, are without any doubt human remains, the cultural heritage of the nation. One of them added: you cannot take away the condition of human from a human being.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 16.272
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Desert cemetery at night with low adobe walls and scattered potsherds under stars, solemn mood, no bodies, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Because that is the part the clip never showed. If the large bodies are real Nazca mummies, they were real people. Someone's grandmother. Someone's child. Taken from their graves and reshaped to sell a story."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Because that is the part the clip never showed. If the large bodies are real Nazca mummies, they were real people. Someone's grandmother. Someone's child. Taken from their graves and reshaped to sell a story.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 14.544
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Police evidence boxes sealed with tape on shelves in a dim archive room, photoreal, no labels, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Peru has treated it as a crime from the start. Prosecutors opened a case on looted archaeological material in twenty seventeen. One man linked to the first finds was given a suspended sentence in twenty twenty-two."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Peru has treated it as a crime from the start. Prosecutors opened a case on looted archaeological material in twenty seventeen. One man linked to the first finds was given a suspended sentence in twenty twenty-two.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 15.096
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Editor's hand resting on a stack of five folders beside a rubber stamp, lamp light, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Five referee reports are in. The authors have replied. Time for the editor's decision."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Five referee reports are in. The authors have replied. Time for the editor's decision.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 6.168
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark wooden editor's desk with an open folder and a lamp, deep shadows, empty space for overlay, cinematic, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is how the claim scored."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DECISION",
+   "The Editor's Decision",
+   "SCORECARD"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is how the claim scored.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 1.704
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark wooden editor's desk with an open folder and a lamp, deep shadows, empty space for overlay, cinematic, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The large bodies are best explained as real ancient human mummies: evidence. The small figures examined by Peru's state lab were built from animal bones: evidence. The three-fingered hand was human bones and glue: evidence. And an old carbon date proves an alien origin: debunked."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The large bodies are best explained as real ancient human mummies: evidence. The small figures examined by Peru's state lab were built from animal bones: evidence. The three-fingered hand was human bones and glue: evidence. And an old carbon date proves an alien origin: debunked.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 19.632
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark wooden editor's desk with an open folder and a lamp, deep shadows, empty space for overlay, cinematic, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Unknown DNA proves a non-human being: debunked, it is modern human contamination. Every specimen independently tested: not yet, still open. And the core claim, non-human beings from Nazca: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Unknown DNA proves a non-human being: debunked, it is modern human contamination. Every specimen independently tested: not yet, still open. And the core claim, non-human beings from Nazca: no evidence.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 15.96
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A red rubber stamp hovering above a manuscript on a desk, dramatic light, moment before impact, photoreal, blank paper, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Decision: rejected. Not because the idea of alien life is silly. It isn't. But because every test this claim could be put through, it failed, and every time it failed, the story changed."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Decision: rejected. Not because the idea of alien life is silly. It isn't. But because every test this claim could be put through, it failed, and every time it failed, the story changed.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Desert sunrise over Nazca plain with geoglyph lines catching first light, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So what do the scans really show? Real bones. Some from humans, some from llamas and birds. Joined with modern glue, wrapped in paper paste, and coated in white powder."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So what do the scans really show? Real bones. Some from humans, some from llamas and birds. Joined with modern glue, wrapped in paper paste, and coated in white powder.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Peruvian museum hall with respectful display of ancient textiles and ceramics, visitors in silhouette, warm light, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What they don't show is anything that never lived on Earth. The mystery was never in the bodies. It was in how a looted grave can end up in a parliament."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What they don't show is anything that never lived on Earth. The mystery was never in the bodies. It was in how a looted grave can end up in a parliament.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Starry sky over the Andes at night with the Milky Way, quiet and vast, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If we ever do find life beyond Earth, it will not arrive in a box from a tomb raider. It will come through the slow, boring, beautiful process you just watched. Submission. Review. Replication."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If we ever do find life beyond Earth, it will not arrive in a box from a tomb raider. It will come through the slow, boring, beautiful process you just watched. Submission. Review. Replication.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 13.728
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Archive box closed with a woven Andean textile laid over it like a shroud, candle light, respectful mood, photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the people inside these bodies deserve what every one of us would want. A name, if it can be found. A grave. And to be left in peace."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the people inside these bodies deserve what every one of us would want. A name, if it can be found. A grave. And to be left in peace.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 9.384
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Dark desk with a closed case folder and a small brass magnifying glass, lamp turning off, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This has been a case file from Ancient Machines. If you want the next claim sent out for review, tell me in the comments which one. And subscribe, so you don't miss the decision."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This has been a case file from Ancient Machines. If you want the next claim sent out for review, tell me in the comments which one. And subscribe, so you don't miss the decision.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 11.28
+   }
+  ]
+ }
+]
