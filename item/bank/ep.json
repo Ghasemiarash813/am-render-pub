@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A row of giant moai stone statues on a stone platform silhouetted against a blazing sunrise on Easter Island, ocean behind, cinematic photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On one of the most remote islands on Earth stand nearly a thousand stone giants. Some are taller than a three-storey house. Some weigh as much as a dozen elephants."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On one of the most remote islands on Earth stand nearly a thousand stone giants. Some are taller than a three-storey house. Some weigh as much as a dozen elephants.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Tall unfinished moai statues standing half buried on the grassy slope of a volcanic crater quarry, golden light, cinematic photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They were carved in one volcanic crater, then moved for kilometres across the island, with no wheels, no metal, and no draft animals."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They were carved in one volcanic crater, then moved for kilometres across the island, with no wheels, no metal, and no draft animals.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Glowing flying saucer hovering at night above a moai statue on a hillside with a beam of light lifting it, cinematic science fiction, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For more than fifty years, one bestselling answer has been: they didn't do it. Stranded aliens did. Beings with advanced tools and a way of working stone unknown to us."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For more than fifty years, one bestselling answer has been: they didn't do it. Stranded aliens did. Beings with advanced tools and a way of working stone unknown to us.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Elderly Rapa Nui man with a weathered face looking toward moai statues on the horizon at dusk, respectful documentary portrait, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The people of Rapa Nui have always given a different answer. Ask how the statues crossed the island, and the old stories say something very strange. They walked."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The people of Rapa Nui have always given a different answer. Ask how the statues crossed the island, and the old stories say something very strange. They walked.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Dirt road winding across green rolling hills of Easter Island toward the sea, a single moai standing far away, aerial cinematic photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So today we follow one statue on its journey. From the quarry, down the road, to the platform, and to what came after. At every station, the alien claim meets the experiment."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So today we follow one statue on its journey. From the quarry, down the road, to the platform, and to what came after. At every station, the alien claim meets the experiment.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 11.784
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide view of the Rano Raraku volcanic crater slope dotted with dozens of moai heads emerging from grass, morning mist, cinematic photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station one is the quarry, Rano Raraku. About ninety-five percent of all moai were carved from the soft rock of this single volcano."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STATION I",
+   "The Quarry",
+   "RANO RARAKU \u00b7 KM 0"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station one is the quarry, Rano Raraku. About ninety-five percent of all moai were carved from the soft rock of this single volcano.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 9.984
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a moai face being carved directly into a yellow-brown volcanic rock cliff, chisel marks visible, unfinished, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The rock is tuff, compressed volcanic ash. Carvers outlined a figure on its back in the cliff face, then chipped around it until only a thin keel of stone along the spine held it to the mountain."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The rock is tuff, compressed volcanic ash. Carvers outlined a figure on its back in the cliff face, then chipped around it until only a thin keel of stone along the spine held it to the mountain.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.2
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Pile of grey basalt hand picks and stone chisels lying on volcanic soil at an ancient quarry, macro photography, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their tools are still lying there by the thousand. Basalt hand picks called toki, harder than the tuff, resharpened by knocking off a fresh edge."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their tools are still lying there by the thousand. Basalt hand picks called toki, harder than the tuff, resharpened by knocking off a fresh edge.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Old weathered book open on a dark desk under a lamp, beside a small grey volcanic stone, moody, no readable text, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the first alien claim. In nineteen sixty-eight, Erich von D\u00e4niken wrote that even two thousand men, working day and night, could never carve these figures out of the steel-hard volcanic stone with rudimentary tools."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the first alien claim. In nineteen sixty-eight, Erich von D\u00e4niken wrote that even two thousand men, working day and night, could never carve these figures out of the steel-hard volcanic stone with rudimentary tools.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 15.6
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Group of Rapa Nui carvers in the 1950s working with stone picks on a rock face at a quarry, vintage documentary photograph style, sepia, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the stone is not steel-hard. In the nineteen fifties, Rapa Nui carvers showed visiting archaeologists how it was done, with the old toki from the quarry floor. A medium statue, they estimated, took a small team about a year."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the stone is not steel-hard. In the nineteen fifties, Rapa Nui carvers showed visiting archaeologists how it was done, with the old toki from the quarry floor. A medium statue, they estimated, took a small team about a year.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 16.08
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Enormous unfinished moai lying on its back still attached to the rock in a quarry, people tiny beside it for scale, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The quarry also holds the biggest moai ever started. Archaeologists call it El Gigante. Twenty-one metres long, perhaps a hundred and sixty tonnes, and never cut free. It was never meant to move, or it was too ambitious to try."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The quarry also holds the biggest moai ever started. Archaeologists call it El Gigante. Twenty-one metres long, perhaps a hundred and sixty tonnes, and never cut free. It was never meant to move, or it was too ambitious to try.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 15.96
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Aerial drone view of a volcanic crater quarry with many carving niches and trenches in the rock, photoreal, survey style, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty twenty-five, a team stitched eleven thousand drone photographs into a three-dimensional model of the quarry. They counted four hundred and twenty-six moai in progress, and about thirty separate workshops working side by side."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty twenty-five, a team stitched eleven thousand drone photographs into a three-dimensional model of the quarry. They counted four hundred and twenty-six moai in progress, and about thirty separate workshops working side by side.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 15.744
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Several small groups of Polynesian carvers working in separate niches along a volcanic cliff, wide reconstruction, painterly photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No single king's factory. It looks like many family groups, each with its own corner of the mountain, each carving its own ancestors. That matters for the next station."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No single king's factory. It looks like many family groups, each with its own corner of the mountain, each carving its own ancestors. That matters for the next station.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 11.136
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Moai statue standing upright in a pit at the foot of a volcanic slope, ropes around it, workers finishing its back, reconstruction, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station two: the descent. Once the keel was cut, the statue was lowered down the slope and stood upright in a pit, where carvers finished its back."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STATION II",
+   "The Descent",
+   "FROM CLIFF TO PIT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station two: the descent. Once the keel was cut, the statue was lowered down the slope and stood upright in a pit, where carvers finished its back.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Moai heads buried up to the neck in green grass on a hillside, only heads visible, overcast sky, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Many of those statues are still standing there, buried to the shoulders by centuries of soil washing down the slope. That is why the world calls them the Easter Island heads."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Many of those statues are still standing there, buried to the shoulders by centuries of soil washing down the slope. That is why the world calls them the Easter Island heads.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Archaeologists excavating around a moai head revealing a full torso and carved hands under the soil, documentary photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dig around them and the heads have bodies. Torsos, long arms, hands with slender fingers resting on the belly. Some carry carvings on their backs."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dig around them and the heads have bodies. Torsos, long arms, hands with slender fingers resting on the belly. Some carry carvings on their backs.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Moai statues standing underwater on the sea floor in blue light, fish swimming around, fantasy concept art, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The half-finished quarry inspired another theory. In the eighteen hundreds some writers claimed the island was the last peak of a sunken continent, and that most of the statues lay under the sea."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The half-finished quarry inspired another theory. In the eighteen hundreds some writers claimed the island was the last peak of a sunken continent, and that most of the statues lay under the sea.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.552
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Volcanic island coastline with steep cliffs and deep blue ocean, aerial view, no other land in sight, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is no sunken continent. Rapa Nui is the top of volcanoes rising from deep ocean floor, and there is no evidence of drowned statues. The moai we know are the moai there are."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is no sunken continent. Rapa Nui is the top of volcanoes rising from deep ocean floor, and there is no evidence of drowned statues. The moai we know are the moai there are.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 13.632
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Unfinished moai lying on a slope beside a hard dark lump of rock embedded in the volcanic stone, close-up, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So why so many unfinished? Some were simply abandoned when the carvers hit a lump of harder rock. Some were left mid-work when statue-making ended. And some may never have been meant to leave."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So why so many unfinished? Some were simply abandoned when the carvers hit a lump of harder rock. Some were left mid-work when statue-making ended. And some may never have been meant to leave.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Tall moai standing alone on grass at the foot of a volcano at golden hour, long shadow pointing toward the coast, cinematic photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the finished ones had somewhere to be. Most were headed for stone platforms along the coast, often kilometres away. To get there, they took the road."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the finished ones had somewhere to be. Most were headed for stone platforms along the coast, often kilometres away. To get there, they took the road.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Faint ancient path running across grassy hills of Easter Island, slightly sunken, early morning light, aerial photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station three: the road. In nineteen fourteen, the British archaeologist Katherine Routledge noticed faint tracks radiating out from the quarry, with statues lying beside them."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STATION III",
+   "The Road",
+   "KM 1 TO KM 18"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station three: the road. In nineteen fourteen, the British archaeologist Katherine Routledge noticed faint tracks radiating out from the quarry, with statues lying beside them.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cross-section view of an ancient road shaped like a shallow curved trough in the earth, archaeologists measuring it, documentary photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Modern surveys measured them. The roads are about four and a half metres wide, and they are not flat. They are slightly concave, like a shallow trough."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Modern surveys measured them. The roads are about four and a half metres wide, and they are not flat. They are slightly concave, like a shallow trough.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 9.984
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Fallen moai statue lying face down beside an ancient path on a grassy hill, overcast, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Along them lie the statues that never arrived. Archaeologists call them road moai. They are not scattered at random. The farther from the quarry, the fewer there are, as if each step carried a risk of falling."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Along them lie the statues that never arrived. Archaeologists call them road moai. They are not scattered at random. The farther from the quarry, the fewer there are, as if each step carried a risk of falling.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 14.064
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Fallen moai lying on its back on an uphill slope of a grassy road, sky above, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And how they fell is telling. On stretches sloping uphill, they tend to lie on their backs. On downhill stretches, they tend to lie on their faces. That is how an upright object falls, not one lying on a sled."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And how they fell is telling. On stretches sloping uphill, they tend to lie on their backs. On downhill stretches, they tend to lie on their faces. That is how an upright object falls, not one lying on a sled.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 14.28
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Detailed three dimensional scan of a stone statue base glowing on a dark screen, wireframe mesh, scientific visualisation, no labels, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty twenty-five, Carl Lipo and Terry Hunt published measurements of nine hundred and sixty-two moai, sixty-two of them abandoned on the roads. The road moai are built differently."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty twenty-five, Carl Lipo and Terry Hunt published measurements of nine hundred and sixty-two moai, sixty-two of them abandoned on the roads. The road moai are built differently.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Side view of a moai statue leaning slightly forward on a wide rounded base, stark lighting against a dark background, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their bases are wide and D-shaped, rounded at the front. And they lean forward, between about six and fifteen degrees. So far forward that their centre of mass sits over the front edge. A road moai cannot stand up on its own."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their bases are wide and D-shaped, rounded at the front. And they lean forward, between about six and fifteen degrees. So far forward that their centre of mass sits over the front edge. A road moai cannot stand up on its own.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 15.528
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Stone statue on a grassy plain at night with a subtle glowing grid around it, physics simulation concept, cinematic, no labels, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For a statue meant to be dragged on its back, that shape makes no sense. For a statue meant to travel upright, it is exactly the right design. The lean is built in."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For a statue meant to be dragged on its back, that shape makes no sense. For a statue meant to travel upright, it is exactly the right design. The lean is built in.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 10.632
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Moai standing on a platform by the sea with a flat straight base, side view, golden hour, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here is the twist. Statues that reached their platforms had their bases recut, to remove the lean. Once the journey was over, the walking shape was no longer needed."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here is the twist. Statues that reached their platforms had their bases recut, to remove the lean. Once the journey was over, the walking shape was no longer needed.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Hundreds of islanders in the 1950s pulling a moai lying on its back on a wooden sledge with long ropes across grass, vintage documentary style, sepia, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station four: the walk. Outsiders have been testing transport ideas here for seventy years. In nineteen fifty-six, Thor Heyerdahl's expedition tied a ten-tonne statue to a sledge. It took about a hundred and eighty islanders to pull it."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "STATION IV",
+   "The Walk",
+   "SEVENTY YEARS OF EXPERIMENTS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station four: the walk. Outsiders have been testing transport ideas here for seventy years. In nineteen fifty-six, Thor Heyerdahl's expedition tied a ten-tonne statue to a sledge. It took about a hundred and eighty islanders to pull it.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 16.248
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Large wooden A-frame shear legs and ropes beside a stone statue, engineering reconstruction drawing style, no labels, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen sixty, William Mulloy proposed a rocking sledge with giant wooden legs. Ingenious, but it needed big timber, and many road moai lack the belly it relied on."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen sixty, William Mulloy proposed a rocking sledge with giant wooden legs. Ingenious, but it needed big timber, and many road moai lack the belly it relied on.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 12.504
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Czech village field in the 1980s with a grey concrete statue replica standing upright, a team of people holding ropes tied to its head and base, vintage photo style, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, in nineteen eighty-two, a Czech engineer named Pavel Pavel took the old stories literally. In a field in Czechoslovakia, seventeen people with ropes rocked a twelve-tonne concrete replica forward, step by step."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, in nineteen eighty-two, a Czech engineer named Pavel Pavel took the old stories literally. In a field in Czechoslovakia, seventeen people with ropes rocked a twelve-tonne concrete replica forward, step by step.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 15.288
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Small upright moai statue on a beach being rocked with ropes by a team of people, 1980s documentary photo style, Easter Island, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen eighty-six he tried it on Rapa Nui with Heyerdahl, on real moai of five and nine tonnes. It worked. But the twisting motion chipped the statues' bases, and they had to stop."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen eighty-six he tried it on Rapa Nui with Heyerdahl, on real moai of five and nine tonnes. It worked. But the twisting motion chipped the statues' bases, and they had to stop.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Concrete statue replica standing upright on wooden runners over log rollers, team pulling ropes, desert landscape, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Others tried upright sleds on log rollers. In nineteen ninety-eight, Jo Anne Van Tilburg's team laid a replica flat on a wooden sledge, and sixty Rapa Nui people hauled it almost a hundred metres."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Others tried upright sleds on log rollers. In nineteen ninety-eight, Jo Anne Van Tilburg's team laid a replica flat on a wooden sledge, and sixty Rapa Nui people hauled it almost a hundred metres.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Grey concrete replica moai standing in a green tropical ranch valley with mountains behind, ropes attached to its head, people waiting, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every method could move a statue. The question was which one fitted the evidence. In twenty eleven, Lipo and Hunt, working with Rapa Nui archaeologist Sergio Rapu Haoa, built a replica of an actual road moai: three metres tall, four point three five tonnes, with the forward lean."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every method could move a statue. The question was which one fitted the evidence. In twenty eleven, Lipo and Hunt, working with Rapa Nui archaeologist Sergio Rapu Haoa, built a replica of an actual road moai: three metres tall, four point three five tonnes, with the forward lean.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 19.2
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Team of eighteen people in two groups pulling ropes on either side of an upright stone statue that is tilting sideways, motion, documentary photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They tied three ropes to its head. Two teams on the sides, one team behind to keep it from tipping forward. Then they pulled. Left. Right. Left."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They tied three ropes to its head. Two teams on the sides, one team behind to keep it from tipping forward. Then they pulled. Left. Right. Left.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.248
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Upright stone statue rocking forward in a zigzag motion along a dirt path, slight motion blur, team with ropes, cinematic photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "With each sideways tilt, the statue pivoted on the rounded front of its base and swung forward. It waddled. Eighteen people walked it a hundred metres in about forty minutes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "With each sideways tilt, the statue pivoted on the rounded front of its base and swung forward. It waddled. Eighteen people walked it a hundred metres in about forty minutes.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 11.472
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Abstract physics concept of an inverted pendulum swinging above a curved stone base, dark background, glowing lines, no labels, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Physically, a leaning moai is an inverted pendulum. The lean turns sideways rocking into forward motion. And a concave road holds the base steady while it rocks, like a groove guiding a wheel."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Physically, a leaning moai is an inverted pendulum. The lean turns sideways rocking into forward motion. And a concave road holds the base steady while it rocks, like a groove guiding a wheel.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "out",
+  "prompt": "Small group of people walking beside a tall upright statue along a grassy road at sunset, wide shot, painterly photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No forest of logs. No hundreds of haulers. A few dozen people with rope, practice and rhythm. Lipo's line is that every time they moved a statue, they were also making a road."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No forest of logs. No hundreds of haulers. A few dozen people with rope, practice and rhythm. Lipo's line is that every time they moved a statue, they were also making a road.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Rapa Nui grandmother telling a story to children at dusk in front of a moai, warm light, respectful documentary photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station five: the words. Because none of this was really new. Rapa Nui people had been telling visitors for centuries how the statues moved."
+   ]
+  ],
+  "tag": "L",
+  "ch": [
+   "STATION V",
+   "The Words",
+   "ORAL TRADITION"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station five: the words. Because none of this was really new. Rapa Nui people had been telling visitors for centuries how the statues moved.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Moai statue appearing to stride across a misty grassland at dawn, mythic dreamlike atmosphere, painterly, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The stories say the moai walked, carried by mana, a sacred power. The earliest versions credit a king named Tuu Ku Ihu, helped by the god Makemake."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The stories say the moai walked, carried by mana, a sacred power. The earliest versions credit a king named Tuu Ku Ihu, helped by the god Makemake.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Old woman seated at the foot of a volcanic quarry at sunset with statues behind her, mythic atmosphere, painterly photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen fourteen, Routledge wrote down another. An old woman, cook to the image-makers at the mountain, moved the statues by mana, ordering them about at her will."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen fourteen, Routledge wrote down another. An old woman, cook to the image-makers at the mountain, moved the statues by mana, ordering them about at her will.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Children laughing and playing on grass near a moai statue on Easter Island, documentary photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is even a Rapa Nui phrase for it, neke neke, often explained as walking without legs. It turns up in old chants and children's rhymes."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is even a Rapa Nui phrase for it, neke neke, often explained as walking without legs. It turns up in old chants and children's rhymes.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Moai silhouette against a starry night sky with faint glow around it, quiet and mysterious, cinematic, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For decades, outsiders treated this as pure myth. Or worse, as a garbled memory of something otherworldly. Statues that move by themselves? Surely that meant levitation."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For decades, outsiders treated this as pure myth. Or worse, as a garbled memory of something otherworldly. Statues that move by themselves? Surely that meant levitation.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 12.288
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Split scene of an ancient rope coiled at the foot of a standing moai and a glowing sunrise behind it, symbolic, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But put the legend next to the experiment. A standing statue, rocking side to side, appearing to stride forward with no visible legs. The people who watched it described exactly that."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But put the legend next to the experiment. A standing statue, rocking side to side, appearing to stride forward with no visible legs. The people who watched it described exactly that.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Rapa Nui elder placing a hand on a large moai's base, eyes closed, respectful, documentary photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The oral tradition was not a riddle about aliens. It was an eyewitness description, kept for generations, that outsiders were too slow to take literally."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The oral tradition was not a riddle about aliens. It was an eyewitness description, kept for generations, that outsiders were too slow to take literally.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Long stone ceremonial platform of fitted stones along a rocky coast with moai standing on it facing inland, wide photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station six: the ahu, the stone platform. Most ahu stand near the coast, and most moai stand with their backs to the sea, facing inland, watching over their people."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STATION VI",
+   "The Ahu",
+   "PLATFORM \u00b7 EYES \u00b7 PUKAO"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station six: the ahu, the stone platform. Most ahu stand near the coast, and most moai stand with their backs to the sea, facing inland, watching over their people.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Workers using long wooden levers and a growing pile of stones under a tilted moai to raise it upright, reconstruction, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Raising a statue on its platform did not need cranes. In the nineteen fifties, islanders demonstrated it with wooden levers, prying the statue up a little at a time and packing stones underneath until it stood."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Raising a statue on its platform did not need cranes. In the nineteen fifties, islanders demonstrated it with wooden levers, prying the statue up a little at a time and packing stones underneath until it stood.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 14.52
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of a moai face with white coral eyes and dark obsidian pupils, dramatic side light, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Once standing, a moai could receive its eyes. In nineteen seventy-nine, Sergio Rapu Haoa's team found fragments of eyes made of white coral, with pupils of obsidian or red scoria."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Once standing, a moai could receive its eyes. In nineteen seventy-nine, Sergio Rapu Haoa's team found fragments of eyes made of white coral, with pupils of obsidian or red scoria.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 13.464
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Moai statues wearing large red stone cylinder topknots on their heads on a coastal platform, blue sky, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some statues also wear a pukao, a huge cylinder of red volcanic scoria from a second quarry, Puna Pau. The biggest weigh around twelve tonnes."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some statues also wear a pukao, a huge cylinder of red volcanic scoria from a second quarry, Puna Pau. The biggest weigh around twelve tonnes.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Team of about fifteen islanders rolling a large red stone cylinder up an earthen ramp toward the head of a standing statue with ropes wrapped around it, reconstruction, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A twenty eighteen study suggests they were rolled across the island, then rolled up an earth ramp against the leaning statue, using a rope trick called parbuckling. Perhaps fifteen people were enough."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A twenty eighteen study suggests they were rolled across the island, then rolled up an earth ramp against the leaning statue, using a rope trick called parbuckling. Perhaps fifteen people were enough.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Fifteen moai standing in a row on a massive restored stone platform with a volcano behind, golden sunset, cinematic photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The largest platform, Ahu Tongariki, holds fifteen moai, one of them about eighty-six tonnes, the heaviest ever raised on the island. The tallest ever erected, Paro, stood almost ten metres."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The largest platform, Ahu Tongariki, holds fifteen moai, one of them about eighty-six tonnes, the heaviest ever raised on the island. The tallest ever erected, Paro, stood almost ten metres.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Moai statue face in profile against a warm sky, sense of presence and dignity, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "These were not idols for visitors, or beacons for spaceships. Each moai was an ancestor, carrying mana for the family whose land it watched."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "These were not idols for visitors, or beacons for spaceships. Each moai was an ancestor, carrying mana for the family whose land it watched.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 9.768
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Fallen moai lying face down beside a stone platform on a windswept coast, overcast sky, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station seven: the fall. When Dutch ships arrived in seventeen twenty-two, statues still stood on their platforms. By eighteen sixty-eight, not one remained standing on an ahu."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STATION VII",
+   "The Fall",
+   "1722 \u00b7 1862 \u00b7 TODAY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station seven: the fall. When Dutch ships arrived in seventeen twenty-two, statues still stood on their platforms. By eighteen sixty-eight, not one remained standing on an ahu.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Toppled moai with its neck broken lying on rocks near the sea, dramatic clouds, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why they fell is still argued. Oral accounts mention rival groups pulling statues down, and the earth shaking. Many fell forward and broke at the neck."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why they fell is still argued. Oral accounts mention rival groups pulling statues down, and the earth shaking. Many fell forward and broke at the neck.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 10.176
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Tall sailing ships anchored off a dark volcanic island at dusk, ominous mood, 19th century, cinematic painterly, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there was a real catastrophe, but it came from outside. In eighteen sixty-two, Peruvian slave raiders took about fifteen hundred people, roughly half the island. The few who returned brought smallpox."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there was a real catastrophe, but it came from outside. In eighteen sixty-two, Peruvian slave raiders took about fifteen hundred people, roughly half the island. The few who returned brought smallpox.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 14.112
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Laboratory scientist examining a small ancient bone fragment under bright light, DNA sequencer screen glowing in background, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The famous story of an island that destroyed itself also took a hit. In twenty twenty-four, ancient genomes showed no population crash in the sixteen hundreds. The population kept growing until the eighteen sixties."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The famous story of an island that destroyed itself also took a hit. In twenty twenty-four, ancient genomes showed no population crash in the sixteen hundreds. The population kept growing until the eighteen sixties.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 15.024
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Treeless rolling grassland of Easter Island with stone garden circles and low stone walls, wide, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The forests did disappear, cleared for farming while introduced rats ate the palm seeds. But islanders adapted, with rock gardens and the sea, and kept carving for centuries."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The forests did disappear, cleared for farming while introduced rats ate the palm seeds. But islanders adapted, with rock gardens and the sea, and kept carving for centuries.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Empty stone niche at a ceremonial village on a cliff edge above the ocean, wind, overcast, photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the statues travelled again. In eighteen sixty-eight a British ship carried off a moai called Hoa Hakananai'a. It is still in the British Museum, and Rapa Nui has asked for it back."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the statues travelled again. In eighteen sixty-eight a British ship carried off a moai called Hoa Hakananai'a. It is still in the British Museum, and Rapa Nui has asked for it back.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Crane lifting a restored moai upright on a platform by the sea, workers watching, documentary photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen sixty, a tsunami swept the Tongariki statues inland. In the nineteen nineties, archaeologists and islanders stood all fifteen back up. This time, with a crane."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen sixty, a tsunami swept the Tongariki statues inland. In the nineteen nineties, archaeologists and islanders stood all fifteen back up. This time, with a crane.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark misty grassland at night with a single moai silhouette far in the background and lots of empty dark space, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "End of the road. Time for the scorecard."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VERDICT",
+   "The Road Scorecard",
+   "ALIEN CLAIM VS EXPERIMENT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "End of the road. Time for the scorecard.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.328
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark misty grassland at night with a single moai silhouette far in the background and lots of empty dark space, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Carved by Rapa Nui people with stone tools: evidence. Road moai shaped for upright walking: evidence. Eighteen people walked a four-tonne replica: evidence. The oral tradition that the moai walked: supported."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Carved by Rapa Nui people with stone tools: evidence. Road moai shaped for upright walking: evidence. Eighteen people walked a four-tonne replica: evidence. The oral tradition that the moai walked: supported.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 15.24
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark misty grassland at night with a single moai silhouette far in the background and lots of empty dark space, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stranded aliens with advanced tools: no evidence. A sunken continent, and an island that destroyed itself: debunked. The exact method on every road and every slope: still debated."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stranded aliens with advanced tools: no evidence. A sunken continent, and an island that destroyed itself: debunked. The exact method on every road and every slope: still debated.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Line of moai on a coastal platform glowing in golden sunset light, ocean shimmering, cinematic photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The alien explanation fails at every station. Not because it is too bold, but because it is not needed. The statues tell us how they travelled. Their shape, their roads, and the way they fell all point the same way."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The alien explanation fails at every station. Not because it is too bold, but because it is not needed. The statues tell us how they travelled. Their shape, their roads, and the way they fell all point the same way.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.904
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Single moai standing under a sky full of stars and the Milky Way, quiet, cinematic photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What remains open is detail. How many statues walked, how many rode on sledges, and how the very largest ever moved. Archaeology answers that with more measurement, not with more aliens."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What remains open is detail. How many statues walked, how many rode on sledges, and how the very largest ever moved. Archaeology answers that with more measurement, not with more aliens.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Rapa Nui family walking together toward moai statues at sunrise, respectful documentary photoreal, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the people who knew the answer all along are still there. The moai are their ancestors. The road from the quarry is their history, and the experiment only caught up with what they said."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the people who knew the answer all along are still there. The moai are their ancestors. The road from the quarry is their history, and the experiment only caught up with what they said.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background with a small glowing silhouette of a moai on a hill under stars, no text, no letters, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That's the end of the road. Do you think every moai walked? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That's the end of the road. Do you think every moai walked? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 9.048
+   }
+  ]
+ }
+]
