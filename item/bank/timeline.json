@@ -1,0 +1,1384 @@
+{
+ "fps": 30,
+ "total": 26100,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 477,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Under a small town in central Turkey, there is a second town. It goes down about eighty-five metres, through soft volcanic rock, and it was made to hold as many as twenty thousand people, with their animals and their food.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.808,
+     "start": 10,
+     "end": 455
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 459,
+   "end": 872,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is Derinkuyu, in Cappadocia. Its name means deep well. And everyone who walks down its stairs asks the same question. Who would dig all this, and what were they so afraid of?",
+     "file": "ep/audio/s02.mp3",
+     "dur": 12.672,
+     "start": 469,
+     "end": 850
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 854,
+   "end": 1226,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Online, the answers get bigger every year. They were hiding from attacks from the sky. From visitors. From a comet that set the world on fire twelve thousand years ago.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 11.304,
+     "start": 864,
+     "end": 1204
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1208,
+   "end": 1603,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So let's do something different. Let's live through one day of a siege, hour by hour, the way the people of this city actually did. A reconstructed day, built from real records.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 12.072,
+     "start": 1218,
+     "end": 1581
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1585,
+   "end": 2000,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At every hour, we open one part of the city and test the claim that belongs there. And at dawn tomorrow, a scorecard, and a verdict.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 8.76,
+     "start": 1595,
+     "end": 1858
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "06:00",
+    "The Alarm",
+    "WHY A WHOLE TOWN HIDES"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1982,
+   "end": 2413,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Six in the morning. A rider comes in at a gallop. Dust on the southern road. Horsemen, hundreds of them. For a Byzantine village in Cappadocia, this is the most ordinary nightmare there is.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 13.272,
+     "start": 1992,
+     "end": 2391
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "right",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2395,
+   "end": 2861,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This land sat on a crossroads. Trade routes ran through it, and so did armies. Hittites, Phrygians, Persians, Romans, Arab raiders, Seljuks, Mongols. Empires came and went. Farmers stayed.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 14.448,
+     "start": 2405,
+     "end": 2839
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2843,
+   "end": 3407,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "From roughly seven eighty to eleven eighty, during the Arab and Byzantine wars, raids swept through almost every season. UNESCO says that, to resist those invasions, local communities banded together in underground towns like Kaymakli and Derinkuyu.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 17.712,
+     "start": 2853,
+     "end": 3385
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3389,
+   "end": 3798,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the tenth century, the historian Leo the Deacon wrote that the people here were once called troglodytes, because they went underground, into holes and labyrinths, like dens and burrows.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 12.552,
+     "start": 3399,
+     "end": 3776
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3780,
+   "end": 4322,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the first claim. In nineteen eighty-two, the writer Erich von Daniken visited Derinkuyu. His reasoning: a refuge this elaborate must have been built against an attack from the air. And from there, a step toward visitors from beyond Earth.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 16.968,
+     "start": 3790,
+     "end": 4300
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 4304,
+   "end": 4801,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But look at what this alarm actually is. Riders. Men on foot and on horseback, who can only reach you through a doorway. Underground is a terrible place to hide from something that flies. It's a perfect place to hide from soldiers.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 15.48,
+     "start": 4314,
+     "end": 4779
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4783,
+   "end": 4967,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So at six o'clock, the village does what its grandparents did. It disappears.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 5.064,
+     "start": 4793,
+     "end": 4945
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "07:00",
+    "The Entrances",
+    "600 DOORS IN THE FLOOR"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4949,
+   "end": 5362,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Seven o'clock. Where do twenty thousand people go? Not through one grand gate. More than six hundred entrances have been found, many hidden in the basements and courtyards of ordinary houses.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.672,
+     "start": 4959,
+     "end": 5340
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 5344,
+   "end": 5850,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That's how the modern world found it. In nineteen sixty-three, a local man renovating his house knocked through a wall and found a room behind it, then a passage, then a city. Guides add that his chickens kept vanishing into the crack.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 15.792,
+     "start": 5354,
+     "end": 5828
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5832,
+   "end": 6321,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And this is why it was possible. Cappadocia is built of tuff, volcanic ash from ancient eruptions, compacted into rock. The local Greek name for the city, Malakopia, probably comes from malakos: soft.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 15.216,
+     "start": 5842,
+     "end": 6299
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 6303,
+   "end": 6803,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Classicist Andrea De Giorgi explains that the dry ground and soft rock made the region ideal for digging, with simple tools like shovels and pickaxes. Freshly cut tuff is soft. Exposed to air, it hardens.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 15.6,
+     "start": 6313,
+     "end": 6781
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "none",
+   "motion": "right",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6785,
+   "end": 7216,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is not a city that was built in a year. It was dug, extended, abandoned and dug again, generation after generation, for well over a thousand years. Every family adding a room.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 13.272,
+     "start": 6795,
+     "end": 7194
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 7198,
+   "end": 7596,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some videos claim the tunnels are too smooth, too regular for hand tools. Walk them, and you'll see the opposite: uneven walls, low ceilings, pick marks, soot from centuries of lamps.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 12.168,
+     "start": 7208,
+     "end": 7574
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 7578,
+   "end": 7799,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By half past seven, the last family is underground. Now the city has to close its doors.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 6.288,
+     "start": 7588,
+     "end": 7777
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "08:00",
+    "The Stone Doors",
+    "ROLLED SHUT FROM INSIDE"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 7781,
+   "end": 8133,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eight o'clock. The stone doors. At choke points between levels, the builders carved huge round stones, like millstones, sitting in slots beside the passage.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 10.656,
+     "start": 7791,
+     "end": 8111
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 8115,
+   "end": 8479,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Each one weighs a few hundred kilograms, up to half a tonne. Rolled across, it seals the tunnel. And here's the key detail: they can only be moved from the inside.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 11.04,
+     "start": 8125,
+     "end": 8457
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8461,
+   "end": 8647,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Many have a small hole in the middle. Defenders could look out, and fight back through it.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 5.112,
+     "start": 8471,
+     "end": 8625
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8629,
+   "end": 9172,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A Cambridge linguist, Richard Dawkins, not the biologist, recorded a story from the fourteenth century. When Timur's armies came, one of his captains was hunting villagers hidden underground, and was killed by an arrow shot through the hole in one of the doors.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 17.016,
+     "start": 8639,
+     "end": 9150
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 9154,
+   "end": 9704,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the corridors. Low and narrow, so anyone coming in has to walk bent over, one at a time. Speleologist Roberto Bixio describes a system where whole sections could be sealed off, and counter-attacks launched through side passages.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 17.256,
+     "start": 9164,
+     "end": 9682
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9686,
+   "end": 10064,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So ask the doors what they were built against. Not something from the sky. A stone that only opens from inside, in a tunnel you must crawl through, is built against people.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 11.52,
+     "start": 9696,
+     "end": 10042
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 10046,
+   "end": 10379,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By nine o'clock, the city is sealed. Thousands of people, hundreds of animals, a few hundred metres of rock. Which raises the next problem. Air.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 10.008,
+     "start": 10056,
+     "end": 10357
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "10:00",
+    "The Air",
+    "50 SHAFTS, ONE IDEA"
+   ],
+   "img": "ep/img/shot_27.jpg",
+   "start": 10361,
+   "end": 10774,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ten o'clock. Lamps burning, cooking fires, animals breathing. Without fresh air, a sealed city suffocates in hours. Derinkuyu solves it with more than fifty ventilation shafts.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 12.672,
+     "start": 10371,
+     "end": 10752
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10756,
+   "end": 11205,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The main shaft is about three metres by nearly three. And engineers noticed something clever: the openings to different levels never sit directly above each other. The layout appears designed to keep air moving.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 13.896,
+     "start": 10766,
+     "end": 11183
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 11187,
+   "end": 11736,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Rock engineers Omer Aydan and Resat Ulusay have studied the city since nineteen ninety-six, monitoring temperature, moisture and air pressure, with sensors on the fifth and seventh floors. Their verdict: a remarkably stable underground structure.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 17.232,
+     "start": 11197,
+     "end": 11714
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11718,
+   "end": 12206,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The physics is simple and old. Warm air rises, cool air sinks. Underground, the temperature stays at around thirteen to fifteen degrees all year. Shafts linking levels at different heights keep a slow current flowing.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 15.192,
+     "start": 11728,
+     "end": 12184
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 12188,
+   "end": 12558,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Is that too advanced for farmers? Every mine, every well-digger, every chimney builder in the ancient world used the same principle. Clever, yes. Mysterious, no.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 11.256,
+     "start": 12198,
+     "end": 12536
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "right",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12540,
+   "end": 12947,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And notice the design choice. Not one big air hole an enemy could block, but dozens of small ones spread across the city. Air from fifty shafts is hard to cut off all at once.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.48,
+     "start": 12550,
+     "end": 12925
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12929,
+   "end": 13154,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Noon is coming. The air is moving. But twenty thousand people need something else, every single day.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 6.432,
+     "start": 12939,
+     "end": 13132
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "12:00",
+    "The Well",
+    "THE DEEP WELL"
+   ],
+   "img": "ep/img/shot_34.jpg",
+   "start": 13136,
+   "end": 13484,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Twelve o'clock. Water. The town's name, Derinkuyu, deep well, comes from this. A shaft about fifty-five metres deep, reaching water far below.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 10.512,
+     "start": 13146,
+     "end": 13462
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13466,
+   "end": 13866,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It served the village above in normal times and the people below in a siege. Crucially, it could be cut off from below. Raiders at the surface couldn't poison it, or use it as a way in.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 12.264,
+     "start": 13476,
+     "end": 13844
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13848,
+   "end": 14284,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Graham Hancock, in the Netflix series Ancient Apocalypse, reads it differently: internal wells, sealed doors, deep air, all planned for a long, total escape from something poisoning the world above.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 13.464,
+     "start": 13858,
+     "end": 14262
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14266,
+   "end": 14644,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But a well safe from poison is exactly what a siege needs. Poisoning or blocking water was standard warfare. You don't need a comet to want a well your enemy can't reach.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 11.52,
+     "start": 14276,
+     "end": 14622
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14626,
+   "end": 15075,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And a fair question for the defenders of the twenty thousand figure. One well, twenty thousand people, three litres each, is sixty thousand litres a day. That number is a capacity estimate, not a census.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 13.896,
+     "start": 14636,
+     "end": 15053
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 15057,
+   "end": 15249,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Most raids lasted days or weeks, not years. That's what this water had to cover.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 5.328,
+     "start": 15067,
+     "end": 15227
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "15:00",
+    "The Stores",
+    "STABLES, OVENS & WINE"
+   ],
+   "img": "ep/img/shot_40.jpg",
+   "start": 15231,
+   "end": 15583,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three in the afternoon. The animals. Stables sat on the upper levels, near the entrances, where the air was best and the smell stayed away from the living quarters.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 10.656,
+     "start": 15241,
+     "end": 15561
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15565,
+   "end": 15906,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Deeper down, kitchens with tandoor ovens, the same kind still used in Cappadocian villages, under ceilings blackened by centuries of smoke.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 10.272,
+     "start": 15575,
+     "end": 15884
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15888,
+   "end": 16319,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There are wine presses and oil presses, cellars, storerooms, and long refectories with stone tables. De Giorgi points to cellars, pressing vats and amphoras as evidence of winemaking.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 13.296,
+     "start": 15898,
+     "end": 16297
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16301,
+   "end": 16594,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is not an emergency bunker for a few nights. It's a village, folded into the ground. Ready to keep families alive for weeks.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 8.688,
+     "start": 16311,
+     "end": 16572
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "right",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16576,
+   "end": 17144,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And it's old. Around four hundred BC, the Greek soldier Xenophon marched across Anatolia. In the highlands of Armenia, east of here, he saw houses underground, with a mouth like a well, ramps for animals, and goats, sheep, cattle and fowl living inside.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 17.856,
+     "start": 16586,
+     "end": 17122
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 17126,
+   "end": 17596,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Xenophon doesn't name Derinkuyu. But he shows that living underground with your animals was already ordinary in Anatolia, twenty-four centuries ago. Not a lost technology. A local habit.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 14.592,
+     "start": 17136,
+     "end": 17574
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17578,
+   "end": 17803,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Evening is coming. And as the light fades above, the people below turn to the deepest rooms of all.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 6.432,
+     "start": 17588,
+     "end": 17781
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "18:00",
+    "The Chapel",
+    "WHO WAS DOWN HERE"
+   ],
+   "img": "ep/img/shot_47.jpg",
+   "start": 17785,
+   "end": 18199,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Six in the evening. On the second level there's a large hall with a barrel-vaulted ceiling, unique in the complex, with small rooms beside it. It's usually described as a religious school.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 12.72,
+     "start": 17795,
+     "end": 18177
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18181,
+   "end": 18549,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Below, staircases lead down to a church, cut in the shape of a cross. The people sheltering here were Christians: Cappadocian Greeks, and later also Armenians.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 11.184,
+     "start": 18191,
+     "end": 18527
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18531,
+   "end": 18914,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The chapels, the crosses, the Greek inscriptions, and the great bulk of objects found inside, are Byzantine and medieval. The city in its present size belongs to them.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 11.688,
+     "start": 18541,
+     "end": 18892
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18896,
+   "end": 19355,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This fits the wider region. The Goreme valley nearby holds hundreds of rock-cut churches. UNESCO lists Derinkuyu and Kaymakli as part of the same World Heritage site, as places of refuge.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 14.208,
+     "start": 18906,
+     "end": 19333
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19337,
+   "end": 19681,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So at six in the evening, while horsemen search the empty village above, the people below pray. That's the real scene. And it's harder to watch than any alien.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 10.368,
+     "start": 19347,
+     "end": 19659
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19663,
+   "end": 19889,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the long night begins. And with it, the hardest question in this case. How old is this place?",
+     "file": "ep/audio/s52.mp3",
+     "dur": 6.456,
+     "start": 19673,
+     "end": 19867
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": [
+    "21:00",
+    "The Long Night",
+    "HOW OLD IS IT REALLY?"
+   ],
+   "img": "ep/img/shot_53.jpg",
+   "start": 19871,
+   "end": 20285,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nine at night. Here's the honest problem. You can't carbon-date a hole. Cutting a room removes rock. It leaves nothing to test. Objects found inside only tell you who used it later.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 12.72,
+     "start": 19881,
+     "end": 20263
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 20267,
+   "end": 20773,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The most common view credits the first chambers to the Phrygians, Iron Age rock carvers, in the eighth or seventh century BC. Some scholars suggest earlier Hittite beginnings, pointing to a few Hittite-style finds.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 15.768,
+     "start": 20277,
+     "end": 20751
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 20755,
+   "end": 21212,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hancock goes much further. Since the rock can't be dated, he argues, the first digging could be twelve thousand years old: a shelter from the comet impacts he believes struck at the end of the Ice Age, the Younger Dryas.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 14.16,
+     "start": 20765,
+     "end": 21190
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21194,
+   "end": 21718,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Supporters link it to a Zoroastrian text, the Vendidad. The god Ahura Mazda warns King Yima of evil winters and deadly frost, and Yima builds a Vara, an enclosure, to save the seeds of men and animals.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 16.368,
+     "start": 21204,
+     "end": 21696
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21700,
+   "end": 22246,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the Vendidad names no real place and gives no date. And thousands of years of living always leaves rubbish. Here, the datable material is Iron Age or later. No Ice Age layer has ever been found in any Cappadocian underground city.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 17.112,
+     "start": 21710,
+     "end": 22224
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 22228,
+   "end": 22618,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hancock also suggested archaeologists were hiding new dates. Archaeologist Flint Dibble pointed out the dates are published. The signs at the site just hadn't been updated.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 11.928,
+     "start": 22238,
+     "end": 22596
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 22600,
+   "end": 23037,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So what can we say? The first cut date is genuinely unknown. But every piece of evidence we have points to an Iron Age start and a Byzantine peak. Unknown does not mean twelve thousand years.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 13.488,
+     "start": 22610,
+     "end": 23015
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 23019,
+   "end": 23189,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And somewhere above, the raiders give up and ride away. It's almost dawn.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 4.584,
+     "start": 23029,
+     "end": 23167
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "05:00",
+    "All Clear",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_61.jpg",
+   "start": 23171,
+   "end": 23360,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Five in the morning. All clear. Before the doors roll open, let's score the night.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 5.208,
+     "start": 23181,
+     "end": 23338
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23342,
+   "end": 23952,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside-only stone doors and crawl-height tunnels: evidence of defence against people. Staggered air shafts and a well sealed from below: evidence. Chapels, crosses and Byzantine finds: evidence. Use as a refuge recorded from Timur to nineteen oh-nine: evidence.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 19.248,
+     "start": 23352,
+     "end": 23930
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 23934,
+   "end": 24366,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A shelter from attacks from the sky, or from aliens: no evidence. A twelve-thousand-year comet bunker: no evidence. The exact first cut, and the full Kaymakli tunnel: still open.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 13.32,
+     "start": 23944,
+     "end": 24344
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 24348,
+   "end": 24992,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Derinkuyu was dug by people, in soft rock, over many centuries, to hide from other people. It peaked when Byzantine villages fled Arab raids, and it was still saving lives in nineteen oh-nine, when news of the Adana massacres sent a Cappadocian town underground for several nights.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 20.4,
+     "start": 24358,
+     "end": 24970
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 24974,
+   "end": 25402,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen twenty-three, the population exchange sent the Christians of Cappadocia to Greece. The doors stayed open, the city fell silent, and forty years later a sledgehammer found it again.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 13.2,
+     "start": 24984,
+     "end": 25380
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 25384,
+   "end": 25764,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So, hiding from what? Not from the sky. From the road. From the armies that crossed this land for three thousand years. And that is not a smaller story. It's a harder one.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 11.592,
+     "start": 25394,
+     "end": 25742
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 25746,
+   "end": 26025,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which hour of the siege surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 8.232,
+     "start": 25756,
+     "end": 26003
+    }
+   ]
+  }
+ ]
+}

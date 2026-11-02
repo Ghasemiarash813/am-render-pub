@@ -1,0 +1,1454 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide aerial view at dawn of a small Anatolian town of stone houses on a dry volcanic plateau, fairy chimney rock cones on the horizon, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Under a small town in central Turkey, there is a second town. It goes down about eighty-five metres, through soft volcanic rock, and it was made to hold as many as twenty thousand people, with their animals and their food."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Under a small town in central Turkey, there is a second town. It goes down about eighty-five metres, through soft volcanic rock, and it was made to hold as many as twenty thousand people, with their animals and their food.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.808
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Looking down a steep narrow staircase cut into beige volcanic rock descending into darkness, oil lamp glow far below, photoreal film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is Derinkuyu, in Cappadocia. Its name means deep well. And everyone who walks down its stairs asks the same question. Who would dig all this, and what were they so afraid of?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is Derinkuyu, in Cappadocia. Its name means deep well. And everyone who walks down its stairs asks the same question. Who would dig all this, and what were they so afraid of?",
+    "file": "ep/audio/s02.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept art, a vast dark disc-shaped craft hovering over a volcanic Anatolian plateau at night with tiny figures fleeing toward a hole in the ground, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Online, the answers get bigger every year. They were hiding from attacks from the sky. From visitors. From a comet that set the world on fire twelve thousand years ago."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Online, the answers get bigger every year. They were hiding from attacks from the sky. From visitors. From a comet that set the world on fire twelve thousand years ago.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 11.304
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An antique brass sundial-style clock face lying on dark volcanic stone beside a flickering oil lamp, shallow depth of field, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So let's do something different. Let's live through one day of a siege, hour by hour, the way the people of this city actually did. A reconstructed day, built from real records."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So let's do something different. Let's live through one day of a siege, hour by hour, the way the people of this city actually did. A reconstructed day, built from real records.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Silhouettes of a farming family with goats walking at first light along a dusty track toward a low stone farmhouse on a volcanic plateau, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At every hour, we open one part of the city and test the claim that belongs there. And at dawn tomorrow, a scorecard, and a verdict."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At every hour, we open one part of the city and test the claim that belongs there. And at dawn tomorrow, a scorecard, and a verdict.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 8.76
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A distant column of mounted horsemen raising a long dust cloud across a dry Anatolian plain at sunrise, seen from a hilltop village, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Six in the morning. A rider comes in at a gallop. Dust on the southern road. Horsemen, hundreds of them. For a Byzantine village in Cappadocia, this is the most ordinary nightmare there is."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "06:00",
+   "The Alarm",
+   "WHY A WHOLE TOWN HIDES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Six in the morning. A rider comes in at a gallop. Dust on the southern road. Horsemen, hundreds of them. For a Byzantine village in Cappadocia, this is the most ordinary nightmare there is.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 13.272
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "A wide landscape of Cappadocia with eroded tuff valleys and fairy chimneys, an ancient caravan road winding through, morning haze, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This land sat on a crossroads. Trade routes ran through it, and so did armies. Hittites, Phrygians, Persians, Romans, Arab raiders, Seljuks, Mongols. Empires came and went. Farmers stayed."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This land sat on a crossroads. Trade routes ran through it, and so did armies. Hittites, Phrygians, Persians, Romans, Arab raiders, Seljuks, Mongols. Empires came and went. Farmers stayed.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Byzantine-era villagers hurriedly loading grain sacks and clay jars onto donkeys in a stone courtyard at dawn, historical reconstruction, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "From roughly seven eighty to eleven eighty, during the Arab and Byzantine wars, raids swept through almost every season. UNESCO says that, to resist those invasions, local communities banded together in underground towns like Kaymakli and Derinkuyu."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "From roughly seven eighty to eleven eighty, during the Arab and Byzantine wars, raids swept through almost every season. UNESCO says that, to resist those invasions, local communities banded together in underground towns like Kaymakli and Derinkuyu.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 17.712
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A tenth-century Byzantine scholar writing on parchment by candlelight in a stone room, the page turned away and blurred, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the tenth century, the historian Leo the Deacon wrote that the people here were once called troglodytes, because they went underground, into holes and labyrinths, like dens and burrows."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the tenth century, the historian Leo the Deacon wrote that the people here were once called troglodytes, because they went underground, into holes and labyrinths, like dens and burrows.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 12.552
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A lone man standing on a dark volcanic plateau at night looking up at a sky full of stars with a faint unexplained light among them, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the first claim. In nineteen eighty-two, the writer Erich von Daniken visited Derinkuyu. His reasoning: a refuge this elaborate must have been built against an attack from the air. And from there, a step toward visitors from beyond Earth."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the first claim. In nineteen eighty-two, the writer Erich von Daniken visited Derinkuyu. His reasoning: a refuge this elaborate must have been built against an attack from the air. And from there, a step toward visitors from beyond Earth.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 16.968
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A narrow low tunnel entrance in a tuff hillside half hidden by shrubs, seen from a mounted rider's eye level, dusty light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But look at what this alarm actually is. Riders. Men on foot and on horseback, who can only reach you through a doorway. Underground is a terrible place to hide from something that flies. It's a perfect place to hide from soldiers."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But look at what this alarm actually is. Riders. Men on foot and on horseback, who can only reach you through a doorway. Underground is a terrible place to hide from something that flies. It's a perfect place to hide from soldiers.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 15.48
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A village family descending into a dark rock opening with oil lamps, seen from behind, the last light of dawn above them, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So at six o'clock, the village does what its grandparents did. It disappears."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So at six o'clock, the village does what its grandparents did. It disappears.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 5.064
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Inside a simple stone village house, a small dark opening in the floor of a storeroom leading down into rock, oil lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seven o'clock. Where do twenty thousand people go? Not through one grand gate. More than six hundred entrances have been found, many hidden in the basements and courtyards of ordinary houses."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "07:00",
+   "The Entrances",
+   "600 DOORS IN THE FLOOR"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seven o'clock. Where do twenty thousand people go? Not through one grand gate. More than six hundred entrances have been found, many hidden in the basements and courtyards of ordinary houses.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A man with a sledgehammer breaking through a plastered basement wall revealing a dark tunnel behind it, dust in a torch beam, photoreal 1960s scene, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That's how the modern world found it. In nineteen sixty-three, a local man renovating his house knocked through a wall and found a room behind it, then a passage, then a city. Guides add that his chickens kept vanishing into the crack."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That's how the modern world found it. In nineteen sixty-three, a local man renovating his house knocked through a wall and found a room behind it, then a passage, then a city. Guides add that his chickens kept vanishing into the crack.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 15.792
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a beige volcanic tuff wall with soft pick and chisel marks, warm torchlight, detailed texture, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And this is why it was possible. Cappadocia is built of tuff, volcanic ash from ancient eruptions, compacted into rock. The local Greek name for the city, Malakopia, probably comes from malakos: soft."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And this is why it was possible. Cappadocia is built of tuff, volcanic ash from ancient eruptions, compacted into rock. The local Greek name for the city, Malakopia, probably comes from malakos: soft.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 15.216
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A worker with a simple iron pickaxe carving a rounded chamber out of soft beige rock by oil lamp light, historical reconstruction, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Classicist Andrea De Giorgi explains that the dry ground and soft rock made the region ideal for digging, with simple tools like shovels and pickaxes. Freshly cut tuff is soft. Exposed to air, it hardens."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Classicist Andrea De Giorgi explains that the dry ground and soft rock made the region ideal for digging, with simple tools like shovels and pickaxes. Freshly cut tuff is soft. Exposed to air, it hardens.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 15.6
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Baskets of broken beige rock being passed hand to hand up a narrow rock-cut stairway by a line of workers, historical reconstruction, warm light, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is not a city that was built in a year. It was dug, extended, abandoned and dug again, generation after generation, for well over a thousand years. Every family adding a room."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is not a city that was built in a year. It was dug, extended, abandoned and dug again, generation after generation, for well over a thousand years. Every family adding a room.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 13.272
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept image of a glowing beam boring a perfectly smooth tunnel into rock, science fiction, dark moody, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some videos claim the tunnels are too smooth, too regular for hand tools. Walk them, and you'll see the opposite: uneven walls, low ceilings, pick marks, soot from centuries of lamps."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some videos claim the tunnels are too smooth, too regular for hand tools. Walk them, and you'll see the opposite: uneven walls, low ceilings, pick marks, soot from centuries of lamps.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 12.168
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark tunnel curving away into the rock with a faint warm glow around the bend, cinematic film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By half past seven, the last family is underground. Now the city has to close its doors."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By half past seven, the last family is underground. Now the city has to close its doors.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 6.288
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "a hand-carved underground city in soft beige and ochre volcanic tuff, low narrow tunnels and rounded chambers with chisel-marked walls, a massive round millstone-shaped stone door set in a slot beside a tunnel, oil lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eight o'clock. The stone doors. At choke points between levels, the builders carved huge round stones, like millstones, sitting in slots beside the passage."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "08:00",
+   "The Stone Doors",
+   "ROLLED SHUT FROM INSIDE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eight o'clock. The stone doors. At choke points between levels, the builders carved huge round stones, like millstones, sitting in slots beside the passage.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 10.656
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two men leaning their shoulders against a large round stone door to roll it across a narrow rock tunnel, seen from inside the tunnel, lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Each one weighs a few hundred kilograms, up to half a tonne. Rolled across, it seals the tunnel. And here's the key detail: they can only be moved from the inside."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Each one weighs a few hundred kilograms, up to half a tonne. Rolled across, it seals the tunnel. And here's the key detail: they can only be moved from the inside.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 11.04
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a round stone door with a small round hole in its centre, a beam of torchlight passing through the hole, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Many have a small hole in the middle. Defenders could look out, and fight back through it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Many have a small hole in the middle. Defenders could look out, and fight back through it.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 5.112
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A medieval archer drawing a bow in a dark rock tunnel behind a round stone door, tense, historical reconstruction, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A Cambridge linguist, Richard Dawkins, not the biologist, recorded a story from the fourteenth century. When Timur's armies came, one of his captains was hunting villagers hidden underground, and was killed by an arrow shot through the hole in one of the doors."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A Cambridge linguist, Richard Dawkins, not the biologist, recorded a story from the fourteenth century. When Timur's armies came, one of his captains was hunting villagers hidden underground, and was killed by an arrow shot through the hole in one of the doors.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 17.016
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A very low narrow tunnel in beige tuff forcing a person to walk bent over single file, seen from behind, lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the corridors. Low and narrow, so anyone coming in has to walk bent over, one at a time. Speleologist Roberto Bixio describes a system where whole sections could be sealed off, and counter-attacks launched through side passages."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the corridors. Low and narrow, so anyone coming in has to walk bent over, one at a time. Speleologist Roberto Bixio describes a system where whole sections could be sealed off, and counter-attacks launched through side passages.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 17.256
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept art of a strange silver machine trying to force its way into a narrow rock tunnel, science fiction, dark, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So ask the doors what they were built against. Not something from the sky. A stone that only opens from inside, in a tunnel you must crawl through, is built against people."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So ask the doors what they were built against. Not something from the sky. A stone that only opens from inside, in a tunnel you must crawl through, is built against people.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 11.52
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A sealed round stone door in a dark tunnel lit softly by a single lamp, calm, cinematic film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By nine o'clock, the city is sealed. Thousands of people, hundreds of animals, a few hundred metres of rock. Which raises the next problem. Air."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By nine o'clock, the city is sealed. Thousands of people, hundreds of animals, a few hundred metres of rock. Which raises the next problem. Air.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Looking straight up a deep square vertical shaft cut in beige rock toward a small bright patch of daylight far above, dust in the light beam, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ten o'clock. Lamps burning, cooking fires, animals breathing. Without fresh air, a sealed city suffocates in hours. Derinkuyu solves it with more than fifty ventilation shafts."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "10:00",
+   "The Air",
+   "50 SHAFTS, ONE IDEA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ten o'clock. Lamps burning, cooking fires, animals breathing. Without fresh air, a sealed city suffocates in hours. Derinkuyu solves it with more than fifty ventilation shafts.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cross-section style photoreal view of a vertical air shaft passing several underground floors with side openings at staggered heights, warm lamp light, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The main shaft is about three metres by nearly three. And engineers noticed something clever: the openings to different levels never sit directly above each other. The layout appears designed to keep air moving."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The main shaft is about three metres by nearly three. And engineers noticed something clever: the openings to different levels never sit directly above each other. The layout appears designed to keep air moving.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Two modern scientists in hard hats installing a small sensor box on a beige rock wall deep underground, headlamps, documentary photo, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Rock engineers Omer Aydan and Resat Ulusay have studied the city since nineteen ninety-six, monitoring temperature, moisture and air pressure, with sensors on the fifth and seventh floors. Their verdict: a remarkably stable underground structure."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Rock engineers Omer Aydan and Resat Ulusay have studied the city since nineteen ninety-six, monitoring temperature, moisture and air pressure, with sensors on the fifth and seventh floors. Their verdict: a remarkably stable underground structure.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 17.232
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A thin stream of smoke from an oil lamp drifting toward a dark vent hole in a rock ceiling, close-up, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The physics is simple and old. Warm air rises, cool air sinks. Underground, the temperature stays at around thirteen to fifteen degrees all year. Shafts linking levels at different heights keep a slow current flowing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The physics is simple and old. Warm air rises, cool air sinks. Underground, the temperature stays at around thirteen to fifteen degrees all year. Shafts linking levels at different heights keep a slow current flowing.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 15.192
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept image of a glowing alien air-filtration machine inside a rock cavern, science fiction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Is that too advanced for farmers? Every mine, every well-digger, every chimney builder in the ancient world used the same principle. Clever, yes. Mysterious, no."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Is that too advanced for farmers? Every mine, every well-digger, every chimney builder in the ancient world used the same principle. Clever, yes. Mysterious, no.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Shafts of dusty daylight falling into a large underground room carved in tuff, people resting on stone benches seen from behind, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And notice the design choice. Not one big air hole an enemy could block, but dozens of small ones spread across the city. Air from fifty shafts is hard to cut off all at once."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And notice the design choice. Not one big air hole an enemy could block, but dozens of small ones spread across the city. Air from fifty shafts is hard to cut off all at once.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A small oil lamp flame burning steadily deep underground, everything else dark, cinematic macro, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Noon is coming. The air is moving. But twenty thousand people need something else, every single day."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Noon is coming. The air is moving. But twenty thousand people need something else, every single day.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 6.432
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Looking down into a deep circular stone well shaft inside a rock-cut city, a rope and wooden bucket descending into darkness, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Twelve o'clock. Water. The town's name, Derinkuyu, deep well, comes from this. A shaft about fifty-five metres deep, reaching water far below."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "12:00",
+   "The Well",
+   "THE DEEP WELL"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Twelve o'clock. Water. The town's name, Derinkuyu, deep well, comes from this. A shaft about fifty-five metres deep, reaching water far below.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A woman in simple Byzantine-era clothing hauling a rope from a stone well opening in an underground chamber, seen from behind, lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It served the village above in normal times and the people below in a siege. Crucially, it could be cut off from below. Raiders at the surface couldn't poison it, or use it as a way in."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It served the village above in normal times and the people below in a siege. Crucially, it could be cut off from below. Raiders at the surface couldn't poison it, or use it as a way in.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept art of a toxic glowing cloud drifting over a volcanic landscape with a hidden shelter beneath, apocalyptic, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Graham Hancock, in the Netflix series Ancient Apocalypse, reads it differently: internal wells, sealed doors, deep air, all planned for a long, total escape from something poisoning the world above."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Graham Hancock, in the Netflix series Ancient Apocalypse, reads it differently: internal wells, sealed doors, deep air, all planned for a long, total escape from something poisoning the world above.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 13.464
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Clay water jars and a stone basin in a cool dark rock-cut storeroom, oil lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But a well safe from poison is exactly what a siege needs. Poisoning or blocking water was standard warfare. You don't need a comet to want a well your enemy can't reach."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But a well safe from poison is exactly what a siege needs. Poisoning or blocking water was standard warfare. You don't need a comet to want a well your enemy can't reach.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 11.52
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A small group of villagers sharing water from clay cups in a dim rock chamber, calm, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And a fair question for the defenders of the twenty thousand figure. One well, twenty thousand people, three litres each, is sixty thousand litres a day. That number is a capacity estimate, not a census."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And a fair question for the defenders of the twenty thousand figure. One well, twenty thousand people, three litres each, is sixty thousand litres a day. That number is a capacity estimate, not a census.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Light from a lamp reflecting on still water at the bottom of a dark well, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Most raids lasted days or weeks, not years. That's what this water had to cover."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Most raids lasted days or weeks, not years. That's what this water had to cover.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 5.328
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An underground stable carved in tuff with goats and a donkey eating from carved stone troughs, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three in the afternoon. The animals. Stables sat on the upper levels, near the entrances, where the air was best and the smell stayed away from the living quarters."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "15:00",
+   "The Stores",
+   "STABLES, OVENS & WINE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three in the afternoon. The animals. Stables sat on the upper levels, near the entrances, where the air was best and the smell stayed away from the living quarters.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 10.656
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A rock-cut kitchen with a clay tandoor oven set in the floor and a soot-blackened domed ceiling, flatbread baking, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Deeper down, kitchens with tandoor ovens, the same kind still used in Cappadocian villages, under ceilings blackened by centuries of smoke."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Deeper down, kitchens with tandoor ovens, the same kind still used in Cappadocian villages, under ceilings blackened by centuries of smoke.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An ancient stone wine press basin carved in rock with a channel and clay amphorae nearby in an underground room, lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There are wine presses and oil presses, cellars, storerooms, and long refectories with stone tables. De Giorgi points to cellars, pressing vats and amphoras as evidence of winemaking."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There are wine presses and oil presses, cellars, storerooms, and long refectories with stone tables. De Giorgi points to cellars, pressing vats and amphoras as evidence of winemaking.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A long underground refectory carved in rock with a stone table and benches, a few people eating bread seen from behind, oil lamps, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is not an emergency bunker for a few nights. It's a village, folded into the ground. Ready to keep families alive for weeks."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is not an emergency bunker for a few nights. It's a village, folded into the ground. Ready to keep families alive for weeks.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "An ancient Greek soldier in a cloak climbing down a wooden ladder into an underground house with goats and sheep below, historical reconstruction, warm light, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And it's old. Around four hundred BC, the Greek soldier Xenophon marched across Anatolia. In the highlands of Armenia, east of here, he saw houses underground, with a mouth like a well, ramps for animals, and goats, sheep, cattle and fowl living inside."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And it's old. Around four hundred BC, the Greek soldier Xenophon marched across Anatolia. In the highlands of Armenia, east of here, he saw houses underground, with a mouth like a well, ramps for animals, and goats, sheep, cattle and fowl living inside.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 17.856
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A family resting on rugs in a small carved rock room with a lamp in a niche, a child asleep, calm, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Xenophon doesn't name Derinkuyu. But he shows that living underground with your animals was already ordinary in Anatolia, twenty-four centuries ago. Not a lost technology. A local habit."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Xenophon doesn't name Derinkuyu. But he shows that living underground with your animals was already ordinary in Anatolia, twenty-four centuries ago. Not a lost technology. A local habit.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 14.592
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Rows of large clay storage jars along a dark rock-cut corridor, cinematic film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Evening is coming. And as the light fades above, the people below turn to the deepest rooms of all."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Evening is coming. And as the light fades above, the people below turn to the deepest rooms of all.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 6.432
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A large underground hall carved in rock with a barrel-vaulted ceiling and side niches, lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Six in the evening. On the second level there's a large hall with a barrel-vaulted ceiling, unique in the complex, with small rooms beside it. It's usually described as a religious school."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "18:00",
+   "The Chapel",
+   "WHO WAS DOWN HERE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Six in the evening. On the second level there's a large hall with a barrel-vaulted ceiling, unique in the complex, with small rooms beside it. It's usually described as a religious school.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A simple cross-shaped church carved deep underground in beige rock, plain walls, a single lamp on a stone ledge, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Below, staircases lead down to a church, cut in the shape of a cross. The people sheltering here were Christians: Cappadocian Greeks, and later also Armenians."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Below, staircases lead down to a church, cut in the shape of a cross. The people sheltering here were Christians: Cappadocian Greeks, and later also Armenians.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a simple carved cross on a rock wall in an underground chapel, soft lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The chapels, the crosses, the Greek inscriptions, and the great bulk of objects found inside, are Byzantine and medieval. The city in its present size belongs to them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The chapels, the crosses, the Greek inscriptions, and the great bulk of objects found inside, are Byzantine and medieval. The city in its present size belongs to them.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 11.688
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A Byzantine painted rock-cut church interior in the Goreme valley with faded frescoes in deep shadow, faces not visible, warm light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This fits the wider region. The Goreme valley nearby holds hundreds of rock-cut churches. UNESCO lists Derinkuyu and Kaymakli as part of the same World Heritage site, as places of refuge."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This fits the wider region. The Goreme valley nearby holds hundreds of rock-cut churches. UNESCO lists Derinkuyu and Kaymakli as part of the same World Heritage site, as places of refuge.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 14.208
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "People praying quietly by lamp light in an underground chapel, seen from behind, respectful, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So at six in the evening, while horsemen search the empty village above, the people below pray. That's the real scene. And it's harder to watch than any alien."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So at six in the evening, while horsemen search the empty village above, the people below pray. That's the real scene. And it's harder to watch than any alien.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A lamp being lowered into a dark stairwell descending further into rock, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the long night begins. And with it, the hardest question in this case. How old is this place?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the long night begins. And with it, the hardest question in this case. How old is this place?",
+    "file": "ep/audio/s52.mp3",
+    "dur": 6.456
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Deep underground rock chamber at night with a single guttering lamp and long shadows, cinematic film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nine at night. Here's the honest problem. You can't carbon-date a hole. Cutting a room removes rock. It leaves nothing to test. Objects found inside only tell you who used it later."
+   ]
+  ],
+  "tag": "U",
+  "ch": [
+   "21:00",
+   "The Long Night",
+   "HOW OLD IS IT REALLY?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nine at night. Here's the honest problem. You can't carbon-date a hole. Cutting a room removes rock. It leaves nothing to test. Objects found inside only tell you who used it later.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Iron Age Phrygian rock-cut monument facade carved in a cliff in central Anatolia, geometric patterns, evening light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The most common view credits the first chambers to the Phrygians, Iron Age rock carvers, in the eighth or seventh century BC. Some scholars suggest earlier Hittite beginnings, pointing to a few Hittite-style finds."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The most common view credits the first chambers to the Phrygians, Iron Age rock carvers, in the eighth or seventh century BC. Some scholars suggest earlier Hittite beginnings, pointing to a few Hittite-style finds.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 15.768
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept art of a fiery comet breaking up over an ice age landscape with people fleeing toward a cave, cinematic, apocalyptic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hancock goes much further. Since the rock can't be dated, he argues, the first digging could be twelve thousand years old: a shelter from the comet impacts he believes struck at the end of the Ice Age, the Younger Dryas."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hancock goes much further. Since the rock can't be dated, he argues, the first digging could be twelve thousand years old: a shelter from the comet impacts he believes struck at the end of the Ice Age, the Younger Dryas.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 14.16
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An ancient Persian manuscript-style scene of a king supervising the building of a walled enclosure in deep snow, painterly, no script, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Supporters link it to a Zoroastrian text, the Vendidad. The god Ahura Mazda warns King Yima of evil winters and deadly frost, and Yima builds a Vara, an enclosure, to save the seeds of men and animals."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Supporters link it to a Zoroastrian text, the Vendidad. The god Ahura Mazda warns King Yima of evil winters and deadly frost, and Yima builds a Vara, an enclosure, to save the seeds of men and animals.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 16.368
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Archaeologist's hands brushing dust from a broken pottery shard on a rock floor in an underground tunnel, headlamp light, documentary photo, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the Vendidad names no real place and gives no date. And thousands of years of living always leaves rubbish. Here, the datable material is Iron Age or later. No Ice Age layer has ever been found in any Cappadocian underground city."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the Vendidad names no real place and gives no date. And thousands of years of living always leaves rubbish. Here, the datable material is Iron Age or later. No Ice Age layer has ever been found in any Cappadocian underground city.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 17.112
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An old informational sign board on a stand at an ancient site entrance, blank weathered surface, dusty sunlight, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hancock also suggested archaeologists were hiding new dates. Archaeologist Flint Dibble pointed out the dates are published. The signs at the site just hadn't been updated."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hancock also suggested archaeologists were hiding new dates. Archaeologist Flint Dibble pointed out the dates are published. The signs at the site just hadn't been updated.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 11.928
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A chisel-marked rock wall showing several phases of carving, older rounded rooms cut through by later square passages, lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So what can we say? The first cut date is genuinely unknown. But every piece of evidence we have points to an Iron Age start and a Byzantine peak. Unknown does not mean twelve thousand years."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So what can we say? The first cut date is genuinely unknown. But every piece of evidence we have points to an Iron Age start and a Byzantine peak. Unknown does not mean twelve thousand years.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Faint first grey light appearing at the top of a deep shaft seen from the bottom, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And somewhere above, the raiders give up and ride away. It's almost dawn."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And somewhere above, the raiders give up and ride away. It's almost dawn.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 4.584
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dim empty underground chamber carved in beige volcanic tuff lit by a single oil lamp on the far right, large calm dark empty space on the left, cinematic film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Five in the morning. All clear. Before the doors roll open, let's score the night."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "05:00",
+   "All Clear",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Five in the morning. All clear. Before the doors roll open, let's score the night.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 5.208
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dim empty underground chamber carved in beige volcanic tuff lit by a single oil lamp on the far right, large calm dark empty space on the left, cinematic film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inside-only stone doors and crawl-height tunnels: evidence of defence against people. Staggered air shafts and a well sealed from below: evidence. Chapels, crosses and Byzantine finds: evidence. Use as a refuge recorded from Timur to nineteen oh-nine: evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inside-only stone doors and crawl-height tunnels: evidence of defence against people. Staggered air shafts and a well sealed from below: evidence. Chapels, crosses and Byzantine finds: evidence. Use as a refuge recorded from Timur to nineteen oh-nine: evidence.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 19.248
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dim empty underground chamber carved in beige volcanic tuff lit by a single oil lamp on the far right, large calm dark empty space on the left, cinematic film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A shelter from attacks from the sky, or from aliens: no evidence. A twelve-thousand-year comet bunker: no evidence. The exact first cut, and the full Kaymakli tunnel: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A shelter from attacks from the sky, or from aliens: no evidence. A twelve-thousand-year comet bunker: no evidence. The exact first cut, and the full Kaymakli tunnel: still open.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 13.32
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Villagers emerging from a rock opening into golden sunrise on a volcanic plateau, seen from behind, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Derinkuyu was dug by people, in soft rock, over many centuries, to hide from other people. It peaked when Byzantine villages fled Arab raids, and it was still saving lives in nineteen oh-nine, when news of the Adana massacres sent a Cappadocian town underground for several nights."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Derinkuyu was dug by people, in soft rock, over many centuries, to hide from other people. It peaked when Byzantine villages fled Arab raids, and it was still saving lives in nineteen oh-nine, when news of the Adana massacres sent a Cappadocian town underground for several nights.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 20.4
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An empty rock-cut tunnel with an open round stone door and morning light spilling in, quiet, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen twenty-three, the population exchange sent the Christians of Cappadocia to Greece. The doors stayed open, the city fell silent, and forty years later a sledgehammer found it again."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen twenty-three, the population exchange sent the Christians of Cappadocia to Greece. The doors stayed open, the city fell silent, and forty years later a sledgehammer found it again.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 13.2
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky full of stars above a quiet Anatolian town with warm windows, a dark vent hole in the ground in the foreground, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So, hiding from what? Not from the sky. From the road. From the armies that crossed this land for three thousand years. And that is not a smaller story. It's a harder one."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So, hiding from what? Not from the sky. From the road. From the armies that crossed this land for three thousand years. And that is not a smaller story. It's a harder one.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single round stone door faintly lit in the centre against black, minimal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which hour of the siege surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which hour of the siege surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 8.232
+   }
+  ]
+ }
+]
