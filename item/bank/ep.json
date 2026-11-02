@@ -1,0 +1,1382 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Night aerial view of the flat southern Iraqi desert with the dark silhouette of an ancient stepped mudbrick ziggurat, distant city lights on the horizon, deep blue night, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty sixteen, at a press conference in Iraq, the country's transport minister made an astonishing claim. Five thousand years ago, he said, the Sumerians built an airport in the south of his country, and launched spaceships from it."
+   ]
+  ],
+  "tag": "",
+  "src": "IRAQ \u00b7 2016 \u00b7 TRANSPORT MINISTER, PRESS CONFERENCE",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty sixteen, at a press conference in Iraq, the country's transport minister made an astonishing claim. Five thousand years ago, he said, the Sumerians built an airport in the south of his country, and launched spaceships from it.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.904
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An ancient stepped mudbrick ziggurat at night under a vast starry sky, a single bright light descending from the stars toward it, mysterious, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His source was not an excavation. It was a book from nineteen seventy-six, which says that beings called the Anunnaki came down from a hidden planet, mined gold on Earth, and created us."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His source was not an excavation. It was a book from nineteen seventy-six, which says that beings called the Anunnaki came down from a hidden planet, mined gold on Earth, and created us.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.152
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of an archaeologist's hands in a dim museum storeroom holding a small plain smooth unmarked clay tablet, warm lamp light, shallow depth of field, the tablet surface completely blank, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The name Anunnaki is real. It appears on clay again and again, across two thousand years of Mesopotamian texts. The question is what the people who wrote it actually meant."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The name Anunnaki is real. It appears on clay again and again, across two thousand years of Mesopotamian texts. The question is what the people who wrote it actually meant.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 13.08
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Three tall shadowy robed figures silhouetted in a glowing doorway inside an ancient mudbrick temple, mysterious backlight, dust in the air, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we read that one word three ways. Reading one: they were gods. Reading two: they were kings, remembered as gods. Reading three: they were visitors from space. Each reading gets tested against the tablets. Then a scorecard, and a verdict."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we read that one word three ways. Reading one: they were gods. Reading two: they were kings, remembered as gods. Reading three: they were visitors from space. Each reading gets tested against the tablets. Then a scorecard, and a verdict.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 16.152
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Aerial view of eroded mudbrick ruins of the ancient city of Uruk in the Iraqi desert at golden hour, long shadows, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First, how do we know anything at all? Writing began here, in southern Iraq, more than five thousand years ago. Early cities like Uruk kept their accounts by pressing marks into wet clay."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "0",
+   "The Clay Library",
+   "HOW WE READ SUMER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First, how do we know anything at all? Writing began here, in southern Iraq, more than five thousand years ago. Early cities like Uruk kept their accounts by pressing marks into wet clay.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 12.696
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Museum storeroom with long wooden shelves holding hundreds of small clay tablets seen edge-on from the side, rows fading into darkness, soft focus, warm light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Clay survives. Between half a million and two million cuneiform tablets have been dug up in modern times. Only a fraction, perhaps thirty to a hundred thousand, have been read and published."
+   ]
+  ],
+  "tag": "E",
+  "src": "EST. 500,000\u20132,000,000 TABLETS EXCAVATED \u00b7 ~30,000\u2013100,000 PUBLISHED",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Clay survives. Between half a million and two million cuneiform tablets have been dug up in modern times. Only a fraction, perhaps thirty to a hundred thousand, have been read and published.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A nineteenth-century scholar seen from behind working by candlelight in a cluttered study, plaster casts of ancient reliefs on the shelves, papers out of focus, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For two thousand years nobody could read them. Scholars rebuilt the script in the nineteenth century, and today a myth can be checked line by line."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For two thousand years nobody could read them. Scholars rebuilt the script in the nineteenth century, and today a myth can be checked line by line.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 9.744
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A single brilliant eight-pointed star shining low over a dark desert horizon at dusk, deep indigo sky, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One sign matters for our case. It looks like a star. On its own it means sky, or heaven. Written before a name, it is silent, and simply marks that name as divine. Scholars call it dingir."
+   ]
+  ],
+  "tag": "",
+  "src": "SIGN: DINGIR \u00b7 'SKY' / 'GOD' \u00b7 SILENT MARK OF A DIVINE NAME",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One sign matters for our case. It looks like a star. On its own it means sky, or heaven. Written before a name, it is silent, and simply marks that name as divine. Scholars call it dingir.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 13.272
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Four small ancient copper figurines of Mesopotamian gods wearing horned crowns standing in a dark museum display case, dramatic spotlight, smooth plain plinths, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Remember that star. It returns in all three readings, because the argument turns on who is allowed to wear it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Remember that star. It returns in all three readings, because the argument turns on who is allowed to wear it.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 7.296
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Majestic ancient Mesopotamian sky god with a tall horned crown and long curled beard standing above golden clouds, earth goddess below in a green fertile valley, painterly cinematic realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reading one is the plainest. In Sumerian the name is written a-nun-na, probably meaning princely offspring. The Anunna were the children of An, the sky, and Ki, the earth."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "I",
+   "Reading One: Gods",
+   "WHAT THE TABLETS SAY"
+  ],
+  "src": "A-NUN-NA \u00b7 'PRINCELY OFFSPRING' \u00b7 CHILDREN OF AN & KI",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reading one is the plainest. In Sumerian the name is written a-nun-na, probably meaning princely offspring. The Anunna were the children of An, the sky, and Ki, the earth.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "The great ziggurat of Ur restored, monumental brick staircases at sunrise, Iraq, warm light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The earliest known uses of the word come from inscriptions of Gudea, ruler of Lagash, around twenty one hundred BC, and from the Third Dynasty of Ur."
+   ]
+  ],
+  "tag": "E",
+  "src": "EARLIEST USE \u00b7 GUDEA OF LAGASH c. 2144\u20132124 BC \u00b7 UR III",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The earliest known uses of the word come from inscriptions of Gudea, ruler of Lagash, around twenty one hundred BC, and from the Third Dynasty of Ur.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Seven majestic Mesopotamian deities with horned crowns seated in a semicircle council in a celestial hall of light, painterly cinematic realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the oldest texts they are the great gods themselves, probably the seven who decree: An, Enlil, Enki, Ninhursag, Nanna, Utu and Inanna. Their job, the poems say, was to decree the fates of mankind."
+   ]
+  ],
+  "tag": "E",
+  "src": "'THE SEVEN GODS WHO DECREE'",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the oldest texts they are the great gods themselves, probably the seven who decree: An, Enlil, Enki, Ninhursag, Nanna, Utu and Inanna. Their job, the poems say, was to decree the fates of mankind.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 15.816
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Dark underworld throne room with seven stern divine judges on golden thrones lit by torches, ancient Mesopotamian style, ominous, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the tablets never agree on how many there were. One text links fifty Anunnaki to the city of Eridu. In Inanna's Descent there are just seven, sitting as judges in the underworld. A late Babylonian epic counts three hundred in heaven and six hundred below."
+   ]
+  ],
+  "tag": "E",
+  "src": "ERIDU: 50 \u00b7 INANNA'S DESCENT: 7 \u00b7 EN\u016aMA ELI\u0160: 300 + 600",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the tablets never agree on how many there were. One text links fifty Anunnaki to the city of Eridu. In Inanna's Descent there are just seven, sitting as judges in the underworld. A late Babylonian epic counts three hundred in heaven and six hundred below.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 18.336
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Empty ancient Mesopotamian temple sanctuary with a single cult statue on a pedestal, offerings of bread and dates, flickering oil lamps, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No complete list of their names has ever been found, and no temple or picture of them as a group. As a team, they live almost only in literature."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No complete list of their names has ever been found, and no temple or picture of them as a group. As a team, they live almost only in literature.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient temple priests dressing a large clay and gold cult statue of a god in fine woven garments, lamp light, reverent atmosphere, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mesopotamians pictured a god as a giant in human form, wrapped in a terrifying radiance, living in its temple, inside its statue. Priests dressed that statue, and set meals before it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mesopotamians pictured a god as a giant in human form, wrapped in a terrifying radiance, living in its temple, inside its statue. Priests dressed that statue, and set meals before it.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "left",
+  "prompt": "An ornate ancient reed barge carrying a covered golden statue along a wide river at dawn, priests aboard, palm trees on the bank, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The gods even had vehicles: barges and chariots. They carried the statues to festivals, and sometimes to a battlefield, so the god could watch."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The gods even had vehicles: barges and chariots. They carried the statues to festivals, and sometimes to a battlefield, so the god could watch.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Exhausted mythic divine labourers in simple robes digging a huge river canal with baskets and hoes under a harsh sun, epic painterly landscape, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the most important tablet of all, because the visitor theory is built on it. The Babylonian epic of Atrahasis opens: when the gods, like men, did the work. Junior gods, the Igigi, dig the rivers and canals while the senior gods rule."
+   ]
+  ],
+  "tag": "",
+  "src": "ATRAHASIS \u00b7 OLD BABYLONIAN COPY c. 1650 BC",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the most important tablet of all, because the visitor theory is built on it. The Babylonian epic of Atrahasis opens: when the gods, like men, did the work. Junior gods, the Igigi, dig the rivers and canals while the senior gods rule.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 16.968
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Rebel workers carrying torches and tools surrounding a great mudbrick palace at night, mythic Mesopotamia, painterly cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The workers revolt. At night they surround the house of Enlil, chief of the gods. To end the strike, the gods decide to make a substitute: a creature that will carry the load instead."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The workers revolt. At night they surround the house of Enlil, chief of the gods. To end the strike, the gods decide to make a substitute: a creature that will carry the load instead.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 12.24
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A mother goddess kneeling by a river shaping a small human figure from wet clay, a drummer in the background, mythic warm light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Enki and the mother goddess Mami take clay, mix it with the blood of a slain god, and shape the first humans. Mami hands them a carrying basket. Humanity is born as labor."
+   ]
+  ],
+  "tag": "L",
+  "src": "ATRAHASIS I \u00b7 CLAY + THE BLOOD OF A SLAIN GOD",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Enki and the mother goddess Mami take clay, mix it with the blood of a slain god, and shape the first humans. Mami hands them a carrying basket. Humanity is born as labor.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.216
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A huge flood wave rolling over a Mesopotamian reed village under a black storm, a cube-shaped wooden boat sealed with pitch riding the waves, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then humans multiply, and their noise keeps the gods awake. Plague, drought, and finally a flood. Enki warns one wise man, Atrahasis, who builds a boat and survives."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then humans multiply, and their noise keeps the gods awake. Plague, drought, and finally a flood. Enki warns one wise man, Atrahasis, who builds a boat and survives.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Smoke rising from an altar fire on a mountaintop after a flood, a swarm of flies circling in the golden light, a lone man kneeling, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here is the detail that matters most. During the flood, with no humans left to feed them, the gods go hungry and thirsty. When Atrahasis makes his offering, they gather around it like flies."
+   ]
+  ],
+  "tag": "L",
+  "src": "ATRAHASIS III \u00b7 'THE ANUNNAKI WERE SITTING IN THIRST AND HUNGER'",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here is the detail that matters most. During the flood, with no humans left to feed them, the gods go hungry and thirsty. When Atrahasis makes his offering, they gather around it like flies.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Mesopotamian scene of a dim hall of the underworld with judges on golden thrones fading into shadow, while bright stars shine through an opening above, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Over time the word even drifts. Later, Anunnaki usually means the gods of the underworld, and Igigi the gods of heaven."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Over time the word even drifts. Later, Anunnaki usually means the gods of the underworld, and Igigi the gods of heaven.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A Sumerian worshipper with clasped hands standing before a seated deity statue in a temple, offering cup on the altar, lamp light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Finding for reading one. In the tablets, the Anunnaki are gods: immortal, quarrelsome, fed by sacrifice. That is not our interpretation. It is how the scribes wrote them."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Finding for reading one. In the tablets, the Anunnaki are gods: immortal, quarrelsome, fed by sacrifice. That is not our interpretation. It is how the scribes wrote them.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An ancient Greek writer on a terrace overlooking the Aegean Sea writing on a blank papyrus scroll, golden afternoon light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reading two is older than it sounds. Around three hundred BC the Greek writer Euhemerus argued that gods were simply famous rulers, remembered and exaggerated. Maybe the Anunnaki were real kings."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "II",
+   "Reading Two: Kings",
+   "WHEN RULERS BECOME GODS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reading two is older than it sounds. Around three hundred BC the Greek writer Euhemerus argued that gods were simply famous rulers, remembered and exaggerated. Maybe the Anunnaki were real kings.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 15.048
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A tall four-sided terracotta prism standing alone in a dark museum display case, lit from above, its faces worn completely smooth and blank, black background, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The star witness for this reading is the Sumerian King List. Its best-known copy, the Weld-Blundell prism, dates to the reign of King Sin-magir of Isin."
+   ]
+  ],
+  "tag": "E",
+  "src": "SUMERIAN KING LIST \u00b7 WELD-BLUNDELL PRISM \u00b7 ISIN DYNASTY",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The star witness for this reading is the Sumerian King List. Its best-known copy, the Weld-Blundell prism, dates to the reign of King Sin-magir of Isin.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "up",
+  "prompt": "A golden royal crown descending from the heavens on beams of light toward an ancient Mesopotamian city at dawn, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It opens: after the kingship descended from heaven, the kingship was in Eridu. Kingship literally comes down from the sky."
+   ]
+  ],
+  "tag": "",
+  "src": "'AFTER THE KINGSHIP DESCENDED FROM HEAVEN\u2026'",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It opens: after the kingship descended from heaven, the kingship was in Eridu. Kingship literally comes down from the sky.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 8.52
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An impossibly ancient Sumerian king on a throne in a vast dim palace hall, white beard flowing to the floor, dramatic chiaroscuro, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then come eight kings before the flood. The first, Alulim, rules twenty-eight thousand eight hundred years. Together they reign two hundred forty-one thousand two hundred years. One of them, Dumuzid, is a well-known god."
+   ]
+  ],
+  "tag": "L",
+  "src": "8 KINGS BEFORE THE FLOOD \u00b7 241,200 YEARS \u00b7 ALULIM: 28,800",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then come eight kings before the flood. The first, Alulim, rules twenty-eight thousand eight hundred years. Together they reign two hundred forty-one thousand two hundred years. One of them, Dumuzid, is a well-known god.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 14.808
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Floodwaters receding from a wide Mesopotamian plain, ruined city walls emerging at sunrise, birds overhead, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "After the flood, kingship descends again, to Kish, and the reigns start to shrink, from centuries to decades. Legend fading into history."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "After the flood, kingship descends again, to Kish, and the reigns start to shrink, from centuries to decades. Legend fading into history.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 8.976
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A man riding on the back of a giant eagle soaring high above the clouds, ancient Mesopotamian king, mythic painterly realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Alien fans love one entry: Etana, the king who ascended to heaven. In his own myth he flies there on the back of an eagle, a story, not a flight report."
+   ]
+  ],
+  "tag": "L",
+  "src": "ETANA \u00b7 'WHO ASCENDED TO HEAVEN'",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Alien fans love one entry: Etana, the king who ascended to heaven. In his own myth he flies there on the back of an eagle, a story, not a flight report.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 11.352
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Legendary king Gilgamesh, muscular with a curled beard, standing on the massive walls of Uruk at sunset, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then a name everyone knows: Gilgamesh of Uruk, given one hundred twenty-six years, and a father described as a phantom. Most historians think a real Gilgamesh ruled Uruk early in the third millennium BC, and was later worshipped as a god."
+   ]
+  ],
+  "tag": "E",
+  "src": "GILGAMESH OF URUK \u00b7 126 YEARS (KING LIST)",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then a name everyone knows: Gilgamesh of Uruk, given one hundred twenty-six years, and a father described as a phantom. Most historians think a real Gilgamesh ruled Uruk early in the third millennium BC, and was later worshipped as a god.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 17.4
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An ancient scribe seen from behind at work in a dim room, only his shoulders and lamp visible, the clay in his hands out of view, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But historians read the King List as politics. Each dynasty edited it to show that kingship had always passed to one city at a time, and now belonged to them."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But historians read the King List as politics. Each dynasty edited it to show that kingship had always passed to one city at a time, and now belonged to them.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An Akkadian king wearing a horned helmet striding up a mountain above his soldiers, defeated enemies below, carved stone relief style rendered as a photoreal scene, no inscription, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the evidence turns. Around twenty two hundred fifty BC, Naram-Sin of Akkad became the first Mesopotamian king known to claim divinity. On his victory stele he climbs a mountain wearing a horned helmet, the headgear of a god."
+   ]
+  ],
+  "tag": "E",
+  "src": "VICTORY STELE OF NARAM-SIN \u00b7 LOUVRE (AI RECONSTRUCTION)",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the evidence turns. Around twenty two hundred fifty BC, Naram-Sin of Akkad became the first Mesopotamian king known to claim divinity. On his victory stele he climbs a mountain wearing a horned helmet, the headgear of a god.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 17.112
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Citizens of an ancient Akkadian city gathered in a square around a life-size copper statue of their king on a stone base, golden light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A statue base found in nineteen seventy-four, at Bassetki, says why. After he crushed a great revolt, the citizens asked the great gods that Naram-Sin be made the god of their city, and they built him a temple."
+   ]
+  ],
+  "tag": "E",
+  "src": "BASSETKI STATUE \u00b7 FOUND 1974 \u00b7 'THE GOD OF THEIR CITY'",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A statue base found in nineteen seventy-four, at Bassetki, says why. After he crushed a great revolt, the citizens asked the great gods that Naram-Sin be made the god of their city, and they built him a temple.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 14.76
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A golden eight-pointed star glowing above the head of a crowned king seen in silhouette against a dark background, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "From then on his name is written with the star of divinity in front of it. Later, Shulgi of Ur did the same, and the kings of Ur called Gilgamesh their divine brother."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "From then on his name is written with the star of divinity in front of it. Later, Shulgi of Ur did the same, and the kings of Ur called Gilgamesh their divine brother.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A procession carrying a statue of a crowned king up the steps of a mudbrick temple at dusk, torches, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Finding for reading two. Some kings really did become gods. But they climbed into a divine category that already existed. The great gods are never presented as retired kings."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Finding for reading two. Some kings really did become gods. But they climbed into a divine category that already existed. The great gods are never presented as retired kings.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A giant reddish planet looming enormous over a desert horizon at night beside the silhouette of an ancient ziggurat, science fiction mood, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reading three is the one most people have heard. In nineteen seventy-six, Zecharia Sitchin published The Twelfth Planet. His books have sold millions of copies, in more than twenty-five languages."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "III",
+   "Reading Three: Visitors",
+   "THE TWELFTH PLANET, 1976"
+  ],
+  "src": "Z. SITCHIN \u00b7 THE 12TH PLANET \u00b7 1976",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reading three is the one most people have heard. In nineteen seventy-six, Zecharia Sitchin published The Twelfth Planet. His books have sold millions of copies, in more than twenty-five languages.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1970s study at night with stacks of books and archaeology photographs, a man seen from behind reading under a desk lamp, New York skyline in the window, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Sitchin, born in Baku, was a journalist and then a shipping executive in New York, who taught himself to read cuneiform."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Sitchin, born in Baku, was a journalist and then a shipping executive in New York, who taught himself to read cuneiform.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 8.4
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A 1960s paperback-era scene of a man looking up at a flying saucer over ancient stone ruins, retro science fiction mood, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He built on Erich von D\u00e4niken's Chariots of the Gods, from nineteen sixty-eight, which read Sumerian texts as alien contact, and turned it into a full history."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He built on Erich von D\u00e4niken's Chariots of the Gods, from nineteen sixty-eight, which read Sumerian texts as alien contact, and turned it into a full history.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "stars",
+  "motion": "left",
+  "prompt": "A dark massive planet travelling a long elliptical path through the solar system, passing the orbit of Jupiter, space art, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His claim: beyond Neptune hides a planet called Nibiru, on a long elliptical orbit that brings it into the inner solar system every three thousand six hundred years."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His claim: beyond Neptune hides a planet called Nibiru, on a long elliptical orbit that brings it into the inner solar system every three thousand six hundred years.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Humanoid astronauts in sleek suits overseeing an open gold mine in a southern African landscape in prehistoric times, science fiction cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its people, the Anunnaki, landed on Earth about four hundred fifty thousand years ago looking for gold, and mined it in Africa."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its people, the Anunnaki, landed on Earth about four hundred fifty thousand years ago looking for gold, and mined it in Africa.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An ancient temple chamber turned into a laboratory with a glowing vessel and the shadow of an early hominin, science fiction meets Mesopotamia, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "When the miners rebelled against the work, Enki proposed a worker made by crossing their genes with those of Homo erectus. Humanity, says Sitchin, was a slave species built for the mines."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "When the miners rebelled against the work, Enki proposed a worker made by crossing their genes with those of Homo erectus. Humanity, says Sitchin, was a slave species built for the mines.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 13.752
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Split composition: on the left a mother goddess shaping a clay human figure, on the right a glowing blue DNA double helix, dark background, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice what he did. That is the Atrahasis story from reading one. Sitchin kept the plot, and swapped clay and blood for genetic engineering. It is his strongest card, because the myth really does say humans were made as labor."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice what he did. That is the Atrahasis story from reading one. Sitchin kept the plot, and swapped clay and blood for genetic engineering. It is his strongest card, because the myth really does say humans were made as labor.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 14.976
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "The ancient city of Ur engulfed by a dark choking wind storm, apocalyptic brown sky, collapsing mudbrick walls, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He went further. The evil wind in the Lament for Ur, he wrote, was fallout from nuclear weapons, used in a war between alien factions, in the year twenty twenty-four BC."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He went further. The evil wind in the Lament for Ur, he wrote, was fallout from nuclear weapons, used in a war between alien factions, in the year twenty twenty-four BC.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 11.928
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A crowd on a city rooftop at sunset staring anxiously at a bright second sun in the sky, which is actually a lens flare, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nibiru then escaped the books. Doomsday websites predicted its arrival in two thousand three, then twenty twelve, then twenty seventeen. NASA's answer never changed: Nibiru does not exist."
+   ]
+  ],
+  "tag": "D",
+  "src": "NIBIRU DOOMSDAY DATES \u00b7 2003 \u00b7 2012 \u00b7 2017",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nibiru then escaped the books. Doomsday websites predicted its arrival in two thousand three, then twenty twelve, then twenty seventeen. NASA's answer never changed: Nibiru does not exist.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A winged bearded Assyrian guardian figure in carved alabaster relief holding a small bucket in one hand and a pine-cone shaped object in the other, wearing bracelets with rosettes, museum light, plain smooth stone background without any inscription band, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ancient astronaut fans add pictures. Assyrian palace reliefs show winged figures carrying what looks like a handbag, and wearing what looks like a wristwatch."
+   ]
+  ],
+  "tag": "T",
+  "src": "NIMRUD \u00b7 NORTHWEST PALACE \u00b7 c. 883\u2013859 BC (AI RECONSTRUCTION)",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ancient astronaut fans add pictures. Assyrian palace reliefs show winged figures carrying what looks like a handbag, and wearing what looks like a wristwatch.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A clay cylinder seal impression showing robed figures facing a seated figure, above them a central six-pointed star surrounded by a ring of eleven small round dots, museum lighting, plain clay with no inscription, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And a cylinder seal in Berlin, catalogue number VA two forty-three, which Sitchin read as the Sun circled by eleven planets. Twelve bodies in all: the twelfth planet."
+   ]
+  ],
+  "tag": "T",
+  "src": "SEAL VA 243 \u00b7 VORDERASIATISCHES MUSEUM, BERLIN (AI RECONSTRUCTION)",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And a cylinder seal in Berlin, catalogue number VA two forty-three, which Sitchin read as the Sun circled by eleven planets. Twelve bodies in all: the twelfth planet.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 12.288
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A magnifying glass resting on a weathered blank clay surface under a brass desk lamp, detective atmosphere, dark wood desk, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the test. We check Sitchin the way any translation is checked: against dictionaries, other copies, and specialists. Five claims."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "IV",
+   "The Translation Test",
+   "FIVE CLAIMS VS THE CLAY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the test. We check Sitchin the way any translation is checked: against dictionaries, other copies, and specialists. Five claims.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 9.0
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "The bright planet Jupiter rising over a reedy river ford at night in ancient Mesopotamia, a small ferry boat moored, starry sky, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim one: Nibiru. In Akkadian, nibiru means crossing, a ford or a ferry. In the creation epic, Nibiru is Marduk's star, which he made visible in heaven to mark the turning point of the stars. Babylonian astronomy ties it to Jupiter."
+   ]
+  ],
+  "tag": "D",
+  "src": "N\u0112BERU = 'CROSSING' \u00b7 EN\u016aMA ELI\u0160 V: MARDUK'S STAR \u00b7 JUPITER",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim one: Nibiru. In Akkadian, nibiru means crossing, a ford or a ferry. In the creation epic, Nibiru is Marduk's star, which he made visible in heaven to mark the turning point of the stars. Babylonian astronomy ties it to Jupiter.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 16.8
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Space art of an extremely elongated orbit around the Sun with the planets as tiny dots on circular paths, a lone dark planet being flung outward, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The orbit also fails on physics. A planet on that path would not keep the same period for even two passes. And a body that big would be easy to see."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The orbit also fails on physics. A planet on that path would not keep the same period for even two passes. And a body that big would be easy to see.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An ancient Babylonian astronomer on a rooftop at night watching the sky, five bright planets visible among the stars, quiet city below, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim two: twelve planets. The catalogued cuneiform astronomy texts, from the MUL-APIN compendium on, know five planets, the ones visible to the naked eye. Not one tablet counts more."
+   ]
+  ],
+  "tag": "D",
+  "src": "CUNEIFORM ASTRONOMY \u00b7 5 NAKED-EYE PLANETS",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim two: twelve planets. The catalogued cuneiform astronomy texts, from the MUL-APIN compendium on, know five planets, the ones visible to the naked eye. Not one tablet counts more.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Extreme close-up of a clay cylinder seal impression with a six-pointed star and small round dots, raking light, museum black background, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim three: the seal. Its lines of writing, which Sitchin did not discuss, read: Dubsiga, Ili-illat, your servant. A name, an owner, a dedication. Nothing about planets."
+   ]
+  ],
+  "tag": "D",
+  "src": "VA 243 INSCRIPTION \u00b7 'DUBSIGA, ILI-ILLAT, YOUR SERVANT' (MOORTGAT 1940)",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim three: the seal. Its lines of writing, which Sitchin did not discuss, read: Dubsiga, Ili-illat, your servant. A name, an owner, a dedication. Nothing about planets.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Two ancient carved stone symbols side by side on a weathered boundary stone: a simple six-pointed star, and a sun disk with four arms and wavy rays inside a circle, raking light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the central symbol is not the Sun. The Sun god's disk has wavy rays inside a circle. This is a star, the usual marker of a god, and dots are how artists drew stars."
+   ]
+  ],
+  "tag": "D",
+  "src": "SUN = DISK WITH WAVY RAYS \u00b7 STAR = MARK OF A GOD",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the central symbol is not the Sun. The Sun god's disk has wavy rays inside a circle. This is a star, the usual marker of a god, and dots are how artists drew stars.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A single shining star above a seated god figure in a dim temple, golden rays, painterly cinematic realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim four: the words. Sitchin said the sign dingir meant pure ones of the blazing rockets. The sign is a star, meaning sky or god. Historians who checked his references found quotations cut short and taken out of context."
+   ]
+  ],
+  "tag": "D",
+  "src": "FRITZE, INVENTED KNOWLEDGE (2009)",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim four: the words. Sitchin said the sign dingir meant pure ones of the blazing rockets. The sign is a star, meaning sky or god. Historians who checked his references found quotations cut short and taken out of context.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 16.512
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A winged guardian figure in carved alabaster relief holding a small bucket and a pine-cone shaped sprinkler toward a stylized sacred palm tree, bracelets with rosettes, plain smooth stone background without any inscription band, museum light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim five: the handbag. The museums that hold these reliefs explain it. The bucket held holy water, and the cone, called in Akkadian a purifier, sprinkled it. The wristwatch is a bracelet with a rosette, a symbol of divinity."
+   ]
+  ],
+  "tag": "D",
+  "src": "THE MET \u00b7 NIMRUD RELIEF 31.72.3 \u00b7 BUCKET + 'PURIFIER'",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim five: the handbag. The museums that hold these reliefs explain it. The bucket held holy water, and the cone, called in Akkadian a purifier, sprinkled it. The wristwatch is a bracelet with a rosette, a symbol of divinity.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 15.84
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A Mesopotamian temple altar with smoke curling up from a small fire and empty offering plates, dim and quiet, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One last check. In Atrahasis, people are made of clay and divine blood, not genes, and their makers nearly starve without our offerings. Starfaring engineers who need us to feed them? The tablet describes gods."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One last check. In Atrahasis, people are made of clay and divine blood, not genes, and their makers nearly starve without our offerings. Starfaring engineers who need us to feed them? The tablet describes gods.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 15.192
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic archive room at night with a single desk lamp and lots of empty dark space, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Case closed. Here is the scorecard."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "\u2605",
+   "The Scorecard",
+   "THREE READINGS \u00b7 ONE WORD"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Case closed. Here is the scorecard.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 2.16
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic archive room at night with a single desk lamp and lots of empty dark space, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Anunnaki appear in real texts: evidence. In those texts they are gods: evidence. Some kings became gods: evidence, from Naram-Sin on. The great gods were once kings: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Anunnaki appear in real texts: evidence. In those texts they are gods: evidence. Some kings became gods: evidence, from Naram-Sin on. The great gods were once kings: no evidence.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 14.16
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic archive room at night with a single desk lamp and lots of empty dark space, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nibiru is a hidden planet: debunked, it is Marduk's star. Seal VA two forty-three shows the solar system: debunked. The Anunnaki were visitors from space: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nibiru is a hidden planet: debunked, it is Marduk's star. Seal VA two forty-three shows the solar system: debunked. The Anunnaki were visitors from space: no evidence.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A restored ziggurat at sunrise with priests climbing its long staircase, peaceful golden light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Reading one wins. The Anunnaki were gods: the princely children of the sky, who decreed fates, judged the dead, and needed to be fed."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Reading one wins. The Anunnaki were gods: the princely children of the sky, who decreed fates, judged the dead, and needed to be fed.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 10.488
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A statue of a crowned king in a courtyard at golden hour with a faint star of light above its head, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reading two survives as a footnote. Kings like Naram-Sin and Shulgi reached up for the star of divinity. But the gods were there first."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reading two survives as a footnote. Kings like Naram-Sin and Shulgi reached up for the star of divinity. But the gods were there first.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky over the Iraqi desert with the planet Jupiter bright near the horizon above ancient ruins, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reading three is a modern story written over an ancient one. It took a real myth about labor and rebellion, and replaced clay with DNA, a star with a planet, and a servant's seal with a map of space."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reading three is a modern story written over an ancient one. It took a real myth about labor and rebellion, and replaced clay with DNA, a star with a planet, and a servant's seal with a map of space.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "up",
+  "prompt": "A young visitor in a quiet museum gallery looking at small clay tablets in a softly lit display case, the tablets far away and out of focus, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The real tablets are stranger, and better: gods on strike, kings who became gods, and the first humans, handed a basket. Anyone can read them now, line by line."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The real tablets are stranger, and better: gods on strike, kings who became gods, and the first humans, handed a basket. Anyone can read them now, line by line.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background with a faint glowing eight-pointed star above the silhouette of a ziggurat among stars, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no inscriptions, no cuneiform, no glyphs, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the case. Gods, kings, or visitors: which reading convinced you? Tell us in the comments, and subscribe for the next ancient mystery on trial."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the case. Gods, kings, or visitors: which reading convinced you? Tell us in the comments, and subscribe for the next ancient mystery on trial.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 10.032
+   }
+  ]
+ }
+]
