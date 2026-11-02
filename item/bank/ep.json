@@ -1,0 +1,1407 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial view at golden hour of a vast Dravidian-style Hindu temple carved from a single dark basalt hill, standing free inside a deep rectangular pit with sheer rock walls, multi-storey shrine with a pyramidal tower, stone bridges, life-size carved stone elephants, the surrounding hillside cut away around it, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In western India there is a temple that was never built. Nobody laid a single stone. It was cut downward out of one living hill, until a whole Shiva temple stood free in a pit of its own making."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In western India there is a temple that was never built. Nobody laid a single stone. It was cut downward out of one living hill, until a whole Shiva temple stood free in a pit of its own making.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Low angle view from the courtyard floor up at the sheer dark basalt cliff walls rising around a carved temple tower, tiny visitors at the bottom for scale, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Kailasa. Cave sixteen at Ellora. Its tower rises more than thirty metres above the courtyard, and the courtyard itself is about eighty metres long, carved out of solid volcanic rock."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Kailasa. Cave sixteen at Ellora. Its tower rises more than thirty metres above the courtyard, and the courtyard itself is about eighty metres long, carved out of solid volcanic rock.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept art, a glowing disc-shaped craft hovering over a dark Indian basalt plateau at night emitting a thin cutting beam into the rock, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Online, you will hear a different story. Four hundred thousand tons of rock, removed in eighteen years. Five tons an hour. Impossible even today, they say. So it must have been lasers, energy machines, or visitors."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Online, you will hear a different story. Four hundred thousand tons of rock, removed in eighteen years. Five tons an hour. Impossible even today, they say. So it must have been lasers, energy machines, or visitors.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 15.408
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An old-fashioned film time-lapse camera on a wooden tripod standing on a bare rocky hilltop at dawn, pointing down the slope, mist below, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So let's rewind this hill to bare rock, set up an imaginary time-lapse camera, and run the clock forward. At every stage of the build, we test the alien claim that belongs there."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So let's rewind this hill to bare rock, set up an imaginary time-lapse camera, and run the clock forward. At every stage of the build, we test the alien claim that belongs there.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A bare grassy basalt hillside with step-like terraces at sunrise in the Deccan plateau, no buildings, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eight stages. One hill. And at the end, a scorecard and a verdict. Respectfully, because this is not only a puzzle. It is a sacred place."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eight stages. One hill. And at the end, a scorecard and a verdict. Respectfully, because this is not only a puzzle. It is a sacred place.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Layered dark volcanic basalt cliffs with step-like flat-topped terraces of the Deccan Traps under a hazy sky, geological landscape, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stage one: the hill. Before any chisel, there was lava. Around sixty-five million years ago, eruptions spread layer after layer of basalt across the Deccan. Geologists call it the Deccan Traps, from a Scandinavian word for stairs."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STAGE 1",
+   "The Hill",
+   "YEAR ZERO \u00b7 BARE BASALT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stage one: the hill. Before any chisel, there was lava. Around sixty-five million years ago, eruptions spread layer after layer of basalt across the Deccan. Geologists call it the Deccan Traps, from a Scandinavian word for stairs.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 16.56
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro photograph of a freshly split dark grey basalt surface with fine grain beside a weathered darker crust, natural light, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Archaeological Survey of India notes that this basalt is relatively workable when freshly cut and hardens as it weathers. And the builders chose fine-grained layers, following natural cracks to save labour."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Archaeological Survey of India notes that this basalt is relatively workable when freshly cut and hardens as it weathers. And the builders chose fine-grained layers, following natural cracks to save labour.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 14.184
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "A long curved basalt cliff with a row of many dark rock-cut cave entrances and pillared facades along it, seen from a distance in morning light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This hill was not new to carvers. Ellora holds thirty-four famous caves along two kilometres of cliff: Buddhist, Hindu and Jain, cut between roughly the sixth and tenth centuries."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This hill was not new to carvers. Ellora holds thirty-four famous caves along two kilometres of cliff: Buddhist, Hindu and Jain, cut between roughly the sixth and tenth centuries.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Interior of an ancient Buddhist rock-cut prayer hall with a vaulted ribbed stone ceiling and rows of carved pillars, warm light from the entrance, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And Ellora came late in a longer story. India's rock-cut tradition runs from the Barabar caves of the third century BCE through the great halls of Karla, Kanheri and Ajanta."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And Ellora came late in a longer story. India's rock-cut tradition runs from the Barabar caves of the third century BCE through the great halls of Karla, Kanheri and Ajanta.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A rock-cut cave temple facade with carved pillars cut into a cliff above a forested valley, soft daylight, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Maharashtra alone has roughly twelve hundred rock-cut caves. By the eighth century, carving architecture out of cliffs was not a lost secret. It was a profession, eight hundred years deep."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Maharashtra alone has roughly twelve hundred rock-cut caves. By the eighth century, carving architecture out of cliffs was not a lost secret. It was a profession, eight hundred years deep.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "A lone ancient-looking figure silhouetted on a hilltop at night looking up at a starry sky over the Deccan plateau, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The alien argument usually skips this part. It treats Kailasa as if it appeared out of nowhere. On our time-lapse, it appears at the very end of a long apprenticeship."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The alien argument usually skips this part. It treats Kailasa as if it appeared out of nowhere. On our time-lapse, it appears at the very end of a long apprenticeship.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Golden morning light raking across an untouched sloping basalt hillside with a few shrubs, peaceful, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So at year zero we have the right rock and generations of people who knew how to cut it. What we need next is a patron, and a plan."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So at year zero we have the right rock and generations of people who knew how to cut it. What we need next is a patron, and a plan.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 8.928
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An eighth-century Indian royal court scene, a king seated on a carved stone throne under a canopy with attendants, oil lamps, warm cinematic historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stage two: the blueprint. In the mid-eighth century, a new dynasty took over the Deccan: the Rashtrakutas. Their founder, Dantidurga, left an inscription in the cave next door."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STAGE 2",
+   "The Blueprint",
+   "WHO ORDERED IT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stage two: the blueprint. In the mid-eighth century, a new dynasty took over the Deccan: the Rashtrakutas. Their founder, Dantidurga, left an inscription in the cave next door.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A bundle of ancient copper plates strung on a heavy copper ring lying on dark cloth, seen from a low angle with the plate faces in deep shadow, plain smooth metal, oil lamp light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The temple itself carries no founding inscription. But a royal copper-plate grant, written around eight hundred and twelve, credits a king called Krishnaraja with a marvellous temple on the hill at Elapura, the old name of Ellora."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The temple itself carries no founding inscription. But a royal copper-plate grant, written around eight hundred and twelve, credits a king called Krishnaraja with a marvellous temple on the hill at Elapura, the old name of Ellora.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 16.152
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Soft clouds lit by golden light above a dark rocky hill with a faint carved temple silhouette, ethereal, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And it says something remarkable. The celestial beings were amazed, as if the temple had made itself. And even the architect who made it wondered how he had done it. The builders' own descendants were already astonished."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And it says something remarkable. The celestial beings were amazed, as if the temple had made itself. And even the architect who made it wondered how he had done it. The builders' own descendants were already astonished.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 14.352
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "A historical reconstruction of a stately Indian king in eighth-century attire standing on a rocky hilltop surveying the land, warm light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Most scholars read Krishnaraja as Krishna the First, who reigned from about seven fifty-six to seven seventy-three. The link isn't perfectly certain. But no other builder has any evidence at all."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Most scholars read Krishnaraja as Krishna the First, who reigned from about seven fifty-six to seven seventy-three. The link isn't perfectly certain. But no other builder has any evidence at all.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A structural stone Dravidian temple with a pyramidal tower built of fitted sandstone blocks in a village setting in southern India, afternoon light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the clue to the blueprint. The main shrine closely resembles, on a bigger scale, the Virupaksha temple at Pattadakal, built by the Chalukyas a few years earlier, itself modelled on the Kailasanatha temple at Kanchipuram."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the clue to the blueprint. The main shrine closely resembles, on a bigger scale, the Virupaksha temple at Pattadakal, built by the Chalukyas a few years earlier, itself modelled on the Kailasanatha temple at Kanchipuram.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 16.776
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Indian stone masons and sculptors of the eighth century travelling with bundles of iron tools and measuring cords along a dusty road, historical reconstruction, golden light, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Archaeologist M. K. Dhavalikar argued that after defeating the Chalukyas, Krishna brought their temple builders north. If so, the team arrived with a proven design in their heads. They were not inventing. They were scaling up."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Archaeologist M. K. Dhavalikar argued that after defeating the Chalukyas, Krishna brought their temple builders north. If so, the team arrived with a proven design in their heads. They were not inventing. They were scaling up.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 16.2
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A cord stretched between wooden pegs on a flat rocky hilltop at dawn, with a plumb bob hanging, simple ancient surveying tools, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dhavalikar also noticed that no major part looks like an afterthought. The whole complex seems planned from the start. Where are the plans, skeptics ask? Eighth-century working drawings almost never survive anywhere. The temple itself is the plan."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dhavalikar also noticed that no major part looks like an afterthought. The whole complex seems planned from the start. Where are the plans, skeptics ask? Eighth-century working drawings almost never survive anywhere. The temple itself is the plan.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 17.136
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An Indian queen in eighth-century attire praying with folded hands before a small lamp at dawn, serene, historical painting style photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A legend, written down centuries later, says a queen vowed to fast until she saw the top of a new temple, and an architect named Kokasa promised it within a week, by carving from the top of a rock. Later inscriptions do mention a family of architects called Kokasa."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A legend, written down centuries later, says a queen vowed to fast until she saw the top of a new temple, and an architect named Kokasa promised it within a week, by carving from the top of a rock. Later inscriptions do mention a family of architects called Kokasa.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 18.144
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient workers with iron picks and chisels cutting a deep straight trench down into a sloping basalt hillside, rock dust in the air, historical reconstruction, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stage three: the trenches. The camera starts to run. Workers level the top and mark the temple's outline from above. Then they cut down: three deep trenches forming a giant U around a block of rock."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STAGE 3",
+   "The Trenches",
+   "CUTTING THE BLOCK FREE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stage three: the trenches. The camera starts to run. Workers level the top and mark the temple's outline from above. Then they cut down: three deep trenches forming a giant U around a block of rock.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Top-down aerial view of a sloping hill with three deep straight trenches cut into it forming a U shape around a large rectangular block of rock, sharp shadows, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The block in the middle becomes the temple. The trenches become the courtyard, about eighty-two by forty-six metres, up to thirty metres deep at the back."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The block in the middle becomes the temple. The trenches become the courtyard, about eighty-two by forty-six metres, up to thirty metres deep at the back.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of parallel chisel and pick marks covering a dark basalt rock wall, raking sunlight, detailed texture, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now, the first alien claim: lasers and energy beams. If that were true, the walls should show it. Instead, they are covered in chisel and pick marks, on surfaces all over the complex."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now, the first alien claim: lasers and energy beams. If that were true, the walls should show it. Instead, they are covered in chisel and pick marks, on surfaces all over the complex.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A hand-forged iron chisel and a heavy hammer resting on a block of dark basalt with fresh stone chips around them, warm light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Rows of overlapping strokes, each one a blow by a human arm. A laser would leave melted, glassy surfaces. There are none. The builders signed their work everywhere."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Rows of overlapping strokes, each one a blow by a human arm. A laser would leave melted, glassy surfaces. There are none. The builders signed their work everywhere.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.544
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Workers driving wooden and iron wedges into a crack in basalt to split off a large block, historical reconstruction, dusty light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the basalt here is layered and jointed. Split along those natural cracks with wedges and levers, large blocks come away at once. You don't have to grind every gram of rock to dust."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the basalt here is layered and jointed. Split along those natural cracks with wedges and levers, large blocks come away at once. You don't have to grind every gram of rock to dust.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "View down from the top edge of a deep rock trench with workers standing on the solid floor of the cut, no scaffolding, sunlight, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Working from the top down has another advantage that sounds backwards at first. You never need scaffolding. Each worker stands on the rock that has not been cut yet. The hill is its own platform."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Working from the top down has another advantage that sounds backwards at first. You never need scaffolding. Each worker stands on the rock that has not been cut yet. The hill is its own platform.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept image of a mysterious glowing machine with tentacle-like arms carving a cliff, science fiction, dark moody, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some websites go further: acid that melted the rock, sound waves that shattered it. None comes with a sample, a residue, or a single test."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some websites go further: acid that melted the rock, sound waves that shattered it. None comes with a sample, a residue, or a single test.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Wide view of a huge rectangular block of rock standing isolated inside three deep trenches on a hillside, dust in the air at sunset, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the end of stage three, our time-lapse shows a raw block of stone standing in a trench. No temple yet. Just a block, and a plan."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the end of stage three, our time-lapse shows a raw block of stone standing in a trench. No temple yet. Just a block, and a plan.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 9.096
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Sculptors on top of a large raw rock block carving the pyramidal tiers of a temple tower downward, the lower part of the block still rough and uncut, historical reconstruction, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stage four: the spire. And here is the strangest part of the method. The carvers began with the top of the temple, the tower, and worked down."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STAGE 4",
+   "The Spire",
+   "TOP FIRST \u00b7 NO UNDO"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stage four: the spire. And here is the strangest part of the method. The carvers began with the top of the temple, the tower, and worked down.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 9.408
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close view of a finely carved stone temple tower top with small pavilions and niches emerging from rough uncut rock below, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the crown of the temple was finished while the ground floor was still solid rock. Each level was roughed out, sculpted, and left behind as the work moved down."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the crown of the temple was finished while the ground floor was still solid rock. Each level was roughed out, sculpted, and left behind as the work moved down.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 10.896
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A carved temple tower of dark basalt silhouetted against a pale blue morning sky, crisp detail, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It also means there is no undo button. You can't glue a broken nose back onto a monolith. Every cut has to be right, which is why planning matters more than any tool."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It also means there is no undo button. You can't glue a broken nose back onto a monolith. Every cut has to be right, which is why planning matters more than any tool.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "An unfinished monolithic Hindu temple carved from the top of a granite hillock in southern India, the tower richly sculpted while the lower half remains rough rock, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And we don't have to imagine a half-finished top-down temple. Far to the south, at Kalugumalai, stands Vettuvan Koil, an eighth-century Shiva temple carved from the top of a granite hillock."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And we don't have to imagine a half-finished top-down temple. Far to the south, at Kalugumalai, stands Vettuvan Koil, an eighth-century Shiva temple carved from the top of a granite hillock.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of an unfinished rock-cut temple showing sculpted upper tiers and a rough unworked lower block with tool marks, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It was never finished. Its tower and upper sculptures are complete, but the lower part was never cut free. A time-lapse frozen halfway."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It was never finished. Its tower and upper sculptures are complete, but the lower part was never cut free. A time-lapse frozen halfway.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of the stepped carved tiers of a Dravidian temple tower with small pavilion motifs and niches, warm stone, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Historians even compare it with Pattadakal, Kanchipuram and Ellora. Same design family, same era, same method. Human workshops sharing a style across southern India."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Historians even compare it with Pattadakal, Kanchipuram and Ellora. Same design family, same era, same method. Human workshops sharing a style across southern India.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 13.464
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A small oil lamp burning on a stone ledge with a carved temple tower blurred in the background at dusk, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the top-down method needs no outside help. It is a known technique with a surviving unfinished example. What impresses is the scale and the discipline. Not the physics."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the top-down method needs no outside help. It is a known technique with a surviving unfinished example. What impresses is the scale and the discipline. Not the physics.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Huge piles of broken dark basalt boulders and rock chips at the edge of a deep excavation pit, workers with baskets, historical reconstruction, dusty light, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stage five: the rubble. This is the heart of the alien case, so let's do the numbers carefully. How much rock came out, how fast, and where did it go?"
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "STAGE 5",
+   "The Rubble",
+   "400,000 TONS? WHERE DID IT GO?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stage five: the rubble. This is the heart of the alien case, so let's do the numbers carefully. How much rock came out, how fast, and where did it go?",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.72
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept image of an enormous floating mass of rock being lifted by a beam of light into a night sky above a temple pit, science fiction, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The popular claim is four hundred thousand tons. The commonly cited estimate is three million cubic feet, about two hundred thousand tonnes. Britannica says one hundred fifty to two hundred thousand."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The popular claim is four hundred thousand tons. The commonly cited estimate is three million cubic feet, about two hundred thousand tonnes. Britannica says one hundred fifty to two hundred thousand.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 14.064
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An old leather-bound ledger and a brass measuring rod on a stone table, a blurred carved rock wall behind, warm lamplight, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The podcast Skeptoid points out that the TV show Ancient Aliens simply doubled the number. And the famous eighteen years? It isn't in any inscription, chronicle or excavation report. It is a modern guess, repeated until it sounded like fact."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The podcast Skeptoid points out that the TV show Ancient Aliens simply doubled the number. And the famous eighteen years? It isn't in any inscription, chronicle or excavation report. It is a modern guess, repeated until it sounded like fact.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 17.232
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A line of ancient Indian labourers carrying baskets of broken rock on their heads up a ramp out of a stone pit, historical reconstruction, golden dust, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But let's accept the worst case anyway. Four hundred thousand tons in eighteen years is about sixty tons a day. Across five hundred workers, that's around a hundred and twenty kilograms each. A few baskets per person, per day."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But let's accept the worst case anyway. Four hundred thousand tons in eighteen years is about sixty tons a day. Across five hundred workers, that's around a hundred and twenty kilograms each. A few baskets per person, per day.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 15.384
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Workers rolling a large broken basalt boulder down a slope with wooden levers, historical reconstruction, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And most of that rock didn't have to be lifted at all. One academic reconstruction describes large boulders split from the hill and rolled down the slope. Gravity did the heavy lifting."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And most of that rock didn't have to be lifted at all. One academic reconstruction describes large boulders split from the hill and rolled down the slope. Gravity did the heavy lifting.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.456
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A team of eighth-century stone cutters working shoulder to shoulder on a rock floor with chisels, dust in sunlight, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dhavalikar estimated that one worker can cut about four cubic feet of rock a day. With two hundred and fifty labourers, the main excavation takes years, not centuries: he suggested about five and a half."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dhavalikar estimated that one worker can cut about four cubic feet of rock a day. With two hundred and fifty labourers, the main excavation takes years, not centuries: he suggested about five and a half.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 14.112
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A wide green river valley below a long basalt cliff with a seasonal stream and farmland, monsoon clouds, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So where did it all go? Here we have to be honest. No published excavation has traced the spoil heap of Kailasa. That part is genuinely open."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So where did it all go? Here we have to be honest. No published excavation has traced the spoil heap of Kailasa. That part is genuinely open.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A seasonal stream with a waterfall flowing over dark basalt ledges into a green valley below rock-cut caves, monsoon season, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But open doesn't mean impossible. The temple faces a valley, with the Elaganga stream and the plains below. Rock rolled into a river valley twelve centuries ago does not stay in a neat pile for us."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But open doesn't mean impossible. The temple faces a valley, with the Elaganga stream and the plains below. Rock rolled into a river valley twelve centuries ago does not stay in a neat pile for us.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 14.16
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "An old rural Indian road and village walls built of rough dark basalt stones, farmland around, afternoon light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Think of monsoon floods, farming, roads, and twelve hundred years of people needing good stone. And this hill holds around a hundred caves. Their rubble went somewhere too. Nobody calls those alien."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Think of monsoon floods, farming, roads, and twelve hundred years of people needing good stone. And this hill holds around a hundred caves. Their rubble went somewhere too. Nobody calls those alien.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Twilight view of the dark basalt hillside and valley with scattered boulders, quiet, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The missing rubble is a real gap in the record. But a gap is not evidence. It is simply a question nobody has dug for yet."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The missing rubble is a real gap in the record. But a gap is not evidence. It is simply a question nobody has dug for yet.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Interior of a large dark rock-cut pillared hall carved inside a temple, sixteen massive square pillars, shafts of light from doorways, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stage six: the halls. With the outside shaped, the carvers hollowed the temple from within: a great hall on sixteen pillars, a sanctum, porches, and inside the courtyard walls, three storeys of galleries."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STAGE 6",
+   "The Halls",
+   "BRIDGES, ELEPHANTS & TUNNELS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stage six: the halls. With the outside shaped, the carvers hollowed the temple from within: a great hall on sixteen pillars, a sanctum, porches, and inside the courtyard walls, three storeys of galleries.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.944
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Life-size carved stone elephants along the base of a dark basalt temple plinth, as if holding the temple up, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Around the base, life-size elephants seem to carry the temple on their backs. Stone bridges, left in the living rock, link the gateway, the pavilion of the sacred bull Nandi, and the porch."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around the base, life-size elephants seem to carry the temple on their backs. Stone bridges, left in the living rock, link the gateway, the pavilion of the sacred bull Nandi, and the porch.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept art of a dark underground tunnel deep inside rock leading to a faintly glowing chamber with strange machinery, science fiction, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which brings us to the second alien claim, from television: that these caves lead to an underground super-cave holding energy machines from a world before ours."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which brings us to the second alien claim, from television: that these caves lead to an underground super-cave holding energy machines from a world before ours.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A narrow rock-cut passage inside a cave temple leading to a small plain chamber, lit by a single lantern, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No such chamber has ever been found. And Ellora was never a lost site. A tenth-century Arab geographer described it, a sultan repaired the road here in thirteen fifty-two, and the Archaeological Survey maintains every cave today."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No such chamber has ever been found. And Ellora was never a lost site. A tenth-century Arab geographer described it, a sultan repaired the road here in thirteen fifty-two, and the Archaeological Survey maintains every cave today.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 16.368
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two tall carved freestanding stone victory pillars in a rock courtyard beside a carved stone elephant, morning light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A thousand years of pilgrims, surveyors and conservators found no machines. What they found were the traces of carvers: tool marks, and work left halfway."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A thousand years of pilgrims, surveyors and conservators found no machines. What they found were the traces of carvers: tool marks, and work left halfway.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 10.656
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Light streaming through a carved stone doorway into a dim temple hall, dust in the beam, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The halls are breathtaking. But they are rooms carved by people, for worship, not engine rooms."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The halls are breathtaking. But they are rooms carved by people, for worship, not engine rooms.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 6.264
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A dark basalt temple tower with faint traces of old white lime plaster and faded painted colour on its carvings, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stage seven: the centuries. Here our time-lapse surprises us, because the camera doesn't stop when the main shrine is done."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "STAGE 7",
+   "The Centuries",
+   "A TEMPLE THAT KEPT GROWING"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stage seven: the centuries. Here our time-lapse surprises us, because the camera doesn't stop when the main shrine is done.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 7.944
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Concept reconstruction of a rock-cut temple in a pit painted brilliant white, gleaming like a snow-capped mountain in sunlight, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Traces of white plaster survive. The temple was probably coated white, to look like snowy Mount Kailasa itself, the Himalayan home of Shiva, and its ceilings hold several layers of painting."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Traces of white plaster survive. The temple was probably coated white, to look like snowy Mount Kailasa itself, the Himalayan home of Shiva, and its ceilings hold several layers of painting.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dramatic dark basalt rock relief panel of a many-armed figure beneath a carved mountain with seated figures above, deep shadows, Indian temple sculpture, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scholars also see different hands. Dhavalikar dated the famous relief of Ravana shaking Mount Kailasa decades after the main shrine. Hermann Goetz argued later kings kept extending the complex."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scholars also see different hands. Dhavalikar dated the famous relief of Ravana shaking Mount Kailasa decades after the main shrine. Hermann Goetz argued later kings kept extending the complex.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 14.592
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "A side cave hall with carved pillars opening off a rock-cut temple courtyard, afternoon light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Side shrines were added later, and an eighteenth-century queen, Ahilyabai Holkar, is credited with one of the last layers of paint. A single eighteen-year sprint is probably the wrong picture."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Side shrines were added later, and an eighteenth-century queen, Ahilyabai Holkar, is credited with one of the last layers of paint. A single eighteen-year sprint is probably the wrong picture.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A Mughal-era historian in robes writing at a low desk by candlelight, the page turned away and blurred, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even writers from other faiths stood in awe. A Bijapur historian called it a wonder comparable to Persepolis. Accounts attributed to the emperor Aurangzeb call it one of the wonders."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even writers from other faiths stood in awe. A Bijapur historian called it a wonder comparable to Persepolis. Accounts attributed to the emperor Aurangzeb call it one of the wonders.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Barefoot pilgrims walking quietly through a rock-cut temple courtyard at sunrise, respectful, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And through all of it, this was a temple, carved as an offering. When we hand the credit to aliens, we take it away from the people who actually did this."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And through all of it, this was a temple, carved as an offering. When we hand the credit to aliens, we take it away from the people who actually did this.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 9.48
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Wide calm view of a dark rock-cut temple complex at golden hour from the clifftop, birds in the sky, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which brings our time-lapse to its last frame: today."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which brings our time-lapse to its last frame: today.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 3.264
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dusk view from the clifftop down into a deep rock-cut temple courtyard in dark basalt, the temple tower on the far right edge, large calm shadowed empty space on the left, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stage eight: today. The camera stops. Let's score what we've seen."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "STAGE 8",
+   "Today",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stage eight: today. The camera stops. Let's score what we've seen.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 4.08
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dusk view from the clifftop down into a deep rock-cut temple courtyard in dark basalt, the temple tower on the far right edge, large calm shadowed empty space on the left, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chisel and pick marks on every surface: evidence. A royal copper plate crediting Krishnaraja: evidence. Eight hundred years of rock-cut tradition, and an unfinished top-down twin at Kalugumalai: evidence. Labour maths that works with a few hundred people: plausible."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chisel and pick marks on every surface: evidence. A royal copper plate crediting Krishnaraja: evidence. Eight hundred years of rock-cut tradition, and an unfinished top-down twin at Kalugumalai: evidence. Labour maths that works with a few hundred people: plausible.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 19.08
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dusk view from the clifftop down into a deep rock-cut temple courtyard in dark basalt, the temple tower on the far right edge, large calm shadowed empty space on the left, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lasers and energy machines: no evidence. Four hundred thousand tons in eighteen years: exaggerated and unsourced. The exact place the rubble went, and how long the build took: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lasers and energy machines: no evidence. Four hundred thousand tons in eighteen years: exaggerated and unsourced. The exact place the rubble went, and how long the build took: still open.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden sunrise over the Ellora basalt cliff and the free-standing rock-cut temple in its pit, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Kailasa was carved by human hands, under Rashtrakuta kings, by a workshop that inherited centuries of skill and a proven design. The alien numbers were inflated, and the missing rubble is a question for archaeology, not outer space."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Kailasa was carved by human hands, under Rashtrakuta kings, by a workshop that inherited centuries of skill and a proven design. The alien numbers were inflated, and the missing rubble is a question for archaeology, not outer space.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 17.52
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a weathered stone carver's hands holding an iron chisel against dark basalt, warm light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What stays open is smaller and more human: exactly how many years it took, how many people worked here, and where they put the hill they took apart."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What stays open is smaller and more human: exactly how many years it took, how many people worked here, and where they put the hill they took apart.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 9.504
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky full of stars above the dark silhouette of a rock-cut temple tower in its pit, a few warm lamps glowing below, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Twelve centuries ago, the copper plate said even the architect wondered how he had done it. That wonder is fair. It just belongs to him."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Twelve centuries ago, the copper plate said even the architect wondered how he had done it. That wonder is fair. It just belongs to him.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single carved basalt temple tower faintly glowing in the center against black, minimal, no text, no letters, no numbers, no writing, no inscriptions, no script, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which stage surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which stage surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 7.512
+   }
+  ]
+ }
+]
