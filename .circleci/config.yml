@@ -84,7 +84,7 @@ jobs:
             ls -la $B/$SLUG/*.mp4
             export FONTCONFIG_FILE=$PWD/fonts/fonts.conf
             cd $B; start=$(date +%s)
-            CLOUD_OK=1 bash finish_item.sh $SLUG 2>&1 | tee finish.log
+            CLOUD_OK=1 bash finish_item.sh $SLUG 2>&1 | tee finish.log || { tail -40 $SLUG/audio.log 2>/dev/null; exit 1; }
             [ -f $SLUG/audio.log ] && tail -30 $SLUG/audio.log
             echo "finish seconds $(( $(date +%s)-start ))" | tee -a finish.log
             grep -q "mux frames=" finish.log
