@@ -1,0 +1,1300 @@
+{
+ "fps": 30,
+ "total": 24440,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 354,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look closely at the walls around the Great Sphinx. Deep vertical grooves. Rounded hollows. Rock that looks as if it has been rained on for thousands of years.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 10.728,
+     "start": 10,
+     "end": 332
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 336,
+   "end": 765,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some people say that is exactly what happened. That the Sphinx is not four and a half thousand years old, but ten thousand or more. Carved by a lost civilization, maybe with help from beyond our world.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 13.224,
+     "start": 346,
+     "end": 743
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 747,
+   "end": 1125,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Egyptologists say no. It was carved by the workers of a pharaoh, around twenty five hundred BC. So who is right? A rock cannot talk. But it can be read.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 11.52,
+     "start": 757,
+     "end": 1103
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1107,
+   "end": 1532,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we read the Sphinx the way a geologist reads a drill core. From the top layer down. Each layer is one period of its life.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 9.096,
+     "start": 1117,
+     "end": 1390
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "BRIEFING",
+    "Two Birth Dates",
+    "2500 BC  VS  10,500 BC"
+   ],
+   "img": "ep/img/shot_05.jpg",
+   "start": 1514,
+   "end": 1930,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First, the briefing. October nineteen ninety-one, San Diego. At the Geological Society of America, a Boston University geologist named Robert Schoch drops a bombshell.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 12.792,
+     "start": 1524,
+     "end": 1908
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 1912,
+   "end": 2438,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He says the weathering on the Sphinx enclosure was made by rain. Long, heavy rain. And that means the Sphinx dates to between seven thousand and five thousand BC. And I am trying to be conservative, he tells the Los Angeles Times.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 16.464,
+     "start": 1922,
+     "end": 2416
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2420,
+   "end": 2761,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Archaeologists push back immediately. An archaeologist at Berkeley says: there is just no way that could be true. The fight is still going today.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.296,
+     "start": 2430,
+     "end": 2739
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2743,
+   "end": 3221,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And others go much further. Writers in the nineteen nineties claim the Sphinx was begun in ten thousand five hundred BC, built to face the constellation Leo. Others link it to Atlantis, or to ancient astronauts.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 14.856,
+     "start": 2753,
+     "end": 3199
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3203,
+   "end": 3533,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So we have two birth dates. Old Kingdom, about twenty five hundred BC. Or ten thousand five hundred BC and older. Let us drill down.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 9.912,
+     "start": 3213,
+     "end": 3511
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 1",
+    "The Modern Skin",
+    "1817 \u2013 TODAY"
+   ],
+   "img": "ep/img/shot_10.jpg",
+   "start": 3515,
+   "end": 3985,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer one is the modern skin. In eighteen seventeen the Italian explorer Caviglia dug out the Sphinx's chest. From nineteen twenty-five to nineteen thirty-six, \u00c9mile Baraize cleared the whole enclosure.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 14.592,
+     "start": 3525,
+     "end": 3963
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3967,
+   "end": 4270,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen twenty-six part of the headdress fell off. In nineteen thirty-one engineers repaired the head and neck with a concrete collar.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 9.024,
+     "start": 3977,
+     "end": 4248
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4252,
+   "end": 4551,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the nineteen eighties and nineties, restorers patched the base and body again. In nineteen eighty-eight, a chunk of the shoulder fell off.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 8.88,
+     "start": 4262,
+     "end": 4529
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4533,
+   "end": 4941,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Before those repairs, a young American named Mark Lehner mapped the Sphinx stone by stone from nineteen seventy-nine to eighty-three, standing on ledges a foot wide, three stories up.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.528,
+     "start": 4543,
+     "end": 4919
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4923,
+   "end": 5408,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here is the twist. That mapping project was funded by the Edgar Cayce Foundation. Cayce was the psychic who said the Sphinx was built by refugees from Atlantis. The believers paid for the survey that would test them.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 15.096,
+     "start": 4933,
+     "end": 5386
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5390,
+   "end": 5576,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First lesson from layer one. The surface you see today is not ancient at all.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 5.112,
+     "start": 5400,
+     "end": 5554
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 2",
+    "Patches of Empire",
+    "ROMAN \u00b7 SAITE"
+   ],
+   "img": "ep/img/shot_16.jpg",
+   "start": 5558,
+   "end": 5997,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer two: patches of empire. Lehner found three ancient skins of masonry on the body. The outermost, made of small stones almost the size of bricks, probably dates to Roman times.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 13.536,
+     "start": 5568,
+     "end": 5975
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5979,
+   "end": 6278,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Romans built a stairway down to the paws so visitors could admire it. Pliny the Elder even wrote that its face was painted red.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 8.88,
+     "start": 5989,
+     "end": 6256
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6260,
+   "end": 6646,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Under the Roman layer sits a middle skin of medium slabs, probably from the Saite kings, around six hundred BC. It kept falling apart, so people kept repairing it.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 11.784,
+     "start": 6270,
+     "end": 6624
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6628,
+   "end": 6984,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the word sphinx is late. The Greeks gave it that name about two thousand years after it was carved. So far, the layers only tell us how old it is not.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 10.776,
+     "start": 6638,
+     "end": 6962
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 3",
+    "The Dream King",
+    "NEW KINGDOM \u00b7 c. 1400 BC"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 6966,
+   "end": 7271,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer three: the dream king. After the Old Kingdom collapsed, Giza was abandoned. Drifting sand buried the Sphinx up to its shoulders.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 9.072,
+     "start": 6976,
+     "end": 7249
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7253,
+   "end": 7633,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Around fourteen hundred BC, a young prince named Thutmose fell asleep in its shadow. The Sphinx spoke to him in a dream: clear away the sand, and I will make you king.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 11.592,
+     "start": 7263,
+     "end": 7611
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7615,
+   "end": 7911,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He became Thutmose the fourth, dug out the paws, and set up this: the Dream Stela. Red granite, three point six metres tall.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 8.784,
+     "start": 7625,
+     "end": 7889
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7893,
+   "end": 8221,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now look at its back. Pivot sockets for a wooden door. The stela is a recycled door lintel, dragged here from the temple of the pharaoh Khafre.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 9.84,
+     "start": 7903,
+     "end": 8199
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8203,
+   "end": 8647,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Its text once held part of a royal name. Early scholars read the syllable Khaf, and restored the name Khafre. But by nineteen twenty-five that line had flaked away. A clue, not a signature.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 13.728,
+     "start": 8213,
+     "end": 8625
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8629,
+   "end": 9045,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the key finding of layer three. Lehner showed that the deep erosion of the Sphinx's body was already there before the New Kingdom masons covered it with their first big casing stones.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 12.768,
+     "start": 8639,
+     "end": 9023
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9027,
+   "end": 9594,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the damage happened between the carving and about fourteen hundred BC. Is that enough time? Zahi Hawass says eleven hundred years, or even half that, would be more than enough for this soft layer to erode. The believers say only thousands of years of rain could do it.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 17.808,
+     "start": 9037,
+     "end": 9572
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 4",
+    "The Quarry",
+    "OLD KINGDOM \u00b7 c. 2500 BC"
+   ],
+   "img": "ep/img/shot_27.jpg",
+   "start": 9576,
+   "end": 9881,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer four: the quarry. The Sphinx was not built. It was cut, by quarrying away the bedrock around a core of rock that was left standing.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 9.072,
+     "start": 9586,
+     "end": 9859
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9863,
+   "end": 10099,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the stone that came out went straight into the temple in front of it. Core blocks of up to one hundred tons.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 6.768,
+     "start": 9873,
+     "end": 10077
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10081,
+   "end": 10555,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Geologists Thomas Aigner and Lal Gauri logged every rock layer in the Sphinx and every block in the temple. The layers match. Some run continuously from one block to the next, just as they ran in the bedrock.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 14.712,
+     "start": 10091,
+     "end": 10533
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10537,
+   "end": 10953,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the layout. The Sphinx Temple was built on top of the old wall of Khafre's Valley Temple. And the south wall of the Sphinx enclosure follows the slanted line of Khafre's causeway.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 12.792,
+     "start": 10547,
+     "end": 10931
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10935,
+   "end": 11320,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the trash. In the lowest debris, Hawass and Lehner found the builders' pottery, flint flakes, and a quartzite hammerstone with copper flecks, where a worker struck a copper chisel.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 11.76,
+     "start": 10945,
+     "end": 11298
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11302,
+   "end": 11591,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the job was never finished. The enclosure walls are cut unevenly, and the temple's granite casing was only partly fitted.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 8.544,
+     "start": 11312,
+     "end": 11569
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11573,
+   "end": 11884,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Luminescence dating of the two temples gives the middle to late third millennium BC. The same window as Khafre and the pyramids.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 9.288,
+     "start": 11583,
+     "end": 11862
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11866,
+   "end": 12305,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But be fair. In nineteen forty-nine the Egyptian archaeologist Selim Hassan admitted something important. There is not one single contemporary inscription that connects the Sphinx with Khafre.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 13.56,
+     "start": 11876,
+     "end": 12283
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12287,
+   "end": 12809,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some experts even argue for his father Khufu, or his brother Djedefre, based on the headdress style and the causeway. Notice where that debate lives, though. It is a fight over a few decades inside the same dynasty. Not over eight thousand years.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 16.32,
+     "start": 12297,
+     "end": 12787
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 5",
+    "The Rock Remembers",
+    "MOKATTAM LIMESTONE \u00b7 THE RAIN"
+   ],
+   "img": "ep/img/shot_36.jpg",
+   "start": 12791,
+   "end": 13166,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer five: the rock itself. The Sphinx is carved from limestone laid down on a sea floor fifty million years ago. Hard and soft bands, stacked like a cake.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 11.424,
+     "start": 12801,
+     "end": 13144
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13148,
+   "end": 13666,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is where the water theory makes its strongest case. Schoch points to the rounded, undulating profile of the enclosure walls, and vertical fissures that run down the rock. Wind cuts horizontal lines, he says. Rain cuts vertical ones.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 16.176,
+     "start": 13158,
+     "end": 13644
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 13648,
+   "end": 14173,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then his strangest evidence. With geophysicist Thomas Dobecki, he hit the enclosure floor with a sledgehammer and listened to the echoes. In front and on the sides, the rock is weathered about eight feet deep. Behind the Sphinx, only about four.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 16.416,
+     "start": 13658,
+     "end": 14151
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14155,
+   "end": 14643,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His reading: the front was cut first, thousands of years earlier, and the back was cut later under Khafre. He first dated the core to before five thousand BC, and later pushed it back to around nine thousand seven hundred BC.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 15.168,
+     "start": 14165,
+     "end": 14621
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14625,
+   "end": 15206,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the cross-examination. Objection one: salt. The Sphinx sits just above the Nile water table. Moisture climbs into the stone, salts crystallize, and the surface flakes away. The Getty Conservation Institute concluded salt explains at least some of the damage.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 18.288,
+     "start": 14635,
+     "end": 15184
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15188,
+   "end": 15622,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Geologist Lal Gauri blamed salts and dew. James Harrell blamed wet sand that filled the enclosure for most of its history. Others note the fissures were in the bedrock before anyone carved it.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 13.392,
+     "start": 15198,
+     "end": 15600
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15604,
+   "end": 16044,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Objection two: the rain did not stop. Excavations at Saqqara, next door, show torrential rains and sheet floods hitting tombs at the end of the Old Kingdom, around twenty two hundred BC.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 13.584,
+     "start": 15614,
+     "end": 16022
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16026,
+   "end": 16381,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And Giza still gets the occasional downpour today. Schoch's critics say he never showed why four and a half thousand years of storms could not round off those walls.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 10.752,
+     "start": 16036,
+     "end": 16359
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16363,
+   "end": 16928,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then there is a third geologist, Colin Reader. He agrees water did it, but water running off the plateau into the enclosure. And he concludes the Sphinx could be older than Khafre, but only by a few centuries. Early dynastic Egypt. Not the Ice Age.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 17.736,
+     "start": 16373,
+     "end": 16906
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 16910,
+   "end": 17405,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So layer five gives the water theory its best point: the weathering is real, and its cause is still argued. But no layer of rock carries a date written on it. Erosion rates are estimates. Pottery and stratigraphy are measurements.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 15.408,
+     "start": 16920,
+     "end": 17383
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "LAYER 6",
+    "Bedrock Zero",
+    "10,500 BC ?"
+   ],
+   "img": "ep/img/shot_46.jpg",
+   "start": 17387,
+   "end": 17601,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer six: bedrock zero. Ten thousand five hundred BC. Is there anything down here?",
+     "file": "ep/audio/s46.mp3",
+     "dur": 6.048,
+     "start": 17397,
+     "end": 17579
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17583,
+   "end": 18101,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Leo claim says that in ten thousand five hundred BC, the lion constellation rose due east at the spring equinox, right where the Sphinx looks. But astronomers checked. At that date the equinox sun sat in Virgo, not Leo.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 16.2,
+     "start": 17593,
+     "end": 18079
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18083,
+   "end": 18457,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the zodiac lion itself came from Mesopotamia. Egypt did not use those constellations until the Greek and Roman era, thousands of years after Khafre.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 11.376,
+     "start": 18093,
+     "end": 18435
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18439,
+   "end": 18957,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Edgar Cayce promised a Hall of Records from Atlantis under the Sphinx, to be found in nineteen ninety-eight. Nineteen ninety-eight came and went. The flooded Osiris shaft nearby was fully explored in nineteen ninety-nine. Nothing.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 16.176,
+     "start": 18449,
+     "end": 18935
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18939,
+   "end": 19380,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the believers' best card. G\u00f6bekli Tepe, in Turkey. Monumental stone circles built around ninety five hundred BC. So yes, hunter-gatherers did build big things that early.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 13.632,
+     "start": 18949,
+     "end": 19358
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19362,
+   "end": 19934,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But G\u00f6bekli Tepe is more than a thousand kilometres away, and its pillars are a few metres tall. Around Giza, there is no trace of a society that could carve a seventy-three metre statue in that era. No towns, no bakeries, no workers' cemeteries.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 18.0,
+     "start": 19372,
+     "end": 19912
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19916,
+   "end": 20229,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the alien version? There is no tool, no material and no inscription anywhere in the Sphinx's layers that points to visitors from space.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 9.336,
+     "start": 19926,
+     "end": 20207
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 20211,
+   "end": 20740,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But there is one real surprise down here. In twenty twenty-three, scientists at New York University put clay mounds with hard lumps inside in a fast water flow. The mounds eroded into lion-like shapes, with a head, a neck and paws.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 16.56,
+     "start": 20221,
+     "end": 20718
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 20722,
+   "end": 21151,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Desert ridges like this are called yardangs, or mud lions. So maybe the oldest thing about the Sphinx is not the statue, but the rock. Nature may have started the shape, and the Egyptians finished it.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 13.224,
+     "start": 20732,
+     "end": 21129
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VERDICT",
+    "The Core Sample",
+    "SCORECARD \u00b7 6 LAYERS"
+   ],
+   "img": "ep/img/shot_55.jpg",
+   "start": 21133,
+   "end": 21250,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Core sample complete. Here is the scorecard.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 2.808,
+     "start": 21143,
+     "end": 21228
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21232,
+   "end": 21738,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The enclosure walls are deeply weathered: evidence. Only centuries of rain could do it: contested. Heavy rain ended before three thousand BC: debunked. The Sphinx and its temples were cut in one quarry project: evidence.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 15.792,
+     "start": 21242,
+     "end": 21716
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21720,
+   "end": 22087,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Carved in ten thousand five hundred BC to face Leo: debunked. Lost or alien builders: no evidence. Which king of the fourth dynasty: still open.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 11.16,
+     "start": 21730,
+     "end": 22065
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 22069,
+   "end": 22455,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. The Sphinx belongs to the Old Kingdom, around twenty five hundred BC, most likely to Khafre's building project, with Khufu as the main rival suspect.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 11.784,
+     "start": 22079,
+     "end": 22433
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 22437,
+   "end": 22934,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The water erosion is real, and it is a genuine geological puzzle. But the most generous geologist on the believers' side, Colin Reader, only stretches the date by a few centuries. Not by eight thousand years.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 15.48,
+     "start": 22447,
+     "end": 22912
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 22916,
+   "end": 23286,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The ten thousand five hundred BC date did not come from the rock. It came from a psychic's reading in the nineteen thirties, and from a constellation that was in the wrong place.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 11.256,
+     "start": 22926,
+     "end": 23264
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 23268,
+   "end": 23570,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And notice who settled most of this. People with drawing boards, hand lenses and sledgehammers, measuring the rock one layer at a time.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 9.0,
+     "start": 23278,
+     "end": 23548
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "sand",
+   "motion": "up",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23552,
+   "end": 24039,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Sphinx is still eroding today, a little every year. It does not need aliens or Atlantis to be astonishing. It is a mountain of rock that people turned into a god, and then spent four thousand years trying to save.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 15.144,
+     "start": 23562,
+     "end": 24017
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 24021,
+   "end": 24365,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the core sample. Old Kingdom, or ten thousand years? Tell us your verdict in the comments, and subscribe for the next ancient mystery we put to the test.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 10.368,
+     "start": 24031,
+     "end": 24343
+    }
+   ]
+  }
+ ]
+}
