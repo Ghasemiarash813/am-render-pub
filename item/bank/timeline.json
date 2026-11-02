@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 24479,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 408,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the south of Costa Rica, among the banana fields, there are stone balls. Hundreds of them. Some fit in your hand. The biggest is taller than a person and weighs about twenty-four tonnes.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 12.528,
+     "start": 10,
+     "end": 386
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 390,
+   "end": 695,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They are so round that, for decades, people have said no human hand could have made them. Perfect to within two millimetres, one author wrote.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 9.072,
+     "start": 400,
+     "end": 673
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 677,
+   "end": 1090,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And so the theories rolled in. Guidance markers for the navigators of Atlantis. Relics of a lost world twelve thousand years old. Even orbs dropped by visitors from the stars.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 12.696,
+     "start": 687,
+     "end": 1068
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1072,
+   "end": 1457,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today we do not argue about the stones from a distance. We follow one of them through its whole life, from the moment it was a boulder in a river, to the day it became a national symbol.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 11.76,
+     "start": 1082,
+     "end": 1435
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1439,
+   "end": 1860,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At every stage of that life, we check what the evidence says, and what the theory says. At the end, we open the ledger and give the verdict.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 8.952,
+     "start": 1449,
+     "end": 1718
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I",
+    "The Boulder",
+    "TALAMANCA \u2192 DIQU\u00cdS DELTA"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1842,
+   "end": 2127,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter one: the boulder. Our sphere begins as a rock in the mountains of the Talamanca range, in southern Costa Rica.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 8.424,
+     "start": 1852,
+     "end": 2105
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2109,
+   "end": 2467,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Over thousands of years, rivers like the T\u00e9rraba tumble pieces of hard volcanic rock downstream, knocking off the corners, rounding them into boulders.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.848,
+     "start": 2119,
+     "end": 2445
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2449,
+   "end": 2983,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Most spheres are made of gabbro or a similar rock, granodiorite: hard, coarse-grained, igneous stone that formed deep underground from cooled magma. A dozen or so are limestone made of shells, and another dozen are sandstone.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 16.728,
+     "start": 2459,
+     "end": 2961
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2965,
+   "end": 3385,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The finished spheres are found down on the Diqu\u00eds Delta, the flat floodplain where the T\u00e9rraba and Sierpe rivers meet the Pacific, and on a small island offshore, Isla del Ca\u00f1o.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 12.912,
+     "start": 2975,
+     "end": 3363
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "right",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3367,
+   "end": 3869,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the raw material came from the mountains, and the river did the first rough work. Some claim the balls themselves are natural, polished by water. They are not. Natural concretions exist elsewhere, but these are carved monoliths.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 15.648,
+     "start": 3377,
+     "end": 3847
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3851,
+   "end": 4040,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A boulder, then. Hard, heavy, and already round-ish. Now someone has to choose it.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 5.208,
+     "start": 3861,
+     "end": 4018
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II",
+    "The Making",
+    "FIRE \u00b7 WATER \u00b7 HAMMERSTONE"
+   ],
+   "img": "ep/img/shot_12.jpg",
+   "start": 4022,
+   "end": 4418,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter two: the making. No workshop has ever been found with a half-made giant in progress, so we reconstruct the method from the stones themselves, and from how this rock behaves.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 12.12,
+     "start": 4032,
+     "end": 4396
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4400,
+   "end": 4801,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This kind of rock has a weakness. Heat it with hot coals, then dash it with cold water, and it peels away in curved layers, like an onion. That lets a crew rough out a sphere quickly.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.288,
+     "start": 4410,
+     "end": 4779
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4783,
+   "end": 5143,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then comes the slow part: pecking. Thousands upon thousands of blows with hammerstones made of the same hard rock. Each strike crushes away a few grains.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 10.92,
+     "start": 4793,
+     "end": 5121
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5125,
+   "end": 5422,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And that is not a guess. Some spheres still carry the small pits left by hammerstone blows. The tool marks are written on the stone.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 8.808,
+     "start": 5135,
+     "end": 5400
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5404,
+   "end": 5864,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Finally the surface is ground with sand, water and flat stones, and polished. The same people made polished stone axes, intricately carved grinding stones and statues. They knew this craft very well.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 14.256,
+     "start": 5414,
+     "end": 5842
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5846,
+   "end": 6153,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The alternative versions? Laser beams. Alien machines. Or a secret liquid that softened rock so it could be moulded like clay.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 9.144,
+     "start": 5856,
+     "end": 6131
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6135,
+   "end": 6581,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The softening potion appears in local legends, and a researcher once suggested plant acids could dissolve limestone. But most spheres are gabbro, an igneous rock that acid simply does not melt.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 13.8,
+     "start": 6145,
+     "end": 6559
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6563,
+   "end": 6972,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here is a clue the theorists skip. The finish varies a lot. Some spheres are beautifully smooth. Others are lumpy. That is what you expect from human workshops, not from machines.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.552,
+     "start": 6573,
+     "end": 6950
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6954,
+   "end": 7166,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Fire, water, stone and time. That is the whole toolkit. But how perfect is the result?",
+     "file": "ep/audio/s20.mp3",
+     "dur": 5.976,
+     "start": 6964,
+     "end": 7144
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III",
+    "The Measure",
+    "TAPE \u00b7 PLUMB BOB \u00b7 ARITHMETIC"
+   ],
+   "img": "ep/img/shot_21.jpg",
+   "start": 7148,
+   "end": 7535,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter three: the measure. Almost every claim of perfection traces back to one man: Harvard archaeologist Samuel Lothrop, who studied the spheres in nineteen forty-eight.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 11.808,
+     "start": 7158,
+     "end": 7513
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7517,
+   "end": 7907,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His wife Eleanor later recalled his equipment: a tape measure, and a fishing line with a lead sinker on the end. A plumb bob. That is what the famous precision was measured with.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 11.904,
+     "start": 7527,
+     "end": 7885
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7889,
+   "end": 8319,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lothrop himself called his methods not completely satisfactory. Big balls were often deeply buried, so his team dug around only the top half, and assumed the hidden half was just as round.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 13.248,
+     "start": 7899,
+     "end": 8297
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8301,
+   "end": 8678,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For the best balls, they wrapped the tape around in several directions and then calculated the diameter mathematically. Those calculations were printed to several decimal places.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 11.496,
+     "start": 8311,
+     "end": 8656
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8660,
+   "end": 9068,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Later writers read those decimals as measured precision. That is how 'perfect to within two millimetres' was born, along with claims of spheres up to thirty tonnes and three metres across.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 12.528,
+     "start": 8670,
+     "end": 9046
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9050,
+   "end": 9531,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But a calculated average is not a measurement. Lothrop found the poorer balls varied by up to five centimetres. Their surfaces have bumps larger than two millimetres. Nobody has ever measured one to that accuracy.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 14.952,
+     "start": 9060,
+     "end": 9509
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9513,
+   "end": 9894,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The biggest known sphere is about two point six metres across and about twenty-four tonnes. Astonishing. But not three metres, not thirty tonnes, and not machine-perfect.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.616,
+     "start": 9523,
+     "end": 9872
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9876,
+   "end": 10219,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the honest version is this: the best spheres are remarkably round, as round as skilled hands and patient eyes could make them. That is impressive enough.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 10.344,
+     "start": 9886,
+     "end": 10197
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV",
+    "The Village",
+    "FINCA 6 \u00b7 CHIEFDOMS"
+   ],
+   "img": "ep/img/shot_29.jpg",
+   "start": 10201,
+   "end": 10497,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter four: the village. Our finished sphere now needs a home. And the archaeology tells us where it went: into living villages.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 8.784,
+     "start": 10211,
+     "end": 10475
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10479,
+   "end": 10859,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The people of the Diqu\u00eds Delta lived in chiefdoms, ruled by chiefs, in round houses built on mounds with foundations of river cobbles, raised above the floods.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 11.568,
+     "start": 10489,
+     "end": 10837
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10841,
+   "end": 11295,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Spheres are found with their pottery, their stone pavements and their burials. Lothrop dug under one ball and found a broken figurine head of a known local pottery style, made after about AD one thousand.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 14.064,
+     "start": 10851,
+     "end": 11273
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11277,
+   "end": 11670,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the dates come from layers. Spheres were being made from roughly AD six hundred, most of them after AD one thousand, and before the Spanish arrived. Not twelve thousand years ago.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.024,
+     "start": 11287,
+     "end": 11648
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11652,
+   "end": 12092,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Excavations by Francisco Corrales of the National Museum found two spheres set on either side of the entrance ramp of a house platform. Like status markers at the door of someone important.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 13.584,
+     "start": 11662,
+     "end": 12070
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12074,
+   "end": 12533,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the site called Finca Six, some spheres still sit in their original lines, roughly east to west. Lothrop mapped straight lines, curves and triangles, and one group of four that pointed to magnetic north.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 14.232,
+     "start": 12084,
+     "end": 12511
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12515,
+   "end": 12990,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is where Atlantis enters. In a nineteen ninety-eight book, Ivar Zapp and George Erikson argued the lines were navigation pointers, aimed at Easter Island and Stonehenge, left by ancient seafarers.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 14.76,
+     "start": 12525,
+     "end": 12968
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12972,
+   "end": 13392,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The problem: the alignments were measured over a few metres with a tape. Extend a tiny error across an ocean and you can point anywhere. And most spheres sit far from the sea, useless to sailors.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 12.912,
+     "start": 12982,
+     "end": 13370
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13374,
+   "end": 13777,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What remains open is what the lines meant to their makers. Sunrise on certain days, constellations, or stories. Archaeologists say plainly: none of it is proven yet.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 12.336,
+     "start": 13384,
+     "end": 13755
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "V",
+    "The Silence",
+    "FLOOD SILT \u00b7 FOUR CENTURIES"
+   ],
+   "img": "ep/img/shot_38.jpg",
+   "start": 13759,
+   "end": 14049,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter five: the silence. Around the time of the Spanish conquest, the sphere-making world fell apart. The villages emptied.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 8.568,
+     "start": 13769,
+     "end": 14027
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14031,
+   "end": 14404,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Spanish explorers reached this coast in the sixteenth century. They left no report of giant stone balls. The people who made them had already gone, or soon would.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 11.352,
+     "start": 14041,
+     "end": 14382
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14386,
+   "end": 14827,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why? We do not know. Catastrophic floods could have ruined harvests for years. War is possible too; local stone statues show figures holding trophy heads. Then came conquest and disease.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 13.608,
+     "start": 14396,
+     "end": 14805
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14809,
+   "end": 15173,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then the river did something unexpected. Flood after flood laid fine silt over the abandoned sites. Some spheres ended up a metre or more underground.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 11.04,
+     "start": 14819,
+     "end": 15151
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15155,
+   "end": 15526,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That burial was a gift. UNESCO credits those thick layers of sediment with saving the spheres from the looting that emptied most archaeological sites in Costa Rica.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.28,
+     "start": 15165,
+     "end": 15504
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 15508,
+   "end": 16042,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Memory survived in other ways. In Bribri tradition, shared by the Cab\u00e9car, the spheres are Tara's cannonballs: the thunder god shot them with a giant blowpipe at the Serkes, the gods of wind and hurricane, to drive them from the land.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 16.728,
+     "start": 15518,
+     "end": 16020
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16024,
+   "end": 16357,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is a living story, not a lab report. But notice whose story it is: Indigenous Costa Ricans, not visitors from Atlantis or the stars.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 10.008,
+     "start": 16034,
+     "end": 16335
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VI",
+    "The Bulldozer",
+    "1939 \u00b7 UNITED FRUIT"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 16339,
+   "end": 16712,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter six: the bulldozer. In the late nineteen thirties, the United Fruit Company cleared the delta jungle for banana plantations. The machines hit something round.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 11.352,
+     "start": 16349,
+     "end": 16690
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 16694,
+   "end": 16958,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bulldozers shoved the spheres aside. Then a rumour spread among workers: the balls had gold hidden inside.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 7.704,
+     "start": 16704,
+     "end": 16936
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 16940,
+   "end": 17408,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So they drilled holes and blew them open with dynamite. There was no gold. Only shattered stone. Several spheres were destroyed before authorities stepped in. Some were later glued back together for the National Museum.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 14.52,
+     "start": 16950,
+     "end": 17386
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 17390,
+   "end": 17774,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Others rode the banana railway out of the delta and became lawn ornaments, outside banks, homes and government buildings. One even ended up in a garden in Miami.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 11.712,
+     "start": 17400,
+     "end": 17752
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 17756,
+   "end": 18125,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Science arrived quickly. Doris Stone, daughter of a United Fruit executive, published the first study in nineteen forty-three, in the journal American Antiquity.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 11.208,
+     "start": 17766,
+     "end": 18103
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18107,
+   "end": 18613,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then came Lothrop's Harvard fieldwork, published in nineteen sixty-three, with maps, pottery and photographs. In the nineteen fifties he could still count about fifty spheres where they had been found. Today only a handful remain in place.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 15.768,
+     "start": 18117,
+     "end": 18591
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 18595,
+   "end": 19067,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Pop culture did the rest. The giant boulder that chases Indiana Jones is often linked to them. In nineteen seventy-one, Erich von D\u00e4niken's ancient astronaut books pulled them into the alien story.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 14.64,
+     "start": 18605,
+     "end": 19045
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19049,
+   "end": 19418,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the real twist. The mystery was not created by the makers. It was created by us, when we moved the spheres and destroyed the context that could have explained them.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 11.208,
+     "start": 19059,
+     "end": 19396
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VII",
+    "The Homecoming",
+    "2014 \u00b7 UNESCO"
+   ],
+   "img": "ep/img/shot_53.jpg",
+   "start": 19400,
+   "end": 19762,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter seven: the homecoming. Costa Rica has been bringing its spheres home. Those still in the delta were protected as national treasures, and export was banned.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 10.968,
+     "start": 19410,
+     "end": 19740
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 19744,
+   "end": 20168,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In twenty fourteen, that sphere from the Miami garden came back by boat. It weighed about one and a half tonnes and had spent seventy-four years in Florida. Its owner returned it voluntarily.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 13.056,
+     "start": 19754,
+     "end": 20146
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 20150,
+   "end": 20636,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two months later, in June, UNESCO inscribed four sites as World Heritage: Finca Six, Batambal, El Silencio and Grijalba Two, the Precolumbian Chiefdom Settlements with Stone Spheres of the Diqu\u00eds.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 15.12,
+     "start": 20160,
+     "end": 20614
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 20618,
+   "end": 20998,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The largest sphere, at El Silencio, had been cracked by field fires. In twenty nineteen the National Museum, working with Mexican conservators, began restoring it.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 11.568,
+     "start": 20628,
+     "end": 20976
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 20980,
+   "end": 21279,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A month after UNESCO, the spheres were declared a national symbol. They stand at the Legislative Assembly and in the National Museum.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 8.88,
+     "start": 20990,
+     "end": 21257
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 21261,
+   "end": 21623,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the people most likely descended from the makers are still here: the Boruca, the T\u00e9rraba, the Ng\u00e4be, Chibchan-speaking nations of southern Costa Rica.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 10.968,
+     "start": 21271,
+     "end": 21601
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 21605,
+   "end": 22013,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Archaeologist John Hoopes suggests the spheres show people taking the river's power to shape stone, and making it their own. A boulder shaped by nature, finished by human hands.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 12.528,
+     "start": 21615,
+     "end": 21991
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "THE LEDGER",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 21995,
+   "end": 22136,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Our sphere's life is complete. Time to open the ledger.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 3.624,
+     "start": 22005,
+     "end": 22114
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 22118,
+   "end": 22613,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Shaped by fire, hammerstones and grinding: evidence. Found with local pottery, mounds and houses: evidence. Made roughly AD six hundred to fifteen hundred: evidence. Markers of status at chiefs' houses: likely.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 15.408,
+     "start": 22128,
+     "end": 22591
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 22595,
+   "end": 22905,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Perfect to two millimetres: debunked. Atlantis navigators or alien orbs: no evidence. And what the alignments meant: still open.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 9.264,
+     "start": 22605,
+     "end": 22883
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 22887,
+   "end": 23360,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. The stone spheres of Costa Rica were made by the Diqu\u00eds chiefdoms, Indigenous people of the delta, with fire, stone tools and enormous patience. No lasers. No Atlantis. No aliens.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 14.688,
+     "start": 22897,
+     "end": 23338
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 23342,
+   "end": 23693,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What stays open is their meaning: why the lines, why the sizes, why spheres at all. That answer is buried with lost context, and perhaps still in the silt.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 10.608,
+     "start": 23352,
+     "end": 23671
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 23675,
+   "end": 24106,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the real wonder is not that they are too perfect for humans. It is that humans, with river stones in their hands, made something this beautiful, and that it nearly vanished in a single century of bulldozers.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 13.272,
+     "start": 23685,
+     "end": 24084
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 24088,
+   "end": 24404,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the life of a stone. Which chapter surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 9.456,
+     "start": 24098,
+     "end": 24382
+    }
+   ]
+  }
+ ]
+}

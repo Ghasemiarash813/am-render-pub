@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A huge perfectly round grey granite-like stone sphere sitting in a green banana plantation clearing at dawn, mist, people small in the background, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the south of Costa Rica, among the banana fields, there are stone balls. Hundreds of them. Some fit in your hand. The biggest is taller than a person and weighs about twenty-four tonnes."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the south of Costa Rica, among the banana fields, there are stone balls. Hundreds of them. Some fit in your hand. The biggest is taller than a person and weighs about twenty-four tonnes.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of the smooth curved surface of an ancient grey stone sphere with fine mineral speckles and a few chips, raking warm light, macro photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They are so round that, for decades, people have said no human hand could have made them. Perfect to within two millimetres, one author wrote."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They are so round that, for decades, people have said no human hand could have made them. Perfect to within two millimetres, one author wrote.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept, glowing stone orbs falling from a dark night sky toward a tropical jungle, streaks of light, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And so the theories rolled in. Guidance markers for the navigators of Atlantis. Relics of a lost world twelve thousand years old. Even orbs dropped by visitors from the stars."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And so the theories rolled in. Guidance markers for the navigators of Atlantis. Relics of a lost world twelve thousand years old. Even orbs dropped by visitors from the stars.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 12.696
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An ancient stone sphere half buried in dark wet earth, roots around it, a beam of light falling on it, moody cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today we do not argue about the stones from a distance. We follow one of them through its whole life, from the moment it was a boulder in a river, to the day it became a national symbol."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today we do not argue about the stones from a distance. We follow one of them through its whole life, from the moment it was a boulder in a river, to the day it became a national symbol.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A lone stone sphere on a grassy mound at sunset, palm trees, golden light, peaceful, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At every stage of that life, we check what the evidence says, and what the theory says. At the end, we open the ledger and give the verdict."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At every stage of that life, we check what the evidence says, and what the theory says. At the end, we open the ledger and give the verdict.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 8.952
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial view of a wide brown river winding through a green delta toward the Pacific Ocean, mangroves, mountains in the distance, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter one: the boulder. Our sphere begins as a rock in the mountains of the Talamanca range, in southern Costa Rica."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I",
+   "The Boulder",
+   "TALAMANCA \u2192 DIQU\u00cdS DELTA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter one: the boulder. Our sphere begins as a rock in the mountains of the Talamanca range, in southern Costa Rica.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 8.424
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Large rounded grey boulders in a fast mountain river in a tropical forest, white water, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Over thousands of years, rivers like the T\u00e9rraba tumble pieces of hard volcanic rock downstream, knocking off the corners, rounding them into boulders."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Over thousands of years, rivers like the T\u00e9rraba tumble pieces of hard volcanic rock downstream, knocking off the corners, rounding them into boulders.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 10.848
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Geologist's view of a split dark speckled igneous rock showing coarse crystals, natural light, macro photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Most spheres are made of gabbro or a similar rock, granodiorite: hard, coarse-grained, igneous stone that formed deep underground from cooled magma. A dozen or so are limestone made of shells, and another dozen are sandstone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Most spheres are made of gabbro or a similar rock, granodiorite: hard, coarse-grained, igneous stone that formed deep underground from cooled magma. A dozen or so are limestone made of shells, and another dozen are sandstone.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 16.728
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A wide flat tropical floodplain with tall grass, scattered trees and a river, morning haze, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The finished spheres are found down on the Diqu\u00eds Delta, the flat floodplain where the T\u00e9rraba and Sierpe rivers meet the Pacific, and on a small island offshore, Isla del Ca\u00f1o."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The finished spheres are found down on the Diqu\u00eds Delta, the flat floodplain where the T\u00e9rraba and Sierpe rivers meet the Pacific, and on a small island offshore, Isla del Ca\u00f1o.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "A rounded natural river boulder on a gravel bar beside a smaller carved stone sphere, comparison, soft light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the raw material came from the mountains, and the river did the first rough work. Some claim the balls themselves are natural, polished by water. They are not. Natural concretions exist elsewhere, but these are carved monoliths."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the raw material came from the mountains, and the river did the first rough work. Some claim the balls themselves are natural, polished by water. They are not. Natural concretions exist elsewhere, but these are carved monoliths.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 15.648
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Still river water reflecting a grey boulder at dusk, calm, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A boulder, then. Hard, heavy, and already round-ish. Now someone has to choose it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A boulder, then. Hard, heavy, and already round-ish. Now someone has to choose it.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 5.208
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Indigenous Central American stone workers around a large boulder in a forest clearing, a fire burning on top of the stone, smoke, historical reconstruction, painterly photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter two: the making. No workshop has ever been found with a half-made giant in progress, so we reconstruct the method from the stones themselves, and from how this rock behaves."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II",
+   "The Making",
+   "FIRE \u00b7 WATER \u00b7 HAMMERSTONE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter two: the making. No workshop has ever been found with a half-made giant in progress, so we reconstruct the method from the stones themselves, and from how this rock behaves.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 12.12
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of glowing coals on top of a grey boulder, a worker pouring water from a gourd onto the hot stone, steam rising, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This kind of rock has a weakness. Heat it with hot coals, then dash it with cold water, and it peels away in curved layers, like an onion. That lets a crew rough out a sphere quickly."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This kind of rock has a weakness. Heat it with hot coals, then dash it with cold water, and it peels away in curved layers, like an onion. That lets a crew rough out a sphere quickly.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.288
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A hand holding a fist-sized round hammerstone striking a large stone surface, small chips flying, close-up, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then comes the slow part: pecking. Thousands upon thousands of blows with hammerstones made of the same hard rock. Each strike crushes away a few grains."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then comes the slow part: pecking. Thousands upon thousands of blows with hammerstones made of the same hard rock. Each strike crushes away a few grains.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Surface of an ancient stone sphere showing many small pitted peck marks from hammer blows, raking light, macro photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that is not a guess. Some spheres still carry the small pits left by hammerstone blows. The tool marks are written on the stone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that is not a guess. Some spheres still carry the small pits left by hammerstone blows. The tool marks are written on the stone.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 8.808
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Workers grinding the surface of a big stone sphere with flat stones, wet sand and water, forest clearing, historical reconstruction photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Finally the surface is ground with sand, water and flat stones, and polished. The same people made polished stone axes, intricately carved grinding stones and statues. They knew this craft very well."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Finally the surface is ground with sand, water and flat stones, and polished. The same people made polished stone axes, intricately carved grinding stones and statues. They knew this craft very well.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 14.256
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept, a futuristic laser beam carving a stone sphere in a jungle at night, glowing red light, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The alternative versions? Laser beams. Alien machines. Or a secret liquid that softened rock so it could be moulded like clay."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The alternative versions? Laser beams. Alien machines. Or a secret liquid that softened rock so it could be moulded like clay.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Laboratory beaker with clear liquid next to a dark coarse igneous rock sample, neutral studio light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The softening potion appears in local legends, and a researcher once suggested plant acids could dissolve limestone. But most spheres are gabbro, an igneous rock that acid simply does not melt."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The softening potion appears in local legends, and a researcher once suggested plant acids could dissolve limestone. But most spheres are gabbro, an igneous rock that acid simply does not melt.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 13.8
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Several stone spheres of different sizes and finishes lying in grass, some rough and some polished, overcast light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here is a clue the theorists skip. The finish varies a lot. Some spheres are beautifully smooth. Others are lumpy. That is what you expect from human workshops, not from machines."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here is a clue the theorists skip. The finish varies a lot. Some spheres are beautifully smooth. Others are lumpy. That is what you expect from human workshops, not from machines.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.552
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Glowing embers and a single hammerstone resting on a large smooth stone sphere at night, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Fire, water, stone and time. That is the whole toolkit. But how perfect is the result?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fire, water, stone and time. That is the whole toolkit. But how perfect is the result?",
+    "file": "ep/audio/s20.mp3",
+    "dur": 5.976
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1940s archaeologist in khaki measuring a large stone sphere with a cloth tape measure, assistants holding the tape, black and white style photo, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter three: the measure. Almost every claim of perfection traces back to one man: Harvard archaeologist Samuel Lothrop, who studied the spheres in nineteen forty-eight."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III",
+   "The Measure",
+   "TAPE \u00b7 PLUMB BOB \u00b7 ARITHMETIC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter three: the measure. Almost every claim of perfection traces back to one man: Harvard archaeologist Samuel Lothrop, who studied the spheres in nineteen forty-eight.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A cloth tape measure and a plumb bob on a string lying on top of a big stone sphere, close-up, vintage photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His wife Eleanor later recalled his equipment: a tape measure, and a fishing line with a lead sinker on the end. A plumb bob. That is what the famous precision was measured with."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His wife Eleanor later recalled his equipment: a tape measure, and a fishing line with a lead sinker on the end. A plumb bob. That is what the famous precision was measured with.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 11.904
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A large stone sphere half buried in a muddy trench, a man digging around the upper half, 1940s documentary photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lothrop himself called his methods not completely satisfactory. Big balls were often deeply buried, so his team dug around only the top half, and assumed the hidden half was just as round."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lothrop himself called his methods not completely satisfactory. Big balls were often deeply buried, so his team dug around only the top half, and assumed the hidden half was just as round.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Old notebook open with hand-drawn circles and blank ruled tables, pencil, no writing, close-up, sepia photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For the best balls, they wrapped the tape around in several directions and then calculated the diameter mathematically. Those calculations were printed to several decimal places."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For the best balls, they wrapped the tape around in several directions and then calculated the diameter mathematically. Those calculations were printed to several decimal places.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A glowing digital overlay grid around a stone sphere at night, futuristic measurement concept, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later writers read those decimals as measured precision. That is how 'perfect to within two millimetres' was born, along with claims of spheres up to thirty tonnes and three metres across."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later writers read those decimals as measured precision. That is how 'perfect to within two millimetres' was born, along with claims of spheres up to thirty tonnes and three metres across.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Extreme close-up of an uneven weathered stone sphere surface with bumps, cracks and flakes, raking light, macro photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But a calculated average is not a measurement. Lothrop found the poorer balls varied by up to five centimetres. Their surfaces have bumps larger than two millimetres. Nobody has ever measured one to that accuracy."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But a calculated average is not a measurement. Lothrop found the poorer balls varied by up to five centimetres. Their surfaces have bumps larger than two millimetres. Nobody has ever measured one to that accuracy.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 14.952
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A big stone sphere next to a standing adult person for scale in a grassy clearing, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The biggest known sphere is about two point six metres across and about twenty-four tonnes. Astonishing. But not three metres, not thirty tonnes, and not machine-perfect."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The biggest known sphere is about two point six metres across and about twenty-four tonnes. Astonishing. But not three metres, not thirty tonnes, and not machine-perfect.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.616
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Soft light on a beautifully polished stone sphere in a museum courtyard, calm, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the honest version is this: the best spheres are remarkably round, as round as skilled hands and patient eyes could make them. That is impressive enough."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the honest version is this: the best spheres are remarkably round, as round as skilled hands and patient eyes could make them. That is impressive enough.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 10.344
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Reconstruction of a pre-Columbian village in a tropical delta, round thatched houses on low earthen mounds with river-cobble foundations, people, smoke, painterly photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter four: the village. Our finished sphere now needs a home. And the archaeology tells us where it went: into living villages."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV",
+   "The Village",
+   "FINCA 6 \u00b7 CHIEFDOMS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter four: the village. Our finished sphere now needs a home. And the archaeology tells us where it went: into living villages.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 8.784
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Low earthen mound with a retaining wall of rounded river cobbles in a grassy archaeological site, trees, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The people of the Diqu\u00eds Delta lived in chiefdoms, ruled by chiefs, in round houses built on mounds with foundations of river cobbles, raised above the floods."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The people of the Diqu\u00eds Delta lived in chiefdoms, ruled by chiefs, in round houses built on mounds with foundations of river cobbles, raised above the floods.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Pre-Columbian pottery fragments painted with birds and crocodile motifs and small gold ornaments on dark soil, archaeological find, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Spheres are found with their pottery, their stone pavements and their burials. Lothrop dug under one ball and found a broken figurine head of a known local pottery style, made after about AD one thousand."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Spheres are found with their pottery, their stone pavements and their burials. Lothrop dug under one ball and found a broken figurine head of a known local pottery style, made after about AD one thousand.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 14.064
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Archaeological excavation trench showing soil layers with a stone sphere resting in an upper layer, string grid, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the dates come from layers. Spheres were being made from roughly AD six hundred, most of them after AD one thousand, and before the Spanish arrived. Not twelve thousand years ago."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the dates come from layers. Spheres were being made from roughly AD six hundred, most of them after AD one thousand, and before the Spanish arrived. Not twelve thousand years ago.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two stone spheres placed on either side of an earthen ramp leading up to a round house platform, reconstruction, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Excavations by Francisco Corrales of the National Museum found two spheres set on either side of the entrance ramp of a house platform. Like status markers at the door of someone important."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Excavations by Francisco Corrales of the National Museum found two spheres set on either side of the entrance ramp of a house platform. Like status markers at the door of someone important.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 13.584
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "right",
+  "prompt": "Several stone spheres arranged in a straight line across a grassy clearing with low mounds, Finca 6 style archaeological site, morning light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the site called Finca Six, some spheres still sit in their original lines, roughly east to west. Lothrop mapped straight lines, curves and triangles, and one group of four that pointed to magnetic north."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the site called Finca Six, some spheres still sit in their original lines, roughly east to west. Lothrop mapped straight lines, curves and triangles, and one group of four that pointed to magnetic north.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept image of glowing lines connecting a stone sphere in a jungle across a globe-like night sky to distant monuments, mystical cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is where Atlantis enters. In a nineteen ninety-eight book, Ivar Zapp and George Erikson argued the lines were navigation pointers, aimed at Easter Island and Stonehenge, left by ancient seafarers."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is where Atlantis enters. In a nineteen ninety-eight book, Ivar Zapp and George Erikson argued the lines were navigation pointers, aimed at Easter Island and Stonehenge, left by ancient seafarers.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 14.76
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A stone sphere far inland among banana plants and hills, the sea not visible, overcast, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The problem: the alignments were measured over a few metres with a tape. Extend a tiny error across an ocean and you can point anywhere. And most spheres sit far from the sea, useless to sailors."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The problem: the alignments were measured over a few metres with a tape. Extend a tiny error across an ocean and you can point anywhere. And most spheres sit far from the sea, useless to sailors.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Two stone spheres at dusk with a faint sunrise glow on the horizon behind them, quiet, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What remains open is what the lines meant to their makers. Sunrise on certain days, constellations, or stories. Archaeologists say plainly: none of it is proven yet."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What remains open is what the lines meant to their makers. Sunrise on certain days, constellations, or stories. Archaeologists say plainly: none of it is proven yet.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Abandoned overgrown pre-Columbian village mound in a tropical forest, a stone sphere covered in moss and vines, rain, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter five: the silence. Around the time of the Spanish conquest, the sphere-making world fell apart. The villages emptied."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V",
+   "The Silence",
+   "FLOOD SILT \u00b7 FOUR CENTURIES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter five: the silence. Around the time of the Spanish conquest, the sphere-making world fell apart. The villages emptied.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 8.568
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Spanish conquistador era sailing ship anchored off a green tropical coast, sixteenth century, painterly photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Spanish explorers reached this coast in the sixteenth century. They left no report of giant stone balls. The people who made them had already gone, or soon would."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Spanish explorers reached this coast in the sixteenth century. They left no report of giant stone balls. The people who made them had already gone, or soon would.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 11.352
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Reconstruction of warriors in a tropical forest and a carved stone figure holding a trophy head, dramatic light, painterly photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why? We do not know. Catastrophic floods could have ruined harvests for years. War is possible too; local stone statues show figures holding trophy heads. Then came conquest and disease."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why? We do not know. Catastrophic floods could have ruined harvests for years. War is possible too; local stone statues show figures holding trophy heads. Then came conquest and disease.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Brown floodwater spreading over a tropical floodplain, a stone sphere partly submerged, overcast, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then the river did something unexpected. Flood after flood laid fine silt over the abandoned sites. Some spheres ended up a metre or more underground."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then the river did something unexpected. Flood after flood laid fine silt over the abandoned sites. Some spheres ended up a metre or more underground.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 11.04
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cross-section of layered river silt with a round stone sphere buried inside, roots above, illustrative photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That burial was a gift. UNESCO credits those thick layers of sediment with saving the spheres from the looting that emptied most archaeological sites in Costa Rica."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That burial was a gift. UNESCO credits those thick layers of sediment with saving the spheres from the looting that emptied most archaeological sites in Costa Rica.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Indigenous elder storyteller by a fire at night in a Costa Rican forest village, respectful portrait, warm light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Memory survived in other ways. In Bribri tradition, shared by the Cab\u00e9car, the spheres are Tara's cannonballs: the thunder god shot them with a giant blowpipe at the Serkes, the gods of wind and hurricane, to drive them from the land."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Memory survived in other ways. In Bribri tradition, shared by the Cab\u00e9car, the spheres are Tara's cannonballs: the thunder god shot them with a giant blowpipe at the Serkes, the gods of wind and hurricane, to drive them from the land.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 16.728
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Lightning over a dark tropical forest at night, a faint round stone shape in the foreground, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is a living story, not a lab report. But notice whose story it is: Indigenous Costa Ricans, not visitors from Atlantis or the stars."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is a living story, not a lab report. But notice whose story it is: Indigenous Costa Ricans, not visitors from Atlantis or the stars.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1930s bulldozer clearing tropical jungle for a banana plantation, a large stone sphere pushed aside in the mud, sepia documentary photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter six: the bulldozer. In the late nineteen thirties, the United Fruit Company cleared the delta jungle for banana plantations. The machines hit something round."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI",
+   "The Bulldozer",
+   "1939 \u00b7 UNITED FRUIT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter six: the bulldozer. In the late nineteen thirties, the United Fruit Company cleared the delta jungle for banana plantations. The machines hit something round.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 11.352
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Plantation workers in 1930s clothes standing around a huge stone sphere in a newly cleared field, sepia photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Bulldozers shoved the spheres aside. Then a rumour spread among workers: the balls had gold hidden inside."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Bulldozers shoved the spheres aside. Then a rumour spread among workers: the balls had gold hidden inside.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 7.704
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A cracked and split stone sphere broken into large pieces lying in a field, dynamite damage, overcast, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So they drilled holes and blew them open with dynamite. There was no gold. Only shattered stone. Several spheres were destroyed before authorities stepped in. Some were later glued back together for the National Museum."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So they drilled holes and blew them open with dynamite. There was no gold. Only shattered stone. Several spheres were destroyed before authorities stepped in. Some were later glued back together for the National Museum.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 14.52
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Old steam train with flatcars carrying bananas and a large stone sphere through a plantation, sepia photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Others rode the banana railway out of the delta and became lawn ornaments, outside banks, homes and government buildings. One even ended up in a garden in Miami."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Others rode the banana railway out of the delta and became lawn ornaments, outside banks, homes and government buildings. One even ended up in a garden in Miami.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A young woman archaeologist in 1940s field clothes sketching beside a stone sphere, notebook with blank pages, sepia photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Science arrived quickly. Doris Stone, daughter of a United Fruit executive, published the first study in nineteen forty-three, in the journal American Antiquity."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Science arrived quickly. Doris Stone, daughter of a United Fruit executive, published the first study in nineteen forty-three, in the journal American Antiquity.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Vintage expedition camp in a tropical clearing, canvas tents, a stone sphere nearby, 1940s photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came Lothrop's Harvard fieldwork, published in nineteen sixty-three, with maps, pottery and photographs. In the nineteen fifties he could still count about fifty spheres where they had been found. Today only a handful remain in place."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came Lothrop's Harvard fieldwork, published in nineteen sixty-three, with maps, pottery and photographs. In the nineteen fifties he could still count about fifty spheres where they had been found. Today only a handful remain in place.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 15.768
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Dramatic giant round boulder rolling down a dark stone temple corridor, adventure movie style, cinematic, no people, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pop culture did the rest. The giant boulder that chases Indiana Jones is often linked to them. In nineteen seventy-one, Erich von D\u00e4niken's ancient astronaut books pulled them into the alien story."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pop culture did the rest. The giant boulder that chases Indiana Jones is often linked to them. In nineteen seventy-one, Erich von D\u00e4niken's ancient astronaut books pulled them into the alien story.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A lone stone sphere beside a modern suburban lawn and fence, out of place, dusk, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the real twist. The mystery was not created by the makers. It was created by us, when we moved the spheres and destroyed the context that could have explained them."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the real twist. The mystery was not created by the makers. It was created by us, when we moved the spheres and destroyed the context that could have explained them.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A large stone sphere being carefully lifted by a crane with straps onto a truck in Costa Rica, workers in helmets, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter seven: the homecoming. Costa Rica has been bringing its spheres home. Those still in the delta were protected as national treasures, and export was banned."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII",
+   "The Homecoming",
+   "2014 \u00b7 UNESCO"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter seven: the homecoming. Costa Rica has been bringing its spheres home. Those still in the delta were protected as national treasures, and export was banned.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 10.968
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A cargo ship at a tropical port at dawn, a stone sphere strapped on a pallet on the dock, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty fourteen, that sphere from the Miami garden came back by boat. It weighed about one and a half tonnes and had spent seventy-four years in Florida. Its owner returned it voluntarily."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty fourteen, that sphere from the Miami garden came back by boat. It weighed about one and a half tonnes and had spent seventy-four years in Florida. Its owner returned it voluntarily.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 13.056
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeological park with several stone spheres on mown grass, a small modern museum building, palm trees, sunny, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two months later, in June, UNESCO inscribed four sites as World Heritage: Finca Six, Batambal, El Silencio and Grijalba Two, the Precolumbian Chiefdom Settlements with Stone Spheres of the Diqu\u00eds."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two months later, in June, UNESCO inscribed four sites as World Heritage: Finca Six, Batambal, El Silencio and Grijalba Two, the Precolumbian Chiefdom Settlements with Stone Spheres of the Diqu\u00eds.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 15.12
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Conservators in gloves examining a huge weathered stone sphere at a jungle-edge site, scaffolding, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The largest sphere, at El Silencio, had been cracked by field fires. In twenty nineteen the National Museum, working with Mexican conservators, began restoring it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The largest sphere, at El Silencio, had been cracked by field fires. In twenty nineteen the National Museum, working with Mexican conservators, began restoring it.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A stone sphere displayed in front of a modern government building in a Latin American capital, people walking, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A month after UNESCO, the spheres were declared a national symbol. They stand at the Legislative Assembly and in the National Museum."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A month after UNESCO, the spheres were declared a national symbol. They stand at the Legislative Assembly and in the National Museum.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Indigenous Costa Rican family walking past a stone sphere in an archaeological park, respectful documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the people most likely descended from the makers are still here: the Boruca, the T\u00e9rraba, the Ng\u00e4be, Chibchan-speaking nations of southern Costa Rica."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the people most likely descended from the makers are still here: the Boruca, the T\u00e9rraba, the Ng\u00e4be, Chibchan-speaking nations of southern Costa Rica.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 10.968
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A small stone sphere held in two hands, warm light, close-up, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Archaeologist John Hoopes suggests the spheres show people taking the river's power to shape stone, and making it their own. A boulder shaped by nature, finished by human hands."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Archaeologist John Hoopes suggests the spheres show people taking the river's power to shape stone, and making it their own. A boulder shaped by nature, finished by human hands.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark tropical night scene, a single large round grey stone sphere on the far right edge lit by soft golden light, large empty dark space on the left, faint jungle silhouettes, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Our sphere's life is complete. Time to open the ledger."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "THE LEDGER",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Our sphere's life is complete. Time to open the ledger.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 3.624
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark tropical night scene, a single large round grey stone sphere on the far right edge lit by soft golden light, large empty dark space on the left, faint jungle silhouettes, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Shaped by fire, hammerstones and grinding: evidence. Found with local pottery, mounds and houses: evidence. Made roughly AD six hundred to fifteen hundred: evidence. Markers of status at chiefs' houses: likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Shaped by fire, hammerstones and grinding: evidence. Found with local pottery, mounds and houses: evidence. Made roughly AD six hundred to fifteen hundred: evidence. Markers of status at chiefs' houses: likely.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 15.408
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark tropical night scene, a single large round grey stone sphere on the far right edge lit by soft golden light, large empty dark space on the left, faint jungle silhouettes, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Perfect to two millimetres: debunked. Atlantis navigators or alien orbs: no evidence. And what the alignments meant: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Perfect to two millimetres: debunked. Atlantis navigators or alien orbs: no evidence. And what the alignments meant: still open.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden sunrise over a grassy archaeological site with a line of large stone spheres casting long shadows, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The stone spheres of Costa Rica were made by the Diqu\u00eds chiefdoms, Indigenous people of the delta, with fire, stone tools and enormous patience. No lasers. No Atlantis. No aliens."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The stone spheres of Costa Rica were made by the Diqu\u00eds chiefdoms, Indigenous people of the delta, with fire, stone tools and enormous patience. No lasers. No Atlantis. No aliens.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.688
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky full of stars above a stone sphere on a mound in a quiet tropical field, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What stays open is their meaning: why the lines, why the sizes, why spheres at all. That answer is buried with lost context, and perhaps still in the silt."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What stays open is their meaning: why the lines, why the sizes, why spheres at all. That answer is buried with lost context, and perhaps still in the silt.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A child's hand touching a huge smooth stone sphere in a sunlit archaeological park, gentle, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the real wonder is not that they are too perfect for humans. It is that humans, with river stones in their hands, made something this beautiful, and that it nearly vanished in a single century of bulldozers."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the real wonder is not that they are too perfect for humans. It is that humans, with river stones in their hands, made something this beautiful, and that it nearly vanished in a single century of bulldozers.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 13.272
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single round stone sphere glowing faintly in the center against black, minimal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the life of a stone. Which chapter surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the life of a stone. Which chapter surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 9.456
+   }
+  ]
+ }
+]
