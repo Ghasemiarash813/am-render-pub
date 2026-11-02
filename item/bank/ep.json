@@ -1,0 +1,1449 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, a long straight line of large flat rounded rectangular grey limestone blocks set edge to edge on white sand, about six metres deep, sun rays from above, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eighteen feet under the clear water off North Bimini, in the Bahamas, there is a line of giant stone blocks. Flat, squarish, set edge to edge, running straight for half a mile, and then curling into a hook."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eighteen feet under the clear water off North Bimini, in the Bahamas, there is a line of giant stone blocks. Flat, squarish, set edge to edge, running straight for half a mile, and then curling into a hook.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, a 1960s scuba diver with a twin tank and black wetsuit swimming slowly over a row of large flat limestone blocks, sunlight shimmering, vintage film look, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In September nineteen sixty-eight, three divers swam over it and called it a pavement. Within months, a lot of people had a better name for it. The road to Atlantis."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In September nineteen sixty-eight, three divers swam over it and called it a pavement. Within months, a lot of people had a better name for it. The road to Atlantis.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1930s American study at night, a middle-aged man in a dark three-piece suit lying on a couch with his eyes closed and hands folded, a woman in a 1930s dress sitting beside him writing in a notebook, warm lamp light, film grain, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Because, twenty-eight years earlier, a man lying on a couch in a trance had said: expect it in sixty-eight and sixty-nine."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Because, twenty-eight years earlier, a man lying on a couch in a trance had said: expect it in sixty-eight and sixty-nine.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 7.824
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept art, a glowing white marble city with domes and concentric canals on a sinking island at night, a straight stone causeway leading into the sea, dramatic storm clouds, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A prophecy. A date. And a road of stone, exactly where he said Atlantis lay. If that is a coincidence, it is a very good one."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A prophecy. A date. And a road of stone, exactly where he said Atlantis lay. If that is a coincidence, it is a very good one.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 8.592
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Dark moody laboratory with two empty glass bell jars side by side on a black bench, one lit with cool blue light, the other with warm gold light, shallow depth of field, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So today we test it the way science is supposed to work. Two explanations: a lost civilization, or a natural rock. Each one makes predictions. If it's true, then something else must be true too. We check them one by one. Then, the result."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So today we test it the way science is supposed to work. Two explanations: a lost civilization, or a natural rock. Each one makes predictions. If it's true, then something else must be true too. We check them one by one. Then, the result.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 16.68
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Stack of blank yellowed paper sheets and an old fountain pen on a wooden desk in a 1930s office, warm desk lamp, dust in the air, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction zero isn't ours. It's Edgar Cayce's. Known as the Sleeping Prophet, Cayce gave thousands of trance readings from the nineteen twenties until his death in nineteen forty-five. His foundation still keeps the transcripts in Virginia Beach."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "PREDICTION 0",
+   "The Prophecy",
+   "VIRGINIA BEACH \u00b7 1926\u20131940"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction zero isn't ours. It's Edgar Cayce's. Known as the Sleeping Prophet, Cayce gave thousands of trance readings from the nineteen twenties until his death in nineteen forty-five. His foundation still keeps the transcripts in Virginia Beach.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 17.112
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Aerial photograph of two low green tropical islands with white beaches surrounded by shallow turquoise water and a dark blue deep channel, Bahamas, bright day, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Bimini comes up again and again. In nineteen twenty-six, a reading called it the highest portion left above the waves of a once great continent. In nineteen thirty-three, another said Atlantean temples might yet be found under the slime of ages of sea water, near what is known as Bimini."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Bimini comes up again and again. In nineteen twenty-six, a reading called it the highest portion left above the waves of a once great continent. In nineteen thirty-three, another said Atlantean temples might yet be found under the slime of ages of sea water, near what is known as Bimini.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 19.488
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Dark stormy ocean horizon at dusk with a single shaft of light breaking through clouds onto the water, dramatic, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, on the twenty-eighth of June, nineteen forty, reading nine fifty-eight dash three: Poseidia will be among the first portions of Atlantis to rise again. Expect it in sixty-eight and sixty-nine. Not so far away."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, on the twenty-eighth of June, nineteen forty, reading nine fifty-eight dash three: Poseidia will be among the first portions of Atlantis to rise again. Expect it in sixty-eight and sixty-nine. Not so far away.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 15.648
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Three divers in 1960s scuba gear on the deck of a small white motorboat in turquoise water, sunny day, vintage color film photograph look, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the second of September, nineteen sixty-eight, the zoologist Joseph Manson Valentine, the free diver Jacques Mayol and Robert Angove found the stones. Valentine knew the Cayce readings. The link was made almost at once."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the second of September, nineteen sixty-eight, the zoologist Joseph Manson Valentine, the free diver Jacques Mayol and Robert Angove found the stones. Valentine knew the Cayce readings. The link was made almost at once.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 15.792
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1970s research boat anchored in shallow turquoise water with divers and underwater camera equipment on deck, vintage film photograph look, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Expeditions followed. One in nineteen seventy-one included the Apollo fourteen astronaut Edgar Mitchell, the underwater photographer Dimitri Rebikoff, and, according to a magazine report, psychics from the Cayce foundation."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Expeditions followed. One in nineteen seventy-one included the Apollo fourteen astronaut Edgar Mitchell, the underwater photographer Dimitri Rebikoff, and, according to a magazine report, psychics from the Cayce foundation.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 15.528
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, old algae-covered rounded limestone blocks on the seabed with small fish swimming past, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So does prediction zero pass? Read the words again. Poseidia would rise. Nothing rose. The stones had been lying underwater all along, and the geologist Eugene Shinn wrote that the rows were known in the early nineteen sixties, before the famous date. When a prophecy can be fulfilled by finding something, instead of something happening, it was never much of a test."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So does prediction zero pass? Read the words again. Poseidia would rise. Nothing rose. The stones had been lying underwater all along, and the geologist Eugene Shinn wrote that the rows were known in the early nineteen sixties, before the famous date. When a prophecy can be fulfilled by finding something, instead of something happening, it was never much of a test.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 22.56
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Calm sea surface at sunset seen from just above the water, gentle ripples, warm golden light, minimal, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction zero: a striking coincidence, but too vague to count. So let's give the Atlantis idea predictions that can actually fail."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction zero: a striking coincidence, but too vague to count. So let's give the Atlantis idea predictions that can actually fail.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Greek marble bust of a bearded philosopher in a dark museum hall, dramatic side light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction one. If this is Plato's Atlantis, it must be old. Plato placed the sinking about nine thousand years before Solon, roughly eleven and a half thousand years ago. Anything Atlanteans built should be at least that old."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "PREDICTION 1",
+   "The Age",
+   "PLATO \u00b7 c. 9600 BC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction one. If this is Plato's Atlantis, it must be old. Plato placed the sinking about nine thousand years before Solon, roughly eleven and a half thousand years ago. Anything Atlanteans built should be at least that old.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 15.504
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Wide desert landscape seen from high altitude with huge faint concentric rings in the rock, Sahara, golden light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Atlantis has been pinned to dozens of places, from the Eye of the Sahara to Antarctica. Here we test just one stretch of seabed, and this time the rock itself can be dated."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Atlantis has been pinned to dozens of places, from the Eye of the Sahara to Antarctica. Here we test just one stretch of seabed, and this time the rock itself can be dated.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 12.048
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1970s geology laboratory, a scientist in a white coat holding a cylindrical grey rock core under a lamp, glassware and old instruments in the background, vintage film look, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen seventy-seven, geologists drilled a core from one of the Bimini blocks and sent it to the radiocarbon laboratory at the University of Miami. The dates were published in nineteen seventy-nine."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen seventy-seven, geologists drilled a core from one of the Bimini blocks and sent it to the radiocarbon laboratory at the University of Miami. The dates were published in nineteen seventy-nine.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 14.064
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of a cut limestone surface packed with broken shell fragments and pebbles cemented together, raking light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The shell fragments inside the rock came out at about three thousand five hundred radiocarbon years. The natural cement that glues those shells together came out younger, at about two thousand eight hundred."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The shell fragments inside the rock came out at about three thousand five hundred radiocarbon years. The natural cement that glues those shells together came out younger, at about two thousand eight hundred.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Tropical beach at low tide with wet sand covered in broken seashells, gentle waves, close-up, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That order matters. Shells lie on a beach first. The cement grows between them later. The dates came out in exactly that sequence, which is what you'd expect from a beach slowly turning into rock, and it suggests the samples weren't badly contaminated."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That order matters. Shells lie on a beach first. The cement grows between them later. The dates came out in exactly that sequence, which is what you'd expect from a beach slowly turning into rock, and it suggests the samples weren't badly contaminated.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 16.344
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Eroding tropical coastline with a dark layer of flat rock slabs emerging from under the sand at the waterline, waves washing over, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A later Swiss study of Bimini's coast, by Eric Davaud and Andr\u00e9 Strasser, went further. They concluded this layer of rock formed beneath the island itself, and was only uncovered by erosion around two thousand years ago."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A later Swiss study of Bimini's coast, by Eric Davaud and Andr\u00e9 Strasser, went further. They concluded this layer of rock formed beneath the island itself, and was only uncovered by erosion around two thousand years ago.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 15.648
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Glowing scientific instrument in a dark room with a small rock sample in a glass vial lit from below, mysterious blue light, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Supporters of Atlantis point to a very different number: fifteen thousand years. It comes from a uranium-thorium test published in nineteen eighty."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Supporters of Atlantis point to a very different number: fifteen thousand years. It comes from a uranium-thorium test published in nineteen eighty.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 10.296
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cross-section illustration style photograph of an ancient limestone hill standing high above a distant low sea, ice age coastline, dry land where the sea is now, misty, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But that sample wasn't the road. It was the older limestone underneath, and it was partly recrystallised, which breaks the clock. And fifteen thousand years ago, sea level here was nearly a hundred metres lower. That limestone would have been a dry hill, not a seabed. The date can't be right."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But that sample wasn't the road. It was the older limestone underneath, and it was partly recrystallised, which breaks the clock. And fifteen thousand years ago, sea level here was nearly a hundred metres lower. That limestone would have been a dry hill, not a seabed. The date can't be right.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 18.504
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, a single large rounded limestone block on white sand with sunlight dappling it, quiet, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction one fails for Atlantis. The rock is around three thousand years old. Younger than the pyramids of Giza, and many thousands of years too young for Plato."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction one fails for Atlantis. The rock is around three thousand years old. Younger than the pyramids of Giza, and many thousands of years too young for Plato.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "1970s divers on a boat deck in the Bahamas lowering a heavy hydraulic underwater core drill and pipes into turquoise water, sunny, vintage film photograph look, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction two is the cleverest test in this whole story. And it came from a believer's challenge."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "PREDICTION 2",
+   "The Bedding",
+   "USGS \u00b7 MID-1970s"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction two is the cleverest test in this whole story. And it came from a believer's challenge.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 6.024
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, a scuba diver operating a pneumatic core drill on top of a large flat limestone block on the seabed, bubbles rising, 1970s gear, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the mid-nineteen seventies, Eugene Shinn ran a small U.S. Geological Survey field station near Miami. His team had built a new underwater core drill, run by a diver. The writer Peter Tompkins, an Atlantis enthusiast, asked them to drill Bimini."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the mid-nineteen seventies, Eugene Shinn ran a small U.S. Geological Survey field station near Miami. His team had built a new underwater core drill, run by a diver. The writer Peter Tompkins, an Atlantis enthusiast, asked them to drill Bimini.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 18.408
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Silhouette of a man in 1970s clothes standing on the bow of a boat at sunset looking at the sea, thoughtful, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their first cores said beachrock. Tompkins had an answer ready. What if beachrock was simply the only building material the Atlanteans had?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their first cores said beachrock. Tompkins had an answer ready. What if beachrock was simply the only building material the Atlanteans had?",
+    "file": "ep/audio/s24.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cutaway view of a sandy beach showing many thin parallel sand layers tilting gently down toward the sea, waves at the edge, photoreal geology, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here's the trick. Sand on a beach is laid down in thin layers that tilt gently toward the sea. When that sand turns to rock, the tilt is frozen inside, invisible from the outside."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here's the trick. Sand on a beach is laid down in thin layers that tilt gently toward the sea. When that sand turns to rock, the tilt is frozen inside, invisible from the outside.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, several large flat stone blocks on the seabed seen from above, each with faint thin diagonal layering visible on its broken edges, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So, if the blocks never moved since they formed, every one should show its layers dipping the same way, toward deep water. If people quarried them and fitted them together, they'd have chosen blocks by shape, not by an invisible grain. The dips should point every which way."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So, if the blocks never moved since they formed, every one should show its layers dipping the same way, toward deep water. If people quarried them and fitted them together, they'd have chosen blocks by shape, not by an invisible grain. The dips should point every which way.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 17.448
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A circular diamond saw blade cutting a cylindrical grey rock core lengthwise in a geology lab, water spray, close-up, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The team drilled seventeen oriented cores from separate, neighbouring stones. Back at the lab, they sliced them with a diamond saw and x-rayed the slices."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The team drilled seventeen oriented cores from separate, neighbouring stones. Back at the lab, they sliced them with a diamond saw and x-rayed the slices.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 10.584
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Black and white x-ray radiograph of a rock slab showing thin parallel tilted layers and rounded pebbles inside, on a light box in a dark room, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every core dipped the same way, toward deep water. And distinctive layers of rounded beach pebbles could be traced from one stone straight into the next."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every core dipped the same way, toward deep water. And distinctive layers of rounded beach pebbles could be traced from one stone straight into the next.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Aerial view of a long flat rock shelf cracked into rectangular slabs at the edge of turquoise water, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That's what one sheet of rock looks like after it cracks where it lies. Not a wall of separate blocks. And this test could have gone the other way. It didn't."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That's what one sheet of rock looks like after it cracks where it lies. Not a wall of separate blocks. And this test could have gone the other way. It didn't.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "sand",
+  "motion": "out",
+  "prompt": "Several sailboats anchored over shallow turquoise water at golden hour, Bahamas, relaxed, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It wasn't a quiet expedition, by the way. Shinn recalled naked boaters asking his divers whether they could feel the force field, and diviners flying over the site with plumb bobs. One believer later called him a scientoid."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It wasn't a quiet expedition, by the way. Shinn recalled naked boaters asking his divers whether they could feel the force field, and diviners flying over the site with plumb bobs. One believer later called him a scientoid.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 15.336
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, a scuba diver with a flashlight peering under the edge of a large flat limestone slab resting on the seabed, sand and small stones beneath, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction three. A real wall, road or breakwater has structure underneath it. A second layer of blocks, foundations, supports, something cut into the bedrock."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "PREDICTION 3",
+   "The Courses",
+   "GIFFORD & BALL \u00b7 1980"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction three. A real wall, road or breakwater has structure underneath it. A second layer of blocks, foundations, supports, something cut into the bedrock.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, two marine scientists with measuring tapes and slates surveying a row of flat stone blocks on the seabed, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A study funded by the National Geographic Society, by John Gifford and Mahlon Ball, went looking. They found no place where two layers of blocks were stacked. Not even one block set squarely on top of another."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A study funded by the National Geographic Society, by John Gifford and Mahlon Ball, went looking. They found no place where two layers of blocks were stacked. Not even one block set squarely on top of another.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 14.28
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, close-up of the gap between two rounded limestone blocks showing white sand underneath and flat bedrock below, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Bedrock lies just below the whole area. The inner blocks sit on loose sand. Nothing was cut into the bedrock. No regular supports, no repeating grooves that could be tool marks, and not enough loose blocks around to have made a lost upper layer."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Bedrock lies just below the whole area. The inner blocks sit on loose sand. Nothing was cut into the bedrock. No regular supports, no repeating grooves that could be tool marks, and not enough loose blocks around to have made a lost upper layer.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 16.128
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1970s man with glasses and notebook sitting on a boat deck in the tropics looking out at the sea, vintage film photograph look, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even David Zink, whose research was funded by the Cayce foundation, concluded that the blocks rest on bedrock or on small stones. So the visible stones were probably not the top of some larger buried structure."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even David Zink, whose research was funded by the Cayce foundation, concluded that the blocks rest on bedrock or on small stones. So the visible stones were probably not the top of some larger buried structure.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 14.496
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, modern divers with video cameras filming smaller stones wedged under a big limestone slab, strong lights, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, in two thousand five, a new team returned. The psychologist Greg Little and the researcher William Donato, backed by the Cayce association, reported blocks stacked in tiers, smaller prop stones wedged beneath them, and cut marks. Their conclusion: an ancient harbour wall."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, in two thousand five, a new team returned. The psychologist Greg Little and the researcher William Donato, backed by the Cayce association, reported blocks stacked in tiers, smaller prop stones wedged beneath them, and cut marks. Their conclusion: an ancient harbour wall.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 19.152
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Dark room with an old television monitor glowing with an underwater scene, stacks of DVDs without labels, moody, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Those dives were filmed. But the findings appeared in the team's own magazine and videos, not in a peer-reviewed journal where other scientists could check the measurements."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Those dives were filmed. But the findings appeared in the team's own magazine and videos, not in a peer-reviewed journal where other scientists could check the measurements.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 10.944
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, a heavy flat stone slab tilted and resting on several smaller broken stone fragments on hard rocky seabed, sand swirling, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Geology also has a mechanism for them. Under a thick bed of beachrock there are often thinner, broken layers. When waves scour the sand away, heavy slabs sink straight down until they hit hard rock, and the broken pieces get trapped underneath, looking a lot like props."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Geology also has a mechanism for them. Under a thick bed of beachrock there are often thinner, broken layers. When waves scour the sand away, heavy slabs sink straight down until they hit hard rock, and the broken pieces get trapped underneath, looking a lot like props.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 18.048
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a fresh circular drill hole and a small chisel scar on an algae-covered limestone surface underwater, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And after fifty years of scientists drilling cores and tourists chipping souvenirs, fresh tool marks on a few blocks are guaranteed. They just aren't ancient."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And after fifty years of scientists drilling cores and tourists chipping souvenirs, fresh tool marks on a few blocks are guaranteed. They just aren't ancient.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, wide view of a line of flat blocks fading into blue distance, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction three: the structure a builder would leave behind is missing. The props remain a claim, not a finding."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction three: the structure a builder would leave behind is missing. The props remain a claim, not a finding.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 7.464
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Roman shipwreck on the Mediterranean seabed with scattered clay amphorae and broken pottery, divers' lights, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction four. People leave things behind. Ancient harbours in the Mediterranean are full of pottery, tools, anchors and rubbish."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "PREDICTION 4",
+   "The Leftovers",
+   "WHAT PEOPLE DROP"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction four. People leave things behind. Ancient harbours in the Mediterranean are full of pottery, tools, anchors and rubbish.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 8.952
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a dark beachrock slab at the edge of a tropical beach with a plain unlabeled green glass bottle cemented into the rock, waves, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And beachrock is very good at keeping them. On Bimini's own swimming beach, beachrock is forming today with soda and beer bottles cemented into it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And beachrock is very good at keeping them. On Bimini's own swimming beach, beachrock is forming today with soda and beer bottles cemented into it.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "A rusty iron pipe embedded in a flat grey beachrock slab on a remote sandy Florida key, lighthouse in the distance, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the Persian Gulf, Shinn found fresh beachrock with glass, pottery, nuts and bolts inside. At Loggerhead Key in Florida, an iron pipe laid for a research laboratory in the early nineteen hundreds is now part of the rock."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the Persian Gulf, Shinn found fresh beachrock with glass, pottery, nuts and bolts inside. At Loggerhead Key in Florida, an iron pipe laid for a research laboratory in the early nineteen hundreds is now part of the rock.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 15.048
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Several sawed cylindrical rock cores lying on a lab table under bright light, showing only shell fragments and sand grains, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So if any civilization had worked on this beach, its debris should be locked inside these blocks. The cores and dives found none. No pottery, no tools, no wheel ruts."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So if any civilization had worked on this beach, its debris should be locked inside these blocks. The cores and dives found none. No pottery, no tools, no wheel ruts.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, several large stone cylinders lying on the sandy seabed like fallen columns, mysterious light rays, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What about the famous Bimini columns? The marble pillars of a sunken temple?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What about the famous Bimini columns? The marble pillars of a sunken temple?",
+    "file": "ep/audio/s44.mp3",
+    "dur": 5.16
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Old wooden barrels stacked in the hold of a 19th-century sailing ship, lantern light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They lie about two miles away. In nineteen seventy-one, a letter in the journal Nature identified the cement ones: Portland cement that set inside the wooden barrels ships carried it in, back in the eighteen hundreds. The wood rotted. The cement kept the barrel's shape."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They lie about two miles away. In nineteen seventy-one, a letter in the journal Nature identified the cement ones: Portland cement that set inside the wooden barrels ships carried it in, back in the eighteen hundreds. The wood rotted. The cement kept the barrel's shape.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 18.144
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, an old flat stone anchor with a single round hole lying on sand among seagrass, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stone anchors have turned up in the area too. They're real, and interesting. But anchors are what passing ships drop. They tell you about sailors, not about who made the rock."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stone anchors have turned up in the area too. They're real, and interesting. But anchors are what passing ships drop. They tell you about sailors, not about who made the rock.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, empty white sand between rounded limestone blocks, small fish, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction four: no ancient leftovers in the stones. The only artefacts nearby are thousands of years younger."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction four: no ancient leftovers in the stones. The only artefacts nearby are thousands of years younger.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 7.872
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Aerial view looking straight down at a perfectly straight dark line of stone blocks in bright turquoise shallow water, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction five is the believers' favourite. Nature doesn't draw straight lines. So, if this is natural, there shouldn't be other long, straight rows of squarish blocks anywhere."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "PREDICTION 5",
+   "The Straight Line",
+   "NATURE VS. THE RULER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction five is the believers' favourite. Nature doesn't draw straight lines. So, if this is natural, there shouldn't be other long, straight rows of squarish blocks anywhere.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 11.784
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Long straight tropical beach with a continuous dark rock ledge running along the waterline, palm trees, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The geologist Paul Hearty answered that in a published debate with Donato. Beachrock follows the beach. As Shinn put it: if the beach is straight, the rock is straight."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The geologist Paul Hearty answered that in a published debate with Donato. Beachrock follows the beach. As Shinn put it: if the beach is straight, the rock is straight.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Exposed beachrock on a tropical shore cracked into large rectangular slabs with rounded edges like loaves of bread, low sun, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And when exposed beachrock bakes in the sun, it cracks like an old concrete road, into slabs up to twelve feet long. Waves and sand round off the corners until they look like giant loaves of bread, laid edge to edge."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And when exposed beachrock bakes in the sun, it cracks like an old concrete road, into slabs up to twelve feet long. Waves and sand round off the corners until they look like giant loaves of bread, laid edge to edge.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 15.096
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Small flat sandy island with a tall old brick lighthouse, a row of dark rectangular rock slabs exposed in the surf along the shore after a storm, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the matches start. In two thousand four and five, hurricanes Charley and Katrina stripped the sand from Loggerhead Key in the Dry Tortugas, and exposed a beachrock road just like Bimini's."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the matches start. In two thousand four and five, hurricanes Charley and Katrina stripped the sand from Loggerhead Key in the Dry Tortugas, and exposed a beachrock road just like Bimini's.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Natural tessellated rock platform on a coast cracked into neat rectangular tiles like a paved floor, tide pools, Tasmania, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There are more off Andros, Abaco and the Exumas, off Vieques in Puerto Rico, and around islands on Australia's Great Barrier Reef. In Tasmania, a naturally cracked tiled pavement at Eaglehawk Neck is a tourist attraction."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There are more off Andros, Abaco and the Exumas, off Vieques in Puerto Rico, and around islands on Australia's Great Barrier Reef. In Tasmania, a naturally cracked tiled pavement at Eaglehawk Neck is a tourist attraction.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 16.632
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Deep dim blue underwater scene ninety metres deep, rows of pillow-shaped rock blocks partly covered with corals and sponges, a remotely operated vehicle light beam, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And at Pulley Ridge, off southwest Florida, ninety metres down, survey teams found the same pillow-shaped blocks on a drowned barrier island, sunk by the rising sea at the end of the Ice Age."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And at Pulley Ridge, off southwest Florida, ninety metres down, survey teams found the same pillow-shaped blocks on a drowned barrier island, sunk by the rising sea at the end of the Ice Age.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Small white research submersible with bright lights hovering over a dark deep-sea floor of cracked flat rock slabs, particles in the water, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Shinn even photographed fractured, road-like bedding from the submersible Alvin, five thousand feet down. Nobody suggests Atlanteans paved that."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Shinn even photographed fractured, road-like bedding from the submersible Alvin, five thousand feet down. Nobody suggests Atlanteans paved that.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, a row of rounded limestone blocks seen at a low angle, sunlit, peaceful, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction five fails for Atlantis. Long, straight rows of blocks aren't rare. They're simply what beachrock does."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction five fails for Atlantis. Long, straight rows of blocks aren't rare. They're simply what beachrock does.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 7.848
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Aerial view of a line of dark stone blocks in shallow turquoise water that curves at one end into a hook shape, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The last prediction. The road ends in a curve, a hook shaped like an upside-down J. For believers, a hook means a harbour: a curved breakwater built to shelter ships."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "PREDICTION 6",
+   "The Hook",
+   "THE INVERTED J"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The last prediction. The road ends in a curve, a hook shaped like an upside-down J. For believers, a hook means a harbour: a curved breakwater built to shelter ships.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Aerial view of a curved fish-hook shaped sand spit in a shallow turquoise desert sea, arid coast, Qatar, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But beaches curve too. Where sand drifts along a coast, it builds a curved spit, like a fish hook. Shinn studied hook-shaped spits on the coast of Qatar in nineteen sixty-seven, and found beachrock forming on all of them, curving with the sand."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But beaches curve too. Where sand drifts along a coast, it builds a curved spit, like a fish hook. Shinn studied hook-shaped spits on the coast of Qatar in nineteen sixty-seven, and found beachrock forming on all of them, curving with the sand.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 16.2
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Aerial view of a long barrier island with a curved hooked end beside a tidal inlet, marsh behind, Atlantic coast, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The drowned barrier island at Pulley Ridge has its own J at its northern end. Hooks like it form near tidal inlets all along the coasts of the United States."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The drowned barrier island at Pulley Ridge has its own J at its northern end. Hooks like it form near tidal inlets all along the coasts of the United States.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Small tropical harbour entrance with a concrete seawall and a dredged boat channel, small fishing boats, Bahamas, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Bimini would probably have a modern hook at its harbour entrance too, if a seawall and a boat channel hadn't been built right over it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Bimini would probably have a modern hook at its harbour entrance too, if a seawall and a boat channel hadn't been built right over it.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 8.232
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Large wooden Chinese treasure junk with red sails anchored off a tropical island in a storm-tossed sea, historical painting style, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Others have tried the hook as well. One popular book claimed a Chinese treasure fleet built it in fourteen twenty-one, as a slipway for storm-damaged ships. There's no evidence for that either."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Others have tried the hook as well. One popular book claimed a Chinese treasure fleet built it in fourteen twenty-one, as a slipway for storm-damaged ships. There's no evidence for that either.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Aerial view of a curved beach and turquoise shallows at golden hour, Bahamas, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Prediction six: the hook fits a beach better than a harbour."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Prediction six: the hook fits a beach better than a harbour.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 3.504
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark deep-blue underwater scene with faint sun rays from the top right and a few rounded stone blocks on white sand on the far right edge, large empty dark water space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seven predictions tested. Here is the scorecard."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "THE RESULT",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seven predictions tested. Here is the scorecard.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 3.192
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark deep-blue underwater scene with faint sun rays from the top right and a few rounded stone blocks on white sand on the far right edge, large empty dark water space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cores show beachrock, the same rock forming on Bimini's beaches today: evidence. Bedding dips seaward in every core: evidence. Radiocarbon puts the shells at about three thousand five hundred years, and the cement at two thousand eight hundred: evidence. Identical roads at the Dry Tortugas, Andros and Pulley Ridge: evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cores show beachrock, the same rock forming on Bimini's beaches today: evidence. Bedding dips seaward in every core: evidence. Radiocarbon puts the shells at about three thousand five hundred years, and the cement at two thousand eight hundred: evidence. Identical roads at the Dry Tortugas, Andros and Pulley Ridge: evidence.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 21.168
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark deep-blue underwater scene with faint sun rays from the top right and a few rounded stone blocks on white sand on the far right edge, large empty dark water space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Atlantis rising in sixty-eight and sixty-nine: no evidence. A second course, prop stones and tool marks as proof of masonry: unproven. And when the stones were first seen, in nineteen sixty-eight or earlier: still debated."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Atlantis rising in sixty-eight and sixty-nine: no evidence. A second course, prop stones and tool marks as proof of masonry: unproven. And when the stones were first seen, in nineteen sixty-eight or earlier: still debated.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 16.368
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, golden late afternoon light falling on a long line of rounded limestone blocks on white sand, glowing, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The Bimini Road is natural beachrock: a beach that turned to stone about three thousand years ago, cracked where it lay, and slipped under the rising sea. It is not a highway to Atlantis, and nothing rose in sixty-eight."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The Bimini Road is natural beachrock: a beach that turned to stone about three thousand years ago, cracked where it lay, and slipped under the rising sea. It is not a highway to Atlantis, and nothing rose in sixty-eight.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 15.552
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Underwater photograph in clear turquoise Bahamas water, a snorkeler floating at the surface looking down at a line of large stone blocks far below, sun rays, peaceful, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But look at what it really is. A beach from three thousand years ago, frozen in stone. And a perfect lesson in how to test a claim: make a prediction that could fail, then go and check. A prophecy never takes that risk. A core drill does."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But look at what it really is. A beach from three thousand years ago, frozen in stone. And a perfect lesson in how to test a claim: make a prediction that could fail, then go and check. A prophecy never takes that risk. A core drill does.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 15.96
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, deep blue water with a single soft ray of light falling on one rounded stone block in the center, minimal, no text, no letters, no numbers, no writing, no labels, no logos, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which prediction convinced you? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which prediction convinced you? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 7.176
+   }
+  ]
+ }
+]
