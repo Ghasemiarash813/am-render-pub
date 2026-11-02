@@ -1,0 +1,1454 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Golden hour cinematic wide shot of the Roman temple podium wall at Baalbek in Lebanon built of colossal pale limestone blocks, three enormous horizontal blocks each about twenty metres long resting on a course of large blocks, tiny human figures standing at the base for scale, photoreal film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In Lebanon's Bekaa valley there is a wall with three stones in it. Each one is about nineteen metres long, and each one weighs roughly as much as two fully loaded jumbo jets."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In Lebanon's Bekaa valley there is a wall with three stones in it. Each one is about nineteen metres long, and each one weighs roughly as much as two fully loaded jumbo jets.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 12.216
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Low angle close view along the face of a single colossal pale limestone block in an ancient wall, a person in a hat standing beside it looking tiny, afternoon light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They are called the Trilithon. Two thousand years ago somebody cut them, moved them, and laid them side by side so neatly you can barely slide a blade between them."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They are called the Trilithon. Two thousand years ago somebody cut them, moved them, and laid them side by side so neatly you can barely slide a blade between them.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept art, a massive glowing spacecraft hovering above an enormous ancient stone platform on a hilltop at night, beams of light, dramatic clouds, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Online the answer is simple. Nobody in the ancient world could move eight hundred tons. So the platform must be older than history: a landing pad, built by visitors from somewhere else."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Online the answer is simple. Nobody in the ancient world could move eight hundred tons. So the platform must be older than history: a landing pad, built by visitors from somewhere else.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An old wooden desk in a dim office with a blank paper work order, a brass oil lamp, a measuring tape and a pencil, warm cinematic light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So let's treat it like a real job. Imagine we run a heavy-haulage firm, and a client hands us that brief: move the Trilithon, using only what existed back then. Can we quote it?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So let's treat it like a real job. Imagine we run a heavy-haulage firm, and a client hands us that brief: move the Trilithon, using only what existed back then. Can we quote it?",
+    "file": "ep/audio/s04.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Wide panoramic view of the fertile Bekaa valley in Lebanon at sunrise with the snowy Lebanon mountains in the distance and the Roman ruins of Baalbek on a low rise, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eight line items. Each one tests a claim. At the end, we add up the invoice and deliver a verdict. If the job is impossible, the quote will tell us."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eight line items. Each one tests a claim. At the end, we add up the invoice and deliver a verdict. If the job is impossible, the quote will tell us.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial view of the Roman temple complex of Baalbek, Lebanon, with its vast rectangular raised platform, courtyards and six standing columns, surrounded by a modern town, morning light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Line one: the site survey. Baalbek sits near the top of the Bekaa valley, by springs that water the plain. Archaeologists have found that the hill was lived on since the Neolithic."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LINE 1",
+   "Site Survey",
+   "WHAT ARE WE MOVING, AND WHERE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Line one: the site survey. Baalbek sits near the top of the Bekaa valley, by springs that water the plain. Archaeologists have found that the hill was lived on since the Neolithic.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "The six surviving enormous Corinthian columns of the Temple of Jupiter at Baalbek standing on a high podium with a carved entablature on top, blue sky, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Greeks and Romans called the town Heliopolis, the city of the sun. On top of the old hill the Romans raised a sanctuary to Jupiter, with columns about twenty metres tall. Six still stand."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Greeks and Romans called the town Heliopolis, the city of the sun. On top of the old hill the Romans raised a sanctuary to Jupiter, with columns about twenty metres tall. Six still stand.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.944
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "The exceptionally well preserved Roman Temple of Bacchus at Baalbek with its tall columns and richly carved stone, warm afternoon light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next door is the so-called Temple of Bacchus, one of the best preserved Roman temples anywhere. UNESCO lists the whole site as a World Heritage property."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next door is the so-called Temple of Bacchus, one of the best preserved Roman temples anywhere. UNESCO lists the whole site as a World Heritage property.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 10.704
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "sand",
+  "motion": "left",
+  "prompt": "Close view of the western podium wall at Baalbek showing three colossal horizontal limestone blocks above a course of large blocks and smaller masonry below, people at the bottom, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Our load sits in the western wall of the temple podium. Not under the temple, notice. In the wall that holds the hill up on its steep side."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Our load sits in the western wall of the temple podium. Not under the temple, notice. In the wall that holds the hill up on its steep side.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 9.336
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Massive ancient retaining wall of huge stone blocks on a sloping hillside holding up a raised terrace, side view, overcast soft light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That detail matters. The giant blocks appear where the ground falls away. A retaining wall works better the heavier and more solid its stones are. Big stones there are engineering, not decoration."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That detail matters. The giant blocks appear where the ground falls away. A retaining wall works better the heavier and more solid its stones are. Big stones there are engineering, not decoration.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 13.416
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "An enormous flat stone platform on a hilltop under a starry night sky, seen from a distance, mysterious, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The landing-pad story pictures a flat runway of giant slabs. Our survey finds something else: a temple platform with the biggest blocks only along one slope."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The landing-pad story pictures a flat runway of giant slabs. Our survey finds something else: a temple platform with the biggest blocks only along one slope.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 11.4
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An ancient surveyor's tools laid on a stone block, a Roman groma surveying instrument, plumb bob and knotted measuring cord, warm light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the survey is done. We know what the stones do and where they sit. Now we need to know exactly how heavy they are."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the survey is done. We know what the stones do and where they sit. Now we need to know exactly how heavy they are.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 7.584
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Extreme wide shot of a single colossal pale limestone block about twenty metres long in an ancient wall, a worker figure standing in front for scale, photoreal film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Line two: the load. Each Trilithon block is about nineteen metres long, four point two metres high and three point six metres deep."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LINE 2",
+   "The Load",
+   "HOW HEAVY, REALLY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Line two: the load. Each Trilithon block is about nineteen metres long, four point two metres high and three point six metres deep.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of weathered pale limestone surface with fine grain and small fossil shells, macro photograph, natural light, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Let's do the maths ourselves. That's about two hundred and eighty-seven cubic metres of limestone. At roughly two point seven tonnes per cubic metre, we get about seven hundred and seventy-five tonnes."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Let's do the maths ourselves. That's about two hundred and eighty-seven cubic metres of limestone. At roughly two point seven tonnes per cubic metre, we get about seven hundred and seventy-five tonnes.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 13.416
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "right",
+  "prompt": "Row of large ancient limestone blocks forming the lower course of a monumental Roman wall, each block several metres long, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That matches the published estimates of seven hundred and fifty to eight hundred tonnes. The course underneath holds blocks of around three hundred tonnes or more. Big, but each one is a known number."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That matches the published estimates of seven hundred and fifty to eight hundred tonnes. The course underneath holds blocks of around three hundred tonnes or more. Big, but each one is a known number.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An old hardcover book open on a table under lamplight with a dramatic photograph of a giant stone, pages blank, moody, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now compare the client brief. Erich von D\u00e4niken wrote that some blocks weigh nearly two thousand tons. No surveyed block at Baalbek is that heavy, not even the biggest one still in the quarry."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now compare the client brief. Erich von D\u00e4niken wrote that some blocks weigh nearly two thousand tons. No surveyed block at Baalbek is that heavy, not even the biggest one still in the quarry.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A Roman freight balance scale made of bronze and wood holding a small stone block on one side, in a dim workshop, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Weights grow in the retelling. Eight hundred becomes a thousand, a thousand becomes two thousand. On our quote we write what the measurements say: about eight hundred per block."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Weights grow in the retelling. Eight hundred becomes a thousand, a thousand becomes two thousand. On our quote we write what the measurements say: about eight hundred per block.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A colossal stone block beside a modern heavy crane in the distance at an archaeological site, hazy light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Is eight hundred tonnes a lot? Absolutely. These are among the heaviest stones ever placed in a building. That is the honest part of the mystery, and we keep it."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Is eight hundred tonnes a lot? Absolutely. These are among the heaviest stones ever placed in a building. That is the honest part of the mystery, and we keep it.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of the tight seam between two enormous ancient limestone blocks in a wall, the joint barely visible, raking light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the load is real, and it is huge. Next question: where did it come from, and how do you cut something that size out of a hill?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the load is real, and it is huge. Next question: where did it come from, and how do you cut something that size out of a hill?",
+    "file": "ep/audio/s19.mp3",
+    "dur": 8.352
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide view of an ancient limestone quarry on a gentle hillside near Baalbek in the Bekaa valley, a gigantic rectangular cut limestone monolith about twenty metres long lying tilted in a pit, still partly attached to the bedrock, morning light, photoreal film still, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Line three: the cut. The source is no secret. About eight hundred to nine hundred metres from the temple lies the ancient quarry, and the stones are still there."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LINE 3",
+   "The Cut",
+   "THE QUARRY THAT KEPT ITS SECRETS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Line three: the cut. The source is no secret. About eight hundred to nine hundred metres from the temple lies the ancient quarry, and the stones are still there.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 10.776
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A gigantic rectangular limestone monolith lying at a tilt in an ancient quarry, one end raised, its top face smooth, visitors standing on top look tiny, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The most famous is the Stone of the Pregnant Woman, roughly twenty metres long and about a thousand tonnes. It lies tilted, half freed, still joined to the bedrock at its base."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The most famous is the Stone of the Pregnant Woman, roughly twenty metres long and about a thousand tonnes. It lies tilted, half freed, still joined to the bedrock at its base.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.0
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "left",
+  "prompt": "Close-up of tool marks and chisel grooves on a cut limestone quarry face, parallel channels, raking sunlight, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Unfinished blocks are a gift. They show the method in mid-step. Narrow channels were cut around the block, and the stone was split along natural layers in the rock."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Unfinished blocks are a gift. They show the method in mid-step. Narrow channels were cut around the block, and the stone was split along natural layers in the rock.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 10.704
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient quarry workers in simple tunics cutting a deep channel around a huge limestone block with iron picks, dust in the air, historical reconstruction, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The German Archaeological Institute's quarry team compares it to how Roman masons cut stone elsewhere: split from the bedrock along the natural fissures, then trimmed to shape."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The German Archaeological Institute's quarry team compares it to how Roman masons cut stone elsewhere: split from the bedrock along the natural fissures, then trimmed to shape.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 11.88
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Archaeologists in hats documenting a deep excavation trench beside an enormous buried cut stone block, measuring poles, daylight, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty fourteen that team, with Jeanine Abdul Massih of the Lebanese University, dug around the Pregnant Woman to study the cutting and transport. They documented tool marks and searched the old spoil heaps for datable pottery."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty fourteen that team, with Jeanine Abdul Massih of the Lebanese University, dug around the Pregnant Woman to study the cutting and transport. They documented tool marks and searched the old spoil heaps for datable pottery.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 15.456
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A dramatic glowing laser beam slicing through a block of stone in darkness, science fiction concept art, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The brief says lasers. But a laser leaves smooth melted faces, not chisel grooves. What the quarry shows is iron tools, wedges and patience."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The brief says lasers. But a laser leaves smooth melted faces, not chisel grooves. What the quarry shows is iron tools, wedges and patience.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden afternoon light over an ancient quarry with several giant cut stone blocks lying in pits, wide view, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So we can quote the cut: a quarry crew, iron tools, and months of work per block. Hard, slow, expensive. Not mysterious. The real question is the next line."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So we can quote the cut: a quarry crew, iron tools, and months of work per block. Hard, slow, expensive. Not mysterious. The real question is the next line.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 11.304
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "View from an ancient quarry on a slight rise looking down a gentle level slope toward the Roman temple ruins of Baalbek in the distance, morning haze, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Line four: the route. Any hauler asks this first. Is it uphill? Here is the good news for the Romans: the quarry is slightly higher than the temple platform."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LINE 4",
+   "The Route",
+   "UPHILL OR DOWNHILL?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Line four: the route. Any hauler asks this first. Is it uphill? Here is the good news for the Romans: the quarry is slightly higher than the temple platform.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "A wide earthen ramp and leveled track crossing gently sloping farmland toward an ancient temple on a rise, historical reconstruction, soft light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Researchers who studied the ground, from Jean-Pierre Adam in the nineteen seventies onward, point out that a block could travel from quarry to wall on a level or gently falling road, without ever being lifted."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Researchers who studied the ground, from Jean-Pierre Adam in the nineteen seventies onward, point out that a block could travel from quarry to wall on a level or gently falling road, without ever being lifted.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.632
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A long road of packed earth and timber sleepers prepared across open ground, Roman construction site, workers leveling it with wooden tools, cinematic historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That changes the whole job. You don't need to raise eight hundred tonnes into the sky. You need to drag it across less than a kilometre of prepared, level track."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That changes the whole job. You don't need to raise eight hundred tonnes into the sky. You need to drag it across less than a kilometre of prepared, level track.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 10.656
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "sand",
+  "motion": "left",
+  "prompt": "Close-up of a heavy timber roller under a huge stone block on a prepared track, dust, historical reconstruction, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Adam also noticed that the unfinished blocks sit raised and tilted in their pits. That leaves room to slide timber underneath as the block is freed, so it can end up on rollers without being lifted."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Adam also noticed that the unfinished blocks sit raised and tilted in their pits. That leaves room to slide timber underneath as the block is freed, so it can end up on rollers without being lifted.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 13.2
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "An ancient desert road at night under stars with a faint glowing object in the sky, mysterious, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The brief imagines anti-gravity because it assumes the stones had to fly. The route says they only had to slide."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The brief imagines anti-gravity because it assumes the stones had to fly. The route says they only had to slide.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 7.992
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A Roman engineer's wax tablet and stylus resting on a block of stone beside a coiled rope, warm light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Distance, under a kilometre. Gradient, slightly downhill. Now the expensive line: the crew and the gear."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Distance, under a kilometre. Gradient, slightly downhill. Now the expensive line: the crew and the gear.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 7.104
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A large Roman wooden capstan with long radiating push bars turned by a group of workers, thick ropes running from it, construction site, historical reconstruction, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Line five: crew and gear. The key machine is the capstan: a vertical drum with long bars. People walk in a circle, and the drum winds a rope with many times their pulling force."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LINE 5",
+   "Crew & Gear",
+   "HOW MANY HANDS?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Line five: crew and gear. The key machine is the capstan: a vertical drum with long bars. People walk in a circle, and the drum winds a rope with many times their pulling force.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 12.36
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Several Roman capstans anchored into the ground in a row with ropes converging on a giant stone block, wide aerial view of a construction site, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chain several capstans together, anchor them in the ground ahead of the block, and pull. Margarete van Ess of the German institute named the capstan as the most likely method, with sledges also under discussion."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chain several capstans together, anchor them in the ground ahead of the block, and pull. Margarete van Ess of the German institute named the capstan as the most likely method, with sledges also under discussion.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 14.424
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Dozens of workers in tunics pushing capstan bars in coordinated circles, dust and sunlight, historical reconstruction, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "How many people? An old estimate claimed forty thousand men for the Pregnant Woman. Jean-Pierre Adam worked through the mechanics and arrived at a far smaller crew: on the order of one hundred and forty-four, working capstans."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "How many people? An old estimate claimed forty thousand men for the Pregnant Woman. Jean-Pierre Adam worked through the mechanics and arrived at a far smaller crew: on the order of one hundred and forty-four, working capstans.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 15.048
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A colossal granite boulder on a huge wooden sledge being pulled by hundreds of men in eighteenth-century clothes through a winter forest, historical painting style, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Too optimistic? We have a test case. In seventeen sixty-nine and seventy, the Russians moved the Thunder Stone, a granite boulder of well over a thousand tonnes, to become the base of Peter the Great's statue."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Too optimistic? We have a test case. In seventeen sixty-nine and seventy, the Russians moved the Thunder Stone, a granite boulder of well over a thousand tonnes, to become the base of Peter the Great's statue.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 14.352
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Close-up of large bronze spheres rolling between grooved timber tracks under a heavy sledge, eighteenth-century engineering, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They used no animals and no engines. Around four hundred men dragged it on a sledge riding over bronze balls in grooved tracks, about six kilometres overland, roughly two hundred metres on a good day."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They used no animals and no engines. Around four hundred men dragged it on a sledge riding over bronze balls in grooved tracks, about six kilometres overland, roughly two hundred metres on a good day.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "The famous equestrian statue of Peter the Great on its huge rough granite pedestal in Saint Petersburg, overcast sky, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That stone was heavier than any Trilithon block, and its route was longer. The job was done with human muscle in the age of candles."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That stone was heavier than any Trilithon block, and its route was longer. The job was done with human muscle in the age of candles.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A Roman stone carving style reconstruction of a large treadwheel crane lifting a stone, workers inside the wheel, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the Romans had their own heavy kit: treadwheel cranes, compound pulleys and capstans, shown on monuments and described by engineers like Vitruvius. They lifted column parts weighing many tonnes at Baalbek itself."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the Romans had their own heavy kit: treadwheel cranes, compound pulleys and capstans, shown on monuments and described by engineers like Vitruvius. They lifted column parts weighing many tonnes at Baalbek itself.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 15.264
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A shadowy figure looking up at a pale disc of light in the night sky over an ancient stone wall, mysterious, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So line five comes out at hundreds of workers, not tens of thousands. Expensive, organised, imperial. No visitors required."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So line five comes out at hundreds of workers, not tens of thousands. Expensive, organised, imperial. No visitors required.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close view of the top edge of three colossal limestone blocks in an ancient wall, smooth tops without holes, a modern person on a ladder for scale, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Line six: the placement. Here is a clue on the stones themselves. Many Roman blocks carry lifting holes for iron grips. The Trilithon blocks show no visible lifting sockets on top."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LINE 6",
+   "The Placement",
+   "LIFTED OR SLID?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Line six: the placement. Here is a clue on the stones themselves. Many Roman blocks carry lifting holes for iron grips. The Trilithon blocks show no visible lifting sockets on top.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Diagram-like realistic reconstruction of a giant stone block sliding on timber rollers along an earthen embankment onto the top of a lower wall course, side view, historical reconstruction, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That fits the route. If the lower courses were built first and earth was banked up behind and in front of them, the big block could be slid along at ground level, straight onto its course."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That fits the route. If the lower courses were built first and earth was banked up behind and in front of them, the big block could be slid along at ground level, straight onto its course.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.52
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Workers using long wooden levers to nudge a colossal stone block into final position on a wall, dust, historical reconstruction, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the final centimetres: levers, wedges and patience, nudging it into place until the joint closes. Afterwards the temporary earth comes away, and the stone appears to float above the ground."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the final centimetres: levers, wedges and patience, nudging it into place until the joint closes. Afterwards the temporary earth comes away, and the stone appears to float above the ground.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A tight joint between two enormous ancient blocks seen at an angle in raking light, perfectly fitted, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The tight joints impress everyone. But the same precision is found across Roman architecture. Fine joints are a sign of skilled masons, not of alien machines."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The tight joints impress everyone. But the same precision is found across Roman architecture. Fine joints are a sign of skilled masons, not of alien machines.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "Science fiction concept art of a hovering craft lowering a huge stone with a beam of light onto an ancient wall at dusk, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The brief says the blocks were levitated into place. The stones themselves say they were slid. No lifting holes, a level road, and a wall built from the ground up."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The brief says the blocks were levitated into place. The stones themselves say they were slid. No lifting holes, a level road, and a wall built from the ground up.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide view of the base of the western Baalbek podium wall with the giant blocks above a lower course, early morning light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the haul and the placement are quotable. Now the paperwork. When was this job actually done, and for whom?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the haul and the placement are quotable. Now the paperwork. When was this job actually done, and for whom?",
+    "file": "ep/audio/s46.mp3",
+    "dur": 7.32
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An archaeologist's hand with a brush revealing a fragment of a carved stone column drum buried under a massive wall block, close-up, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Line seven: the paperwork. Every job leaves records. The brief says the platform is tens of thousands of years old. The site disagrees."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "LINE 7",
+   "The Paperwork",
+   "WHO SIGNED FOR THE JOB?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Line seven: the paperwork. Every job leaves records. The brief says the platform is tens of thousands of years old. The site disagrees.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A fragment of a fluted Roman column drum lying beneath a large stone block in a dim gap at the base of an ancient wall, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First clue: researchers reported part of a Roman column drum under the course that carries the Trilithon. Whatever lies under a stone was there before the stone was laid."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First clue: researchers reported part of a Roman column drum under the course that carries the Trilithon. Whatever lies under a stone was there before the stone was laid.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "right",
+  "prompt": "Faint engraved architectural line drawing of a temple gable scratched into the smooth top of a giant stone block, close-up, raking light, no lettering, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Second clue: a Roman architect's sketch of the temple's gable, engraved on top of one of the Trilithon blocks. Some scholars say a sketch alone can't date the stone. Taken with the rest, it points the same way."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second clue: a Roman architect's sketch of the temple's gable, engraved on top of one of the Trilithon blocks. Some scholars say a sketch alone can't date the stone. Taken with the rest, it points the same way.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A tall Roman column drum lying on the ground among ruins, its top surface faintly scratched, golden light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Third: a graffito on one of the top column drums shows the Temple of Jupiter was standing almost to its capitals by around AD sixty, in the reign of Nero."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Third: a graffito on one of the top column drums shows the Temple of Jupiter was standing almost to its capitals by around AD sixty, in the reign of Nero.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 11.04
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Layered excavation trench showing ancient foundation stones from different periods stacked one above another, archaeologist with measuring pole, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there is an older layer. German researchers found that a large pre-Roman terrace stood here first and was never finished. The Roman podium was wrapped around it in the first century AD."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there is an older layer. German researchers found that a large pre-Roman terrace stood here first and was never finished. The Roman podium was wrapped around it in the first century AD.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A Roman provincial governor and an architect studying a large plan unrolled on a table under an awning, temple construction in the background, historical reconstruction, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Margarete van Ess sums it up: the Temple of Jupiter was definitely built by the Romans, in at least four phases, from around fifteen BC into the early third century AD."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Margarete van Ess sums it up: the Temple of Jupiter was definitely built by the Romans, in at least four phases, from around fifteen BC into the early third century AD.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A clay tablet with weathered surface lying on dark cloth, ancient Mesopotamian object, moody light, no writing visible, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So where did the landing pad come from? In nineteen fifty-nine a Soviet mathematician, Matest Agrest, suggested the terrace was a launch site. Zecharia Sitchin later claimed the Epic of Gilgamesh describes rockets at a Landing Place here."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So where did the landing pad come from? In nineteen fifty-nine a Soviet mathematician, Matest Agrest, suggested the terrace was a launch site. Zecharia Sitchin later claimed the Epic of Gilgamesh describes rockets at a Landing Place here.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 16.824
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "An old library reading room with stacks of books and a single desk lamp, moody, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But researchers who checked point out that the Epic of Gilgamesh contains no rocket launch and no Landing Place. The paperwork for the alien theory is from the twentieth century."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But researchers who checked point out that the Epic of Gilgamesh contains no rocket launch and no Landing Place. The paperwork for the alien theory is from the twentieth century.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two gigantic cut limestone monoliths lying side by side in an excavated quarry pit, one tilted above the other, archaeologists standing on top look tiny, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Line eight: the abandoned loads. Every big job has a pile of things that went wrong. At Baalbek, they are the most impressive stones of all."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LINE 8",
+   "The Abandoned Loads",
+   "WHY LEAVE THEM BEHIND?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Line eight: the abandoned loads. Every big job has a pile of things that went wrong. At Baalbek, they are the most impressive stones of all.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 9.6
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a crack and damaged flawed edge on a huge cut limestone block in a quarry, raking light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The German team found why the Pregnant Woman stayed put. At one edge the stone quality was poor. It could have broken in transport. So they left a thousand tonnes where it lay."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The German team found why the Pregnant Woman stayed put. At one edge the stone quality was poor. It could have broken in transport. So they left a thousand tonnes where it lay.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "dust",
+  "motion": "right",
+  "prompt": "A huge partly buried rectangular limestone block emerging from the earth in a deep excavation, smooth worked faces, workers at the edge for scale, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And right beside it, in twenty fourteen, they found another. About nineteen point six metres long, six wide, at least five and a half high: roughly one thousand six hundred and fifty tonnes, the largest worked stone block known from antiquity."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And right beside it, in twenty fourteen, they found another. About nineteen point six metres long, six wide, at least five and a half high: roughly one thousand six hundred and fifty tonnes, the largest worked stone block known from antiquity.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 16.08
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A legendary scene in an ancient desert at night, shadowy giant figures beside huge stone blocks, folklore illustration style, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Local legends filled the gap long before aliens did. Giants built it for Nimrod. Solomon built it with spirits, and the blocks were left in the quarry because the spirits went on strike."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Local legends filled the gap long before aliens did. Giants built it for Nimrod. Solomon built it with spirits, and the blocks were left in the quarry because the spirits went on strike.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A pregnant woman in traditional dress standing respectfully beside a giant ancient stone block at sunset, from behind, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The stone's own name comes from a story: a pregnant woman promised to reveal how to move it, if the townspeople fed her until she gave birth. She never revealed a thing."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The stone's own name comes from a story: a pregnant woman promised to reveal how to move it, if the townspeople fed her until she gave birth. She never revealed a thing.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 11.304
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide twilight view over an ancient quarry with giant monoliths, the distant temple columns of Baalbek on the horizon, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The true open question is why so big. Van Ess says the podium stones are bigger than they need to be. Her institute studies exactly that: projects built to impress, at the edge of what was possible."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The true open question is why so big. Van Ess says the podium stones are bigger than they need to be. Her institute studies exactly that: projects built to impress, at the edge of what was possible.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 13.92
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dusk view of the six surviving giant Corinthian columns of the Temple of Jupiter at Baalbek against a deep blue sky, columns on the far right edge, large calm dark empty space on the left, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The final invoice. Let's add up every line of the quote."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "INVOICE",
+   "Final Invoice",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The final invoice. Let's add up every line of the quote.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 3.696
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dusk view of the six surviving giant Corinthian columns of the Temple of Jupiter at Baalbek against a deep blue sky, columns on the far right edge, large calm dark empty space on the left, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A quarry under a kilometre away, with matching blocks: evidence. A route that never goes uphill: evidence. Roman dating from the drum, the sketch and the AD sixty graffito: evidence. Capstans and rollers with hundreds of workers: plausible."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A quarry under a kilometre away, with matching blocks: evidence. A route that never goes uphill: evidence. Roman dating from the drum, the sketch and the AD sixty graffito: evidence. Capstans and rollers with hundreds of workers: plausible.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 17.136
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dusk view of the six surviving giant Corinthian columns of the Temple of Jupiter at Baalbek against a deep blue sky, columns on the far right edge, large calm dark empty space on the left, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "An alien landing pad: no evidence. Two thousand tons and tens of thousands of years: inflated. The exact haulage method, and why the stones are so oversized: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "An alien landing pad: no evidence. Two thousand tons and tens of thousands of years: inflated. The exact haulage method, and why the stones are so oversized: still open.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 13.176
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden sunrise behind the six giant columns of the Temple of Jupiter at Baalbek and the colossal podium wall below, cinematic photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The Trilithon was moved by Roman builders in the first century AD, from a quarry just up the road, on a route that never climbed, with capstans, rollers and a great many hands."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The Trilithon was moved by Roman builders in the first century AD, from a quarry just up the road, on a route that never climbed, with capstans, rollers and a great many hands.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of weathered human hands gripping a thick hemp rope pulled taut, dust in the air, warm light, photoreal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The job was real, and it was close to the limit of the ancient world. Just not past it. In seventeen seventy another crew moved an even heavier stone with nothing but muscle."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The job was real, and it was close to the limit of the ancient world. Just not past it. In seventeen seventy another crew moved an even heavier stone with nothing but muscle.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky full of stars above the silhouettes of the giant Roman columns of Baalbek, a few warm lights in the town below, cinematic, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What stays open is human: why one city wanted stones this big, and why they stopped. The quarry still holds the answer, under a few more metres of earth."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What stays open is human: why one city wanted stones this big, and why they stopped. The quarry still holds the answer, under a few more metres of earth.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 10.296
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single colossal limestone block faintly lit in the center against black, minimal, no text, no letters, no numbers, no writing, no inscriptions, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If you ran the haulage firm, what would you charge for this job? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If you ran the haulage firm, what would you charge for this job? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 9.408
+   }
+  ]
+ }
+]
