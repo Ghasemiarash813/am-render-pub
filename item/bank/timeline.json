@@ -1,0 +1,1320 @@
+{
+ "fps": 30,
+ "total": 25670,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 375,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the summer of nineteen forty-seven, a rancher in New Mexico found a field of strange wreckage. Foil, rubber, tape and sticks, scattered across his pasture.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 11.424,
+     "start": 10,
+     "end": 353
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 357,
+   "end": 659,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Days later, the United States Army told the world it had captured a flying disc. The next day, it said the disc was a weather balloon.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 9.0,
+     "start": 367,
+     "end": 637
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 641,
+   "end": 1008,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For eighty years, people have argued about what really fell at Roswell. A balloon? A secret spy program? Or a crashed spacecraft, with bodies, hidden ever since?",
+     "file": "ep/audio/s03.mp3",
+     "dur": 11.16,
+     "start": 651,
+     "end": 986
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 990,
+   "end": 1308,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we tell this case the way the world heard it: as one story, printed again and again. Seven editions. Each time, the headline changed.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 9.504,
+     "start": 1000,
+     "end": 1286
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1290,
+   "end": 1679,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For every edition, we check what was new, and whether the evidence held. At the end, we print the corrections. Stop the presses.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 7.896,
+     "start": 1300,
+     "end": 1537
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "EDITION 1",
+    "Army 'captures' a flying disc",
+    "ROSWELL \u00b7 8 JULY 1947"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1661,
+   "end": 2040,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Edition one. July eighth, nineteen forty-seven. The story starts weeks earlier, in June, on a sheep ranch near Corona, run by a foreman named Mac Brazel.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 11.544,
+     "start": 1671,
+     "end": 2018
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2022,
+   "end": 2421,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Brazel finds tinfoil, rubber, tape and thin wooden beams spread over several acres. He has no phone and no radio. But that summer, America has flying saucer fever.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 12.216,
+     "start": 2032,
+     "end": 2399
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2403,
+   "end": 2815,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Since pilot Kenneth Arnold reported fast, shining objects in June, there have been more than eight hundred sightings. A reward of about three thousand dollars is on offer for physical proof.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 12.648,
+     "start": 2413,
+     "end": 2793
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2797,
+   "end": 3305,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On July sixth, Brazel drives into Roswell and tells Sheriff George Wilcox. Wilcox calls Roswell Army Air Field, home of the five hundred and ninth Bomb Group, the only unit in the world that could deliver an atomic bomb.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 15.84,
+     "start": 2807,
+     "end": 3283
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3287,
+   "end": 3710,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Intelligence officer Major Jesse Marcel and Captain Sheridan Cavitt drive out to the ranch and gather the material. The base commander, Colonel William Blanchard, informs his superiors.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 13.008,
+     "start": 3297,
+     "end": 3688
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3692,
+   "end": 4097,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, on July eighth, public information officer Walter Haut issues a press release. The base has gained possession of a disc, it says, through the cooperation of a local rancher.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 12.408,
+     "start": 3702,
+     "end": 4075
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4079,
+   "end": 4569,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That afternoon the Roswell Daily Record runs it across the top of the front page: R A A F captures flying saucer on ranch in Roswell region. A local radio station's phones jam with calls from around the world.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 15.264,
+     "start": 4089,
+     "end": 4547
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "EDITION 2",
+    "It was only a weather balloon",
+    "FORT WORTH \u00b7 9 JULY 1947"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4551,
+   "end": 4916,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Edition two. July ninth. The material is flown to Fort Worth, Texas. General Roger Ramey invites the press into his office and spreads it on the floor.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 11.088,
+     "start": 4561,
+     "end": 4894
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4898,
+   "end": 5341,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His weather officer, Irving Newton, identifies it: the remains of a weather balloon and a radar target, a kite of sticks and foil. Similar targets, he says, fly from about eighty weather stations.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 13.68,
+     "start": 4908,
+     "end": 5319
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5323,
+   "end": 5735,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Major Marcel is photographed holding the foil. Back in Roswell, Brazel gives an interview. He describes rubber strips, tinfoil, paper, tape and sticks, about five pounds of it in all.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 12.648,
+     "start": 5333,
+     "end": 5713
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5717,
+   "end": 6029,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No metal. No engine. No propellers. But one odd detail: some of the tape had flowers printed on it. Remember that tape. It comes back.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 9.312,
+     "start": 5727,
+     "end": 6007
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6011,
+   "end": 6413,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That same day, the FBI's Dallas office sends a teletype to Washington. The object, it says, is hexagonal, and was hanging from a balloon about twenty feet across by a cable.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.312,
+     "start": 6021,
+     "end": 6391
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6395,
+   "end": 6800,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And Brazel adds a line that believers still quote: he is sure that what he found was not any weather observation balloon. He has found weather balloons before, he says. This was different.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 12.432,
+     "start": 6405,
+     "end": 6778
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6782,
+   "end": 7182,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice that both stories can be partly true. Brazel was right that it was not an ordinary weather balloon. Ramey was right that it was a balloon. The question is: what kind?",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.264,
+     "start": 6792,
+     "end": 7160
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7164,
+   "end": 7551,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Within days the story dies. A crashed disc in Idaho turns out to be a hoax built from jukebox parts. Roswell disappears from the papers. For thirty-one years.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 11.832,
+     "start": 7174,
+     "end": 7529
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "EDITION 3",
+    "Officer: it was a cover story",
+    "1978 \u2013 1980"
+   ],
+   "img": "ep/img/shot_21.jpg",
+   "start": 7533,
+   "end": 7869,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Edition three. Nineteen seventy-eight. A nuclear physicist turned UFO researcher, Stanton Friedman, tracks down the retired Jesse Marcel.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 10.104,
+     "start": 7543,
+     "end": 7847
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7851,
+   "end": 8212,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Marcel says the weather balloon was a cover story, and that he now believes the debris was not from Earth. He describes a foil that could be crumpled, and would spring back flat.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.944,
+     "start": 7861,
+     "end": 8190
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8194,
+   "end": 8538,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen eighty, on national television, he says the general told the press it was a weather balloon. Of course, Marcel adds, we both knew differently.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.368,
+     "start": 8204,
+     "end": 8516
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8520,
+   "end": 9056,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His son, ten years old in nineteen forty-seven, remembers a small beam with purple hieroglyphics. But here is the flower tape again. The Air Force later showed the balloons used tape from a New York toy maker, printed with abstract flower patterns.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 16.8,
+     "start": 8530,
+     "end": 9034
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9038,
+   "end": 9415,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then comes the book. In October nineteen eighty, Charles Berlitz and William Moore publish The Roswell Incident. A craft struck by lightning. And something new: bodies.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 11.496,
+     "start": 9048,
+     "end": 9393
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9397,
+   "end": 9800,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The bodies come from a second-hand story, told by a man who had died years earlier, set about a hundred and fifty miles away. Marcel himself never mentioned bodies. Not once.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 12.36,
+     "start": 9407,
+     "end": 9778
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9782,
+   "end": 10150,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And Brazel's daughter, fourteen at the time, remembers what she helped pick up: waxed paper, aluminum-like foil, and tape that showed pastel flowers when held to the light.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.184,
+     "start": 9792,
+     "end": 10128
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "EDITION 4",
+    "Bodies, documents, witnesses",
+    "1984 \u2013 1994"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 10132,
+   "end": 10653,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Edition four. Nineteen eighty-four to ninety-four. The story grows. In December nineteen eighty-four, a TV producer receives an anonymous envelope: film of secret documents describing a committee called Majestic Twelve.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 16.296,
+     "start": 10142,
+     "end": 10631
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10635,
+   "end": 11153,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The documents fall apart under scrutiny. A President Truman signature is identical to one on a real letter from October nineteen forty-seven. Every recipient connects back to William Moore, who later confessed to feeding fakes to researchers.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 16.2,
+     "start": 10645,
+     "end": 11131
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11135,
+   "end": 11550,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen eighty-nine, a former Roswell mortician, Glenn Dennis, describes calls from the base asking about small caskets, and a nurse who told him she had seen an alien autopsy.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 12.744,
+     "start": 11145,
+     "end": 11528
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11532,
+   "end": 11842,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Researchers search for the nurse. No record. Dennis gives a second name. No record again. In the end, he admits he made up both names.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 9.264,
+     "start": 11542,
+     "end": 11820
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11824,
+   "end": 12188,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It does not matter. That year, twenty-eight million people watch Roswell on Unsolved Mysteries. Books follow. One sells a hundred and sixty thousand copies.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 11.064,
+     "start": 11834,
+     "end": 12166
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "right",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12170,
+   "end": 12624,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some three hundred people come forward. Yet, as one historian wrote, the more information arrived, the less clear Roswell became. Of all those people, only about two dozen could plausibly have seen any debris.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 14.064,
+     "start": 12180,
+     "end": 12602
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12606,
+   "end": 13045,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The crash site moves. The number of saucers goes up to two. The aliens grow to eight, two of them alive. One witness even recalls eleven golden helmets. The researchers split into rival camps.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 13.536,
+     "start": 12616,
+     "end": 13023
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13027,
+   "end": 13440,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But one admission is real. In nineteen ninety-one, General Thomas DuBose, who had posed with the debris, confirms the weather balloon was a cover story. The question is: covering what?",
+     "file": "ep/audio/s35.mp3",
+     "dur": 12.672,
+     "start": 13037,
+     "end": 13418
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "EDITION 5",
+    "Air Force: it was Project Mogul",
+    "1994 \u2013 1995"
+   ],
+   "img": "ep/img/shot_36.jpg",
+   "start": 13422,
+   "end": 13917,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Edition five. Nineteen ninety-four. After a congressman, Steven Schiff of New Mexico, demands answers, the Air Force searches its archives. Its report says: the weather balloon story was a cover. For Project Mogul.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 15.432,
+     "start": 13432,
+     "end": 13895
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13899,
+   "end": 14324,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mogul was top secret. The idea: Soviet atomic tests would send low sound waves around the planet through a channel high in the atmosphere. Balloons carrying microphones could hear them.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 13.08,
+     "start": 13909,
+     "end": 14302
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14306,
+   "end": 14755,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On June fourth, nineteen forty-seven, a New York University team launches flight number four from Alamogordo: a chain of balloons, radar reflectors and equipment, about six hundred feet long.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 13.896,
+     "start": 14316,
+     "end": 14733
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14737,
+   "end": 15153,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They lose track of it within seventeen miles of Brazel's ranch. The flight is not recovered. Mogul's records do not prove its exact path, but it was heading the right way at the right time.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 12.768,
+     "start": 14747,
+     "end": 15131
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15135,
+   "end": 15665,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the odd details fit. Foil and sticks: the radar reflectors. Grey rubber and waxed paper: the balloons and their gear. Flower tape: the toy maker's tape. And a hexagon hanging from a balloon: exactly what the FBI described.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 16.584,
+     "start": 15145,
+     "end": 15643
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15647,
+   "end": 15989,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Captain Cavitt, who gathered the debris beside Marcel, gives a sworn statement: I thought at the time and think so now, that this debris was from a crashed balloon.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 10.32,
+     "start": 15657,
+     "end": 15967
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15971,
+   "end": 16593,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the General Accounting Office reports. It finds a red flag: Roswell base records, all the administrative files from nineteen forty-five to forty-nine, and all outgoing messages from late nineteen forty-six to forty-nine, were destroyed. Nobody recorded who, when, or why.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 19.656,
+     "start": 15981,
+     "end": 16571
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16575,
+   "end": 17065,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Believers see a cover-up. And there was one: the Army really did hide what it found. But the records cover years of routine paperwork, and the two documents from nineteen forty-seven that survive both describe a balloon.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 15.264,
+     "start": 16585,
+     "end": 17043
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "EDITION 6",
+    "The autopsy film and the dummies",
+    "1995 \u2013 1997"
+   ],
+   "img": "ep/img/shot_44.jpg",
+   "start": 17047,
+   "end": 17518,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Edition six. Nineteen ninety-five. Just as the Air Force says balloon, a British entrepreneur, Ray Santilli, releases black and white film of an alien autopsy, supposedly shot after Roswell.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 14.616,
+     "start": 17057,
+     "end": 17496
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 17500,
+   "end": 17811,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "More than twenty million people watch it. The cameraman he named had never served in the military. Hollywood effects experts call it fake.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 9.288,
+     "start": 17510,
+     "end": 17789
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "F",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17793,
+   "end": 18236,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand six, Santilli admits it: the film was staged, shot on a set built in a London living room. He still claims he was restoring real footage he once saw. No one has ever produced it.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 13.68,
+     "start": 17803,
+     "end": 18214
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 18218,
+   "end": 18650,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen ninety-seven, fifty years after Roswell, the Air Force releases a second report, Case Closed. It proposes that many stories of alien bodies were really memories of something else.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 13.32,
+     "start": 18228,
+     "end": 18628
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18632,
+   "end": 19133,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the nineteen-fifties, the Air Force dropped human-shaped test dummies from high balloons over New Mexico. They were bald, wore flight suits, and were collected on stretchers, sometimes in insulated bags that looked like body bags.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 15.624,
+     "start": 18642,
+     "end": 19111
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 19115,
+   "end": 19589,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the timing is a problem. Those drops began years after nineteen forty-seven. The Air Force argued that, decades later, memories had merged. Critics called that a stretch, and on this point they had a fair argument.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 14.712,
+     "start": 19125,
+     "end": 19567
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 19571,
+   "end": 20025,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The same year, a retired officer published a book claiming Roswell technology won the Cold War. A senator who had written its foreword demanded his name be removed. He had been told it was a different book.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 14.04,
+     "start": 19581,
+     "end": 20003
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "EDITION 7",
+    "The sealed affidavit",
+    "2002 \u2013 2026"
+   ],
+   "img": "ep/img/shot_51.jpg",
+   "start": 20007,
+   "end": 20444,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Edition seven. The latest. December twenty-sixth, two thousand two. Walter Haut, the officer who wrote the flying disc press release, signs a sealed statement, to be opened only after his death.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 13.488,
+     "start": 20017,
+     "end": 20422
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 20426,
+   "end": 20821,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Published in two thousand seven, it says the colonel took him into a hangar. There he saw a metallic egg-shaped craft, twelve to fifteen feet long, and two small bodies under a canvas sheet.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 12.096,
+     "start": 20436,
+     "end": 20799
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 20803,
+   "end": 21252,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And in October twenty twenty-six, it is back in the news. The Pentagon's seventh release of UFO files includes the same affidavit, redacted, inside a two thousand eight contractor report.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 13.872,
+     "start": 20813,
+     "end": 21230
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 21234,
+   "end": 21723,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So how strong is it? It is the testimony of a man in his eighties, fifty-five years later. The text was drafted by a UFO researcher and emailed to his family. He signed it at the UFO museum he had co-founded.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 15.216,
+     "start": 21244,
+     "end": 21701
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 21705,
+   "end": 22180,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In an earlier sworn statement, in nineteen ninety-three, Haut described issuing the press release, and nothing about a craft or bodies. His own daughter said that for years, he told her only one thing: I put out the press release.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 14.736,
+     "start": 21715,
+     "end": 22158
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 22162,
+   "end": 22702,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Meanwhile, the Pentagon's own UFO office reviewed every official investigation since nineteen forty-five. In twenty twenty-four it reported no evidence of extraterrestrial technology, and pointed back to the Roswell reports of the nineties.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 16.92,
+     "start": 22172,
+     "end": 22680
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 22684,
+   "end": 23073,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today, Roswell welcomes around ninety thousand visitors a year. Its street lamps have alien eyes. The story became bigger than the debris. Time to print the corrections.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 11.88,
+     "start": 22694,
+     "end": 23051
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "THE CORRECTIONS",
+    "Evidence vs Theory",
+    "SEVEN EDITIONS, SCORED"
+   ],
+   "img": "ep/img/shot_58.jpg",
+   "start": 23055,
+   "end": 23197,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The corrections. Seven editions, scored against the evidence.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 3.648,
+     "start": 23065,
+     "end": 23175
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 23179,
+   "end": 23792,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The debris was foil, rubber, paper, tape and sticks: evidence. It matches a Project Mogul balloon train, down to the flower tape: evidence. The weather balloon story was a cover, admitted by DuBose and the Air Force: evidence. Mogul flight four was lost near the ranch that June: evidence.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 19.344,
+     "start": 23189,
+     "end": 23770
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 23774,
+   "end": 24287,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alien bodies: no evidence, only late, second-hand and contradictory stories, and an invented nurse. The autopsy film and the Majestic Twelve papers: debunked. Exactly which flight, and why base records were destroyed: still open.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 16.032,
+     "start": 23784,
+     "end": 24265
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 24269,
+   "end": 24732,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Something really did crash at Roswell, and the Army really did lie about it. But the secret was not a saucer. It was a Cold War listening device, a string of balloons built to hear Soviet bombs.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 14.352,
+     "start": 24279,
+     "end": 24710
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 24714,
+   "end": 25071,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The bodies, the craft and the autopsy were added later, edition by edition, by people who were never on that ranch. The real debris weighed about five pounds.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 10.824,
+     "start": 24724,
+     "end": 25049
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 25053,
+   "end": 25383,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Roswell is not proof that we were visited. It is proof of how a story can outgrow its facts, and how a secret, kept badly, becomes a legend.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 9.912,
+     "start": 25063,
+     "end": 25361
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 25365,
+   "end": 25595,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which edition fooled you longest? Tell us in the comments, and subscribe for the next case put to the test.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 6.576,
+     "start": 25375,
+     "end": 25573
+    }
+   ]
+  }
+ ]
+}
