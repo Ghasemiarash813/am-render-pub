@@ -1,0 +1,1449 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A dim private museum at night, long wooden shelves crowded with hundreds of dark engraved river stones of many sizes, a single warm spotlight, dust in the air, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Good evening, and welcome. The lights are low, and the shelves around you hold thousands of dark stones from the deserts of southern Peru."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Good evening, and welcome. The lights are low, and the shelves around you hold thousands of dark stones from the deserts of southern Peru.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 9.048
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of an engraved grey andesite river stone with a dark brown-black patina, the design scratched in pale lines showing a long-necked dinosaur and a small human figure with a feather headdress, raking light, macro photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look closely at this one. A long-necked dinosaur. And beside it, a human being, hunting it. On another shelf, men perform heart surgery. On another, a man studies the sky through a telescope."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look closely at this one. A long-necked dinosaur. And beside it, a human being, hunting it. On another shelf, men perform heart surgery. On another, a man studies the sky through a telescope.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.224
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept, a glowing spacecraft rising over a dark Peruvian desert plain at night with stars, ancient engraved stones in the foreground, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The man who built this collection believed these stones were a library left by a lost human race, older than the dinosaurs' extinction, who finally departed for the stars."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The man who built this collection believed these stones were a library left by a lost human race, older than the dinosaurs' extinction, who finally departed for the stars.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 11.4
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An old-fashioned handheld museum audio guide device with a single glowing button resting on a wooden display case beside engraved stones, moody light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight I am your audio guide. We will walk through the museum one room at a time. In each room, we hear what the stones are said to show, and then what the evidence says."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight I am your audio guide. We will walk through the museum one room at a time. In each room, we hear what the stones are said to show, and then what the evidence says.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 11.544
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Wide view of a museum corridor at night with seven dark doorways, warm lamps, shelves of stones, inviting, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seven rooms. One exit, where we sign the guestbook and give our verdict. Press play, and step inside."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seven rooms. One exit, where we sign the guestbook and give our verdict. Press play, and step inside.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 6.792
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Sunny colonial town square in a Peruvian desert oasis town in the 1960s, palm trees, cathedral facade, vintage photo look, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Room one: the birthday stone. Our story begins in Ica, a desert town about three hundred kilometres south of Lima, on the thirteenth of May, nineteen sixty-six."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "ROOM 1",
+   "The Birthday Stone",
+   "ICA \u00b7 13 MAY 1966"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Room one: the birthday stone. Our story begins in Ica, a desert town about three hundred kilometres south of Lima, on the thirteenth of May, nineteen sixty-six.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1960s middle-aged Peruvian doctor in a white coat at his desk holding a small dark engraved river stone up to a desk lamp, vintage photo look, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is the forty-second birthday of a respected physician, Dr Javier Cabrera Darquea. His friend, the photographer F\u00e9lix Llosa Romero, hands him a present: a small stone with a picture scratched into it."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is the forty-second birthday of a respected physician, Dr Javier Cabrera Darquea. His friend, the photographer F\u00e9lix Llosa Romero, hands him a present: a small stone with a picture scratched into it.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 15.6
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Macro of a small engraved grey andesite river stone with a dark brown-black patina, the design scratched in pale lines showing a simple stylised fish, warm desk lamp light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cabrera decides the picture shows a fish that has been extinct for millions of years. Which fish? He never said. Why extinct? He never explained. But from that moment, he was hooked."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cabrera decides the picture shows a fish that has been extinct for millions of years. Which fish? He never said. Why extinct? He never explained. But from that moment, he was hooked.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 12.216
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two well-dressed men in 1960s clothes showing wooden crates full of engraved dark stones in a dusty courtyard, vintage photo look, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two brothers, Carlos and Pablo Soldi, had thousands of similar stones. They said a flood of the Ica River in nineteen sixty-one had washed them out of the ground near Ocucaje. Cabrera bought three hundred and forty-one."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two brothers, Carlos and Pablo Soldi, had thousands of similar stones. They said a flood of the Ica River in nineteen sixty-one had washed them out of the ground near Ocucaje. Cabrera bought three hundred and forty-one.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 15.912
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A farmer in a straw hat on a donkey path in a green irrigated valley in the Peruvian desert, sacks on the donkey, sunset, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then he found a supplier who could bring him far more. A farmer named Basilio Uschuya. Over the following years, the stones arrived by the thousands. Remember that name. We will meet him again in room five."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then he found a supplier who could bring him far more. A farmer named Basilio Uschuya. Over the following years, the stones arrived by the thousands. Remember that name. We will meet him again in room five.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Archaeologist and architect in 1960s field clothes kneeling at an open desert tomb with brushes, a small dark stone in the sand, vintage photo look, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Meanwhile, something happened that the legend rarely mentions. In nineteen sixty-six, the architect Santiago Agurto Calvo and the Ica museum curator Alejandro Pezzia dug in ancient cemeteries, and reported small engraved stones inside real tombs."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Meanwhile, something happened that the legend rarely mentions. In nineteen sixty-six, the architect Santiago Agurto Calvo and the Ica museum curator Alejandro Pezzia dug in ancient cemeteries, and reported small engraved stones inside real tombs.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 19.104
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Three small dark river stones on a museum cloth, each engraved with a simple pale motif, a flower, a fish, and a llama, soft light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What did those stones show? A flower. A fish. A llama. No dinosaurs. No surgeons. Hold on to that difference. It is the most important clue in the building."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What did those stones show? A flower. A fish. A llama. No dinosaurs. No surgeons. Hold on to that difference. It is the most important clue in the building.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Museum room at night with tall shelves of engraved stones showing dinosaur shapes, a warm spotlight on the central shelf, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Room two: the dinosaurs. This is the room that made the museum famous. Long-necked giants, horned beasts, plated backs and flying reptiles."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "ROOM 2",
+   "The Dinosaurs",
+   "66 MILLION YEARS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Room two: the dinosaurs. This is the room that made the museum famous. Long-necked giants, horned beasts, plated backs and flying reptiles.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Large engraved grey andesite river stone with a dark brown-black patina, the design scratched in pale lines showing stylised human hunters with axes attacking a big sauropod dinosaur, dramatic raking light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "People are shown hunting them, fighting them, even riding them. Fans point to one scene where hunters strike at a precise spot on a dinosaur's spine, as if they knew its anatomy."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "People are shown hunting them, fighting them, even riding them. Fans point to one scene where hunters strike at a precise spot on a dinosaur's spine, as if they knew its anatomy.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 12.048
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept image, ancient Peruvian warriors in feather headdresses facing a giant sauropod dinosaur on a desert plain at dusk, epic cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If these were made by eyewitnesses, it would rewrite everything. Humans and dinosaurs together. Young-earth creationists still say so."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If these were made by eyewitnesses, it would rewrite everything. Humans and dinosaurs together. Young-earth creationists still say so.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 8.832
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Geological cliff face with clearly visible rock layers in the Peruvian desert, a person small for scale, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the evidence. The last non-avian dinosaurs died out about sixty-six million years ago. No dinosaur fossil has ever been dated to the age of humans, and no dinosaur remains are known around Ica at all."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the evidence. The last non-avian dinosaurs died out about sixty-six million years ago. No dinosaur fossil has ever been dated to the age of humans, and no dinosaur remains are known around Ica at all.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 15.192
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Vintage 1960s museum diorama of a tyrannosaur model standing upright like a kangaroo with its tail dragging on the ground, old museum hall, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And look at how they are drawn. The big meat-eater stands upright, its tail dragging on the ground. That is exactly how museums and films showed dinosaurs in the nineteen sixties."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And look at how they are drawn. The big meat-eater stands upright, its tail dragging on the ground. That is exactly how museums and films showed dinosaurs in the nineteen sixties.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.216
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Modern scientifically accurate tyrannosaur skeleton in a museum, body horizontal, tail held straight out behind, dramatic lighting, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Real eyewitnesses would have drawn the real animal. These stones drew the textbook of their own decade, including its mistakes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Real eyewitnesses would have drawn the real animal. These stones drew the textbook of their own decade, including its mistakes.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 8.568
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of an engraved grey andesite river stone with a dark brown-black patina, the design scratched in pale lines showing a crude theropod dinosaur with five long fingers on each hand, raking light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some meat-eaters have five fingers and five toes, which no fossil supports. Some stones show horned dinosaurs of a kind never found in South America. Others show dinosaurs hatching as larvae and changing shape like insects."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some meat-eaters have five fingers and five toes, which no fossil supports. Some stones show horned dinosaurs of a kind never found in South America. Others show dinosaurs hatching as larvae and changing shape like insects.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 16.104
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of an engraved grey andesite river stone with a dark brown-black patina, the design scratched in pale lines showing a small human figure riding on the back of a flying pterosaur, raking light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here, a man rides a flying reptile like a horse. A real Pteranodon could never have lifted a human."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here, a man rides a flying reptile like a horse. A real Pteranodon could never have lifted a human.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 7.752
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark engraved dinosaur stone next to an old 1960s children's dinosaur picture book lying closed on a wooden table, soft lamp light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One more detail. The stones only show prehistoric animals that scientists already knew about in the nineteen sixties. Not a single new species. The library, it seems, was borrowed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One more detail. The stones only show prehistoric animals that scientists already knew about in the nineteen sixties. Not a single new species. The library, it seems, was borrowed.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Museum room with a glass case of engraved stones showing stylised human figures lying on tables, cold blue light, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Room three: the surgeons. Cabrera was a doctor, and these were the stones he showed the world first. Heart transplants. Brain operations. Caesarean births. Kidney and liver transplants."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "ROOM 3",
+   "The Surgeons",
+   "TRANSPLANTS IN STONE?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Room three: the surgeons. Cabrera was a doctor, and these were the stones he showed the world first. Heart transplants. Brain operations. Caesarean births. Kidney and liver transplants.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of an engraved grey andesite river stone with a dark brown-black patina, the design scratched in pale lines showing a stylised figure lying down while another figure bends over its open chest, raking light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Supporters say only a culture with modern medicine could have drawn this."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Supporters say only a culture with modern medicine could have drawn this.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 4.2
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of an engraved grey andesite river stone with a dark brown-black patina, the design scratched in pale lines showing stylised figures in loincloths and feather headdresses holding stone axes and spears, raking light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But look at the surgeons. Big heads, long noses, loincloths and feather headdresses. In battle scenes they fight with axes and spears. A civilization that transplants hearts, but still fights with spears?"
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But look at the surgeons. Big heads, long noses, loincloths and feather headdresses. In battle scenes they fight with axes and spears. A civilization that transplants hearts, but still fights with spears?",
+    "file": "ep/audio/s24.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Black and white 1960s photo style of a busy operating theatre with surgeons in masks under big round lamps, documentary look, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now notice the timing. The first human heart transplant made world headlines in December nineteen sixty-seven, in Cape Town. The surgery stones became famous in the years right after. On its own, that proves nothing."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now notice the timing. The first human heart transplant made world headlines in December nineteen sixty-seven, in Cape Town. The surgery stones became famous in the years right after. On its own, that proves nothing.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 15.36
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A doctor's sketchbook open on a desk with pencil drawings of human figures and organs, no words, a dark engraved stone beside it, lamp light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there is a stranger detail, which we will hear in room five: one maker later said he engraved stones from drawings that Cabrera himself brought to him."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there is a stranger detail, which we will hear in room five: one maker later said he engraved stones from drawings that Cabrera himself brought to him.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 10.632
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A row of dark engraved stones on a museum shelf, the designs stylised and ambiguous, some figures could be birds or people, soft light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Skeptics also note how open these pictures are to reading. An open chest could be mutilation or a ritual, not a transplant."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Skeptics also note how open these pictures are to reading. An open chest could be mutilation or a ritual, not a transplant.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A single engraved stone under a museum spotlight, the glass case reflecting the room, quiet, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Surgery stones, then, tell us a lot about the world of the nineteen sixties, and about the man who collected them. About ancient Peru, so far, they tell us very little."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Surgery stones, then, tell us a lot about the world of the nineteen sixties, and about the man who collected them. About ancient Peru, so far, they tell us very little.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Museum room with a domed dark ceiling painted with faint stars, shelves of engraved stones, blue moonlight, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Room four: the sky. Here are the astronomers. Men with what look like telescopes, watching comets. And flying machines."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "ROOM 4",
+   "The Sky",
+   "PLEIADES \u00b7 NAZCA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Room four: the sky. Here are the astronomers. Men with what look like telescopes, watching comets. And flying machines.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 8.088
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of an engraved grey andesite river stone with a dark brown-black patina, the design scratched in pale lines showing a stylised human figure holding a long tube pointed at a star, raking light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One ancient mysteries author, David Hatcher Childress, joked that the telescope stone could just as easily show a game of prehistoric tennis. And many of the flying machines look a lot like birds."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One ancient mysteries author, David Hatcher Childress, joked that the telescope stone could just as easily show a game of prehistoric tennis. And many of the flying machines look a lot like birds.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 14.064
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept, tall big-headed humanoid figures in robes standing on a desert plateau at night under the Pleiades star cluster, glowing, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cabrera went much further. He wrote that the stones were made by Gliptolithic Man: humans with bigger brains, who used psychic energy to influence the heavens, and who existed at least four hundred and five million years ago."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cabrera went much further. He wrote that the stones were made by Gliptolithic Man: humans with bigger brains, who used psychic energy to influence the heavens, and who existed at least four hundred and five million years ago.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 15.432
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept, an electromagnetic spacecraft launching from a vast desert plain with long straight lines at night toward a bright star cluster, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Before a great comet struck, he said, they left Earth for a planet in the Pleiades, launching their craft from the plains of Nazca, which he called an ancient spaceport. And they had built the pyramids of Egypt along the way."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Before a great comet struck, he said, they left Earth for a planet in the Pleiades, launching their craft from the plains of Nazca, which he called an ancient spaceport. And they had built the pyramids of Egypt along the way.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 14.52
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1970s paperback books stacked on a table beside a dark engraved stone, covers showing only abstract cosmic art, no words, warm light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ancient astronaut writers of the nineteen seventies, Erich von D\u00e4niken and Robert Charroux among them, carried the stones to a worldwide audience. The Nazca desert has its own disputed bodies, a separate case file."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ancient astronaut writers of the nineteen seventies, Erich von D\u00e4niken and Robert Charroux among them, carried the stones to a worldwide audience. The Nazca desert has its own disputed bodies, a separate case file.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 15.408
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small simple house in a Peruvian desert village at dusk, a lone light in the window, dusty road, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But even among fringe writers, Cabrera's cosmic history found few followers. Over time, von D\u00e4niken himself concluded that many of the stones were most likely fakes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But even among fringe writers, Cabrera's cosmic history found few followers. Over time, von D\u00e4niken himself concluded that many of the stones were most likely fakes.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A single engraved stone showing a crude star pattern under soft blue light in a dark museum case, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which brings us to the obvious question. If the stones were not made by sky people, who made them? For that, we have to leave the museum and visit a farm."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which brings us to the obvious question. If the stones were not made by sky people, who made them? For that, we have to leave the museum and visit a farm.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Rustic adobe farm workshop in an irrigated desert valley in Peru, a wooden workbench with river stones and simple hand tools, afternoon sun through the doorway, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Room five: the workshop. This room is not in the museum at all. It is a farmhouse in Callango, in the Ica valley, home of Basilio Uschuya and his wife, Irma Guti\u00e9rrez."
+   ]
+  ],
+  "tag": "F",
+  "ch": [
+   "ROOM 5",
+   "The Workshop",
+   "CALLANGO \u00b7 1975"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Room five: the workshop. This room is not in the museum at all. It is a farmhouse in Callango, in the Ica valley, home of Basilio Uschuya and his wife, Irma Guti\u00e9rrez.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Stack of vintage 1960s comic books and school textbooks on a rough wooden table, covers showing only colourful drawings of dinosaurs, no words, sunlight, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In January nineteen seventy-five, a Peruvian magazine called Mundial published an interview with the couple. Every stone they had sold to Cabrera, they said, they had engraved themselves. The pictures came from comic books, school books and magazines."
+   ]
+  ],
+  "tag": "F",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In January nineteen seventy-five, a Peruvian magazine called Mundial published an interview with the couple. Every stone they had sold to Cabrera, they said, they had engraved themselves. The pictures came from comic books, school books and magazines.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 17.376
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Weathered hands of a Peruvian farmer engraving a design into a dark river stone with a small handheld rotary dental drill, fine dust, close-up, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their tools were simple: knives, chisels, and a dentist's drill. The designs are not carved deep into the hard rock. They are scratched through a thin dark skin on the surface."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their tools were simple: knives, chisels, and a dentist's drill. The designs are not carved deep into the hard rock. They are scratched through a thin dark skin on the surface.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.904
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Dark engraved river stones half buried in dry dung inside a clay outdoor oven in a farmyard, smoke, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the aging. The fresh stones were baked in cow and donkey dung, and rubbed with boot polish, to darken the scratches."
+   ]
+  ],
+  "tag": "F",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the aging. The fresh stones were baked in cow and donkey dung, and rubbed with boot polish, to darken the scratches.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 7.776
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Chickens pecking in a dusty farmyard poultry pen with dark engraved river stones scattered on the ground, warm afternoon light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Another time, Basilio described an easier recipe. Put the engraved stones in the chicken pen, he said, and the chickens did the rest."
+   ]
+  ],
+  "tag": "F",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Another time, Basilio described an easier recipe. Put the engraved stones in the chicken pen, he said, and the chickens did the rest.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 9.384
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1970s documentary film crew with a large film camera and a boom microphone filming a farmer at a workbench in a desert farmyard, vintage photo look, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen seventy-seven a BBC film crew came to Ica. Producer Ray Sutcliffe described Basilio as intelligent, proud of his work, with a great sense of humour."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen seventy-seven a BBC film crew came to Ica. Producer Ray Sutcliffe described Basilio as intelligent, proud of his work, with a great sense of humour.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.552
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a small freshly engraved dark pebble sitting on a farmer's palm, pale fresh scratches, dental drill nearby, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For the camera, he took a fresh stone, switched on his drill, and engraved an ancient-looking picture in minutes. A simple stone can take about fifteen minutes."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For the camera, he took a fresh stone, switched on his drill, and engraved an ancient-looking picture in minutes. A simple stone can take about fifteen minutes.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.2
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A Peruvian farmer in a straw hat smiling and resting by a dry irrigated field, holding a dark engraved stone, golden hour, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why do it? His answer was disarmingly honest. Making these stones, he said, is easier than farming the land."
+   ]
+  ],
+  "tag": "F",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why do it? His answer was disarmingly honest. Making these stones, he said, is easier than farming the land.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 7.656
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1970s Peruvian police station interior with a wooden desk and an empty chair, harsh light, vintage photo look, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There was a catch. Selling genuine Peruvian antiquities is illegal. After the BBC film, the authorities arrested Basilio. Under questioning he repeated it: the stones were his own work. He was released, and kept selling them, openly, as crafts."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There was a catch. Selling genuine Peruvian antiquities is illegal. After the BBC film, the authorities arrested Basilio. Under questioning he repeated it: the stones were his own work. He was released, and kept selling them, openly, as crafts.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 17.328
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Several dark engraved stones being sold on a blanket at a dusty roadside market in Peru, tourists' shadows, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He was not alone. Other local makers, including Pedro Huam\u00e1n and Aparicio Aparcana, also admitted to engraving stones. Ica had a cottage industry."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He was not alone. Other local makers, including Pedro Huam\u00e1n and Aparicio Aparcana, also admitted to engraving stones. Ica had a cottage industry.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Clean modern geology laboratory at night with a stereo microscope and a dark engraved stone under a ring light, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Room six: the laboratory. Believers answered the confession with one strong argument: the stones are covered in an ancient patina. Surely that proves their age?"
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "ROOM 6",
+   "The Laboratory",
+   "PATINA \u00b7 GROOVES \u00b7 TOOL MARKS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Room six: the laboratory. Believers answered the confession with one strong argument: the stones are covered in an ancient patina. Surely that proves their age?",
+    "file": "ep/audio/s46.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Extreme macro of a dark weathered andesite stone surface with a thin brown rind and a fresh pale scratched groove cutting through it, microscope view, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the key. The stone itself can be very old. Andesite weathers slowly, forming a thin, soft rind. But the age of a stone is not the age of the picture scratched into it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the key. The stone itself can be very old. Andesite weathers slowly, forming a thin, soft rind. But the age of a stone is not the age of the picture scratched into it.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 12.768
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Microscope view comparing a weathered dark stone surface with a clean sharp pale groove edge, scientific illustration style photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "When the BBC's stone was examined in London, the rock looked ancient, but the edges of the engraving were clean and sharp, cut after the surface had weathered. Investigator Neil Steede saw the same thing: patina on the stone, none inside the grooves."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "When the BBC's stone was examined in London, the rock looked ancient, but the edges of the engraving were clean and sharp, cut after the surface had weathered. Investigator Neil Steede saw the same thing: patina on the stone, none inside the grooves.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 17.088
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of fine parallel sanding scratches and saw marks inside a groove on a dark stone under a microscope, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the early nineteen nineties, stones examined in Barcelona showed traces of modern work: sandpaper, saws and acid."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the early nineteen nineties, stones examined in Barcelona showed traces of modern work: sandpaper, saws and acid.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 8.76
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An old typed laboratory report page with blurred unreadable lines lying beside a stone, shallow depth of field so nothing is legible, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What about Cabrera's own tests? He said a professor in Bonn and a mining engineer friend had confirmed the age. No laboratory report from Bonn has ever been produced."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What about Cabrera's own tests? He said a professor in Bonn and a mining engineer friend had confirmed the age. No laboratory report from Bonn has ever been produced.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Strange small clay figurines of baby dinosaurs hatching from eggs on a dusty shelf in a dim back room, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came the clay. In nineteen ninety-seven, a German TV crew filmed a back room full of clay figurines: dinosaurs hatching from eggs, even kangaroos. Basilio said he had made those too. Clay, unlike stone, can be tested."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came the clay. In nineteen ninety-seven, a German TV crew filmed a back room full of clay figurines: dinosaurs hatching from eggs, even kangaroos. Basilio said he had made those too. Clay, unlike stone, can be tested.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 16.44
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Scientist in a lab coat holding a small broken clay figurine arm with tweezers over a sample dish, laboratory, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Von D\u00e4niken broke an arm off one figurine and sent it to a laboratory in Zurich. The answer: modern. Samples sent to Weimar came back relatively young, still containing water."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Von D\u00e4niken broke an arm off one figurine and sent it to a laboratory in Zurich. The answer: modern. Samples sent to Weimar came back relatively young, still containing water.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 13.464
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark stone with a white mineral crust on a laboratory bench, soft cold light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Supporters cite a two thousand three test dating a mineral crust on some stones to tens of thousands of years. It appeared in a believers' book, and it dates the crust, not the drawing."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Supporters cite a two thousand three test dating a mineral crust on some stones to tens of thousands of years. It appeared in a believers' book, and it dates the crust, not the drawing.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A heavy old wooden door with iron bands at the end of a dark museum corridor, padlocked, a thin line of light beneath it, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Room seven: the locked door. Cabrera had an answer for everything. The farmer's stones, he said, were copies for tourists. Only twenty to forty fakes had slipped into his collection."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "ROOM 7",
+   "The Locked Door",
+   "THE SECRET CAVE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Room seven: the locked door. Cabrera had an answer for everything. The farmer's stones, he said, were copies for tourists. Only twenty to forty fakes had slipped into his collection.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 12.312
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept image of a hidden desert cave entrance near a dry riverbed at night, faint glow from inside, mysterious, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The real originals, he said, came from a secret cave near the Ica River, guarded by local people, holding a hoard of untouched stones. Nobody else was allowed to see it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The real originals, he said, came from a secret cave near the Ica River, guarded by local people, holding a hoard of untouched stones. Nobody else was allowed to see it.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A man in 1990s expedition clothes holding a blindfold in his hands standing in a desert landscape, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Investigator Neil Steede even offered to be blindfolded for the journey. He was refused, and concluded the cave never existed. No map, no photograph, no witness has ever surfaced."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Investigator Neil Steede even offered to be blindfolded for the journey. He was refused, and concluded the cave never existed. No map, no photograph, no witness has ever surfaced.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 13.176
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An old open notebook with sketches of a cave entrance and no words, a pen, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Von D\u00e4niken once wrote that Cabrera had taken him to the cave. When Cabrera disputed it, von D\u00e4niken admitted he had made that part up."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Von D\u00e4niken once wrote that Cabrera had taken him to the cave. When Cabrera disputed it, von D\u00e4niken admitted he had made that part up.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 10.488
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A farmer seated in a doorway being interviewed by a 1990s documentary crew, soft afternoon light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And Basilio himself kept the mystery alive. In nineteen ninety-five he told Steede that he had engraved stones from Cabrera's drawings, but that Cabrera also owned about five thousand stones he had not made. Later he even claimed his confession was only to stay out of prison."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And Basilio himself kept the mystery alive. In nineteen ninety-five he told Steede that he had engraved stones from Cabrera's drawings, but that Cabrera also owned about five thousand stones he had not made. Later he even claimed his confession was only to stay out of prison.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 19.44
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Three small, shallowly engraved dark stones with delicate flower and bird motifs on a museum tray, gentle light, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So could any stones be genuine? Possibly a few, like the small ones from real tombs, with flowers, fish, birds and llamas, finer and shallower. A Spanish report from the sixteenth century is also said to mention engraved stones. But none shows a dinosaur."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So could any stones be genuine? Possibly a few, like the small ones from real tombs, with flowers, fish, birds and llamas, finer and shallower. A Spanish report from the sixteenth century is also said to mention engraved stones. But none shows a dinosaur.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 18.12
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "The padlocked museum door slowly lit by a warm lamp, quiet, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here is the honest gap. No one has ever done an independent study to separate possibly ancient stones from modern ones. Behind this door, a real question is still waiting."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here is the honest gap. No one has ever done an independent study to separate possibly ancient stones from modern ones. Behind this door, a real question is still waiting.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum room at night, a single engraved dark river stone on a pedestal on the far right edge lit by a soft golden spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Our tour is over. On the way out, let us sign the guestbook."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "EXIT",
+   "The Guestbook",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Our tour is over. On the way out, let us sign the guestbook.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 3.528
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum room at night, a single engraved dark river stone on a pedestal on the far right edge lit by a soft golden spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Andesite pebbles with a soft weathered skin: evidence. Makers who confessed and demonstrated on film: evidence. Dinosaurs drawn like nineteen sixties museum models: evidence. A few plain motifs that may be truly ancient: possible."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Andesite pebbles with a soft weathered skin: evidence. Makers who confessed and demonstrated on film: evidence. Dinosaurs drawn like nineteen sixties museum models: evidence. A few plain motifs that may be truly ancient: possible.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 17.136
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum room at night, a single engraved dark river stone on a pedestal on the far right edge lit by a soft golden spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Humans living alongside dinosaurs: debunked. Gliptolithic Man and alien knowledge: no evidence. Exactly who engraved all fifty thousand stones: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Humans living alongside dinosaurs: debunked. Gliptolithic Man and alien knowledge: no evidence. Exactly who engraved all fifty thousand stones: still open.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden sunrise over the Ica desert dunes and a green valley, a single dark engraved stone on the sand in the foreground, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The famous dinosaur, surgery and telescope stones are modern engravings, made for sale from the nineteen sixties onward by farmers of the Ica valley, and read by a sincere doctor into a cosmic myth. No lost race. No alien library."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The famous dinosaur, surgery and telescope stones are modern engravings, made for sale from the nineteen sixties onward by farmers of the Ica valley, and read by a sincere doctor into a cosmic myth. No lost race. No alien library.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 18.504
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A farmer's weathered hands holding a freshly engraved dark stone in warm sunlight, close-up, photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What stays open is smaller and more human: which plain stones might be truly ancient, and how much the collector shaped the pictures he was sold."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What stays open is smaller and more human: which plain stones might be truly ancient, and how much the collector shaped the pictures he was sold.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky full of stars above a quiet museum building in a Peruvian desert town, one window lit, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cabrera called his stones the most important legacy of our time. In a way, he was right. They are a perfect record of the nineteen sixties: its dinosaurs, its heart surgeons, its space age dreams, scratched into ancient rock."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cabrera called his stones the most important legacy of our time. In a way, he was right. They are a perfect record of the nineteen sixties: its dinosaurs, its heart surgeons, its space age dreams, scratched into ancient rock.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 15.936
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single dark engraved river stone glowing faintly in the center against black, minimal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Thank you for visiting. Which room changed your mind? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Thank you for visiting. Which room changed your mind? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 8.784
+   }
+  ]
+ }
+]
