@@ -63,9 +63,9 @@ jobs:
       - run:
           name: tools
           command: |
-            sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg python3-pip python3-numpy fontconfig >/dev/null
+            sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg python3-pip fontconfig >/dev/null
             sudo apt-get install -y -qq libsndfile1 >/dev/null || true
-            pip3 install --quiet --break-system-packages numpy soundfile 2>/dev/null || pip3 install --quiet numpy soundfile
+            pip3 install --quiet --user -U "numpy>=2" soundfile
             python3 -c "import numpy, soundfile; print('py ok', numpy.__version__, soundfile.__version__)"
             ffmpeg -version | head -1
       - run:
