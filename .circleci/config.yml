@@ -1,0 +1,99 @@
+version: 2.1
+# Second cloud (CircleCI free, open-source quota) — same Remotion project/flags as .github/workflows/render.yml + finish.yml.
+# Triggered by API: POST /api/v2/project/gh/Ghasemiarash813/am-render-pub/pipeline {"branch":"main","parameters":{"slug":"<slug>","par":<n segments>}}
+# Outputs are CircleCI artifacts of the finish job: <Master>.mp4, <slug>-upload.mp4, shorts.tar, finish.log, plus segments cs*.mp4.
+parameters:
+  slug: { type: string, default: "" }
+  par: { type: integer, default: 1 }
+  only: { type: string, default: "" }
+
+jobs:
+  render:
+    docker: [ { image: cimg/node:22.12-browsers } ]
+    resource_class: large
+    parallelism: << pipeline.parameters.par >>
+    environment: { SLUG: << pipeline.parameters.slug >> }
+    steps:
+      - checkout
+      - run:
+          name: item assets
+          command: |
+            git fetch --depth 1 origin "item/$SLUG"
+            mkdir -p itm && git --work-tree=itm checkout FETCH_HEAD -- item
+            ls itm/item | head
+      - restore_cache: { keys: [ "nm-v1-{{ checksum \"package-lock.json\" }}" ] }
+      - run: "[ -d node_modules ] || npm ci --no-audit --no-fund"
+      - save_cache: { key: "nm-v1-{{ checksum \"package-lock.json\" }}", paths: [ node_modules ] }
+      - run: npx remotion browser ensure
+      - run:
+          name: render my segments
+          command: |
+            sudo apt-get update -qq && sudo apt-get install -y -qq fontconfig >/dev/null || true
+            mkdir -p public/ep/img public/ep/audio out
+            cp itm/item/Doc.tsx src/Doc.tsx; cp itm/item/timeline.json src/doc_timeline.json
+            cp itm/item/audio/*.mp3 public/ep/audio/; cp itm/item/music.wav public/ep/; cp itm/item/img/*.jpg public/ep/img/
+            export FONTCONFIG_FILE=$PWD/fonts/fonts.conf; fc-match Georgia; fc-match "Courier New"; nproc
+            python3 scripts/segments.py itm/item/timeline.json 1400 "<< pipeline.parameters.only >>" > segs.json
+            python3 - > mine.txt <<'E'
+            import json,os
+            s=json.load(open('segs.json')); n=int(os.environ['CIRCLE_NODE_TOTAL']); i=int(os.environ['CIRCLE_NODE_INDEX'])
+            for k,x in enumerate(s):
+                if k%n==i: print(x['tag'],x['a'],x['b'])
+            E
+            cat mine.txt
+            while read tag a b; do
+              start=$(date +%s)
+              npx remotion render Doc out/c$tag.mp4 --frames=$a-$b --concurrency=$(nproc) --muted --crf=18 --log=error < /dev/null
+              n=$(npx remotion ffprobe -v error -count_packets -select_streams v:0 -show_entries stream=nb_read_packets -of csv=p=0 out/c$tag.mp4 < /dev/null | tr -d '[:space:]')
+              echo "$tag frames $n/$((b-a+1)) in $(( $(date +%s)-start ))s"; [ "$n" = "$((b-a+1))" ]
+            done < mine.txt
+      - persist_to_workspace: { root: out, paths: [ "*.mp4" ] }
+
+  finish:
+    docker: [ { image: cimg/node:22.12-browsers } ]
+    resource_class: large
+    environment:
+      SLUG: << pipeline.parameters.slug >>
+      R: /home/circleci/r/workspace/projects/135872d5-70e2-46c7-af0f-bc6c101de728
+    steps:
+      - checkout
+      - run: |
+          git fetch --depth 1 origin "item/$SLUG"; mkdir -p itm && git --work-tree=itm checkout FETCH_HEAD -- item
+      - attach_workspace: { at: segs }
+      - run:
+          name: tools
+          command: |
+            sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg python3-pip python3-numpy fontconfig >/dev/null
+            python3 -c "import soundfile" 2>/dev/null || pip3 install --quiet --break-system-packages soundfile || pip3 install --quiet soundfile
+            ffmpeg -version | head -1
+      - run:
+          name: replicate sandbox layout + finish (same finish_item.sh)
+          command: |
+            # the scripts use the absolute sandbox path /workspace/projects/...; mirror it
+            sudo mkdir -p /workspace/projects && sudo chown -R $USER /workspace
+            R=/workspace/projects/135872d5-70e2-46c7-af0f-bc6c101de728; mkdir -p $R/pipeline
+            ln -s $PWD $R/pipeline/pyramid-ai
+            B=$R/pipeline/bank; mkdir -p $B/cloud $B/oumuamua-atlas/dub $B/$SLUG
+            cp bank/finish_item.sh bank/finalize_ready.py $B/; cp bank/cloud/shorts_lib.py $B/cloud/; cp bank/_dubfallback/dub_b2.py $B/oumuamua-atlas/dub/
+            cp -r itm/item/bank/. $B/$SLUG/; mkdir -p $B/$SLUG/audio; cp itm/item/audio/*.mp3 $B/$SLUG/audio/; cp itm/item/music.wav $B/$SLUG/
+            touch $B/render.lock $B/$SLUG/CLOUD_RENDER
+            for f in segs/c*.mp4; do cp "$f" "$B/$SLUG/c${f#segs/c}"; done
+            # GitHub flow names segments cs<START>.mp4 (tag s000000 -> cs000000.mp4); ours are already c<tag>.mp4 = cs000000.mp4
+            ls -la $B/$SLUG/*.mp4
+            export FONTCONFIG_FILE=$PWD/fonts/fonts.conf
+            cd $B; start=$(date +%s)
+            CLOUD_OK=1 bash finish_item.sh $SLUG 2>&1 | tee finish.log
+            echo "finish seconds $(( $(date +%s)-start ))" | tee -a finish.log
+            grep -q "mux frames=" finish.log
+            E=$B/$SLUG; mkdir -p ~/outp; cd $E
+            M=$(ls *.mp4 | grep -v -- '-upload.mp4' | grep -v '^cs' | head -1); U=$(ls *-upload.mp4 | head -1)
+            tar cf ~/outp/shorts.tar shorts; cp $B/finish.log ~/outp/finish.log; [ -f shorts.log ] && cat shorts.log >> ~/outp/finish.log
+            mv "$M" "$U" ~/outp/; ls -la ~/outp
+      - store_artifacts: { path: ~/outp, destination: out }
+
+workflows:
+  bank:
+    when: << pipeline.parameters.slug >>
+    jobs:
+      - render
+      - finish: { requires: [ render ] }
