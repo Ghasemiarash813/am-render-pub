@@ -1,0 +1,1407 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Dawn over the remote Siberian taiga of dense larch and pine forest with marshy clearings, a blinding white fireball with a long thin white trail streaking low across a clear pale sky above the treetops, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At about a quarter past seven on the morning of the thirtieth of June, nineteen-oh-eight, something came out of a clear sky over central Siberia and exploded above the forest. It flattened more than two thousand square kilometres of taiga."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At about a quarter past seven on the morning of the thirtieth of June, nineteen-oh-eight, something came out of a clear sky over central Siberia and exploded above the forest. It flattened more than two thousand square kilometres of taiga.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 15.864
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Aerial view of a vast Siberian forest flattened in every direction, millions of grey fallen tree trunks lying in a radial pattern, a few bare standing trunks at the centre, overcast light, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Investigators came. They found no crater. No meteorite was ever pulled out of the ground. And into that silence moved a famous idea: that this was not a rock at all, but a crashed spacecraft."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Investigators came. They found no crater. No meteorite was ever pulled out of the ground. And into that silence moved a famous idea: that this was not a rock at all, but a crashed spacecraft.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.008
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept art of a sleek metallic spacecraft breaking apart in a brilliant explosion high above a dark Siberian forest at dawn, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A nuclear engine failing over Siberia. Alien wreckage hidden in the swamps. Even a ship that sacrificed itself to save the Earth. You have heard the versions."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A nuclear engine failing over Siberia. Alien wreckage hidden in the swamps. Even a ship that sacrificed itself to save the Earth. You have heard the versions.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 11.112
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An investigator's wooden desk in a dim office with a closed plain manila case folder, a magnifying glass, a brass compass and a pair of old reading glasses under a green desk lamp, shallow depth of field, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we treat Tunguska the way investigators treat a crash. We open a file. We take witness statements, survey the site, search for wreckage, rebuild the flight path, and read the recorders."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we treat Tunguska the way investigators treat a crash. We open a file. We take witness statements, survey the site, search for wreckage, rebuild the flight path, and read the recorders.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A lone figure in an early twentieth century expedition coat standing at the edge of a flattened forest at dawn, seen from behind, mist, vast scale, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then we line up the suspects: comet, asteroid, or craft. And at the end, like any accident board, we state a probable cause."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then we line up the suspects: comet, asteroid, or craft. And at the end, like any accident board, we state a probable cause.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 8.544
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A wide slow river winding through endless Siberian taiga and marshland in early summer morning light, low hills, no people, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Section one: the occurrence. The place is the basin of the Podkamennaya Tunguska river, a tributary of the Yenisei, in the Russian Empire. Swamp, permafrost and low wooded hills, frozen eight or nine months a year."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "SECTION 1",
+   "The Occurrence",
+   "30 JUNE 1908 \u00b7 07:14 LOCAL"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Section one: the occurrence. The place is the basin of the Podkamennaya Tunguska river, a tributary of the Yenisei, in the Russian Empire. Swamp, permafrost and low wooded hills, frozen eight or nine months a year.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 16.08
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Early twentieth century Evenki reindeer herders beside a conical birch-bark and hide tent in a Siberian forest clearing, reindeer grazing, soft morning light, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The people here were mostly Evenki reindeer herders, living in small family groups in conical tents, and a few Russian traders at posts like Vanavara, about sixty kilometres south of what would become ground zero."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The people here were mostly Evenki reindeer herders, living in small family groups in conical tents, and a few Russian traders at posts like Vanavara, about sixty kilometres south of what would become ground zero.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 15.312
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "View from a Siberian riverbank village of log cabins in 1908 as a dazzling white fireball brighter than the sun crosses the clear morning sky with a white trail, villagers looking up, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That morning, under a clear sky, a fireball brighter than the Sun crossed from the south-east, trailing white. People saw it from hundreds of kilometres away."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That morning, under a clear sky, a fireball brighter than the Sun crossed from the south-east, trailing white. People saw it from hundreds of kilometres away.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A colossal fiery explosion high in the air above a Siberian forest, a column of fire and a towering dark cloud rising, shockwave bending distant trees, seen from far away, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At about seven fourteen local time, it exploded. A column of fire, a cloud rising tens of kilometres, a heat pulse felt eighty kilometres away. Windows broke as far as two hundred kilometres out."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At about seven fourteen local time, it exploded. A column of fire, a cloud rising tens of kilometres, a heat pulse felt eighty kilometres away. Windows broke as far as two hundred kilometres out.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 14.832
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Smoke drifting over a burned and flattened Siberian forest the day after a disaster, scorched fallen trunks, small fires smouldering, grey light, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At least three people died, all Evenki, and reindeer herds were lost. It was the most violent impact event in recorded history. And almost nobody outside Siberia knew exactly where it had happened."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At least three people died, all Evenki, and reindeer herds were lost. It was the most violent impact event in recorded history. And almost nobody outside Siberia knew exactly where it had happened.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 14.256
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A deserted snowy Siberian trail through dark forest in winter twilight, an abandoned sled, quiet and lonely, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the file sat closed for thirteen years. War, revolution and civil war came first. The first scientific expedition would not set out until nineteen twenty-one."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the file sat closed for thirteen years. War, revolution and civil war came first. The first scientific expedition would not set out until nineteen twenty-one.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 11.88
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1908 Siberian trading post of rough log buildings with a wooden porch, a bearded farmer in a linen shirt sitting on the porch holding an axe beside a wooden barrel, morning light, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Section two: witness statements. More than seven hundred accounts were collected between nineteen-oh-eight and the nineteen-seventies. The most famous comes from Semyon Semyonov, a farmer at the Vanavara trading post."
+   ]
+  ],
+  "tag": "W",
+  "ch": [
+   "SECTION 2",
+   "Witness Statements",
+   "700+ ACCOUNTS ON FILE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Section two: witness statements. More than seven hundred accounts were collected between nineteen-oh-eight and the nineteen-seventies. The most famous comes from Semyon Semyonov, a farmer at the Vanavara trading post.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 15.024
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "From a log cabin porch in Siberia, the entire northern sky above the forest glowing with a vast sheet of orange fire, a man shielding his face from the heat, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He was sitting on the porch at breakfast, about to hoop a barrel, when, in his words, the sky was split in two, and the whole northern part of the sky seemed covered with fire. He felt heat, as if his shirt had caught fire."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He was sitting on the porch at breakfast, about to hoop a barrel, when, in his words, the sky was split in two, and the whole northern part of the sky seemed covered with fire. He felt heat, as if his shirt had caught fire.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 14.16
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A violent gust of wind and dust blasting across a Siberian log trading post, a man thrown to the ground off a porch, shattered window glass, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then a bang, a mighty crash, and he was thrown about six metres from the porch and lost consciousness. Window panes at the trading post blew out. The iron hasp on the barn door broke."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then a bang, a mighty crash, and he was thrown about six metres from the porch and lost consciousness. Window panes at the trading post blew out. The iron hasp on the barn door broke.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 12.456
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Inside a collapsing conical hide tent in a Siberian forest, tent poles falling, glowing embers from a hearth, orange light of burning moss outside, historical reconstruction, dramatic, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Closer in, an Evenki man called Chuchan was asleep in his tent. He described being thrown into the hearth, trees falling, needles and reindeer moss burning, and heat, as he put it, enough to burn alive."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Closer in, an Evenki man called Chuchan was asleep in his tent. He described being thrown into the hearth, trees falling, needles and reindeer moss burning, and heat, as he put it, enough to burn alive.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 14.592
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Several early twentieth century Siberian villagers standing in a forest clearing all pointing up toward the same direction in the sky, faces lit by bright light, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice what these statements describe: an object moving across the sky, then a blast in the air. Not a light that hovered. Not a craft that turned. A fireball on a straight line."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice what these statements describe: an object moving across the sky, then a blast in the air. Not a light that hovered. Not a craft that turned. A fireball on a straight line.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.36
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An Evenki shaman's drum and antler headdress resting beside a fire in a dark forest at night under a starry sky, mystical atmosphere, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some witnesses thought another planet had struck the Earth. Many Evenki saw the anger of Ogdy, their god of fire and thunder. Every age reads a sky like that through its own beliefs. Ours reads it through science fiction."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some witnesses thought another planet had struck the Earth. Many Evenki saw the anger of Ogdy, their god of fire and thunder. Every age reads a sky like that through its own beliefs. Ours reads it through science fiction.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 15.528
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An elderly Siberian man in a fur hat sitting by a cabin window in soft light, remembering, contemplative portrait, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Memory fades, and the later accounts are less reliable. But the core never changes: a fireball, a wave of heat, and a blast from the north."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Memory fades, and the later accounts are less reliable. But the core never changes: a fireball, a wave of heat, and a blast from the north.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.696
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1927 scientific expedition of men in caps and long coats leading pack horses through a Siberian forest full of fallen tree trunks, an older bearded scientist in front, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Section three: the site survey. In nineteen twenty-seven, the mineralogist Leonid Kulik finally reached the blast zone with Evenki guides. He expected a giant crater, and a fortune in meteoric iron."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "SECTION 3",
+   "Site Survey",
+   "1927 \u00b7 NO CRATER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Section three: the site survey. In nineteen twenty-seven, the mineralogist Leonid Kulik finally reached the blast zone with Evenki guides. He expected a giant crater, and a fortune in meteoric iron.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 15.024
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A ghostly forest of tall dead trees still standing upright but completely stripped of all branches like telegraph poles, in a Siberian swamp, overcast light, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There was no crater. At the centre, trees were still standing, upright, but stripped of every branch, like telegraph poles. Farther out, the forest lay flat, every trunk pointing away from the centre."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There was no crater. At the centre, trees were still standing, upright, but stripped of every branch, like telegraph poles. Farther out, the forest lay flat, every trunk pointing away from the centre.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "out",
+  "prompt": "High aerial view of an enormous area of flattened forest with fallen trees radiating outward from a central point, forming a vast wing-shaped pattern across hills and swamps, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later surveys mapped the fallen zone at about two thousand one hundred and fifty square kilometres, shaped like a butterfly with a wingspan of seventy kilometres."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later surveys mapped the fallen zone at about two thousand one hundred and fifty square kilometres, shaped like a butterfly with a wingspan of seventy kilometres.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1920s workers digging a drainage channel to empty a small round boggy pond in a Siberian forest, an old tree stump emerging from the mud at the bottom, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Kulik believed some boggy holes were meteorite craters. He drained one, called Suslov's crater, thirty-two metres wide. At the bottom he found an old tree stump. Not a crater after all."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Kulik believed some boggy holes were meteorite craters. He drained one, called Suslov's crater, thirty-two metres wide. At the bottom he found an old tree stump. Not a crater after all.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 13.32
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "right",
+  "prompt": "A 1930s biplane flying low over a vast flattened Siberian forest, an aerial camera visible on its side, cloudy sky, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen thirty-eight he arranged an aerial survey: fifteen hundred photographic negatives of the central zone. The original negatives were burned in nineteen seventy-five, as flammable nitrate film. Prints survive in Tomsk."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen thirty-eight he arranged an aerial survey: fifteen hundred photographic negatives of the central zone. The original negatives were burned in nineteen seventy-five, as flammable nitrate film. Prints survive in Tomsk.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 16.536
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "An old weathered expedition hat, a field notebook closed with a strap and a geologist's hammer lying on a fallen log in a Siberian forest, melancholy light, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Kulik never closed the file. In the Second World War he joined the militia, was captured, and died of typhus in a prisoner-of-war camp in nineteen forty-two."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Kulik never closed the file. In the Second World War he joined the militia, was captured, and died of typhus in a prisoner-of-war camp in nineteen forty-two.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A tabletop scientific model of a forest made of hundreds of upright matchsticks on a board, many knocked flat in a radial pattern around a central point, laboratory setting, 1960s, soft light, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the key forensic clue. Standing trees in the middle, flattened trees in a ring: that is what a blast from above does. In the nineteen-sixties, Soviet scientists rebuilt it with model forests of matches and small charges, and got the same butterfly."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the key forensic clue. Standing trees in the middle, flattened trees in a ring: that is what a blast from above does. In the nineteen-sixties, Soviet scientists rebuilt it with model forests of matches and small charges, and got the same butterfly.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 17.688
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Dead standing branchless trees in a Siberian swamp at sunset with long shadows, eerie stillness, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The blast came from the air, several kilometres up, angled in from the south-east. So whatever it was never touched the ground in one piece."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The blast came from the air, several kilometres up, angled in from the south-east. So whatever it was never touched the ground in one piece.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1960s Soviet scientists in field clothes sifting soil through metal sieves beside a tent in a Siberian forest, buckets and sample bags, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Section four: the wreckage. A crash investigator's first question is simple. Where are the pieces? Expeditions in the nineteen-fifties and sixties sifted the soil."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "SECTION 4",
+   "The Wreckage",
+   "WHERE ARE THE PIECES?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Section four: the wreckage. A crash investigator's first question is simple. Where are the pieces? Expeditions in the nineteen-fifties and sixties sifted the soil.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Extreme macro photograph of tiny shiny black and silver metallic spheres and glassy beads on a dark surface under a microscope, scientific photography, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They found microscopic silicate and magnetite spheres, rich in nickel compared with iron, the kind of ratio found in meteorites. And their spread in the soil matched debris from an air burst."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They found microscopic silicate and magnetite spheres, rich in nickel compared with iron, the kind of ratio found in meteorites. And their spread in the soil matched debris from an air burst.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of amber tree resin oozing from the bark of an old Siberian larch tree, a scientist's gloved hand holding a small sample vial nearby, natural light, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the nineteen-nineties, Italian researchers led by Giuseppe Longo of the University of Bologna extracted resin from trees that lived through the blast. Trapped inside: material typical of rocky asteroids, and rare in comets."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the nineteen-nineties, Italian researchers led by Giuseppe Longo of the University of Bologna extracted resin from trees that lived through the blast. Trapped inside: material typical of rocky asteroids, and rare in comets.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 16.824
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A long cylindrical core sample of layered brown peat lying in a split tube on a field table in a Siberian bog, distinct horizontal layers, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Peat bogs hold a nineteen-oh-eight layer with odd carbon, hydrogen and nitrogen isotopes, and reported iridium. To be fair, other laboratories have not confirmed all of those results."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Peat bogs hold a nineteen-oh-eight layer with odd carbon, hydrogen and nitrogen isotopes, and reported iridium. To be fair, other laboratories have not confirmed all of those results.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 13.632
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "A large pale grey quartzite boulder lying alone among moss and fallen trees in a Siberian forest, overcast light, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the boulder known as John's stone, once hoped to be a piece of the impactor, turned out to be ordinary Earth rock, a quartzite."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the boulder known as John's stone, once hoped to be a piece of the impactor, turned out to be ordinary Earth rock, a quartzite.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.52
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial view of a small oval dark lake surrounded by Siberian taiga forest, calm water, summer, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then there is Lake Cheko, about eight kilometres from the epicentre. In two thousand and seven, a Bologna team proposed it was a crater dug by a ten-metre fragment, citing its funnel-shaped bottom and its sediment."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then there is Lake Cheko, about eight kilometres from the epicentre. In two thousand and seven, a Bologna team proposed it was a crater dug by a ten-metre fragment, citing its funnel-shaped bottom and its sediment.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 14.208
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Scientists on a small inflatable boat on a dark Siberian lake lowering a long sediment core tube into the water, misty morning, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty seventeen, Russian scientists counted at least two hundred and eighty yearly layers in the lake bed, which would make it older than the blast. The argument continues."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty seventeen, Russian scientists counted at least two hundred and eighty yearly layers in the lake bed, which would make it older than the blast. The argument continues.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Fine glittering dust drifting in a shaft of sunlight over a flattened Siberian forest, ethereal, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So there is no big wreck. Just dust. To a crash investigator, that is a clue in itself: something blew apart so completely that nothing large was left."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So there is no big wreck. Just dust. To a crash investigator, that is a clue in itself: something blew apart so completely that nothing large was left.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 10.728
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "Science fiction concept image of a twisted silver metallic spacecraft hull half sunk in a dark Siberian swamp at night, mysterious glow, dramatic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And notice what is not on this wreckage list. No alloy. No hull plate. No engine part. Not from more than a century of searching."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And notice what is not on this wreckage list. No alloy. No hull plate. No engine part. Not from more than a century of searching.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 8.712
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A long glowing white meteor trail crossing a deep blue twilight sky at a shallow angle above a dark forest horizon, long exposure, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Section five: the flight path. Cross-checking witnesses, the tree-fall and computer models gives a direction. The body came in from the south-east, at a shallow angle of roughly thirty degrees."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "SECTION 5",
+   "Flight Path",
+   "SOUTH-EAST \u00b7 ~30\u00b0 \u00b7 5\u201310 KM UP"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Section five: the flight path. Cross-checking witnesses, the tree-fall and computer models gives a direction. The body came in from the south-east, at a shallow angle of roughly thirty degrees.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A large irregular rocky asteroid glowing red hot and breaking up as it plunges through Earth's upper atmosphere, seen from high altitude with the curve of the Earth below, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It exploded somewhere between five and ten kilometres up. Models suggest a body around fifty to sixty metres across, moving at more than eleven kilometres a second. Energy estimates run from about three to thirty megatons, most often ten to fifteen."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It exploded somewhere between five and ten kilometres up. Models suggest a body around fifty to sixty metres across, moving at more than eleven kilometres a second. Energy estimates run from about three to thirty megatons, most often ten to fifteen.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 17.232
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A bright comet with a long glowing tail of dust and ice in a starry night sky above a dark silhouetted forest, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now, comet or asteroid? In nineteen thirty-four, F. J. W. Whipple proposed a small comet: ice and dust that would vaporise and leave little behind. It might explain the glowing night skies too."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now, comet or asteroid? In nineteen thirty-four, F. J. W. Whipple proposed a small comet: ice and dust that would vaporise and leave little behind. It might explain the glowing night skies too.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 14.496
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "stars",
+  "motion": "right",
+  "prompt": "Several faint meteors streaking across a starry summer night sky over a calm northern landscape, long exposure, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen seventy-eight, Lubor Kres\u00e1k linked it to Comet Encke, parent of the Beta Taurid meteor shower, which peaks at the very end of June."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen seventy-eight, Lubor Kres\u00e1k linked it to Comet Encke, parent of the Beta Taurid meteor shower, which peaks at the very end of June.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dense dark grey stony asteroid with a cratered rough surface floating in black space, lit from one side by the sun, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But in nineteen eighty-three, Zden\u011bk Sekanina argued that a fragile comet on such a shallow path should have broken up higher. A dense, stony asteroid fits better. A two thousand and one orbit study put the odds at eighty-three percent asteroid, seventeen percent comet."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But in nineteen eighty-three, Zden\u011bk Sekanina argued that a fragile comet on such a shallow path should have broken up higher. A dense, stony asteroid fits better. A two thousand and one orbit study put the odds at eighty-three percent asteroid, seventeen percent comet.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 18.84
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A meteor exploding in a brilliant flash high in a clear sky, a spherical shockwave spreading outward, seen from far below, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And in nineteen ninety-three, Christopher Chyba and colleagues showed how a stony asteroid can blow itself apart in mid-air. Once the air pressure outstrips its strength, it releases almost all its energy at once. No crater. Wide damage. Exactly what Kulik found."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And in nineteen ninety-three, Christopher Chyba and colleagues showed how a stony asteroid can blow itself apart in mid-air. Once the air pressure outstrips its strength, it releases almost all its energy at once. No crater. Wide damage. Exactly what Kulik found.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 18.624
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "A small metallic grey asteroid skimming the thin glowing edge of Earth's atmosphere and heading back into dark space, view from orbit, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is even a twenty twenty model of an iron asteroid that grazed the atmosphere and flew back out into space. One flight path, several explanations. All of them natural."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is even a twenty twenty model of an iron asteroid that grazed the atmosphere and flew back out into space. One flight path, several explanations. All of them natural.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 12.216
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An early twentieth century seismograph with a rotating smoked-paper drum and a fine stylus tracing a wavy line, brass and wood instrument in a dim observatory room, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Section six: the recorders. Air crashes have black boxes. Tunguska had instruments thousands of kilometres away. Seismographs at Irkutsk, Tashkent, Tiflis and Jena recorded a shock close to magnitude five."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "SECTION 6",
+   "The Recorders",
+   "SEISMOGRAPHS \u00b7 BAROGRAPHS \u00b7 SKY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Section six: the recorders. Air crashes have black boxes. Tunguska had instruments thousands of kilometres away. Seismographs at Irkutsk, Tashkent, Tiflis and Jena recorded a shock close to magnitude five.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 16.248
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An antique brass barograph instrument with an ink pen drawing a line on a slowly turning drum, on a wooden shelf by a window, Edwardian era, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Barographs in Britain and Germany, and as far away as Washington and Batavia, logged the air-pressure wave as it rolled around the globe."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Barographs in Britain and Germany, and as far away as Washington and Batavia, logged the air-pressure wave as it rolled around the globe.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An Edwardian London street at midnight under a strangely bright glowing pink and golden sky, a gentleman in a bowler hat reading a newspaper under the sky light, gas lamps, the newspaper seen from behind, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And for several nights, skies over western Eurasia glowed so brightly that people could read a newspaper at midnight. In England, astronomers gave up observing because the sky was too bright."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And for several nights, skies over western Eurasia glowed so brightly that people could read a newspaper at midnight. In England, astronomers gave up observing because the sky was too bright.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "stars",
+  "motion": "right",
+  "prompt": "An early twentieth century mountain observatory dome on a ridge above clouds at twilight, telescopes, California, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Measurements at Mount Wilson in California later suggested a drop in the clarity of the air, consistent with fine dust spread through the upper atmosphere."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Measurements at Mount Wilson in California later suggested a drop in the clarity of the air, consistent with fine dust spread through the upper atmosphere.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A young Soviet scientist in 1959 holding an old handheld radiation counter with a probe over the mossy ground in a flattened Siberian forest, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One recorder matters most for the alien file. A nuclear explosion leaves radioactivity. So, in nineteen fifty-nine, young volunteers from Tomsk, led by Gennady Plekhanov, walked in with radiometers."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One recorder matters most for the alien file. A nuclear explosion leaves radioactivity. So, in nineteen fifty-nine, young volunteers from Tomsk, led by Gennady Plekhanov, walked in with radiometers.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 15.816
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A group of young researchers sitting around a campfire beside tents in a Siberian forest at dusk, instruments in cases, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their first readings looked raised. But they found no engine nozzles, and no radioactivity clearly tied to nineteen-oh-eight. Radioactivity in the trees was traced to fallout from the bomb tests of the nineteen-fifties."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their first readings looked raised. But they found no engine nozzles, and no radioactivity clearly tied to nineteen-oh-eight. Radioactivity in the trees was traced to fallout from the bomb tests of the nineteen-fifties.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 14.736
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1940s Soviet writer in a military tunic typing on an old typewriter at night in a small room lit by a desk lamp, the paper seen edge-on and blank, historical reconstruction, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Section seven: the suspects. Start with the craft. The spaceship idea has a birthday: January nineteen forty-six, a short story called Explosion, by the Soviet writer Alexander Kazantsev."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "SECTION 7",
+   "The Suspects",
+   "COMET \u00b7 ASTEROID \u00b7 CRAFT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Section seven: the suspects. Start with the craft. The spaceship idea has a birthday: January nineteen forty-six, a short story called Explosion, by the Soviet writer Alexander Kazantsev.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 14.184
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Retro 1950s science fiction illustration style of a rocket-shaped spacecraft exploding in a nuclear fireball above a dark forest, dramatic glowing sky, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Kazantsev had read about Hiroshima. He imagined a nuclear-powered ship from Mars blowing up over the taiga. It was fiction. But it was so vivid that many readers took it as a hypothesis."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Kazantsev had read about Hiroshima. He imagined a nuclear-powered ship from Mars blowing up over the taiga. It was fiction. But it was so vivid that many readers took it as a hypothesis.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A pale mushroom-like cloud of smoke rising far away over a forest horizon at dawn, seen through tree branches, ominous, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "To be fair to him, Kazantsev saw something real: an explosion in the air explains the missing crater. But a natural air burst explains it too, without radiation. And the radiation was never there."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To be fair to him, Kazantsev saw something real: an explosion in the air explains the missing crater. But a natural air burst explains it too, without radiation. And the radiation was never there.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two large dark metallic blocks partly buried in moss and soil in a Siberian forest clearing, men in modern expedition clothes standing around them, overcast, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand and four, Yuri Lavbin of a Siberian foundation called Tunguska Space Phenomenon announced blocks of an extraterrestrial device near the village of Poligus. He had said in advance that he intended to prove a spaceship crashed."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand and four, Yuri Lavbin of a Siberian foundation called Tunguska Space Phenomenon announced blocks of an extraterrestrial device near the village of Poligus. He had said in advance that he intended to prove a spaceship crashed.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 16.968
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "A rusted discarded rocket stage lying in a Siberian forest clearing overgrown with moss and young birch trees, overcast light, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The space writer James Oberg pointed out that the region lies under drop zones for spent rocket stages launched from Baikonur. We could find no peer-reviewed analysis of the find."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The space writer James Oberg pointed out that the region lies under drop zones for spent rocket stages launched from Baikonur. We could find no peer-reviewed analysis of the find.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A tall early twentieth century wooden lattice tower with a mushroom-shaped dome on top, standing in a field on Long Island beside a brick laboratory building, overcast sky, sepia toned, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Other suspects. Nikola Tesla's death ray, fired from Wardenclyffe Tower? That story was invented in a fictionalised biography in the nineteen-nineties. Tesla never finished the tower, and wrote of no such beam in nineteen-oh-eight."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Other suspects. Nikola Tesla's death ray, fired from Wardenclyffe Tower? That story was invented in a fictionalised biography in the nineteen-nineties. Tesla never finished the tower, and wrote of no such beam in nineteen-oh-eight.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 15.96
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Abstract cosmic concept image of a tiny black sphere warping starlight around it in deep space above the curve of the Earth, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Physicists tried exotic ideas too. In nineteen sixty-five, a chunk of antimatter. In nineteen seventy-three, a tiny black hole passing through the Earth. Neither left the signature it predicts: no confirmed radiocarbon spike, no exit blast in the North Atlantic."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Physicists tried exotic ideas too. In nineteen sixty-five, a chunk of antimatter. In nineteen seventy-three, a tiny black hole passing through the Earth. Neither left the signature it predicts: no confirmed radiocarbon spike, no exit blast in the North Atlantic.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 19.368
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Bubbling marsh gas rising through dark water in a Siberian swamp at dawn, mist, close view, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And a few geophysicists proposed natural gas erupting from the ground. But nearly every witness saw something cross the sky first."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And a few geophysicists proposed natural gas erupting from the ground. But nearly every witness saw something cross the sky first.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 9.0
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A brilliant meteor fireball with a long smoky trail streaking over a snowy modern Russian city of apartment blocks on a winter morning, people looking up, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, in February twenty thirteen, nature ran a test. An asteroid about eighteen metres wide exploded some thirty kilometres above Chelyabinsk, in Russia. About four to five hundred kilotons. Around fifteen hundred people hurt, mostly by flying glass. And meteorites were recovered."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, in February twenty thirteen, nature ran a test. An asteroid about eighteen metres wide exploded some thirty kilometres above Chelyabinsk, in Russia. About four to five hundred kilotons. Around fifteen hundred people hurt, mostly by flying glass. And meteorites were recovered.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 19.32
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark moody wide view of a flattened Siberian forest at dusk with fallen grey tree trunks all pointing the same way, low mist, large calm empty dark sky on the left, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Section eight: probable cause. The file is complete. Let's score the findings."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "SECTION 8",
+   "Probable Cause",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Section eight: probable cause. The file is complete. Let's score the findings.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 4.872
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark moody wide view of a flattened Siberian forest at dusk with fallen grey tree trunks all pointing the same way, low mist, large calm empty dark sky on the left, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A fireball crossing the sky, seen by hundreds: evidence. Standing trees ringed by a flattened butterfly: evidence of an air burst. Nickel-rich spheres and asteroid-type particles in resin: evidence of a cosmic body. A stony asteroid some fifty to sixty metres wide: the most likely culprit."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A fireball crossing the sky, seen by hundreds: evidence. Standing trees ringed by a flattened butterfly: evidence of an air burst. Nickel-rich spheres and asteroid-type particles in resin: evidence of a cosmic body. A stony asteroid some fifty to sixty metres wide: the most likely culprit.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 21.024
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark moody wide view of a flattened Siberian forest at dusk with fallen grey tree trunks all pointing the same way, low mist, large calm empty dark sky on the left, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A nuclear alien spaceship: no evidence, and no radioactivity. The two thousand and four alien device: unverified, never published. Asteroid versus comet, and Lake Cheko: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A nuclear alien spaceship: no evidence, and no radioactivity. The two thousand and four alien device: unverified, never published. Asteroid versus comet, and Lake Cheko: still open.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden sunrise over a regrown green Siberian forest with a few old grey fallen trunks still visible among young trees, peaceful, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Probable cause: a natural object from space, most likely a stony asteroid, exploded five to ten kilometres above the taiga with the force of a large nuclear weapon. There was no crash, because nothing big enough to crash ever reached the ground."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Probable cause: a natural object from space, most likely a stony asteroid, exploded five to ten kilometres above the taiga with the force of a large nuclear weapon. There was no crash, because nothing big enough to crash ever reached the ground.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 16.728
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "The investigator's desk again, the plain case folder now closed and tied with string, a small dark stone fragment beside it, warm lamp light, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The craft entered this file in nineteen forty-six, as a story. Every test that could have found it, radioactivity, wreckage, metal, came back empty."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The craft entered this file in nineteen forty-six, as a story. Every test that could have found it, radioactivity, wreckage, metal, came back empty.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 10.248
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A modern large astronomical survey telescope dome open at night under a starry sky on a mountain, red work lights, cinematic 35mm film still, realistic, natural colour grade, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every accident report ends with recommendations. This one already has them. Since twenty sixteen, the thirtieth of June has been the United Nations' International Asteroid Day, a reminder to keep watching the sky."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every accident report ends with recommendations. This one already has them. Since twenty sixteen, the thirtieth of June has been the United Nations' International Asteroid Day, a reminder to keep watching the sky.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.928
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "View of Earth from space at night with city lights, a small asteroid approaching in the foreground, cinematic, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Blasts the size of Tunguska are thought to happen roughly once every few centuries, perhaps once in a thousand years. This one fell on an almost empty forest. The real mystery of Tunguska is not who was flying. It is whether, next time, we will see it coming."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Blasts the size of Tunguska are thought to happen roughly once every few centuries, perhaps once in a thousand years. This one fell on an almost empty forest. The real mystery of Tunguska is not who was flying. It is whether, next time, we will see it coming.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 17.976
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a faint glowing meteor trail across a black starry sky above the silhouette of a forest, minimal, no text, no letters, no numbers, no writing, no signage, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Comet, asteroid, or craft? Give us your verdict in the comments, and subscribe for the next case file."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Comet, asteroid, or craft? Give us your verdict in the comments, and subscribe for the next case file.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 6.624
+   }
+  ]
+ }
+]
