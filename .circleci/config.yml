@@ -70,7 +70,7 @@ jobs:
           name: replicate sandbox layout + finish (same finish_item.sh)
           command: |
             # the scripts use the absolute sandbox path /workspace/projects/...; mirror it
-            sudo mkdir -p /workspace/projects && sudo chown -R $USER /workspace
+            sudo mkdir -p /workspace/projects && sudo chown -R "$(id -un)" /workspace
             R=/workspace/projects/135872d5-70e2-46c7-af0f-bc6c101de728; mkdir -p $R/pipeline
             ln -s $PWD $R/pipeline/pyramid-ai
             B=$R/pipeline/bank; mkdir -p $B/cloud $B/oumuamua-atlas/dub $B/$SLUG
