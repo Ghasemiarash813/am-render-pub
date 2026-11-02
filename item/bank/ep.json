@@ -1,0 +1,1499 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A dim old Ottoman palace library storeroom, dust floating in a shaft of light, a pair of hands untying a faded cloth bundle of old rolled parchments on a wooden table, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen twenty-nine, as a palace in Istanbul was being turned into a museum, a bundle of old parchment was pulled from a forgotten corner of its library. Inside was a map on gazelle skin, signed by an Ottoman admiral in fifteen thirteen."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen twenty-nine, as a palace in Istanbul was being turned into a museum, a bundle of old parchment was pulled from a forgotten corner of its library. Inside was a map on gazelle skin, signed by an Ottoman admiral in fifteen thirteen.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 17.304
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "left",
+  "prompt": "Close view of an antique hand-painted portolan sea chart on a warm tan gazelle-skin parchment with colourful compass roses, thin radiating rhumb lines, green and brown coastlines and tiny painted ships, the parchment completely free of any writing, the Atlantic ocean in the centre with the coasts of Europe and Africa on the right and South America on the left, raking warm light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It shows the Atlantic. Spain and Africa on one side. South America on the other. Drawn only twenty-one years after Columbus first crossed that ocean."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It shows the Atlantic. Spain and Africa on one side. South America on the other. Drawn only twenty-one years after Columbus first crossed that ocean.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A long rugged icy coastline of Antarctica seen from high altitude at dusk, ice cliffs and dark rock, deep blue polar sky, ethereal, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And along its bottom edge runs a long, strange coastline that, some people say, should not be there at all. Antarctica. Drawn three hundred years before anyone saw it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And along its bottom edge runs a long, strange coastline that, some people say, should not be there at all. Antarctica. Drawn three hundred years before anyone saw it.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 11.784
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "The curved Earth seen from orbit at night over North Africa and the Nile, a faint glowing satellite silhouette in the foreground, cinematic science fiction realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Was it copied from an ancient survey of a continent without ice? A photograph taken from space? Or something far more human, and in its own way, far more impressive?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Was it copied from an ancient survey of a continent without ice? A photograph taken from space? Or something far more human, and in its own way, far more impressive?",
+    "file": "ep/audio/s04.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Pieces of an old parchment jigsaw puzzle scattered on a dark wooden desk under a single brass lamp, a magnifying glass and a brass compass beside them, the parchment pieces blank and unwritten, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we do what the mystery sellers never do. We take the map apart, piece by piece, and trace each piece back to where it came from. Six pieces. Then we put it back together."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we do what the mystery sellers never do. We take the map apart, piece by piece, and trace each piece back to where it came from. Six pieces. Then we put it back together.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A dramatic book-cover style scene of an ancient fleet of tall ships sailing past an ice-free green coastline of a polar continent under auroras, mythic painterly realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First, the picture on the box. The famous story says the Piri Reis map is impossibly accurate, and that its southern coast matches Queen Maud Land in Antarctica, as it looked before the ice."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "THE BOX LID",
+   "The Picture We Were Sold",
+   "THE CLAIM, BEFORE WE OPEN THE BOX"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First, the picture on the box. The famous story says the Piri Reis map is impossibly accurate, and that its southern coast matches Queen Maud Land in Antarctica, as it looked before the ice.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 13.464
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1960s American college professor's study at night, piles of old map facsimiles, a drafting compass and ruler, a desk lamp, cigarette smoke, the papers seen out of focus, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen sixty-six, the historian Charles Hapgood argued it was copied from maps made by a lost seafaring civilisation in the last Ice Age. Two years later, Erich von D\u00e4niken went further."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen sixty-six, the historian Charles Hapgood argued it was copied from maps made by a lost seafaring civilisation in the last Ice Age. Two years later, Erich von D\u00e4niken went further.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 14.352
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A sleek silver spacecraft high above Egypt photographing the curved Earth, the Nile delta glowing below, lens distortion, cinematic science fiction, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He said the map looked like a photograph taken from high above Cairo. Distorted exactly the way the Earth curves away from a camera in orbit. Aliens, in other words."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He said the map looked like a photograph taken from high above Cairo. Distorted exactly the way the Earth curves away from a camera in orbit. Aliens, in other words.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.616
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1960s US Air Force office desk with an old typewriter, a manila folder and a blank sheet of letter paper, a military cap on the desk, venetian blind shadows, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there is a famous letter. In nineteen sixty, a US Air Force officer wrote that the bottom of the map agreed very remarkably with a nineteen forty-nine survey under the Antarctic ice."
+   ]
+  ],
+  "tag": "U",
+  "q": [
+   "\u201cThe geographical detail shown in the lower part of the map agrees very remarkably with the results of the seismic profile\u2026\u201d",
+   "Lt Col Harold Z. Ohlmeyer, USAF \u00b7 letter to C. Hapgood, 6 July 1960"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there is a famous letter. In nineteen sixty, a US Air Force officer wrote that the bottom of the map agreed very remarkably with a nineteen forty-nine survey under the Antarctic ice.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A closed antique wooden box with brass corners on a dark table, its lid slightly open, warm light spilling out, mysterious, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the picture on the lid. Now let's open the box, and see whether the pieces inside actually make it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the picture on the lid. Now let's open the box, and see whether the pieces inside actually make it.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 6.84
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Extreme close-up of the corner of an old tan gazelle-skin parchment, worn edge, faded painted border, warm raking light, shallow depth of field, surface blank, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Piece one is the corner where the maker signed. It is the only note written in Arabic, in a different hand from the others. Probably his own."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "PIECE 1",
+   "The Signature",
+   "GALLIPOLI \u00b7 MUHARRAM 919 \u00b7 1513"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Piece one is the corner where the maker signed. It is the only note written in Arabic, in a different hand from the others. Probably his own.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An Ottoman mapmaker's hand holding a reed pen above a parchment by oil lamp light, an ink pot and brushes nearby, the parchment area in view blank, Renaissance era interior, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It reads: this map was drawn by Piri, son of Hajji Mehmed, nephew of Kemal Reis, in Gallipoli, in the month of Muharram, year nine hundred nineteen. That is spring, fifteen thirteen."
+   ]
+  ],
+  "tag": "E",
+  "q": [
+   "\u201cThis map was drawn by Piri Ibn Haji Mehmed, known as the nephew of Kemal Reis, in Gallipoli, in the month of Muharrem of the year 919.\u201d",
+   "Colophon, note IV (Ak\u00e7ura 1935 translation) \u00b7 = 9 March\u20137 April 1513"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It reads: this map was drawn by Piri, son of Hajji Mehmed, nephew of Kemal Reis, in Gallipoli, in the month of Muharram, year nine hundred nineteen. That is spring, fifteen thirteen.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 13.416
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "sand",
+  "motion": "left",
+  "prompt": "Two Ottoman war galleys with oars and lateen sails cutting through a sunlit Mediterranean sea, spray, early sixteenth century, cinematic photoreal, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Piri Reis was a real sailor. As a young man he sailed with his uncle Kemal, a corsair who became one of the great Ottoman admirals."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Piri Reis was a real sailor. As a young man he sailed with his uncle Kemal, a corsair who became one of the great Ottoman admirals.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "The historic harbour town of Gallipoli on the Dardanelles strait at sunset, wooden ships moored, stone tower, sixteenth century atmosphere, cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "When his uncle died, Piri went home to Gallipoli, on the Dardanelles, and began the most ambitious project of his life: a map of the whole known world."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "When his uncle died, Piri went home to Gallipoli, on the Dardanelles, and began the most ambitious project of his life: a map of the whole known world.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An Ottoman sultan in a tall white turban seated in a tent in Cairo receiving a rolled parchment from a kneeling naval officer, palm trees outside, 1517, painterly cinematic realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In fifteen seventeen, after the Ottoman conquest of Egypt, he presented it to Sultan Selim the First in Cairo. Then it vanished for four centuries, until that bundle turned up in Topkap\u0131 Palace."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In fifteen seventeen, after the Ottoman conquest of Egypt, he presented it to Sultan Selim the First in Cairo. Then it vanished for four centuries, until that bundle turned up in Topkap\u0131 Palace.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 14.064
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A torn ragged edge of an old painted parchment map lying on black velvet, the tear running down its right side, museum lighting, surface free of writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Only the western third survives. The tear cuts straight through the notes on its eastern edge, mid sentence. The full map was probably over a metre and a half wide."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Only the western third survives. The tear cuts straight through the notes on its eastern edge, mid sentence. The full map was probably over a metre and a half wide.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 11.136
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A single parchment jigsaw piece set into the top left corner of an empty dark puzzle frame on a desk, warm lamp light, piece blank, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So piece one is solid. A named author, a place, a month, a patron. Nothing ancient. The real question is where his information came from. And unusually, he tells us."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So piece one is solid. A named author, a place, a month, a patron. Nothing ancient. The real question is where his information came from. And unusually, he tells us.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A large wooden table covered with many overlapping old hand-painted sea charts and parchments of different sizes and colours, compass dividers on top, candlelight, the charts free of writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Piece two is a note in Piri's own words, explaining how he made the map. His source list. Mystery documentaries rarely read it out. We will."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "PIECE 2",
+   "The Recipe",
+   "PIRI'S OWN SOURCE LIST"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Piece two is a note in Piri's own words, explaining how he made the map. His source list. Mystery documentaries rarely read it out. We will.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Overhead view of twenty small old hand-painted maps of different styles arranged in a grid on dark wood, some round medieval world maps, some sea charts, all without writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "From about twenty charts and world maps, he says. Some drawn, he believed, in the days of Alexander the Great. Eight of those. One Arabic map of India. Four new Portuguese maps. And one map drawn by Columbus."
+   ]
+  ],
+  "tag": "E",
+  "q": [
+   "\u201c\u2026and also from a map drawn by Colombo in the western region I have extracted it. By reducing all these maps to one scale this final form was arrived at.\u201d",
+   "Piri Reis, margin note VI (Ak\u00e7ura 1935 translation)"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "From about twenty charts and world maps, he says. Some drawn, he believed, in the days of Alexander the Great. Eight of those. One Arabic map of India. Four new Portuguese maps. And one map drawn by Columbus.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 15.288
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An open printed Renaissance atlas showing a hand-coloured Ptolemaic world map with curved meridians, on a library lectern, warm light, the printed page with no legible lettering, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His word for the old maps, jaferiye, is a bent form of the Arabic for geography. Most scholars read it as Ptolemy's Geography, the ancient atlas reprinted all over Renaissance Europe."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His word for the old maps, jaferiye, is a bent form of the Arabic for geography. Most scholars read it as Ptolemy's Geography, the ancient atlas reprinted all over Renaissance Europe.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A heroic ancient Macedonian king in bronze armour standing on the prow of a ship gazing at a starry sea, mythic painterly realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here the mystery industry takes a turn. Maps from the time of Alexander! Proof of lost knowledge! But look at what Piri was doing with that phrase."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here the mystery industry takes a turn. Maps from the time of Alexander! Proof of lost knowledge! But look at what Piri was doing with that phrase.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 9.984
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An illuminated Ottoman manuscript book of sea charts lying open on a carpet, decorated borders, painted harbour views, the pages showing only pictures and no writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In his later Book of the Sea, Piri says the Franks only rediscovered what Alexander's surveyors once recorded. A way to frame rival discoveries as an old inheritance. Not a technical record."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In his later Book of the Sea, Piri says the Franks only rediscovered what Alexander's surveyors once recorded. A way to frame rival discoveries as an old inheritance. Not a technical record.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A craftsman's hands stretching and pinning two overlapping pieces of old parchment chart together on a board, seams visible, warm light, surfaces free of writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And by reducing these maps to one scale, he says, this final form was arrived at. That means stretching, squeezing and stitching. Every seam is a place where two sources met, and did not quite fit."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And by reducing these maps to one scale, he says, this final form was arrived at. That means stretching, squeezing and stitching. Every seam is a place where two sources met, and did not quite fit.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "An open wooden puzzle box with a folded paper instruction leaflet resting inside on the parchment pieces, lamp light, the leaflet blank, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the box comes with an instruction leaflet: about twenty sources. Now let's check the pieces against them, starting with the most famous name on his list."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the box comes with an instruction leaflet: about twenty sources. Now let's check the pieces against them, starting with the most famous name on his list.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Tropical Caribbean islands seen from a high cliff at golden hour, turquoise sea, scattered green islands and a long mainland coast, cinematic photoreal, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Piece three is the top left corner. The Caribbean. At first glance, a mess. A giant island standing upright. A coastline that seems to be Cuba and Central America at once."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "PIECE 3",
+   "The Columbus Corner",
+   "A LOST MAP FROM THE 1490s"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Piece three is the top left corner. The Caribbean. At first glance, a mess. A giant island standing upright. A coastline that seems to be Cuba and Central America at once.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.624
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A captured Spanish sailor in chains being questioned on the deck of an Ottoman galley by a turbaned captain, Mediterranean sun, early sixteenth century, cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Piri explains it himself. A long note tells the story of a Genoese named Colombo, and of a Spaniard, captured by his uncle's men, who had sailed there with Columbus three times."
+   ]
+  ],
+  "tag": "E",
+  "q": [
+   "\u201cThe coasts and islands on this map are taken from Colombo's map.\u201d",
+   "Piri Reis, margin note V (Ak\u00e7ura 1935 translation)"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Piri explains it himself. A long note tells the story of a Genoese named Colombo, and of a Spaniard, captured by his uncle's men, who had sailed there with Columbus three times.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Christopher Columbus's three caravels anchored off a tropical island at dusk, a man in fifteenth-century clothes standing on deck gazing at the shore, cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now look with Columbus in mind. He believed he had reached Asia. He thought Hispaniola was Cipangu, Marco Polo's Japan, which maps of his day drew as a tall island, standing north to south."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now look with Columbus in mind. He believed he had reached Asia. He thought Hispaniola was Cipangu, Marco Polo's Japan, which maps of his day drew as a tall island, standing north to south.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 13.632
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A large green tropical island seen from the sea, mountains rising, palm-lined shore, morning haze, cinematic photoreal, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that is exactly how Hispaniola appears here. Upright. Oversized. Wrong in precisely the way Columbus was wrong."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that is exactly how Hispaniola appears here. Upright. Oversized. Wrong in precisely the way Columbus was wrong.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 8.52
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A fifteenth-century notary in a dark robe on the deck of a caravel reading an oath to a line of sailors with raised hands, tropical coast behind, dramatic light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cuba is drawn as mainland, because in fourteen ninety-four Columbus made his crews swear that Cuba was Asia. Anyone who later denied it faced a heavy fine, and having his tongue cut out."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cuba is drawn as mainland, because in fourteen ninety-four Columbus made his crews swear that Cuba was Asia. Anyone who later denied it faced a heavy fine, and having his tongue cut out.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "sand",
+  "motion": "left",
+  "prompt": "A caravel sailing along a long green southern Cuban coastline with mangroves, small rocky islet offshore, bright tropical light, cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Names here, like Ornofay on Cuba's south coast, appear in Columbus's records and on no other map. The islet Alto Velo dates to his second voyage, in fourteen ninety-four."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Names here, like Ornofay on Cuba's south coast, appear in Columbus's records and on no other map. The islet Alto Velo dates to his second voyage, in fourteen ninety-four.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A modern map historian in a quiet archive comparing two large old hand-painted charts under a lamp with a magnifier, the charts free of writing, shallow focus, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Map historian Gregory McIntosh concluded that this corner preserves a lost Columbus chart from around fourteen ninety-five. Perhaps the closest copy we have of how Columbus drew the New World."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Map historian Gregory McIntosh concluded that this corner preserves a lost Columbus chart from around fourteen ninety-five. Perhaps the closest copy we have of how Columbus drew the New World.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A brass astrolabe and an old compass lying on a parchment by candlelight, a ship's lantern behind, quiet mood, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the errors are the evidence. A satellite would never draw Cuba as Asia. Only a sailor who badly wanted to be in Asia would."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the errors are the evidence. A satellite would never draw Cuba as Asia. Only a sailor who badly wanted to be in Asia would.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 8.952
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "The rugged coastline of West Africa with a red sandstone cape and surf seen from a sailing ship, Atlantic swell, golden light, cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Piece four is the long middle band. Europe and West Africa on the right, Brazil on the left. The part theorists call impossibly accurate."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "PIECE 4",
+   "The Portuguese Coast",
+   "AFRICA \u00b7 BRAZIL \u00b7 THE EQUATOR"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Piece four is the long middle band. Europe and West Africa on the right, Brazil on the left. The part theorists call impossibly accurate.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 9.72
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Aerial view of green volcanic Atlantic islands with steep cliffs and white surf, deep blue ocean, the Azores, cinematic photoreal, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And it is good. The Azores, Canaries and Cape Verde islands sit about where they should. The gap between Brazil and Africa is roughly right. One compass rose line follows the equator closely."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And it is good. The Azores, Canaries and Cape Verde islands sit about where they should. The gap between Brazil and Africa is roughly right. One compass rose line follows the equator closely.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 13.824
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A Portuguese pilot on a caravel deck measuring the height of the sun with a mariner's astrolabe, sails above, bright Atlantic light, fifteenth century, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But good is not mysterious. Portuguese pilots had worked down this coast for most of a century, measuring latitude by the sun. Portuguese charts like the Cantino map of fifteen oh two already show this shape."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But good is not mysterious. Portuguese pilots had worked down this coast for most of a century, measuring latitude by the sun. Portuguese charts like the Cantino map of fifteen oh two already show this shape.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 14.376
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Three dramatic coastal headlands of West Africa in a row, one with white cliffs, one green with vegetation, one of red rock, seen from the sea at sunset, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is even a fingerprint of copying. The African capes carry Turkish translations of Portuguese names. White Cape. Green Cape. Red Cape. Piri was translating a chart."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is even a fingerprint of copying. The African capes carry Turkish translations of Portuguese names. White Cape. Green Cape. Red Cape. Piri was translating a chart.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 12.504
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A magnifying glass held over part of an antique hand-painted portolan sea chart on a warm tan gazelle-skin parchment with colourful compass roses, thin radiating rhumb lines, green and brown coastlines and tiny painted ships, the parchment completely free of any writing, showing a distorted oversized island and a crooked river, warm lamp light, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the accuracy has limits. Rivers in Spain are confused. Islands are too big. South America is stretched. The Atlantic is too narrow."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the accuracy has limits. Rivers in Spain are confused. Islands are too big. South America is stretched. The Atlantic is too narrow.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "left",
+  "prompt": "The coast of Brazil near Rio de Janeiro in the early morning, granite peaks rising from the bay, lush rainforest, a lone caravel offshore, cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Follow Brazil south and you can still name places. Cabo Frio. Perhaps the earliest hint of Rio de Janeiro. Katino, likely Canan\u00e9ia, about twenty-five degrees south."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Follow Brazil south and you can still name places. Cabo Frio. Perhaps the earliest hint of Rio de Janeiro. Katino, likely Canan\u00e9ia, about twenty-five degrees south.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 12.696
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A lonely Portuguese caravel sailing south along a dark unknown coastline at twilight, the coast fading into mist, first stars appearing, cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That was the edge of Portuguese knowledge in fifteen thirteen. And right there the trouble starts. The coastline turns hard east, and runs along the bottom of the parchment."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That was the edge of Portuguese knowledge in fifteen thirteen. And right there the trouble starts. The coastline turns hard east, and runs along the bottom of the parchment.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Ice-free rocky Antarctic coastline imagined with dark mountains and fjords under a pale polar sun, mysterious atmosphere, cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Piece five. The southern edge. The piece the whole legend hangs on. According to Hapgood, this is the Princess Martha Coast of Queen Maud Land, Antarctica, drawn before the ice."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "PIECE 5",
+   "The Southern Edge",
+   "THE ANTARCTICA CLAIM \u00b7 FOUR FIT TESTS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Piece five. The southern edge. The piece the whole legend hangs on. According to Hapgood, this is the Princess Martha Coast of Queen Maud Land, Antarctica, drawn before the ice.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1950s man in a suit drawing a grid of pencil lines over a large photographic copy of an old map on a drafting table, the copy blurred and free of readable writing, desk lamp, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The idea began with an amateur, Captain Arlington Mallery, who redrew the map on his own grid in the nineteen fifties. Hapgood and his students then spent years fitting coastlines."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The idea began with an amateur, Captain Arlington Mallery, who redrew the map on his own grid in the nineteen fifties. Hapgood and his students then spent years fitting coastlines.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A 1949 polar expedition on the Antarctic ice sheet, men in fur parkas beside a tracked snow vehicle and seismic equipment, a long line of flags across the white ice, overcast, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the Air Force letter. Lieutenant Colonel Harold Ohlmeyer wrote that the lower part agreed very remarkably with a nineteen forty-nine seismic profile across the ice, by a Norwegian, British and Swedish expedition."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the Air Force letter. Lieutenant Colonel Harold Ohlmeyer wrote that the lower part agreed very remarkably with a nineteen forty-nine seismic profile across the ice, by a Norwegian, British and Swedish expedition.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 15.192
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "stars",
+  "motion": "left",
+  "prompt": "Huge stormy waves in the Drake Passage between South America and Antarctica, a small ship dwarfed by the swell, grey sky, cinematic photoreal, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So let's test this piece like any jigsaw piece. Does it fit its neighbours? Test one: the gap. Between South America and Antarctica lies the Drake Passage, about a thousand kilometres of violent sea."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So let's test this piece like any jigsaw piece. Does it fit its neighbours? Test one: the gap. Between South America and Antarctica lies the Drake Passage, about a thousand kilometres of violent sea.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two parchment jigsaw pieces on a dark desk that clearly do not fit together, a visible gap and mismatched edges, lamp light, pieces blank, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the Piri Reis map, there is no gap at all. The coast runs straight out of Brazil and keeps going. A survey precise enough to map Antarctica would not forget an ocean."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the Piri Reis map, there is no gap at all. The coast runs straight out of Brazil and keeps going. A survey precise enough to map Antarctica would not forget an ocean.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A scientist in a cold lab holding up a long clear cylinder of Antarctic ice core with visible layers, blue light, frost, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test two: the ice. Ice cores and seabed records show Antarctica has not been ice-free for millions of years. Hapgood needed an ice-free coast a few thousand years ago. It did not happen."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test two: the ice. Ice cores and seabed records show Antarctica has not been ice-free for millions of years. Hapgood needed an ice-free coast a few thousand years ago. It did not happen.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A vast flat white Antarctic ice sheet with a single thin line of survey flags disappearing into the distance, tiny figures, immense scale, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test three: the letter. That survey measured one line across the ice, well under one percent of the coast on the map. And rock under ice sits lower than it would without it. It was comparing the wrong things."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test three: the letter. That survey measured one line across the ice, well under one percent of the coast on the map. And rock under ice sits lower than it would without it. It was comparing the wrong things.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A large modern glowing 3D relief model of the bedrock beneath Antarctica's ice shown on a dark screen in a research lab, blue and brown terrain, no labels, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later comparisons with full surveys of the rock under the ice found no match. McIntosh put it bluntly: the only similarity is that both lie south of the Atlantic, and run roughly east to west."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later comparisons with full surveys of the rock under the ice found no match. McIntosh put it bluntly: the only similarity is that both lie south of the Atlantic, and run roughly east to west.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A huge boa constrictor coiled on a hot humid tropical riverbank under steaming jungle, harsh sunlight, cinematic photoreal, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test four is the cruelest, because it comes from Piri himself. On this very coast he wrote: this country is a waste. Large snakes are found here. And these shores are said to be very hot."
+   ]
+  ],
+  "tag": "E",
+  "q": [
+   "\u201cThis country is a waste\u2026 it is said that large snakes are found here\u2026 and these are also said to be very hot.\u201d",
+   "Piri Reis, margin note X (Ak\u00e7ura 1935 translation)"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test four is the cruelest, because it comes from Piri himself. On this very coast he wrote: this country is a waste. Large snakes are found here. And these shores are said to be very hot.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A Portuguese ship with torn sails driven by a violent storm toward a dark tropical shore at night, lightning, cinematic, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nearby, another note credits a Portuguese ship blown south by a storm. Hot shores. Giant snakes. Portuguese sailors. That describes Brazil, not Antarctica."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nearby, another note credits a Portuguese ship blown south by a storm. Hot shores. Giant snakes. Portuguese sailors. That describes Brazil, not Antarctica.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.168
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "The curved natural edge of a tanned animal-skin parchment with a hand-painted coastline bending to follow the edge of the hide, close-up, raking light, no writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So why does the coast bend? First, the parchment. The historian Svat Soucek notes that mapmakers often turned a coastline to fit the space left on the skin. The edge of a hide is not the edge of the world."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So why does the coast bend? First, the parchment. The historian Svat Soucek notes that mapmakers often turned a coastline to fit the space left on the skin. The edge of a hide is not the edge of the world.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 14.568
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A Renaissance globe-maker's workshop with a large hand-painted globe showing a huge imaginary southern continent, brass rings, candlelight, the globe free of writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Second, theory. Since Ptolemy, geographers believed a great southern land must balance the north. Terra Australis. Maps for two centuries drew it, often joined to South America, long before anyone saw Antarctica."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second, theory. Since Ptolemy, geographers believed a great southern land must balance the north. Terra Australis. Maps for two centuries drew it, often joined to South America, long before anyone saw Antarctica.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 15.264
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A parchment jigsaw piece being placed into the bottom row of a puzzle frame by a hand, the piece bent along its edge, lamp light, piece blank, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So piece five belongs in the box. But it is not Antarctica. It is Brazil, bent along the edge of a skin, fading into a continent everyone assumed was there."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So piece five belongs in the box. But it is not Antarctica. It is Brazil, bent along the edge of a skin, fading into a continent everyone assumed was there.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 11.736
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A view of Earth from very high above Egypt with the planet's curvature, the Mediterranean and the Nile visible, the edges of the globe curving away into black space, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Piece six is the boldest claim. Von D\u00e4niken said the map matches a projection centred on Cairo: what a camera would see far above Egypt, with the edges curving away."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "PIECE 6",
+   "The View From Space",
+   "THE CAIRO PROJECTION TEST"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Piece six is the boldest claim. Von D\u00e4niken said the map matches a projection centred on Cairo: what a camera would see far above Egypt, with the edges curving away.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A geology professor at a light table overlaying a transparent sheet with curved grid lines on top of a paper map copy, focused, office at night, the papers free of readable writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is testable, and geologist Steven Dutch tested it. A real Cairo projection curves the equator and swings Spain far to the right of West Africa. On the Piri Reis map, the equator is straight, and Spain sits above Africa."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is testable, and geologist Steven Dutch tested it. A real Cairo projection curves the equator and swings Spain far to the right of West Africa. On the Piri Reis map, the equator is straight, and Spain sits above Africa.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 16.08
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two transparent overlays of different coastlines misaligned on a light table, glowing edges not matching, dark room, abstract, no writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His verdict on the overlay: nothing matches. Even a true view from space fits worse than a simple flat grid. Straight parallels mean a sailor's chart, not a lens."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His verdict on the overlay: nothing matches. Even a true view from space fits worse than a simple flat grid. Straight parallels mean a sailor's chart, not a lens.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 11.088
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A satellite in orbit above the North American continent at night with city lights glowing below, cinematic realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And a camera in orbit would show North America. Here, North America is essentially imaginary, and Cuba is Asia. A spacecraft cannot photograph Columbus's mistakes."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And a camera in orbit would show North America. Here, North America is essentially imaginary, and Cuba is Asia. A spacecraft cannot photograph Columbus's mistakes.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 12.168
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A medieval monk and sailors lighting a campfire on the back of an enormous whale they mistake for an island, misty ocean, painterly mythic realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One last look at the margins. Piri filled them with wonders. A saint who landed on a giant fish he took for an island. Headless men. Six-horned oxen. Monsters seven spans long, but, he writes, harmless souls."
+   ]
+  ],
+  "tag": "L",
+  "q": [
+   "\u201cThese monsters are seven spans long\u2026 But they are harmless souls.\u201d",
+   "Piri Reis, margin note XXIV (Ak\u00e7ura 1935 translation)"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One last look at the margins. Piri filled them with wonders. A saint who landed on a giant fish he took for an island. Headless men. Six-horned oxen. Monsters seven spans long, but, he writes, harmless souls.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 15.528
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A whimsical medieval bestiary scene painted in miniature style: a headless man with a face on his chest calmly sharing fruit with a monkey on a rocky hill, soft colours, no writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "These come from old bestiaries and medieval world maps. Nobody claims aliens drew the headless man. The map mixes fresh sailors' reports with inherited legend, on the same skin."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "These come from old bestiaries and medieval world maps. Nobody claims aliens drew the headless man. The map mixes fresh sailors' reports with inherited legend, on the same skin.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A completed parchment jigsaw puzzle of an antique hand-painted portolan sea chart on a warm tan gazelle-skin parchment with colourful compass roses, thin radiating rhumb lines, green and brown coastlines and tiny painted ships, the parchment completely free of any writing glowing under a warm lamp on a dark desk, the seams between pieces faintly visible, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now put the six pieces back together. A signed Ottoman map. About twenty sources. A corner from Columbus. A coast from Portugal. A southern edge bent to fit the hide. And no camera anywhere."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "THE FIT",
+   "Reassembly",
+   "WHAT THE FINISHED PICTURE SHOWS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now put the six pieces back together. A signed Ottoman map. About twenty sources. A corner from Columbus. A coast from Portugal. A southern edge bent to fit the hide. And no camera anywhere.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An Ottoman naval officer in a candlelit room aboard a galley examining captured rolled charts and a sea chest of instruments taken from an enemy ship, the charts free of writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What you are holding is not alien. It is naval intelligence. Captured Spanish and Portuguese charts, prisoners' testimony and classical geography, reduced to one scale by one man on the Dardanelles."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What you are holding is not alien. It is naval intelligence. Captured Spanish and Portuguese charts, prisoners' testimony and classical geography, reduced to one scale by one man on the Dardanelles.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 14.184
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A row of several beautiful later Renaissance world maps and globes displayed in a dark museum gallery with spotlights, elegant, the maps free of readable writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "McIntosh is clear: it is not the most accurate map of its century. Many later maps beat it. Its value is that it captures the world in the very years it was being redrawn, and keeps a Columbus map we otherwise lost."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "McIntosh is clear: it is not the most accurate map of its century. Many later maps beat it. Its value is that it captures the world in the very years it was being redrawn, and keeps a Columbus map we otherwise lost.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 14.76
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic study at night with a single desk lamp and an empty wooden puzzle frame, lots of empty dark space, no people, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time for the jigsaw scorecard. Seven claims. Each one either fits the box, or it does not."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "\u2605",
+   "The Scorecard",
+   "SEVEN CLAIMS \u00b7 FIT OR REJECT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time for the jigsaw scorecard. Seven claims. Each one either fits the box, or it does not.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 6.24
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic study at night with a single desk lamp and an empty wooden puzzle frame, lots of empty dark space, no people, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Drawn by Piri Reis in Gallipoli, fifteen thirteen: evidence. Compiled from about twenty older charts: evidence. Preserves a lost Columbus map: evidence. Southern coast as bent South America and an imagined southern land: most likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Drawn by Piri Reis in Gallipoli, fifteen thirteen: evidence. Compiled from about twenty older charts: evidence. Preserves a lost Columbus map: evidence. Southern coast as bent South America and an imagined southern land: most likely.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 17.64
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic study at night with a single desk lamp and an empty wooden puzzle frame, lots of empty dark space, no people, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "An ice-free Antarctic coastline: debunked. A photograph from space above Cairo: debunked. Aliens, or a lost Ice Age civilisation: not needed."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "An ice-free Antarctic coastline: debunked. A photograph from space above Cairo: debunked. Aliens, or a lost Ice Age civilisation: not needed.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An old tan gazelle-skin parchment chart glowing in golden light on black velvet in a museum vault, compass roses shining, the parchment free of writing, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The Piri Reis map does not show Antarctica from space. It shows something rarer: an Ottoman admiral gathering his rivals' secrets, and fitting a whole new world onto one gazelle skin."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The Piri Reis map does not show Antarctica from space. It shows something rarer: an Ottoman admiral gathering his rivals' secrets, and fitting a whole new world onto one gazelle skin.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An elderly Ottoman admiral with a white beard looking out at the Red Sea from a stone fortress at dusk, solemn, cinematic painterly realism, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the early fifteen fifties, in his eighties, Piri Reis was executed after a court intrigue. His map has outlived him by nearly five centuries, and is now on UNESCO's Memory of the World register."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the early fifteen fifties, in his eighties, Piri Reis was executed after a court intrigue. His map has outlived him by nearly five centuries, and is now on UNESCO's Memory of the World register.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 14.088
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Golden evening light over the Bosphorus and the domes and towers of Topkap\u0131 Palace in Istanbul seen from the water, cinematic photoreal, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So when someone tells you this map is impossible, ask them to read the margins. The man who drew it already told us how he did it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So when someone tells you this map is impossible, ask them to read the margins. The man who drew it already told us how he did it.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 8.544
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background with a small glowing brass compass rose on black velvet, soft vignette, wide 16:9 cinematic film still, photoreal, natural film grain, absolutely no text, no writing, no letters, no numbers, no calligraphy, no script, no inscriptions, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That's the case. Which piece surprised you most? Tell us in the comments, and subscribe for the next ancient mystery taken apart."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That's the case. Which piece surprised you most? Tell us in the comments, and subscribe for the next ancient mystery taken apart.",
+    "file": "ep/audio/s68.mp3",
+    "dur": 7.944
+   }
+  ]
+ }
+]
