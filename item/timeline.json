@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 25546,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 331,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In a village in eastern China there was a pond the locals called bottomless. In the worst droughts it never dropped. Nobody had ever seen the bottom.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 9.936,
+     "start": 10,
+     "end": 309
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 313,
+   "end": 652,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In June nineteen ninety-two, four farmers decided to find out why. They brought a water pump. They ran it day and night. It took seventeen days.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 10.224,
+     "start": 323,
+     "end": 630
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 634,
+   "end": 1088,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What the water had hidden was not a pond. It was the roof of a hall carved into solid rock, as tall as a ten-storey building, with giant pillars and every wall covered in neat, parallel chisel marks.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 14.04,
+     "start": 644,
+     "end": 1066
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1070,
+   "end": 1426,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And because no history book seems to mention it, a question has followed it ever since. Who could cut a cave like this, and leave no record at all? Some say: not us.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 10.776,
+     "start": 1080,
+     "end": 1404
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1408,
+   "end": 1974,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So today we drain this case the way the farmers drained the pond. Level by level. At each new waterline we look at what has been uncovered: the evidence, and the theory. At the floor, we give the verdict.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 13.776,
+     "start": 1418,
+     "end": 1832
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LEVEL I",
+    "The Pond",
+    "SHIYANBEI \u00b7 ZHEJIANG"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1956,
+   "end": 2271,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Level one: the pond. The village is Shiyanbei, on Fenghuang Hill, beside the Qu River in Longyou County, Zhejiang province.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 9.408,
+     "start": 1966,
+     "end": 2249
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2253,
+   "end": 2683,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The village had several of these small, square, stone-edged pools. Villagers drew water from them and fished in them. Some had fish, others never did. That oddity is what made the farmers curious.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.248,
+     "start": 2263,
+     "end": 2661
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2665,
+   "end": 3143,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A local farmer, Wu Anai, and three companions started pumping. One story says they hoped for a tourist attraction. Another says they were looking for a jade statue rumoured to have been thrown into the water decades earlier.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 14.856,
+     "start": 2675,
+     "end": 3121
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3125,
+   "end": 3505,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "As the water dropped, the sides did not stop. They sloped inward, and a stone staircase appeared, cut from the living rock. After seventeen days the pumps reached the floor.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 11.568,
+     "start": 3135,
+     "end": 3483
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3487,
+   "end": 3933,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Underneath was a cavern with a sloping roof, stone pillars and a flat floor. They pumped four neighbouring ponds. Each one was the doorway to another hall. Later, nineteen more chambers were found nearby.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 13.8,
+     "start": 3497,
+     "end": 3911
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3915,
+   "end": 4323,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The five drained caves are now a tourist site. The biggest single chambers cover well over a thousand square metres, and the deepest drops more than thirty metres from the entrance to the floor.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 12.504,
+     "start": 3925,
+     "end": 4301
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4305,
+   "end": 4552,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the caves are real, they are man-made, and they are huge. That is the first waterline. Now, the claims.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 7.152,
+     "start": 4315,
+     "end": 4530
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "LEVEL II",
+    "The Claims",
+    "1992 \u2192 TODAY"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4534,
+   "end": 4816,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Level two: the claims. The caves became a staple of mystery websites, and of the Ancient Aliens television franchise.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 8.328,
+     "start": 4544,
+     "end": 4794
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4798,
+   "end": 5327,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The argument starts with the walls. Across thousands of square metres, the chisel marks run in even bands about sixty centimetres wide, each stroke set at the same angle. To some eyes, that looks like the cutting head of a machine, not a human hand.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 16.56,
+     "start": 4808,
+     "end": 5305
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5309,
+   "end": 5707,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Online, people compare the pattern to the marks left by modern tunnel-boring machines. Some websites go further and credit the Anunnaki, or a lost high-tech civilisation.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 12.192,
+     "start": 5319,
+     "end": 5685
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5689,
+   "end": 6015,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the numbers. Estimates for the stone removed from the known caves run to about nine hundred thousand cubic metres. Where did all of that go?",
+     "file": "ep/audio/s16.mp3",
+     "dur": 9.768,
+     "start": 5699,
+     "end": 5993
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5997,
+   "end": 6398,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the precision. In places, two caves are separated by a wall only about half a metre thick, yet they never break into each other. How did ancient builders survey that blind?",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.288,
+     "start": 6007,
+     "end": 6376
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6380,
+   "end": 6679,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the darkness. Popular accounts say no soot from lamps or torches has been found on the ceilings. So how did the workers see?",
+     "file": "ep/audio/s18.mp3",
+     "dur": 8.88,
+     "start": 6390,
+     "end": 6657
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6661,
+   "end": 7071,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the heart of the claim: China kept records for thousands of years. A project this big, the argument goes, should be in the books. It isn't. Therefore someone, or something, else built it.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.6,
+     "start": 6671,
+     "end": 7049
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7053,
+   "end": 7399,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Those are the claims: machine-like marks, missing stone, impossible precision, no light, no record. The water drops again. Let's test them one by one.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 10.464,
+     "start": 7063,
+     "end": 7377
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LEVEL III",
+    "The Marks",
+    "IRON \u00b7 HAND \u00b7 RHYTHM"
+   ],
+   "img": "ep/img/shot_21.jpg",
+   "start": 7381,
+   "end": 7927,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Level three: the marks. Look closely and the pattern is not perfect. Strokes vary in length and depth. Bands wander. An observer who visited in the year two thousand made exactly that point: these are the small differences of skilled craftsmen, not of a machine.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 17.112,
+     "start": 7391,
+     "end": 7905
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7909,
+   "end": 8387,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the tools themselves turned up. In January two thousand and two, clearing the entrance of cave two, workers found an iron wedge still jammed in a crack in the rock. Masons call this kind of wedge a stone rat.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 14.856,
+     "start": 7919,
+     "end": 8365
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8369,
+   "end": 8720,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three days later, in the silt of cave five, they found a short iron chisel with a square point and a thick spindle-shaped body. A quarryman's tool, not a laser.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.608,
+     "start": 8379,
+     "end": 8698
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8702,
+   "end": 9191,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand and seven, for a China Central Television documentary, Professor Zhou Shaoxiong asked local stonemasons to show how they still cut this rock underground. The method has a local name: the earth rat.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 15.216,
+     "start": 8712,
+     "end": 9169
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9173,
+   "end": 9576,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The masons cut a channel, drove wedges, and peeled the stone off from above. What they left behind were rows of regular, slanted chisel marks with the same rhythm as the cave walls.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 12.36,
+     "start": 9183,
+     "end": 9554
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9558,
+   "end": 9984,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The same team tested samples. Rock taken from underground was much softer than the weathered rock at the surface. So working down into the hill, out of the sun, was actually easier on the tools.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 13.104,
+     "start": 9568,
+     "end": 9962
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9966,
+   "end": 10343,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why so regular? Because a mason working a soft, even rock, strike after strike, in a set rhythm, produces a pattern. Repetition is not technology. It is practice.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.496,
+     "start": 9976,
+     "end": 10321
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10325,
+   "end": 10656,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Iron wedge, iron chisel, and a living craft that reproduces the marks. The machine theory just lost its strongest clue. The water drops.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 9.936,
+     "start": 10335,
+     "end": 10634
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LEVEL IV",
+    "The Plan",
+    "PILLARS \u00b7 ROOFS \u00b7 ADITS"
+   ],
+   "img": "ep/img/shot_29.jpg",
+   "start": 10638,
+   "end": 10997,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Level four: the plan. If the marks show human hands, the shapes show human heads. Each cave keeps one to five huge pillars, left standing in the solid rock.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 10.896,
+     "start": 10648,
+     "end": 10975
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10979,
+   "end": 11426,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They are an odd shape: wide at one end, curved and narrow at the other, like a fish tail or an old flat iron. The long side runs along the slope of the roof, the direction where the load is greatest.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 13.824,
+     "start": 10989,
+     "end": 11404
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11408,
+   "end": 11908,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the roofs slope. Engineers from the Chinese Academy of Sciences measured them and found the slope of each ceiling almost matches the tilt of the natural rock layers. Cut along the bedding, and the roof is far less likely to fall.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 15.6,
+     "start": 11418,
+     "end": 11886
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11890,
+   "end": 12406,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even better, there are trial tunnels. Small test adits, started and then abandoned where a weak layer of clay showed up in the rock. A twenty sixteen study calls this probably the earliest known use of exploratory adits to test the ground.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 16.104,
+     "start": 11900,
+     "end": 12384
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12388,
+   "end": 12854,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lighting? The entrances face roughly south, so sunlight falls deep into the halls for much of the day. And small oil lamps or clean-burning torches leave little soot, especially on walls that spent centuries underwater.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 14.448,
+     "start": 12398,
+     "end": 12832
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12836,
+   "end": 13337,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the thin walls? Masons cutting downward from the surface can measure from the openings they can see, and a skilled crew working slowly does not need to break through to know where it is. A thin wall is impressive. It is not impossible.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 15.624,
+     "start": 12846,
+     "end": 13315
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13319,
+   "end": 13768,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look at the floors and stairs too. The steps are often two or three metres high, useless for walking. But they look exactly like quarry benches: the stepped faces left when stone is cut out layer by layer.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 13.872,
+     "start": 13329,
+     "end": 13746
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13750,
+   "end": 14145,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the caves were planned by people who read rock like a book. Pillars, sloping roofs, test tunnels, quarry benches. Brilliant, and entirely human. The water drops again.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 12.096,
+     "start": 13760,
+     "end": 14123
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LEVEL V",
+    "The Missing Stone",
+    "~900,000 M\u00b3 \u2192 THE RIVER"
+   ],
+   "img": "ep/img/shot_37.jpg",
+   "start": 14127,
+   "end": 14545,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Level five: the missing stone. Nine hundred thousand cubic metres is a lot of rock. But look where the caves are: right on the bank of the Qu River, a navigable branch of the Qiantang.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 12.84,
+     "start": 14137,
+     "end": 14523
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14527,
+   "end": 14899,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If this was a quarry, the stone was the product, not the waste. You would not expect a heap. You would expect it in walls, foundations, bridges and pagodas downstream.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 11.328,
+     "start": 14537,
+     "end": 14877
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14881,
+   "end": 15330,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And that is what researchers report. Local studies describe a long tradition of quarrying this red sandstone across Longyou County, used above all for the bases of walls, pagodas and bridges.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.872,
+     "start": 14891,
+     "end": 15308
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15312,
+   "end": 15710,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Curators at the Quzhou museum surveyed similar stone chambers across the region and argued the same thing: these were quarries, and the stone went into city walls and other big works.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.192,
+     "start": 15322,
+     "end": 15688
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15692,
+   "end": 16102,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a sister site. Two hundred kilometres north-west, on the Xin'an River, the Huashan Grottoes have the same pillars, the same banded chisel marks, the same riverside position.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.6,
+     "start": 15702,
+     "end": 16080
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 16084,
+   "end": 16628,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scientists dated the Huashan caves by measuring lichen growth on their walls, and the answer came back as the late Ming dynasty, a few centuries ago. A comparative study concluded both groups were building-stone quarries along navigable rivers.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 17.064,
+     "start": 16094,
+     "end": 16606
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16610,
+   "end": 17175,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why dig down instead of opening the hillside? Because the softer underground rock is easier to cut, the good beds run downward at an angle, and farmland on top stays farmland. Even the discoverers objected to the quarry idea, but the geology answers them.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 17.736,
+     "start": 16620,
+     "end": 17153
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 17157,
+   "end": 17470,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The missing stone is not missing. It most likely floated away, block by block, and became the region's foundations. The water drops.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 9.336,
+     "start": 17167,
+     "end": 17448
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LEVEL VI",
+    "The Date",
+    "HAN? SONG? MING?"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 17452,
+   "end": 17657,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Level six: the date. And this is where the real mystery lives. Not who could, but when.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 5.76,
+     "start": 17462,
+     "end": 17635
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17639,
+   "end": 18117,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "When silt was cleared from cave two in two thousand and one, diggers found pieces of glazed pottery identified as Han dynasty. That is why so many articles say the caves are at least two thousand years old.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 14.856,
+     "start": 17649,
+     "end": 18095
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 18099,
+   "end": 18462,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But pottery in the mud dates the mud, not the cutting. And the same layers also held Ming porcelain and modern rubbish, washed in after the caves were abandoned.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 11.016,
+     "start": 18109,
+     "end": 18440
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18444,
+   "end": 18903,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand and eight, the Zhejiang Provincial Institute of Archaeology excavated caves six and seven. They found jars of a type known from Song dynasty tombs, and Ming blue-and-white bowls.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 14.208,
+     "start": 18454,
+     "end": 18881
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18885,
+   "end": 19335,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A panel of six senior national experts then inspected the caves. Their preliminary view: the caves were cut around the Song dynasty, roughly a thousand years ago, and caves six and seven were a quarry.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 13.92,
+     "start": 18895,
+     "end": 19313
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 19317,
+   "end": 19755,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Other scholars still argue for older dates, from the Han, or even the age of the Yue kingdom. Proposals span more than three thousand years. Rock carved by hand gives no carbon to date.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 13.512,
+     "start": 19327,
+     "end": 19733
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19737,
+   "end": 20194,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the honest answer is: we do not yet know exactly when. Perhaps one long quarry, worked and abandoned over many centuries. That is a real, open question, and a much more interesting one than aliens.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 14.16,
+     "start": 19747,
+     "end": 20172
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 20176,
+   "end": 20321,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The water is almost gone. One level left: the silence.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 3.744,
+     "start": 20186,
+     "end": 20299
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "LEVEL VII",
+    "The Silence",
+    "POEMS \u00b7 GAZETTEERS"
+   ],
+   "img": "ep/img/shot_53.jpg",
+   "start": 20303,
+   "end": 20503,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Level seven: the silence. Is it true that no record mentions the caves? Not quite.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 5.592,
+     "start": 20313,
+     "end": 20481
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 20485,
+   "end": 20990,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A poem from the Yuan dynasty, about a riverside cavern in this same cluster, says that for ten thousand ages the marks of axes and chisels still remain. A seventeenth-century poem by Yu Xun mentions the chambers too.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 15.744,
+     "start": 20495,
+     "end": 20968
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 20972,
+   "end": 21409,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The county's gazetteers, the official local histories printed in sixteen twelve, sixteen eighty-one and nineteen twenty-five, include writing on Fenghuang Hill and describe riverside quarry caves.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 13.488,
+     "start": 20982,
+     "end": 21387
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21391,
+   "end": 21835,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What is missing is a building record: who ordered the work, who paid, who cut. And that is normal for quarries. Chroniclers wrote about emperors, wars and temples, not about the men who cut foundation stones.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 13.704,
+     "start": 21401,
+     "end": 21813
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21817,
+   "end": 22210,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "After they were abandoned, the flooded caves became village ponds, and one was even used as a temple fish-release pool. The workers left. The water came in. Memory faded.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 12.024,
+     "start": 21827,
+     "end": 22188
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 22192,
+   "end": 22688,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ironically, the water also saved them. Engineers found that being full of water kept the soft rock stable for centuries. Since the pumps ran, cracks and small rockfalls have appeared, and steel supports were added in twenty twelve.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 15.456,
+     "start": 22202,
+     "end": 22666
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 22670,
+   "end": 22986,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the silence was never total. It was the ordinary silence of working people, whose labour fills our cities but rarely our history books.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 9.456,
+     "start": 22680,
+     "end": 22964
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "THE FLOOR",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 22968,
+   "end": 23111,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The pumps stop. We have reached the floor. Here is the scorecard.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 3.696,
+     "start": 22978,
+     "end": 23089
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 23093,
+   "end": 23635,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "An iron wedge and an iron chisel in the caves: evidence. Chisel marks reproduced by local masons: evidence. Roofs cut along the rock layers, and test tunnels: evidence. The missing stone, shipped down the river into local building: likely.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 16.968,
+     "start": 23103,
+     "end": 23613
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23617,
+   "end": 24032,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alien machines or lost high technology: no evidence. A secret army base or royal palace: unproven. The exact date and first purpose of the caves: still debated.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 12.744,
+     "start": 23627,
+     "end": 24010
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 24014,
+   "end": 24527,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. The Longyou Caves were cut by people, with iron tools, by masons who understood their rock better than most of us understand anything. The strongest explanation is a vast building-stone quarry beside a river highway.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 16.008,
+     "start": 24024,
+     "end": 24505
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 24509,
+   "end": 24851,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What stays open is the date, and whether some halls were later reused. That is a question for archaeologists with trowels and lichen, not for aliens.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 10.32,
+     "start": 24519,
+     "end": 24829
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 24833,
+   "end": 25201,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the real wonder is this: a hill hollowed out by hand, stroke by stroke, by people whose names nobody wrote down. They are the builders. They deserve the credit.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 11.184,
+     "start": 24843,
+     "end": 25179
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 25183,
+   "end": 25471,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That's the floor. Which waterline surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 8.52,
+     "start": 25193,
+     "end": 25449
+    }
+   ]
+  }
+ ]
+}

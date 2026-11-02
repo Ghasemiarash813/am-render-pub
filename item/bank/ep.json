@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A small rectangular stone-edged pond in a quiet Chinese village at dawn, perfectly still dark water reflecting the sky, green hills, mist, cinematic photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In a village in eastern China there was a pond the locals called bottomless. In the worst droughts it never dropped. Nobody had ever seen the bottom."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In a village in eastern China there was a pond the locals called bottomless. In the worst droughts it never dropped. Nobody had ever seen the bottom.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 9.936
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An old diesel water pump with a thick hose running into a dark village pond at night, lantern light, puddles, cinematic photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In June nineteen ninety-two, four farmers decided to find out why. They brought a water pump. They ran it day and night. It took seventeen days."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In June nineteen ninety-two, four farmers decided to find out why. They brought a water pump. They ran it day and night. It took seventeen days.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Vast dark underground hall carved into red sandstone, giant leaning pillars, a single shaft of sunlight falling from a small opening above, wet floor, cinematic photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What the water had hidden was not a pond. It was the roof of a hall carved into solid rock, as tall as a ten-storey building, with giant pillars and every wall covered in neat, parallel chisel marks."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What the water had hidden was not a pond. It was the roof of a hall carved into solid rock, as tall as a ten-storey building, with giant pillars and every wall covered in neat, parallel chisel marks.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 14.04
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept, a glowing alien drilling machine with rotating cutting heads carving a vast underground chamber in red rock, beams of light, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And because no history book seems to mention it, a question has followed it ever since. Who could cut a cave like this, and leave no record at all? Some say: not us."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And because no history book seems to mention it, a question has followed it ever since. Who could cut a cave like this, and leave no record at all? Some say: not us.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 10.776
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Water level gauge pole standing in dark still water inside a cave, faint waterline glow, red sandstone wall behind, moody cinematic photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So today we drain this case the way the farmers drained the pond. Level by level. At each new waterline we look at what has been uncovered: the evidence, and the theory. At the floor, we give the verdict."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So today we drain this case the way the farmers drained the pond. Level by level. At each new waterline we look at what has been uncovered: the evidence, and the theory. At the floor, we give the verdict.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Rural landscape in Zhejiang China, low green hill with farmhouses and small ponds beside a wide calm river, soft morning light, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Level one: the pond. The village is Shiyanbei, on Fenghuang Hill, beside the Qu River in Longyou County, Zhejiang province."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LEVEL I",
+   "The Pond",
+   "SHIYANBEI \u00b7 ZHEJIANG"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Level one: the pond. The village is Shiyanbei, on Fenghuang Hill, beside the Qu River in Longyou County, Zhejiang province.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 9.408
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Several small rectangular rock-cut water pools scattered among village houses and vegetable plots, overhead drone view, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The village had several of these small, square, stone-edged pools. Villagers drew water from them and fished in them. Some had fish, others never did. That oddity is what made the farmers curious."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The village had several of these small, square, stone-edged pools. Villagers drew water from them and fished in them. Some had fish, others never did. That oddity is what made the farmers curious.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Four Chinese farmers in 1990s work clothes standing beside a pond with a water pump and hoses, overcast day, documentary photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A local farmer, Wu Anai, and three companions started pumping. One story says they hoped for a tourist attraction. Another says they were looking for a jade statue rumoured to have been thrown into the water decades earlier."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A local farmer, Wu Anai, and three companions started pumping. One story says they hoped for a tourist attraction. Another says they were looking for a jade statue rumoured to have been thrown into the water decades earlier.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 14.856
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Water level dropping inside a stone shaft, revealing a carved rock wall with diagonal chisel grooves and the top of a carved staircase emerging from the water, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "As the water dropped, the sides did not stop. They sloped inward, and a stone staircase appeared, cut from the living rock. After seventeen days the pumps reached the floor."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "As the water dropped, the sides did not stop. They sloped inward, and a stone staircase appeared, cut from the living rock. After seventeen days the pumps reached the floor.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Inside an enormous drained cave, red sandstone ceiling sloping down, three giant triangular pillars, mud on the floor, flashlight beams, documentary photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Underneath was a cavern with a sloping roof, stone pillars and a flat floor. They pumped four neighbouring ponds. Each one was the doorway to another hall. Later, nineteen more chambers were found nearby."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Underneath was a cavern with a sloping roof, stone pillars and a flat floor. They pumped four neighbouring ponds. Each one was the doorway to another hall. Later, nineteen more chambers were found nearby.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 13.8
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "sand",
+  "motion": "out",
+  "prompt": "Tourists walking on a lit walkway inside a vast red sandstone cave with chisel-marked walls, warm lights, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The five drained caves are now a tourist site. The biggest single chambers cover well over a thousand square metres, and the deepest drops more than thirty metres from the entrance to the floor."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The five drained caves are now a tourist site. The biggest single chambers cover well over a thousand square metres, and the deepest drops more than thirty metres from the entrance to the floor.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 12.504
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Still black water with a single glowing horizontal waterline mark on a wet red stone wall, close-up, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the caves are real, they are man-made, and they are huge. That is the first waterline. Now, the claims."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the caves are real, they are man-made, and they are huge. That is the first waterline. Now, the claims.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 7.152
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A television studio style dark set with a glowing screen showing a dramatic underground cave, silhouette of a presenter, moody blue light, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Level two: the claims. The caves became a staple of mystery websites, and of the Ancient Aliens television franchise."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "LEVEL II",
+   "The Claims",
+   "1992 \u2192 TODAY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Level two: the claims. The caves became a staple of mystery websites, and of the Ancient Aliens television franchise.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 8.328
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Extreme close-up of perfectly regular parallel diagonal chisel grooves in bands across red sandstone, raking light, macro photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The argument starts with the walls. Across thousands of square metres, the chisel marks run in even bands about sixty centimetres wide, each stroke set at the same angle. To some eyes, that looks like the cutting head of a machine, not a human hand."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The argument starts with the walls. Across thousands of square metres, the chisel marks run in even bands about sixty centimetres wide, each stroke set at the same angle. To some eyes, that looks like the cutting head of a machine, not a human hand.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 16.56
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept art of a futuristic tunnel boring machine with a round cutting face inside a red rock tunnel, sparks and lights, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Online, people compare the pattern to the marks left by modern tunnel-boring machines. Some websites go further and credit the Anunnaki, or a lost high-tech civilisation."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Online, people compare the pattern to the marks left by modern tunnel-boring machines. Some websites go further and credit the Anunnaki, or a lost high-tech civilisation.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Huge pile of reddish rock rubble and stone blocks seen from above at a quarry, scale suggested by tiny workers, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the numbers. Estimates for the stone removed from the known caves run to about nine hundred thousand cubic metres. Where did all of that go?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the numbers. Estimates for the stone removed from the known caves run to about nine hundred thousand cubic metres. Where did all of that go?",
+    "file": "ep/audio/s16.mp3",
+    "dur": 9.768
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Two huge underground caves separated by a thin rock wall, cutaway illustration style painting, dim light, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the precision. In places, two caves are separated by a wall only about half a metre thick, yet they never break into each other. How did ancient builders survey that blind?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the precision. In places, two caves are separated by a wall only about half a metre thick, yet they never break into each other. How did ancient builders survey that blind?",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.288
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Dark cave ceiling of red sandstone with no soot, a small bright opening far above letting in light, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the darkness. Popular accounts say no soot from lamps or torches has been found on the ceilings. So how did the workers see?"
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the darkness. Popular accounts say no soot from lamps or torches has been found on the ceilings. So how did the workers see?",
+    "file": "ep/audio/s18.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient Chinese bamboo slips and blank scrolls stacked on a dark wooden table, candle light, blank surfaces, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the heart of the claim: China kept records for thousands of years. A project this big, the argument goes, should be in the books. It isn't. Therefore someone, or something, else built it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the heart of the claim: China kept records for thousands of years. A project this big, the argument goes, should be in the books. It isn't. Therefore someone, or something, else built it.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.6
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A glowing waterline mark on a wet stone wall, water a little lower than before, dark cave, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Those are the claims: machine-like marks, missing stone, impossible precision, no light, no record. The water drops again. Let's test them one by one."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Those are the claims: machine-like marks, missing stone, impossible precision, no light, no record. The water drops again. Let's test them one by one.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of red sandstone cave wall covered in diagonal chisel grooves, slightly irregular, side light, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Level three: the marks. Look closely and the pattern is not perfect. Strokes vary in length and depth. Bands wander. An observer who visited in the year two thousand made exactly that point: these are the small differences of skilled craftsmen, not of a machine."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LEVEL III",
+   "The Marks",
+   "IRON \u00b7 HAND \u00b7 RHYTHM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Level three: the marks. Look closely and the pattern is not perfect. Strokes vary in length and depth. Bands wander. An observer who visited in the year two thousand made exactly that point: these are the small differences of skilled craftsmen, not of a machine.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 17.112
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A rusty ancient iron wedge stuck in a crack of red sandstone rock, close-up, archaeological photograph style, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the tools themselves turned up. In January two thousand and two, clearing the entrance of cave two, workers found an iron wedge still jammed in a crack in the rock. Masons call this kind of wedge a stone rat."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the tools themselves turned up. In January two thousand and two, clearing the entrance of cave two, workers found an iron wedge still jammed in a crack in the rock. Masons call this kind of wedge a stone rat.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 14.856
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A short corroded ancient iron chisel with a square point lying on wet silt, archaeological find, close-up photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three days later, in the silt of cave five, they found a short iron chisel with a square point and a thick spindle-shaped body. A quarryman's tool, not a laser."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three days later, in the silt of cave five, they found a short iron chisel with a square point and a thick spindle-shaped body. A quarryman's tool, not a laser.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Chinese stonemason in work clothes kneeling on a red sandstone floor striking a long iron chisel with a hammer, chips flying, documentary photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand and seven, for a China Central Television documentary, Professor Zhou Shaoxiong asked local stonemasons to show how they still cut this rock underground. The method has a local name: the earth rat."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand and seven, for a China Central Television documentary, Professor Zhou Shaoxiong asked local stonemasons to show how they still cut this rock underground. The method has a local name: the earth rat.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 15.216
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro close-up of fresh diagonal parallel chisel grooves being cut into red sandstone, iron chisel tip visible, stone dust, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The masons cut a channel, drove wedges, and peeled the stone off from above. What they left behind were rows of regular, slanted chisel marks with the same rhythm as the cave walls."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The masons cut a channel, drove wedges, and peeled the stone off from above. What they left behind were rows of regular, slanted chisel marks with the same rhythm as the cave walls.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.36
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Two cut samples of red sandstone on a laboratory bench, one darker and damp-looking, a hand pressing a steel probe into one, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The same team tested samples. Rock taken from underground was much softer than the weathered rock at the surface. So working down into the hill, out of the sun, was actually easier on the tools."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The same team tested samples. Rock taken from underground was much softer than the weathered rock at the surface. So working down into the hill, out of the sun, was actually easier on the tools.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Wide view of a cave wall with banded diagonal chisel marks in rows, a single worker silhouette for scale, warm lamp light, cinematic photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why so regular? Because a mason working a soft, even rock, strike after strike, in a set rhythm, produces a pattern. Repetition is not technology. It is practice."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why so regular? Because a mason working a soft, even rock, strike after strike, in a set rhythm, produces a pattern. Repetition is not technology. It is practice.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A glowing waterline mark on a wet red stone wall next to diagonal chisel marks, darker water below, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Iron wedge, iron chisel, and a living craft that reproduces the marks. The machine theory just lost its strongest clue. The water drops."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Iron wedge, iron chisel, and a living craft that reproduces the marks. The machine theory just lost its strongest clue. The water drops.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 9.936
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Inside a vast red sandstone cave, a giant arc-sided triangular stone pillar flaring into a sloping ceiling, dramatic light, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Level four: the plan. If the marks show human hands, the shapes show human heads. Each cave keeps one to five huge pillars, left standing in the solid rock."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LEVEL IV",
+   "The Plan",
+   "PILLARS \u00b7 ROOFS \u00b7 ADITS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Level four: the plan. If the marks show human hands, the shapes show human heads. Each cave keeps one to five huge pillars, left standing in the solid rock.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 10.896
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Low angle view of a fish-tail shaped stone pillar in a cave, wide end and narrow end, smooth chiselled surface, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They are an odd shape: wide at one end, curved and narrow at the other, like a fish tail or an old flat iron. The long side runs along the slope of the roof, the direction where the load is greatest."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They are an odd shape: wide at one end, curved and narrow at the other, like a fish tail or an old flat iron. The long side runs along the slope of the roof, the direction where the load is greatest.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 13.824
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cross-section painting of layered red sedimentary rock with a cave whose sloping ceiling follows the tilted rock layers exactly, educational illustration style without labels, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the roofs slope. Engineers from the Chinese Academy of Sciences measured them and found the slope of each ceiling almost matches the tilt of the natural rock layers. Cut along the bedding, and the roof is far less likely to fall."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the roofs slope. Engineers from the Chinese Academy of Sciences measured them and found the slope of each ceiling almost matches the tilt of the natural rock layers. Cut along the bedding, and the roof is far less likely to fall.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 15.6
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small abandoned exploratory tunnel entrance cut into red rock beside a large cave, a thin grey clay layer visible in the rock, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even better, there are trial tunnels. Small test adits, started and then abandoned where a weak layer of clay showed up in the rock. A twenty sixteen study calls this probably the earliest known use of exploratory adits to test the ground."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even better, there are trial tunnels. Small test adits, started and then abandoned where a weak layer of clay showed up in the rock. A twenty sixteen study calls this probably the earliest known use of exploratory adits to test the ground.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 16.104
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Sunlight streaming diagonally through a small rectangular opening into a huge dark red sandstone cave, dust in the beam, cinematic photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lighting? The entrances face roughly south, so sunlight falls deep into the halls for much of the day. And small oil lamps or clean-burning torches leave little soot, especially on walls that spent centuries underwater."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lighting? The entrances face roughly south, so sunlight falls deep into the halls for much of the day. And small oil lamps or clean-burning torches leave little soot, especially on walls that spent centuries underwater.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A thin rock wall between two neighbouring caves seen from inside one cave, light faintly visible through a small hole, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the thin walls? Masons cutting downward from the surface can measure from the openings they can see, and a skilled crew working slowly does not need to break through to know where it is. A thin wall is impressive. It is not impossible."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the thin walls? Masons cutting downward from the surface can measure from the openings they can see, and a skilled crew working slowly does not need to break through to know where it is. A thin wall is impressive. It is not impossible.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 15.624
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Stepped rock benches descending into a quarried cave floor, each step half a metre high, unfinished working faces, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look at the floors and stairs too. The steps are often two or three metres high, useless for walking. But they look exactly like quarry benches: the stepped faces left when stone is cut out layer by layer."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look at the floors and stairs too. The steps are often two or three metres high, useless for walking. But they look exactly like quarry benches: the stepped faces left when stone is cut out layer by layer.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A glowing waterline mark on a wet red sandstone wall beside a pillar, darker water, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the caves were planned by people who read rock like a book. Pillars, sloping roofs, test tunnels, quarry benches. Brilliant, and entirely human. The water drops again."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the caves were planned by people who read rock like a book. Pillars, sloping roofs, test tunnels, quarry benches. Brilliant, and entirely human. The water drops again.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide calm river in southern China with low hills, a traditional wooden cargo boat loaded with red stone blocks, misty morning, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Level five: the missing stone. Nine hundred thousand cubic metres is a lot of rock. But look where the caves are: right on the bank of the Qu River, a navigable branch of the Qiantang."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LEVEL V",
+   "The Missing Stone",
+   "~900,000 M\u00b3 \u2192 THE RIVER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Level five: the missing stone. Nine hundred thousand cubic metres is a lot of rock. But look where the caves are: right on the bank of the Qu River, a navigable branch of the Qiantang.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Old stone foundation of a traditional Chinese village house built from red sandstone blocks, weathered, close-up, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If this was a quarry, the stone was the product, not the waste. You would not expect a heap. You would expect it in walls, foundations, bridges and pagodas downstream."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If this was a quarry, the stone was the product, not the waste. You would not expect a heap. You would expect it in walls, foundations, bridges and pagodas downstream.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.328
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient city wall built of large red sandstone blocks in a southern Chinese town, overcast light, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that is what researchers report. Local studies describe a long tradition of quarrying this red sandstone across Longyou County, used above all for the bases of walls, pagodas and bridges."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that is what researchers report. Local studies describe a long tradition of quarrying this red sandstone across Longyou County, used above all for the bases of walls, pagodas and bridges.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Old stone arch bridge of red sandstone blocks over a small river in a Chinese village, green trees, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Curators at the Quzhou museum surveyed similar stone chambers across the region and argued the same thing: these were quarries, and the stone went into city walls and other big works."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Curators at the Quzhou museum surveyed similar stone chambers across the region and argued the same thing: these were quarries, and the stone went into city walls and other big works.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Large rock-cut cave entrance on a riverbank in Anhui China, still green water, red-grey sandstone cliff, misty, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is a sister site. Two hundred kilometres north-west, on the Xin'an River, the Huashan Grottoes have the same pillars, the same banded chisel marks, the same riverside position."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is a sister site. Two hundred kilometres north-west, on the Xin'an River, the Huashan Grottoes have the same pillars, the same banded chisel marks, the same riverside position.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.6
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of lichen growing on a grey sandstone surface with old chisel marks, macro photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scientists dated the Huashan caves by measuring lichen growth on their walls, and the answer came back as the late Ming dynasty, a few centuries ago. A comparative study concluded both groups were building-stone quarries along navigable rivers."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scientists dated the Huashan caves by measuring lichen growth on their walls, and the answer came back as the late Ming dynasty, a few centuries ago. A comparative study concluded both groups were building-stone quarries along navigable rivers.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 17.064
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Workers loading cut stone blocks onto a wooden boat at a riverside landing, historical reconstruction, painterly photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why dig down instead of opening the hillside? Because the softer underground rock is easier to cut, the good beds run downward at an angle, and farmland on top stays farmland. Even the discoverers objected to the quarry idea, but the geology answers them."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why dig down instead of opening the hillside? Because the softer underground rock is easier to cut, the good beds run downward at an angle, and farmland on top stays farmland. Even the discoverers objected to the quarry idea, but the geology answers them.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 17.736
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A glowing waterline mark low on a wet red stone wall, the river reflected faintly, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The missing stone is not missing. It most likely floated away, block by block, and became the region's foundations. The water drops."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The missing stone is not missing. It most likely floated away, block by block, and became the region's foundations. The water drops.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 9.336
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Archaeologists in boots digging in thick wet mud on the floor of a large cave, buckets and trowels, work lights, documentary photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Level six: the date. And this is where the real mystery lives. Not who could, but when."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LEVEL VI",
+   "The Date",
+   "HAN? SONG? MING?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Level six: the date. And this is where the real mystery lives. Not who could, but when.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 5.76
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Fragments of an ancient glazed stoneware jar on wet silt with a small trowel beside them, close-up archaeological photograph, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "When silt was cleared from cave two in two thousand and one, diggers found pieces of glazed pottery identified as Han dynasty. That is why so many articles say the caves are at least two thousand years old."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "When silt was cleared from cave two in two thousand and one, diggers found pieces of glazed pottery identified as Han dynasty. That is why so many articles say the caves are at least two thousand years old.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 14.856
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeological trench section through layered silt and debris, showing modern trash above and older mud below, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But pottery in the mud dates the mud, not the cutting. And the same layers also held Ming porcelain and modern rubbish, washed in after the caves were abandoned."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But pottery in the mud dates the mud, not the cutting. And the same layers also held Ming porcelain and modern rubbish, washed in after the caves were abandoned.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Excavation inside a second cave with stepped floor benches and archaeologists measuring, documentary photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand and eight, the Zhejiang Provincial Institute of Archaeology excavated caves six and seven. They found jars of a type known from Song dynasty tombs, and Ming blue-and-white bowls."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand and eight, the Zhejiang Provincial Institute of Archaeology excavated caves six and seven. They found jars of a type known from Song dynasty tombs, and Ming blue-and-white bowls.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 14.208
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Six senior experts in coats inspecting a red sandstone cave wall with flashlights, documentary photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A panel of six senior national experts then inspected the caves. Their preliminary view: the caves were cut around the Song dynasty, roughly a thousand years ago, and caves six and seven were a quarry."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A panel of six senior national experts then inspected the caves. Their preliminary view: the caves were cut around the Song dynasty, roughly a thousand years ago, and caves six and seven were a quarry.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 13.92
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Split image concept, one side ancient Han dynasty pottery, other side Song dynasty ceramic jar, on dark cloth, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Other scholars still argue for older dates, from the Han, or even the age of the Yue kingdom. Proposals span more than three thousand years. Rock carved by hand gives no carbon to date."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Other scholars still argue for older dates, from the Han, or even the age of the Yue kingdom. Proposals span more than three thousand years. Rock carved by hand gives no carbon to date.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A single flickering oil lamp on a stone ledge inside a vast dark cave, cinematic photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the honest answer is: we do not yet know exactly when. Perhaps one long quarry, worked and abandoned over many centuries. That is a real, open question, and a much more interesting one than aliens."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the honest answer is: we do not yet know exactly when. Perhaps one long quarry, worked and abandoned over many centuries. That is a real, open question, and a much more interesting one than aliens.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 14.16
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A glowing waterline mark very low on a wet red stone wall, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The water is almost gone. One level left: the silence."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The water is almost gone. One level left: the silence.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 3.744
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Old Chinese books with plain blank covers stacked on a wooden shelf in dim light, dust in the air, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Level seven: the silence. Is it true that no record mentions the caves? Not quite."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "LEVEL VII",
+   "The Silence",
+   "POEMS \u00b7 GAZETTEERS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Level seven: the silence. Is it true that no record mentions the caves? Not quite.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 5.592
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Misty riverside cliff with a cave opening above the water, a small boat with a scholar, traditional Chinese painting style but photoreal, no inscriptions, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A poem from the Yuan dynasty, about a riverside cavern in this same cluster, says that for ten thousand ages the marks of axes and chisels still remain. A seventeenth-century poem by Yu Xun mentions the chambers too."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A poem from the Yuan dynasty, about a riverside cavern in this same cluster, says that for ten thousand ages the marks of axes and chisels still remain. A seventeenth-century poem by Yu Xun mentions the chambers too.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 15.744
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Old hand-bound book lying closed on a desk next to a red sandstone block and an iron chisel, warm light, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The county's gazetteers, the official local histories printed in sixteen twelve, sixteen eighty-one and nineteen twenty-five, include writing on Fenghuang Hill and describe riverside quarry caves."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The county's gazetteers, the official local histories printed in sixteen twelve, sixteen eighty-one and nineteen twenty-five, include writing on Fenghuang Hill and describe riverside quarry caves.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Medieval Chinese quarry workers in simple clothes carrying stone blocks on poles near a river, historical reconstruction, painterly photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What is missing is a building record: who ordered the work, who paid, who cut. And that is normal for quarries. Chroniclers wrote about emperors, wars and temples, not about the men who cut foundation stones."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What is missing is a building record: who ordered the work, who paid, who cut. And that is normal for quarries. Chroniclers wrote about emperors, wars and temples, not about the men who cut foundation stones.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dim cave interior with an old shrine niche carved in the wall, small offerings, quiet, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "After they were abandoned, the flooded caves became village ponds, and one was even used as a temple fish-release pool. The workers left. The water came in. Memory faded."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "After they were abandoned, the flooded caves became village ponds, and one was even used as a temple fish-release pool. The workers left. The water came in. Memory faded.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Weathered red sandstone cave wall with fresh cracks and modern steel support beams, photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ironically, the water also saved them. Engineers found that being full of water kept the soft rock stable for centuries. Since the pumps ran, cracks and small rockfalls have appeared, and steel supports were added in twenty twelve."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ironically, the water also saved them. Engineers found that being full of water kept the soft rock stable for centuries. Since the pumps ran, cracks and small rockfalls have appeared, and steel supports were added in twenty twelve.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 15.456
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Elderly villager looking down into a vast illuminated cave from its entrance, quiet moment, documentary photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the silence was never total. It was the ordinary silence of working people, whose labour fills our cities but rarely our history books."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the silence was never total. It was the ordinary silence of working people, whose labour fills our cities but rarely our history books.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark flooded underground cavern with a faint glowing waterline and still black water on the far right edge, large empty dark space on the left, subtle red sandstone texture, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The pumps stop. We have reached the floor. Here is the scorecard."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "THE FLOOR",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The pumps stop. We have reached the floor. Here is the scorecard.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 3.696
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark flooded underground cavern with a faint glowing waterline and still black water on the far right edge, large empty dark space on the left, subtle red sandstone texture, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "An iron wedge and an iron chisel in the caves: evidence. Chisel marks reproduced by local masons: evidence. Roofs cut along the rock layers, and test tunnels: evidence. The missing stone, shipped down the river into local building: likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "An iron wedge and an iron chisel in the caves: evidence. Chisel marks reproduced by local masons: evidence. Roofs cut along the rock layers, and test tunnels: evidence. The missing stone, shipped down the river into local building: likely.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 16.968
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark flooded underground cavern with a faint glowing waterline and still black water on the far right edge, large empty dark space on the left, subtle red sandstone texture, cinematic, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Alien machines or lost high technology: no evidence. A secret army base or royal palace: unproven. The exact date and first purpose of the caves: still debated."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Alien machines or lost high technology: no evidence. A secret army base or royal palace: unproven. The exact date and first purpose of the caves: still debated.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden light falling through the entrance into a vast red sandstone cave with giant pillars, reflection in a shallow pool, cinematic photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The Longyou Caves were cut by people, with iron tools, by masons who understood their rock better than most of us understand anything. The strongest explanation is a vast building-stone quarry beside a river highway."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The Longyou Caves were cut by people, with iron tools, by masons who understood their rock better than most of us understand anything. The strongest explanation is a vast building-stone quarry beside a river highway.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 16.008
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky over a Chinese village with small rectangular ponds reflecting stars, quiet, cinematic photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What stays open is the date, and whether some halls were later reused. That is a question for archaeologists with trowels and lichen, not for aliens."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What stays open is the date, and whether some halls were later reused. That is a question for archaeologists with trowels and lichen, not for aliens.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 10.32
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Visitors with small lights walking through a huge carved cave, chisel-marked walls glowing warm, people small for scale, documentary photoreal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the real wonder is this: a hill hollowed out by hand, stroke by stroke, by people whose names nobody wrote down. They are the builders. They deserve the credit."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the real wonder is this: a hill hollowed out by hand, stroke by stroke, by people whose names nobody wrote down. They are the builders. They deserve the credit.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, still black water with a single glowing waterline ripple in the center, minimal, no text, no letters, no writing, no Chinese characters, no calligraphy, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That's the floor. Which waterline surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That's the floor. Which waterline surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 8.52
+   }
+  ]
+ }
+]
