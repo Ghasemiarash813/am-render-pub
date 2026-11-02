@@ -43,7 +43,7 @@ jobs:
             cat mine.txt
             while read tag a b; do
               start=$(date +%s)
-              npx remotion render Doc out/c$tag.mp4 --frames=$a-$b --concurrency=$(nproc) --muted --crf=18 --log=error < /dev/null
+              npx remotion render Doc out/c$tag.mp4 --frames=$a-$b --concurrency=4 --muted --crf=18 --log=error < /dev/null
               n=$(npx remotion ffprobe -v error -count_packets -select_streams v:0 -show_entries stream=nb_read_packets -of csv=p=0 out/c$tag.mp4 < /dev/null | tr -d '[:space:]')
               echo "$tag frames $n/$((b-a+1)) in $(( $(date +%s)-start ))s"; [ "$n" = "$((b-a+1))" ]
             done < mine.txt
