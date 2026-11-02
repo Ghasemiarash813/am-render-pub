@@ -1,0 +1,839 @@
+1
+00:00:00,333 --> 00:00:03,754
+This little clay jar is about as tall as your hand.
+
+2
+00:00:03,754 --> 00:00:07,108
+It was dug up near Baghdad in nineteen thirty six.
+
+3
+00:00:07,108 --> 00:00:11,199
+And for almost ninety years, people have called it a battery.
+
+4
+00:00:11,666 --> 00:00:14,393
+Two thousand years old, the story goes.
+
+5
+00:00:14,393 --> 00:00:19,566
+Electricity eighteen centuries before Volta's battery of eighteen hundred.
+
+6
+00:00:19,566 --> 00:00:24,600
+Proof, some say, of a lost science, or of knowledge from somewhere else.
+
+7
+00:00:25,066 --> 00:00:27,458
+Inside it there is a copper tube.
+
+8
+00:00:27,458 --> 00:00:29,560
+Inside the tube, an iron rod.
+
+9
+00:00:29,560 --> 00:00:34,127
+Add an acid, and two different metals really do make a current.
+
+10
+00:00:34,127 --> 00:00:35,866
+That part is not a myth.
+
+11
+00:00:36,333 --> 00:00:39,119
+So today we are not going to argue about it.
+
+12
+00:00:39,119 --> 00:00:46,399
+We are going to put it on the bench, take it apart like any other machine, and run every test anyone has run on it.
+
+13
+00:00:50,866 --> 00:00:51,615
+Four parts.
+
+14
+00:00:51,615 --> 00:00:52,773
+Five bench tests.
+
+15
+00:00:52,773 --> 00:00:54,612
+The parts that are missing.
+
+16
+00:00:54,612 --> 00:00:56,859
+Then a spec sheet, and a verdict.
+
+17
+00:00:56,859 --> 00:01:00,333
+Was it a battery at all, or something much quieter?
+
+18
+00:01:00,799 --> 00:01:01,743
+Intake first.
+
+19
+00:01:01,743 --> 00:01:03,701
+Who brought this object in?
+
+20
+00:01:03,701 --> 00:01:11,900
+Wilhelm König, an Austrian painter who in the nineteen thirties ran the laboratory of the Iraq Museum in Baghdad.
+
+21
+00:01:12,366 --> 00:01:19,738
+The jar came from Khujut Rabu, just outside Baghdad, near the ruins of the old capital Ctesiphon.
+
+22
+00:01:19,738 --> 00:01:23,538
+One report says it turned up during railway works.
+
+23
+00:01:23,538 --> 00:01:25,666
+The dig was barely recorded.
+
+24
+00:01:26,133 --> 00:01:34,936
+In nineteen thirty eight König published a short note with a question mark in the title: a galvanic element from the Parthian era?
+
+25
+00:01:34,936 --> 00:01:39,000
+He wondered if ancient gilded silver had been electroplated.
+
+26
+00:01:39,466 --> 00:01:43,548
+A year later the idea jumped to a science fiction magazine.
+
+27
+00:01:43,548 --> 00:01:48,529
+Astounding ran the headline: an electric battery two thousand years ago.
+
+28
+00:01:48,529 --> 00:01:50,466
+It never stopped travelling.
+
+29
+00:01:50,933 --> 00:01:53,430
+Ancient astronaut books went further.
+
+30
+00:01:53,430 --> 00:01:58,425
+Maybe these batteries powered the so called light bulbs carved at Dendera.
+
+31
+00:01:58,425 --> 00:02:01,733
+That claim has its own case file on this channel.
+
+32
+00:02:02,200 --> 00:02:06,511
+Others wired it into the Ark of the Covenant as a machine.
+
+33
+00:02:06,511 --> 00:02:08,220
+Again, a separate file.
+
+34
+00:02:08,220 --> 00:02:15,133
+Today we test only the jar, because every bigger claim stands or falls on this one small pot.
+
+35
+00:02:15,599 --> 00:02:16,291
+Part one.
+
+36
+00:02:16,291 --> 00:02:16,906
+The jar.
+
+37
+00:02:16,906 --> 00:02:23,513
+Pale yellow clay, unglazed, thirteen to fifteen centimetres high, its neck broken off.
+
+38
+00:02:23,513 --> 00:02:25,664
+Nothing about it is unusual.
+
+39
+00:02:25,664 --> 00:02:28,199
+It is ordinary household pottery.
+
+40
+00:02:28,666 --> 00:02:31,525
+And ordinary pottery tells us its age.
+
+41
+00:02:31,525 --> 00:02:37,392
+König called it Parthian, the empire that ruled here from about two fifty B.C.
+
+42
+00:02:37,392 --> 00:02:37,919
+to A.D.
+
+43
+00:02:37,919 --> 00:02:39,122
+two twenty four.
+
+44
+00:02:39,122 --> 00:02:42,733
+That is where the two thousand years comes from.
+
+45
+00:02:43,199 --> 00:02:52,196
+But St John Simpson of the British Museum said the grounds for a Parthian date are unclear, and the pot's style is Sasanian.
+
+46
+00:02:52,196 --> 00:02:55,896
+That makes it a few centuries younger, roughly A.D.
+
+47
+00:02:55,896 --> 00:02:58,000
+two twenty five to six forty.
+
+48
+00:02:58,466 --> 00:03:02,569
+Either way it is genuinely old, and genuinely from Iraq.
+
+49
+00:03:02,569 --> 00:03:04,474
+The first part checks out.
+
+50
+00:03:04,474 --> 00:03:05,866
+Now let us open it.
+
+51
+00:03:06,333 --> 00:03:06,985
+Part two.
+
+52
+00:03:06,985 --> 00:03:08,145
+The copper tube.
+
+53
+00:03:08,145 --> 00:03:13,943
+Rolled from sheet copper, twenty six millimetres wide and nine centimetres tall.
+
+54
+00:03:13,943 --> 00:03:18,800
+Fairly pure copper, König said, with traces of zinc, lead and iron.
+
+55
+00:03:19,266 --> 00:03:25,395
+Its bottom is closed with a copper disc, soldered with lead and covered with more bitumen.
+
+56
+00:03:25,395 --> 00:03:27,574
+The tube was built to be sealed.
+
+57
+00:03:27,574 --> 00:03:28,800
+Hold that thought.
+
+58
+00:03:29,266 --> 00:03:31,754
+Now the first engineering problem.
+
+59
+00:03:31,754 --> 00:03:35,193
+A battery needs two terminals to attach a wire.
+
+60
+00:03:35,193 --> 00:03:38,046
+The iron rod sticks up out of the plug.
+
+61
+00:03:38,046 --> 00:03:40,680
+But the copper is buried in asphalt.
+
+62
+00:03:40,680 --> 00:03:43,900
+No tab, nowhere obvious to connect anything.
+
+63
+00:03:44,366 --> 00:03:49,396
+A modern dry cell looks a little like this: a metal cup around a central rod.
+
+64
+00:03:49,396 --> 00:03:52,531
+That is probably why König thought of a battery.
+
+65
+00:03:52,531 --> 00:03:57,300
+But looking like a battery and being wired like one are different things.
+
+66
+00:03:57,766 --> 00:03:58,598
+Part three.
+
+67
+00:03:58,598 --> 00:04:02,077
+The iron rod, found completely rusted through.
+
+68
+00:04:02,077 --> 00:04:05,708
+Battery fans say that is what acid does to iron.
+
+69
+00:04:05,708 --> 00:04:10,699
+Popular articles even claim tests found traces of vinegar or wine.
+
+70
+00:04:11,166 --> 00:04:14,914
+But trace that vinegar claim back and it runs out.
+
+71
+00:04:14,914 --> 00:04:17,987
+No source, no lab, no published analysis.
+
+72
+00:04:17,987 --> 00:04:23,833
+An iron rod buried for centuries in Iraqi soil will rust with or without acid.
+
+73
+00:04:24,300 --> 00:04:25,341
+Then the shape.
+
+74
+00:04:25,341 --> 00:04:33,468
+The chemist Emmerich Paszthory found that an iron electrode eats away fastest at the neck, where it meets the liquid.
+
+75
+00:04:33,468 --> 00:04:35,205
+The ancient rod does not.
+
+76
+00:04:35,205 --> 00:04:37,566
+It is simply tapered, like a nail.
+
+77
+00:04:38,033 --> 00:04:38,776
+Part four.
+
+78
+00:04:38,776 --> 00:04:39,444
+The seal.
+
+79
+00:04:39,444 --> 00:04:45,760
+Bitumen, natural asphalt, used in Mesopotamia for everything from boats to jewellery.
+
+80
+00:04:45,760 --> 00:04:50,366
+Here it plugs the copper tube and holds the iron rod in place.
+
+81
+00:04:50,833 --> 00:04:54,279
+And here the battery idea gets into real trouble.
+
+82
+00:04:54,279 --> 00:05:00,258
+Chemists found that a copper iron cell with fruit acid only runs while it has oxygen.
+
+83
+00:05:00,258 --> 00:05:05,533
+Seal the tube airtight, like this one, and the current dies almost at once.
+
+84
+00:05:06,000 --> 00:05:08,134
+Bitumen also softens with heat.
+
+85
+00:05:08,134 --> 00:05:12,748
+To top up the liquid you would have to dig out the plug every time.
+
+86
+00:05:12,748 --> 00:05:15,502
+A great way to close something for good.
+
+87
+00:05:15,502 --> 00:05:17,500
+A bad way to build a battery.
+
+88
+00:05:17,966 --> 00:05:19,724
+So that is the teardown.
+
+89
+00:05:19,724 --> 00:05:25,435
+A real ancient jar, a sealed copper tube, a rusted iron rod, an airtight plug.
+
+90
+00:05:25,435 --> 00:05:26,826
+Every part is real.
+
+91
+00:05:26,826 --> 00:05:29,389
+The question is what they were for.
+
+92
+00:05:29,389 --> 00:05:31,366
+Time to put it under power.
+
+93
+00:05:31,833 --> 00:05:32,911
+Bench test one.
+
+94
+00:05:32,911 --> 00:05:34,779
+Pittsfield, Massachusetts.
+
+95
+00:05:34,779 --> 00:05:43,258
+After the magazine story, Willard Gray, an engineer at General Electric, built the first replica with copper sulphate.
+
+96
+00:05:43,258 --> 00:05:47,066
+It worked, he reported, quite well, for a short time.
+
+97
+00:05:47,533 --> 00:05:48,587
+Bench test two.
+
+98
+00:05:48,587 --> 00:05:57,512
+Students at Smith College, with historian of science Marjorie Senechal, measured between zero point eight and nearly two volts.
+
+99
+00:05:57,512 --> 00:06:01,800
+Her view: they may have been batteries, because they do work.
+
+100
+00:06:02,266 --> 00:06:04,596
+Bench test three, the famous one.
+
+101
+00:06:04,596 --> 00:06:07,701
+Hildesheim, Germany, nineteen seventy eight.
+
+102
+00:06:07,701 --> 00:06:17,866
+Museum director Arne Eggebrecht linked replicas filled with grape juice and announced a silver plating one ten thousandth of a millimetre thick.
+
+103
+00:06:18,333 --> 00:06:23,166
+Decades later a researcher at the same museum searched for the records.
+
+104
+00:06:23,166 --> 00:06:29,088
+There is no written documentation of those experiments, she said, not even photographs.
+
+105
+00:06:29,088 --> 00:06:29,633
+Nothing.
+
+106
+00:06:30,100 --> 00:06:33,429
+The chemist Gerhard Eggert added two details.
+
+107
+00:06:33,429 --> 00:06:38,386
+The replica shown to journalists was open, with no asphalt stopper.
+
+108
+00:06:38,386 --> 00:06:43,787
+And for television, a museum restorer in a white coat posed as a chemist.
+
+109
+00:06:43,787 --> 00:06:44,897
+Good publicity.
+
+110
+00:06:44,897 --> 00:06:45,933
+Weak evidence.
+
+111
+00:06:46,399 --> 00:06:47,598
+Bench test four.
+
+112
+00:06:47,598 --> 00:06:56,433
+In March two thousand five, the MythBusters build team made ten replica jars by hand and filled them with lemon juice.
+
+113
+00:06:56,899 --> 00:07:02,744
+In series they gave four point three three volts, about a third of a volt per jar.
+
+114
+00:07:02,744 --> 00:07:06,593
+Overnight, that coated a small copper token with zinc.
+
+115
+00:07:06,593 --> 00:07:10,299
+Five jars could be felt through acupuncture needles.
+
+116
+00:07:10,766 --> 00:07:15,433
+They rated plating, medicine and religious tingles all plausible.
+
+117
+00:07:15,433 --> 00:07:16,294
+Fair enough.
+
+118
+00:07:16,294 --> 00:07:20,243
+Plausible means it can be done, not that anyone did it.
+
+119
+00:07:20,243 --> 00:07:25,700
+The archaeologist Ken Feder noted the gap: nobody has found the connections.
+
+120
+00:07:26,166 --> 00:07:28,320
+Bench test five is brand new.
+
+121
+00:07:28,320 --> 00:07:42,133
+In January twenty twenty six, independent researcher Alexander Bazes argued that the porous jar and the tin in the solder form a second cell, a tin air battery, in series with the first.
+
+122
+00:07:42,600 --> 00:07:47,927
+His replicas passed one point four volts, enough to plate and split water.
+
+123
+00:07:47,927 --> 00:07:53,543
+But they used strong lye, in a paper series that welcomes unconventional work.
+
+124
+00:07:53,543 --> 00:07:55,631
+It shows a design could work.
+
+125
+00:07:55,631 --> 00:07:58,800
+It still finds no wire and no plated object.
+
+126
+00:07:59,266 --> 00:08:01,772
+So the bench tests prove one thing.
+
+127
+00:08:01,772 --> 00:08:04,993
+Copper, iron and an acid make a weak current.
+
+128
+00:08:04,993 --> 00:08:06,712
+That was never in doubt.
+
+129
+00:08:06,712 --> 00:08:11,866
+None of them can tell us what ancient Iraqis actually did with this jar.
+
+130
+00:08:12,333 --> 00:08:17,824
+Which brings us to the most important part of any teardown: the parts that are missing.
+
+131
+00:08:17,824 --> 00:08:21,233
+A working power source needs a whole system around it.
+
+132
+00:08:21,699 --> 00:08:22,676
+First, wires.
+
+133
+00:08:22,676 --> 00:08:25,081
+One jar gives well under a volt.
+
+134
+00:08:25,081 --> 00:08:29,664
+Anything useful needs several in a row, linked by conductors.
+
+135
+00:08:29,664 --> 00:08:35,000
+Not one wire, strap or connector has been found with any of these jars.
+
+136
+00:08:35,466 --> 00:08:45,566
+British Museum metallurgist Paul Craddock said it plainly: it is a pity we have not found any wires, because our interpretation could be completely wrong.
+
+137
+00:08:46,033 --> 00:08:47,701
+Second, plated objects.
+
+138
+00:08:47,701 --> 00:08:52,415
+If plating was the point, we should find electroplated metalwork.
+
+139
+00:08:52,415 --> 00:08:53,141
+We do not.
+
+140
+00:08:53,141 --> 00:08:59,233
+Gilding from this region and era used gold foil, gold leaf and mercury fire gilding.
+
+141
+00:08:59,700 --> 00:09:05,009
+Mercury gilding leaves mercury in the gold, which is how conservators spot it.
+
+142
+00:09:05,009 --> 00:09:12,633
+Getty scientist David Scott wrote there is absolutely no evidence for electroplating in this region at the time.
+
+143
+00:09:13,100 --> 00:09:15,140
+Third, chemical fingerprints.
+
+144
+00:09:15,140 --> 00:09:21,051
+A jar run as a battery should be stained with copper salts, with copper on the iron.
+
+145
+00:09:21,051 --> 00:09:23,233
+None of that has been reported.
+
+146
+00:09:23,700 --> 00:09:25,311
+And König's silversmiths?
+
+147
+00:09:25,311 --> 00:09:33,500
+He had watched Baghdad jewellers gilding with a clay pot and a piece of zinc, and guessed it was an ancient secret passed down.
+
+148
+00:09:33,966 --> 00:09:35,148
+Eggert traced it.
+
+149
+00:09:35,148 --> 00:09:43,560
+It is almost exactly a method invented in Birmingham, England, in eighteen thirty nine by John Wright, using a flowerpot.
+
+150
+00:09:43,560 --> 00:09:47,245
+When König saw it, it was not two thousand years old.
+
+151
+00:09:47,245 --> 00:09:48,566
+It was ninety nine.
+
+152
+00:09:49,033 --> 00:09:50,113
+Now the twist.
+
+153
+00:09:50,113 --> 00:09:53,814
+This jar has cousins, and they were found first.
+
+154
+00:09:53,814 --> 00:10:02,066
+In nineteen thirty, at Seleucia on the Tigris, a University of Michigan team dug up four similar clay jars.
+
+155
+00:10:02,533 --> 00:10:08,463
+Sealed with bitumen, three lay on their sides, pinned with bronze and iron rods.
+
+156
+00:10:08,463 --> 00:10:11,280
+Inside each, a sealed bronze cylinder.
+
+157
+00:10:11,280 --> 00:10:16,766
+Inside those: plant fibres, and in one, what looked like a rolled papyrus.
+
+158
+00:10:17,233 --> 00:10:20,722
+Nearby were magic bowls, made to trap demons.
+
+159
+00:10:20,722 --> 00:10:26,536
+Two, covered in imitation writing, were stacked over an inscribed eggshell.
+
+160
+00:10:26,536 --> 00:10:31,033
+The Baghdad jar was also reported with magic bowls nearby.
+
+161
+00:10:31,500 --> 00:10:38,722
+In nineteen thirty one, at neighbouring Ctesiphon, a German American expedition found six more.
+
+162
+00:10:38,722 --> 00:10:42,675
+Some held sealed bronze rolls around decayed fibres.
+
+163
+00:10:42,675 --> 00:10:46,933
+Others, lead plates, or ten iron nails wrapped in fibre.
+
+164
+00:10:47,399 --> 00:10:56,028
+The excavator, Ernst Kühnel, called them containers for conjurations, blessings and the like, written perhaps on papyrus.
+
+165
+00:10:56,028 --> 00:10:57,027
+Not batteries.
+
+166
+00:10:57,027 --> 00:10:59,166
+Little sealed safes for words.
+
+167
+00:10:59,633 --> 00:11:03,478
+Paszthory argued the whole group were magic objects.
+
+168
+00:11:03,478 --> 00:11:09,319
+Copper was protective, and nails were used to pin things down, spells included.
+
+169
+00:11:09,319 --> 00:11:14,200
+Magic nails survive in large numbers across the ancient Near East.
+
+170
+00:11:14,666 --> 00:11:19,779
+Put the Baghdad jar back in that family and every odd feature makes sense.
+
+171
+00:11:19,779 --> 00:11:22,888
+A sealed tube is a perfect case for a scroll.
+
+172
+00:11:22,888 --> 00:11:25,238
+The airtight bitumen is the point.
+
+173
+00:11:25,238 --> 00:11:28,899
+And a rod to fix it is exactly what the cousins have.
+
+174
+00:11:29,366 --> 00:11:31,766
+That is why the field has moved on.
+
+175
+00:11:31,766 --> 00:11:40,266
+In twenty twelve the Iraq specialist Elizabeth Stone said: I don't know anybody who thinks it's a real battery in the field.
+
+176
+00:11:40,733 --> 00:11:43,254
+One idea deserves a fair hearing.
+
+177
+00:11:43,254 --> 00:11:47,302
+Paul Keyser suggested a weak battery for pain relief.
+
+178
+00:11:47,302 --> 00:11:51,962
+But the ancients already had natural electricity: around A.D.
+
+179
+00:11:51,962 --> 00:11:59,066
+forty seven, the Roman doctor Scribonius Largus prescribed a live electric ray for headaches.
+
+180
+00:11:59,533 --> 00:12:06,038
+Craddock even imagined priests hiding batteries in a statue to give worshippers a tingle.
+
+181
+00:12:06,038 --> 00:12:06,842
+A fun idea.
+
+182
+00:12:06,842 --> 00:12:09,766
+But no wired statue has ever been found.
+
+183
+00:12:10,233 --> 00:12:12,871
+And we cannot re-test the original.
+
+184
+00:12:12,871 --> 00:12:19,126
+Since the two thousand three invasion of Iraq, most of these artifacts are missing.
+
+185
+00:12:19,126 --> 00:12:24,100
+One Ctesiphon jar survives at the Metropolitan Museum in New York.
+
+186
+00:12:24,566 --> 00:12:25,693
+Teardown complete.
+
+187
+00:12:25,693 --> 00:12:27,133
+Here is the spec sheet.
+
+188
+00:12:27,600 --> 00:12:30,084
+A genuine ancient jar: evidence.
+
+189
+00:12:30,084 --> 00:12:33,268
+A replica makes a weak current: evidence.
+
+190
+00:12:33,268 --> 00:12:36,917
+Wires, terminals or a plating cell: none found.
+
+191
+00:12:36,917 --> 00:12:40,566
+Electroplated objects from the era: none found.
+
+192
+00:12:41,033 --> 00:12:44,405
+Alien or lost high technology: no evidence.
+
+193
+00:12:44,405 --> 00:12:50,129
+A sealed container for a scroll or spell, like its cousins: the best fit.
+
+194
+00:12:50,129 --> 00:12:53,266
+Ever used as a battery at all: unproven.
+
+195
+00:12:53,733 --> 00:12:54,572
+The verdict.
+
+196
+00:12:54,572 --> 00:13:00,658
+The Baghdad Battery can make electricity, because almost any two metals in vinegar can.
+
+197
+00:13:00,658 --> 00:13:02,967
+But there is no sign it ever did.
+
+198
+00:13:02,967 --> 00:13:09,333
+The evidence points to a sealed jar for words, a blessing or a curse, meant to stay closed.
+
+199
+00:13:09,799 --> 00:13:19,066
+And as Eggert put it, if aliens had brought real power technology, they could have left something far better than a cell that chokes on its own seal.
+
+200
+00:13:19,533 --> 00:13:22,050
+What stays open is small and human.
+
+201
+00:13:22,050 --> 00:13:24,280
+Whose words were sealed inside?
+
+202
+00:13:24,280 --> 00:13:26,078
+A protection for a house?
+
+203
+00:13:26,078 --> 00:13:26,726
+A prayer?
+
+204
+00:13:26,726 --> 00:13:30,466
+Those scrolls have rotted, and the original is lost.
+
+205
+00:13:30,933 --> 00:13:33,939
+But its cousins survive in museum cases.
+
+206
+00:13:33,939 --> 00:13:41,305
+A reminder that the most interesting thing inside an ancient object is usually not a power source.
+
+207
+00:13:41,305 --> 00:13:42,433
+It is a person.
+
+208
+00:13:42,899 --> 00:13:44,252
+That is the teardown.
+
+209
+00:13:44,252 --> 00:13:47,084
+Battery or scroll jar, what is your verdict?
+
+210
+00:13:47,084 --> 00:13:52,299
+Tell us in the comments, and subscribe for the next ancient machine on the bench.

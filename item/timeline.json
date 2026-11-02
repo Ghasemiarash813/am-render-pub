@@ -1,0 +1,1388 @@
+{
+ "fps": 30,
+ "total": 25066,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 358,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This little clay jar is about as tall as your hand. It was dug up near Baghdad in nineteen thirty six. And for almost ninety years, people have called it a battery.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 10.848,
+     "start": 10,
+     "end": 336
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 340,
+   "end": 760,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two thousand years old, the story goes. Electricity eighteen centuries before Volta's battery of eighteen hundred. Proof, some say, of a lost science, or of knowledge from somewhere else.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 12.912,
+     "start": 350,
+     "end": 738
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "left",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 742,
+   "end": 1098,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside it there is a copper tube. Inside the tube, an iron rod. Add an acid, and two different metals really do make a current. That part is not a myth.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 10.776,
+     "start": 752,
+     "end": 1076
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1080,
+   "end": 1534,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So today we are not going to argue about it. We are going to put it on the bench, take it apart like any other machine, and run every test anyone has run on it.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 10.056,
+     "start": 1090,
+     "end": 1392
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1516,
+   "end": 1832,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Four parts. Five bench tests. The parts that are missing. Then a spec sheet, and a verdict. Was it a battery at all, or something much quieter?",
+     "file": "ep/audio/s05.mp3",
+     "dur": 9.456,
+     "start": 1526,
+     "end": 1810
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "INTAKE",
+    "The Claim on the Tag",
+    "WHO SAID BATTERY, AND WHEN"
+   ],
+   "meter": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 1814,
+   "end": 2179,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Intake first. Who brought this object in? Wilhelm K\u00f6nig, an Austrian painter who in the nineteen thirties ran the laboratory of the Iraq Museum in Baghdad.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 11.088,
+     "start": 1824,
+     "end": 2157
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "sand",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2161,
+   "end": 2592,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The jar came from Khujut Rabu, just outside Baghdad, near the ruins of the old capital Ctesiphon. One report says it turned up during railway works. The dig was barely recorded.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.296,
+     "start": 2171,
+     "end": 2570
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2574,
+   "end": 2992,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen thirty eight K\u00f6nig published a short note with a question mark in the title: a galvanic element from the Parthian era? He wondered if ancient gilded silver had been electroplated.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 12.84,
+     "start": 2584,
+     "end": 2970
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2974,
+   "end": 3336,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A year later the idea jumped to a science fiction magazine. Astounding ran the headline: an electric battery two thousand years ago. It never stopped travelling.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 10.968,
+     "start": 2984,
+     "end": 3314
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3318,
+   "end": 3674,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ancient astronaut books went further. Maybe these batteries powered the so called light bulbs carved at Dendera. That claim has its own case file on this channel.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 10.776,
+     "start": 3328,
+     "end": 3652
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "T",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3656,
+   "end": 4076,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Others wired it into the Ark of the Covenant as a machine. Again, a separate file. Today we test only the jar, because every bigger claim stands or falls on this one small pot.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 12.912,
+     "start": 3666,
+     "end": 4054
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "PART 1",
+    "The Clay Jar",
+    "13\u201315 CM \u00b7 UNGLAZED \u00b7 NECK REMOVED"
+   ],
+   "meter": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4058,
+   "end": 4468,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part one. The jar. Pale yellow clay, unglazed, thirteen to fifteen centimetres high, its neck broken off. Nothing about it is unusual. It is ordinary household pottery.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 12.576,
+     "start": 4068,
+     "end": 4446
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4450,
+   "end": 4904,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And ordinary pottery tells us its age. K\u00f6nig called it Parthian, the empire that ruled here from about two fifty B.C. to A.D. two twenty four. That is where the two thousand years comes from.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 14.064,
+     "start": 4460,
+     "end": 4882
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4886,
+   "end": 5362,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But St John Simpson of the British Museum said the grounds for a Parthian date are unclear, and the pot's style is Sasanian. That makes it a few centuries younger, roughly A.D. two twenty five to six forty.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 14.784,
+     "start": 4896,
+     "end": 5340
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5344,
+   "end": 5598,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Either way it is genuinely old, and genuinely from Iraq. The first part checks out. Now let us open it.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 7.392,
+     "start": 5354,
+     "end": 5576
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "PART 2",
+    "The Copper Tube",
+    "26 MM \u00d7 9 CM \u00b7 SHEET COPPER"
+   ],
+   "meter": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5580,
+   "end": 5986,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part two. The copper tube. Rolled from sheet copper, twenty six millimetres wide and nine centimetres tall. Fairly pure copper, K\u00f6nig said, with traces of zinc, lead and iron.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 12.456,
+     "start": 5590,
+     "end": 5964
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5968,
+   "end": 6286,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Its bottom is closed with a copper disc, soldered with lead and covered with more bitumen. The tube was built to be sealed. Hold that thought.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 9.528,
+     "start": 5978,
+     "end": 6264
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "O",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6268,
+   "end": 6739,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the first engineering problem. A battery needs two terminals to attach a wire. The iron rod sticks up out of the plug. But the copper is buried in asphalt. No tab, nowhere obvious to connect anything.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 14.616,
+     "start": 6278,
+     "end": 6717
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6721,
+   "end": 7141,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A modern dry cell looks a little like this: a metal cup around a central rod. That is probably why K\u00f6nig thought of a battery. But looking like a battery and being wired like one are different things.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.912,
+     "start": 6731,
+     "end": 7119
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "PART 3",
+    "The Iron Rod",
+    "COMPLETELY OXIDISED \u00b7 TAPERED"
+   ],
+   "meter": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7123,
+   "end": 7543,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part three. The iron rod, found completely rusted through. Battery fans say that is what acid does to iron. Popular articles even claim tests found traces of vinegar or wine.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 12.912,
+     "start": 7133,
+     "end": 7521
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "sand",
+   "motion": "right",
+   "tag": "U",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7525,
+   "end": 7937,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But trace that vinegar claim back and it runs out. No source, no lab, no published analysis. An iron rod buried for centuries in Iraqi soil will rust with or without acid.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.648,
+     "start": 7535,
+     "end": 7915
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7919,
+   "end": 8349,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the shape. The chemist Emmerich Paszthory found that an iron electrode eats away fastest at the neck, where it meets the liquid. The ancient rod does not. It is simply tapered, like a nail.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 13.248,
+     "start": 7929,
+     "end": 8327
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "PART 4",
+    "The Bitumen Seal",
+    "NATURAL ASPHALT \u00b7 AIRTIGHT"
+   ],
+   "meter": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8331,
+   "end": 8733,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part four. The seal. Bitumen, natural asphalt, used in Mesopotamia for everything from boats to jewellery. Here it plugs the copper tube and holds the iron rod in place.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 12.312,
+     "start": 8341,
+     "end": 8711
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8715,
+   "end": 9188,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here the battery idea gets into real trouble. Chemists found that a copper iron cell with fruit acid only runs while it has oxygen. Seal the tube airtight, like this one, and the current dies almost at once.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 14.688,
+     "start": 8725,
+     "end": 9166
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9170,
+   "end": 9547,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bitumen also softens with heat. To top up the liquid you would have to dig out the plug every time. A great way to close something for good. A bad way to build a battery.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 11.496,
+     "start": 9180,
+     "end": 9525
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9529,
+   "end": 9963,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So that is the teardown. A real ancient jar, a sealed copper tube, a rusted iron rod, an airtight plug. Every part is real. The question is what they were for. Time to put it under power.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 13.392,
+     "start": 9539,
+     "end": 9941
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "B",
+   "ch": [
+    "BENCH TESTS",
+    "Under Power",
+    "FIVE REPLICAS \u00b7 1940\u20132026"
+   ],
+   "meter": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9945,
+   "end": 10434,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bench test one. Pittsfield, Massachusetts. After the magazine story, Willard Gray, an engineer at General Electric, built the first replica with copper sulphate. It worked, he reported, quite well, for a short time.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 15.216,
+     "start": 9955,
+     "end": 10412
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "B",
+   "ch": null,
+   "meter": "0.8 \u2013 2 V \u00b7 ONE REPLICA (Smith College)",
+   "img": "ep/img/shot_28.jpg",
+   "start": 10416,
+   "end": 10876,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bench test two. Students at Smith College, with historian of science Marjorie Senechal, measured between zero point eight and nearly two volts. Her view: they may have been batteries, because they do work.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 14.256,
+     "start": 10426,
+     "end": 10854
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "B",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10858,
+   "end": 11358,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bench test three, the famous one. Hildesheim, Germany, nineteen seventy eight. Museum director Arne Eggebrecht linked replicas filled with grape juice and announced a silver plating one ten thousandth of a millimetre thick.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 15.6,
+     "start": 10868,
+     "end": 11336
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "sand",
+   "motion": "right",
+   "tag": "U",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11340,
+   "end": 11711,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Decades later a researcher at the same museum searched for the records. There is no written documentation of those experiments, she said, not even photographs. Nothing.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 11.28,
+     "start": 11350,
+     "end": 11689
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11693,
+   "end": 12200,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The chemist Gerhard Eggert added two details. The replica shown to journalists was open, with no asphalt stopper. And for television, a museum restorer in a white coat posed as a chemist. Good publicity. Weak evidence.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 15.816,
+     "start": 11703,
+     "end": 12178
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "B",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12182,
+   "end": 12515,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bench test four. In March two thousand five, the MythBusters build team made ten replica jars by hand and filled them with lemon juice.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 10.008,
+     "start": 12192,
+     "end": 12493
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "B",
+   "ch": null,
+   "meter": "4.33 V \u00b7 10 CELLS IN SERIES (MythBusters 2005)",
+   "img": "ep/img/shot_33.jpg",
+   "start": 12497,
+   "end": 12931,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In series they gave four point three three volts, about a third of a volt per jar. Overnight, that coated a small copper token with zinc. Five jars could be felt through acupuncture needles.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 13.368,
+     "start": 12507,
+     "end": 12909
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12913,
+   "end": 13393,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They rated plating, medicine and religious tingles all plausible. Fair enough. Plausible means it can be done, not that anyone did it. The archaeologist Ken Feder noted the gap: nobody has found the connections.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 14.928,
+     "start": 12923,
+     "end": 13371
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "B",
+   "ch": null,
+   "meter": "> 1.4 V \u00b7 TWO-CELL MODEL (Bazes 2026)",
+   "img": "ep/img/shot_35.jpg",
+   "start": 13375,
+   "end": 13886,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bench test five is brand new. In January twenty twenty six, independent researcher Alexander Bazes argued that the porous jar and the tin in the solder form a second cell, a tin air battery, in series with the first.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 15.936,
+     "start": 13385,
+     "end": 13864
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13868,
+   "end": 14386,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His replicas passed one point four volts, enough to plate and split water. But they used strong lye, in a paper series that welcomes unconventional work. It shows a design could work. It still finds no wire and no plated object.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 16.2,
+     "start": 13878,
+     "end": 14364
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14368,
+   "end": 14778,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the bench tests prove one thing. Copper, iron and an acid make a weak current. That was never in doubt. None of them can tell us what ancient Iraqis actually did with this jar.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 12.576,
+     "start": 14378,
+     "end": 14756
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "O",
+   "ch": [
+    "MISSING PARTS",
+    "What Is Not on the Bench",
+    "WIRES \u00b7 PLATING CELL \u00b7 PLATED OBJECTS"
+   ],
+   "meter": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14760,
+   "end": 15059,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which brings us to the most important part of any teardown: the parts that are missing. A working power source needs a whole system around it.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 8.88,
+     "start": 14770,
+     "end": 15037
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 15041,
+   "end": 15472,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First, wires. One jar gives well under a volt. Anything useful needs several in a row, linked by conductors. Not one wire, strap or connector has been found with any of these jars.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.296,
+     "start": 15051,
+     "end": 15450
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15454,
+   "end": 15789,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "British Museum metallurgist Paul Craddock said it plainly: it is a pity we have not found any wires, because our interpretation could be completely wrong.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 10.08,
+     "start": 15464,
+     "end": 15767
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15771,
+   "end": 16199,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Second, plated objects. If plating was the point, we should find electroplated metalwork. We do not. Gilding from this region and era used gold foil, gold leaf and mercury fire gilding.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 13.2,
+     "start": 15781,
+     "end": 16177
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 16181,
+   "end": 16601,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mercury gilding leaves mercury in the gold, which is how conservators spot it. Getty scientist David Scott wrote there is absolutely no evidence for electroplating in this region at the time.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 12.912,
+     "start": 16191,
+     "end": 16579
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16583,
+   "end": 16919,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Third, chemical fingerprints. A jar run as a battery should be stained with copper salts, with copper on the iron. None of that has been reported.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 10.128,
+     "start": 16593,
+     "end": 16897
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "sand",
+   "motion": "right",
+   "tag": "T",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16901,
+   "end": 17227,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And K\u00f6nig's silversmiths? He had watched Baghdad jewellers gilding with a clay pot and a piece of zinc, and guessed it was an ancient secret passed down.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 9.792,
+     "start": 16911,
+     "end": 17205
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 17209,
+   "end": 17679,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eggert traced it. It is almost exactly a method invented in Birmingham, England, in eighteen thirty nine by John Wright, using a flowerpot. When K\u00f6nig saw it, it was not two thousand years old. It was ninety nine.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 14.568,
+     "start": 17219,
+     "end": 17657
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "THE COUSINS",
+    "Jars That Kept Their Contents",
+    "SELEUCIA 1930 \u00b7 CTESIPHON 1931"
+   ],
+   "meter": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17661,
+   "end": 18084,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the twist. This jar has cousins, and they were found first. In nineteen thirty, at Seleucia on the Tigris, a University of Michigan team dug up four similar clay jars.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 13.008,
+     "start": 17671,
+     "end": 18062
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 18066,
+   "end": 18525,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sealed with bitumen, three lay on their sides, pinned with bronze and iron rods. Inside each, a sealed bronze cylinder. Inside those: plant fibres, and in one, what looked like a rolled papyrus.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 14.232,
+     "start": 18076,
+     "end": 18503
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18507,
+   "end": 18953,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nearby were magic bowls, made to trap demons. Two, covered in imitation writing, were stacked over an inscribed eggshell. The Baghdad jar was also reported with magic bowls nearby.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.776,
+     "start": 18517,
+     "end": 18931
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18935,
+   "end": 19430,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen thirty one, at neighbouring Ctesiphon, a German American expedition found six more. Some held sealed bronze rolls around decayed fibres. Others, lead plates, or ten iron nails wrapped in fibre.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 15.408,
+     "start": 18945,
+     "end": 19408
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 19412,
+   "end": 19797,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The excavator, Ernst K\u00fchnel, called them containers for conjurations, blessings and the like, written perhaps on papyrus. Not batteries. Little sealed safes for words.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 11.76,
+     "start": 19422,
+     "end": 19775
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19779,
+   "end": 20248,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Paszthory argued the whole group were magic objects. Copper was protective, and nails were used to pin things down, spells included. Magic nails survive in large numbers across the ancient Near East.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 14.544,
+     "start": 19789,
+     "end": 20226
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 20230,
+   "end": 20689,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Put the Baghdad jar back in that family and every odd feature makes sense. A sealed tube is a perfect case for a scroll. The airtight bitumen is the point. And a rod to fix it is exactly what the cousins have.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 14.232,
+     "start": 20240,
+     "end": 20667
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 20671,
+   "end": 21030,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is why the field has moved on. In twenty twelve the Iraq specialist Elizabeth Stone said: I don't know anybody who thinks it's a real battery in the field.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 10.872,
+     "start": 20681,
+     "end": 21008
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 21012,
+   "end": 21594,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One idea deserves a fair hearing. Paul Keyser suggested a weak battery for pain relief. But the ancients already had natural electricity: around A.D. forty seven, the Roman doctor Scribonius Largus prescribed a live electric ray for headaches.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 18.312,
+     "start": 21022,
+     "end": 21572
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 21576,
+   "end": 21915,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Craddock even imagined priests hiding batteries in a statue to give worshippers a tingle. A fun idea. But no wired statue has ever been found.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 10.224,
+     "start": 21586,
+     "end": 21893
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21897,
+   "end": 22345,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And we cannot re-test the original. Since the two thousand three invasion of Iraq, most of these artifacts are missing. One Ctesiphon jar survives at the Metropolitan Museum in New York.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 13.848,
+     "start": 21907,
+     "end": 22323
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "SPEC SHEET",
+    "The Verdict",
+    "EVERY PART \u00b7 EVERY TEST"
+   ],
+   "meter": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 22327,
+   "end": 22436,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Teardown complete. Here is the spec sheet.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 2.544,
+     "start": 22337,
+     "end": 22414
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 22418,
+   "end": 22839,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A genuine ancient jar: evidence. A replica makes a weak current: evidence. Wires, terminals or a plating cell: none found. Electroplated objects from the era: none found.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 12.936,
+     "start": 22428,
+     "end": 22817
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 22821,
+   "end": 23220,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alien or lost high technology: no evidence. A sealed container for a scroll or spell, like its cousins: the best fit. Ever used as a battery at all: unproven.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 12.216,
+     "start": 22831,
+     "end": 23198
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 23202,
+   "end": 23702,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. The Baghdad Battery can make electricity, because almost any two metals in vinegar can. But there is no sign it ever did. The evidence points to a sealed jar for words, a blessing or a curse, meant to stay closed.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 15.576,
+     "start": 23212,
+     "end": 23680
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 23684,
+   "end": 23994,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And as Eggert put it, if aliens had brought real power technology, they could have left something far better than a cell that chokes on its own seal.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 9.264,
+     "start": 23694,
+     "end": 23972
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23976,
+   "end": 24336,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What stays open is small and human. Whose words were sealed inside? A protection for a house? A prayer? Those scrolls have rotted, and the original is lost.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 10.92,
+     "start": 23986,
+     "end": 24314
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "up",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 24318,
+   "end": 24695,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But its cousins survive in museum cases. A reminder that the most interesting thing inside an ancient object is usually not a power source. It is a person.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 11.496,
+     "start": 24328,
+     "end": 24673
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "meter": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 24677,
+   "end": 24991,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the teardown. Battery or scroll jar, what is your verdict? Tell us in the comments, and subscribe for the next ancient machine on the bench.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 9.384,
+     "start": 24687,
+     "end": 24969
+    }
+   ]
+  }
+ ]
+}
