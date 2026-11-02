@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Aerial view at dawn of the giant zigzag Inca stone terrace walls of Sacsayhuaman on a green hill above the red-roofed city of Cusco, Andes mountains, golden mist, cinematic photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Above the old Inca capital of Cusco, high in the Andes, three great walls zigzag across a hillside. Some of their stones weigh more than a hundred tonnes. And they fit together so tightly that you cannot slide a sheet of paper between them."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Above the old Inca capital of Cusco, high in the Andes, three great walls zigzag across a hillside. Some of their stones weigh more than a hundred tonnes. And they fit together so tightly that you cannot slide a sheet of paper between them.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 16.536
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Extreme close-up of two huge grey limestone polygonal blocks in an Inca wall meeting in a perfect curved seam with no mortar, raking sunlight, macro photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No mortar. Curving seams, rounded corners, joints like the edges of a jigsaw puzzle. For many visitors the first reaction is simple: no human hands could have done this."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No mortar. Curving seams, rounded corners, joints like the edges of a jigsaw puzzle. For many visitors the first reaction is simple: no human hands could have done this.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction scene at night, a glowing beam of orange light from the sky softening a giant stone block on an Andean hillside, the stone looking molten at the edges, cinematic, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And so the theories began. That the stone was melted, by heat or by some lost machine. That it was softened like clay and pressed into place. That visitors from somewhere else left their marks on a Peruvian hill."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And so the theories began. That the stone was melted, by heat or by some lost machine. That it was softened like clay and pressed into place. That visitors from somewhere else left their marks on a Peruvian hill.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 14.016
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of weathered Andean hands holding an ancient khipu, bundles of knotted dyed cotton cords in brown red and cream, warm window light, respectful documentary photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the people who built this place kept records. Not on paper, on cords. The Inca recorded labour, tribute and stores on knotted strings called khipu."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the people who built this place kept records. Not on paper, on cords. The Inca recorded labour, tribute and stores on knotted strings called khipu.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An ancient Inca khipu with many hanging knotted cords spread out on dark woven cloth, top-down view, soft golden light, museum documentary photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So today we keep this case the Inca way. Seven cords, seven questions. On each one we tie a knot for the evidence, and a knot for the theory. At the end, we read the summary cord."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So today we keep this case the Inca way. Seven cords, seven questions. On each one we tie a knot for the evidence, and a knot for the theory. At the end, we read the summary cord.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide view of Sacsayhuaman archaeological site, massive three-tiered zigzag Inca stone walls along a grassy field, blue Andean sky, people tiny for scale, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cord one: the stone. Sacsayhuam\u00e1n, in Quechua Saksaywaman, sits at about three thousand seven hundred metres, on the northern edge of Cusco."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "CORD I",
+   "The Stone",
+   "SAKSAYWAMAN \u00b7 3,701 M"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cord one: the stone. Sacsayhuam\u00e1n, in Quechua Saksaywaman, sits at about three thousand seven hundred metres, on the northern edge of Cusco.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Long zigzag terrace walls of giant fitted grey stones stretching into the distance on a sunny day, low angle, Sacsayhuaman style, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its most famous part is three terrace walls, laid out in a zigzag. The longest runs about four hundred metres. They hold more than six thousand cubic metres of stone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its most famous part is three terrace walls, laid out in a zigzag. The longest runs about four hundred metres. They hold more than six thousand cubic metres of stone.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.0
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A single colossal grey limestone block several metres tall set into an Inca wall, a person standing beside it looking tiny, afternoon light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The giants are grey limestone. Estimates for the largest block run from about a hundred and twenty-eight tonnes to almost two hundred."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The giants are grey limestone. Estimates for the largest block run from about a hundred and twenty-eight tonnes to almost two hundred.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of an Inca polygonal stone wall, many irregular many-sided blocks each fitted to its neighbours, pillowed faces, soft side light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look closer and something else stands out. The stones are not rectangles. Each has its own outline, and every neighbour is cut to match it. Archaeologists call this polygonal masonry."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look closer and something else stands out. The stones are not rectangles. Each has its own outline, and every neighbour is cut to match it. Archaeologists call this polygonal masonry.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Inca stone wall leaning slightly inward with rounded block corners, a colonial church tower in the distance, dramatic clouds, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The walls also lean slightly inward, with rounded corners and interlocking joints. In an earthquake zone that matters. Cusco was shaken by major quakes in sixteen fifty, nineteen fifty and nineteen eighty-six. The great terrace walls came through them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The walls also lean slightly inward, with rounded corners and interlocking joints. In an earthquake zone that matters. Cusco was shaken by major quakes in sixteen fifty, nineteen fifty and nineteen eighty-six. The great terrace walls came through them.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 17.112
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeologists carefully brushing soil from ancient stone foundations and pottery fragments at a highland excavation in Peru, documentary photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One more fact for this cord: the hill was not empty before the Inca. Pottery shows people here from around nine hundred CE, and in two thousand and eight archaeologists uncovered a temple from the earlier Killke culture at the edge of the site."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One more fact for this cord: the hill was not empty before the Inca. Pottery shows people here from around nine hundred CE, and in two thousand and eight archaeologists uncovered a temple from the earlier Killke culture at the edge of the site.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 16.68
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Close-up of a single knot being tied in a red cotton cord of a khipu by careful hands, dark background, warm light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the stone is real, the scale is real, and the precision is real. Knot one is tied. Now for the claims."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the stone is real, the scale is real, and the precision is real. Knot one is tied. Now for the claims.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 7.344
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An old hardcover book lying open on a dark wooden desk beside a lamp and a small grey stone, blank pages, moody 1960s atmosphere, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cord two: the claims. In nineteen sixty-eight, Erich von D\u00e4niken's Chariots of the Gods brought Sacsayhuam\u00e1n to millions of readers."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "CORD II",
+   "The Claims",
+   "1968 \u2192 TODAY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cord two: the claims. In nineteen sixty-eight, Erich von D\u00e4niken's Chariots of the Gods brought Sacsayhuam\u00e1n to millions of readers.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 9.504
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A huge carved limestone outcrop on an Andean hillside with carved steps, ledges and niches cut into it, tilted at a strange angle, overcast light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He described a carved block near the fortress, the size of a four-storey house, with steps and ramps, lying upside down. He put its weight at twenty thousand tons, and asked what titanic forces had overturned it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He described a carved block near the fortress, the size of a four-storey house, with steps and ramps, lying upside down. He put its weight at twenty thousand tons, and asked what titanic forces had overturned it.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 14.544
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Smooth glossy polished grey rock surface with long grooves on an Andean hilltop shining in the sun, close view, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then he went further. Barely nine hundred yards away, he wrote, were rock vitrifications that ought only to be possible by melting stone at extremely high temperatures. The glacier explanation, he said, was ridiculous."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then he went further. Barely nine hundred yards away, he wrote, were rock vitrifications that ought only to be possible by melting stone at extremely high temperatures. The glacier explanation, he said, was ridiculous.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 14.904
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a shiny glassy reddish patch on the surface of an old grey stone block, reflecting light, macro photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later writers built on that. The Peruvian Alfredo Gamarra, and the authors Jan Peter de Jong and Christopher Jordan, point to glassy, shiny patches on the stones as signs of heat, and argue the blocks were once soft enough to mould."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later writers built on that. The Peruvian Alfredo Gamarra, and the authors Jan Peter de Jong and Christopher Jordan, point to glassy, shiny patches on the stones as signs of heat, and argue the blocks were once soft enough to mould.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 16.368
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept art of glowing liquid stone being poured into a giant wooden mould on an ancient mountain construction site at night, mysterious figures, cinematic, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A cousin of the idea says the stone was liquefied and cast, like concrete, into moulds. Another says a lost civilisation built the walls long before the Inca, who only moved in."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A cousin of the idea says the stone was liquefied and cast, like concrete, into moulds. Another says a lost civilisation built the walls long before the Inca, who only moved in.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a green Andean herb plant with small leaves growing from a crack in a grey stone, morning dew, shallow depth of field, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there is the oldest version of all: a plant. Somewhere in the Andes, the story goes, grows a herb whose juice turns rock as soft as clay. Rub it on the stone, and the blocks squeeze together."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there is the oldest version of all: a plant. Somewhere in the Andes, the story goes, grows a herb whose juice turns rock as soft as clay. Rub it on the stone, and the blocks squeeze together.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 13.056
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Geologist's hand lens, a small rock sample and a field notebook with blank pages on a stone surface, overhead view, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "These are testable claims. Softened stone should squeeze deep into its joints. Cast stone needs moulds. And a magic plant should leave a trace."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "These are testable claims. Softened stone should squeeze deep into its joints. Cast stone needs moulds. And a magic plant should leave a trace.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Close-up of a second knot being tied on a cream cord of a khipu, dark background, warm light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Knot two is tied. Now we go where every building really begins: the quarry."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Knot two is tied. Now we go where every building really begins: the quarry.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 5.088
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Rocky limestone hillside quarry above an Inca site in the Andes, large loose grey blocks scattered on the slope, golden hour, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cord three: the quarry. The great limestone blocks did not have to travel far. There are quarries on the hills right above Sacsayhuam\u00e1n, and big loose blocks still lie scattered across the slopes."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "CORD III",
+   "The Quarry",
+   "LIMESTONE \u00b7 ANDESITE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cord three: the quarry. The great limestone blocks did not have to travel far. There are quarries on the hills right above Sacsayhuam\u00e1n, and big loose blocks still lie scattered across the slopes.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Ancient Inca andesite quarry in a dry Andean valley, piles of broken dark grey rock and partly shaped rectangular blocks, wide landscape, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The harder dark andesite used in Cusco came from farther away, mainly from the Rumiqolqa quarry, about thirty kilometres to the south-east. Those were mostly smaller stones."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The harder dark andesite used in Cusco came from farther away, mainly from the Rumiqolqa quarry, about thirty kilometres to the south-east. Those were mostly smaller stones.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 13.008
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Several rounded dark river cobblestones of different sizes lying among angular grey rock chips at a quarry, close-up, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the nineteen seventies and eighties, the architect Jean-Pierre Protzen spent months in these quarries. At Rumiqolqa he found dozens of round river cobbles lying in the debris, stones that did not belong there. They were hammers."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the nineteen seventies and eighties, the architect Jean-Pierre Protzen spent months in these quarries. At Rumiqolqa he found dozens of round river cobbles lying in the debris, stones that did not belong there. They were hammers.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 15.816
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Inca stonemason in traditional tunic shaping a stone block with a round black hammerstone held in both hands, dust flying, reconstruction, painterly photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Spanish chroniclers had already described them. Garcilaso de la Vega called them hihuana, black stones that dress the rock by pounding rather than cutting. Bernab\u00e9 Cobo wrote of hard, black cobblestones from the rivers."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Spanish chroniclers had already described them. Garcilaso de la Vega called them hihuana, black stones that dress the rock by pounding rather than cutting. Bernab\u00e9 Cobo wrote of hard, black cobblestones from the rivers.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 16.44
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Modern researcher in a hat striking a block of grey stone at a low angle with a round hammerstone, small flakes flying, experimental archaeology, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Protzen tried it himself. Striking at a low angle, about fifteen to twenty degrees, and letting the hammer turn on impact, he could knock off flakes and shape a face far faster than most people imagine."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Protzen tried it himself. Striking at a low angle, about fifteen to twenty degrees, and letting the hammer turn on impact, he could knock off flakes and shape a face far faster than most people imagine.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro photograph of grey limestone surface covered in tiny pale white pockmarks and pits from hammering, raking light, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here is the first clue to the shine. When a hammerstone strikes limestone, the heat of the impact partly changes the rock and leaves a tiny whitish spot. The faces at Sacsayhuam\u00e1n are covered in these pockmarks."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here is the first clue to the shine. When a hammerstone strikes limestone, the heat of the impact partly changes the rock and leaves a tiny whitish spot. The faces at Sacsayhuam\u00e1n are covered in these pockmarks.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 15.072
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Excavation trench at the base of a megalithic stone wall showing a layer of small angular grey stone chips in brown soil, documentary photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And at the foot of the walls, excavators have found layers of small angular limestone chips. The waste of all that pounding."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And at the foot of the walls, excavators have found layers of small angular limestone chips. The waste of all that pounding.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Close-up of a third knot tied on a brown khipu cord next to a small round hammerstone on dark cloth, warm light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Melted stone does not carry hammer scars. These blocks have them everywhere. Knot three: pounded, not poured."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Melted stone does not carry hammer scars. These blocks have them everywhere. Knot three: pounded, not poured.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 7.536
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Weathered sixteenth-century traveller's leather satchel, quill and blank parchment on a rock overlooking Cusco valley, sepia toned, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cord four: the haul. Here the chroniclers give us numbers. Pedro Cieza de Le\u00f3n visited the site twice, around fifteen fifty."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "CORD IV",
+   "The Haul",
+   "20,000 HANDS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cord four: the haul. Here the chroniclers give us numbers. Pedro Cieza de Le\u00f3n visited the site twice, around fifteen fifty.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 9.288
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Hundreds of Inca workers in tunics hauling a giant stone block on a dirt ramp with thick ropes, Andes mountains behind, epic reconstruction, painterly photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He was told the Inca ordered the provinces to send twenty thousand men, working in rotation so no one stayed too long. Four thousand quarried and cut. Six thousand hauled the stones with great cables of leather and plant fibre."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He was told the Inca ordered the provinces to send twenty thousand men, working in rotation so no one stayed too long. Four thousand quarried and cut. Six thousand hauled the stones with great cables of leather and plant fibre.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 15.792
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Inca construction camp on an Andean hillside with groups of workers, stone huts, cooking fires and an overseer with a staff, wide reconstruction, painterly photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The rest dug foundations. Each lineage camped apart. Overseers walked among them, with master builders who were, in his words, great masters of the art."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The rest dug foundations. Each lineage camped apart. Overseers walked among them, with master builders who were, in his words, great masters of the art.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Inca administrator in fine woven tunic reading a large khipu of many knotted coloured cords beside stone storehouses, reconstruction, painterly photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This was the mit'a, labour owed to the state in turns. And the Inca counted it on khipus: how many workers each province owed, and for how long. The cords were the real machine behind the walls."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This was the mit'a, labour owed to the state in turns. And the Inca counted it on khipus: how many workers each province owed, and for how long. The cords were the real machine behind the walls.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 13.824
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Quechua villagers pulling a thick handwoven golden grass rope across a deep river gorge to rebuild a traditional rope bridge, documentary photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their ropes were strong. Each year a Quechua community still rebuilds the Q'eswachaka bridge from hand-twisted grass rope, and tests found a two-inch grass rope can hold more than five thousand pounds."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their ropes were strong. Each year a Quechua community still rebuilds the Q'eswachaka bridge from hand-twisted grass rope, and tests found a two-inch grass rope can hold more than five thousand pounds.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 13.656
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A giant abandoned rough-cut pink granite block lying beside an ancient dirt road in the Sacred Valley of Peru, terraces and mountains behind, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cieza also saw a huge block abandoned on the way. The workers told him the stone got tired, and they could not move it further. Tired stones like it still lie on the road to Ollantaytambo, resting on prepared beds of soil, gravel and clay."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cieza also saw a huge block abandoned on the way. The workers told him the stone got tired, and they could not move it further. Tired stones like it still lie on the road to Ollantaytambo, resting on prepared beds of soil, gravel and clay.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 17.328
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A large crowd of Andean villagers in colourful clothing pulling ropes to drag a big stone block up an earthen incline, documentary photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen ninety-six, a documentary crew tested it. About two hundred and fifty villagers from Ollantaytambo pulled a block of roughly fifteen tonnes up an incline with ropes. Once it started moving, it kept moving."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen ninety-six, a documentary crew tested it. About two hundred and fifty villagers from Ollantaytambo pulled a block of roughly fifteen tonnes up an incline with ropes. Once it started moving, it kept moving.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 15.336
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Close-up of a fourth knot tied on a red khipu cord beside a coil of golden grass rope on dark cloth, warm light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is not a hundred-tonne block. But it shows the method grows with people, rope, ramps and time, and the Inca had all four. Knot four."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is not a hundred-tonne block. But it shows the method grows with people, rope, ramps and time, and the Inca had all four. Knot four.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two massive grey stone blocks meeting in a tight irregular seam, extreme close-up of the joint line, dramatic side light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cord five: the fit. This is the heart of the mystery. How do you make two irregular stones meet with no gap?"
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "CORD V",
+   "The Fit",
+   "TRIAL \u00b7 ERROR \u00b7 TRIAL"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cord five: the fit. This is the heart of the mystery. How do you make two irregular stones meet with no gap?",
+    "file": "ep/audio/s37.mp3",
+    "dur": 7.296
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Inca masons using wooden levers to lift one edge of a large stone block off the course below to check the joint, reconstruction, painterly photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The chroniclers were blunt. Cobo wrote that to fit the stones they had to set them in place and remove them many times. Jos\u00e9 de Acosta said the fit had to be tried again and again, with great suffering."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The chroniclers were blunt. Cobo wrote that to fit the stones they had to set them in place and remove them many times. Jos\u00e9 de Acosta said the fit had to be tried again and again, with great suffering.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a stone block lifted slightly above another, pale stone dust on the lower surface showing crushed contact spots, a hammerstone beside it, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Protzen reproduced it. He set a stone on its neighbour, lifted it off, and looked where the stone dust had been crushed. Those were the high points. He pounded them down and tried again. Within a few hours, using only hammerstones, he had a tight seam."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Protzen reproduced it. He set a stone on its neighbour, lifted it off, and looked where the stone dust had been crushed. Those were the high points. He pounded them down and tried again. Within a few hours, using only hammerstones, he had a tight seam.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 15.984
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Inca master mason holding a plumb bob on a string beside two large stones placed close together, carefully tracing the outline of one onto the other, reconstruction, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There may have been a shortcut. The architect Vince Lee proposed that Inca masons scribed the outline of one stone onto its neighbour, the way log builders do, so the giants only had to be lowered once."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There may have been a shortcut. The architect Vince Lee proposed that Inca masons scribed the outline of one stone onto its neighbour, the way log builders do, so the giants only had to be lowered once.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Inca polygonal stone wall with small rounded knobs protruding near the lower edges of several blocks, close view, soft light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And look at the lumps. Many Inca blocks carry small knobs near their lower edges, often knocked off once the stone was set. Bosses like these gave levers something to push against while a stone was adjusted."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And look at the lumps. Many Inca blocks carry small knobs near their lower edges, often knocked off once the stone was set. Bosses like these gave levers something to push against while a stone was adjusted.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Base of a giant grey limestone block in a megalithic wall with a small carved notch at its bottom edge, close-up, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At Sacsayhuam\u00e1n, the archaeologist John Rowe noticed that many stones have notches at the base instead. No doubt, he wrote, for the same purpose."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At Sacsayhuam\u00e1n, the archaeologist John Rowe noticed that many stones have notches at the base instead. No doubt, he wrote, for the same purpose.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cutaway reconstruction of a megalithic stone wall showing tight joints on the front face and wedge-shaped gaps behind filled with red clay and rubble, illustration photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Something else gives the game away. The perfect seam is mostly on the face you see. Behind it the joints open into wedge-shaped gaps, packed with sticky red clay the Spanish recorded by its Quechua name, llanca."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Something else gives the game away. The perfect seam is mostly on the face you see. Behind it the joints open into wedge-shaped gaps, packed with sticky red clay the Spanish recorded by its Quechua name, llanca.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Close-up of a fifth knot tied on a cream khipu cord, pale stone dust sprinkled on dark cloth beside it, warm light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If the stone had been softened and squeezed, it would squeeze all the way through. It does not. The precision stops where the eye stops. Knot five: fitted, not moulded."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If the stone had been softened and squeezed, it would squeeze all the way through. It does not. The precision stops where the eye stops. Knot five: fitted, not moulded.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Glossy reflective grey rock surface with sunlight glinting off it, magnifying glass held above it, close-up, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cord six: the shine. Now for the vitrified rock."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "CORD VI",
+   "The Shine",
+   "GLAZE UNDER THE LENS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cord six: the shine. Now for the vitrified rock.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 3.312
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Children sliding down long smooth polished natural grooves in a grey rock hillside near Cusco, sunny day, documentary photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The polished rock about nine hundred yards from the walls is almost certainly the Rodadero, a hill of long glassy grooves where children have slid for centuries. Garcilaso de la Vega slid down it as a boy."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The polished rock about nine hundred yards from the walls is almost certainly the Rodadero, a hill of long glassy grooves where children have slid for centuries. Garcilaso de la Vega slid down it as a boy.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 15.312
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Early twentieth-century geologist in a field jacket and hat examining a smooth grooved rock surface with a hammer in the Peruvian highlands, sepia vintage photograph style, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen fourteen, the Yale geologist Herbert Gregory published a paper on it in the American Journal of Science. His title says it all: a fault plane of unusual aspect."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen fourteen, the Yale geologist Herbert Gregory published a paper on it in the American Journal of Science. His title says it all: a fault plane of unusual aspect.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 12.504
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Geological close-up of slickensides, a polished rock fault surface with long parallel grooves and striations, natural light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Blocks of rock ground past each other along a nearly flat fault, polishing and grooving the surface. Glaciers are unlikely, since the nearest sign of glaciation is hundreds of metres higher. And it is not lava: the hill is not volcanic rock."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Blocks of rock ground past each other along a nearly flat fault, polishing and grooving the surface. Glaciers are unlikely, since the nearest sign of glaciation is hundreds of metres higher. And it is not lava: the hill is not volcanic rock.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 16.656
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Wide view of a smooth grooved rock hill beside an Inca ruin under dramatic clouds, Andes, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So von D\u00e4niken was right that a glacier was a poor explanation. But the answer was never heat. It was the earth itself, moving."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So von D\u00e4niken was right that a glacier was a poor explanation. But the answer was never heat. It was the earth itself, moving.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 8.664
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro view of a shiny reddish-brown calcite crust coating weathered grey limestone, glistening like glaze, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the walls, the glassy patches have another source. Limestone dissolves in rainwater and redeposits as calcite, the same mineral as cave stalactites. It forms shiny crusts, often reddish with iron, and glows blue under ultraviolet light."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the walls, the glassy patches have another source. Limestone dissolves in rainwater and redeposits as calcite, the same mineral as cave stalactites. It forms shiny crusts, often reddish with iron, and glows blue under ultraviolet light.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 17.424
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Tightly fitted Inca wall of large pink granite blocks at Ollantaytambo, matte rough surfaces with lichen, mountains behind, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the test. Inca walls of granite and andesite, at sites like Ollantaytambo, were dressed the same way. They have no glaze. A melting technology would not care what the rock was. Calcite does."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the test. Inca walls of granite and andesite, at sites like Ollantaytambo, were dressed the same way. They have no glaze. A melting technology would not care what the rock was. Calcite does.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 14.568
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An Andean flicker woodpecker perched on a rocky ledge with grey stones and small plants, natural light, wildlife photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the plant? Its story goes back to sixteen thirty-eight, to a woodpecker said to use a herb that dissolved iron, which prisoners used to escape their chains. Similar tales exist in old European lore. No one has ever shown such a plant softening stone. Knot six: the shine is geology."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the plant? Its story goes back to sixteen thirty-eight, to a woodpecker said to use a herb that dissolved iron, which prisoners used to escape their chains. Similar tales exist in old European lore. No one has ever shown such a plant softening stone. Knot six: the shine is geology.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 20.112
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Elderly Quechua man in a traditional woven poncho and hat looking up at giant Inca stone walls at sunset, respectful documentary portrait, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cord seven: the witnesses. Who did the people of Cusco say built this place?"
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "CORD VII",
+   "The Witnesses",
+   "1534 \u2192 1609"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cord seven: the witnesses. Who did the people of Cusco say built this place?",
+    "file": "ep/audio/s53.mp3",
+    "dur": 4.848
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Reconstruction of an Inca emperor in fine regalia on a hillside directing the start of construction of great stone walls, workers below, painterly photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They said the Inca did. The chroniclers recorded that work began under Pachacuti, and continued under his son Tupac Inca Yupanqui and his grandson Huayna Capac. Garcilaso said it took more than fifty years."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They said the Inca did. The chroniclers recorded that work began under Pachacuti, and continued under his son Tupac Inca Yupanqui and his grandson Huayna Capac. Garcilaso said it took more than fifty years.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 16.056
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Old weathered stone steps worn smooth by centuries of feet in an Inca building, soft light, photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is not deep time. Huayna Capac died around fifteen twenty-four, less than a decade before the Spanish arrived. People who told this story could have known the builders."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is not deep time. Huayna Capac died around fifteen twenty-four, less than a decade before the Spanish arrived. People who told this story could have known the builders.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 11.688
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Andean stonemasons in early colonial clothing fitting stones for a Spanish colonial house in Cusco, a Spanish overseer watching, reconstruction, painterly photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pedro Pizarro saw the fortress intact, its stones so large it seemed impossible human hands had set them. Cieza later watched Andean masons build Spanish houses with the same skill, using no tools but stones."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pedro Pizarro saw the fortress intact, its stones so large it seemed impossible human hands had set them. Cieza later watched Andean masons build Spanish houses with the same skill, using no tools but stones.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 16.032
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Dramatic reconstruction of a sixteenth-century battle at the giant stone walls above Cusco, Inca warriors with slings and Spanish horsemen, smoke, painterly, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In fifteen thirty-six, Manco Inca rose against the Spanish and besieged Cusco. Sacsayhuam\u00e1n became a battlefield. Juan Pizarro was fatally wounded there, and tradition says an Inca soldier named Cahuide leapt from a tower rather than surrender."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In fifteen thirty-six, Manco Inca rose against the Spanish and besieged Cusco. Sacsayhuam\u00e1n became a battlefield. Juan Pizarro was fatally wounded there, and tradition says an Inca soldier named Cahuide leapt from a tower rather than surrender.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 18.648
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Colonial-era workers prying smaller stones from the top of a ruined Inca wall and loading them on a cart, a church under construction in the distance, reconstruction, sepia painterly, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the dismantling began. Garcilaso wrote that hardly a Spanish house in Cusco was not built from the fortress stone. What remains are the blocks too big to carry off. That is why only the giants are left."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the dismantling began. Garcilaso wrote that hardly a Spanish house in Cusco was not built from the fortress stone. What remains are the blocks too big to carry off. That is why only the giants are left.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 14.952
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Inca megalithic wall with a section of rougher smaller modern stonework on top, overcast light, documentary photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the rough upper courses that some point to as proof of an older, lost civilisation are partly modern: erosion walls added for visitors, missing in early twentieth-century photographs. Knot seven: the witnesses name the builders."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the rough upper courses that some point to as proof of an older, lost civilisation are partly modern: erosion walls added for visitors, missing in early twentieth-century photographs. Knot seven: the witnesses name the builders.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 16.056
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene with a faint glowing Andean knotted-cord khipu hanging on the far right edge, large empty dark space on the left, subtle stone wall texture, cinematic, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seven cords, seven knots. Now the summary cord."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "SUMMARY CORD",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seven cords, seven knots. Now the summary cord.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 3.384
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene with a faint glowing Andean knotted-cord khipu hanging on the far right edge, large empty dark space on the left, subtle stone wall texture, cinematic, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hammerstone scars on the blocks: evidence. Fitting by trial and error, reproduced: evidence. Chroniclers naming the Inca, and twenty thousand workers: evidence. The glassy shine, from calcite and a fault polish: explained."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hammerstone scars on the blocks: evidence. Fitting by trial and error, reproduced: evidence. Chroniclers naming the Inca, and twenty thousand workers: evidence. The glassy shine, from calcite and a fault polish: explained.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 15.84
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene with a faint glowing Andean knotted-cord khipu hanging on the far right edge, large empty dark space on the left, subtle stone wall texture, cinematic, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Alien tools, or heat-melted stone: no evidence. A plant that softens rock: folklore. The exact way the largest blocks were lifted and fitted: still debated."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Alien tools, or heat-melted stone: no evidence. A plant that softens rock: folklore. The exact way the largest blocks were lifted and fitted: still debated.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden sunset light raking across the giant zigzag stone walls of Sacsayhuaman, long shadows, Cusco valley beyond, cinematic photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Sacsayhuam\u00e1n was not melted, poured or beamed into place. Every line of evidence, from the stone dust to the chronicles, points to Inca masonry: pounding, testing and fitting, by thousands of people over decades."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Sacsayhuam\u00e1n was not melted, poured or beamed into place. Every line of evidence, from the stone dust to the chronicles, points to Inca masonry: pounding, testing and fitting, by thousands of people over decades.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 15.648
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Giant fitted Inca stone wall under a night sky full of stars and the Milky Way, quiet, cinematic photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What stays open is the hardest engineering question: exactly how a hundred-tonne block was raised, tested and lowered again. That is a question for archaeologists with measurements, not for aliens."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What stays open is the hardest engineering question: exactly how a hundred-tonne block was raised, tested and lowered again. That is a question for archaeologists with measurements, not for aliens.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 13.56
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Inti Raymi festival on the great field in front of Sacsayhuaman walls, performers in colourful Inca costumes and golden sun headdresses, crowds, sunny day, documentary photoreal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And these walls are not only a ruin of the past. Every twenty-fourth of June since nineteen forty-four, Inti Raymi, the festival of the Sun, is performed on the field in front of them, by people whose ancestors raised them."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And these walls are not only a ruin of the past. Every twenty-fourth of June since nineteen forty-four, Inti Raymi, the festival of the Sun, is performed on the field in front of them, by people whose ancestors raised them.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 15.192
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background with a small glowing khipu of knotted cords hanging at the center against black, minimal, no text, no letters, no writing, no signage, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That's the summary cord. Which knot surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That's the summary cord. Which knot surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 8.736
+   }
+  ]
+ }
+]
