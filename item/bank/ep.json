@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Central Bosnia, a steep triangular forested hill rising above a small Balkan town with red tiled roofs and a slender white minaret, river valley at dawn, soft mist, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Twenty miles northwest of Sarajevo, above the small Bosnian town of Visoko, there is a hill. Steep, forested, and strangely triangular. From the right angle, it looks like a pyramid."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Twenty miles northwest of Sarajevo, above the small Bosnian town of Visoko, there is a hill. Steep, forested, and strangely triangular. From the right angle, it looks like a pyramid.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A man in an explorer shirt seen from behind standing on a forested hillside pointing toward a distant triangular hill, documentary photo style, natural light, face not visible, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In October two thousand and five, a Bosnian-American businessman from Houston, Semir Osmanagi\u0107, announced that it was one. Not just a pyramid. The largest and oldest on Earth, bigger than the Great Pyramid of Giza."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In October two thousand and five, a Bosnian-American businessman from Houston, Semir Osmanagi\u0107, announced that it was one. Not just a pyramid. The largest and oldest on Earth, bigger than the Great Pyramid of Giza.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 15.624
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept art, a giant stepped stone pyramid glowing at night with a vertical beam of blue light shooting from its summit into a starry sky, Balkan mountains around, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Concrete stronger than ours. Tunnels running for miles. An energy beam shooting from the summit into space. Builders tens of thousands of years old and, in some tellings, help from the stars."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Concrete stronger than ours. Tunnels running for miles. An energy beam shooting from the summit into space. Builders tens of thousands of years old and, in some tellings, help from the stars.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Crowds of tourists walking up a forest path toward a hilltop in summer, small wooden souvenir stalls along the path, warm afternoon light, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hundreds of thousands of visitors have come. So today, we treat this hill like any building that wants official papers. We send in the inspector."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hundreds of thousands of visitors have come. So today, we treat this hill like any building that wants official papers. We send in the inspector.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A building inspector's hard hat, a blank clipboard with blank paper, a measuring tape and a rubber stamp lying on a wooden table, a forested triangular hill visible through a window behind, warm light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seven inspections. Every item passes or fails on evidence. At the end, we sign the certificate, and give the verdict."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seven inspections. Every item passes or fails on evidence. At the end, we sign the certificate, and give the verdict.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 8.208
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Central Bosnia, wide view across a green river valley to a steep pyramid-shaped forested hill above a town, summer haze, telephoto landscape photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inspection one: the site survey. The so-called Pyramid of the Sun is Viso\u010dica hill. It rises a little over two hundred metres above the town. Across the valley, Osmanagi\u0107 named a second hill, Plje\u0161evica, the Pyramid of the Moon."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I",
+   "The Site Survey",
+   "SHAPE \u00b7 ORIENTATION \u00b7 TEAM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inspection one: the site survey. The so-called Pyramid of the Sun is Viso\u010dica hill. It rises a little over two hundred metres above the town. Across the valley, Osmanagi\u0107 named a second hill, Plje\u0161evica, the Pyramid of the Moon.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 17.304
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Central Bosnia, a row of several rounded and triangular green hills along a valley at golden hour, farmland and scattered houses in the foreground, landscape photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He added a Pyramid of the Dragon, a Pyramid of Love, and a Temple of Mother Earth. Sun and Moon were borrowed from Mexico's Teotihuacan, where real pyramids carry those names."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He added a Pyramid of the Dragon, a Pyramid of Love, and a Temple of Mother Earth. Sun and Moon were borrowed from Mexico's Teotihuacan, where real pyramids carry those names.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A brass hiking compass held in a hand in front of a distant triangular forested hill, shallow depth of field, golden light, photoreal, compass dial without any letters or markings, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In April two thousand and five, he says, he looked at the hill, checked a compass, and saw triangular faces turned to north, south, east and west. Nature, he decided, does not do that."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In April two thousand and five, he says, he looked at the hill, checked a compass, and saw triangular faces turned to north, south, east and west. Nature, he decided, does not do that.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial view from a small plane over a green Balkan valley with several natural forested hills of irregular shape, a river and a small town, summer, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A surveyor later called the orientation perfect. But geologist Robert Schoch of Boston University, who flew over the valley in two thousand and six, saw natural hills, not a four-sided building."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A surveyor later called the orientation perfect. But geologist Robert Schoch of Boston University, who flew over the valley in two thousand and six, saw natural hills, not a four-sided building.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "The famous Flatirons near Boulder Colorado, huge tilted triangular slabs of red sandstone on a mountainside above green meadows, clear blue sky, landscape photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Geologists have a name for triangular hills: flatirons. A hard, tilted rock layer over softer rock, worn into a steep triangular face. They are common worldwide, from Colorado to Russia's so-called twin pyramids."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Geologists have a name for triangular hills: flatirons. A hard, tilted rock layer over softer rock, worn into a steep triangular face. They are common worldwide, from Colorado to Russia's so-called twin pyramids.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 16.368
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "left",
+  "prompt": "Geological landscape with several tilted layered rock ridges eroded into triangular facets, green hills, overcast light, textbook landscape photo, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tuzla geologist Sejfudin Vrabac counted dozens of similar landforms in this basin alone. A pyramid shape, as archaeologist Curtis Runnels notes, is a form nature makes, and keeps."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tuzla geologist Sejfudin Vrabac counted dozens of similar landforms in this basin alone. A pyramid shape, as archaeologist Curtis Runnels notes, is a form nature makes, and keeps.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An empty folding chair and an empty table under a canvas field tent at an excavation site, shovels leaning on the table, morning light, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Osmanagi\u0107 announced an international group of archaeologists. Many of those named said they had never agreed to take part, and had never been to the site. A promised Oxford archaeologist turned out to be an undergraduate."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Osmanagi\u0107 announced an international group of archaeologists. Many of those named said they had never agreed to take part, and had never been to the site. A promised Oxford archaeologist turned out to be an undergraduate.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 15.912
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A triangular forested hill silhouetted against a pale dawn sky, calm, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Survey result: a real shape, but one nature makes all the time. So we look underneath."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Survey result: a real shape, but one nature makes all the time. So we look underneath.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 5.952
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Geologists in work clothes beside a small truck-mounted drilling rig on a forested hillside, a long rock core lying in a wooden core box, overcast day, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inspection two: the ground report. Ironically, the first test was ordered by Osmanagi\u0107's own foundation. In early two thousand and six, geologists from the University of Tuzla drilled into Viso\u010dica."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II",
+   "The Ground Report",
+   "DRILL CORES \u00b7 LAKE BED"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inspection two: the ground report. Ironically, the first test was ordered by Osmanagi\u0107's own foundation. In early two thousand and six, geologists from the University of Tuzla drilled into Viso\u010dica.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 15.768
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of cylindrical rock drill cores laid in a wooden box showing layers of pebbly conglomerate, grey clay and tan sandstone, raking light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Six boreholes, three to seventeen metres deep. Their verdict, in May two thousand and six: a natural formation, built of layered sediments, conglomerate, clay and sandstone, the same as the mountains around it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Six boreholes, three to seventeen metres deep. Their verdict, in May two thousand and six: a natural formation, built of layered sediments, conglomerate, clay and sandstone, the same as the mountains around it.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 14.088
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Prehistoric landscape reconstruction, a long lake filling a mountain valley ten million years ago, rivers flowing into it from rising forested mountains, no people, painterly photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That fits the valley's known history. About ten million years ago, as the mountains of central Bosnia rose, this valley flooded into a lake some forty miles long. Rivers poured gravel, sand and mud into it, layer upon layer."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That fits the valley's known history. About ten million years ago, as the mountains of central Bosnia rose, this valley flooded into a lake some forty miles long. Rivers poured gravel, sand and mud into it, layer upon layer.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 15.984
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "A cliff face of sedimentary rock showing alternating thin grey clay layers, tan sandstone beds and thick pebbly conglomerate beds, slightly tilted, natural light, geology photo, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Quiet years left thin clay. Floods dumped thick beds of gravel, which hardened into conglomerate. Later, tectonic forces tilted and cracked the old lake floor into angular hills."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Quiet years left thin clay. Floods dumped thick beds of gravel, which hardened into conglomerate. Later, tectonic forces tilted and cracked the old lake floor into angular hills.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of regularly repeating layers of sandstone about one metre apart separated by darker mudstone in a hillside cut, measuring staff without markings leaning against it, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Schoch noticed something else. The sandstone layers repeat at intervals of about a metre. Regular, yes. But geologists have a word for that too: cyclothems. Natural, repeating cycles of deposition."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Schoch noticed something else. The sandstone layers repeat at intervals of about a metre. Regular, yes. But geologists have a word for that too: cyclothems. Natural, repeating cycles of deposition.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 14.304
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A hand holding a clump of dark forest soil above an excavation trench on a hillside, soft light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Osmanagi\u0107's answer: beneath the soil is not rock, but a construction. His foundation dates the soil on top to twelve to fifteen thousand years, so whatever lies beneath must be older."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Osmanagi\u0107's answer: beneath the soil is not rock, but a construction. His foundation dates the soil on top to twelve to fifteen thousand years, so whatever lies beneath must be older.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 13.32
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A forested triangular hill at dusk with layered rock visible in a small cut at its base, calm, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ground report: the same lake-bed layers as every other hill in the basin. So what about the famous blocks?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ground report: the same lake-bed layers as every other hill in the basin. So what about the famous blocks?",
+    "file": "ep/audio/s20.mp3",
+    "dur": 7.176
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An excavation on a steep wooded hillside revealing large flat-faced grey stone blocks, workers with shovels and wheelbarrows, spring 2006 documentary photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inspection three: the walls. In April two thousand and six, the digging began. Within days, crews uncovered large, flat-faced stone blocks on the hillside. The headline went around the world: experts find evidence of a pyramid."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III",
+   "The Walls",
+   "BLOCKS \u00b7 CONCRETE \u00b7 STEPS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inspection three: the walls. In April two thousand and six, the digging began. Within days, crews uncovered large, flat-faced stone blocks on the hillside. The headline went around the world: experts find evidence of a pyramid.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 15.912
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept image of ancient workers pouring grey concrete into wooden molds on a giant pyramid slope at night by torchlight, cinematic reconstruction, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The claim: these are concrete blocks, cast on site by a lost civilisation, harder than modern concrete. The foundation calls it a geopolymer, with strength up to a hundred and fifty-five megapascals."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The claim: these are concrete blocks, cast on site by a lost civilisation, harder than modern concrete. The foundation calls it a geopolymer, with strength up to a hundred and fifty-five megapascals.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 14.304
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a large block of natural conglomerate rock made of rounded pebbles cemented in sand, with natural fractures, on a hillside excavation, raking light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Schoch spent ten days on the site that summer. Where the team saw poured concrete, he saw natural conglomerate and sandstone, broken into blocks by tectonic stress and by the hill slowly slumping downhill."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Schoch spent ten days on the site that summer. Where the team saw poured concrete, he saw natural conglomerate and sandstone, broken into blocks by tectonic stress and by the hill slowly slumping downhill.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Side by side in one hillside cut: a thin sandstone layer broken into small slabs and a thick conglomerate layer broken into huge blocks, natural fractures, geology photo, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The decisive clue: block size matches layer thickness. Thin sandstone beds broke into small slabs, thick conglomerate into massive blocks. Exactly what natural rock does."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The decisive clue: block size matches layer thickness. Thin sandstone beds broke into small slabs, thick conglomerate into massive blocks. Exactly what natural rock does.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two men in field clothes examining large grey stone blocks in an excavation trench, one crouching and touching the rock, documentary photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A geologist invited by the team hailed the blocks, then called his own results inconclusive. Anthony Harding, head of the European Association of Archaeologists, examined the same blocks: entirely geological."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A geologist invited by the team hailed the blocks, then called his own results inconclusive. Anthony Harding, head of the European Association of Archaeologists, examined the same blocks: entirely geological.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 15.576
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "A hillside with flat sandstone plates exposed in horizontal bands separated by clay, like rough terraces, volunteers kneeling with trowels, summer light, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the Pyramid of the Moon, flat sandstone plates separated by clay became paved terraces: the steps of a giant stepped pyramid."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the Pyramid of the Moon, flat sandstone plates separated by clay became paved terraces: the steps of a giant stepped pyramid.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 9.12
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Workers with shovels cutting a step into a soft clay hillside between natural rock layers, fresh earth, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But Schoch says workers carved the hillside between natural layers to create the steps. Archaeologist Brian Stewart warned the hills were being sculpted, stripping away real medieval archaeology."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But Schoch says workers carved the hillside between natural layers to create the steps. Archaeologist Brian Stewart warned the hills were being sculpted, stripping away real medieval archaeology.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 13.728
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A trowel resting on a fractured natural stone slab at dusk, cinematic close-up photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Walls result: natural rock, broken the way natural rock breaks, and steps made, at least in part, by the excavation itself."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Walls result: natural rock, broken the way natural rock breaks, and steps made, at least in part, by the excavation itself.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 8.352
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Entrance to a low narrow tunnel dug into a gravelly hillside, wooden supports, a string of warm work lights leading inside, forest around, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inspection four: the basement. Near the village of Ravne, the foundation opened a tunnel it calls part of a vast prehistoric labyrinth linking the pyramids. First two point four miles were claimed. Now, tens of kilometres."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV",
+   "The Basement",
+   "THE RAVNE TUNNELS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inspection four: the basement. Near the village of Ravne, the foundation opened a tunnel it calls part of a vast prehistoric labyrinth linking the pyramids. First two point four miles were claimed. Now, tens of kilometres.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 16.176
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Inside a cramped low tunnel about one metre high cut through loose sand and pebbles, a person crawling ahead with a headlamp, gritty documentary photo, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand and nine, journalist Colin Woodard crawled in: a cramped passage, about three feet high, cut through loose, unconsolidated sand and pebbles."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand and nine, journalist Colin Woodard crawled in: a cramped passage, about three feet high, cut through loose, unconsolidated sand and pebbles.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A collapsed section of an old tunnel with fallen gravel and broken timber supports, flashlight beam, dust in the air, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Schoch had found a tunnel clearly entered and changed in recent times. Collapsed ceilings, graffiti, and local stories that the Yugoslav army had once used tunnels here."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Schoch had found a tunnel clearly entered and changed in recent times. Collapsed ceilings, graffiti, and local stories that the Yugoslav army had once used tunnels here.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A large rounded boulder inside a tunnel with a few rough scratched abstract marks on its surface, lit by a headlamp, photoreal, marks are random scratches not letters, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the inscriptions: symbols on boulders, presented as ancient writing. A former foundation geologist told a Bosnian magazine there were no marks when she first saw the stones. Later, she saw fresh cuts. Osmanagi\u0107 denies it."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the inscriptions: symbols on boulders, presented as ancient writing. A former foundation geologist told a Bosnian magazine there were no marks when she first saw the stones. Later, she saw fresh cuts. Osmanagi\u0107 denies it.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 16.752
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "People sitting quietly in meditation on wooden benches inside a dimly lit gravel tunnel with warm lights, calm atmosphere, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today the tunnels are a wellness attraction: negative ions, meditation sessions, and published healing testimonials, from sinus trouble to tumours."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today the tunnels are a wellness attraction: negative ions, meditation sessions, and published healing testimonials, from sinus trouble to tumours.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 10.104
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Water dripping in a damp underground passage, droplets lit by a lamp, close-up, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Negative ions are real. Damp air near running water is rich in them, in caves everywhere. But a tunnel through gravel still needs a date and a digger, and no independent study has yet established who dug it, or when."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Negative ions are real. Damp air near running water is rich in them, in caves everywhere. But a tunnel through gravel still needs a date and a digger, and no independent study has yet established who dug it, or when.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 14.856
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark tunnel mouth glowing faintly at night in a forest, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Basement result: real tunnels, recently modified, origin unproven. Now, the claim that made this hill famous."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Basement result: real tunnels, recently modified, origin unproven. Now, the claim that made this hill famous.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 8.448
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A man in a jacket on a forested hilltop at dusk holding a handheld electronic sensor with a blank dark screen toward the sky, cables to a laptop with a blank screen on a folding table, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inspection five: the wiring. In two thousand and ten, a team led by Croatian physicist Slobodan Mizdrak reported ultrasound on the summit of the Pyramid of the Sun. A steady signal at about twenty-eight kilohertz."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "V",
+   "The Wiring",
+   "28 kHz \u00b7 THE ENERGY BEAM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inspection five: the wiring. In two thousand and ten, a team led by Croatian physicist Slobodan Mizdrak reported ultrasound on the summit of the Pyramid of the Sun. A steady signal at about twenty-eight kilohertz.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 16.128
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A small quadcopter drone hovering above a forested hilltop at twilight, a faint imaginary vertical column of blue light rising from the summit, cinematic concept, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, a beam four and a half metres wide rising from the top. A drone flight in two thousand and sixteen. Even a metal plate, deep underground, said to generate more than ten kilowatts of power."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, a beam four and a half metres wide rising from the top. A drone flight in two thousand and sixteen. Even a metal plate, deep underground, said to generate more than ten kilowatts of power.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept, a beam of light from a forested hilltop reaching up to a spiral galaxy in the night sky, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Osmanagi\u0107 calls it Tesla's scalar waves, faster than light. A cosmic internet for communication across the galaxy. From there it is a short step to the alien question. Who would need a transmitter like that?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Osmanagi\u0107 calls it Tesla's scalar waves, faster than light. A cosmic internet for communication across the galaxy. From there it is a short step to the alien question. Who would need a transmitter like that?",
+    "file": "ep/audio/s38.mp3",
+    "dur": 14.76
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a cricket on a green leaf at night, macro photography, soft light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Twenty-eight kilohertz is ultrasound, above human hearing. Ordinary things make it: insects, bats, wind in leaves, electronic power supplies, and sometimes the measuring gear itself."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Twenty-eight kilohertz is ultrasound, above human hearing. Ordinary things make it: insects, bats, wind in leaves, electronic power supplies, and sometimes the measuring gear itself.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two different scientific teams with tripod-mounted instruments measuring on two separate ordinary grassy hills, control experiment concept, overcast light, photoreal, instruments have blank screens, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real beam would be easy to confirm: independent teams, calibrated instruments, control hills nearby, results physicists can check. The main write-up, posted in twenty twenty-five, is a preprint by Osmanagi\u0107 himself."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real beam would be easy to confirm: independent teams, calibrated instruments, control hills nearby, results physicists can check. The main write-up, posted in twenty twenty-five, is a preprint by Osmanagi\u0107 himself.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 16.2
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A beam of light passing through a glass prism on a dark laboratory bench, physics experiment, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And faster than light? That one fails before any measurement. No signal carrying information has ever been shown to outrun light. It would break relativity, one of the best-tested theories in physics."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And faster than light? That one fails before any measurement. No signal carrying information has ever been shown to outrun light. It would break relativity, one of the best-tested theories in physics.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A quiet forested hilltop under stars, no beam, peaceful night, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Wiring result: an unreplicated signal, and no alien fingerprint anywhere."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Wiring result: an unreplicated signal, and no alien fingerprint anywhere.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 5.472
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A fossil leaf imprint in a split slab of grey sandstone held in two hands, natural light, macro photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inspection six: the date stamp. Every building has a date. This one has had several."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI",
+   "The Date Stamp",
+   "12,000 \u2192 34,000 YEARS?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inspection six: the date stamp. Every building has a date. This one has had several.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 5.4
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A laboratory with glass vials of small organic samples on a steel bench, a scientist in gloves, clean blue light, photoreal, labels blank, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand and six, Osmanagi\u0107 spoke of twelve thousand years. By twenty twelve, radiocarbon on a leaf found on a block gave twenty-four thousand eight hundred years. Then twenty-nine thousand. Later, thirty-four thousand."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand and six, Osmanagi\u0107 spoke of twelve thousand years. By twenty twelve, radiocarbon on a leaf found on a block gave twenty-four thousand eight hundred years. Then twenty-nine thousand. Later, thirty-four thousand.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 15.912
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of fossil plant leaves pressed between layers of sedimentary rock, split open, detailed veins, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The problem is what was dated. A leaf dates the leaf. Plant remains on or between rock layers tell you when the plant lived, not that anyone built the layers. And Schoch found real fossil leaves in these sediments, millions of years old."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The problem is what was dated. A leaf dates the leaf. Plant remains on or between rock layers tell you when the plant lived, not that anyone built the layers. And Schoch found real fossil leaves in these sediments, millions of years old.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 15.816
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Ice Age Europe thirty thousand years ago, a small band of hunter-gatherers in furs walking across a cold steppe valley with distant mountains and snow, painterly photoreal reconstruction, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now picture Europe thirty thousand years ago. The Ice Age was heading toward its coldest peak. People lived in small bands of hunters and gatherers. Farming, towns and metal were all still more than twenty thousand years away."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now picture Europe thirty thousand years ago. The Ice Age was heading toward its coldest peak. People lived in small bands of hunters and gatherers. Farming, towns and metal were all still more than twenty thousand years away.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 15.624
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Simple Paleolithic stone tools and bone needles laid out on a cloth in a museum workroom, soft light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Curtis Runnels, an expert on the prehistoric Balkans, is blunt. Those people did not have the tools or the skills for monumental architecture. Cultures able to build big structures appear here only about two and a half thousand years ago."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Curtis Runnels, an expert on the prehistoric Balkans, is blunt. Those people did not have the tools or the skills for monumental architecture. Cultures able to build big structures appear here only about two and a half thousand years ago.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 16.248
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "The Pleiades star cluster glowing blue in a deep night sky above dark mountains, astrophotography, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So who built it? Osmanagi\u0107's wider writings answer: a civilisation more advanced than ours. Elsewhere he has written that the Maya came from the Pleiades by way of Atlantis, and that humans are a product of genetic engineering."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So who built it? Osmanagi\u0107's wider writings answer: a civilisation more advanced than ours. Elsewhere he has written that the Maya came from the Pleiades by way of Atlantis, and that humans are a product of genetic engineering.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 16.056
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An empty excavation trench at dusk with natural layered rock walls, no artefacts, quiet, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Date stamp: no workshops, no tools, no bones, no hearths, no builders. Just leaves in layers. So who really did live on this hill?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Date stamp: no workshops, no tools, no bones, no hearths, no builders. Just leaves in layers. So who really did live on this hill?",
+    "file": "ep/audio/s49.mp3",
+    "dur": 9.288
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Central Bosnia, ruins of a medieval stone castle wall on the summit of a forested hill, overgrown stones, view over a valley town, golden morning light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inspection seven: the real tenants. On the summit lie the ruins of Visoki, a royal castle town of medieval Bosnia, first named in a charter of Tvrtko the First in thirteen fifty-five."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII",
+   "The Real Tenants",
+   "VISOKI \u00b7 ROME \u00b7 NEOLITHIC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inspection seven: the real tenants. On the summit lie the ruins of Visoki, a royal castle town of medieval Bosnia, first named in a charter of Tvrtko the First in thirteen fifty-five.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 14.592
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A rolled medieval parchment tied with cord and a red wax seal lying on old wood, candlelight, no visible writing, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Documents were issued there until fourteen thirty-six. And the castle sat on older layers: a Roman lookout post and, beneath it, traces of settlement that Schoch says may reach back about five thousand years."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Documents were issued there until fourteen thirty-six. And the castle sat on older layers: a Roman lookout post and, beneath it, traces of settlement that Schoch says may reach back about five thousand years.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 14.568
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Professional archaeologists carefully excavating a small square trench with trowels and brushes beside old medieval stone foundations on a hilltop, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand and eight, independent archaeologists found medieval artefacts on the hill. Bosnia's monuments commission widened the protected zone, pushing the pyramid digs off the summit."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand and eight, independent archaeologists found medieval artefacts on the hill. Bosnia's monuments commission widened the protected zone, pushing the pyramid digs off the summit.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A wooden table in a European conference room with a signed letter face down, fountain pen, glasses, sober light, no visible writing, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In December two thousand and six, leading European archaeologists signed a declaration calling the project a cruel hoax on an unsuspecting public, and a waste of resources needed to protect genuine heritage."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In December two thousand and six, leading European archaeologists signed a declaration calling the project a cruel hoax on an unsuspecting public, and a waste of resources needed to protect genuine heritage.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Stonehenge at dusk with a bulldozer parked ominously nearby, conceptual image, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Historian Garrett Fagan of Penn State compared it to letting someone bulldoze Stonehenge in search of secret chambers underneath."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Historian Garrett Fagan of Penn State compared it to letting someone bulldoze Stonehenge in search of secret chambers underneath.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 8.376
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Central Bosnia, a small town in a valley with some damaged buildings being rebuilt, scaffolding, people on the street, early 2000s documentary photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why did so many believe? Bosnia was emerging from the war of nineteen ninety-two to ninety-five. Visoko itself had been shelled. A story of great ancestors, and of a brighter future, was powerful medicine."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why did so many believe? Bosnia was emerging from the war of nineteen ninety-two to ninety-five. Visoko itself had been shelled. A story of great ancestors, and of a brighter future, was powerful medicine.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 14.664
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A crowded press conference with microphones on a table and cameras, politicians in suits seated, blurred faces, documentary photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Officials embraced it, including a prime minister and members of the presidency. Critics, Smithsonian reported, were shouted down as anti-Bosnian. Some received threats."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Officials embraced it, including a prime minister and members of the presidency. Critics, Smithsonian reported, were shouted down as anti-Bosnian. Some received threats.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 12.168
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small souvenir stall with carved wooden pyramids, pyramid-shaped trinkets and T-shirts with plain graphics, smiling vendor, sunny day, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the town did gain something real: tourists, souvenir stalls, a park, jobs. Many people in Visoko are glad of the visitors, whatever the hills are made of."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the town did gain something real: tourists, souvenir stalls, a park, jobs. Many people in Visoko are glad of the visitors, whatever the hills are made of.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Central Bosnia, a forested triangular hill with medieval castle ruins on top at sunset, town lights coming on below, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tenants: medieval kings, Roman soldiers, Neolithic villagers. Real history, sitting on top of a natural hill. Time to sign the certificate."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tenants: medieval kings, Roman soldiers, Neolithic villagers. Real history, sitting on top of a natural hill. Time to sign the certificate.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 10.536
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene, a steep triangular forested hill silhouette on the far right edge lit by a faint golden rim light, large empty dark sky space on the left, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The inspection is complete. Here is the certificate."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "THE CERTIFICATE",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The inspection is complete. Here is the certificate.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 3.288
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene, a steep triangular forested hill silhouette on the far right edge lit by a faint golden rim light, large empty dark sky space on the left, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Made of the same lake-bed layers as the hills around it: evidence. Blocks broken to match the layer thickness: evidence. Medieval and Roman remains on the summit: evidence. Steps carved by the digs themselves: likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Made of the same lake-bed layers as the hills around it: evidence. Blocks broken to match the layer thickness: evidence. Medieval and Roman remains on the summit: evidence. Steps carved by the digs themselves: likely.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 15.24
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene, a steep triangular forested hill silhouette on the far right edge lit by a faint golden rim light, large empty dark sky space on the left, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The world's largest pyramid, twelve to thirty-four thousand years old: debunked. A twenty-eight kilohertz energy beam with alien links: no evidence. And who dug the Ravne tunnels, and when: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The world's largest pyramid, twelve to thirty-four thousand years old: debunked. A twenty-eight kilohertz energy beam with alien links: no evidence. And who dug the Ravne tunnels, and when: still open.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Central Bosnia, golden sunrise over a green river valley with several natural forested hills, one triangular, mist in the valley, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The Bosnian pyramids are natural hills: flatirons of ancient lake sediments, tilted and worn by geology. No pyramid. No Ice Age super-civilisation. No cosmic transmitter."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The Bosnian pyramids are natural hills: flatirons of ancient lake sediments, tilted and worn by geology. No pyramid. No Ice Age super-civilisation. No cosmic transmitter.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a naturally fractured conglomerate rock face with ferns growing in the cracks, soft daylight, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The blocks are broken rock. The steps were, in part, made with shovels after two thousand and five. The dates come from leaves, not builders. And the beam has never been independently confirmed."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The blocks are broken rock. The steps were, in part, made with shovels after two thousand and five. The dates come from leaves, not builders. And the beam has never been independently confirmed.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky full of stars above medieval castle ruins on a dark forested hill, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What stays open is smaller, and more honest: the true history of the Ravne tunnels, and what the valley's real archaeology, from the Neolithic to medieval Visoki, still has to tell."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What stays open is smaller, and more honest: the true history of the Ravne tunnels, and what the valley's real archaeology, from the Neolithic to medieval Visoki, still has to tell.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 13.08
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A child and a grandparent standing on a hilltop meadow looking out over a Bosnian valley town at golden hour, seen from behind, gentle, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The real wonder of Visoko is not a pyramid. It is a hill that holds ten million years of an ancient lake, the ruins of a royal town, and a people who badly wanted their past to be great. It already was."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The real wonder of Visoko is not a pyramid. It is a hill that holds ten million years of an ancient lake, the ruins of a royal town, and a people who badly wanted their past to be great. It already was.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 14.616
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a faint triangular hill silhouette glowing softly in the center against black, minimal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the inspection report. Would you have signed the certificate? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the inspection report. Would you have signed the certificate? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 9.456
+   }
+  ]
+ }
+]

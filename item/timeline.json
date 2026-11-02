@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 26801,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 436,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Twenty miles northwest of Sarajevo, above the small Bosnian town of Visoko, there is a hill. Steep, forested, and strangely triangular. From the right angle, it looks like a pyramid.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 13.44,
+     "start": 10,
+     "end": 414
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 418,
+   "end": 919,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In October two thousand and five, a Bosnian-American businessman from Houston, Semir Osmanagi\u0107, announced that it was one. Not just a pyramid. The largest and oldest on Earth, bigger than the Great Pyramid of Giza.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 15.624,
+     "start": 428,
+     "end": 897
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 901,
+   "end": 1323,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Concrete stronger than ours. Tunnels running for miles. An energy beam shooting from the summit into space. Builders tens of thousands of years old and, in some tellings, help from the stars.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 12.984,
+     "start": 911,
+     "end": 1301
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1305,
+   "end": 1633,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hundreds of thousands of visitors have come. So today, we treat this hill like any building that wants official papers. We send in the inspector.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 9.84,
+     "start": 1315,
+     "end": 1611
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1615,
+   "end": 2014,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Seven inspections. Every item passes or fails on evidence. At the end, we sign the certificate, and give the verdict.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 8.208,
+     "start": 1625,
+     "end": 1872
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I",
+    "The Site Survey",
+    "SHAPE \u00b7 ORIENTATION \u00b7 TEAM"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1996,
+   "end": 2548,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inspection one: the site survey. The so-called Pyramid of the Sun is Viso\u010dica hill. It rises a little over two hundred metres above the town. Across the valley, Osmanagi\u0107 named a second hill, Plje\u0161evica, the Pyramid of the Moon.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 17.304,
+     "start": 2006,
+     "end": 2526
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "sand",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2530,
+   "end": 2956,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He added a Pyramid of the Dragon, a Pyramid of Love, and a Temple of Mother Earth. Sun and Moon were borrowed from Mexico's Teotihuacan, where real pyramids carry those names.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.104,
+     "start": 2540,
+     "end": 2934
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2938,
+   "end": 3352,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In April two thousand and five, he says, he looked at the hill, checked a compass, and saw triangular faces turned to north, south, east and west. Nature, he decided, does not do that.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 12.72,
+     "start": 2948,
+     "end": 3330
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3334,
+   "end": 3783,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A surveyor later called the orientation perfect. But geologist Robert Schoch of Boston University, who flew over the valley in two thousand and six, saw natural hills, not a four-sided building.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.872,
+     "start": 3344,
+     "end": 3761
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3765,
+   "end": 4289,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Geologists have a name for triangular hills: flatirons. A hard, tilted rock layer over softer rock, worn into a steep triangular face. They are common worldwide, from Colorado to Russia's so-called twin pyramids.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 16.368,
+     "start": 3775,
+     "end": 4267
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 4271,
+   "end": 4737,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tuzla geologist Sejfudin Vrabac counted dozens of similar landforms in this basin alone. A pyramid shape, as archaeologist Curtis Runnels notes, is a form nature makes, and keeps.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 14.448,
+     "start": 4281,
+     "end": 4715
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4719,
+   "end": 5229,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Osmanagi\u0107 announced an international group of archaeologists. Many of those named said they had never agreed to take part, and had never been to the site. A promised Oxford archaeologist turned out to be an undergraduate.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 15.912,
+     "start": 4729,
+     "end": 5207
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 5211,
+   "end": 5422,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Survey result: a real shape, but one nature makes all the time. So we look underneath.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 5.952,
+     "start": 5221,
+     "end": 5400
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II",
+    "The Ground Report",
+    "DRILL CORES \u00b7 LAKE BED"
+   ],
+   "img": "ep/img/shot_14.jpg",
+   "start": 5404,
+   "end": 5910,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inspection two: the ground report. Ironically, the first test was ordered by Osmanagi\u0107's own foundation. In early two thousand and six, geologists from the University of Tuzla drilled into Viso\u010dica.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 15.768,
+     "start": 5414,
+     "end": 5888
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5892,
+   "end": 6347,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Six boreholes, three to seventeen metres deep. Their verdict, in May two thousand and six: a natural formation, built of layered sediments, conglomerate, clay and sandstone, the same as the mountains around it.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 14.088,
+     "start": 5902,
+     "end": 6325
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 6329,
+   "end": 6841,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That fits the valley's known history. About ten million years ago, as the mountains of central Bosnia rose, this valley flooded into a lake some forty miles long. Rivers poured gravel, sand and mud into it, layer upon layer.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 15.984,
+     "start": 6339,
+     "end": 6819
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "sand",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6823,
+   "end": 7241,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Quiet years left thin clay. Floods dumped thick beds of gravel, which hardened into conglomerate. Later, tectonic forces tilted and cracked the old lake floor into angular hills.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.84,
+     "start": 6833,
+     "end": 7219
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 7223,
+   "end": 7685,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Schoch noticed something else. The sandstone layers repeat at intervals of about a metre. Regular, yes. But geologists have a word for that too: cyclothems. Natural, repeating cycles of deposition.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 14.304,
+     "start": 7233,
+     "end": 7663
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 7667,
+   "end": 8099,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Osmanagi\u0107's answer: beneath the soil is not rock, but a construction. His foundation dates the soil on top to twelve to fifteen thousand years, so whatever lies beneath must be older.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 13.32,
+     "start": 7677,
+     "end": 8077
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 8081,
+   "end": 8329,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ground report: the same lake-bed layers as every other hill in the basin. So what about the famous blocks?",
+     "file": "ep/audio/s20.mp3",
+     "dur": 7.176,
+     "start": 8091,
+     "end": 8307
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III",
+    "The Walls",
+    "BLOCKS \u00b7 CONCRETE \u00b7 STEPS"
+   ],
+   "img": "ep/img/shot_21.jpg",
+   "start": 8311,
+   "end": 8821,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inspection three: the walls. In April two thousand and six, the digging began. Within days, crews uncovered large, flat-faced stone blocks on the hillside. The headline went around the world: experts find evidence of a pyramid.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 15.912,
+     "start": 8321,
+     "end": 8799
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8803,
+   "end": 9265,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The claim: these are concrete blocks, cast on site by a lost civilisation, harder than modern concrete. The foundation calls it a geopolymer, with strength up to a hundred and fifty-five megapascals.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 14.304,
+     "start": 8813,
+     "end": 9243
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 9247,
+   "end": 9688,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Schoch spent ten days on the site that summer. Where the team saw poured concrete, he saw natural conglomerate and sandstone, broken into blocks by tectonic stress and by the hill slowly slumping downhill.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 13.608,
+     "start": 9257,
+     "end": 9666
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 9670,
+   "end": 10091,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The decisive clue: block size matches layer thickness. Thin sandstone beds broke into small slabs, thick conglomerate into massive blocks. Exactly what natural rock does.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 12.936,
+     "start": 9680,
+     "end": 10069
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 10073,
+   "end": 10573,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A geologist invited by the team hailed the blocks, then called his own results inconclusive. Anthony Harding, head of the European Association of Archaeologists, examined the same blocks: entirely geological.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 15.576,
+     "start": 10083,
+     "end": 10551
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "sand",
+   "motion": "right",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 10555,
+   "end": 10861,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the Pyramid of the Moon, flat sandstone plates separated by clay became paved terraces: the steps of a giant stepped pyramid.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 9.12,
+     "start": 10565,
+     "end": 10839
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10843,
+   "end": 11287,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But Schoch says workers carved the hillside between natural layers to create the steps. Archaeologist Brian Stewart warned the hills were being sculpted, stripping away real medieval archaeology.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 13.728,
+     "start": 10853,
+     "end": 11265
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 11269,
+   "end": 11552,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Walls result: natural rock, broken the way natural rock breaks, and steps made, at least in part, by the excavation itself.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 8.352,
+     "start": 11279,
+     "end": 11530
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV",
+    "The Basement",
+    "THE RAVNE TUNNELS"
+   ],
+   "img": "ep/img/shot_29.jpg",
+   "start": 11534,
+   "end": 12052,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inspection four: the basement. Near the village of Ravne, the foundation opened a tunnel it calls part of a vast prehistoric labyrinth linking the pyramids. First two point four miles were claimed. Now, tens of kilometres.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 16.176,
+     "start": 11544,
+     "end": 12030
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 12034,
+   "end": 12390,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand and nine, journalist Colin Woodard crawled in: a cramped passage, about three feet high, cut through loose, unconsolidated sand and pebbles.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 10.8,
+     "start": 12044,
+     "end": 12368
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 12372,
+   "end": 12749,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Schoch had found a tunnel clearly entered and changed in recent times. Collapsed ceilings, graffiti, and local stories that the Yugoslav army had once used tunnels here.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 11.496,
+     "start": 12382,
+     "end": 12727
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12731,
+   "end": 13266,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the inscriptions: symbols on boulders, presented as ancient writing. A former foundation geologist told a Bosnian magazine there were no marks when she first saw the stones. Later, she saw fresh cuts. Osmanagi\u0107 denies it.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 16.752,
+     "start": 12741,
+     "end": 13244
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 13248,
+   "end": 13584,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today the tunnels are a wellness attraction: negative ions, meditation sessions, and published healing testimonials, from sinus trouble to tumours.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 10.104,
+     "start": 13258,
+     "end": 13562
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 13566,
+   "end": 14044,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Negative ions are real. Damp air near running water is rich in them, in caves everywhere. But a tunnel through gravel still needs a date and a digger, and no independent study has yet established who dug it, or when.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 14.856,
+     "start": 13576,
+     "end": 14022
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 14026,
+   "end": 14312,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Basement result: real tunnels, recently modified, origin unproven. Now, the claim that made this hill famous.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 8.448,
+     "start": 14036,
+     "end": 14290
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "V",
+    "The Wiring",
+    "28 kHz \u00b7 THE ENERGY BEAM"
+   ],
+   "img": "ep/img/shot_36.jpg",
+   "start": 14294,
+   "end": 14810,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inspection five: the wiring. In two thousand and ten, a team led by Croatian physicist Slobodan Mizdrak reported ultrasound on the summit of the Pyramid of the Sun. A steady signal at about twenty-eight kilohertz.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 16.128,
+     "start": 14304,
+     "end": 14788
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14792,
+   "end": 15236,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, a beam four and a half metres wide rising from the top. A drone flight in two thousand and sixteen. Even a metal plate, deep underground, said to generate more than ten kilowatts of power.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 13.704,
+     "start": 14802,
+     "end": 15214
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 15218,
+   "end": 15693,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Osmanagi\u0107 calls it Tesla's scalar waves, faster than light. A cosmic internet for communication across the galaxy. From there it is a short step to the alien question. Who would need a transmitter like that?",
+     "file": "ep/audio/s38.mp3",
+     "dur": 14.76,
+     "start": 15228,
+     "end": 15671
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 15675,
+   "end": 16096,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Twenty-eight kilohertz is ultrasound, above human hearing. Ordinary things make it: insects, bats, wind in leaves, electronic power supplies, and sometimes the measuring gear itself.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 12.936,
+     "start": 15685,
+     "end": 16074
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 16078,
+   "end": 16596,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A real beam would be easy to confirm: independent teams, calibrated instruments, control hills nearby, results physicists can check. The main write-up, posted in twenty twenty-five, is a preprint by Osmanagi\u0107 himself.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 16.2,
+     "start": 16088,
+     "end": 16574
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 16578,
+   "end": 17015,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And faster than light? That one fails before any measurement. No signal carrying information has ever been shown to outrun light. It would break relativity, one of the best-tested theories in physics.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 13.488,
+     "start": 16588,
+     "end": 16993
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 16997,
+   "end": 17194,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Wiring result: an unreplicated signal, and no alien fingerprint anywhere.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 5.472,
+     "start": 17007,
+     "end": 17172
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VI",
+    "The Date Stamp",
+    "12,000 \u2192 34,000 YEARS?"
+   ],
+   "img": "ep/img/shot_43.jpg",
+   "start": 17176,
+   "end": 17370,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inspection six: the date stamp. Every building has a date. This one has had several.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 5.4,
+     "start": 17186,
+     "end": 17348
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 17352,
+   "end": 17862,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand and six, Osmanagi\u0107 spoke of twelve thousand years. By twenty twelve, radiocarbon on a leaf found on a block gave twenty-four thousand eight hundred years. Then twenty-nine thousand. Later, thirty-four thousand.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 15.912,
+     "start": 17362,
+     "end": 17840
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 17844,
+   "end": 18351,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The problem is what was dated. A leaf dates the leaf. Plant remains on or between rock layers tell you when the plant lived, not that anyone built the layers. And Schoch found real fossil leaves in these sediments, millions of years old.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 15.816,
+     "start": 17854,
+     "end": 18329
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 18333,
+   "end": 18834,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now picture Europe thirty thousand years ago. The Ice Age was heading toward its coldest peak. People lived in small bands of hunters and gatherers. Farming, towns and metal were all still more than twenty thousand years away.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 15.624,
+     "start": 18343,
+     "end": 18812
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 18816,
+   "end": 19336,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Curtis Runnels, an expert on the prehistoric Balkans, is blunt. Those people did not have the tools or the skills for monumental architecture. Cultures able to build big structures appear here only about two and a half thousand years ago.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 16.248,
+     "start": 18826,
+     "end": 19314
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 19318,
+   "end": 19832,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So who built it? Osmanagi\u0107's wider writings answer: a civilisation more advanced than ours. Elsewhere he has written that the Maya came from the Pleiades by way of Atlantis, and that humans are a product of genetic engineering.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 16.056,
+     "start": 19328,
+     "end": 19810
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 19814,
+   "end": 20125,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Date stamp: no workshops, no tools, no bones, no hearths, no builders. Just leaves in layers. So who really did live on this hill?",
+     "file": "ep/audio/s49.mp3",
+     "dur": 9.288,
+     "start": 19824,
+     "end": 20103
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VII",
+    "The Real Tenants",
+    "VISOKI \u00b7 ROME \u00b7 NEOLITHIC"
+   ],
+   "img": "ep/img/shot_50.jpg",
+   "start": 20107,
+   "end": 20577,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inspection seven: the real tenants. On the summit lie the ruins of Visoki, a royal castle town of medieval Bosnia, first named in a charter of Tvrtko the First in thirteen fifty-five.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 14.592,
+     "start": 20117,
+     "end": 20555
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 20559,
+   "end": 21029,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Documents were issued there until fourteen thirty-six. And the castle sat on older layers: a Roman lookout post and, beneath it, traces of settlement that Schoch says may reach back about five thousand years.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 14.568,
+     "start": 20569,
+     "end": 21007
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 21011,
+   "end": 21444,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand and eight, independent archaeologists found medieval artefacts on the hill. Bosnia's monuments commission widened the protected zone, pushing the pyramid digs off the summit.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 13.344,
+     "start": 21021,
+     "end": 21422
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 21426,
+   "end": 21898,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In December two thousand and six, leading European archaeologists signed a declaration calling the project a cruel hoax on an unsuspecting public, and a waste of resources needed to protect genuine heritage.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 14.64,
+     "start": 21436,
+     "end": 21876
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 21880,
+   "end": 22164,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Historian Garrett Fagan of Penn State compared it to letting someone bulldoze Stonehenge in search of secret chambers underneath.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 8.376,
+     "start": 21890,
+     "end": 22142
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 22146,
+   "end": 22618,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why did so many believe? Bosnia was emerging from the war of nineteen ninety-two to ninety-five. Visoko itself had been shelled. A story of great ancestors, and of a brighter future, was powerful medicine.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 14.664,
+     "start": 22156,
+     "end": 22596
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 22600,
+   "end": 22998,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Officials embraced it, including a prime minister and members of the presidency. Critics, Smithsonian reported, were shouted down as anti-Bosnian. Some received threats.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 12.168,
+     "start": 22610,
+     "end": 22976
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 22980,
+   "end": 23354,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the town did gain something real: tourists, souvenir stalls, a park, jobs. Many people in Visoko are glad of the visitors, whatever the hills are made of.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 11.376,
+     "start": 22990,
+     "end": 23332
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 23336,
+   "end": 23685,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tenants: medieval kings, Roman soldiers, Neolithic villagers. Real history, sitting on top of a natural hill. Time to sign the certificate.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 10.536,
+     "start": 23346,
+     "end": 23663
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "THE CERTIFICATE",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 23667,
+   "end": 23798,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The inspection is complete. Here is the certificate.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 3.288,
+     "start": 23677,
+     "end": 23776
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 23780,
+   "end": 24270,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Made of the same lake-bed layers as the hills around it: evidence. Blocks broken to match the layer thickness: evidence. Medieval and Roman remains on the summit: evidence. Steps carved by the digs themselves: likely.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 15.24,
+     "start": 23790,
+     "end": 24248
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 24252,
+   "end": 24711,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The world's largest pyramid, twelve to thirty-four thousand years old: debunked. A twenty-eight kilohertz energy beam with alien links: no evidence. And who dug the Ravne tunnels, and when: still open.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 14.232,
+     "start": 24262,
+     "end": 24689
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 24693,
+   "end": 25165,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. The Bosnian pyramids are natural hills: flatirons of ancient lake sediments, tilted and worn by geology. No pyramid. No Ice Age super-civilisation. No cosmic transmitter.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 14.64,
+     "start": 24703,
+     "end": 25143
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 25147,
+   "end": 25568,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The blocks are broken rock. The steps were, in part, made with shovels after two thousand and five. The dates come from leaves, not builders. And the beam has never been independently confirmed.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 12.96,
+     "start": 25157,
+     "end": 25546
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 25550,
+   "end": 25975,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What stays open is smaller, and more honest: the true history of the Ravne tunnels, and what the valley's real archaeology, from the Neolithic to medieval Visoki, still has to tell.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 13.08,
+     "start": 25560,
+     "end": 25953
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 25957,
+   "end": 26428,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The real wonder of Visoko is not a pyramid. It is a hill that holds ten million years of an ancient lake, the ruins of a royal town, and a people who badly wanted their past to be great. It already was.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 14.616,
+     "start": 25967,
+     "end": 26406
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 26410,
+   "end": 26726,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the inspection report. Would you have signed the certificate? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 9.456,
+     "start": 26420,
+     "end": 26704
+    }
+   ]
+  }
+ ]
+}
