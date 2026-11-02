@@ -1,0 +1,1402 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A smooth white oblong object shaped like a giant pill hovering fifty feet above a patch of churning white water on a calm deep-blue Pacific Ocean, bright midday sun, seen from high above, cinematic photoreal, film grain, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "November fourteenth, two thousand four. A hundred miles off San Diego, four Navy aviators look down at the Pacific and see something that should not be there. A smooth white shape, like a giant Tic Tac, with no wings, hovering over churning water."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "November fourteenth, two thousand four. A hundred miles off San Diego, four Navy aviators look down at the Pacific and see something that should not be there. A smooth white shape, like a giant Tic Tac, with no wings, hovering over churning water.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 16.872
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Dark naval combat information center, a glowing round green radar scope showing several bright blips, operator silhouette in the foreground, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For days, a warship's radar had been tracking strange contacts in this same patch of sky. That afternoon, an infrared camera would film one of them. Radar, eyes and a camera, all on one case."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For days, a warship's radar had been tracking strange contacts in this same patch of sky. That afternoon, an infrared camera would film one of them. Radar, eyes and a camera, all on one case.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Old parchment scroll with hand-drawn suns and flames in the sky lying beside a modern green radar printout strip on a dark wooden desk, warm lamp light, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For three thousand years, every mystery in the sky reached us as a story told by a witness. Ancient chroniclers had no radar. At Nimitz, for once, the machines were watching too."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For three thousand years, every mystery in the sky reached us as a story told by a witness. Ancient chroniclers had no radar. At Nimitz, for once, the machines were watching too.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 12.696
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Detective evidence board in a dark room with five photographs connected by glowing red string in a single chain, a small white oval object photo at the end, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we follow the evidence down the chain, link by link. Radar. Eyes. Camera. Math. And the missing tapes. Each link moves our meter, from sensor glitch to real craft. The full scorecard is at the end."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we follow the evidence down the chain, link by link. Radar. Eyes. Camera. Math. And the missing tapes. Each link moves our meter, from sensor glitch to real craft. The full scorecard is at the end.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A modern US Navy guided missile cruiser with angular grey superstructure sailing on the open Pacific at golden hour, aircraft carrier far in the background, cinematic photoreal, no hull numbers, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Link one: the radar. The ship is the USS Princeton, a guided missile cruiser escorting the carrier Nimitz during training off Southern California. Its SPY-1 radar is among the most powerful in the fleet."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "LINK 1",
+   "The Ghost Tracks",
+   "USS PRINCETON \u00b7 SPY-1 RADAR \u00b7 NOV 2004"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Link one: the radar. The ship is the USS Princeton, a guided missile cruiser escorting the carrier Nimitz during training off Southern California. Its SPY-1 radar is among the most powerful in the fleet.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 14.328
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Navy radar operator in a dark blue-lit combat room studying a glowing screen with a cluster of small dots, over-the-shoulder view, face in shadow, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The strike group was in its final exam before deploying to the Middle East. Around November tenth, radar operator Kevin Day began seeing odd contacts near San Clemente Island."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The strike group was in its final exam before deploying to the Middle East. Around November tenth, radar operator Kevin Day began seeing odd contacts near San Clemente Island.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of a circular radar display with a tight group of eight bright green blips moving together in formation, dark room, cinematic, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Groups of five to ten objects at about twenty-eight thousand feet, drifting south at roughly a hundred and twenty knots. Too high for birds. Too slow for jets. And on no flight plan."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Groups of five to ten objects at about twenty-eight thousand feet, drifting south at roughly a hundred and twenty knots. Too high for birds. Too slow for jets. And on no flight plan.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.768
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky high above the ocean with several faint white points of light descending in straight lines toward the sea, stars above, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "According to the crew's later accounts, some contacts first appeared extremely high, around eighty thousand feet, and then dropped toward the ocean in seconds."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "According to the crew's later accounts, some contacts first appeared extremely high, around eighty thousand feet, and then dropped toward the ocean in seconds.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two Navy technicians in a dim equipment room opening a tall grey electronics cabinet full of circuit boards, flashlight, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The crew suspected the radar itself. Ghost tracks happen. So, by their account, they took the system down and recalibrated it. The contacts came back."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The crew suspected the radar itself. Ghost tracks happen. So, by their account, they took the system down and recalibrated it. The contacts came back.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "left",
+  "prompt": "A Navy E-2 Hawkeye radar aircraft with its large rotating dish flying over the ocean at sunset, cinematic photoreal, no lettering, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is the strongest argument against a simple glitch. One radar can lie. But crew members say other sensors, including an E-2 Hawkeye radar plane, saw contacts too."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is the strongest argument against a simple glitch. One radar can lie. But crew members say other sensors, including an E-2 Hawkeye radar plane, saw contacts too.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Empty dark archive shelf with a single missing gap between grey storage boxes, dramatic side light, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But notice the problem. Almost everything we know about these tracks comes from what operators remembered years later. The raw radar data has never been made public."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But notice the problem. Almost everything we know about these tracks comes from what operators remembered years later. The raw radar data has never been made public.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.728
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A glowing analog needle gauge on a dark console, needle resting slightly right of center, soft cyan light, cinematic macro photo, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reading for link one. Something was probably on the scopes, and crews took it seriously. What it was, the radar alone cannot tell us."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reading for link one. Something was probably on the scopes, and crews took it seriously. What it was, the radar alone cannot tell us.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 9.048
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Two grey US Navy F/A-18F Super Hornet two-seat fighter jets launching from an aircraft carrier deck with steam from the catapult, bright day, cinematic photoreal, no lettering, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Link two: the eyes. On November fourteenth, two F/A-18F Super Hornets are pulled off a training exercise and sent toward one of the Princeton's contacts."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "LINK 2",
+   "Four Witnesses, Two Clocks",
+   "FRAVOR \u00b7 DIETRICH \u00b7 14 NOV 2004"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Link two: the eyes. On November fourteenth, two F/A-18F Super Hornets are pulled off a training exercise and sent toward one of the Princeton's contacts.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Inside a two-seat fighter jet cockpit at altitude, pilot and back-seat officer in helmets and visors seen from behind, blue sky and ocean below, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the lead jet, Commander David Fravor, commanding officer of the Black Aces squadron. In the second, Lieutenant Alex Dietrich. Each jet has a weapons systems officer in the back. Four trained observers."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the lead jet, Commander David Fravor, commanding officer of the Black Aces squadron. In the second, Lieutenant Alex Dietrich. Each jet has a weapons systems officer in the back. Four trained observers.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 14.52
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Aerial view from twenty thousand feet of a roughly oval patch of churning white foam on a flat calm blue ocean, as if something large were just below the surface, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The controller says they are merging with the target. They look down and see a patch of churning white water, roughly the size of an airliner's body, as if something lay just under the surface."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The controller says they are merging with the target. They look down and see a patch of churning white water, roughly the size of an airliner's body, as if something lay just under the surface.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A small featureless white oblong object about forty feet long, no wings, no windows, no exhaust, flying just above ocean waves near white foam, seen from a high oblique angle, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Above it, a white object, about forty feet long. Smooth. No wings, no rotors, no exhaust. It moves back and forth over the water, with no predictable path."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Above it, a white object, about forty feet long. Smooth. No wings, no rotors, no exhaust. It moves back and forth over the water, with no predictable path.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 11.472
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "left",
+  "prompt": "A grey fighter jet in a steep descending spiral over the ocean, a tiny white oblong object below it, long telephoto shot, cinematic photoreal, no lettering, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Fravor spirals down to get a closer look. He says the object rises and mirrors his circle. When he cuts across to intercept, it accelerates away. In his words, it was just gone."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fravor spirals down to get a closer look. He says the object rises and mirrors his circle. When he cuts across to intercept, it accelerates away. In his words, it was just gone.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Pilot's gloved hand on a throttle with a dim cockpit radar screen glowing green in the background, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seconds later the Princeton calls again. A contact has appeared at the pilots' secret meeting point, their CAP point, about sixty miles away. The jets are low on fuel, and they head home."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seconds later the Princeton calls again. A contact has appeared at the pilots' secret meeting point, their CAP point, about sixty miles away. The jets are low on fuel, and they head home.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An old-fashioned analog stopwatch and a pilot's knee-board notepad side by side on a dark table under a lamp, blank paper, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the inconvenient detail. Fravor describes watching the object for about five minutes. Dietrich has said she was visual for roughly ten seconds of hard maneuvering. Same event, two very different clocks."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the inconvenient detail. Fravor describes watching the object for about five minutes. Dietrich has said she was visual for roughly ten seconds of hard maneuvering. Same event, two very different clocks.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 14.472
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A woman naval aviator in a flight suit seen from behind, standing on a carrier deck at dusk looking at the sea, hair tied back, cinematic photoreal, no name tags, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dietrich is careful about memory. She wrote her account within hours. But she says she does not identify as a UFO person, and she will not claim to know what it was."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dietrich is careful about memory. She wrote her account within hours. But she says she does not identify as a UFO person, and she will not claim to know what it was.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Congressional hearing room with an empty witness table, microphones and wooden panels, soft window light, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Fravor is less cautious. Testifying to Congress under oath in twenty twenty-three, he said the technology they faced was far superior to anything they had."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fravor is less cautious. Testifying to Congress under oath in twenty twenty-three, he said the technology they faced was far superior to anything they had.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 11.352
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "The same glowing analog needle gauge on a dark console, needle now further to the right, warm amber light, cinematic macro photo, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reading for link two. The eyes give us the most vivid evidence, and the hardest to measure. Four aviators saw something strange. Nobody could measure its distance, size or speed."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reading for link two. The eyes give us the most vivid evidence, and the hardest to measure. Four aviators saw something strange. Nobody could measure its distance, size or speed.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A single grey fighter jet taking off from an aircraft carrier at late afternoon, a targeting pod visible under the wing, cinematic photoreal, no lettering, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Link three: the camera. About an hour later, a second wave launches. In one jet, Lieutenant Commander Chad Underwood operates an ATFLIR pod, an infrared targeting camera built to lock on to targets miles away."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "LINK 3",
+   "Seventy-Six Seconds",
+   "FLIR1 \u00b7 ATFLIR POD \u00b7 UNDERWOOD"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Link three: the camera. About an hour later, a second wave launches. In one jet, Lieutenant Commander Chad Underwood operates an ATFLIR pod, an infrared targeting camera built to lock on to targets miles away.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 15.048
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Black and white thermal infrared image of a small blurry white oval glowing against a dark grey sky, grainy sensor footage look, empty screen with no overlay, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He finds a contact on radar and slews the camera onto it. On the screen: a small, featureless white oval. Underwood is the one who named it. It looked, he said, like a Tic Tac."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He finds a contact on radar and slews the camera onto it. On the screen: a small, featureless white oval. Underwood is the one who named it. It looked, he said, like a Tic Tac.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 12.504
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Weapons systems officer in a fighter cockpit back seat looking down at a glowing display, helmet visor reflecting the screen, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But he never saw it with his own eyes. It was too far away. He concentrated on keeping the tape running, so the intelligence team on the ship could study it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But he never saw it with his own eyes. It was too far away. He concentrated on keeping the tape running, so the intelligence team on the ship could study it.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 10.152
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An old 2000s laptop on a dark desk showing a blurry dark video window, soft blue glow, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That tape became the clip known as FLIR1. Its audio did not survive on the copy that left the ship. A version was already circulating online by two thousand seven."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That tape became the clip known as FLIR1. Its audio did not survive on the copy that left the ship. A version was already circulating online by two thousand seven.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An empty government press briefing room with a wooden podium and dark blue curtains, soft spotlights, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The New York Times published it in December twenty seventeen. Two years later the Navy confirmed it was genuine, and in April twenty twenty the Pentagon officially released it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The New York Times published it in December twenty seventeen. Two years later the Navy confirmed it was genuine, and in April twenty twenty the Pentagon officially released it.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Black and white thermal infrared sensor image with a small white blob smeared and streaking out toward the left edge of the frame, motion blur, grainy footage look, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The famous moment comes at the end. The object seems to dart off to the left, faster than the camera can follow. For many viewers, that is the craft leaving."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The famous moment comes at the end. The object seems to dart off to the left, faster than the camera can follow. For many viewers, that is the craft leaving.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Two identical black and white thermal images side by side, one zoomed in tighter than the other on a small white blob, grainy, dark background, cinematic, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Analyst Mick West reads those seconds differently. Just before the dart, the camera changes its field of view and zoom, and the tracker loses its lock."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Analyst Mick West reads those seconds differently. Just before the dart, the camera changes its field of view and zoom, and the tracker loses its lock.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 10.392
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Extreme macro of a black military camera lens barrel with a zoom ring turning, blue rim light, dark background, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Once the lock is gone, the camera stops following, and a slow drift can look like a sudden jump. To West, the clip is consistent with a distant aircraft."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Once the lock is gone, the camera stops following, and a slow drift can look like a sudden jump. To West, the clip is consistent with a distant aircraft.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Fighter jet flying straight and level above clouds at sunset, side view, calm, cinematic photoreal, no lettering, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Underwood pushes back. His jet was flying straight and level, he says, so his maneuvering did not cause the jump. But he also admits he cannot confirm that the object really accelerated."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Underwood pushes back. His jet was flying straight and level, he says, so his maneuvering did not cause the jump. But he also admits he cannot confirm that the object really accelerated.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Thermal infrared view of a distant jet airliner at night appearing only as a shapeless bright glowing blob, grainy, black background, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then there is the heat. No visible exhaust plume. Believers say: no engine. Skeptics say: at long range, a jet's hot engines can blur into exactly this kind of shapeless glow."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then there is the heat. No visible exhaust plume. Believers say: no engine. Skeptics say: at long range, a jet's hot engines can blur into exactly this kind of shapeless glow.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.768
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "The glowing analog needle gauge on a dark console, needle swung back to the left of center, cool blue light, cinematic macro photo, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reading for link three. The video is genuine Navy footage, and officially still unidentified. But it shows a blob at an unknown distance. On its own, it proves nothing extraordinary."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reading for link three. The video is genuine Navy footage, and officially still unidentified. But it shows a blob at an unknown distance. On its own, it proves nothing extraordinary.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 13.2
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Physicist's dark chalkboard covered in abstract chalk curves and arrows, a single lamp, chalk dust in the air, cinematic photoreal, no readable writing, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Link four: the math. If the witnesses are right, how hard did this object move? In twenty nineteen, physicist Kevin Knuth and two colleagues tried to put numbers on it, in the peer reviewed journal Entropy."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "LINK 4",
+   "The Impossible Numbers",
+   "KNUTH ET AL. 2019 \u00b7 DIA CONTRACTOR 2010"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Link four: the math. If the witnesses are right, how hard did this object move? In twenty nineteen, physicist Kevin Knuth and two colleagues tried to put numbers on it, in the peer reviewed journal Entropy.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 13.752
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A tiny white oblong object plunging vertically from high clouds toward the ocean surface with a faint motion streak, dramatic scale, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They started from Kevin Day's account of a contact dropping from twenty-eight thousand feet to about fifty feet above the sea in seventy-eight hundredths of a second."
+   ]
+  ],
+  "tag": "W",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They started from Kevin Day's account of a contact dropping from twenty-eight thousand feet to about fifty feet above the sea in seventy-eight hundredths of a second.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Fighter pilot in a centrifuge training capsule straining under heavy g-force, red warning light, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their most probable estimate: more than five thousand g, reaching around Mach sixty. Fighter pilots train to survive about nine g."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their most probable estimate: more than five thousand g, reaching around Mach sixty. Fighter pilots train to survive about nine g.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.696
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A nuclear power plant cooling tower glowing at night with steam, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They estimated the power needed at more than ten times the entire nuclear output of the United States. Yet no one reported a sonic boom, or a flash of heat."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They estimated the power needed at more than ten times the entire nuclear output of the United States. Yet no one reported a sonic boom, or a flash of heat.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 11.352
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A thick bound government report lying closed on a dark desk with a blank grey cover, soft lamp light, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is a second, older analysis. In twenty ten, a contractor working for the Defense Intelligence Agency studied the case. In October twenty twenty-six, the Pentagon included that report in its official UFO file releases."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is a second, older analysis. In twenty ten, a contractor working for the Defense Intelligence Agency studied the case. In October twenty twenty-six, the Pentagon included that report in its official UFO file releases.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 16.272
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Abstract dark graph paper with several glowing curves of different steepness, soft cyan light, macro photo, no numbers or labels, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its engineers tried a range of assumed times for a fall from sixty thousand feet. Five seconds gives about Mach ten and seventy-five g. Longer falls give smaller numbers. And the report admits it had relatively little hard data."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its engineers tried a range of assumed times for a fall from sixty thousand feet. Five seconds gives about Mach ten and seventy-five g. Longer falls give smaller numbers. And the report admits it had relatively little hard data.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 16.536
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A brass balance scale on a dark desk, one pan holding a small glowing white oblong token, the other holding a stack of blank paper, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the catch. The math is only as strong as its inputs. Change seventy-eight hundredths of a second to ten seconds, and the miracle shrinks."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the catch. The math is only as strong as its inputs. Change seventy-eight hundredths of a second to ten seconds, and the miracle shrinks.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 9.672
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An open scientific journal lying on a dark desk with blank pages and a single abstract diagram of a curved trajectory, lamp light, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "To its credit, Knuth's own paper spells out the options. These observations are either fabricated, seriously in error, or show technology far beyond anything known on Earth."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To its credit, Knuth's own paper spells out the options. These observations are either fabricated, seriously in error, or show technology far beyond anything known on Earth.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "The glowing analog needle gauge on a dark console, needle at dead center, flickering, cinematic macro photo, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reading for link four. Impressive arithmetic, built on remembered numbers. It does not decide the case. It shows how much rides on data we do not have."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reading for link four. Impressive arithmetic, built on remembered numbers. It does not decide the case. It shows how much rides on data we do not have.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.968
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Two grey ruggedized data storage cartridges sitting on a metal table in a dim ship compartment, harsh overhead light, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Link five: the missing tapes. If the radar data existed, why not simply release it? Here the case turns into a mystery about paperwork."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "LINK 5",
+   "The Missing Tapes",
+   "CHAIN OF CUSTODY \u00b7 2004\u20132026"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Link five: the missing tapes. If the radar data existed, why not simply release it? Here the case turns into a mystery about paperwork.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 9.336
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A dark grey Navy helicopter on a warship's flight deck at dusk with two figures in dark coveralls walking away carrying cases, silhouettes, cinematic photoreal, no lettering, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Several crew members later said that people arrived after the encounter and collected recordings, from the Hawkeye and from the radar. These are testimonies, still unverified."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Several crew members later said that people arrived after the encounter and collected recordings, from the Hawkeye and from the radar. These are testimonies, still unverified.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Long government warehouse aisle with tall shelves of identical grey boxes fading into darkness, a single flashlight beam, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty twenty-five, Tim Phillips, a former acting head of the Pentagon's UFO office AARO, gave an official version of what happened next."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty twenty-five, Tim Phillips, a former acting head of the Pentagon's UFO office AARO, gave an official version of what happened next.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 9.768
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A low brick government research laboratory complex beside a wide river at dusk in Virginia, trees, quiet, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Third Fleet ordered the radar tapes preserved, he said, and they were sent to a Navy lab in Dahlgren, Virginia, for analysis. Two physical searches could not find them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Third Fleet ordered the radar tapes preserved, he said, and they were sent to a Navy lab in Dahlgren, Virginia, for analysis. Two physical searches could not find them.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An empty slot on a library shelf of old leather-bound logbooks, dust in the light, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the ships' operational journals for that period could not be found. Phillips said he was not sure if that was intentional, or just incompetence."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the ships' operational journals for that period could not be found. Phillips said he was not sure if that was intentional, or just incompetence.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two people in dark jumpsuits seen from behind walking down a narrow grey warship corridor, dim red lighting, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the mysterious visitors? Phillips said AARO traced them to DARPA personnel working with the Navy on a new surveillance system, some wearing dark jumpsuits. AARO could not find the flight log to confirm it."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the mysterious visitors? Phillips said AARO traced them to DARPA personnel working with the Navy on a new surveillance system, some wearing dark jumpsuits. AARO could not find the flight log to confirm it.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An empty government office at night with a single desk lamp, a chair turned away from the camera, rain on the window, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "AARO's first director, Sean Kirkpatrick, put it bluntly in twenty twenty-four. There is no data. Not enough information, he said, to ever come to a conclusion."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "AARO's first director, Sean Kirkpatrick, put it bluntly in twenty twenty-four. There is no data. Not enough information, he said, to ever come to a conclusion.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 10.536
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "The glowing analog needle gauge on a dark console, needle drifting left of center, dim red light, cinematic macro photo, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reading for link five. The best evidence in this case may have existed once. Today it is gone. And without it, every number we heard tonight is a reconstruction."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reading for link five. The best evidence in this case may have existed once. Today it is gone. And without it, every number we heard tonight is a reconstruction.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 10.704
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Police-style line-up room with five tall shadowy silhouettes standing against a wall lit from above, cinematic, dramatic, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So, who did it? Five explanations have been put forward. Let us line them up and test each one against all five links."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "SUSPECTS",
+   "Five Explanations",
+   "GLITCH \u00b7 PLANE \u00b7 DRONE \u00b7 SECRET \u00b7 CRAFT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So, who did it? Five explanations have been put forward. Let us line them up and test each one against all five links.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 7.776
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A glitching green radar screen with scattered false blips and interference lines, dark room, cinematic, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect one: a sensor glitch. Radar ghosts and camera artifacts are real. But a glitch does not explain four aviators seeing the same white object over disturbed water."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect one: a sensor glitch. Radar ghosts and camera artifacts are real. But a glitch does not explain four aviators seeing the same white object over disturbed water.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A distant airliner high in the sky seen as a small bright glare against deep blue, heat shimmer, long telephoto, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect two: a distant aircraft. It fits the camera clip quite well. It does not fit the close encounter that Fravor and Dietrich describe, low over the ocean."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect two: a distant aircraft. It fits the camera clip quite well. It does not fit the close encounter that Fravor and Dietrich describe, low over the ocean.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small dark grey surveillance drone skimming just above ocean wave tops at dusk, cinematic photoreal, no markings, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect three: a drone or a test system. Phillips believes the Princeton may have tracked a new surveillance system flying at the wave tops. That could explain some radar contacts. Not a forty foot white object outflying a fighter."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect three: a drone or a test system. Phillips believes the Princeton may have tracked a new surveillance system flying at the wave tops. That could explain some radar contacts. Not a forty foot white object outflying a fighter.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 16.128
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A dark secret aircraft hangar at night with a large shape under a grey tarp, a single spotlight, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect four: a secret program, American or foreign. Underwood says nobody ever gave him the usual quiet briefing that a test project gets."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect four: a secret program, American or foreign. Underwood says nobody ever gave him the usual quiet briefing that a test project gets.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A remote desert test range at night with distant runway lights and a dark mountain silhouette under stars, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And a former AARO chief said that for some unexplained cases, he knew of no fielded system that could fly that way. Not proven, not ruled out."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And a former AARO chief said that for some unexplained cases, he knew of no fielded system that could fly that way. Not proven, not ruled out.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "A white oblong craft rising from the ocean into a star-filled night sky with Earth's horizon curving below, awe-inspiring, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect five: a non-human craft. It would explain the performance claims, if those claims are right. But it is the only suspect that needs every uncertain number to be exactly correct, and it left no physical trace."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect five: a non-human craft. It would explain the performance claims, if those claims are right. But it is the only suspect that needs every uncertain number to be exactly correct, and it left no physical trace.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 14.832
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Three overlapping translucent photographs on a dark lightbox: a radar scope, a thermal blob, and white ocean foam, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The answer may not be one suspect. The Pentagon's twenty twenty-one assessment said UAP probably lack a single explanation. A drone on radar, a jet on camera, and something stranger seen by eye could all be true."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The answer may not be one suspect. The Pentagon's twenty twenty-one assessment said UAP probably lack a single explanation. A drone on radar, a jet on camera, and something stranger seen by eye could all be true.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 15.936
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Medieval monk at a wooden desk by candlelight looking up through a window at strange fiery lights in the night sky, painterly cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is how old sky mysteries worked too. A chronicler saw fire in the heavens and wrote one story. Modern sensors were supposed to end that problem. At Nimitz, they almost did."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is how old sky mysteries worked too. A chronicler saw fire in the heavens and wrote one story. Modern sensors were supposed to end that problem. At Nimitz, they almost did.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic naval operations room at night with a single dim lamp and large areas of empty black space, faint ocean through a porthole, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Case closed. Here is the scorecard."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VERDICT",
+   "The Scorecard",
+   "GLITCH OR CRAFT?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Case closed. Here is the scorecard.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.16
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic naval operations room at night with a single dim lamp and large areas of empty black space, faint ocean through a porthole, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Princeton tracked unknown contacts for days: evidence, from several crew. Four aviators saw a wingless white object: evidence, as testimony. FLIR1 is authentic Navy footage: evidence. The video shows impossible motion: not shown."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Princeton tracked unknown contacts for days: evidence, from several crew. Four aviators saw a wingless white object: evidence, as testimony. FLIR1 is authentic Navy footage: evidence. The video shows impossible motion: not shown.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 17.4
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark cinematic naval operations room at night with a single dim lamp and large areas of empty black space, faint ocean through a porthole, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Five thousand g and Mach sixty: unverified, built on recalled numbers. The original radar data: missing. Proof of a non-human craft: none."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Five thousand g and Mach sixty: unverified, built on recalled numbers. The original radar data: missing. Proof of a non-human craft: none.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "The glowing analog needle gauge on a dark console, needle resting just right of center, gold light, cinematic macro photo, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Not a simple glitch. Too many people and too many sensors for that. But not a proven craft either. The Nimitz Tic Tac is a real event with missing evidence, and that is exactly why it refuses to die."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Not a simple glitch. Too many people and too many sensors for that. But not a proven craft either. The Nimitz Tic Tac is a real event with missing evidence, and that is exactly why it refuses to die.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.568
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Calm Pacific Ocean at dusk with a faint patch of white foam on the surface and an empty sky, quiet, cinematic photoreal, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Our meter ends close to the middle, leaning toward a real object of unknown origin. If the Princeton's tapes ever surface, this case could be settled in an afternoon. Until then, it stays open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Our meter ends close to the middle, leaning toward a real object of unknown origin. If the Princeton's tapes ever surface, this case could be settled in an afternoon. Until then, it stays open.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 13.8
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background: a tiny glowing white oblong shape drifting among stars above a black ocean horizon, lots of empty space, no text, no letters, no numbers, no markings, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the case file. Glitch, drone, secret jet, or something else? Tell us in the comments, and subscribe for the next mystery on trial."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the case file. Glitch, drone, secret jet, or something else? Tell us in the comments, and subscribe for the next mystery on trial.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 9.216
+   }
+  ]
+ }
+]

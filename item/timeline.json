@@ -1,0 +1,1336 @@
+{
+ "fps": 30,
+ "total": 24710,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 539,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "November fourteenth, two thousand four. A hundred miles off San Diego, four Navy aviators look down at the Pacific and see something that should not be there. A smooth white shape, like a giant Tic Tac, with no wings, hovering over churning water.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 16.872,
+     "start": 10,
+     "end": 517
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 521,
+   "end": 973,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For days, a warship's radar had been tracking strange contacts in this same patch of sky. That afternoon, an infrared camera would film one of them. Radar, eyes and a camera, all on one case.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 13.992,
+     "start": 531,
+     "end": 951
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 955,
+   "end": 1368,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For three thousand years, every mystery in the sky reached us as a story told by a witness. Ancient chroniclers had no radar. At Nimitz, for once, the machines were watching too.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 12.696,
+     "start": 965,
+     "end": 1346
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1350,
+   "end": 1942,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight we follow the evidence down the chain, link by link. Radar. Eyes. Camera. Math. And the missing tapes. Each link moves our meter, from sensor glitch to real craft. The full scorecard is at the end.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 14.64,
+     "start": 1360,
+     "end": 1800
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "LINK 1",
+    "The Ghost Tracks",
+    "USS PRINCETON \u00b7 SPY-1 RADAR \u00b7 NOV 2004"
+   ],
+   "img": "ep/img/shot_05.jpg",
+   "start": 1924,
+   "end": 2386,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Link one: the radar. The ship is the USS Princeton, a guided missile cruiser escorting the carrier Nimitz during training off Southern California. Its SPY-1 radar is among the most powerful in the fleet.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 14.328,
+     "start": 1934,
+     "end": 2364
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "W",
+   "ch": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 2368,
+   "end": 2782,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The strike group was in its final exam before deploying to the Middle East. Around November tenth, radar operator Kevin Day began seeing odd contacts near San Clemente Island.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 12.72,
+     "start": 2378,
+     "end": 2760
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "W",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2764,
+   "end": 3180,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Groups of five to ten objects at about twenty-eight thousand feet, drifting south at roughly a hundred and twenty knots. Too high for birds. Too slow for jets. And on no flight plan.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 12.768,
+     "start": 2774,
+     "end": 3158
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "W",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 3162,
+   "end": 3507,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "According to the crew's later accounts, some contacts first appeared extremely high, around eighty thousand feet, and then dropped toward the ocean in seconds.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 10.416,
+     "start": 3172,
+     "end": 3485
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "none",
+   "motion": "in",
+   "tag": "W",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3489,
+   "end": 3837,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The crew suspected the radar itself. Ghost tracks happen. So, by their account, they took the system down and recalibrated it. The contacts came back.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 10.512,
+     "start": 3499,
+     "end": 3815
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "left",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3819,
+   "end": 4224,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is the strongest argument against a simple glitch. One radar can lie. But crew members say other sensors, including an E-2 Hawkeye radar plane, saw contacts too.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 12.408,
+     "start": 3829,
+     "end": 4202
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 4206,
+   "end": 4560,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But notice the problem. Almost everything we know about these tracks comes from what operators remembered years later. The raw radar data has never been made public.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 10.728,
+     "start": 4216,
+     "end": 4538
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4542,
+   "end": 4846,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reading for link one. Something was probably on the scopes, and crews took it seriously. What it was, the radar alone cannot tell us.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 9.048,
+     "start": 4552,
+     "end": 4824
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "LINK 2",
+    "Four Witnesses, Two Clocks",
+    "FRAVOR \u00b7 DIETRICH \u00b7 14 NOV 2004"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4828,
+   "end": 5188,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Link two: the eyes. On November fourteenth, two F/A-18F Super Hornets are pulled off a training exercise and sent toward one of the Princeton's contacts.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 10.92,
+     "start": 4838,
+     "end": 5166
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 5170,
+   "end": 5638,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the lead jet, Commander David Fravor, commanding officer of the Black Aces squadron. In the second, Lieutenant Alex Dietrich. Each jet has a weapons systems officer in the back. Four trained observers.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 14.52,
+     "start": 5180,
+     "end": 5616
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "W",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5620,
+   "end": 6024,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The controller says they are merging with the target. They look down and see a patch of churning white water, roughly the size of an airliner's body, as if something lay just under the surface.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 12.384,
+     "start": 5630,
+     "end": 6002
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "W",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 6006,
+   "end": 6383,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Above it, a white object, about forty feet long. Smooth. No wings, no rotors, no exhaust. It moves back and forth over the water, with no predictable path.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 11.472,
+     "start": 6016,
+     "end": 6361
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "stars",
+   "motion": "left",
+   "tag": "W",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6365,
+   "end": 6785,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Fravor spirals down to get a closer look. He says the object rises and mirrors his circle. When he cuts across to intercept, it accelerates away. In his words, it was just gone.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.912,
+     "start": 6375,
+     "end": 6763
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "W",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6767,
+   "end": 7175,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Seconds later the Princeton calls again. A contact has appeared at the pilots' secret meeting point, their CAP point, about sixty miles away. The jets are low on fuel, and they head home.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 12.528,
+     "start": 6777,
+     "end": 7153
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 7157,
+   "end": 7624,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the inconvenient detail. Fravor describes watching the object for about five minutes. Dietrich has said she was visual for roughly ten seconds of hard maneuvering. Same event, two very different clocks.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 14.472,
+     "start": 7167,
+     "end": 7602
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7606,
+   "end": 7981,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Dietrich is careful about memory. She wrote her account within hours. But she says she does not identify as a UFO person, and she will not claim to know what it was.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 11.424,
+     "start": 7616,
+     "end": 7959
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "W",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7963,
+   "end": 8336,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Fravor is less cautious. Testifying to Congress under oath in twenty twenty-three, he said the technology they faced was far superior to anything they had.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 11.352,
+     "start": 7973,
+     "end": 8314
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8318,
+   "end": 8728,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reading for link two. The eyes give us the most vivid evidence, and the hardest to measure. Four aviators saw something strange. Nobody could measure its distance, size or speed.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 12.576,
+     "start": 8328,
+     "end": 8706
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "LINK 3",
+    "Seventy-Six Seconds",
+    "FLIR1 \u00b7 ATFLIR POD \u00b7 UNDERWOOD"
+   ],
+   "img": "ep/img/shot_23.jpg",
+   "start": 8710,
+   "end": 9194,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Link three: the camera. About an hour later, a second wave launches. In one jet, Lieutenant Commander Chad Underwood operates an ATFLIR pod, an infrared targeting camera built to lock on to targets miles away.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 15.048,
+     "start": 8720,
+     "end": 9172
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 9176,
+   "end": 9584,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He finds a contact on radar and slews the camera onto it. On the screen: a small, featureless white oval. Underwood is the one who named it. It looked, he said, like a Tic Tac.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 12.504,
+     "start": 9186,
+     "end": 9562
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9566,
+   "end": 9903,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But he never saw it with his own eyes. It was too far away. He concentrated on keeping the tape running, so the intelligence team on the ship could study it.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 10.152,
+     "start": 9576,
+     "end": 9881
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9885,
+   "end": 10270,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That tape became the clip known as FLIR1. Its audio did not survive on the copy that left the ship. A version was already circulating online by two thousand seven.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.76,
+     "start": 9895,
+     "end": 10248
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10252,
+   "end": 10629,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The New York Times published it in December twenty seventeen. Two years later the Navy confirmed it was genuine, and in April twenty twenty the Pentagon officially released it.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.496,
+     "start": 10262,
+     "end": 10607
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10611,
+   "end": 10959,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The famous moment comes at the end. The object seems to dart off to the left, faster than the camera can follow. For many viewers, that is the craft leaving.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 10.512,
+     "start": 10621,
+     "end": 10937
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10941,
+   "end": 11285,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Analyst Mick West reads those seconds differently. Just before the dart, the camera changes its field of view and zoom, and the tracker loses its lock.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 10.392,
+     "start": 10951,
+     "end": 11263
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11267,
+   "end": 11611,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Once the lock is gone, the camera stops following, and a slow drift can look like a sudden jump. To West, the clip is consistent with a distant aircraft.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 10.368,
+     "start": 11277,
+     "end": 11589
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11593,
+   "end": 12009,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Underwood pushes back. His jet was flying straight and level, he says, so his maneuvering did not cause the jump. But he also admits he cannot confirm that the object really accelerated.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 12.792,
+     "start": 11603,
+     "end": 11987
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11991,
+   "end": 12407,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then there is the heat. No visible exhaust plume. Believers say: no engine. Skeptics say: at long range, a jet's hot engines can blur into exactly this kind of shapeless glow.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.768,
+     "start": 12001,
+     "end": 12385
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12389,
+   "end": 12817,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reading for link three. The video is genuine Navy footage, and officially still unidentified. But it shows a blob at an unknown distance. On its own, it proves nothing extraordinary.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 13.2,
+     "start": 12399,
+     "end": 12795
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "LINK 4",
+    "The Impossible Numbers",
+    "KNUTH ET AL. 2019 \u00b7 DIA CONTRACTOR 2010"
+   ],
+   "img": "ep/img/shot_34.jpg",
+   "start": 12799,
+   "end": 13244,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Link four: the math. If the witnesses are right, how hard did this object move? In twenty nineteen, physicist Kevin Knuth and two colleagues tried to put numbers on it, in the peer reviewed journal Entropy.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 13.752,
+     "start": 12809,
+     "end": 13222
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "W",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13226,
+   "end": 13571,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They started from Kevin Day's account of a contact dropping from twenty-eight thousand feet to about fifty feet above the sea in seventy-eight hundredths of a second.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 10.416,
+     "start": 13236,
+     "end": 13549
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13553,
+   "end": 13876,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their most probable estimate: more than five thousand g, reaching around Mach sixty. Fighter pilots train to survive about nine g.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 9.696,
+     "start": 13563,
+     "end": 13854
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13858,
+   "end": 14231,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They estimated the power needed at more than ten times the entire nuclear output of the United States. Yet no one reported a sonic boom, or a flash of heat.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 11.352,
+     "start": 13868,
+     "end": 14209
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14213,
+   "end": 14734,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a second, older analysis. In twenty ten, a contractor working for the Defense Intelligence Agency studied the case. In October twenty twenty-six, the Pentagon included that report in its official UFO file releases.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 16.272,
+     "start": 14223,
+     "end": 14712
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14716,
+   "end": 15245,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Its engineers tried a range of assumed times for a fall from sixty thousand feet. Five seconds gives about Mach ten and seventy-five g. Longer falls give smaller numbers. And the report admits it had relatively little hard data.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 16.536,
+     "start": 14726,
+     "end": 15223
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15227,
+   "end": 15550,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the catch. The math is only as strong as its inputs. Change seventy-eight hundredths of a second to ten seconds, and the miracle shrinks.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 9.672,
+     "start": 15237,
+     "end": 15528
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15532,
+   "end": 15944,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "To its credit, Knuth's own paper spells out the options. These observations are either fabricated, seriously in error, or show technology far beyond anything known on Earth.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.648,
+     "start": 15542,
+     "end": 15922
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15926,
+   "end": 16288,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reading for link four. Impressive arithmetic, built on remembered numbers. It does not decide the case. It shows how much rides on data we do not have.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 10.968,
+     "start": 15936,
+     "end": 16266
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "LINK 5",
+    "The Missing Tapes",
+    "CHAIN OF CUSTODY \u00b7 2004\u20132026"
+   ],
+   "img": "ep/img/shot_43.jpg",
+   "start": 16270,
+   "end": 16583,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Link five: the missing tapes. If the radar data existed, why not simply release it? Here the case turns into a mystery about paperwork.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 9.336,
+     "start": 16280,
+     "end": 16561
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16565,
+   "end": 16958,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Several crew members later said that people arrived after the encounter and collected recordings, from the Hawkeye and from the radar. These are testimonies, still unverified.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 12.024,
+     "start": 16575,
+     "end": 16936
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 16940,
+   "end": 17266,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In twenty twenty-five, Tim Phillips, a former acting head of the Pentagon's UFO office AARO, gave an official version of what happened next.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 9.768,
+     "start": 16950,
+     "end": 17244
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17248,
+   "end": 17618,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Third Fleet ordered the radar tapes preserved, he said, and they were sent to a Navy lab in Dahlgren, Virginia, for analysis. Two physical searches could not find them.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 11.256,
+     "start": 17258,
+     "end": 17596
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17600,
+   "end": 17933,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the ships' operational journals for that period could not be found. Phillips said he was not sure if that was intentional, or just incompetence.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 10.008,
+     "start": 17610,
+     "end": 17911
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 17915,
+   "end": 18356,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the mysterious visitors? Phillips said AARO traced them to DARPA personnel working with the Navy on a new surveillance system, some wearing dark jumpsuits. AARO could not find the flight log to confirm it.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.608,
+     "start": 17925,
+     "end": 18334
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18338,
+   "end": 18687,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "AARO's first director, Sean Kirkpatrick, put it bluntly in twenty twenty-four. There is no data. Not enough information, he said, to ever come to a conclusion.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 10.536,
+     "start": 18348,
+     "end": 18665
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18669,
+   "end": 19023,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reading for link five. The best evidence in this case may have existed once. Today it is gone. And without it, every number we heard tonight is a reconstruction.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 10.704,
+     "start": 18679,
+     "end": 19001
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "SUSPECTS",
+    "Five Explanations",
+    "GLITCH \u00b7 PLANE \u00b7 DRONE \u00b7 SECRET \u00b7 CRAFT"
+   ],
+   "img": "ep/img/shot_51.jpg",
+   "start": 19005,
+   "end": 19271,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So, who did it? Five explanations have been put forward. Let us line them up and test each one against all five links.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 7.776,
+     "start": 19015,
+     "end": 19249
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19253,
+   "end": 19658,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect one: a sensor glitch. Radar ghosts and camera artifacts are real. But a glitch does not explain four aviators seeing the same white object over disturbed water.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 12.432,
+     "start": 19263,
+     "end": 19636
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 19640,
+   "end": 20010,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect two: a distant aircraft. It fits the camera clip quite well. It does not fit the close encounter that Fravor and Dietrich describe, low over the ocean.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 11.256,
+     "start": 19650,
+     "end": 19988
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 19992,
+   "end": 20508,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect three: a drone or a test system. Phillips believes the Princeton may have tracked a new surveillance system flying at the wave tops. That could explain some radar contacts. Not a forty foot white object outflying a fighter.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 16.128,
+     "start": 20002,
+     "end": 20486
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 20490,
+   "end": 20836,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect four: a secret program, American or foreign. Underwood says nobody ever gave him the usual quiet briefing that a test project gets.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 10.44,
+     "start": 20500,
+     "end": 20814
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 20818,
+   "end": 21164,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And a former AARO chief said that for some unexplained cases, he knew of no fielded system that could fly that way. Not proven, not ruled out.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 10.44,
+     "start": 20828,
+     "end": 21142
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21146,
+   "end": 21623,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect five: a non-human craft. It would explain the performance claims, if those claims are right. But it is the only suspect that needs every uncertain number to be exactly correct, and it left no physical trace.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 14.832,
+     "start": 21156,
+     "end": 21601
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 21605,
+   "end": 22116,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The answer may not be one suspect. The Pentagon's twenty twenty-one assessment said UAP probably lack a single explanation. A drone on radar, a jet on camera, and something stranger seen by eye could all be true.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 15.936,
+     "start": 21615,
+     "end": 22094
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 22098,
+   "end": 22503,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is how old sky mysteries worked too. A chronicler saw fire in the heavens and wrote one story. Modern sensors were supposed to end that problem. At Nimitz, they almost did.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 12.408,
+     "start": 22108,
+     "end": 22481
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VERDICT",
+    "The Scorecard",
+    "GLITCH OR CRAFT?"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 22485,
+   "end": 22582,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Case closed. Here is the scorecard.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 2.16,
+     "start": 22495,
+     "end": 22560
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 22564,
+   "end": 23118,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Princeton tracked unknown contacts for days: evidence, from several crew. Four aviators saw a wingless white object: evidence, as testimony. FLIR1 is authentic Navy footage: evidence. The video shows impossible motion: not shown.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 17.4,
+     "start": 22574,
+     "end": 23096
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23100,
+   "end": 23464,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Five thousand g and Mach sixty: unverified, built on recalled numbers. The original radar data: missing. Proof of a non-human craft: none.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 11.064,
+     "start": 23110,
+     "end": 23442
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 23446,
+   "end": 23916,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Not a simple glitch. Too many people and too many sensors for that. But not a proven craft either. The Nimitz Tic Tac is a real event with missing evidence, and that is exactly why it refuses to die.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 14.568,
+     "start": 23456,
+     "end": 23894
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 23898,
+   "end": 24344,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Our meter ends close to the middle, leaning toward a real object of unknown origin. If the Princeton's tapes ever surface, this case could be settled in an afternoon. Until then, it stays open.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 13.8,
+     "start": 23908,
+     "end": 24322
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 24326,
+   "end": 24635,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the case file. Glitch, drone, secret jet, or something else? Tell us in the comments, and subscribe for the next mystery on trial.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 9.216,
+     "start": 24336,
+     "end": 24613
+    }
+   ]
+  }
+ ]
+}

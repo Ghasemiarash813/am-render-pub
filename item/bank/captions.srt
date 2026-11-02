@@ -1,0 +1,783 @@
+1
+00:00:00,333 --> 00:00:03,023
+November fourteenth, two thousand four.
+
+2
+00:00:03,023 --> 00:00:11,163
+A hundred miles off San Diego, four Navy aviators look down at the Pacific and see something that should not be there.
+
+3
+00:00:11,163 --> 00:00:17,233
+A smooth white shape, like a giant Tic Tac, with no wings, hovering over churning water.
+
+4
+00:00:17,699 --> 00:00:24,292
+For days, a warship's radar had been tracking strange contacts in this same patch of sky.
+
+5
+00:00:24,292 --> 00:00:28,588
+That afternoon, an infrared camera would film one of them.
+
+6
+00:00:28,588 --> 00:00:31,700
+Radar, eyes and a camera, all on one case.
+
+7
+00:00:32,166 --> 00:00:38,733
+For three thousand years, every mystery in the sky reached us as a story told by a witness.
+
+8
+00:00:38,733 --> 00:00:41,114
+Ancient chroniclers had no radar.
+
+9
+00:00:41,114 --> 00:00:44,866
+At Nimitz, for once, the machines were watching too.
+
+10
+00:00:45,333 --> 00:00:49,930
+So tonight we follow the evidence down the chain, link by link.
+
+11
+00:00:49,930 --> 00:00:50,368
+Radar.
+
+12
+00:00:50,368 --> 00:00:50,733
+Eyes.
+
+13
+00:00:50,733 --> 00:00:51,243
+Camera.
+
+14
+00:00:51,243 --> 00:00:51,608
+Math.
+
+15
+00:00:51,608 --> 00:00:53,213
+And the missing tapes.
+
+16
+00:00:53,213 --> 00:00:57,592
+Each link moves our meter, from sensor glitch to real craft.
+
+17
+00:00:57,592 --> 00:01:00,000
+The full scorecard is at the end.
+
+18
+00:01:04,466 --> 00:01:05,892
+Link one: the radar.
+
+19
+00:01:05,892 --> 00:01:14,806
+The ship is the USS Princeton, a guided missile cruiser escorting the carrier Nimitz during training off Southern California.
+
+20
+00:01:14,806 --> 00:01:18,799
+Its SPY-1 radar is among the most powerful in the fleet.
+
+21
+00:01:19,266 --> 00:01:24,755
+The strike group was in its final exam before deploying to the Middle East.
+
+22
+00:01:24,755 --> 00:01:32,000
+Around November tenth, radar operator Kevin Day began seeing odd contacts near San Clemente Island.
+
+23
+00:01:32,466 --> 00:01:41,047
+Groups of five to ten objects at about twenty-eight thousand feet, drifting south at roughly a hundred and twenty knots.
+
+24
+00:01:41,047 --> 00:01:42,406
+Too high for birds.
+
+25
+00:01:42,406 --> 00:01:43,693
+Too slow for jets.
+
+26
+00:01:43,693 --> 00:01:45,266
+And on no flight plan.
+
+27
+00:01:45,733 --> 00:01:56,166
+According to the crew's later accounts, some contacts first appeared extremely high, around eighty thousand feet, and then dropped toward the ocean in seconds.
+
+28
+00:01:56,633 --> 00:01:59,212
+The crew suspected the radar itself.
+
+29
+00:01:59,212 --> 00:02:00,646
+Ghost tracks happen.
+
+30
+00:02:00,646 --> 00:02:05,518
+So, by their account, they took the system down and recalibrated it.
+
+31
+00:02:05,518 --> 00:02:07,166
+The contacts came back.
+
+32
+00:02:07,633 --> 00:02:11,803
+This is the strongest argument against a simple glitch.
+
+33
+00:02:11,803 --> 00:02:13,167
+One radar can lie.
+
+34
+00:02:13,167 --> 00:02:20,066
+But crew members say other sensors, including an E-2 Hawkeye radar plane, saw contacts too.
+
+35
+00:02:20,533 --> 00:02:22,047
+But notice the problem.
+
+36
+00:02:22,047 --> 00:02:28,237
+Almost everything we know about these tracks comes from what operators remembered years later.
+
+37
+00:02:28,237 --> 00:02:31,266
+The raw radar data has never been made public.
+
+38
+00:02:31,733 --> 00:02:33,186
+Reading for link one.
+
+39
+00:02:33,186 --> 00:02:37,754
+Something was probably on the scopes, and crews took it seriously.
+
+40
+00:02:37,754 --> 00:02:40,800
+What it was, the radar alone cannot tell us.
+
+41
+00:02:41,266 --> 00:02:42,633
+Link two: the eyes.
+
+42
+00:02:42,633 --> 00:02:52,199
+On November fourteenth, two F/A-18F Super Hornets are pulled off a training exercise and sent toward one of the Princeton's contacts.
+
+43
+00:02:52,666 --> 00:02:58,957
+In the lead jet, Commander David Fravor, commanding officer of the Black Aces squadron.
+
+44
+00:02:58,957 --> 00:03:01,849
+In the second, Lieutenant Alex Dietrich.
+
+45
+00:03:01,849 --> 00:03:05,536
+Each jet has a weapons systems officer in the back.
+
+46
+00:03:05,536 --> 00:03:07,199
+Four trained observers.
+
+47
+00:03:07,666 --> 00:03:11,089
+The controller says they are merging with the target.
+
+48
+00:03:11,089 --> 00:03:20,066
+They look down and see a patch of churning white water, roughly the size of an airliner's body, as if something lay just under the surface.
+
+49
+00:03:20,533 --> 00:03:24,164
+Above it, a white object, about forty feet long.
+
+50
+00:03:24,164 --> 00:03:24,694
+Smooth.
+
+51
+00:03:24,694 --> 00:03:27,115
+No wings, no rotors, no exhaust.
+
+52
+00:03:27,115 --> 00:03:32,033
+It moves back and forth over the water, with no predictable path.
+
+53
+00:03:32,500 --> 00:03:35,547
+Fravor spirals down to get a closer look.
+
+54
+00:03:35,547 --> 00:03:39,115
+He says the object rises and mirrors his circle.
+
+55
+00:03:39,115 --> 00:03:43,129
+When he cuts across to intercept, it accelerates away.
+
+56
+00:03:43,129 --> 00:03:45,433
+In his words, it was just gone.
+
+57
+00:03:45,900 --> 00:03:48,609
+Seconds later the Princeton calls again.
+
+58
+00:03:48,609 --> 00:03:55,384
+A contact has appeared at the pilots' secret meeting point, their CAP point, about sixty miles away.
+
+59
+00:03:55,384 --> 00:03:58,433
+The jets are low on fuel, and they head home.
+
+60
+00:03:58,900 --> 00:04:00,900
+Now the inconvenient detail.
+
+61
+00:04:00,900 --> 00:04:05,185
+Fravor describes watching the object for about five minutes.
+
+62
+00:04:05,185 --> 00:04:10,685
+Dietrich has said she was visual for roughly ten seconds of hard maneuvering.
+
+63
+00:04:10,685 --> 00:04:13,400
+Same event, two very different clocks.
+
+64
+00:04:13,866 --> 00:04:16,181
+Dietrich is careful about memory.
+
+65
+00:04:16,181 --> 00:04:18,636
+She wrote her account within hours.
+
+66
+00:04:18,636 --> 00:04:25,300
+But she says she does not identify as a UFO person, and she will not claim to know what it was.
+
+67
+00:04:25,766 --> 00:04:27,538
+Fravor is less cautious.
+
+68
+00:04:27,538 --> 00:04:37,133
+Testifying to Congress under oath in twenty twenty-three, he said the technology they faced was far superior to anything they had.
+
+69
+00:04:37,600 --> 00:04:39,112
+Reading for link two.
+
+70
+00:04:39,112 --> 00:04:44,080
+The eyes give us the most vivid evidence, and the hardest to measure.
+
+71
+00:04:44,080 --> 00:04:46,672
+Four aviators saw something strange.
+
+72
+00:04:46,672 --> 00:04:50,200
+Nobody could measure its distance, size or speed.
+
+73
+00:04:50,666 --> 00:04:52,340
+Link three: the camera.
+
+74
+00:04:52,340 --> 00:04:55,543
+About an hour later, a second wave launches.
+
+75
+00:04:55,543 --> 00:05:05,733
+In one jet, Lieutenant Commander Chad Underwood operates an ATFLIR pod, an infrared targeting camera built to lock on to targets miles away.
+
+76
+00:05:06,199 --> 00:05:10,329
+He finds a contact on radar and slews the camera onto it.
+
+77
+00:05:10,329 --> 00:05:13,734
+On the screen: a small, featureless white oval.
+
+78
+00:05:13,734 --> 00:05:16,197
+Underwood is the one who named it.
+
+79
+00:05:16,197 --> 00:05:18,733
+It looked, he said, like a Tic Tac.
+
+80
+00:05:19,199 --> 00:05:21,692
+But he never saw it with his own eyes.
+
+81
+00:05:21,692 --> 00:05:23,004
+It was too far away.
+
+82
+00:05:23,004 --> 00:05:29,366
+He concentrated on keeping the tape running, so the intelligence team on the ship could study it.
+
+83
+00:05:29,833 --> 00:05:32,829
+That tape became the clip known as FLIR1.
+
+84
+00:05:32,829 --> 00:05:36,995
+Its audio did not survive on the copy that left the ship.
+
+85
+00:05:36,995 --> 00:05:41,599
+A version was already circulating online by two thousand seven.
+
+86
+00:05:42,066 --> 00:05:46,075
+The New York Times published it in December twenty seventeen.
+
+87
+00:05:46,075 --> 00:05:53,566
+Two years later the Navy confirmed it was genuine, and in April twenty twenty the Pentagon officially released it.
+
+88
+00:05:54,033 --> 00:05:56,411
+The famous moment comes at the end.
+
+89
+00:05:56,411 --> 00:06:01,576
+The object seems to dart off to the left, faster than the camera can follow.
+
+90
+00:06:01,576 --> 00:06:04,566
+For many viewers, that is the craft leaving.
+
+91
+00:06:05,033 --> 00:06:08,500
+Analyst Mick West reads those seconds differently.
+
+92
+00:06:08,500 --> 00:06:15,433
+Just before the dart, the camera changes its field of view and zoom, and the tracker loses its lock.
+
+93
+00:06:15,899 --> 00:06:22,468
+Once the lock is gone, the camera stops following, and a slow drift can look like a sudden jump.
+
+94
+00:06:22,468 --> 00:06:26,300
+To West, the clip is consistent with a distant aircraft.
+
+95
+00:06:26,766 --> 00:06:28,297
+Underwood pushes back.
+
+96
+00:06:28,297 --> 00:06:34,557
+His jet was flying straight and level, he says, so his maneuvering did not cause the jump.
+
+97
+00:06:34,557 --> 00:06:39,566
+But he also admits he cannot confirm that the object really accelerated.
+
+98
+00:06:40,033 --> 00:06:41,744
+Then there is the heat.
+
+99
+00:06:41,744 --> 00:06:43,605
+No visible exhaust plume.
+
+100
+00:06:43,605 --> 00:06:45,465
+Believers say: no engine.
+
+101
+00:06:45,465 --> 00:06:52,833
+Skeptics say: at long range, a jet's hot engines can blur into exactly this kind of shapeless glow.
+
+102
+00:06:53,300 --> 00:06:54,996
+Reading for link three.
+
+103
+00:06:54,996 --> 00:07:00,084
+The video is genuine Navy footage, and officially still unidentified.
+
+104
+00:07:00,084 --> 00:07:03,255
+But it shows a blob at an unknown distance.
+
+105
+00:07:03,255 --> 00:07:06,500
+On its own, it proves nothing extraordinary.
+
+106
+00:07:06,966 --> 00:07:08,316
+Link four: the math.
+
+107
+00:07:08,316 --> 00:07:12,230
+If the witnesses are right, how hard did this object move?
+
+108
+00:07:12,230 --> 00:07:20,733
+In twenty nineteen, physicist Kevin Knuth and two colleagues tried to put numbers on it, in the peer reviewed journal Entropy.
+
+109
+00:07:21,199 --> 00:07:31,633
+They started from Kevin Day's account of a contact dropping from twenty-eight thousand feet to about fifty feet above the sea in seventy-eight hundredths of a second.
+
+110
+00:07:32,100 --> 00:07:38,416
+Their most probable estimate: more than five thousand g, reaching around Mach sixty.
+
+111
+00:07:38,416 --> 00:07:41,800
+Fighter pilots train to survive about nine g.
+
+112
+00:07:42,266 --> 00:07:49,746
+They estimated the power needed at more than ten times the entire nuclear output of the United States.
+
+113
+00:07:49,746 --> 00:07:53,633
+Yet no one reported a sonic boom, or a flash of heat.
+
+114
+00:07:54,100 --> 00:07:56,607
+There is a second, older analysis.
+
+115
+00:07:56,607 --> 00:08:03,171
+In twenty ten, a contractor working for the Defense Intelligence Agency studied the case.
+
+116
+00:08:03,171 --> 00:08:10,399
+In October twenty twenty-six, the Pentagon included that report in its official UFO file releases.
+
+117
+00:08:10,866 --> 00:08:16,830
+Its engineers tried a range of assumed times for a fall from sixty thousand feet.
+
+118
+00:08:16,830 --> 00:08:20,733
+Five seconds gives about Mach ten and seventy-five g.
+
+119
+00:08:20,733 --> 00:08:23,236
+Longer falls give smaller numbers.
+
+120
+00:08:23,236 --> 00:08:27,433
+And the report admits it had relatively little hard data.
+
+121
+00:08:27,899 --> 00:08:29,120
+Here is the catch.
+
+122
+00:08:29,120 --> 00:08:31,902
+The math is only as strong as its inputs.
+
+123
+00:08:31,902 --> 00:08:37,600
+Change seventy-eight hundredths of a second to ten seconds, and the miracle shrinks.
+
+124
+00:08:38,066 --> 00:08:42,190
+To its credit, Knuth's own paper spells out the options.
+
+125
+00:08:42,190 --> 00:08:50,733
+These observations are either fabricated, seriously in error, or show technology far beyond anything known on Earth.
+
+126
+00:08:51,200 --> 00:08:52,835
+Reading for link four.
+
+127
+00:08:52,835 --> 00:08:56,625
+Impressive arithmetic, built on remembered numbers.
+
+128
+00:08:56,625 --> 00:08:58,706
+It does not decide the case.
+
+129
+00:08:58,706 --> 00:09:02,199
+It shows how much rides on data we do not have.
+
+130
+00:09:02,666 --> 00:09:04,709
+Link five: the missing tapes.
+
+131
+00:09:04,709 --> 00:09:08,441
+If the radar data existed, why not simply release it?
+
+132
+00:09:08,441 --> 00:09:12,033
+Here the case turns into a mystery about paperwork.
+
+133
+00:09:12,500 --> 00:09:21,767
+Several crew members later said that people arrived after the encounter and collected recordings, from the Hawkeye and from the radar.
+
+134
+00:09:21,767 --> 00:09:24,533
+These are testimonies, still unverified.
+
+135
+00:09:25,000 --> 00:09:34,799
+In twenty twenty-five, Tim Phillips, a former acting head of the Pentagon's UFO office AARO, gave an official version of what happened next.
+
+136
+00:09:35,266 --> 00:09:43,699
+Third Fleet ordered the radar tapes preserved, he said, and they were sent to a Navy lab in Dahlgren, Virginia, for analysis.
+
+137
+00:09:43,699 --> 00:09:46,533
+Two physical searches could not find them.
+
+138
+00:09:47,000 --> 00:09:51,881
+Even the ships' operational journals for that period could not be found.
+
+139
+00:09:51,881 --> 00:09:57,033
+Phillips said he was not sure if that was intentional, or just incompetence.
+
+140
+00:09:57,500 --> 00:09:59,344
+And the mysterious visitors?
+
+141
+00:09:59,344 --> 00:10:07,906
+Phillips said AARO traced them to DARPA personnel working with the Navy on a new surveillance system, some wearing dark jumpsuits.
+
+142
+00:10:07,906 --> 00:10:11,133
+AARO could not find the flight log to confirm it.
+
+143
+00:10:11,600 --> 00:10:16,849
+AARO's first director, Sean Kirkpatrick, put it bluntly in twenty twenty-four.
+
+144
+00:10:16,849 --> 00:10:17,993
+There is no data.
+
+145
+00:10:17,993 --> 00:10:22,166
+Not enough information, he said, to ever come to a conclusion.
+
+146
+00:10:22,633 --> 00:10:24,127
+Reading for link five.
+
+147
+00:10:24,127 --> 00:10:27,728
+The best evidence in this case may have existed once.
+
+148
+00:10:27,728 --> 00:10:28,883
+Today it is gone.
+
+149
+00:10:28,883 --> 00:10:33,366
+And without it, every number we heard tonight is a reconstruction.
+
+150
+00:10:33,833 --> 00:10:34,841
+So, who did it?
+
+151
+00:10:34,841 --> 00:10:37,531
+Five explanations have been put forward.
+
+152
+00:10:37,531 --> 00:10:41,633
+Let us line them up and test each one against all five links.
+
+153
+00:10:42,100 --> 00:10:44,272
+Suspect one: a sensor glitch.
+
+154
+00:10:44,272 --> 00:10:47,492
+Radar ghosts and camera artifacts are real.
+
+155
+00:10:47,492 --> 00:10:54,533
+But a glitch does not explain four aviators seeing the same white object over disturbed water.
+
+156
+00:10:55,000 --> 00:10:57,296
+Suspect two: a distant aircraft.
+
+157
+00:10:57,296 --> 00:10:59,808
+It fits the camera clip quite well.
+
+158
+00:10:59,808 --> 00:11:06,266
+It does not fit the close encounter that Fravor and Dietrich describe, low over the ocean.
+
+159
+00:11:06,733 --> 00:11:09,563
+Suspect three: a drone or a test system.
+
+160
+00:11:09,563 --> 00:11:16,569
+Phillips believes the Princeton may have tracked a new surveillance system flying at the wave tops.
+
+161
+00:11:16,569 --> 00:11:19,328
+That could explain some radar contacts.
+
+162
+00:11:19,328 --> 00:11:22,866
+Not a forty foot white object outflying a fighter.
+
+163
+00:11:23,333 --> 00:11:27,277
+Suspect four: a secret program, American or foreign.
+
+164
+00:11:27,277 --> 00:11:33,799
+Underwood says nobody ever gave him the usual quiet briefing that a test project gets.
+
+165
+00:11:34,266 --> 00:11:42,803
+And a former AARO chief said that for some unexplained cases, he knew of no fielded system that could fly that way.
+
+166
+00:11:42,803 --> 00:11:44,733
+Not proven, not ruled out.
+
+167
+00:11:45,200 --> 00:11:47,428
+Suspect five: a non-human craft.
+
+168
+00:11:47,428 --> 00:11:52,094
+It would explain the performance claims, if those claims are right.
+
+169
+00:11:52,094 --> 00:12:00,033
+But it is the only suspect that needs every uncertain number to be exactly correct, and it left no physical trace.
+
+170
+00:12:00,500 --> 00:12:03,085
+The answer may not be one suspect.
+
+171
+00:12:03,085 --> 00:12:09,775
+The Pentagon's twenty twenty-one assessment said UAP probably lack a single explanation.
+
+172
+00:12:09,775 --> 00:12:16,466
+A drone on radar, a jet on camera, and something stranger seen by eye could all be true.
+
+173
+00:12:16,933 --> 00:12:19,863
+That is how old sky mysteries worked too.
+
+174
+00:12:19,863 --> 00:12:23,936
+A chronicler saw fire in the heavens and wrote one story.
+
+175
+00:12:23,936 --> 00:12:27,437
+Modern sensors were supposed to end that problem.
+
+176
+00:12:27,437 --> 00:12:29,366
+At Nimitz, they almost did.
+
+177
+00:12:29,833 --> 00:12:30,598
+Case closed.
+
+178
+00:12:30,598 --> 00:12:32,000
+Here is the scorecard.
+
+179
+00:12:32,466 --> 00:12:38,291
+The Princeton tracked unknown contacts for days: evidence, from several crew.
+
+180
+00:12:38,291 --> 00:12:43,284
+Four aviators saw a wingless white object: evidence, as testimony.
+
+181
+00:12:43,284 --> 00:12:46,462
+FLIR1 is authentic Navy footage: evidence.
+
+182
+00:12:46,462 --> 00:12:49,866
+The video shows impossible motion: not shown.
+
+183
+00:12:50,333 --> 00:12:56,029
+Five thousand g and Mach sixty: unverified, built on recalled numbers.
+
+184
+00:12:56,029 --> 00:12:58,714
+The original radar data: missing.
+
+185
+00:12:58,714 --> 00:13:01,399
+Proof of a non-human craft: none.
+
+186
+00:13:01,866 --> 00:13:02,708
+The verdict.
+
+187
+00:13:02,708 --> 00:13:04,112
+Not a simple glitch.
+
+188
+00:13:04,112 --> 00:13:07,341
+Too many people and too many sensors for that.
+
+189
+00:13:07,341 --> 00:13:09,447
+But not a proven craft either.
+
+190
+00:13:09,447 --> 00:13:16,466
+The Nimitz Tic Tac is a real event with missing evidence, and that is exactly why it refuses to die.
+
+191
+00:13:16,933 --> 00:13:22,930
+Our meter ends close to the middle, leaning toward a real object of unknown origin.
+
+192
+00:13:22,930 --> 00:13:28,854
+If the Princeton's tapes ever surface, this case could be settled in an afternoon.
+
+193
+00:13:28,854 --> 00:13:30,733
+Until then, it stays open.
+
+194
+00:13:31,200 --> 00:13:32,693
+That is the case file.
+
+195
+00:13:32,693 --> 00:13:35,748
+Glitch, drone, secret jet, or something else?
+
+196
+00:13:35,748 --> 00:13:40,433
+Tell us in the comments, and subscribe for the next mystery on trial.
