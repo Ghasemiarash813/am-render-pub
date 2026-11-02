@@ -1,0 +1,1455 @@
+{
+ "fps": 30,
+ "total": 25233,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 388,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "High on the Tibetan Plateau, in a desert basin in western China, a bare hill stands beside a salt lake. On the signs here, one side of it is called the alien relic site.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 11.856,
+     "start": 10,
+     "end": 366
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 370,
+   "end": 688,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside a cave in that hill, rusty tubes come straight out of the rock. Some are as wide as a dinner plate. Some are as thin as a toothpick.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 9.528,
+     "start": 380,
+     "end": 666
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 670,
+   "end": 948,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "More of them poke out of the sand on the lake shore, and even out of the water. Online, they are known as the Baigong pipes.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 8.184,
+     "start": 680,
+     "end": 926
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 930,
+   "end": 1347,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the claim attached to them is enormous. Iron pipes, a hundred and fifty thousand years old, built by visitors from another world.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 8.832,
+     "start": 940,
+     "end": 1205
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1329,
+   "end": 1668,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight, we run this like a detective case. Six suspects could have made these pipes. We question every one, check every alibi, and see who is left standing.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 10.224,
+     "start": 1339,
+     "end": 1646
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "THE BRIEFING",
+    "The Scene of the Case",
+    "QAIDAM BASIN \u00b7 QINGHAI \u00b7 CHINA"
+   ],
+   "label": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 1650,
+   "end": 2047,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The scene. Lake Toson, a salt lake about forty kilometres southwest of the city of Delingha, in Qinghai province, more than two thousand eight hundred metres above sea level.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 12.144,
+     "start": 1660,
+     "end": 2025
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "label": "TOSON (SALT) \u00b7 KELUKE (FRESH)",
+   "img": "ep/img/shot_07.jpg",
+   "start": 2029,
+   "end": 2506,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It has a twin, a freshwater lake joined to it by a river. Locals call the pair the lover lakes. On the shore of the salt lake stands a rocky hill, fifty to sixty metres high, that reports describe as a pyramid.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 14.832,
+     "start": 2039,
+     "end": 2484
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": "BAI YU \u00b7 JUNE 1996",
+   "img": "ep/img/shot_08.jpg",
+   "start": 2488,
+   "end": 2846,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The first witness is a writer, Bai Yu, who had once worked in geology. In June nineteen ninety-six, he walked into a triangular cave at the foot of that hill.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 10.848,
+     "start": 2498,
+     "end": 2824
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2828,
+   "end": 3270,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Deep inside, a rusty tube came out of the rock wall, fitted so tightly into the stone that it had no visible start and no visible end. He chipped off a sample and sent it to a state smelting works for testing.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.656,
+     "start": 2838,
+     "end": 3248
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3252,
+   "end": 3718,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The result: mostly common elements. But about eight percent could not be identified. For Bai Yu, that eight percent was the clue. In his book, Into the Qaidam, he concluded the pipes were built by visitors from space.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 14.448,
+     "start": 3262,
+     "end": 3696
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": "XINHUA \u00b7 16 JUNE 2002",
+   "img": "ep/img/shot_11.jpg",
+   "start": 3700,
+   "end": 4134,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In June two thousand two, China's Xinhua news agency carried the story around the world. A local official told reporters that someone had suggested the site might be an alien launch tower.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 13.392,
+     "start": 3710,
+     "end": 4112
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "lineup",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4116,
+   "end": 4565,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So here is the line-up. Suspect one, the visitors. Two, a lost civilisation of iron smiths. Three, modern workers. Four, a volcano. Five, a flood. And six, a forest. Let's begin.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 13.872,
+     "start": 4126,
+     "end": 4543
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "SUSPECT 1",
+    "The Visitors",
+    "THE ALIEN LAUNCH-SITE THEORY"
+   ],
+   "label": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4547,
+   "end": 4978,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect one has the most famous profile. A starship lands on the flat ground behind the hill. Its crew drives pipes into the rock, maybe to pump water from the lake, maybe to anchor a launch tower.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 13.272,
+     "start": 4557,
+     "end": 4956
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "glow",
+   "motion": "up",
+   "tag": "T",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4960,
+   "end": 5452,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There's even a motive. The sky here is high, dry and clear. A big radio telescope of China's Purple Mountain Observatory stands about seventy kilometres away. If astronomers love this sky, why not aliens?",
+     "file": "ep/audio/s14.mp3",
+     "dur": 15.312,
+     "start": 4970,
+     "end": 5430
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5434,
+   "end": 5763,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the physical evidence the visitors left behind? That eight percent of unknown material. Perhaps, the theory says, an alloy from another world.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 9.888,
+     "start": 5444,
+     "end": 5741
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": "FIELD TEAM \u00b7 MAY 2001",
+   "img": "ep/img/shot_16.jpg",
+   "start": 5745,
+   "end": 6175,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to interrogate. In May two thousand one, a field team led by geologist Zheng Jiandong, of China's earthquake administration, went to the lake and brought samples back to Beijing.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 13.248,
+     "start": 5755,
+     "end": 6153
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6157,
+   "end": 6576,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A senior engineer at a Beijing geology institute compared the pipes' trace elements with meteorites, and with moon rock. They matched neither. Whatever these pipes are, they did not come from space.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.888,
+     "start": 6167,
+     "end": 6554
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6558,
+   "end": 6937,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the mysterious eight percent? Tested again, it turned out to be ordinary elements: potassium, aluminium and sodium. Some of the commonest elements in the Earth's crust.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 11.544,
+     "start": 6568,
+     "end": 6915
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "X",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6919,
+   "end": 7283,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The visitors' only physical evidence has evaporated. And no one has ever found a landing pad, a tool, a bolt or a weld. Suspect one: eliminated.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 11.04,
+     "start": 6929,
+     "end": 7261
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "SUSPECT 2",
+    "The Lost Smiths",
+    "A FORGOTTEN IRON AGE?"
+   ],
+   "label": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7265,
+   "end": 7639,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect two is more down to earth. Maybe an unknown human culture smelted iron here long before history began, and these pipes are all that survived of it.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 11.4,
+     "start": 7275,
+     "end": 7617
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": "THERMOLUMINESCENCE \u00b7 ~140,000\u2013150,000 YEARS",
+   "img": "ep/img/shot_21.jpg",
+   "start": 7621,
+   "end": 8139,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The interrogation starts with a date. Using thermoluminescence, which measures when mineral grains were last heated or exposed to light, the team dated the pipe material to roughly one hundred and forty to one hundred and fifty thousand years ago.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 16.176,
+     "start": 7631,
+     "end": 8117
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": "XIAHE MANDIBLE \u00b7 \u2265160,000 YEARS \u00b7 NATURE, 2019",
+   "img": "ep/img/shot_22.jpg",
+   "start": 8121,
+   "end": 8529,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Could anyone have been here that early? Surprisingly, maybe. A Denisovan jawbone found in a cave on the north-east edge of the plateau is at least a hundred and sixty thousand years old.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 12.528,
+     "start": 8131,
+     "end": 8507
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8511,
+   "end": 8965,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But iron is a different story. The oldest smelted iron anywhere is about four and a half thousand years old, from Anatolia. In China, iron working begins only around three thousand years ago.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 14.064,
+     "start": 8521,
+     "end": 8943
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "D",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8947,
+   "end": 9391,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A hundred-and-fifty-thousand-year-old iron pipeline would mean an Iron Age more than thirty times older than any other. With no furnace, no slag heap, no tools and no settlement left behind.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 13.704,
+     "start": 8957,
+     "end": 9369
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "X",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9373,
+   "end": 9835,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And these pipes don't behave like plumbing. Reports describe them straight, curved, crossing and spindle-shaped, some like sliced melons, some like long cucumbers, some thinner than a pencil. Suspect two: eliminated.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 14.328,
+     "start": 9383,
+     "end": 9813
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "SUSPECT 3",
+    "The Modern Workers",
+    "JUNK, OR A HOAX?"
+   ],
+   "label": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9817,
+   "end": 10189,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect three is the sceptic's favourite. Maybe these are just modern pipes. Scrap from herders or prospectors, a forgotten water project, or someone having a laugh.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.328,
+     "start": 9827,
+     "end": 10167
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10171,
+   "end": 10558,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The alibi is strong. Reports stress that there is no industry here, and that no construction was ever carried out around the lake. Just a few migrating herders, north of the hill.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.808,
+     "start": 10181,
+     "end": 10536
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10540,
+   "end": 10933,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "More importantly, the tubes are not lying on the rock. They are inside it, running through solid sandstone and following its layers. Modern scrap does not grow into bedrock.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 12.024,
+     "start": 10550,
+     "end": 10911
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10915,
+   "end": 11329,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the material is wrong for any factory pipe. No steel, no welds, no threads. Tests reported their walls are pyrite and goethite, iron minerals that form naturally in rock.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 12.72,
+     "start": 10925,
+     "end": 11307
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "X",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11311,
+   "end": 11751,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One footnote. Humans did damage the scene. By two thousand one, visitors had broken the first pipe Bai Yu saw and stripped much of the beach. But making the pipes? Suspect three: eliminated.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 13.584,
+     "start": 11321,
+     "end": 11729
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "SUSPECT 4",
+    "The Volcano",
+    "MAGMA IN THE CRACKS?"
+   ],
+   "label": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11733,
+   "end": 12173,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect four comes from inside the science team. Zheng Jiandong proposed a natural but fiery culprit: iron-rich magma forced up into cracks in the rock as the Tibetan Plateau rose.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.584,
+     "start": 11743,
+     "end": 12151
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12155,
+   "end": 12517,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He had a clue. Some of the pipes are unusually radioactive. Reports say their uranium content is dozens of times higher than in the surrounding rock.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 10.968,
+     "start": 12165,
+     "end": 12495
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12499,
+   "end": 12898,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Molten iron squeezed into fissures, cooling into tubes. It would explain the iron, and perhaps the radiation. In two thousand seven, he still said this was the option he favoured.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.216,
+     "start": 12509,
+     "end": 12876
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12880,
+   "end": 13283,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But his colleagues, Zhou De'an and Gao Junping, pushed back hard. Their samples showed no real evidence of magma, and the rock around the pipes had not been altered by high heat.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 12.36,
+     "start": 12890,
+     "end": 13261
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13265,
+   "end": 13592,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The ground here is stable, they argued, with little magma below. And if there had been volcanic activity, the basin's oil field could not have formed.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 9.816,
+     "start": 13275,
+     "end": 13570
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "X",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13574,
+   "end": 14027,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Neat hollow tubes in layered sand, sitting right beside ordinary sediment, are not what a magma intrusion leaves. Suspect four: eliminated. The radiation goes into the file as a loose end.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 14.016,
+     "start": 13584,
+     "end": 14005
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "SUSPECT 5",
+    "The Flood",
+    "IRON-RICH SEDIMENT"
+   ],
+   "label": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14009,
+   "end": 14363,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect five is quieter. The team noticed something important: the pipes appear only in the harder sandstone, rock laid down by violent ancient floods.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 10.704,
+     "start": 14019,
+     "end": 14341
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14345,
+   "end": 14692,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Long before the region dried out, an ancient Lake Toson was far bigger. Floods poured in, carrying sand, mud and iron, and buried everything quickly.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 10.488,
+     "start": 14355,
+     "end": 14670
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14674,
+   "end": 15136,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Once buried and sealed off from the air, the sediment lost its oxygen. Sulphur compounds in the water broke down into hydrogen sulphide, which reacted with the iron to make pyrite. Fool's gold.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 14.328,
+     "start": 14684,
+     "end": 15114
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15118,
+   "end": 15503,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That fits the chemistry. The Beijing tests concluded the pipes were a cement of carbon and pyrite, and not man-made. Exactly what this kind of flood chemistry can produce.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 11.76,
+     "start": 15128,
+     "end": 15481
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15485,
+   "end": 15949,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But Zhou De'an raised an objection. Flood mud alone does not gather iron into neat, hollow, geometric tubes. Sediment fills spaces. It doesn't build pipes. Something gave the iron its shape.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 14.376,
+     "start": 15495,
+     "end": 15927
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "A",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15931,
+   "end": 16238,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So suspect five had the means, the iron and the chemistry, but not the mould. Not cleared, not convicted. Status: accomplice.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 9.144,
+     "start": 15941,
+     "end": 16216
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "SUSPECT 6",
+    "The Forest",
+    "FOSSIL TREE ROOTS"
+   ],
+   "label": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16220,
+   "end": 16541,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which brings us to the last and least likely-looking suspect. Look around. In this desert, there's barely a shrub. Suspect six is a forest.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 9.624,
+     "start": 16230,
+     "end": 16519
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16523,
+   "end": 16883,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Gao Junping went back into the field and found something inside the iron tubes: carbonised plant remains. Charred traces of something that had once been alive.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 10.92,
+     "start": 16533,
+     "end": 16861
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": "LANZHOU UNIVERSITY \u00b7 ICP ANALYSIS",
+   "img": "ep/img/shot_45.jpg",
+   "start": 16865,
+   "end": 17175,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He cut samples from the inner wall and the outer wall of a pipe in the cave, and sent them to Lanzhou University for a high-precision analysis.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 9.264,
+     "start": 16875,
+     "end": 17153
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17157,
+   "end": 17579,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The result had a pattern. From the inside of the wall outward, iron increases and potassium decreases. A steady gradient, the kind left when living tissue is slowly replaced by minerals.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 12.984,
+     "start": 17167,
+     "end": 17557
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17561,
+   "end": 17878,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the clincher. Many of the pipes show concentric rings, like the growth rings of a tree. And from the outside, some of them simply look tree-like.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 9.48,
+     "start": 17571,
+     "end": 17856
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 17860,
+   "end": 18297,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Millions of years ago, the Qaidam Basin was warm and wet, fed by moist air from the Indian Ocean before the Himalayas grew tall enough to block it. Forests grew here. And floods buried them.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.488,
+     "start": 17870,
+     "end": 18275
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18279,
+   "end": 18716,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Buried deep, the soft inner wood rotted away, while iron in the groundwater gathered in the tougher outer layers. When the core was gone, what remained was a hollow iron tube in the exact shape of a root.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 13.488,
+     "start": 18289,
+     "end": 18694
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "glow",
+   "motion": "up",
+   "tag": "C",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18698,
+   "end": 19087,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The pipes are hollow because the roots are gone. They taper because roots taper. They run in every direction because roots do. Suspect six, the forest: our prime suspect.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 11.88,
+     "start": 18708,
+     "end": 19065
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "lineup",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "THE REVEAL",
+    "Two Culprits",
+    "THE FOREST + THE FLOOD"
+   ],
+   "label": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19069,
+   "end": 19464,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Back to the board. The visitors, eliminated. The lost smiths, eliminated. Modern workers, eliminated. The volcano, eliminated. The flood, accomplice. The forest, the culprit.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 12.096,
+     "start": 19079,
+     "end": 19442
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19446,
+   "end": 19841,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It was a two-part job. The forest made the shape. The flood and its iron chemistry filled that shape with minerals. Then the rising plateau lifted the old lake bed into a hill.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 12.072,
+     "start": 19456,
+     "end": 19819
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": "MOSSA & SCHUMACHER \u00b7 J. SEDIMENTARY RESEARCH, 1993",
+   "img": "ep/img/shot_53.jpg",
+   "start": 19823,
+   "end": 20336,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And this isn't a one-off. In nineteen ninety-three, geologists Joann Mossa and Bruce Schumacher described iron-rich cylinders up to seventy centimetres wide in Louisiana soils, and identified them as fossil tree-root casts.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 16.008,
+     "start": 19833,
+     "end": 20314
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": "NAVAJO SANDSTONE \u00b7 UTAH, USA",
+   "img": "ep/img/shot_54.jpg",
+   "start": 20318,
+   "end": 20817,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In Utah's Navajo Sandstone, iron oxide pipes several metres long run through the rock, made by ancient groundwater, not engineers. Geologists have puzzled over stone cylinders like these since the eighteen hundreds.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 15.552,
+     "start": 20328,
+     "end": 20795
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 20799,
+   "end": 21257,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the age makes sense now. A hundred and fifty thousand years is impossibly old for a smelter, but perfectly ordinary for a fossil. The date that sounded alien was actually a geological clue.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 14.184,
+     "start": 20809,
+     "end": 21235
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21239,
+   "end": 21582,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bai Yu was right about one thing. These are not ordinary rocks. He just looked up at the sky for the answer, when it was buried in the ground beneath his feet.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 10.344,
+     "start": 21249,
+     "end": 21560
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": [
+    "LOOSE ENDS",
+    "What We Still Don't Know",
+    "OPEN QUESTIONS"
+   ],
+   "label": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21564,
+   "end": 21949,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A good detective admits what is still open. First, the radiation. Why some pipes carry so much uranium has never been fully explained in any study we could find.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 11.76,
+     "start": 21574,
+     "end": 21927
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 21931,
+   "end": 22325,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Second, the paperwork. Most of what we know comes from news reports and magazine articles. The lab data have never been published in an international journal where other scientists could check them.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 12.048,
+     "start": 21941,
+     "end": 22303
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "U",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 22307,
+   "end": 22686,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And third, the timing. Thermoluminescence dates the minerals, and the pipes could have formed over a long stretch after the trees were buried. One number doesn't tell the whole story.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 11.544,
+     "start": 22317,
+     "end": 22664
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 22668,
+   "end": 23078,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Meanwhile, the legend pays its way. Near the highway stands a monument to the aliens, complete with a mock-up satellite dish, and a sign at the lake calls the place the alien relic site.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 12.6,
+     "start": 22678,
+     "end": 23056
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 23060,
+   "end": 23391,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some say the quiet after two thousand two proves a cover-up. But the follow-up did happen. It found tree roots. And tree roots don't make headlines.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 9.96,
+     "start": 23070,
+     "end": 23369
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VERDICT",
+    "The Case Scorecard",
+    "WHO MADE THE BAIGONG PIPES?"
+   ],
+   "label": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23373,
+   "end": 23456,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time for the case scorecard.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 1.68,
+     "start": 23383,
+     "end": 23434
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 23438,
+   "end": 23814,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Built by alien visitors: no evidence. Smelted by a lost Iron Age: ruled out. Modern scrap, or a hoax: ruled out. Formed from magma: unlikely.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 11.448,
+     "start": 23448,
+     "end": 23792
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 23796,
+   "end": 24123,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Iron and pyrite from flood sediment: evidence. Shape from fossil tree roots: evidence. The uranium, and the full lab data: still open.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 9.816,
+     "start": 23806,
+     "end": 24101
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 24105,
+   "end": 24548,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. The Baigong pipes are real, and they really are strange. But they were not built. They grew. Fossil roots of a lost forest, filled with iron by ancient floods, and lifted into a desert hill.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 13.68,
+     "start": 24115,
+     "end": 24526
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 24530,
+   "end": 24900,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The most alien thing about them is the world they come from. A green, wet Qaidam Basin that no human ever saw. That is the real mystery these pipes are holding.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 11.256,
+     "start": 24540,
+     "end": 24878
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "label": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 24882,
+   "end": 25158,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Case closed? Tell us in the comments which suspect you would have picked, and subscribe for the next ancient mystery we put in the line-up.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 8.112,
+     "start": 24892,
+     "end": 25136
+    }
+   ]
+  }
+ ]
+}
