@@ -1,0 +1,1320 @@
+{
+ "fps": 30,
+ "total": 25559,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 393,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three thousand three hundred years ago, a teenage king was wrapped for eternity with a dagger on his right thigh. Its blade was iron, in an age when iron was worth more than gold.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 12.024,
+     "start": 10,
+     "end": 371
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 375,
+   "end": 767,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand sixteen, scientists confirmed what the metal really is. It came from space. The iron in Tutankhamun's dagger fell to Earth inside a meteorite.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 12.0,
+     "start": 385,
+     "end": 745
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 749,
+   "end": 1082,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Online, that was all it took. A dagger from outer space. Metal no human could make. A blade that never rusts. Maybe even a gift from visitors.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 10.032,
+     "start": 759,
+     "end": 1060
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1064,
+   "end": 1361,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight, the dagger is our witness. We sit it down under the lamp and ask it seven questions. Every answer has to come with evidence.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 8.808,
+     "start": 1074,
+     "end": 1339
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1343,
+   "end": 1699,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the end, we read back its statement, score every claim, and deliver a verdict. The tape is running.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 6.768,
+     "start": 1353,
+     "end": 1557
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "QUESTION 1",
+    "Where were you found?",
+    "VALLEY OF THE KINGS \u00b7 1925"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1681,
+   "end": 2099,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question one: where were you found? November nineteen twenty-two. Howard Carter opens the tomb of Tutankhamun in the Valley of the Kings. But this witness stays hidden for three more years.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 12.84,
+     "start": 1691,
+     "end": 2077
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2081,
+   "end": 2458,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen twenty-five, the team unwraps the king's mummy, layer by layer. Among the linen they find two daggers. One lies on the abdomen, with a blade of gold.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 11.472,
+     "start": 2091,
+     "end": 2436
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2440,
+   "end": 2831,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The other lies along the right thigh. Its hilt is gold too, but its blade is grey, polished, and almost free of rust. Carter catalogued it as object two fifty-six k.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 11.952,
+     "start": 2450,
+     "end": 2809
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "none",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2813,
+   "end": 3259,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The hilt is a jeweller's masterpiece: bands of lapis lazuli, carnelian and malachite, diamond and wave patterns made of gold grains half a millimetre wide, and a pommel of rock crystal.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.776,
+     "start": 2823,
+     "end": 3237
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3241,
+   "end": 3603,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Its gold sheath carries a lily pattern on one side, feathers on the other, and ends in the head of a jackal. The whole dagger is about thirty-five centimetres long.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 10.992,
+     "start": 3251,
+     "end": 3581
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3585,
+   "end": 3998,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And it was not alone. The tomb held more iron: sixteen miniature blades, a tiny headrest, and an iron eye amulet on a bracelet. Iron objects, in a tomb from before the Iron Age.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 12.672,
+     "start": 3595,
+     "end": 3976
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3980,
+   "end": 4437,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the first oddity, and it is real. The Iron Age only begins around twelve hundred BCE. Tutankhamun died more than a century earlier. So where did a Bronze Age king get iron?",
+     "file": "ep/audio/s12.mp3",
+     "dur": 14.16,
+     "start": 3990,
+     "end": 4415
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "QUESTION 2",
+    "What are you made of?",
+    "THE X-RAY ANSWER"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4419,
+   "end": 4827,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question two: what are you made of? For decades, the answer was disputed. A study in nineteen ninety-four found only about three percent nickel and concluded the iron was ordinary.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.528,
+     "start": 4429,
+     "end": 4805
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4809,
+   "end": 5260,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In twenty sixteen, an Italian and Egyptian team led by Daniela Comelli used portable X-ray fluorescence, calibrated on real meteorites. Nothing was cut. Nothing was scraped.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 13.944,
+     "start": 4819,
+     "end": 5238
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5242,
+   "end": 5557,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The answer: iron, with almost eleven percent nickel and about point six percent cobalt. That is the signature of an iron meteorite.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 9.408,
+     "start": 5252,
+     "end": 5535
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5539,
+   "end": 6024,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why does nickel matter? Iron meteorites carry between five and thirty-five percent nickel. Iron smelted from Earth's ores before the nineteenth century almost never tops four percent. Eleven is not a close call.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 15.096,
+     "start": 5549,
+     "end": 6002
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6006,
+   "end": 6385,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the cobalt matches: seventy-six iron meteorites with similar nickel average point five seven percent cobalt. The blade sits right in the middle of the pack.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 11.544,
+     "start": 6016,
+     "end": 6363
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6367,
+   "end": 6819,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then a second team checked independently. In twenty twenty, Japanese researchers led by Takafumi Matsui scanned the whole blade in Cairo. They found nearly twelve percent nickel. Confirmed.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 13.968,
+     "start": 6377,
+     "end": 6797
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "sand",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6801,
+   "end": 7295,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And it fits a pattern. Egypt's oldest iron, beads from Gerzeh, about five thousand two hundred years old, are hammered meteorite iron too. So is every Bronze Age iron object tested in a twenty seventeen survey.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 15.384,
+     "start": 6811,
+     "end": 7273
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7277,
+   "end": 7683,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the alien claim gets its one true sentence here. Yes, this metal is extraterrestrial. But hold on to the word. It describes the rock. It says nothing yet about the hands.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 12.456,
+     "start": 7287,
+     "end": 7661
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "QUESTION 3",
+    "Where did you fall from?",
+    "FROM CORE TO DESERT"
+   ],
+   "img": "ep/img/shot_21.jpg",
+   "start": 7665,
+   "end": 8068,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question three: where did you fall from? Iron meteorites are pieces of the metal cores of small worlds that broke apart early in the solar system, more than four billion years ago.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.336,
+     "start": 7675,
+     "end": 8046
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8050,
+   "end": 8422,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some of those fragments cross Earth's orbit. Most burn away. A few chunks of iron survive the fall and land, heavy and black, in places like the Egyptian desert.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 11.328,
+     "start": 8060,
+     "end": 8400
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8404,
+   "end": 8925,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Comelli's team searched the meteorite records for the region. Twenty iron meteorites were known. Only one came within ten percent of the blade's nickel and cobalt: a one-kilo stone called Kharga, found in the year two thousand.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 16.272,
+     "start": 8414,
+     "end": 8903
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8907,
+   "end": 9330,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Kharga was found west of Alexandria, near Mersa Matruh. A suspect, not a conviction. Many meteorites fell and were never catalogued, and one match in chemistry is not a fingerprint.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 13.008,
+     "start": 8917,
+     "end": 9308
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9312,
+   "end": 9864,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Matsui's scans added a second clue. Mapping the nickel revealed faint bands crossing at angles, about a millimetre wide. That is the Widmanst\u00e4tten pattern, which forms only as metal cools over millions of years inside an asteroid.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 17.328,
+     "start": 9322,
+     "end": 9842
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9846,
+   "end": 10220,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The bands told them the type of meteorite: an octahedrite, the most common kind of iron meteorite. Nothing exotic. Just the ordinary kind of space iron.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.376,
+     "start": 9856,
+     "end": 10198
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10202,
+   "end": 10548,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the witness's story so far: born in a shattered asteroid, fallen into a desert, picked up by someone who knew this black, heavy stone was something special.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 10.464,
+     "start": 10212,
+     "end": 10526
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "QUESTION 4",
+    "How were you made?",
+    "FORGED OR CAST?"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 10530,
+   "end": 10976,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question four: how were you made? This is where the alien theory makes its boldest move. Iron basically did not exist, documentaries ask. This metal was not mined by man. So who forged it?",
+     "file": "ep/audio/s28.mp3",
+     "dur": 13.776,
+     "start": 10540,
+     "end": 10954
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10958,
+   "end": 11425,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Those lines are real, quoted from an Ancient Aliens episode and another documentary. And taken alone, they are not false. The trick, as historian Candida Moss pointed out, is in blurring two questions.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 14.496,
+     "start": 10968,
+     "end": 11403
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11407,
+   "end": 11781,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Where did the metal come from? Space. Who made the dagger? That is a separate question. A meteorite is raw material, like gold dug from a river. Someone still has to shape it.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 11.4,
+     "start": 11417,
+     "end": 11759
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11763,
+   "end": 12196,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the blade tells us how. Matsui's team listed the options: cold cutting, melting and casting, or heating and hammering. Casting would erase the crystal bands. But the bands survived.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.344,
+     "start": 11773,
+     "end": 12174
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12178,
+   "end": 12706,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The dark, bubbly spots are the remains of troilite, an iron sulphide found in meteorites. They lost most of their sulphur, which takes roughly seven hundred degrees. But they never melted into the metal, which happens near nine hundred and fifty.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 16.512,
+     "start": 12188,
+     "end": 12684
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "right",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12688,
+   "end": 13091,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the smith worked in a window: hot enough to soften the iron, never hot enough to melt it. Heat, hammer, repeat. Low-temperature forging, below about nine hundred and fifty degrees.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.36,
+     "start": 12698,
+     "end": 13069
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 13073,
+   "end": 13468,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We know that works, because people have done it. Japanese smiths forged a sword from the Gibeon meteorite, and it kept the same crystal pattern and the same black cracks from troilite.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 12.096,
+     "start": 13083,
+     "end": 13446
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13450,
+   "end": 13899,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No laser. No impossible alloy. A skilled human smith, hammering stubborn meteorite iron into a blade two millimetres thick. Comelli called it evidence of early, successful iron smithing.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 13.872,
+     "start": 13460,
+     "end": 13877
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "QUESTION 5",
+    "Why haven't you rusted?",
+    "THE 'MAGIC METAL' CLAIM"
+   ],
+   "img": "ep/img/shot_36.jpg",
+   "start": 13881,
+   "end": 14206,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question five: why haven't you rusted? This is the claim that sounds most like magic: thirty-three centuries in a tomb, and the blade still shines.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 9.744,
+     "start": 13891,
+     "end": 14184
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14188,
+   "end": 14654,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First, look closer. It is not spotless. There is a winding crack about five centimetres long, and dark spots along the edges and the middle. Those spots contain chlorine: a classic product of iron corrosion.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 14.448,
+     "start": 14198,
+     "end": 14632
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14636,
+   "end": 15091,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Matsui compared it with Harry Burton's photo from nineteen twenty-five. The dark spots sit in the same places. The blade has not got worse since discovery, but it was already marked when it went into the tomb.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 14.088,
+     "start": 14646,
+     "end": 15069
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 15073,
+   "end": 15659,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Second, chemistry. Iron with around eleven percent nickel resists corrosion far better than plain iron. Metallurgists use nickel today for exactly that reason. Compare the ancient dagger from Alaca H\u00f6y\u00fck in Turkey, also meteoritic, and badly corroded.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 18.456,
+     "start": 15083,
+     "end": 15637
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15641,
+   "end": 16144,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Third, location. Tutankhamun's tomb is in one of the driest places on Earth, and the blade spent its time sealed in resins, linen and darkness. Rust needs water and oxygen. Here, it got very little of either.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 15.696,
+     "start": 15651,
+     "end": 16122
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 16126,
+   "end": 16422,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nickel-rich metal, a dry sealed tomb, and a few rust spots after all. The miracle blade turns out to be a very well kept one.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 8.784,
+     "start": 16136,
+     "end": 16400
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 16404,
+   "end": 16732,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Our witness has now explained its origin, its metal and its shine. The next two questions are harder. Even the experts still argue about them.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 9.864,
+     "start": 16414,
+     "end": 16710
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "QUESTION 6",
+    "Who sent you?",
+    "A GIFT FROM MITANNI?"
+   ],
+   "img": "ep/img/shot_43.jpg",
+   "start": 16714,
+   "end": 17096,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question six: who sent you? In the eighteen eighties, villagers at Amarna found the diplomatic archive of the pharaohs: hundreds of clay letters written in cuneiform.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 11.64,
+     "start": 16724,
+     "end": 17074
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 17078,
+   "end": 17603,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Among them are gift lists from Tushratta, king of Mitanni, a powerful kingdom in what is now Syria and southern Turkey. He was sending his daughter Taduhepa to marry Amenhotep the Third, probably Tutankhamun's grandfather.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 16.416,
+     "start": 17088,
+     "end": 17581
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 17585,
+   "end": 18019,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And in letter twenty-two, among the treasures, the scribes list a dagger whose blade is of iron, its guard of gold, with designs. A few lines later, another iron dagger, with lapis lazuli.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 13.392,
+     "start": 17595,
+     "end": 17997
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 18001,
+   "end": 18401,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Iron-bladed daggers, sent as royal presents to Tutankhamun's family, a generation before he was buried. That is the strongest written clue to where our witness came from.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 12.24,
+     "start": 18011,
+     "end": 18379
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 18383,
+   "end": 18944,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Matsui's team found a chemical clue too. The gold hilt contains a few percent calcium without sulphur. They read that as lime plaster used to glue the decorations, a material common in Mitanni but not used in Egypt until a thousand years later.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 17.616,
+     "start": 18393,
+     "end": 18922
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18926,
+   "end": 19455,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But this is where the experts disagree. A published reply argued the calcium may be a measurement artefact, since it also shows up on the blade and other objects. And none of the letter's descriptions fits our dagger exactly. One has a haft of ebony.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 16.56,
+     "start": 18936,
+     "end": 19433
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 19437,
+   "end": 19915,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The team behind the book Iron from Tutankhamun's Tomb notes the pommel resembles Aegean work, while the dagger type is Egyptian. Their conclusion: a reliable answer on who made it is currently impossible.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 14.856,
+     "start": 19447,
+     "end": 19893
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 19897,
+   "end": 20416,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the honest answer to question six is a shrug with evidence on both sides. A Mitanni gift is plausible. Egyptian craftsmen are not ruled out. But notice who is on the list of suspects: kings and smiths. Nobody from orbit.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 16.224,
+     "start": 19907,
+     "end": 20394
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "QUESTION 7",
+    "Why bury you with a king?",
+    "IRON OF THE SKY"
+   ],
+   "img": "ep/img/shot_51.jpg",
+   "start": 20398,
+   "end": 20850,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question seven: why bury you with a king? Because in the fourteenth century BCE, iron was not a weapon metal. It was a treasure, rarer than gold and reserved for ritual, ornament and royal gifts.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 13.992,
+     "start": 20408,
+     "end": 20828
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 20832,
+   "end": 21340,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Did the Egyptians know it fell from the sky? A generation or so after Tutankhamun, a new Egyptian word for iron appears, usually translated as iron of the sky. The Hittites spoke of black iron of heaven.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 15.84,
+     "start": 20842,
+     "end": 21318
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 21322,
+   "end": 21758,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The small iron blades from the tomb look like the tools of the Opening of the Mouth, the ritual that restored the dead king's senses. Ancient temple lists connect those tools with iron and with stars.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 13.44,
+     "start": 21332,
+     "end": 21736
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 21740,
+   "end": 22085,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For a culture that pictured its kings joining the stars, a blade forged from star-iron was not a weapon. It was a statement about where the king was going.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 10.416,
+     "start": 21750,
+     "end": 22063
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 22067,
+   "end": 22416,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Placed on the right thigh, inside the wrappings, it was one of the most precious objects a pharaoh could take with him. Not a curiosity. A crown jewel of metal.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 10.56,
+     "start": 22077,
+     "end": 22394
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 22398,
+   "end": 22842,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And this idea was not unique to Egypt. From the Shang dynasty in China to the Inuit of Greenland, people across history worked meteorite iron. Space iron was humanity's first iron.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 13.704,
+     "start": 22408,
+     "end": 22820
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 22824,
+   "end": 23008,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Seven questions. Seven answers. Time to read back the witness's statement.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 5.04,
+     "start": 22834,
+     "end": 22986
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "THE STATEMENT",
+    "Evidence vs Theory",
+    "SEVEN ANSWERS, SCORED"
+   ],
+   "img": "ep/img/shot_58.jpg",
+   "start": 22990,
+   "end": 23109,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The statement. Let's score what our witness told us.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 2.88,
+     "start": 23000,
+     "end": 23087
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 23091,
+   "end": 23714,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Meteoritic iron, with eleven percent nickel and cobalt to match: evidence. Crystal bands showing low-temperature forging by human smiths: evidence. Every tested Bronze Age iron is meteoritic: evidence. Iron daggers listed as royal gifts in the Amarna letters: evidence.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 19.68,
+     "start": 23101,
+     "end": 23692
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 23696,
+   "end": 24108,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alien makers or impossible metal: no evidence. The never-rusting blade: debunked, it has rust spots and good reasons. Who forged it, and which meteorite it was: still open.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 12.648,
+     "start": 23706,
+     "end": 24086
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 24090,
+   "end": 24603,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Tutankhamun's dagger really is made from a meteorite. The metal came from space. The dagger did not. Human smiths, probably in the fourteenth century BCE, forged it at low heat into a royal masterpiece.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 16.008,
+     "start": 24100,
+     "end": 24581
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 24585,
+   "end": 24921,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What stays open is smaller and more human: whose workshop made it, whether it came from Mitanni as a wedding gift, and which desert stone it was cut from.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 10.128,
+     "start": 24595,
+     "end": 24899
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 24903,
+   "end": 25246,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ancient people looked up, saw iron falling from the sky, and turned it into treasure. That is not proof of visitors. It is proof of how closely they were watching.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 10.344,
+     "start": 24913,
+     "end": 25224
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 25228,
+   "end": 25484,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which answer surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 7.44,
+     "start": 25238,
+     "end": 25462
+    }
+   ]
+  }
+ ]
+}

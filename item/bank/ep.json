@@ -1,0 +1,1386 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of an ancient Egyptian dagger with a slim double-edged dull silvery-grey iron blade, a gold hilt decorated with bands of tiny gold granules and inlaid blue and red stones, and a clear rock crystal pommel lying on dark linen in warm lamplight, museum-quality detail, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three thousand three hundred years ago, a teenage king was wrapped for eternity with a dagger on his right thigh. Its blade was iron, in an age when iron was worth more than gold."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three thousand three hundred years ago, a teenage king was wrapped for eternity with a dagger on his right thigh. Its blade was iron, in an age when iron was worth more than gold.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A bright fireball meteor streaking across a starry night sky above a dark desert horizon, long glowing trail, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand sixteen, scientists confirmed what the metal really is. It came from space. The iron in Tutankhamun's dagger fell to Earth inside a meteorite."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand sixteen, scientists confirmed what the metal really is. It came from space. The iron in Tutankhamun's dagger fell to Earth inside a meteorite.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 12.0
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Science fiction concept art, a glowing alien figure handing a shining blade to an Egyptian pharaoh in a dark temple, beams of light, cinematic, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Online, that was all it took. A dagger from outer space. Metal no human could make. A blade that never rusts. Maybe even a gift from visitors."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Online, that was all it took. A dagger from outer space. Metal no human could make. A blade that never rusts. Maybe even a gift from visitors.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "an ancient Egyptian dagger with a slim double-edged dull silvery-grey iron blade, a gold hilt decorated with bands of tiny gold granules and inlaid blue and red stones, and a clear rock crystal pommel lying alone in the center of a dark interrogation room with a single hanging lamp over a bare metal table, dramatic chiaroscuro, film noir, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight, the dagger is our witness. We sit it down under the lamp and ask it seven questions. Every answer has to come with evidence."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight, the dagger is our witness. We sit it down under the lamp and ask it seven questions. Every answer has to come with evidence.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 8.808
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "An empty chair and a bare table in a dark interrogation room with a single hanging lamp over a bare metal table, a reel-to-reel tape recorder on the table, cigarette smoke haze, film noir, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the end, we read back its statement, score every claim, and deliver a verdict. The tape is running."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the end, we read back its statement, score every claim, and deliver a verdict. The tape is running.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 6.768
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Archaeologists in 1920s clothing kneeling beside a wrapped Egyptian mummy on a wooden table in a dim tomb laboratory, lamplight, sepia toned historical photograph style, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question one: where were you found? November nineteen twenty-two. Howard Carter opens the tomb of Tutankhamun in the Valley of the Kings. But this witness stays hidden for three more years."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "QUESTION 1",
+   "Where were you found?",
+   "VALLEY OF THE KINGS \u00b7 1925"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question one: where were you found? November nineteen twenty-two. Howard Carter opens the tomb of Tutankhamun in the Valley of the Kings. But this witness stays hidden for three more years.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of ancient brown linen mummy wrappings partly opened revealing the glint of gold underneath, soft lamplight, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen twenty-five, the team unwraps the king's mummy, layer by layer. Among the linen they find two daggers. One lies on the abdomen, with a blade of gold."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen twenty-five, the team unwraps the king's mummy, layer by layer. Among the linen they find two daggers. One lies on the abdomen, with a blade of gold.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 11.472
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two ancient Egyptian daggers side by side on dark cloth, one with a gold blade and one with a slim silvery-grey iron blade, both with ornate gold hilts, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The other lies along the right thigh. Its hilt is gold too, but its blade is grey, polished, and almost free of rust. Carter catalogued it as object two fifty-six k."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The other lies along the right thigh. Its hilt is gold too, but its blade is grey, polished, and almost free of rust. Carter catalogued it as object two fifty-six k.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Detailed close-up of an ornate ancient gold dagger hilt covered with fine gold granulation in diamond and wave patterns and inlaid bands of lapis lazuli and carnelian, crystal pommel, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The hilt is a jeweller's masterpiece: bands of lapis lazuli, carnelian and malachite, diamond and wave patterns made of gold grains half a millimetre wide, and a pommel of rock crystal."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The hilt is a jeweller's masterpiece: bands of lapis lazuli, carnelian and malachite, diamond and wave patterns made of gold grains half a millimetre wide, and a pommel of rock crystal.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An ancient Egyptian gold dagger sheath with an engraved floral lily pattern, ending in a small jackal head at the tip, on black velvet, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its gold sheath carries a lily pattern on one side, feathers on the other, and ends in the head of a jackal. The whole dagger is about thirty-five centimetres long."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its gold sheath carries a lily pattern on one side, feathers on the other, and ends in the head of a jackal. The whole dagger is about thirty-five centimetres long.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A collection of tiny ancient iron chisel-like blades and a miniature iron headrest laid out on linen in a museum storeroom, soft light, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And it was not alone. The tomb held more iron: sixteen miniature blades, a tiny headrest, and an iron eye amulet on a bracelet. Iron objects, in a tomb from before the Iron Age."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And it was not alone. The tomb held more iron: sixteen miniature blades, a tiny headrest, and an iron eye amulet on a bracelet. Iron objects, in a tomb from before the Iron Age.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden sunset over the cliffs of the Valley of the Kings in Egypt, long shadows, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the first oddity, and it is real. The Iron Age only begins around twelve hundred BCE. Tutankhamun died more than a century earlier. So where did a Bronze Age king get iron?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the first oddity, and it is real. The Iron Age only begins around twelve hundred BCE. Tutankhamun died more than a century earlier. So where did a Bronze Age king get iron?",
+    "file": "ep/audio/s12.mp3",
+    "dur": 14.16
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A scientist in a lab coat holding a handheld X-ray fluorescence analyser near an ancient dagger blade in a museum conservation lab, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question two: what are you made of? For decades, the answer was disputed. A study in nineteen ninety-four found only about three percent nickel and concluded the iron was ordinary."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "QUESTION 2",
+   "What are you made of?",
+   "THE X-RAY ANSWER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question two: what are you made of? For decades, the answer was disputed. A study in nineteen ninety-four found only about three percent nickel and concluded the iron was ordinary.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a portable X-ray fluorescence instrument with its nose pointed at a polished grey metal surface, small blue indicator light, laboratory, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty sixteen, an Italian and Egyptian team led by Daniela Comelli used portable X-ray fluorescence, calibrated on real meteorites. Nothing was cut. Nothing was scraped."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty sixteen, an Italian and Egyptian team led by Daniela Comelli used portable X-ray fluorescence, calibrated on real meteorites. Nothing was cut. Nothing was scraped.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 13.944
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Abstract scientific visualization of glowing spectral peaks of light like an X-ray spectrum on a dark background, cyan and gold glow, no axes, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The answer: iron, with almost eleven percent nickel and about point six percent cobalt. That is the signature of an iron meteorite."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The answer: iron, with almost eleven percent nickel and about point six percent cobalt. That is the signature of an iron meteorite.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 9.408
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A polished slice of iron meteorite showing a fine crisscross metallic crystal pattern, studio lighting on black, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why does nickel matter? Iron meteorites carry between five and thirty-five percent nickel. Iron smelted from Earth's ores before the nineteenth century almost never tops four percent. Eleven is not a close call."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why does nickel matter? Iron meteorites carry between five and thirty-five percent nickel. Iron smelted from Earth's ores before the nineteenth century almost never tops four percent. Eleven is not a close call.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 15.096
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A large dark pitted iron meteorite resting on a museum pedestal under spotlights, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the cobalt matches: seventy-six iron meteorites with similar nickel average point five seven percent cobalt. The blade sits right in the middle of the pack."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the cobalt matches: seventy-six iron meteorites with similar nickel average point five seven percent cobalt. The blade sits right in the middle of the pack.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 11.544
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Japanese scientists in a museum lab scanning an ancient blade with a scanning X-ray instrument on a motorized stage, monitors glowing, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then a second team checked independently. In twenty twenty, Japanese researchers led by Takafumi Matsui scanned the whole blade in Cairo. They found nearly twelve percent nickel. Confirmed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then a second team checked independently. In twenty twenty, Japanese researchers led by Takafumi Matsui scanned the whole blade in Cairo. They found nearly twelve percent nickel. Confirmed.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "sand",
+  "motion": "right",
+  "prompt": "Small ancient rolled metal tube beads strung with semi-precious stones on a dark background, rusty brown iron beads, museum photo, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And it fits a pattern. Egypt's oldest iron, beads from Gerzeh, about five thousand two hundred years old, are hammered meteorite iron too. So is every Bronze Age iron object tested in a twenty seventeen survey."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And it fits a pattern. Egypt's oldest iron, beads from Gerzeh, about five thousand two hundred years old, are hammered meteorite iron too. So is every Bronze Age iron object tested in a twenty seventeen survey.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 15.384
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "Silhouette of a pharaoh statue against a vast starry night sky with the Milky Way, cinematic, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the alien claim gets its one true sentence here. Yes, this metal is extraterrestrial. But hold on to the word. It describes the rock. It says nothing yet about the hands."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the alien claim gets its one true sentence here. Yes, this metal is extraterrestrial. But hold on to the word. It describes the rock. It says nothing yet about the hands.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 12.456
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An iron-nickel asteroid tumbling through dark space with the faint glow of the Sun behind it, realistic space art, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question three: where did you fall from? Iron meteorites are pieces of the metal cores of small worlds that broke apart early in the solar system, more than four billion years ago."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "QUESTION 3",
+   "Where did you fall from?",
+   "FROM CORE TO DESERT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question three: where did you fall from? Iron meteorites are pieces of the metal cores of small worlds that broke apart early in the solar system, more than four billion years ago.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A fiery meteor entering the atmosphere over a vast North African desert at dawn, glowing trail, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some of those fragments cross Earth's orbit. Most burn away. A few chunks of iron survive the fall and land, heavy and black, in places like the Egyptian desert."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some of those fragments cross Earth's orbit. Most burn away. A few chunks of iron survive the fall and land, heavy and black, in places like the Egyptian desert.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 11.328
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small dark iron meteorite lying on a flat pale limestone desert plateau, harsh sunlight, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Comelli's team searched the meteorite records for the region. Twenty iron meteorites were known. Only one came within ten percent of the blade's nickel and cobalt: a one-kilo stone called Kharga, found in the year two thousand."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Comelli's team searched the meteorite records for the region. Twenty iron meteorites were known. Only one came within ten percent of the blade's nickel and cobalt: a one-kilo stone called Kharga, found in the year two thousand.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 16.272
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A wide view of a desert coastline in northwest Egypt with pale limestone ground meeting a turquoise sea, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Kharga was found west of Alexandria, near Mersa Matruh. A suspect, not a conviction. Many meteorites fell and were never catalogued, and one match in chemistry is not a fingerprint."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Kharga was found west of Alexandria, near Mersa Matruh. A suspect, not a conviction. Many meteorites fell and were never catalogued, and one match in chemistry is not a fingerprint.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 13.008
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro of an etched iron meteorite surface showing a sharp crisscross pattern of metallic crystal bands, raking light, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Matsui's scans added a second clue. Mapping the nickel revealed faint bands crossing at angles, about a millimetre wide. That is the Widmanst\u00e4tten pattern, which forms only as metal cools over millions of years inside an asteroid."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Matsui's scans added a second clue. Mapping the nickel revealed faint bands crossing at angles, about a millimetre wide. That is the Widmanst\u00e4tten pattern, which forms only as metal cools over millions of years inside an asteroid.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 17.328
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A collection of etched iron meteorite slices on a black table, each with a crisscross pattern, museum lighting, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The bands told them the type of meteorite: an octahedrite, the most common kind of iron meteorite. Nothing exotic. Just the ordinary kind of space iron."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The bands told them the type of meteorite: an octahedrite, the most common kind of iron meteorite. Nothing exotic. Just the ordinary kind of space iron.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "sand",
+  "motion": "out",
+  "prompt": "Ancient Egyptian travellers in linen clothing walking across a desert plain at sunrise, one carrying a heavy dark rock wrapped in cloth, historical reconstruction, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the witness's story so far: born in a shattered asteroid, fallen into a desert, picked up by someone who knew this black, heavy stone was something special."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the witness's story so far: born in a shattered asteroid, fallen into a desert, picked up by someone who knew this black, heavy stone was something special.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An ancient blacksmith hammering a glowing orange piece of metal on a stone anvil in a dark Bronze Age workshop, sparks, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question four: how were you made? This is where the alien theory makes its boldest move. Iron basically did not exist, documentaries ask. This metal was not mined by man. So who forged it?"
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "QUESTION 4",
+   "How were you made?",
+   "FORGED OR CAST?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question four: how were you made? This is where the alien theory makes its boldest move. Iron basically did not exist, documentaries ask. This metal was not mined by man. So who forged it?",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dark television studio set with a single spotlight on an empty chair and moody blue light, cinematic, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Those lines are real, quoted from an Ancient Aliens episode and another documentary. And taken alone, they are not false. The trick, as historian Candida Moss pointed out, is in blurring two questions."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Those lines are real, quoted from an Ancient Aliens episode and another documentary. And taken alone, they are not false. The trick, as historian Candida Moss pointed out, is in blurring two questions.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 14.496
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Split image concept: on one side a raw dark iron meteorite, on the other side a finished polished dagger blade, both on black, studio light, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Where did the metal come from? Space. Who made the dagger? That is a separate question. A meteorite is raw material, like gold dug from a river. Someone still has to shape it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Where did the metal come from? Space. Who made the dagger? That is a separate question. A meteorite is raw material, like gold dug from a river. Someone still has to shape it.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 11.4
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a polished iron blade surface with very fine scratches running along its length and a few small dark pitted spots, macro photograph, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the blade tells us how. Matsui's team listed the options: cold cutting, melting and casting, or heating and hammering. Casting would erase the crystal bands. But the bands survived."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the blade tells us how. Matsui's team listed the options: cold cutting, melting and casting, or heating and hammering. Casting would erase the crystal bands. But the bands survived.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro photograph of small dark bubbly pitted spots on a grey metal surface, scientific close-up, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The dark, bubbly spots are the remains of troilite, an iron sulphide found in meteorites. They lost most of their sulphur, which takes roughly seven hundred degrees. But they never melted into the metal, which happens near nine hundred and fifty."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The dark, bubbly spots are the remains of troilite, an iron sulphide found in meteorites. They lost most of their sulphur, which takes roughly seven hundred degrees. But they never melted into the metal, which happens near nine hundred and fifty.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 16.512
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "right",
+  "prompt": "A Bronze Age smith using a clay tuyere and bellows to heat a dark metal bar in a charcoal fire to a dull red glow, workshop, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the smith worked in a window: hot enough to soften the iron, never hot enough to melt it. Heat, hammer, repeat. Low-temperature forging, below about nine hundred and fifty degrees."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the smith worked in a window: hot enough to soften the iron, never hot enough to melt it. Heat, hammer, repeat. Low-temperature forging, below about nine hundred and fifty degrees.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 12.36
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A modern Japanese swordsmith examining a long blade with a subtle crisscross metallic pattern in a traditional forge, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "We know that works, because people have done it. Japanese smiths forged a sword from the Gibeon meteorite, and it kept the same crystal pattern and the same black cracks from troilite."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "We know that works, because people have done it. Japanese smiths forged a sword from the Gibeon meteorite, and it kept the same crystal pattern and the same black cracks from troilite.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An ancient smith's hands holding a finished slim grey blade up to the light of a fire, admiring it, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No laser. No impossible alloy. A skilled human smith, hammering stubborn meteorite iron into a blade two millimetres thick. Comelli called it evidence of early, successful iron smithing."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No laser. No impossible alloy. A skilled human smith, hammering stubborn meteorite iron into a blade two millimetres thick. Comelli called it evidence of early, successful iron smithing.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A pristine silvery dagger glowing faintly in a dark tomb, mysterious light rays, fantasy cinematic, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question five: why haven't you rusted? This is the claim that sounds most like magic: thirty-three centuries in a tomb, and the blade still shines."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "QUESTION 5",
+   "Why haven't you rusted?",
+   "THE 'MAGIC METAL' CLAIM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question five: why haven't you rusted? This is the claim that sounds most like magic: thirty-three centuries in a tomb, and the blade still shines.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.744
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of an iron blade with a long thin winding dark crack and scattered small black corrosion spots on a grey polished surface, macro, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First, look closer. It is not spotless. There is a winding crack about five centimetres long, and dark spots along the edges and the middle. Those spots contain chlorine: a classic product of iron corrosion."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First, look closer. It is not spotless. There is a winding crack about five centimetres long, and dark spots along the edges and the middle. Those spots contain chlorine: a classic product of iron corrosion.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A comparison of two 1920s style black and white photographs of the same dagger laid side by side on a table, archival look, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Matsui compared it with Harry Burton's photo from nineteen twenty-five. The dark spots sit in the same places. The blade has not got worse since discovery, but it was already marked when it went into the tomb."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Matsui compared it with Harry Burton's photo from nineteen twenty-five. The dark spots sit in the same places. The blade has not got worse since discovery, but it was already marked when it went into the tomb.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 14.088
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A rusty corroded ancient iron dagger blade, heavily oxidized orange-brown, on a museum shelf, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Second, chemistry. Iron with around eleven percent nickel resists corrosion far better than plain iron. Metallurgists use nickel today for exactly that reason. Compare the ancient dagger from Alaca H\u00f6y\u00fck in Turkey, also meteoritic, and badly corroded."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second, chemistry. Iron with around eleven percent nickel resists corrosion far better than plain iron. Metallurgists use nickel today for exactly that reason. Compare the ancient dagger from Alaca H\u00f6y\u00fck in Turkey, also meteoritic, and badly corroded.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 18.456
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A sealed dry Egyptian tomb chamber with dust in the air and a golden shrine, still air, warm light, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Third, location. Tutankhamun's tomb is in one of the driest places on Earth, and the blade spent its time sealed in resins, linen and darkness. Rust needs water and oxygen. Here, it got very little of either."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Third, location. Tutankhamun's tomb is in one of the driest places on Earth, and the blade spent its time sealed in resins, linen and darkness. Rust needs water and oxygen. Here, it got very little of either.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 15.696
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A gold-covered mummy case in a dim tomb with a faint glint of metal on linen, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nickel-rich metal, a dry sealed tomb, and a few rust spots after all. The miracle blade turns out to be a very well kept one."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nickel-rich metal, a dry sealed tomb, and a few rust spots after all. The miracle blade turns out to be a very well kept one.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 8.784
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A museum conservator wearing gloves gently placing an ancient dagger into a padded case, soft clean lighting, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Our witness has now explained its origin, its metal and its shine. The next two questions are harder. Even the experts still argue about them."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Our witness has now explained its origin, its metal and its shine. The next two questions are harder. Even the experts still argue about them.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 9.864
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Clay cuneiform tablets lying on a wooden table in warm lamplight, surfaces seen at a raking angle so that the marks are soft and unreadable, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question six: who sent you? In the eighteen eighties, villagers at Amarna found the diplomatic archive of the pharaohs: hundreds of clay letters written in cuneiform."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "QUESTION 6",
+   "Who sent you?",
+   "A GIFT FROM MITANNI?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question six: who sent you? In the eighteen eighties, villagers at Amarna found the diplomatic archive of the pharaohs: hundreds of clay letters written in cuneiform.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 11.64
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A historical reconstruction of a Bronze Age Near Eastern king in rich robes seated on a throne, bearded, warm lamplight, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Among them are gift lists from Tushratta, king of Mitanni, a powerful kingdom in what is now Syria and southern Turkey. He was sending his daughter Taduhepa to marry Amenhotep the Third, probably Tutankhamun's grandfather."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Among them are gift lists from Tushratta, king of Mitanni, a powerful kingdom in what is now Syria and southern Turkey. He was sending his daughter Taduhepa to marry Amenhotep the Third, probably Tutankhamun's grandfather.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 16.416
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A royal Bronze Age caravan of servants carrying ornate gift chests and jars across a plain toward a distant Egyptian palace, golden light, historical reconstruction, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And in letter twenty-two, among the treasures, the scribes list a dagger whose blade is of iron, its guard of gold, with designs. A few lines later, another iron dagger, with lapis lazuli."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And in letter twenty-two, among the treasures, the scribes list a dagger whose blade is of iron, its guard of gold, with designs. A few lines later, another iron dagger, with lapis lazuli.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An ancient Egyptian pharaoh in a palace receiving gifts from foreign envoys bowing before him, painted columns without writing, historical reconstruction, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Iron-bladed daggers, sent as royal presents to Tutankhamun's family, a generation before he was buried. That is the strongest written clue to where our witness came from."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Iron-bladed daggers, sent as royal presents to Tutankhamun's family, a generation before he was buried. That is the strongest written clue to where our witness came from.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 12.24
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Extreme macro of tiny gold granules and a white chalky residue between inlaid stones on an ancient gold surface, scientific photograph, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Matsui's team found a chemical clue too. The gold hilt contains a few percent calcium without sulphur. They read that as lime plaster used to glue the decorations, a material common in Mitanni but not used in Egypt until a thousand years later."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Matsui's team found a chemical clue too. The gold hilt contains a few percent calcium without sulphur. They read that as lime plaster used to glue the decorations, a material common in Mitanni but not used in Egypt until a thousand years later.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 17.616
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two scholars in a library arguing over an open book and a photograph of an ancient dagger, warm lamplight, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But this is where the experts disagree. A published reply argued the calcium may be a measurement artefact, since it also shows up on the blade and other objects. And none of the letter's descriptions fits our dagger exactly. One has a haft of ebony."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But this is where the experts disagree. A published reply argued the calcium may be a measurement artefact, since it also shows up on the blade and other objects. And none of the letter's descriptions fits our dagger exactly. One has a haft of ebony.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 16.56
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An ancient Egyptian royal workshop with goldsmiths working at low benches on fine jewellery, warm light, historical reconstruction, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The team behind the book Iron from Tutankhamun's Tomb notes the pommel resembles Aegean work, while the dagger type is Egyptian. Their conclusion: a reliable answer on who made it is currently impossible."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The team behind the book Iron from Tutankhamun's Tomb notes the pommel resembles Aegean work, while the dagger type is Egyptian. Their conclusion: a reliable answer on who made it is currently impossible.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 14.856
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A gold and iron dagger lying on a map-like stretch of sand with distant mountains, symbolic, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the honest answer to question six is a shrug with evidence on both sides. A Mitanni gift is plausible. Egyptian craftsmen are not ruled out. But notice who is on the list of suspects: kings and smiths. Nobody from orbit."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the honest answer to question six is a shrug with evidence on both sides. A Mitanni gift is plausible. Egyptian craftsmen are not ruled out. But notice who is on the list of suspects: kings and smiths. Nobody from orbit.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 16.224
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A young Egyptian pharaoh's golden burial mask glowing softly in a dark museum display, side view, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question seven: why bury you with a king? Because in the fourteenth century BCE, iron was not a weapon metal. It was a treasure, rarer than gold and reserved for ritual, ornament and royal gifts."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "QUESTION 7",
+   "Why bury you with a king?",
+   "IRON OF THE SKY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question seven: why bury you with a king? Because in the fourteenth century BCE, iron was not a weapon metal. It was a treasure, rarer than gold and reserved for ritual, ornament and royal gifts.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Ancient Egyptians on a rooftop at night pointing up at a bright falling star over the Nile, historical reconstruction, cinematic, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Did the Egyptians know it fell from the sky? A generation or so after Tutankhamun, a new Egyptian word for iron appears, usually translated as iron of the sky. The Hittites spoke of black iron of heaven."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Did the Egyptians know it fell from the sky? A generation or so after Tutankhamun, a new Egyptian word for iron appears, usually translated as iron of the sky. The Hittites spoke of black iron of heaven.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 15.84
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient Egyptian priests in white linen performing a ritual with small metal tools before a mummy case in a torch-lit tomb, historical reconstruction, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The small iron blades from the tomb look like the tools of the Opening of the Mouth, the ritual that restored the dead king's senses. Ancient temple lists connect those tools with iron and with stars."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The small iron blades from the tomb look like the tools of the Opening of the Mouth, the ritual that restored the dead king's senses. Ancient temple lists connect those tools with iron and with stars.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "The northern night sky over the Egyptian desert with circumpolar stars circling, long exposure star trails, cinematic, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For a culture that pictured its kings joining the stars, a blade forged from star-iron was not a weapon. It was a statement about where the king was going."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For a culture that pictured its kings joining the stars, a blade forged from star-iron was not a weapon. It was a statement about where the king was going.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a gold-hilted dagger resting on the linen-wrapped thigh of a mummy, soft gold light, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Placed on the right thigh, inside the wrappings, it was one of the most precious objects a pharaoh could take with him. Not a curiosity. A crown jewel of metal."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Placed on the right thigh, inside the wrappings, it was one of the most precious objects a pharaoh could take with him. Not a curiosity. A crown jewel of metal.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A massive dark iron meteorite displayed in a modern museum hall with visitors looking at it, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And this idea was not unique to Egypt. From the Shang dynasty in China to the Inuit of Greenland, people across history worked meteorite iron. Space iron was humanity's first iron."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And this idea was not unique to Egypt. From the Shang dynasty in China to the Inuit of Greenland, people across history worked meteorite iron. Space iron was humanity's first iron.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A single ancient dagger lying on a dark table under a hanging lamp, the lamp swinging slightly, film noir, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seven questions. Seven answers. Time to read back the witness's statement."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seven questions. Seven answers. Time to read back the witness's statement.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 5.04
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "A dark moody interrogation room, a single hanging lamp lighting the right edge of a bare metal table, large empty shadowed space on the left, cinematic film still, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The statement. Let's score what our witness told us."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "THE STATEMENT",
+   "Evidence vs Theory",
+   "SEVEN ANSWERS, SCORED"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The statement. Let's score what our witness told us.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 2.88
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "A dark moody interrogation room, a single hanging lamp lighting the right edge of a bare metal table, large empty shadowed space on the left, cinematic film still, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Meteoritic iron, with eleven percent nickel and cobalt to match: evidence. Crystal bands showing low-temperature forging by human smiths: evidence. Every tested Bronze Age iron is meteoritic: evidence. Iron daggers listed as royal gifts in the Amarna letters: evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Meteoritic iron, with eleven percent nickel and cobalt to match: evidence. Crystal bands showing low-temperature forging by human smiths: evidence. Every tested Bronze Age iron is meteoritic: evidence. Iron daggers listed as royal gifts in the Amarna letters: evidence.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 19.68
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "A dark moody interrogation room, a single hanging lamp lighting the right edge of a bare metal table, large empty shadowed space on the left, cinematic film still, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Alien makers or impossible metal: no evidence. The never-rusting blade: debunked, it has rust spots and good reasons. Who forged it, and which meteorite it was: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Alien makers or impossible metal: no evidence. The never-rusting blade: debunked, it has rust spots and good reasons. Who forged it, and which meteorite it was: still open.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A sunrise over the Valley of the Kings with golden light on the cliffs, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Tutankhamun's dagger really is made from a meteorite. The metal came from space. The dagger did not. Human smiths, probably in the fourteenth century BCE, forged it at low heat into a royal masterpiece."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Tutankhamun's dagger really is made from a meteorite. The metal came from space. The dagger did not. Human smiths, probably in the fourteenth century BCE, forged it at low heat into a royal masterpiece.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 16.008
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a bronze age smith's weathered hands holding a hammer over a dark iron bar on an anvil, warm firelight, photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What stays open is smaller and more human: whose workshop made it, whether it came from Mitanni as a wedding gift, and which desert stone it was cut from."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What stays open is smaller and more human: whose workshop made it, whether it came from Mitanni as a wedding gift, and which desert stone it was cut from.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A silhouette of the pyramids under a sky full of stars with a single meteor streak, cinematic photoreal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ancient people looked up, saw iron falling from the sky, and turned it into treasure. That is not proof of visitors. It is proof of how closely they were watching."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ancient people looked up, saw iron falling from the sky, and turned it into treasure. That is not proof of visitors. It is proof of how closely they were watching.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 10.344
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, an ancient Egyptian dagger with a slim double-edged dull silvery-grey iron blade, a gold hilt decorated with bands of tiny gold granules and inlaid blue and red stones, and a clear rock crystal pommel faintly glowing in the center against black, minimal, no text, no letters, no numbers, no writing, no hieroglyphs, no inscriptions, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which answer surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which answer surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 7.44
+   }
+  ]
+ }
+]
