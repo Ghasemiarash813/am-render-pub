@@ -1,0 +1,1449 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide cinematic photo of a huge smooth flat square recess about seven metres tall cut into a reddish-brown sandstone cliff, a smaller doorway-shaped niche at the bottom centre about two metres tall, two tall vertical grooves flanking it, on the high Andean plateau near Lake Titicaca, golden morning light, tiny human figure for scale, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "High in the Andes, near the shore of Lake Titicaca, a wall of red rock has been cut into the shape of a door. Seven metres tall. Seven metres wide. And it opens onto nothing but solid stone."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "High in the Andes, near the shore of Lake Titicaca, a wall of red rock has been cut into the shape of a door. Seven metres tall. Seven metres wide. And it opens onto nothing but solid stone.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of a doorway-shaped niche carved into reddish sandstone at the base of a cliff, a small round hollow in the back wall, soft blue mysterious glow, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They call it the Gate of the Gods. Aramu Muru. A portal, people say, that an ancient priest once opened with a golden disk, and walked through, never to return."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They call it the Gate of the Gods. Aramu Muru. A portal, people say, that an ancient priest once opened with a golden disk, and walked through, never to return.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 10.944
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction concept art, a carved stone doorway in a red Andean cliff at night with a swirling blue portal of light inside, stars above, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A stargate. An interdimensional door. A relic of a lost civilization. You have probably seen the clips."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A stargate. An interdimensional door. A relic of a lost civilization. You have probably seen the clips.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 7.032
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An old analog cassette tape deck with a tape spinning in rewind, warm dramatic light, macro photo, close-up of spinning reels, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we try something different. We do not start at the beginning. We start now, and press rewind."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we try something different. We do not start at the beginning. We start now, and press rewind.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 6.312
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Dramatic aerial view of reddish eroded rock crests on a grassy high plateau with a deep blue lake in the distance, snow peaks on the horizon, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Decade by decade, century by century, we roll the story backwards, and watch for the exact moment the portal appears. Then we score the evidence and give a verdict."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Decade by decade, century by century, we roll the story backwards, and watch for the exact moment the portal appears. Then we score the evidence and give a verdict.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A smartphone lying on a dark wooden table showing a blurred photo of a red rock with a carved door shape, screen glow, shallow depth of field, blank interface, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter one. Twenty twenty-five. A post on X goes viral, and the tabloids follow: a mysterious gate cut into a Peruvian mountain that could reveal a long-lost advanced civilization."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "\u25c0\u25c0 2025",
+   "The Viral Door",
+   "POSTS \u00b7 TABLOIDS \u00b7 TV"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter one. Twenty twenty-five. A post on X goes viral, and the tabloids follow: a mysterious gate cut into a Peruvian mountain that could reveal a long-lost advanced civilization.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 13.08
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A television in a dark living room glowing with a documentary scene of a stone doorway in the mountains, viewer silhouette on a sofa, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Television had already been there. On Ancient Aliens, one presenter called it a gateway that doesn't go anywhere. Another suggested the sun disk might have had an extraterrestrial connection, a technological device with which to travel."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Television had already been there. On Ancient Aliens, one presenter called it a gateway that doesn't go anywhere. Another suggested the sun disk might have had an extraterrestrial connection, a technological device with which to travel.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 15.12
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Tourists in colourful jackets pressing their palms against a reddish carved rock niche, eyes closed, meditating, high Andes, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Visitors arrive by the busload. They kneel in the niche, press their foreheads to the stone, and report vibrations, visions, music, tunnels of light."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Visitors arrive by the busload. They kneel in the niche, press their foreheads to the stone, and report vibrations, visions, music, tunnels of light.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 9.984
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Scientist holding a handheld electronic field meter near a carved red rock wall in the Andes, overcast light, documentary photoreal, blank meter screen, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But even the same article that sold the mystery admits the key point: no unusual electromagnetic fields, no radiation, no geological anomaly has ever been measured there. Just carved rock."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But even the same article that sold the mystery admits the key point: no unusual electromagnetic fields, no radiation, no geological anomaly has ever been measured there. Just carved rock.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 14.568
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Stack of printed newspapers on a desk with blurred illegible columns and a photo of a stone door, side light, shallow depth of field, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And notice how the facts wobble as they travel. One Argentine paper, repeating the same post, said the gate was found in nineteen sixty-six. A typo, for nineteen ninety-six. The dates are already slipping."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And notice how the facts wobble as they travel. One Argentine paper, repeating the same post, said the gate was found in nineteen sixty-six. A typo, for nineteen ninety-six. The dates are already slipping.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 14.904
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small Andean village of adobe houses with tin roofs on a grassy plateau, women in traditional bowler hats and shawls walking, Lake Titicaca behind, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What the clips rarely mention: the site sits on the land of an Aymara community, Mulla Contihueco, more than three thousand eight hundred metres up, and it was sacred to them long before it went viral."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What the clips rarely mention: the site sits on the land of an Aymara community, Mulla Contihueco, more than three thousand eight hundred metres up, and it was sacred to them long before it went viral.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Rewinding cassette tape reels spinning fast, motion blur, warm light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the internet says ancient mystery. Let's rewind, to the year the outside world first heard of it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the internet says ancient mystery. Let's rewind, to the year the outside world first heard of it.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 6.624
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A lone Andean mountain guide with a backpack seen from behind walking through red rock formations on the altiplano, late afternoon, 1990s film photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter two. Nineteen ninety-six. A story spreads on the early web: a local mountain guide, Jos\u00e9 Luis Delgado Mamani, has stumbled on a huge carved door while hiking the hills of Hayu Marca."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "\u25c0\u25c0 1996",
+   "The Guide's Dream",
+   "A WEB ARTICLE \u00b7 A DREAM \u00b7 A LEGEND"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter two. Nineteen ninety-six. A story spreads on the early web: a local mountain guide, Jos\u00e9 Luis Delgado Mamani, has stumbled on a huge carved door while hiking the hills of Hayu Marca.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 14.832
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Dreamlike image of a path paved with pink stone leading to a carved doorway glowing with brilliant blue light, soft focus, surreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His words became famous. When I saw it, I almost passed out. I had dreamed of it for years: a path of pink marble, the small door open, and a brilliant blue light from a shimmering tunnel."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His words became famous. When I saw it, I almost passed out. I had dreamed of it for years: a path of pink marble, the small door open, and a brilliant blue light from a shimmering tunnel.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Vintage 1990s desktop computer monitor in a dim room showing a blurry webpage with a photo of a red rock, CRT glow, no readable text, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That nineteen ninety-six article goes further. It says he alerted archaeologists in Puno, La Paz and Lima, and the site was soon besieged by experts. We could find no report from any of them."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That nineteen ninety-six article goes further. It says he alerted archaeologists in Puno, La Paz and Lima, and the site was soon besieged by experts. We could find no report from any of them.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 14.376
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Red sandstone cliff with a carved square recess, viewed from a distance across grassland, a few people near its base, 1990s film photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then it adds a local legend: heroes who passed through a gateway to join the gods, and an Inca priest named Aramu Maru, of the temple of the seven rays, carrying a golden disk called the key of the gods of the seven rays."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then it adds a local legend: heroes who passed through a gateway to join the gods, and an Inca priest named Aramu Maru, of the temple of the seven rays, carrying a golden disk called the key of the gods of the seven rays.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 15.6
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeologist's hand touching a carved rock surface showing it is one continuous piece of stone, raking light, macro photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even that article admits the professional opinion: there is no actual door. The frame, the entrance and the back of the niche are all carved from the same rock."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even that article admits the professional opinion: there is no actual door. The frame, the entrance and the back of the niche are all carved from the same rock.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 10.704
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cozy small hotel lobby in a highland Peruvian town with woven textiles and a wooden desk, warm lamp light, empty, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now look closer at the discoverer. Visitors who knew him call him Jorge Luis Delgado, a tour operator who ran a hotel in nearby Chucuito."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now look closer at the discoverer. Visitors who knew him call him Jorge Luis Delgado, a tour operator who ran a hotel in nearby Chucuito.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 10.656
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An old worn paperback book lying closed on a woven Andean textile, plain blank cover, warm window light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In a nineteen ninety-nine travel article he explained his search. Years earlier he had read a book called Secret of the Andes, and spent about nineteen years looking for its hidden monastery. He dreamed of pink stones. A shaman told him to follow the energy."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In a nineteen ninety-nine travel article he explained his search. Years earlier he had read a book called Secret of the Andes, and spent about nineteen years looking for its hidden monastery. He dreamed of pink stones. A shaman told him to follow the energy.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 16.944
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Group of foreign pilgrims in white clothing standing before a carved rock niche at sunset in the Andes, 1990s film look, from behind, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the dates do not hold still either. He told that writer he had permission to bring pilgrims to the gate from nineteen ninety-two. Another writer describes his own expeditions there from ninety-five. Wikipedia just says, the early nineteen nineties."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the dates do not hold still either. He told that writer he had permission to bring pilgrims to the gate from nineteen ninety-two. Another writer describes his own expeditions there from ninety-five. Wikipedia just says, the early nineteen nineties.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 16.536
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Aymara elder in a woven poncho standing quietly near red rocks on the altiplano, respectful documentary portrait from a distance, soft light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And for the people who lived there, nothing was discovered at all. They already had names for it: Willka Uta, and Ajayu Marka, the city of spirits."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And for the people who lived there, nothing was discovered at all. They already had names for it: Willka Uta, and Ajayu Marka, the city of spirits.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 9.744
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cassette reels rewinding, a glowing pink and blue light reflecting on the tape, close-up, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the guide brought the outside world. But the name Aramu Muru, the monastery, the disk? Those came from that book. Rewind again."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the guide brought the outside world. But the name Aramu Muru, the monastery, the disk? Those came from that book. Rewind again.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 9.624
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1950s-style writer's desk at night with a typewriter, a pile of blank paper and a desk lamp, a man seen from behind, film noir photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter three. Nineteen sixty-one. A book appears: Secret of the Andes, by a mysterious Brother Philip."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "\u25c0\u25c0 1961",
+   "The Book",
+   "A CONTACTEE \u00b7 LEMURIA \u00b7 A GOLDEN DISC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter three. Nineteen sixty-one. A book appears: Secret of the Andes, by a mysterious Brother Philip.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 6.936
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1950s desert at dusk with a few men in hats standing near a car looking toward a distant hill, vintage photo look, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Brother Philip was a pen name. The author was George Hunt Williamson, an American flying saucer contactee, one of the witnesses of George Adamski's claimed meeting with a man from Venus in the California desert in nineteen fifty-two."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Brother Philip was a pen name. The author was George Hunt Williamson, an American flying saucer contactee, one of the witnesses of George Adamski's claimed meeting with a man from Venus in the California desert in nineteen fifty-two.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 16.224
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A Ouija-style talking board with a wooden planchette on a dark table, candle light, mysterious, blank board with no letters, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Williamson took messages from space brothers with a home-made Ouija board. He was expelled from university in nineteen fifty-one and had no degree, yet he called himself doctor."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Williamson took messages from space brothers with a home-made Ouija board. He was expelled from university in nineteen fifty-one and had no degree, yet he called himself doctor.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Fantasy concept art of a sinking island civilization in the Pacific Ocean with temples under a stormy sky, ancient sage escaping in a silver needle-shaped airship, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His book tells of Lemuria, a sinking continent in the Pacific, and of Lord Aramu Muru, a sage who flew to Lake Titicaca in a silver needle airship, carrying sacred scrolls and the Golden Sun Disc of Mu."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His book tells of Lemuria, a sinking continent in the Pacific, and of Lord Aramu Muru, a sage who flew to Lake Titicaca in a silver needle airship, carrying sacred scrolls and the Golden Sun Disc of Mu.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 15.408
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Hidden misty mountain valley with a secret stone monastery near a high Andean lake, mystical, painterly, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There, the book says, he founded the Monastery of the Brotherhood of the Seven Rays, in a hidden valley on the Peruvian side of the lake. The disc was later lent to the Inca at their Sun Temple in Cusco."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There, the book says, he founded the Monastery of the Brotherhood of the Seven Rays, in a hidden valley on the Peruvian side of the lake. The disc was later lent to the Inca at their Sun Temple in Cusco.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 13.56
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Old open book with blurred illegible pages on a desk beside a magnifying glass, sepia light, no readable text, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lemuria itself is a nineteenth-century idea, born in Theosophy, with no support from geology or archaeology. And here is the twist: according to a contactee writer who knew Delgado, the book never even mentions the stone door at Hayu Marca."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lemuria itself is a nineteenth-century idea, born in Theosophy, with no support from geology or archaeology. And here is the twist: according to a contactee writer who knew Delgado, the book never even mentions the stone door at Hayu Marca.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 18.648
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Map-like aerial view of Lake Titicaca with tiny islands and shoreline, hazy, photoreal satellite style, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the seven rays, the monastery, the golden disc and the name Aramu Muru all trace back to one American contactee's channelled book. A book about a different place."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the seven rays, the monastery, the golden disc and the name Aramu Muru all trace back to one American contactee's channelled book. A book about a different place.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 11.784
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A carved rock niche in the Andes with a small round hollow, a golden disk hovering in front of it in soft light, mystical concept image, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Over the following decades, readers went looking for that monastery around the lake. When a striking carved door turned up, the book's hero was waiting for it. Name and place fused."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Over the following decades, readers went looking for that monastery around the lake. When a striking carved door turned up, the book's hero was waiting for it. Name and place fused.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cassette reels rewinding fast, golden light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the story we heard says the priest fled the Spanish conquest. So let's rewind four hundred years, and check."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the story we heard says the priest fled the Spanish conquest. So let's rewind four hundred years, and check.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 7.344
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Reconstruction of a sixteenth century Inca sun temple in Cusco with walls covered in sheets of gold, Spanish conquistadors in armour entering, dramatic light, painterly photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter four. The fifteen thirties. Part of the legend is real history. In fifteen thirty-three Spanish conquistadors stripped the gold from the Coricancha, the Sun Temple of Cusco."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "\u25c0\u25c0 1530s",
+   "The Golden Disk",
+   "CONQUEST \u00b7 A PRIEST \u00b7 A KEYHOLE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter four. The fifteen thirties. Part of the legend is real history. In fifteen thirty-three Spanish conquistadors stripped the gold from the Coricancha, the Sun Temple of Cusco.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Inca priest in ceremonial robes walking alone across a windswept high plateau at dusk holding a bundle wrapped in cloth, painterly cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The popular tale: a priest named Aramu Muru escapes south with a golden sun disk, reaches the door at Hayu Marca, places the disk in a small hollow, and the rock opens in blue light."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The popular tale: a priest named Aramu Muru escapes south with a golden sun disk, reaches the door at Hayu Marca, places the disk in a small hollow, and the rock opens in blue light.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Sixteenth century style leather-bound chronicle books stacked on a wooden table, blank closed covers, candle light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the Spanish chroniclers recorded Andean priests, temples and treasures in great detail. No chronicle names a priest called Aramu Muru. Even a writer who believes the door is a portal calls that priest story false."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the Spanish chroniclers recorded Andean priests, temples and treasures in great detail. No chronicle names a priest called Aramu Muru. Even a writer who believes the door is a portal calls that priest story false.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 15.408
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a small round hollow carved in the back of a sandstone niche, raking light, macro photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The keyhole is real. There is a small round depression inside the niche. Pilgrims press a disk, a hand, or their forehead into it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The keyhole is real. There is a small round depression inside the niche. Pilgrims press a disk, a hand, or their forehead into it.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 8.544
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Andean shaman in a woven poncho kneeling at a rock niche, offering coca leaves on a cloth, respectful documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some local healers told one visitor that a green stone, umi\u00f1a, once sat there. Others simply say the human body is the key. These are living beliefs, and they deserve respect, but they are not evidence of a machine."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some local healers told one visitor that a green stone, umi\u00f1a, once sat there. Others simply say the human body is the key. These are living beliefs, and they deserve respect, but they are not evidence of a machine.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Anthropologist at a desk with stacks of books and a laptop with a blank screen, Andean textiles on the wall, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Archaeologist Charles Stanish, a leading expert on Lake Titicaca, quotes this very legend from a website, and files it where it belongs: in the alternative literature, not in the historical record."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Archaeologist Charles Stanish, a leading expert on Lake Titicaca, quotes this very legend from a website, and files it where it belongs: in the alternative literature, not in the historical record.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cassette reels rewinding, the light turning from gold to warm red stone colour, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the priest and the disk are modern. Rewind another century, and look at the rock itself, through Andean eyes."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the priest and the disk are modern. Rewind another century, and look at the rock itself, through Andean eyes.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 7.392
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Reconstruction of a fifteenth century Aymara lakeside town on Lake Titicaca with stone houses, reed boats, llamas and people in traditional dress, painterly photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter five. The fourteen hundreds. This shore was the heartland of the Lupaqa, an Aymara-speaking kingdom ruled from Chucuito, absorbed by the Inca in the fifteenth century."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "\u25c0\u25c0 1400s",
+   "The Shrine",
+   "LUPAQA \u00b7 INCA \u00b7 HUACAS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter five. The fourteen hundreds. This shore was the heartland of the Lupaqa, an Aymara-speaking kingdom ruled from Chucuito, absorbed by the Inca in the fifteenth century.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 13.056
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A sacred natural rock outcrop in the Andes with small offerings of coca leaves and flowers at its base, mountains behind, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For Andean peoples, the landscape itself was alive. Mountains, springs, caves and unusual rocks could be huacas, sacred places where the powers of the world were near, and received offerings."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For Andean peoples, the landscape itself was alive. Mountains, springs, caves and unusual rocks could be huacas, sacred places where the powers of the world were near, and received offerings.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 13.536
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Inca stone wall with a row of trapezoidal niches, fine masonry, soft light, Cusco region, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Inca loved one shape above all: the trapezoid. Doors, windows and niches lean inward, narrower at the top. Niches held offerings and sacred objects."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Inca loved one shape above all: the trapezoid. Doors, windows and niches lean inward, narrower at the top. Niches held offerings and sacred objects.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A trapezoidal false door and niches carved directly into living rock inside a shallow cave temple in the Andes, mossy, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And they built false doors. At the Temple of the Moon near Machu Picchu, niches and fake doors are cut into living rock. Doors that were never meant to be walked through."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And they built false doors. At the Temple of the Moon near Machu Picchu, niches and fake doors are cut into living rock. Doors that were never meant to be walked through.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Front view of a huge smooth flat square recess about seven metres tall cut into a reddish-brown sandstone cliff, a smaller doorway-shaped niche at the bottom centre about two metres tall, two tall vertical grooves flanking it, the small niche showing slightly sloping sides, overcast high-altitude light, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look at Hayu Marca again with that in mind. A great smoothed panel. A smaller niche at its foot, the height of a person, where you stand or kneel facing the rock."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look at Hayu Marca again with that in mind. A great smoothed panel. A smaller niche at its foot, the height of a person, where you stand or kneel facing the rock.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 11.112
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Detail of a carved rock surface that is only partly smoothed, rough unfinished areas next to smooth flat areas, tool marks, raking light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Many researchers read it as an Inca-period altar or monumental shrine that was never finished. Work began, and then stopped. Some historians call the rough carving older than the Inca."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Many researchers read it as an Inca-period altar or monumental shrine that was never finished. Work began, and then stopped. Some historians call the rough carving older than the Inca.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Shards of ancient Andean painted pottery lying on dry grassy soil, archaeological surface find, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A recent report says pottery found on the surface points to long ceremonial reuse by Tiwanaku, the Lupaqa and the Inca. But no one has ever excavated the site, so there is no firm date."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A recent report says pottery found on the surface points to long ceremonial reuse by Tiwanaku, the Lupaqa and the Inca. But no one has ever excavated the site, so there is no firm date.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 14.016
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Aymara community members in traditional dress holding a quiet ceremony with incense smoke near a red rock formation at dawn, respectful, from a distance, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Aymara names fit this reading far better than any stargate. Willka Uta. Ajayu Marka. A threshold between the living and the world of the ancestors, still used for ceremonies today."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Aymara names fit this reading far better than any stargate. Willka Uta. Ajayu Marka. A threshold between the living and the world of the ancestors, still used for ceremonies today.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cassette reels rewinding, the light becoming deep blue like an ancient night, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some say the hands that cut it were older still. Rewind a thousand years."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some say the hands that cut it were older still. Rewind a thousand years.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 5.04
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Reconstruction of the ancient city of Tiwanaku near Lake Titicaca with stepped platforms, carved stone gateways and people, golden hour, painterly photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter six. Around AD six hundred. South of the lake, the city of Tiwanaku became the great power of the region, famous for its stonework."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "\u25c0\u25c0 AD 600",
+   "Older Hands?",
+   "TIWANAKU \u00b7 TOOL MARKS \u00b7 NO DATE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter six. Around AD six hundred. South of the lake, the city of Tiwanaku became the great power of the region, famous for its stonework.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A free-standing carved stone gateway monolith on an open plain with a dense band of carved relief across its top, overcast, photoreal, carvings are abstract figures not letters, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The comparison everyone makes is the Gate of the Sun at Tiwanaku. But that is a free-standing gateway covered in carved figures. Hayu Marca is plain, and cut into a cliff. They share a word, gate, and very little else."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The comparison everyone makes is the Gate of the Sun at Tiwanaku. But that is a free-standing gateway covered in carved figures. Hayu Marca is plain, and cut into a cliff. They share a word, gate, and very little else.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 15.336
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeologist kneeling and examining chisel-like marks on a red rock surface with a magnifying loupe, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One Andean writer, studying the tooling, sees the work of the Tiwanaku state, between AD four hundred and eleven hundred. Others see Inca technique. A popular science article notes the style matches neither perfectly."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One Andean writer, studying the tooling, sees the work of the Tiwanaku state, between AD four hundred and eleven hundred. Others see Inca technique. A popular science article notes the style matches neither perfectly.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 15.576
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient stone hammers and andesite tools lying on red sandstone, macro photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What everyone agrees on is the material. This is sandstone, far softer than granite. Stone hammers, harder stones and patience can shape it. No lasers required."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What everyone agrees on is the material. This is sandstone, far softer than granite. Stone hammers, harder stones and patience can shape it. No lasers required.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Concept image of a sleek alien craft hovering over a red rock cliff in the Andes at night with a beam of light, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the alien version? It needs a builder who left no tools, no workshop, no debris, no record, and carved a door that opens onto solid stone. There is simply no evidence for it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the alien version? It needs a builder who left no tools, no workshop, no debris, no record, and carved a door that opens onto solid stone. There is simply no evidence for it.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 12.696
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cassette tape fully rewound, reels slowing, a single warm light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inca, Tiwanaku, or older: human, either way. But there is one more layer before the hands. Rewind all the way."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inca, Tiwanaku, or older: human, either way. But there is one more layer before the hands. Rewind all the way.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 8.256
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Vast field of eroded red sandstone crests and pillars on the altiplano, dramatic clouds, wide landscape photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter seven. Deep time. Long before any people, layers of red sediment hardened into stone. Geological folding tilted them, and erosion carved them into a forest of crests and pillars."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "\u25c0\u25c0 DEEP TIME",
+   "The Rock",
+   "SANDSTONE \u00b7 EROSION \u00b7 PAREIDOLIA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter seven. Deep time. Long before any people, layers of red sediment hardened into stone. Geological folding tilted them, and erosion carved them into a forest of crests and pillars.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 13.632
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Red rock formations shaped by wind that resemble a sleeping animal and a giant face, altiplano, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Walk through Hayu Marca and you will see a puma, a condor, a snake, even a sleeping woman. Guides point them out. Almost all are natural. Our brains are built to find faces and figures in stone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Walk through Hayu Marca and you will see a puma, a condor, a snake, even a sleeping woman. Guides point them out. Almost all are natural. Our brains are built to find faces and figures in stone.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 14.016
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Natural arch and grotto in red sandstone on a high plateau, blue sky, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is part of why this hillside felt powerful. A place where the rock already looked built, and where people chose to finish the work with their own hands."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is part of why this hillside felt powerful. A place where the rock already looked built, and where people chose to finish the work with their own hands.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A visitor sitting in a rock niche at high altitude breathing deeply, slightly dizzy, oxygen thin, wide angle, documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the sensations people feel? At this altitude the air holds about a third less oxygen. Unacclimatised visitors get dizzy, euphoric, suggestible."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the sensations people feel? At this altitude the air holds about a third less oxygen. Unacclimatised visitors get dizzy, euphoric, suggestible.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wind blowing across a concave carved rock niche, dust moving, late afternoon warm light on red stone, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Add wind humming across a concave niche, sun-warmed stone at dusk, and the expectation of a portal, and you have a powerful experience. Real to the person who feels it, but not a door."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Add wind humming across a concave niche, sun-warmed stone at dusk, and the expectation of a portal, and you have a powerful experience. Real to the person who feels it, but not a door.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Conservation concern: wax drips, soot and oil stains on a red sandstone carved surface, close-up, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The real danger at the gate is not aliens. Candle wax, oils and burnt resin poured on the soft sandstone are damaging the surface, and the site still lacks formal protection."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The real danger at the gate is not aliens. Candle wax, oils and burnt resin poured on the soft sandstone are damaging the surface, and the site still lacks formal protection.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 12.504
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A fully rewound cassette tape resting on red stone, warm light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The tape is fully rewound. Now we can play it forward and see the whole story in order."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The tape is fully rewound. Now we can play it forward and see the whole story in order.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 5.616
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark high Andean night, the silhouette of a reddish rock cliff with a carved square recess on the far right edge lit by soft golden light, large empty dark space on the left, stars, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to score the Gate of the Gods."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "THE VERDICT",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score the Gate of the Gods.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 1.968
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark high Andean night, the silhouette of a reddish rock cliff with a carved square recess on the far right edge lit by soft golden light, large empty dark space on the left, stars, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Carved by people into natural sandstone: evidence. A sacred place to Aymara communities: evidence. Fits the Andean tradition of rock shrines and false doors: likely. Who carved it, and when: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Carved by people into natural sandstone: evidence. A sacred place to Aymara communities: evidence. Fits the Andean tradition of rock shrines and false doors: likely. Who carved it, and when: still open.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 15.288
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark high Andean night, the silhouette of a reddish rock cliff with a carved square recess on the far right edge lit by soft golden light, large empty dark space on the left, stars, cinematic, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The priest Aramu Muru and the golden disk: a modern myth, from nineteen sixty-one and the nineteen nineties. A working stargate: no evidence. Measured energy or anomalies: none."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The priest Aramu Muru and the golden disk: a modern myth, from nineteen sixty-one and the nineteen nineties. A working stargate: no evidence. Measured energy or anomalies: none.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden sunrise over Lake Titicaca with a reddish rock cliff with a carved square recess in the foreground, peaceful, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Hayu Marca is a real, human-carved Andean shrine, probably unfinished, sacred to the Aymara. The portal is not ancient. It was born in a nineteen sixty-one contactee book and joined to this rock in the nineteen nineties."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Hayu Marca is a real, human-carved Andean shrine, probably unfinished, sacred to the Aymara. The portal is not ancient. It was born in a nineteen sixty-one contactee book and joined to this rock in the nineteen nineties.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 17.28
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Starry night sky over red rock crests on the altiplano with a faint lake on the horizon, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Played forward, the story is clear: a sacred rock, a shrine left unfinished, a conquest, a channelled book, a dreaming guide, and finally a viral clip. Every layer is human."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Played forward, the story is clear: a sacred rock, a shrine left unfinished, a conquest, a channelled book, a dreaming guide, and finally a viral clip. Every layer is human.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An Aymara grandmother and child walking together past a red rock cliff at golden hour, warm, respectful documentary photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Maybe the real gate here is a gate into how myths are made. And the people who kept this place sacred long before the cameras deserve the last word in its story."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Maybe the real gate here is a gate into how myths are made. And the people who kept this place sacred long before the cameras deserve the last word in its story.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 10.632
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a carved doorway shape in red rock glowing faintly in the centre against black, minimal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which layer surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which layer surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 7.392
+   }
+  ]
+ }
+]
