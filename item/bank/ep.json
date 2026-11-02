@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Satellite view from orbit of the Richat Structure in the Sahara desert of Mauritania, a giant bullseye of concentric rocky rings in brown, purple and tan surrounded by golden sand, Earth curvature at the top, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "From orbit, in the middle of the Sahara, something is looking back at you. A giant eye, forty kilometres across, ring inside ring inside ring. It has caught astronauts' attention since the earliest space missions."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "From orbit, in the middle of the Sahara, something is looking back at you. A giant eye, forty kilometres across, ring inside ring inside ring. It has caught astronauts' attention since the earliest space missions.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Low aerial view at sunrise over curved concentric rocky ridges of a vast desert dome in Mauritania, long shadows, ochre sand drifting between the ridges, cinematic photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It has many names. The Richat Structure. Guelb er Rich\u00e2t. The Eye of Africa. The Eye of the Sahara. And for some people, it has one more name."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It has many names. The Richat Structure. Guelb er Rich\u00e2t. The Eye of Africa. The Eye of the Sahara. And for some people, it has one more name.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Imaginative painting of a golden ancient city built on concentric rings of land and water, glowing canals and bridges, temple on a central island, seen from above at dusk, epic fantasy concept art, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Atlantis. The lost city of Plato, a capital built in rings of land and water, swallowed by the sea. Since a viral video in twenty eighteen, millions have been told that it was here, hidden in plain sight."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Atlantis. The lost city of Plato, a capital built in rings of land and water, swallowed by the sea. Since a viral video in twenty eighteen, millions have been told that it was here, hidden in plain sight.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 14.28
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Science fiction scene, a beam of pale light from a dark spacecraft shining down onto a giant ringed rock formation in a night desert, stars above, cinematic, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Others go further. An eye this perfect, they say, must be a beacon, or a landing mark, or the scar of something that came from the sky."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Others go further. An eye this perfect, they say, must be a beacon, or a landing mark, or the scar of something that came from the sky.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Top-down view of a golden target of concentric rings drawn in sand by wind, centre glowing softly, dark surroundings, minimal cinematic photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So today we do what Plato's sailors would have done. We enter the rings from the outside, one ring at a time. Seven rings, seven questions. And at the core, the verdict."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So today we do what Plato's sailors would have done. We enter the rings from the outside, one ring at a time. Seven rings, seven questions. And at the core, the verdict.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "View from inside a spacecraft window looking down at the Sahara desert with a circular bullseye formation visible far below, soft blue Earth glow, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ring one: the orbit. The Eye sits on the Adrar plateau of Mauritania, near the old caravan town of Ouadane, about twenty-one degrees north of the equator."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "RING I",
+   "The Orbit",
+   "21\u00b0N \u00b7 ADRAR, MAURITANIA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ring one: the orbit. The Eye sits on the Adrar plateau of Mauritania, near the old caravan town of Ouadane, about twenty-one degrees north of the equator.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "right",
+  "prompt": "Wide high-altitude view of a vast golden desert with a dark circular ringed plateau in the middle and a lone dark mountain in the distance, hazy light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Measured across its outer rings it is about forty kilometres wide. NASA puts it closer to fifty. Either way, you can't see it from the ground. Standing inside it, you only see ridges and sand."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Measured across its outer rings it is about forty kilometres wide. NASA puts it closer to fifty. Either way, you can't see it from the ground. Standing inside it, you only see ridges and sand.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.536
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ground-level view in the Sahara of a long curved rocky ridge rising above a sandy valley, a few acacia trees, hot hazy afternoon, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "From the air, the pattern is clear. High rings of hard rock, separated by low valleys of softer rock and drifting sand. The whole plateau stands about two hundred metres above the surrounding sand."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "From the air, the pattern is clear. High rings of hard rock, separated by low valleys of softer rock and drifting sand. The whole plateau stands about two hundred metres above the surrounding sand.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a weathered quartzite rock ridge in the Sahara, layered pale stone tilted at an angle, desert light, geology documentary photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Those hard rings are made of quartzite, a sandstone so tough it barely erodes. Wind and water wear down everything around it, and the quartzite is left standing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Those hard rings are made of quartzite, a sandstone so tough it barely erodes. Wind and water wear down everything around it, and the quartzite is left standing.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 10.944
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A huge dark magnetite mountain rising from the flat Sahara desert near Zouerat, Mauritania, a long iron ore train in the far distance, dusk, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It isn't the only strange landmark here. To the northwest rises Kediet ej Jill, a mountain made of magnetite, so magnetic it upsets compasses. This is a strange corner of the planet."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It isn't the only strange landmark here. To the northwest rises Kediet ej Jill, a mountain made of magnetite, so magnetic it upsets compasses. This is a strange corner of the planet.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Old 1950s style expedition camp in the Sahara with canvas tents, a camel caravan and geologists studying rocks, warm sepia painterly, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Geologists first described the Eye in the nineteen thirties and forties. Some called it the Rich\u00e2t crater. That word, crater, will matter later."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Geologists first described the Eye in the nineteen thirties and forties. Some called it the Rich\u00e2t crater. That word, crater, will matter later.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.672
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Satellite view of the concentric rings of the Richat Structure at golden hour, warm colours, very sharp detail, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the first ring holds a simple fact. The Eye is real, huge, and strikingly circular. Now, the story people laid on top of it."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the first ring holds a simple fact. The Eye is real, huge, and strikingly circular. Now, the story people laid on top of it.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Ancient Greek philosopher with a grey beard writing on a papyrus scroll by oil lamp in a marble room, Athens, fourth century BCE, painterly photoreal, the scroll blank, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ring two: the story. Atlantis appears in two dialogues by Plato, the Timaeus and the Critias, written around three hundred and sixty BCE. No older text mentions it."
+   ]
+  ],
+  "tag": "S",
+  "ch": [
+   "RING II",
+   "The Story",
+   "PLATO \u00b7 c. 360 BCE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ring two: the story. Atlantis appears in two dialogues by Plato, the Timaeus and the Critias, written around three hundred and sixty BCE. No older text mentions it.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.696
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Egyptian temple at Sais with priests in white linen speaking with a Greek traveller in a himation, columns, warm light, painterly reconstruction, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the story, the Athenian statesman Solon hears it from Egyptian priests at Sais. Nine thousand years before his time, they say, a great sea power attacked Athens and was defeated."
+   ]
+  ],
+  "tag": "S",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the story, the Athenian statesman Solon hears it from Egyptian priests at Sais. Nine thousand years before his time, they say, a great sea power attacked Athens and was defeated.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vast island empire in the open Atlantic ocean beyond two great rocky headlands at a strait, ancient ships, dramatic sky, epic painterly, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That power lay out in the Atlantic Ocean, beyond the Pillars of Heracles, the Strait of Gibraltar. Plato calls it an island larger than Libya and Asia put together."
+   ]
+  ],
+  "tag": "S",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That power lay out in the Atlantic Ocean, beyond the Pillars of Heracles, the Strait of Gibraltar. Plato calls it an island larger than Libya and Asia put together.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Reconstruction painting of a central island with a temple surrounded by perfectly circular alternating rings of sea water and green land, ancient bridges, viewed from above, golden light, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At its heart, Poseidon enclosed a hill with rings of sea and land. Two of land, three of water, turned, Plato says, as with a lathe. Hot and cold springs rose on the central island."
+   ]
+  ],
+  "tag": "S",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At its heart, Poseidon enclosed a hill with rings of sea and land. Two of land, three of water, turned, Plato says, as with a lathe. Hot and cold springs rose on the central island.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient walls built of alternating red, white and black stone blocks beside a canal, triremes moored, sunny, painterly reconstruction, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He adds detail upon detail. Walls of red, white and black stone. A canal from the sea fifty stadia long. Herds of elephants. A vast plain sheltered from the north by mountains."
+   ]
+  ],
+  "tag": "S",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He adds detail upon detail. Walls of red, white and black stone. A canal from the sea fifty stadia long. Herds of elephants. A vast plain sheltered from the north by mountains.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Huge stormy ocean waves swallowing a burning ancient city on an island at night, earthquake, dramatic epic painting, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then the end. After violent earthquakes and floods, in a single day and night, the island of Atlantis sank into the depths of the sea."
+   ]
+  ],
+  "tag": "S",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then the end. After violent earthquakes and floods, in a single day and night, the island of Atlantis sank into the depths of the sea.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.096
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "An old leather-bound book lying open on a desk with blank yellowed pages, an oil lamp and a quill, moody light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice two things. The Critias breaks off mid-sentence, unfinished. And most classical scholars read Atlantis as Plato's invention, a moral tale about a proud empire and a virtuous Athens. Even Plato's famous translator, Benjamin Jowett, wrote that no one knew better than Plato how to invent a noble lie."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice two things. The Critias breaks off mid-sentence, unfinished. And most classical scholars read Atlantis as Plato's invention, a moral tale about a proud empire and a virtuous Athens. Even Plato's famous translator, Benjamin Jowett, wrote that no one knew better than Plato how to invent a noble lie.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 21.6
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A person silhouetted in a dark room watching a glowing laptop screen showing a satellite image of a ringed desert formation, blue light on face, cinematic, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ring three: the match. In September twenty eighteen, the YouTube channel Bright Insight posted a video arguing that the Richat Structure is Atlantis. Within days it had hundreds of thousands of views, and tabloids around the world picked it up."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "RING III",
+   "The Match",
+   "SEPT 2018 \u2192 TODAY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ring three: the match. In September twenty eighteen, the YouTube channel Bright Insight posted a video arguing that the Richat Structure is Atlantis. Within days it had hundreds of thousands of views, and tabloids around the world picked it up.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 16.128
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Satellite view of the Richat rings with a soft glowing highlight around three concentric valleys, dark desert around, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The argument is a checklist. Concentric rings, check. Three of water and two of land, if you imagine the valleys flooded. A diameter of a hundred and twenty-seven stadia, about twenty-three and a half kilometres, measured on Google Maps."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The argument is a checklist. Concentric rings, check. Three of water and two of land, if you imagine the valleys flooded. A diameter of a hundred and twenty-seven stadia, about twenty-three and a half kilometres, measured on Google Maps.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 16.008
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Sahara landscape with dark mountains to the north of a flat sandy plain, wide view, clear morning, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mountains to the north, like Plato's sheltering range. A flat plain around it. A sandy channel that, it's claimed, once opened to the sea."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mountains to the north, like Plato's sheltering range. A flat plain around it. A sandy channel that, it's claimed, once opened to the sea.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of desert rocks of three colours, rust red sandstone, white quartz and black basalt pebbles lying together on sand, macro photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Rocks that are red, white and black. Salty groundwater. And a Sahara that was once green, with lakes, and elephants."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Rocks that are red, white and black. Salty groundwater. And a Sahara that was once green, with lakes, and elephants.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 7.8
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Animated-looking but photoreal scene of a meteor shower and glowing comet fragments over a frozen landscape, dramatic night sky, cinematic, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the date. Plato's nine thousand years before Solon lands near eleven thousand six hundred years ago, the end of a cold snap called the Younger Dryas. A catastrophe in the record, they say, that matches the flood."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the date. Plato's nine thousand years before Solon lands near eleven thousand six hundred years ago, the end of a cold snap called the Younger Dryas. A catastrophe in the record, they say, that matches the flood.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 15.336
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night desert with a giant ringed rock formation glowing faintly under the Milky Way, a mysterious bright light hovering high above it, cinematic, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And on social media, the alien version. A perfect eye in the desert, visible from orbit, has to be a marker. Something built to be seen from above."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And on social media, the alien version. A perfect eye in the desert, visible from orbit, has to be a marker. Something built to be seen from above.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 10.104
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Detective style corkboard style arrangement of blank photographs of desert rings connected by red string, dim light, cinematic, all photos blank, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It's a persuasive list. But a list of matches only means something if the matches are precise, and if you also count the misses. So let's measure."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It's a persuasive list. But a list of matches only means something if the matches are precise, and if you also count the misses. So let's measure.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 9.864
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A knot of string and an old brass compass lying on sand beside a ruler made of wood with no markings, warm light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every claim in that checklist can be tested against two things: Plato's actual text, and the rock itself. Let's start with the text."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every claim in that checklist can be tested against two things: Plato's actual text, and the rock itself. Let's start with the text.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of an ancient Greek bronze measuring rod and dividers lying on an old map of concentric circles drawn in ink, the map blank of any lettering, warm light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ring four: the measure. Plato gives exact widths. The central island, five stadia across. Then a ring of water one stadium wide, land two, water two, land three, water three."
+   ]
+  ],
+  "tag": "S",
+  "ch": [
+   "RING IV",
+   "The Measure",
+   "5 + 2 \u00d7 11 = 27 STADIA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ring four: the measure. Plato gives exact widths. The central island, five stadia across. Then a ring of water one stadium wide, land two, water two, land three, water three.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Minimal clean diagram style view from above of five thin concentric golden rings around a small glowing central disc on black background, elegant, no labels, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Add that up and the whole ring system is twenty-seven stadia across. About five kilometres. That's Plato's Atlantis: a ringed citadel you could walk across in an hour."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Add that up and the whole ring system is twenty-seven stadia across. About five kilometres. That's Plato's Atlantis: a ringed citadel you could walk across in an hour.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 11.976
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Minimal view from above of a small cluster of golden rings inside a much larger faint circle on a black background, elegant, no labels, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So where does a hundred and twenty-seven come from? Plato places an outer wall fifty stadia beyond the rings. Twenty-seven plus fifty on each side makes a hundred and twenty-seven. That number is the city wall, not the rings."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So where does a hundred and twenty-seven come from? Plato places an outer wall fifty stadia beyond the rings. Twenty-seven plus fifty on each side makes a hundred and twenty-seven. That number is the city wall, not the rings.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 15.264
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Satellite view of the full Richat Structure rings at large scale, sharp, slightly cool colour grade, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the Eye. Its rings run about forty kilometres, eight times Plato's ring system. To get twenty-three and a half, you have to pick one inner ridge and call it the outer wall."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the Eye. Its rings run about forty kilometres, eight times Plato's ring system. To get twenty-three and a half, you have to pick one inner ridge and call it the outer wall.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 11.52
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient stone measuring standards of slightly different lengths lying side by side on a museum cloth, no markings, soft light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the stadium itself wasn't fixed. Depending on which Greek or Egyptian unit you choose, a hundred and twenty-seven stadia runs from about twenty to twenty-four kilometres. With that much freedom, almost any ring can be made to fit."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the stadium itself wasn't fixed. Depending on which Greek or Egyptian unit you choose, a hundred and twenty-seven stadia runs from about twenty to twenty-four kilometres. With that much freedom, almost any ring can be made to fit.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 16.344
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial view of a desert ring formation where ridges are broken and incomplete, sand flowing through gaps, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The rings don't cooperate either. They are not clean and complete. Count the valleys one way and you get three rings of water. Count another way and you get four."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The rings don't cooperate either. They are not clean and complete. Count the valleys one way and you get three rings of water. Count another way and you get four.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Aerial view of desert ridges with no channel cutting through them, wind-blown sand, harsh noon light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the canal is missing. Plato's most distinctive engineering, a channel three hundred feet wide cut straight from the sea through every ring, has no trace in the Eye."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the canal is missing. Plato's most distinctive engineering, a channel three hundred feet wide cut straight from the sea through every ring, has no trace in the Eye.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A balance scale on a dark table with a small golden ring on one side and a large rough stone on the other, dramatic side light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the measure holds one real match: circles. The numbers that sound precise turn out to be chosen to fit."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the measure holds one real match: circles. The numbers that sound precise turn out to be chosen to fit.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 7.536
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Geologist with a rock hammer kneeling at a tilted layered rock outcrop in the Sahara, desert sun, documentary photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ring five: the rock. If someone carved these rings, the rock should say so. So what does it say?"
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "RING V",
+   "The Rock",
+   "~100 MILLION YEARS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ring five: the rock. If someone carved these rings, the rock should say so. So what does it say?",
+    "file": "ep/audio/s36.mp3",
+    "dur": 6.12
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cutaway geological illustration of a dome of layered sedimentary rock pushed up by a body of magma below, eroded flat at the top, clean scientific painting style, no labels, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It's a dome. Deep underground, a body of molten rock pushed up the layers above it like a blister. Over many millions of years, erosion sliced the top off, and the layers were exposed in a bullseye."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It's a dome. Deep underground, a body of molten rock pushed up the layers above it like a blister. Over many millions of years, erosion sliced the top off, and the layers were exposed in a bullseye.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 13.416
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of tilted sedimentary rock layers dipping outward on a desert ridge, alternating hard and soft bands, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is why the oldest rocks lie at the centre and younger ones toward the edge, all tilted outward at ten to twenty degrees. That pattern is exactly what a dome leaves behind, and not what builders leave."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is why the oldest rocks lie at the centre and younger ones toward the edge, all tilted outward at ten to twenty degrees. That pattern is exactly what a dome leaves behind, and not what builders leave.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 13.656
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of pale carbonatite and dark gabbro igneous rock samples in a field notebook-free scene on sand, hand lens, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inside the Eye, geologists mapped volcanic rocks: rhyolite, rings of gabbro, carbonatite and even kimberlite. Two great rings of gabbro circle the centre, three and eight kilometres out."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inside the Eye, geologists mapped volcanic rocks: rhyolite, rings of gabbro, carbonatite and even kimberlite. Two great rings of gabbro circle the centre, three and eight kilometres out.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 13.92
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Laboratory scene with a scientist placing a small rock chip into a mass spectrometer instrument, clean modern lab, photoreal, screens blank, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And these rocks can be dated. The carbonatites cooled between ninety-four and a hundred and four million years ago. The kimberlite, about ninety-nine million. The hot fluids that shattered the centre, about ninety-eight million."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And these rocks can be dated. The carbonatites cooled between ninety-four and a hundred and four million years ago. The kimberlite, about ninety-nine million. The hot fluids that shattered the centre, about ninety-eight million.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 15.12
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A glowing meteor streaking toward a desert at night, cinematic, dramatic, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What about the cosmic scar? Early on, scientists themselves suspected an impact crater. It was a reasonable guess for something so round."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What about the cosmic scar? Early on, scientists themselves suspected an impact crater. It was a reasonable guess for something so round.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Microscope close-up of rock crystals under polarised light, colourful mineral grains, scientific photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But impacts leave fingerprints: shocked quartz, high-pressure minerals. In nineteen sixty-nine, researchers reported none. A mineral first taken for coesite, the shock signature, turned out to be ordinary barite."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But impacts leave fingerprints: shocked quartz, high-pressure minerals. In nineteen sixty-nine, researchers reported none. A mineral first taken for coesite, the shock signature, turned out to be ordinary barite.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 14.52
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden hour light over layered rocky rings of a desert dome, long shadows, quiet, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Since then, the work of Guillaume Matton and colleagues has explained the Eye as an uplifted, eroded dome over a magma body. In twenty twenty-two it was named one of the world's first hundred geological heritage sites. The rock's answer is clear: a hundred million years old, and made by the Earth."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Since then, the work of Guillaume Matton and colleagues has explained the Eye as an uplifted, eroded dome over a magma body. In twenty twenty-two it was named one of the world's first hundred geological heritage sites. The rock's answer is clear: a hundred million years old, and made by the Earth.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 19.632
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Endless Sahara sand dunes stretching to the horizon with no water in sight, harsh sun, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ring six: the sea. Plato's Atlantis is an island in the Atlantic Ocean, and it sinks into the sea. The Eye sits hundreds of kilometres inland."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "RING VI",
+   "The Sea",
+   "RIM ~485 M ABOVE SEA LEVEL"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ring six: the sea. Plato's Atlantis is an island in the Atlantic Ocean, and it sinks into the sea. The Eye sits hundreds of kilometres inland.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "View from the top of a rocky desert rim looking down over a vast dry plain far below, hazy horizon, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its outer rim rises about four hundred and eighty-five metres above sea level. To reach it, the ocean would have to climb nearly half a kilometre."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its outer rim rises about four hundred and eighty-five metres above sea level. To reach it, the ocean would have to climb nearly half a kilometre.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient coastline scene at the end of the ice age with exposed continental shelf, the sea far lower than today, wide view, painterly reconstruction, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And eleven thousand six hundred years ago, the sea was lower, not higher. Ice sheets still held huge volumes of water, so sea level stood tens of metres below today's. There was no Atlantic flood reaching the Sahara."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And eleven thousand six hundred years ago, the sea was lower, not higher. Ice sheets still held huge volumes of water, so sea level stood tens of metres below today's. There was no Atlantic flood reaching the Sahara.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 14.688
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Green Sahara reconstruction, savanna with a shallow lake, elephants and giraffes drinking, acacia trees, rocky ridges in the background, golden light, painterly photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But here the theory gets something right. The Sahara really was green. Sediments inside the Eye, with freshwater fossils, show lakes and streams there between about fifteen thousand and eight thousand years ago."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But here the theory gets something right. The Sahara really was green. Sediments inside the Eye, with freshwater fossils, show lakes and streams there between about fifteen thousand and eight thousand years ago.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 13.56
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Prehistoric rock engraving of an elephant pecked into a sandstone boulder in the Sahara, weathered, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Elephants are carved into rocks in this region. That's real. But the same rock art shows horsemen with javelins and chariots, much later scenes, far from any ice age catastrophe."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Elephants are carved into rocks in this region. That's real. But the same rock art shows horsemen with javelins and chariots, much later scenes, far from any ice age catastrophe.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wind blowing sand through a gap between desert ridges toward the southwest, sand streamers, dramatic light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The opening to the sea in the south? It's a tongue of sand blowing in from the southwest, more west than south. And the Younger Dryas was a long cold spell, mostly in the far north, not a flood in a single day."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The opening to the sea in the south? It's a tongue of sand blowing in from the southwest, more west than south. And the Younger Dryas was a long cold spell, mostly in the far north, not a flood in a single day.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 14.352
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Shallow freshwater lake in a green savanna with reeds and grazing antelope, ridges behind, peaceful morning, painterly photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the sea ring gives a mixed answer. A wetter Sahara, yes. An ocean, a sinking island and a one-day disaster, no."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the sea ring gives a mixed answer. A wetter Sahara, yes. An ocean, a sinking island and a one-day disaster, no.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 8.328
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Night view of the Sahara under a star-filled sky with the silhouette of a curved rocky ridge, quiet, cinematic photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which leaves the last ring, and the most direct test of all. If a city stood here, it left things behind."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which leaves the last ring, and the most direct test of all. If a city stood here, it left things behind.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 6.6
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeologists in hats surveying a desert wadi, flagging stone tools on the ground, measuring with a staff, documentary photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ring seven: the diggers. People really did live in the Eye. In nineteen seventy-four the naturalist Th\u00e9odore Monod found remarkable concentrations of stone tools here."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "RING VII",
+   "The Diggers",
+   "1974 \u2192 TODAY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ring seven: the diggers. People really did live in the Eye. In nineteen seventy-four the naturalist Th\u00e9odore Monod found remarkable concentrations of stone tools here.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a prehistoric Acheulean hand axe made of quartzite lying on desert gravel, sharp detail, natural light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Most are Acheulean hand axes, the long-lived tool kit of early humans, made from the Eye's own quartzite. Some tools are even older."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Most are Acheulean hand axes, the long-lived tool kit of early humans, made from the Eye's own quartzite. Some tools are even older.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 10.152
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Middle Stone Age stone points and flakes laid out on a cloth in a field camp, sunlight, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later come Aterian tools, made by modern humans between roughly a hundred and forty-five thousand and twenty-nine thousand years ago. Then a scatter of Neolithic spear points."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later come Aterian tools, made by modern humans between roughly a hundred and forty-five thousand and twenty-nine thousand years ago. Then a scatter of Neolithic spear points.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Desert gravel surface with stone tools and pebbles exposed by wind, sand blowing away, close photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Many of these lie on the surface because the wind has blown the sand away over many climate cycles, leaving heavier stones behind. Archaeologists found them mostly in the outer valleys, and generally absent from the innermost rings."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Many of these lie on the surface because the wind has blown the sand away over many climate cycles, leaving heavier stones behind. Archaeologists found them mostly in the outer valleys, and generally absent from the innermost rings.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 15.648
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ridge top in the Sahara lined with many low circular stone burial mounds, evening light, wide photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The ridges are lined with thousands of stone burial mounds. Most have never been excavated or dated. That is a genuine open question."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The ridges are lined with thousands of stone burial mounds. Most have never been excavated or dated. That is a genuine open question.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 9.864
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Medieval mud-brick and stone ruins of a desert caravan town on a hillside in Mauritania, palm trees below, warm light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there is a real lost town nearby. Ouadane, a medieval caravan stop on the Saharan trade routes, now partly in ruins. Real, but younger than Plato's date by thousands of years."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there is a real lost town nearby. Ouadane, a medieval caravan stop on the Saharan trade routes, now partly in ruins. Real, but younger than Plato's date by thousands of years.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Empty sand-filled valley between rocky ridges with nothing man-made in sight, harsh light, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What has never been found: walls, harbours, canals, bronze, tin, orichalcum, pottery, streets. Not a single shard of the city Plato described."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What has never been found: walls, harbours, canals, bronze, tin, orichalcum, pottery, streets. Not a single shard of the city Plato described.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Satellite view of the centre of the Richat Structure, a pale circular core of broken rock, very detailed, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hand axes, yes. Hunters and herders, yes. An ocean empire, no. That brings us to the core."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hand axes, yes. Hunters and herders, yes. An ocean empire, no. That brings us to the core.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 6.624
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene, a faint glowing set of concentric golden rings seen from far above on the far right edge like a giant eye in a black desert, large empty dark space on the left, subtle sand texture, cinematic, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seven rings crossed. Now the core."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "THE CORE",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seven rings crossed. Now the core.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.376
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene, a faint glowing set of concentric golden rings seen from far above on the far right edge like a giant eye in a black desert, large empty dark space on the left, subtle sand texture, cinematic, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Concentric rings from an eroded dome: evidence. Rocks dated to about a hundred million years: evidence. Stone tools, but no city: evidence. A green Sahara with lakes and elephants: real, but not Atlantis."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Concentric rings from an eroded dome: evidence. Rocks dated to about a hundred million years: evidence. Stone tools, but no city: evidence. A green Sahara with lakes and elephants: real, but not Atlantis.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 15.072
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene, a faint glowing set of concentric golden rings seen from far above on the far right edge like a giant eye in a black desert, large empty dark space on the left, subtle sand texture, cinematic, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Atlantis built in the rings: no evidence. An alien beacon, or an impact scar: debunked. Who built the ridge-top burial mounds, and when: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Atlantis built in the rings: no evidence. An alien beacon, or an impact scar: debunked. Who built the ridge-top burial mounds, and when: still open.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Golden sunset light across the concentric rings of the Richat Structure seen from a high aerial angle, long shadows, cinematic photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The Eye of the Sahara is not Atlantis, and it was not made by visitors. It's a dome of rock lifted by magma a hundred million years ago and carved by erosion into rings. The one real match with Plato is the circle."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The Eye of the Sahara is not Atlantis, and it was not made by visitors. It's a dome of rock lifted by magma a hundred million years ago and carved by erosion into rings. The one real match with Plato is the circle.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 16.248
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "The Richat Structure seen from orbit at night edge with stars above and a thin blue atmosphere line, quiet, cinematic photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Plato's Atlantis lived in a story about pride and power. Trying to pin it to a map means stretching the stadia, flooding a desert and ignoring the rock."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Plato's Atlantis lived in a story about pride and power. Trying to pin it to a map means stretching the stadia, flooding a desert and ignoring the rock.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Mauritanian guide in a blue robe and turban standing on a rocky ridge overlooking the Richat valleys at sunrise, respectful documentary portrait, photoreal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the real Eye doesn't need a myth. Hundreds of thousands of years of human tool-makers, a green Sahara, and a hundred-million-year-old window into the Earth. That's a story worth the trip."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the real Eye doesn't need a myth. Hundreds of thousands of years of human tool-makers, a green Sahara, and a hundred-million-year-old window into the Earth. That's a story worth the trip.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background with a small glowing set of golden concentric rings at the centre against black, minimal, no text, no letters, no writing, no numbers, no signage, no labels, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That's the core. Which ring surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That's the core. Which ring surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 8.16
+   }
+  ]
+ }
+]

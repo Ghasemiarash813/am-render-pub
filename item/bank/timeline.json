@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 24979,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 472,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "From orbit, in the middle of the Sahara, something is looking back at you. A giant eye, forty kilometres across, ring inside ring inside ring. It has caught astronauts' attention since the earliest space missions.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.64,
+     "start": 10,
+     "end": 450
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 454,
+   "end": 790,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It has many names. The Richat Structure. Guelb er Rich\u00e2t. The Eye of Africa. The Eye of the Sahara. And for some people, it has one more name.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 10.128,
+     "start": 464,
+     "end": 768
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 772,
+   "end": 1233,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Atlantis. The lost city of Plato, a capital built in rings of land and water, swallowed by the sea. Since a viral video in twenty eighteen, millions have been told that it was here, hidden in plain sight.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 14.28,
+     "start": 782,
+     "end": 1211
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1215,
+   "end": 1520,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Others go further. An eye this perfect, they say, must be a beacon, or a landing mark, or the scar of something that came from the sky.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 9.072,
+     "start": 1225,
+     "end": 1498
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1502,
+   "end": 2002,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So today we do what Plato's sailors would have done. We enter the rings from the outside, one ring at a time. Seven rings, seven questions. And at the core, the verdict.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 11.592,
+     "start": 1512,
+     "end": 1860
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "RING I",
+    "The Orbit",
+    "21\u00b0N \u00b7 ADRAR, MAURITANIA"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1984,
+   "end": 2364,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ring one: the orbit. The Eye sits on the Adrar plateau of Mauritania, near the old caravan town of Ouadane, about twenty-one degrees north of the equator.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 11.592,
+     "start": 1994,
+     "end": 2342
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2346,
+   "end": 2785,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Measured across its outer rings it is about forty kilometres wide. NASA puts it closer to fifty. Either way, you can't see it from the ground. Standing inside it, you only see ridges and sand.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.536,
+     "start": 2356,
+     "end": 2763
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2767,
+   "end": 3215,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "From the air, the pattern is clear. High rings of hard rock, separated by low valleys of softer rock and drifting sand. The whole plateau stands about two hundred metres above the surrounding sand.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 13.848,
+     "start": 2777,
+     "end": 3193
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3197,
+   "end": 3558,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Those hard rings are made of quartzite, a sandstone so tough it barely erodes. Wind and water wear down everything around it, and the quartzite is left standing.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 10.944,
+     "start": 3207,
+     "end": 3536
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3540,
+   "end": 3992,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It isn't the only strange landmark here. To the northwest rises Kediet ej Jill, a mountain made of magnetite, so magnetic it upsets compasses. This is a strange corner of the planet.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 13.968,
+     "start": 3550,
+     "end": 3970
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3974,
+   "end": 4297,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Geologists first described the Eye in the nineteen thirties and forties. Some called it the Rich\u00e2t crater. That word, crater, will matter later.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 9.672,
+     "start": 3984,
+     "end": 4275
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4279,
+   "end": 4587,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the first ring holds a simple fact. The Eye is real, huge, and strikingly circular. Now, the story people laid on top of it.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 9.168,
+     "start": 4289,
+     "end": 4565
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "S",
+   "ch": [
+    "RING II",
+    "The Story",
+    "PLATO \u00b7 c. 360 BCE"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4569,
+   "end": 4982,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ring two: the story. Atlantis appears in two dialogues by Plato, the Timaeus and the Critias, written around three hundred and sixty BCE. No older text mentions it.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.696,
+     "start": 4579,
+     "end": 4960
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4964,
+   "end": 5378,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the story, the Athenian statesman Solon hears it from Egyptian priests at Sais. Nine thousand years before his time, they say, a great sea power attacked Athens and was defeated.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 12.72,
+     "start": 4974,
+     "end": 5356
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5360,
+   "end": 5744,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That power lay out in the Atlantic Ocean, beyond the Pillars of Heracles, the Strait of Gibraltar. Plato calls it an island larger than Libya and Asia put together.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 11.712,
+     "start": 5370,
+     "end": 5722
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5726,
+   "end": 6169,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At its heart, Poseidon enclosed a hill with rings of sea and land. Two of land, three of water, turned, Plato says, as with a lathe. Hot and cold springs rose on the central island.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 13.68,
+     "start": 5736,
+     "end": 6147
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6151,
+   "end": 6603,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He adds detail upon detail. Walls of red, white and black stone. A canal from the sea fifty stadia long. Herds of elephants. A vast plain sheltered from the north by mountains.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 13.968,
+     "start": 6161,
+     "end": 6581
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "S",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6585,
+   "end": 6890,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then the end. After violent earthquakes and floods, in a single day and night, the island of Atlantis sank into the depths of the sea.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.096,
+     "start": 6595,
+     "end": 6868
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6872,
+   "end": 7552,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice two things. The Critias breaks off mid-sentence, unfinished. And most classical scholars read Atlantis as Plato's invention, a moral tale about a proud empire and a virtuous Athens. Even Plato's famous translator, Benjamin Jowett, wrote that no one knew better than Plato how to invent a noble lie.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 21.6,
+     "start": 6882,
+     "end": 7530
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "RING III",
+    "The Match",
+    "SEPT 2018 \u2192 TODAY"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 7534,
+   "end": 8050,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ring three: the match. In September twenty eighteen, the YouTube channel Bright Insight posted a video arguing that the Richat Structure is Atlantis. Within days it had hundreds of thousands of views, and tabloids around the world picked it up.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 16.128,
+     "start": 7544,
+     "end": 8028
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 8032,
+   "end": 8545,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The argument is a checklist. Concentric rings, check. Three of water and two of land, if you imagine the valleys flooded. A diameter of a hundred and twenty-seven stadia, about twenty-three and a half kilometres, measured on Google Maps.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 16.008,
+     "start": 8042,
+     "end": 8523
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8527,
+   "end": 8835,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mountains to the north, like Plato's sheltering range. A flat plain around it. A sandy channel that, it's claimed, once opened to the sea.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 9.168,
+     "start": 8537,
+     "end": 8813
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8817,
+   "end": 9083,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Rocks that are red, white and black. Salty groundwater. And a Sahara that was once green, with lakes, and elephants.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 7.8,
+     "start": 8827,
+     "end": 9061
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 9065,
+   "end": 9558,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the date. Plato's nine thousand years before Solon lands near eleven thousand six hundred years ago, the end of a cold snap called the Younger Dryas. A catastrophe in the record, they say, that matches the flood.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 15.336,
+     "start": 9075,
+     "end": 9536
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9540,
+   "end": 9876,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And on social media, the alien version. A perfect eye in the desert, visible from orbit, has to be a marker. Something built to be seen from above.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 10.104,
+     "start": 9550,
+     "end": 9854
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9858,
+   "end": 10186,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It's a persuasive list. But a list of matches only means something if the matches are precise, and if you also count the misses. So let's measure.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 9.864,
+     "start": 9868,
+     "end": 10164
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10168,
+   "end": 10467,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Every claim in that checklist can be tested against two things: Plato's actual text, and the rock itself. Let's start with the text.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 8.88,
+     "start": 10178,
+     "end": 10445
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "S",
+   "ch": [
+    "RING IV",
+    "The Measure",
+    "5 + 2 \u00d7 11 = 27 STADIA"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 10449,
+   "end": 10882,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ring four: the measure. Plato gives exact widths. The central island, five stadia across. Then a ring of water one stadium wide, land two, water two, land three, water three.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 13.344,
+     "start": 10459,
+     "end": 10860
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10864,
+   "end": 11256,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Add that up and the whole ring system is twenty-seven stadia across. About five kilometres. That's Plato's Atlantis: a ringed citadel you could walk across in an hour.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 11.976,
+     "start": 10874,
+     "end": 11234
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11238,
+   "end": 11728,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So where does a hundred and twenty-seven come from? Plato places an outer wall fifty stadia beyond the rings. Twenty-seven plus fifty on each side makes a hundred and twenty-seven. That number is the city wall, not the rings.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 15.264,
+     "start": 11248,
+     "end": 11706
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11710,
+   "end": 12088,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the Eye. Its rings run about forty kilometres, eight times Plato's ring system. To get twenty-three and a half, you have to pick one inner ridge and call it the outer wall.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 11.52,
+     "start": 11720,
+     "end": 12066
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12070,
+   "end": 12593,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the stadium itself wasn't fixed. Depending on which Greek or Egyptian unit you choose, a hundred and twenty-seven stadia runs from about twenty to twenty-four kilometres. With that much freedom, almost any ring can be made to fit.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 16.344,
+     "start": 12080,
+     "end": 12571
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12575,
+   "end": 12930,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The rings don't cooperate either. They are not clean and complete. Count the valleys one way and you get three rings of water. Count another way and you get four.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 10.752,
+     "start": 12585,
+     "end": 12908
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12912,
+   "end": 13283,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the canal is missing. Plato's most distinctive engineering, a channel three hundred feet wide cut straight from the sea through every ring, has no trace in the Eye.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 11.28,
+     "start": 12922,
+     "end": 13261
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13265,
+   "end": 13524,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the measure holds one real match: circles. The numbers that sound precise turn out to be chosen to fit.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 7.536,
+     "start": 13275,
+     "end": 13502
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "RING V",
+    "The Rock",
+    "~100 MILLION YEARS"
+   ],
+   "img": "ep/img/shot_36.jpg",
+   "start": 13506,
+   "end": 13722,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ring five: the rock. If someone carved these rings, the rock should say so. So what does it say?",
+     "file": "ep/audio/s36.mp3",
+     "dur": 6.12,
+     "start": 13516,
+     "end": 13700
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13704,
+   "end": 14139,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It's a dome. Deep underground, a body of molten rock pushed up the layers above it like a blister. Over many millions of years, erosion sliced the top off, and the layers were exposed in a bullseye.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 13.416,
+     "start": 13714,
+     "end": 14117
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14121,
+   "end": 14563,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is why the oldest rocks lie at the centre and younger ones toward the edge, all tilted outward at ten to twenty degrees. That pattern is exactly what a dome leaves behind, and not what builders leave.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 13.656,
+     "start": 14131,
+     "end": 14541
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14545,
+   "end": 14995,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside the Eye, geologists mapped volcanic rocks: rhyolite, rings of gabbro, carbonatite and even kimberlite. Two great rings of gabbro circle the centre, three and eight kilometres out.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.92,
+     "start": 14555,
+     "end": 14973
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14977,
+   "end": 15463,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And these rocks can be dated. The carbonatites cooled between ninety-four and a hundred and four million years ago. The kimberlite, about ninety-nine million. The hot fluids that shattered the centre, about ninety-eight million.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 15.12,
+     "start": 14987,
+     "end": 15441
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15445,
+   "end": 15764,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What about the cosmic scar? Early on, scientists themselves suspected an impact crater. It was a reasonable guess for something so round.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 9.552,
+     "start": 15455,
+     "end": 15742
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15746,
+   "end": 16214,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But impacts leave fingerprints: shocked quartz, high-pressure minerals. In nineteen sixty-nine, researchers reported none. A mineral first taken for coesite, the shock signature, turned out to be ordinary barite.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 14.52,
+     "start": 15756,
+     "end": 16192
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16196,
+   "end": 16817,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Since then, the work of Guillaume Matton and colleagues has explained the Eye as an uplifted, eroded dome over a magma body. In twenty twenty-two it was named one of the world's first hundred geological heritage sites. The rock's answer is clear: a hundred million years old, and made by the Earth.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 19.632,
+     "start": 16206,
+     "end": 16795
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "RING VI",
+    "The Sea",
+    "RIM ~485 M ABOVE SEA LEVEL"
+   ],
+   "img": "ep/img/shot_44.jpg",
+   "start": 16799,
+   "end": 17140,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ring six: the sea. Plato's Atlantis is an island in the Atlantic Ocean, and it sinks into the sea. The Eye sits hundreds of kilometres inland.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 10.272,
+     "start": 16809,
+     "end": 17118
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 17122,
+   "end": 17450,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Its outer rim rises about four hundred and eighty-five metres above sea level. To reach it, the ocean would have to climb nearly half a kilometre.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 9.84,
+     "start": 17132,
+     "end": 17428
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17432,
+   "end": 17905,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And eleven thousand six hundred years ago, the sea was lower, not higher. Ice sheets still held huge volumes of water, so sea level stood tens of metres below today's. There was no Atlantic flood reaching the Sahara.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 14.688,
+     "start": 17442,
+     "end": 17883
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17887,
+   "end": 18326,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But here the theory gets something right. The Sahara really was green. Sediments inside the Eye, with freshwater fossils, show lakes and streams there between about fifteen thousand and eight thousand years ago.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 13.56,
+     "start": 17897,
+     "end": 18304
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18308,
+   "end": 18722,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Elephants are carved into rocks in this region. That's real. But the same rock art shows horsemen with javelins and chariots, much later scenes, far from any ice age catastrophe.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 12.72,
+     "start": 18318,
+     "end": 18700
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18704,
+   "end": 19167,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The opening to the sea in the south? It's a tongue of sand blowing in from the southwest, more west than south. And the Younger Dryas was a long cold spell, mostly in the far north, not a flood in a single day.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 14.352,
+     "start": 18714,
+     "end": 19145
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 19149,
+   "end": 19431,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the sea ring gives a mixed answer. A wetter Sahara, yes. An ocean, a sinking island and a one-day disaster, no.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 8.328,
+     "start": 19159,
+     "end": 19409
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19413,
+   "end": 19643,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which leaves the last ring, and the most direct test of all. If a city stood here, it left things behind.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 6.6,
+     "start": 19423,
+     "end": 19621
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "RING VII",
+    "The Diggers",
+    "1974 \u2192 TODAY"
+   ],
+   "img": "ep/img/shot_52.jpg",
+   "start": 19625,
+   "end": 20018,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ring seven: the diggers. People really did live in the Eye. In nineteen seventy-four the naturalist Th\u00e9odore Monod found remarkable concentrations of stone tools here.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 12.024,
+     "start": 19635,
+     "end": 19996
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 20000,
+   "end": 20337,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Most are Acheulean hand axes, the long-lived tool kit of early humans, made from the Eye's own quartzite. Some tools are even older.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 10.152,
+     "start": 20010,
+     "end": 20315
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 20319,
+   "end": 20734,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Later come Aterian tools, made by modern humans between roughly a hundred and forty-five thousand and twenty-nine thousand years ago. Then a scatter of Neolithic spear points.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 12.744,
+     "start": 20329,
+     "end": 20712
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 20716,
+   "end": 21218,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Many of these lie on the surface because the wind has blown the sand away over many climate cycles, leaving heavier stones behind. Archaeologists found them mostly in the outer valleys, and generally absent from the innermost rings.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 15.648,
+     "start": 20726,
+     "end": 21196
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21200,
+   "end": 21528,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The ridges are lined with thousands of stone burial mounds. Most have never been excavated or dated. That is a genuine open question.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 9.864,
+     "start": 21210,
+     "end": 21506
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21510,
+   "end": 21951,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And there is a real lost town nearby. Ouadane, a medieval caravan stop on the Saharan trade routes, now partly in ruins. Real, but younger than Plato's date by thousands of years.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 13.608,
+     "start": 21520,
+     "end": 21929
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 21933,
+   "end": 22289,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What has never been found: walls, harbours, canals, bronze, tin, orichalcum, pottery, streets. Not a single shard of the city Plato described.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 10.8,
+     "start": 21943,
+     "end": 22267
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 22271,
+   "end": 22502,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hand axes, yes. Hunters and herders, yes. An ocean empire, no. That brings us to the core.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 6.624,
+     "start": 22281,
+     "end": 22480
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "THE CORE",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 22484,
+   "end": 22588,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Seven rings crossed. Now the core.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 2.376,
+     "start": 22494,
+     "end": 22566
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 22570,
+   "end": 23055,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Concentric rings from an eroded dome: evidence. Rocks dated to about a hundred million years: evidence. Stone tools, but no city: evidence. A green Sahara with lakes and elephants: real, but not Atlantis.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 15.072,
+     "start": 22580,
+     "end": 23033
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23037,
+   "end": 23404,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Atlantis built in the rings: no evidence. An alien beacon, or an impact scar: debunked. Who built the ridge-top burial mounds, and when: still open.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 11.16,
+     "start": 23047,
+     "end": 23382
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 23386,
+   "end": 23906,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. The Eye of the Sahara is not Atlantis, and it was not made by visitors. It's a dome of rock lifted by magma a hundred million years ago and carved by erosion into rings. The one real match with Plato is the circle.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 16.248,
+     "start": 23396,
+     "end": 23884
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 23888,
+   "end": 24237,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Plato's Atlantis lived in a story about pride and power. Trying to pin it to a map means stretching the stadia, flooding a desert and ignoring the rock.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 10.56,
+     "start": 23898,
+     "end": 24215
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 24219,
+   "end": 24645,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the real Eye doesn't need a myth. Hundreds of thousands of years of human tool-makers, a green Sahara, and a hundred-million-year-old window into the Earth. That's a story worth the trip.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 13.128,
+     "start": 24229,
+     "end": 24623
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 24627,
+   "end": 24904,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That's the core. Which ring surprised you most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 8.16,
+     "start": 24637,
+     "end": 24882
+    }
+   ]
+  }
+ ]
+}
