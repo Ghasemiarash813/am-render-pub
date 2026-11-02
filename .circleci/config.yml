@@ -34,7 +34,7 @@ jobs:
             cp itm/item/audio/*.mp3 public/ep/audio/; cp itm/item/music.wav public/ep/; cp itm/item/img/*.jpg public/ep/img/
             export FONTCONFIG_FILE=$PWD/fonts/fonts.conf; fc-match Georgia; fc-match "Courier New"; nproc
             python3 scripts/segments.py itm/item/timeline.json 1400 "<< pipeline.parameters.only >>" > segs.json
-            python3 - > mine.txt <<'E'
+            python3 - > mine.txt \<<'E'
             import json,os
             s=json.load(open('segs.json')); n=int(os.environ['CIRCLE_NODE_TOTAL']); i=int(os.environ['CIRCLE_NODE_INDEX'])
             for k,x in enumerate(s):
