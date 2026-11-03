@@ -1,0 +1,1360 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal a snowy wooded hillside in western Pennsylvania at dusk, bare trees, cold blue light, 1965, film grain, faint blue smoke drifting between the trees, flashlight beams in the distance, cinematic, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "December ninth, nineteen sixty-five. A small town in western Pennsylvania. By nightfall the woods outside it are full of flashlights, state police, and a rumor that something fell from the sky. Was it a spacecraft?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "December ninth, nineteen sixty-five. A small town in western Pennsylvania. By nightfall the woods outside it are full of flashlights, state police, and a rumor that something fell from the sky. Was it a spacecraft?",
+    "file": "ep/audio/s01.mp3",
+    "dur": 15.312
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal long exposure of a brilliant white-orange fireball with a glowing tail streaking over snowy hills at dusk, a darkening winter evening sky, deep blue to orange horizon, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The legend says it was shaped like an acorn, the size of a small car, ringed with strange writing, and hauled away on a flatbed truck. Television calls it Pennsylvania's Roswell."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The legend says it was shaped like an acorn, the size of a small car, ringed with strange writing, and hauled away on a flatbed truck. Television calls it Pennsylvania's Roswell.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal desk covered with brittle 1965 newspaper clippings, a magnifying glass and a desk lamp, the print reduced to blurred grey lines, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we rebuild that evening minute by minute, from newspapers, seismographs, court records and the people who were there. Only what we can verify counts. This is the Kecksburg incident."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we rebuild that evening minute by minute, from newspapers, seismographs, court records and the people who were there. Only what we can verify counts. This is the Kecksburg incident.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Title card background: a lone dark country road in Pennsylvania at dusk with a faint orange glow low in the sky, minimal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Kecksburg acorn. Evidence against theory. Start the clock."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Kecksburg acorn. Evidence against theory. Start the clock.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 4.056
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal wide winter dusk sky over flat Michigan farmland with a brilliant white-orange fireball and long glowing tail crossing from left to right, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Four forty-three p.m., eastern time. Over Michigan and Ontario, people look up. A fireball, brighter than anything they have seen, is crossing the darkening sky from west to east."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I",
+   "4:43 PM \u00b7 THE FIREBALL",
+   "WHAT THE SKY SHOWED"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Four forty-three p.m., eastern time. Over Michigan and Ontario, people look up. A fireball, brighter than anything they have seen, is crossing the darkening sky from west to east.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal view from a 1960s airliner cockpit window at dusk, a brilliant streak of light across the horizon, instrument glow, grainy film look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At least twenty-three pilots report it, the first at four forty-four. It is seen across six American states and Ontario. This part is not legend. It is in the records."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At least twenty-three pilots report it, the first at four forty-four. It is seen across six American states and Ontario. This part is not legend. It is in the records.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 11.928
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1960s seismograph with a rotating paper drum and a stylus drawing a jagged line, laboratory, warm lamp light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Near Detroit, a seismograph picks up shock waves from the sky. Sonic booms rattle windows around Pittsburgh. A fireball that loud and that long is not a rumor. It is a physical event."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Near Detroit, a seismograph picks up shock waves from the sky. Sonic booms rattle windows around Pittsburgh. A fireball that loud and that long is not a rumor. It is a physical event.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal 1960s university observatory at night, a telescope pointing out of an open dome slit, stars, a scientist's silhouette at a desk with photographs, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Astronomers gather the sightings and a few photographs. Their reconstruction, published in nineteen sixty-seven, is the best data we have on where the object really went."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Astronomers gather the sightings and a few photographs. Their reconstruction, published in nineteen sixty-seven, is the best data we have on where the object really went.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal small grass fire and glowing orange embers on a dark snowy farm field at night, a farmhouse in the distance, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then the landing reports begin. Hot metal in Michigan. Grass fires in Ohio. Each witness places the object close by, just beyond the next hill."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then the landing reports begin. Hot metal in Michigan. Grass fires in Ohio. Each witness places the object close by, just beyond the next hill.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.088
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1960s man in a wool coat on a country road shading his eyes and looking up at the evening sky, distant tree line, film grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Geophysicist George Wetherill explained why in Sky and Telescope. Almost everyone thought the fireball was much closer than it was. When it slipped behind a tree, they thought it had dropped just beyond."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Geophysicist George Wetherill explained why in Sky and Telescope. Almost everyone thought the fireball was much closer than it was. When it slipped behind a tree, they thought it had dropped just beyond.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 13.944
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal vintage paper map of the Great Lakes region spread on a wooden desk, a long red pencil line drawn across it, a ruler and brass compass, labels blurred, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So scientists drew one line through all of it. One continuous track, hundreds of miles long. A single object, moving fast, burning in the air."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So scientists drew one line through all of it. One continuous track, hundreds of miles long. A single object, moving fast, burning in the air.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.248
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal small village in Westmoreland County Pennsylvania in winter dusk, a fire station with a lit window, bare hills behind, 1965, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now zoom in on one spot on that line. Kecksburg, Pennsylvania, a small village about thirty miles southeast of Pittsburgh. A volunteer fire department, a few houses, and a lot of woods."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II",
+   "4:46 PM \u00b7 THE WOODS",
+   "WHAT PEOPLE REPORTED"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now zoom in on one spot on that line. Kecksburg, Pennsylvania, a small village about thirty miles southeast of Pittsburgh. A volunteer fire department, a few houses, and a lot of woods.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1965 farmhouse kitchen window at dusk, a family silhouetted looking out at a glowing orange sky, warm interior light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is dinner time. Families see the light pass over the hills. Some say it slowed, turned and dropped. Others only felt the ground thump."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is dinner time. Families see the light pass over the hills. Some say it slowed, turned and dropped. Others only felt the ground thump.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 9.336
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal a snowy wooded hillside in western Pennsylvania at dusk, bare trees, cold blue light, 1965, film grain, thin blue smoke curling up through the trees, teenagers' silhouettes running up the slope, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some run up into the woods. They report blue smoke between the trees. In the village, people talk about a vibration, and a sound like something heavy landing."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some run up into the woods. They report blue smoke between the trees. In the village, people talk about a vibration, and a sound like something heavy landing.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal 1960s black rotary wall telephone in a dim hallway, close-up, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The calls start coming in. To the state police, to the local radio, to the newspaper in Greensburg. Everyone has the same question: what came down?"
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The calls start coming in. To the state police, to the local radio, to the newspaper in Greensburg. Everyone has the same question: what came down?",
+    "file": "ep/audio/s15.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1960s Pennsylvania state police cruiser parked on a snowy country road at dusk with its dome light glowing, trees behind, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Four forty-six p.m. is the time some accounts give for something landing near Kecksburg. NASA's own catalog calls these unconfirmed reports. Hold on to that word."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Four forty-six p.m. is the time some accounts give for something landing near Kecksburg. NASA's own catalog calls these unconfirmed reports. Hold on to that word.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal groups of volunteer firemen and neighbors with flashlights walking through snowy woods at night, beams crossing in the fog, 1965, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By dark, firemen, state troopers and neighbors are searching the woods with flashlights. They are looking for a wreck. What they actually find is the subject of sixty years of argument."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By dark, firemen, state troopers and neighbors are searching the woods with flashlights. They are looking for a wreck. What they actually find is the subject of sixty years of argument.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 11.976
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Artist's rendering, photoreal: a dull bronze acorn-shaped metallic object the size of a small car half buried in leaves and snow in dark woods at night, a faint band of unreadable engraved marks around its base, eerie glow, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is where the legend begins. Witnesses later described a metallic object half buried in the leaves, shaped like an acorn, with a band of markings around its base. We will test it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is where the legend begins. Witnesses later described a metallic object half buried in the leaves, shaped like an acorn, with a band of markings around its base. We will test it.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal stack of aged documents in layers on a desk, three separate piles from different decades, desk lamp, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the problem with the legend. The evidence comes in layers. Layer one is December nineteen sixty-five. Layer two is memory, years later. We will keep them apart."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the problem with the legend. The evidence comes in layers. Layer one is December nineteen sixty-five. Layer two is memory, years later. We will keep them apart.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal dark country road with a rope barrier and a trooper's silhouette in headlights, falling snow, 1965, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the cordon. The legend says soldiers arrived within hours, sealed the woods and carried something away. So what does the nineteen sixty-five record actually show?"
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "III",
+   "DUSK \u00b7 THE CORDON",
+   "WHO ARRIVED, WHAT THEY FOUND"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the cordon. The legend says soldiers arrived within hours, sealed the woods and carried something away. So what does the nineteen sixty-five record actually show?",
+    "file": "ep/audio/s20.mp3",
+    "dur": 11.352
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal old newspaper front page on a desk under lamp light, a grainy photo of a wooded hill, all headlines and columns blurred beyond reading, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Greensburg Tribune-Review, December tenth. Authorities had sealed off a patch of woods to wait for engineers. It is the strongest contemporary support for the legend, and it is real."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Greensburg Tribune-Review, December tenth. Authorities had sealed off a patch of woods to wait for engineers. It is the strongest contemporary support for the legend, and it is real.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal 1960s men in coats and Air Force parkas sweeping a Geiger counter over snowy leaves in a forest at night, flashlight beams, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The next edition reports Searchers Fail to Find Object. Troopers and Air Force personnel with Geiger counters walk the woods, find nothing, and call off the search."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The next edition reports Searchers Fail to Find Object. Troopers and Air Force personnel with Geiger counters walk the woods, find nothing, and call off the search.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 11.232
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal Air Force radar station on a flat Ohio hill at night, a dish antenna against a starry winter sky, 1960s, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the Air Force was there. That part is true. The question is what they were hunting. A Soviet space probe had been stranded in orbit for two weeks, and it was due to fall back to Earth that same day."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the Air Force was there. That part is true. The question is what they were hunting. A Soviet space probe had been stranded in orbit for two weeks, and it was due to fall back to Earth that same day.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 13.2
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal 1960s Soviet Venus probe, a metal sphere with solar panels and antennas, in a clean room, dramatic museum photograph, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That probe was Kosmos ninety-six, a Venus mission launched on November twenty-third that never left Earth orbit. Researcher James Oberg proposed it as the Kecksburg object, and the coincidence of dates is real."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That probe was Kosmos ninety-six, a Venus mission launched on November twenty-third that never left Earth orbit. Researcher James Oberg proposed it as the Kecksburg object, and the coincidence of dates is real.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 15.432
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Dark archive room with a tall window on the right edge and large empty dark space on the left, one desk lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But NASA's own catalog says it does not fit. Air Force tracking puts the probe's orbital decay earlier than twenty-one forty-three universal time. That is the exact minute of the fireball."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But NASA's own catalog says it does not fit. Air Force tracking puts the probe's orbital decay earlier than twenty-one forty-three universal time. That is the exact minute of the fireball.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal two analysts at a dim 1960s tracking desk comparing orbital printouts, green radar glow, papers blurred, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even Leslie Kean, the journalist who pushed hardest for the files, says data from U.S. Space Command and the Russian space agency rule out a Russian satellite. The leading earthly candidate is in trouble from both sides."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even Leslie Kean, the journalist who pushed hardest for the files, says data from U.S. Space Command and the Russian space agency rule out a Russian satellite. The leading earthly candidate is in trouble from both sides.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 14.88
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal investigator in a 1990s sweater at a kitchen table with a cassette recorder and a map of Pennsylvania, warm lamp, grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Researcher Stan Gordon began collecting accounts soon after. He says multiple independent witnesses saw a metallic, acorn-shaped object on the ground, and that the military arrived quickly to recover it. He remains convinced."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Researcher Stan Gordon began collecting accounts soon after. He says multiple independent witnesses saw a metallic, acorn-shaped object on the ground, and that the military arrived quickly to recover it. He remains convinced.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 16.128
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal rural Pennsylvania weekly newspaper office, a typewriter, stacks of bound volumes from 1965, a reader turning pages with a magnifying glass, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Skeptical researchers who combed the nineteen sixty-five papers say no account from that time mentions anything being recovered. The Tribune-Review editors wrote on December eleventh that nothing at all seems to have happened."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Skeptical researchers who combed the nineteen sixty-five papers say no account from that time mentions anything being recovered. The Tribune-Review editors wrote on December eleventh that nothing at all seems to have happened.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 14.808
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1960s flatbed truck driving a snowy rural road at night with a tarp-covered shape on the back, headlights, distant trees, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The flatbed story comes mainly from one witness, John Hays, who was ten in nineteen sixty-five and who told it on television in nineteen ninety. He described a truck carrying something the size of a Volkswagen."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The flatbed story comes mainly from one witness, John Hays, who was ten in nineteen sixty-five and who told it on television in nineteen ninety. He described a truck carrying something the size of a Volkswagen.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 14.832
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal empty snowy road through woods at dawn, tire tracks fading into mist, quiet and blank, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Contemporary reports describe a short search, a couple of hours, and an empty result. A secret recovery is not in the record. It first appears a quarter of a century later."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Contemporary reports describe a short search, a couple of hours, and an empty result. A secret recovery is not in the record. It first appears a quarter of a century later.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal Pennsylvania sunrise over frosty fields and a village, pale gold light, a church steeple, calm, 1965, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So if nothing solid was carried out of those woods, what was that light? The morning after, the astronomers already had an answer."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So if nothing solid was carried out of those woods, what was that light? The morning after, the astronomers already had an answer.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.184
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal 1960s Pentagon-style government office, a wood desk, a typewritten memo, a stern officer in uniform seen from behind, window light, text blurred, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "December tenth. The Air Force and the Defense Department say it was a natural phenomenon, a meteor or meteors. Astronomers at several observatories agree. It is the official answer, and it arrives within a day."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV",
+   "DEC 10 \u00b7 THE OFFICIAL ANSWER",
+   "WHAT ASTRONOMERS CONCLUDED"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "December tenth. The Air Force and the Defense Department say it was a natural phenomenon, a meteor or meteors. Astronomers at several observatories agree. It is the official answer, and it arrives within a day.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 14.736
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1967 scientific journal open on a desk beside a slide rule and photographs of a fireball trail, lamp light, text blurred, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen sixty-seven, two astronomers published a detailed reconstruction in the Journal of the Royal Astronomical Society of Canada, using the seismograph record and photographs of the trail."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen sixty-seven, two astronomers published a detailed reconstruction in the Journal of the Royal Astronomical Society of Canada, using the seismograph record and photographs of the trail.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal dusk view over the western shore of Lake Erie, a fireball fading to a faint streak above cold water, distant city lights, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their reconstruction places the end of the track near the northwest shore of Lake Erie, close to Windsor, Ontario. That is hundreds of miles from Kecksburg."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their reconstruction places the end of the track near the northwest shore of Lake Erie, close to Windsor, Ontario. That is hundreds of miles from Kecksburg.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal wide Pennsylvania hill country at night under a clear starry sky, no fireball, silent and empty, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If that is right, the fireball burned out well short of Pennsylvania. Nothing solid came down in those woods. People saw the end of the light, and the hills did the rest."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If that is right, the fireball burned out well short of Pennsylvania. Nothing solid came down in those woods. People saw the end of the light, and the hills did the rest.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal bright meteor with an orange-white head and fragmenting glowing tail burning across a dark winter sky, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A bolide, in other words. A very bright meteor. Some astronomers even suggested a Geminid, since that shower was active. Most of these burn up completely. The few that do not scatter small stones, not tidy acorns."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A bolide, in other words. A very bright meteor. Some astronomers even suggested a Geminid, since that shower was active. Most of these burn up completely. The few that do not scatter small stones, not tidy acorns.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 15.744
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal empty velvet-lined museum tray with a few small dark stones under a spotlight, one empty slot, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The official answer has a weakness. None of our sources identifies a single recovered fragment from that night. A meteor explains the light. It does not explain the thump and the smoke."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The official answer has a weakness. None of our sources identifies a single recovered fragment from that night. A meteor explains the light. It does not explain the thump and the smoke.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal cutaway-style studio photograph of a heavy metal cone-shaped re-entry capsule scorched black from heat, on a workshop floor, dramatic light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A second earthly idea: a classified American re-entry vehicle. In twenty fifteen, two MUFON researchers argued for one built by General Electric. It is a hypothesis. Neither NASA nor the Air Force has confirmed it."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A second earthly idea: a classified American re-entry vehicle. In twenty fifteen, two MUFON researchers argued for one built by General Electric. It is a hypothesis. Neither NASA nor the Air Force has confirmed it.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 16.32
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal 1940s German laboratory interior with a mysterious bell-shaped metal apparatus under a tarp, dark and murky, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the Nazi bell. Television shows in the late two-thousands pushed a story of a secret German device called Die Glocke falling in Kecksburg. No documents tie it to the event."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the Nazi bell. Television shows in the late two-thousands pushed a story of a secret German device called Die Glocke falling in Kecksburg. No documents tie it to the event.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal four plain cardboard evidence boxes arranged on a dark table, each open to show a different object: a meteor rock, a small probe model, a capsule, a dark metallic acorn, lit by one lamp, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That leaves four stories: a meteor, a Soviet probe, a secret American vehicle, and a craft from elsewhere. Only the first has a measured trajectory."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That leaves four stories: a meteor, a Soviet probe, a secret American vehicle, and a craft from elsewhere. Only the first has a measured trajectory.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 10.32
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal glowing television screen in a dark living room in 1990, static and a silhouette of a host in a trench coat, retro, grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the acorn did not come from the sky. It came from television. Fast forward twenty-five years."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the acorn did not come from the sky. It came from television. Fast forward twenty-five years.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 6.792
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal 1990 television studio set, a man in a dark trench coat standing in fog before a backdrop of a night forest, dramatic spotlight, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "December nineteen ninety. NBC's Unsolved Mysteries airs a Kecksburg episode, hosted by Robert Stack. It features an acorn-shaped object, hieroglyph-like writing, and a secret military pickup."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "V",
+   "1990 \u00b7 THE ACORN",
+   "HOW THE LEGEND GREW"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "December nineteen ninety. NBC's Unsolved Mysteries airs a Kecksburg episode, hosted by Robert Stack. It features an acorn-shaped object, hieroglyph-like writing, and a secret military pickup.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal large bronze-painted acorn-shaped prop with a band of abstract marks standing beside a small-town fire station, winter daylight, tourists' silhouettes, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "To film it, the producers built a prop acorn. It still stands by the Kecksburg fire station, and visitors take their pictures beside it. It is a mockup, not the object."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To film it, the producers built a prop acorn. It still stands by the Kecksburg fire station, and visitors take their pictures beside it. It is a mockup, not the object.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal two timelines on a dark table, one short thin strip of paper and one very long strip with many added notes, desk lamp, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is what changed. In nineteen sixty-five the stories were smoke and a thump. After the show, they were a craft, markings and soldiers. Gordon says his interviews recorded the acorn earlier. Skeptics say the papers never did."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is what changed. In nineteen sixty-five the stories were smoke and a thump. After the show, they were a craft, markings and soldiers. Gordon says his interviews recorded the acorn earlier. Skeptics say the papers never did.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 15.984
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal long chain of whispering silhouettes in a dim hallway each passing a glowing note to the next, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Skeptics Joe Nickell and Tom McGaha call this the Roswellian syndrome: witness accounts that grow with each retelling over the decades. Memory is not a recording. It is a story we keep editing."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Skeptics Joe Nickell and Tom McGaha call this the Roswellian syndrome: witness accounts that grow with each retelling over the decades. Memory is not a recording. It is a story we keep editing.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal petition clipboard with many signatures on a small-town fire station counter, winter light, pen, signatures blurred, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Locals were furious. According to the Tribune-Review, more than fifty residents, roughly ten percent of the town, signed a petition asking the producers not to air the program."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Locals were furious. According to the Tribune-Review, more than fifty residents, roughly ten percent of the town, signed a petition asking the producers not to air the program.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal weathered elderly volunteer fire chief in a heavy jacket standing outside a small-town fire hall at dusk, serious expression, cinematic portrait, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Fire chief Ed Myers, named in the legend as helping seal the woods, told the paper there was absolutely no truth to it. Defenders reply that locals were embarrassed, and a quiet recovery would not make the news."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fire chief Ed Myers, named in the legend as helping seal the woods, told the paper there was absolutely no truth to it. Defenders reply that locals were embarrassed, and a quiet recovery would not make the news.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 14.592
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal television crew with a camera and boom microphone filming in a snowy forest at night, spotlight, equipment cases, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That last argument cannot be tested. And the retelling never stopped. In two thousand three the Sci Fi Channel aired The New Roswell: Kecksburg Exposed, hosted by Bryant Gumbel."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That last argument cannot be tested. And the retelling never stopped. In two thousand three the Sci Fi Channel aired The New Roswell: Kecksburg Exposed, hosted by Bryant Gumbel.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 13.056
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal stack of DVD cases and old VHS tapes about UFOs on a shelf, titles blurred, nostalgic warm light, dust, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "UFO Hunters, Close Encounters and Ancient Aliens retold it too. Each telling added a little. By then, the fireball of nineteen sixty-five was only the first sentence of a much bigger story."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "UFO Hunters, Close Encounters and Ancient Aliens retold it too. Each telling added a little. By then, the fireball of nineteen sixty-five was only the first sentence of a much bigger story.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 14.088
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal filing cabinet drawers in a federal records archive, boxes on tall shelves, one empty gap, fluorescent light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Meanwhile, a real paper trail. In January two thousand three, journalist Leslie Kean, working with the Coalition for Freedom of Information and backed by the Sci Fi Channel, asked NASA for its Kecksburg files."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI",
+   "2003\u201309 \u00b7 THE LAWSUIT",
+   "THE FILES, THE COURT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Meanwhile, a real paper trail. In January two thousand three, journalist Leslie Kean, working with the Coalition for Freedom of Information and backed by the Sci Fi Channel, asked NASA for its Kecksburg files.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 15.024
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal American federal courthouse interior, marble hallway, a lawyer's briefcase on a bench, cold light, quiet, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Kean sued. By March two thousand seven, a federal court found NASA's first searches inadequate, and NASA admitted it. In October, a settlement required a new search and the payment of her legal fees."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Kean sued. By March two thousand seven, a federal court found NASA's first searches inadequate, and NASA admitted it. In October, a settlement required a new search and the payment of her legal fees.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal cardboard archive boxes on a long steel table being opened by gloved hands, loose papers, harsh overhead light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hundreds of new documents arrived. The court-monitored search finished in August two thousand nine. Kean's conclusion: no smoking gun, but contradictions, and many files missing or destroyed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hundreds of new documents arrived. The court-monitored search finished in August two thousand nine. Kean's conclusion: no smoking gun, but contradictions, and many files missing or destroyed.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 13.464
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal sixty-year-old government storage basement with water-damaged boxes and dusty shelves, a single bulb, decay, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Skeptics read the same pages differently. NASA does not investigate UFOs, so its files were never the right place to look. Lost paper in sixty-year-old government storage is ordinary, not proof of a cover-up."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Skeptics read the same pages differently. NASA does not investigate UFOs, so its files were never the right place to look. Lost paper in sixty-year-old government storage is ordinary, not proof of a cover-up.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 15.312
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal woman journalist reading a thick printed report at a desk beside a window with a mug, thoughtful, soft daylight, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Kean told Space.com she is convinced something came down at Kecksburg, and that a UFO or a secret American device cannot be ruled out. She added that the real lesson was about the Freedom of Information Act."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Kean told Space.com she is convinced something came down at Kecksburg, and that a UFO or a secret American device cannot be ruled out. She added that the real lesson was about the Freedom of Information Act.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 14.856
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal two empty wooden chairs facing each other across a bare table in a plain room, a single hanging lamp, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Gordon, who has studied the case for decades, and Kean, who sued over it, still call it an open question. That honesty matters. It also is not evidence of a craft."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Gordon, who has studied the case for decades, and Kean, who sued over it, still call it an open question. That honesty matters. It also is not evidence of a craft.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 11.088
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archive room with a tall window on the right edge and large empty dark space on the left, one desk lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to score the case. Evidence on one side, theory on the other."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VII",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score the case. Evidence on one side, theory on the other.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 4.2
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archive room with a tall window on the right edge and large empty dark space on the left, one desk lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A fireball over six states with at least twenty-three pilot reports: evidence. Shock waves on a seismograph: evidence. A natural meteor: the best fit. Cosmos ninety-six: doubtful, even by NASA's own catalog."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A fireball over six states with at least twenty-three pilot reports: evidence. Shock waves on a seismograph: evidence. A natural meteor: the best fit. Cosmos ninety-six: doubtful, even by NASA's own catalog.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 16.104
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archive room with a tall window on the right edge and large empty dark space on the left, one desk lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "An acorn-shaped craft: unverified, first described in detail in nineteen ninety. A military recovery on a flatbed: no contemporary evidence. An alien spacecraft: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "An acorn-shaped craft: unverified, first described in detail in nineteen ninety. A military recovery on a flatbed: no contemporary evidence. An alien spacecraft: no evidence.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark Pennsylvania wooded hillside at night under a clear starry sky, a faint last streak of light fading far away, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Not aliens. Something real lit the sky on December ninth, nineteen sixty-five, and the best-supported answer is a bright meteor that burned up well short of Kecksburg. The acorn and the flatbed rest on memories recorded decades later."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Not aliens. Something real lit the sky on December ninth, nineteen sixty-five, and the best-supported answer is a bright meteor that burned up well short of Kecksburg. The acorn and the flatbed rest on memories recorded decades later.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 17.112
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal old file folder half open on a desk with a single sheet showing a blurred map and a coffee ring, desk lamp, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But be honest about the gaps. A search happened, the files are incomplete, and nobody has shown publicly what, if anything, the Air Force recovered. Partly open is a fair label for what the records leave us."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But be honest about the gaps. A search happened, the files are incomplete, and nobody has shown publicly what, if anything, the Air Force recovered. Partly open is a fair label for what the records leave us.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 13.752
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal rural Pennsylvania road at night with a single porch light and a figure looking up at the stars, peaceful, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What stays with me is how a thump and some blue smoke became an acorn. Stories improve with age. The fireball itself, wide, loud and seen by thousands, never needed any help."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What stays with me is how a thump and some blue smoke became an acorn. Stories improve with age. The fireball itself, wide, loud and seen by thousands, never needed any help.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal dark Norwegian valley at night with faint glowing balls of light floating above snowy pines, eerie, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a Norwegian valley where glowing orbs have appeared for decades, and scientists are still studying them. Mystery lights, or something stranger?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a Norwegian valley where glowing orbs have appeared for decades, and scientists are still studying them. Mystery lights, or something stranger?",
+    "file": "ep/audio/s62.mp3",
+    "dur": 10.248
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single small acorn-shaped silhouette lit by a thin pale light on black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think fell near Kecksburg? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think fell near Kecksburg? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 7.368
+   }
+  ]
+ }
+]
