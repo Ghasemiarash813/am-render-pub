@@ -1,0 +1,1420 @@
+{
+ "fps": 30,
+ "total": 25329,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 460,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Five minutes past midnight, the thirty-first of March, nineteen ninety. Two F-16 fighter jets leave a Belgian air base, chasing triangles of light that the Air Force itself will never be able to explain.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.256,
+     "start": 10,
+     "end": 438
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 442,
+   "end": 775,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Radar saw them. Police saw them. Thousands of ordinary people said they saw them. And the pilots, with every sensor on board, saw nothing at all.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 10.008,
+     "start": 452,
+     "end": 753
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 757,
+   "end": 1066,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So was this the best-documented alien visit in history? Or the best-documented example of how a whole country can fool itself?",
+     "file": "ep/audio/s03.mp3",
+     "dur": 9.216,
+     "start": 767,
+     "end": 1044
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1048,
+   "end": 1347,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we run it like the Air Force did. An alert. A launch. An intercept. And then a debrief, where every claim gets a score.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 8.88,
+     "start": 1058,
+     "end": 1325
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1329,
+   "end": 1651,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Facts first, theories labelled, and no triangle gets a free pass. Alert received.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 5.664,
+     "start": 1339,
+     "end": 1509
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 ALERT",
+    "The First Triangle",
+    "EUPEN \u00b7 29 NOV 1989"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1633,
+   "end": 1993,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter one. The alert. It begins on the twenty-ninth of November, nineteen eighty-nine, in Eupen, a town in the east of Belgium, near the German border.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 10.92,
+     "start": 1643,
+     "end": 1971
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 1975,
+   "end": 2379,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two gendarmes on patrol see something in the sky. A large object, low, with bright lights, moving slowly. They report it. A local German-language paper prints the story.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 12.384,
+     "start": 1985,
+     "end": 2357
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2361,
+   "end": 2701,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the story spreads. Reporters call. Experts are quoted. And after more than a week of coverage, a hundred and forty-three people say they saw it too.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 10.248,
+     "start": 2371,
+     "end": 2679
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2683,
+   "end": 3042,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Experts, here, means a group called SOBEPS, the Belgian Society for the Study of Space Phenomena. Its leading voice is a physics professor, Auguste Meessen.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 10.896,
+     "start": 2693,
+     "end": 3020
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3024,
+   "end": 3352,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The picture that spreads is a black triangle, perhaps two hundred feet wide, with three lights underneath, drifting almost silently over the rooftops.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 9.84,
+     "start": 3034,
+     "end": 3330
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3334,
+   "end": 3737,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The sceptics read the first night differently. The gendarmes reported a low engine noise, and one witness described a stick with a turbine. That sounds like a Bell Huey helicopter.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 12.336,
+     "start": 3344,
+     "end": 3715
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3719,
+   "end": 4101,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And most of their report concerned a steady white light above a lake, exactly where the planet Venus would have been. Real people, honest reports, ordinary explanations.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 11.664,
+     "start": 3729,
+     "end": 4079
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4083,
+   "end": 4399,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But reports keep arriving. Through the winter of nineteen eighty-nine, they come in from all over Belgium. The Air Force begins to take notice.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 9.456,
+     "start": 4093,
+     "end": 4377
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4381,
+   "end": 4841,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By December the Belgian Air Force is receiving witness calls itself. Triangles, lights beaming down, a faint hum. It sets a rule: only scramble if police confirm the lights, and radar sees something too.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 14.256,
+     "start": 4391,
+     "end": 4819
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 GROUND",
+    "The Witnesses",
+    "RAMILLIES \u00b7 23:00"
+   ],
+   "img": "ep/img/shot_15.jpg",
+   "start": 4823,
+   "end": 5128,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter two. The ground. The night of the thirtieth of March, nineteen ninety, a clear, quiet Friday evening over the Walloon Brabant.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 9.072,
+     "start": 4833,
+     "end": 5106
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5110,
+   "end": 5577,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At eleven p.m., a gendarmerie officer phones the radar centre at Glons. From his home at Ramillies, he sees three lights above the fields. Brighter than stars, changing colour: red, green, yellow.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 14.472,
+     "start": 5120,
+     "end": 5555
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5559,
+   "end": 5912,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They form a perfect triangle. And they do not move. A controller does what the rules say: he asks the Wavre gendarmerie to send a patrol and confirm.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 10.68,
+     "start": 5569,
+     "end": 5890
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5894,
+   "end": 6340,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At about twenty-three thirty, the patrol arrives. Captain Pinson describes lights the size of a large star, changing from red to blue to green to white. Clear, he says, as if they were signals.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 13.8,
+     "start": 5904,
+     "end": 6318
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6322,
+   "end": 6673,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then three more lights appear and drift toward the first, after some disordered movements settling into a second triangle. Seen by several people, from the ground.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 10.608,
+     "start": 6332,
+     "end": 6651
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6655,
+   "end": 7084,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Gendarmes from four other stations, each about ten miles apart, will later say they saw the lights too. That matters. Independent police witnesses are the strongest kind of ground evidence we have.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 13.224,
+     "start": 6665,
+     "end": 7062
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7066,
+   "end": 7485,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But notice what ground witnesses can and cannot give us. Colour, brightness, and a rough direction. They cannot give distance. A bright light with no landmark can be a mile away, or a hundred.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.888,
+     "start": 7076,
+     "end": 7463
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7467,
+   "end": 7835,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even a bright star low on the horizon flashes red, green and white. Hold that thought. Because tonight, the lights are not the only witness. Over to radar.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 11.184,
+     "start": 7477,
+     "end": 7813
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 RADAR",
+    "The Blips",
+    "GLONS \u00b7 SEMMERZAKE"
+   ],
+   "img": "ep/img/shot_23.jpg",
+   "start": 7817,
+   "end": 8170,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter three. Radar. The Glons Control and Reporting Centre watches the sky over central Belgium, and tonight its controller finds something unusual.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.68,
+     "start": 7827,
+     "end": 8148
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8152,
+   "end": 8537,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "About eight nautical miles north of the sighting, a slow contact. Roughly twenty-five knots, heading west, at around ten thousand feet. Slower than a car on a motorway.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 11.736,
+     "start": 8162,
+     "end": 8515
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8519,
+   "end": 8896,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Before midnight, the civilian traffic radar at Semmerzake sees the same contact in the same place. A second radar, around a hundred miles away, confirms it.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 11.496,
+     "start": 8529,
+     "end": 8874
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8878,
+   "end": 9320,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two radars, one position. That is why the Air Force decides this is no longer only a story. Every condition on its list is now met. At eleven fifty-six, the order is given: scramble.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 13.656,
+     "start": 8888,
+     "end": 9298
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9302,
+   "end": 9679,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the weather log adds a detail. Clear sky, light wind, and a minor temperature inversion near three thousand feet, a warm layer of air lying over a cold one.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.496,
+     "start": 9312,
+     "end": 9657
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9661,
+   "end": 10115,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inversions bend radar beams. Radar then returns echoes from layers of air, and from the ground. Operators call them angels. This does not prove the blip was an angel. It is a flag.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 14.04,
+     "start": 9671,
+     "end": 10093
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10097,
+   "end": 10528,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sceptics point to this clear-air effect, called Bragg scattering, as the reason for many of the weaker radar contacts. Supporters say a controller would know. The truth is, we cannot test it from here.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 13.296,
+     "start": 10107,
+     "end": 10506
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10510,
+   "end": 10780,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the file now holds three things: lights on the ground, blips on two radars, and a bright question. Fighters launch.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 7.92,
+     "start": 10520,
+     "end": 10758
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 INTERCEPT",
+    "The Chase",
+    "BEAUVECHAIN \u00b7 00:05"
+   ],
+   "img": "ep/img/shot_31.jpg",
+   "start": 10762,
+   "end": 11210,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter four. The scramble. Five past midnight, two F-16s lift off from Beauvechain air base, call signs AL seventeen and AL twenty-three, guided by Glons toward the contact.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.848,
+     "start": 10772,
+     "end": 11188
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11192,
+   "end": 11494,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On board, each jet carries its own fire-control radar. Over the next hour, the pilots will try nine separate interceptions.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 8.976,
+     "start": 11202,
+     "end": 11472
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11476,
+   "end": 11735,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At thirteen minutes past midnight, the first lock. Six miles ahead of the nose, nine thousand feet, tracking west.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 7.536,
+     "start": 11486,
+     "end": 11713
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11717,
+   "end": 12199,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the target moves. According to the Air Force chronology, in a moment its speed jumps from one hundred and fifty knots to nearly a thousand. Its height drops, rises to eleven thousand feet, then plunges toward the ground.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 15.0,
+     "start": 11727,
+     "end": 12177
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12181,
+   "end": 12540,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The lock breaks within seconds. Glons, watching on its own screen, tells the pilots something strange: the jets are already flying over the target's position.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 10.872,
+     "start": 12191,
+     "end": 12518
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12522,
+   "end": 12857,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Over the next forty minutes, it repeats. A contact appears, the jets turn, a lock holds for ten to sixty seconds, and the target seems to leap away.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 10.08,
+     "start": 12532,
+     "end": 12835
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 12839,
+   "end": 13280,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One contact is clocked at seven hundred and forty knots, and as it breaks, the pilot's own warning panel shows radar jamming. Another runs at nearly seven hundred knots toward Bierset and vanishes.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 13.632,
+     "start": 12849,
+     "end": 13258
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 13262,
+   "end": 13688,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the ground, the witnesses watch the jets pass overhead. Three times. At the third pass, they say the lights change. One blinks hard, the others vanish, and the brightest dims slowly out.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 13.104,
+     "start": 13272,
+     "end": 13666
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 13670,
+   "end": 14043,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the problem. The pilots never saw anything. No lights, no shape, no silhouette. Their eyes, in a clear sky, found nothing where their radar insisted there was something.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 11.352,
+     "start": 13680,
+     "end": 14021
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14025,
+   "end": 14379,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The jets land at ten past one. The last light on the ground goes out around one thirty. No wreckage, no sound, no physical trace. Only data.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 10.728,
+     "start": 14035,
+     "end": 14357
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14361,
+   "end": 14721,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And how many locks were there? Here is a detail most retellings skip. The Air Force summary says six lock-ons. The detailed Air Force chronology says three.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 10.92,
+     "start": 14371,
+     "end": 14699
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14703,
+   "end": 15137,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And in three cases both F-16s locked at once, with the same numbers, while flying two miles apart. To some, that proves two machines saw one object. To others, there is a simpler reading.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 13.392,
+     "start": 14713,
+     "end": 15115
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "V \u00b7 THE PHOTO",
+    "Petit-Rechain",
+    "APRIL 1990"
+   ],
+   "img": "ep/img/shot_43.jpg",
+   "start": 15119,
+   "end": 15459,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter five. The photograph. In April nineteen ninety, a few days after the F-16 night, a photo explodes across Belgian newspapers.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 10.248,
+     "start": 15129,
+     "end": 15437
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 15441,
+   "end": 15813,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A black triangle with a light at each corner, above the trees. Taken by an anonymous photographer near Petit-Rechain. It looks exactly like the witnesses described.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 11.328,
+     "start": 15451,
+     "end": 15791
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 15795,
+   "end": 16150,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Laboratories examine it. NASA, the French national research centre CNRS, and the Belgian Royal Military Academy. None can prove it is a fake.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 10.752,
+     "start": 15805,
+     "end": 16128
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 16132,
+   "end": 16430,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For twenty years, SOBEPS keeps defending the photograph as genuine. Yet sceptics noticed that it could be reproduced with simple props.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 8.856,
+     "start": 16142,
+     "end": 16408
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 16412,
+   "end": 16750,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, in July two thousand and eleven, a man called Patrick Mar\u00e9chal goes on Belgian television. He says he made it, to fool his workmates.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 10.2,
+     "start": 16422,
+     "end": 16728
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16732,
+   "end": 17183,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A triangle of styrofoam, painted black. A flashlight in each corner. Hung from a string. He still had the photographs from the attempts it took to get it right. The best-known image of the wave was a hoax.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.944,
+     "start": 16742,
+     "end": 17161
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VI \u00b7 THE FILE",
+    "What the Air Force Said",
+    "DE BROUWER \u00b7 11 JULY 1990"
+   ],
+   "img": "ep/img/shot_49.jpg",
+   "start": 17165,
+   "end": 17521,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter six. The file. July eleventh, nineteen ninety, Colonel Wilfried De Brouwer of the Belgian Air Staff briefs the press on the night of the F-16s.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 10.776,
+     "start": 17175,
+     "end": 17499
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 17503,
+   "end": 17921,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His conclusion is careful. The Air Force could not identify the nature or the origin of the phenomena. That sentence is real. It is the heart of every alien claim about this case.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 12.84,
+     "start": 17513,
+     "end": 17899
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 17903,
+   "end": 18424,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But read what comes next. The Air Force lists what it ruled out. Balloons, ultralights, drones, aircraft including stealth, laser projections, mirages. Each for a reason: speeds, hovering, silence, no clouds to project onto.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 16.296,
+     "start": 17913,
+     "end": 18402
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 18406,
+   "end": 18766,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice the word stealth. For many, a secret American aircraft was the obvious suspect. The Air Force said no: any aircraft makes noise, and none can hover.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 10.92,
+     "start": 18416,
+     "end": 18744
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 18748,
+   "end": 19185,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A later chapter of the file is more technical. Belgian Air Force engineers re-examined the F-16 radar recordings frame by frame, thirty times a second, rebuilding the targets' paths.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 13.488,
+     "start": 18758,
+     "end": 19163
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 19167,
+   "end": 19579,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their finding, as reported: the radar's own tracking filter can create jumps, ghost tracks and sudden target swaps. The wild manoeuvres were partly made by the machine, not the sky.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 12.648,
+     "start": 19177,
+     "end": 19557
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 19561,
+   "end": 20061,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Auguste Meessen had argued that two radar traces had no conventional explanation. A cover note on that report says he later withdrew the alien conclusion. That detail comes second-hand, so we label it unverified.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 15.6,
+     "start": 19571,
+     "end": 20039
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "out",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 20043,
+   "end": 20406,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That report reportedly reached the public only in two thousand and twenty-five, with the radar performance figures blacked out, because the same radar is still in service.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 11.016,
+     "start": 20053,
+     "end": 20384
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VII \u00b7 AFTER ACTION",
+    "Why So Many?",
+    "THE HUMAN SENSOR"
+   ],
+   "img": "ep/img/shot_57.jpg",
+   "start": 20388,
+   "end": 20723,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter seven. After action. The wave is said to have been witnessed by thirteen and a half thousand people, of whom two thousand six hundred wrote statements.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 10.08,
+     "start": 20398,
+     "end": 20701
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 20705,
+   "end": 21138,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Those numbers are real, but they are not a count of people watching the F-16 chase live. Most reports came after the press asked for them. A report filed late is a memory, not a measurement.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 13.344,
+     "start": 20715,
+     "end": 21116
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 21120,
+   "end": 21555,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is the pattern the American sceptic Philip Klass described. News makes people look. Looking makes them find. Finding makes news, until the media lose interest and the wave dies on its own.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 13.416,
+     "start": 21130,
+     "end": 21533
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 21537,
+   "end": 21984,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Belgian sceptics, among them Marc Hallet, Jean-Michel Abrassart and Pierre Magain, argued exactly that. Planets, aircraft, helicopters, even laser shows, seen by people already primed to look.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 13.824,
+     "start": 21547,
+     "end": 21962
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 21966,
+   "end": 22371,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But sceptics also have a hole to fill. Why do so many police officers describe similar triangles, so close, over so many weeks? We simply do not have a complete, tested answer.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 12.432,
+     "start": 21976,
+     "end": 22349
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "none",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 22353,
+   "end": 22756,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What we have is a puzzle with a missing piece: no wreckage, no clear photograph, no radar record that survives careful analysis. Not nothing. But not what the headlines promised.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 12.336,
+     "start": 22363,
+     "end": 22734
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_63.jpg",
+   "start": 22738,
+   "end": 22848,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score the Belgian wave.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 2.568,
+     "start": 22748,
+     "end": 22826
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 22830,
+   "end": 23436,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Police and civilians reporting triangle-like lights: evidence. Thirteen thousand five hundred witnesses: partial, mostly late reports. Radar blips on two ground stations: evidence, still not fully explained. The F-16 chase proving a craft that outflew jets: weak.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 19.104,
+     "start": 22840,
+     "end": 23414
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 23418,
+   "end": 23816,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Petit-Rechain photograph: debunked, a hoax. Anomalous speeds as real flight: doubtful, since the tracking filter can create them. Extraterrestrial craft: no evidence.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 12.192,
+     "start": 23428,
+     "end": 23794
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 23798,
+   "end": 24296,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Unexplained, but not alien. Something odd happened over Belgium: lights, a radar puzzle, honest witnesses. But the dramatic parts, the supersonic leaps and the perfect photograph, fall apart under inspection.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 15.504,
+     "start": 23808,
+     "end": 24274
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 24278,
+   "end": 24694,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the human story remains remarkable. Police, pilots and radar crews did their jobs, wrote it all down, and the Air Force published the file. That is how a mystery should be handled.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 12.792,
+     "start": 24288,
+     "end": 24672
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_68.jpg",
+   "start": 24676,
+   "end": 25027,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: tiny golden objects from ancient Colombia that look uncannily like jet aircraft. Are they pre-Columbian aeroplanes, or just a very good fish?",
+     "file": "ep/audio/s68.mp3",
+     "dur": 10.608,
+     "start": 24686,
+     "end": 25005
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_69.jpg",
+   "start": 25009,
+   "end": 25254,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think those lights were? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s69.mp3",
+     "dur": 7.08,
+     "start": 25019,
+     "end": 25232
+    }
+   ]
+  }
+ ]
+}
