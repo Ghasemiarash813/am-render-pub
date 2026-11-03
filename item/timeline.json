@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 26046,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 470,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Pakistan, four thousand years ago. A planned city of around forty thousand people, with drains, wells, and bathrooms inside the houses. And then, according to the internet, it was erased by an atomic bomb.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.568,
+     "start": 10,
+     "end": 448
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 452,
+   "end": 912,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The story has everything. Skeletons lying in the streets, holding hands. Bones as radioactive as Hiroshima. Bricks melted into glass. And an ancient Indian epic that describes the blast.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 14.256,
+     "start": 462,
+     "end": 890
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 894,
+   "end": 1234,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we do something simple. We follow each claim upstream, one source at a time, the way a detective traces a rumour back to the first person who said it.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 10.248,
+     "start": 904,
+     "end": 1212
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1216,
+   "end": 1476,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Six hops. At every stop, the same three questions. Who said it? When? And what did they actually have in their hands?",
+     "file": "ep/audio/s04.mp3",
+     "dur": 7.584,
+     "start": 1226,
+     "end": 1454
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1458,
+   "end": 1923,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If the chain ends in a dig report or a laboratory, the claim stands. If it ends in a book, a magazine, or a blank, it falls. Start at the top.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 10.416,
+     "start": 1468,
+     "end": 1781
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 THE CLAIM",
+    "What the Web Says",
+    "SKELETONS \u00b7 GLASS \u00b7 RADIATION \u00b7 EPIC"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1905,
+   "end": 2238,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Item one. The claim, as it stands today. It is repeated on hundreds of websites, in videos, in documentaries, always in nearly the same words.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 10.032,
+     "start": 1915,
+     "end": 2216
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2220,
+   "end": 2651,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Skeletons in the street, unburied, many holding hands. Fused glass at an epicentre. Radiation fifty times normal. And an epic poem, the Mahabharata, with a nuclear weapon in it.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.296,
+     "start": 2230,
+     "end": 2629
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2633,
+   "end": 2947,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice what kind of evidence this is. Every item is a thing someone found, or measured, or read. So each one should leave a paper trail.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 9.384,
+     "start": 2643,
+     "end": 2925
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2929,
+   "end": 3377,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Archaeology is boring in exactly the right way. Digs are published, finds are catalogued, labs sign their results. A real discovery of an ancient bomb site would leave a mountain of paper.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.848,
+     "start": 2939,
+     "end": 3355
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3359,
+   "end": 3589,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So let's go and look for the paper. Hop one: the city itself. What was Mohenjo-daro, really?",
+     "file": "ep/audio/s10.mp3",
+     "dur": 6.6,
+     "start": 3369,
+     "end": 3567
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II \u00b7 HOP ONE",
+    "The City",
+    "GRID \u00b7 WELLS \u00b7 BATH \u00b7 DRAINS"
+   ],
+   "img": "ep/img/shot_11.jpg",
+   "start": 3571,
+   "end": 4046,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hop one. The city. Mohenjo-daro was built around twenty-five hundred B C, on a ridge beside the Indus River, in what is now Sindh. It was one of the great cities of the Indus Valley civilisation.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 14.736,
+     "start": 3581,
+     "end": 4024
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4028,
+   "end": 4477,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Streets on a grid. Houses of fired brick. Covered drains running beneath the lanes. More than seven hundred wells, roughly one for every three houses. Nothing else in the world at that time looked like it.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 13.896,
+     "start": 4038,
+     "end": 4455
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4459,
+   "end": 4836,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At its heart, the Great Bath. Twelve metres long, seven wide, two and a half deep, lined with bitumen to hold the water. We still do not know exactly what it was for.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 11.472,
+     "start": 4469,
+     "end": 4814
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4818,
+   "end": 5234,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The city stood on huge brick platforms, built against floods. One estimate puts that labour at four million man-days. This was a society that planned, organised, and fed its workers.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 12.792,
+     "start": 4828,
+     "end": 5212
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5216,
+   "end": 5647,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No obvious palace. No royal tomb. No temple we can name. And one small bronze girl, hand on hip, with bangles up her arm, who tells us these people could cast metal and loved to dance.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 13.272,
+     "start": 5226,
+     "end": 5625
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5629,
+   "end": 6034,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They also had a script, on thousands of tiny seals. Nobody can read it. That, and the silence about kings, is the real mystery of the Indus, and it has nothing to do with bombs.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 12.432,
+     "start": 5639,
+     "end": 6012
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6016,
+   "end": 6501,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The city lay forgotten for about thirty-seven hundred years. An Indian archaeologist, R D Banerji, visited in nineteen nineteen. Large digs followed under Dikshit and John Marshall in the mid nineteen twenties.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 15.072,
+     "start": 6026,
+     "end": 6479
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6483,
+   "end": 6870,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice something. Everything we know about the city comes from a century of excavation. So if something blew it up, this is where the first receipts should be. Hop two: the bodies.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 11.832,
+     "start": 6493,
+     "end": 6848
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III \u00b7 HOP TWO",
+    "The Skeletons",
+    "WHEELER \u00b7 DALES \u00b7 FLOOD \u00b7 DISEASE"
+   ],
+   "img": "ep/img/shot_19.jpg",
+   "start": 6852,
+   "end": 7286,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hop two. The skeletons. Yes, human remains were found, scattered through the excavations at Mohenjo-daro. The count usually quoted is a few dozen. Not thousands. Not a whole city.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 13.368,
+     "start": 6862,
+     "end": 7264
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7268,
+   "end": 7722,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The first big story came from the archaeologist Mortimer Wheeler, in the late nineteen forties. He saw those bones as victims of a massacre, killed in the last hours of the city by invaders from the north.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 14.04,
+     "start": 7278,
+     "end": 7700
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7704,
+   "end": 8121,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Wheeler's invasion theory was dramatic, and it fit the thinking of his day. For a while it was the textbook answer. It also explains why people later believed in a sudden, violent end.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.816,
+     "start": 7714,
+     "end": 8099
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8103,
+   "end": 8507,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, in nineteen sixty-four, the American archaeologist George Dales went back through the records. His paper has a blunt title: The Mythical Massacre at Mohenjo-daro.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 12.384,
+     "start": 8113,
+     "end": 8485
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8489,
+   "end": 8817,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Dales found that the skeletons came from different levels, which means different periods, scattered across the city's long history. They did not die together.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 9.864,
+     "start": 8499,
+     "end": 8795
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8799,
+   "end": 9181,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Most showed no weapon injuries at all. And none lay in the citadel, the one place where a last stand would have happened. The massacre story collapsed, and archaeologists dropped it.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 11.64,
+     "start": 8809,
+     "end": 9159
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9163,
+   "end": 9621,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What the diggers did find was mud. Layer on layer of silty clay, the signature of floods. The city was raised, rebuilt and flooded again, perhaps six times, as the Indus wandered across its plain.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 14.184,
+     "start": 9173,
+     "end": 9599
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9603,
+   "end": 9966,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Flood and water-borne disease are a far more ordinary answer for a few unburied bodies. That is not proven either, but it matches the layers in the ground.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.016,
+     "start": 9613,
+     "end": 9944
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9948,
+   "end": 10322,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the skeletons trace back to a real dig, and a real correction. No blast, no hand-holding families. The first hop breaks on contact. Hop three: the glass.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.376,
+     "start": 9958,
+     "end": 10300
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "IV \u00b7 HOP THREE",
+    "The Glass",
+    "EPICENTRE \u00b7 TRINITITE \u00b7 KILNS \u00b7 FIRE"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 10304,
+   "end": 10699,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hop three. The glass. The nuclear story says there was an epicentre, about fifty yards wide, where everything was fused into crystal, and bricks melted on one side sixty yards out.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 12.096,
+     "start": 10314,
+     "end": 10677
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10681,
+   "end": 11204,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ask who said it, and the trail runs to a book. A British researcher, David Davenport, and an Italian writer, Ettore Vincenti. It came out in Italy in nineteen seventy-nine, with the title two thousand B C: Atomic Destruction.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 16.344,
+     "start": 10691,
+     "end": 11182
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11186,
+   "end": 11596,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They reported temperatures near fifteen hundred degrees, followed by sudden cooling. A dramatic claim. So we look for the same thing in the excavation reports. And we find a silence.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 12.576,
+     "start": 11196,
+     "end": 11574
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11578,
+   "end": 12066,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now compare with a real atomic site. In nineteen forty-five, at the Trinity test in New Mexico, the blast turned desert sand into a thin green glass across the ground. A bomb leaves a signature you can pick up.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 15.168,
+     "start": 11588,
+     "end": 12044
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12048,
+   "end": 12479,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mohenjo-daro has no crater. No blast layer. No ring of melted ground. Not in Marshall's reports, not in Mackay's, not in Dales's, not in the surveys of the nineteen eighties.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 13.296,
+     "start": 12058,
+     "end": 12457
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12461,
+   "end": 12831,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But there is glass of a kind. The city was a factory town. It had furnaces for copper and bronze, and kilns for baking bricks and pots, running hot for centuries.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 11.256,
+     "start": 12471,
+     "end": 12809
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12813,
+   "end": 13234,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Overfired pots warp and glaze. Kiln waste melts into lumps of slag. A site full of kilns is going to produce fused, glassy bits. That is a boring answer, and it fits the evidence.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 12.936,
+     "start": 12823,
+     "end": 13212
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13216,
+   "end": 13651,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There are a few traces of fire. One block of jewellers' workshops was apparently burned. But the layers show no wide ash, no charcoal horizon, no sign that the whole city burned at once.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 13.416,
+     "start": 13226,
+     "end": 13629
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13633,
+   "end": 13889,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No published analysis ever matched the glass to a bomb. The trail ends at a book. Hop four: the radiation.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 7.464,
+     "start": 13643,
+     "end": 13867
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "V \u00b7 HOP FOUR",
+    "The Radiation",
+    "GEIGER \u00b7 HALF-LIFE \u00b7 GORBOVSKY \u00b7 DATA"
+   ],
+   "img": "ep/img/shot_37.jpg",
+   "start": 13871,
+   "end": 14325,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hop four. The radiation. The claim says a Soviet team found a skeleton with fifty times the natural level, matching Hiroshima and Nagasaki. Who measured it? That part is always missing.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 14.04,
+     "start": 13881,
+     "end": 14303
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14307,
+   "end": 14757,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The usual source is a popular book called Riddles of Ancient History, by a Soviet writer, A Gorbovsky. It describes the skeleton. It does not give a sample number, a lab, a date, or a method.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 13.92,
+     "start": 14317,
+     "end": 14735
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14739,
+   "end": 15108,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Researchers who have chased this specific claim say they cannot find any published laboratory measurement of elevated radiation at the site, ever. Not one report.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 11.208,
+     "start": 14749,
+     "end": 15086
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15090,
+   "end": 15542,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the physics. After a nuclear explosion, the dangerous isotopes that last longest are caesium one thirty-seven and strontium ninety. Their half-lives are about thirty and twenty-eight years.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 13.992,
+     "start": 15100,
+     "end": 15520
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15524,
+   "end": 15922,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Wait thirty-eight hundred years, and you have more than a hundred half-lives. The radiation is gone, down to the natural background. Bones from the bronze age could not stay hot.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.192,
+     "start": 15534,
+     "end": 15900
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15904,
+   "end": 16375,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look at Hiroshima itself. Rebuilt, lived in, safe. No harmful radiation from nineteen forty-five remains there. Mohenjo-daro could not possibly be glowing after four thousand years.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 14.616,
+     "start": 15914,
+     "end": 16353
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16357,
+   "end": 16755,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the radioactive-skeleton claim is a measurement nobody can name, of a bone nobody can find, that physics says could not be true anyway. The trail dead-ends in a paperback.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 12.168,
+     "start": 16367,
+     "end": 16733
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16737,
+   "end": 16973,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One hop left in the old books. The strongest piece of the story is the poem. Hop five: the epic.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 6.768,
+     "start": 16747,
+     "end": 16951
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "L",
+   "ch": [
+    "VI \u00b7 HOP FIVE",
+    "The Epic",
+    "MAHABHARATA \u00b7 QUOTES \u00b7 KEELYNET \u00b7 ORIGIN"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 16955,
+   "end": 17393,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hop five. The epic. The Mahabharata is one of the longest poems ever written, a story of a great war between cousins. The nuclear story quotes it, and the quotes sound chillingly modern.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 13.512,
+     "start": 16965,
+     "end": 17371
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17375,
+   "end": 17824,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A single projectile charged with all the power of the universe. A column of smoke and flame as bright as ten thousand suns. Birds turned white. Hair and nails fell out. Where does this come from?",
+     "file": "ep/audio/s46.mp3",
+     "dur": 13.872,
+     "start": 17385,
+     "end": 17802
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17806,
+   "end": 18292,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The trail leads to the internet. In September two thousand, an article about ancient Indian atomic blasts appeared on an alternative-news site called KeelyNet. That is the earliest posting that anyone has located.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 15.12,
+     "start": 17816,
+     "end": 18270
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18274,
+   "end": 18711,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Its source was listed as a magazine called World Island Review, January nineteen ninety-two. Brian Dunning of Skeptoid looked for that magazine. There is no record that it ever existed.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.488,
+     "start": 18284,
+     "end": 18689
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18693,
+   "end": 19113,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The article quoted an archaeologist, Francis Taylor. Nobody has found any archaeology paper published by anyone of that name. It also quoted a historian, K M Ganguli.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 12.912,
+     "start": 18703,
+     "end": 19091
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 19095,
+   "end": 19567,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Kisari Mohan Ganguli was real. He translated the Mahabharata into English in the eighteen eighties, long before the atomic bomb. Nowhere is there a record that he wrote the lines credited to him.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 14.664,
+     "start": 19105,
+     "end": 19545
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19549,
+   "end": 19930,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Dunning also searched the full translation for the famous quotes. He could not find them. Nothing like them. The passages seem to have been invented, then copied from site to site.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 11.616,
+     "start": 19559,
+     "end": 19908
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "none",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19912,
+   "end": 20384,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He noticed the line about warriors swept away like dry leaves. It sounds a lot like a famous scene in a nineteen ninety-one science fiction film. Maybe coincidence. Maybe a writer borrowing a picture.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 14.664,
+     "start": 19922,
+     "end": 20362
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 20366,
+   "end": 20874,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the Oppenheimer line is slippery. Robert Oppenheimer quoted the Gita on television in nineteen sixty-five. The tale that he told students in nineteen fifty-two that an earlier atom bomb had existed? No evidence.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 15.84,
+     "start": 20376,
+     "end": 20852
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VII \u00b7 HOP SIX",
+    "The Real Ending",
+    "MONSOON \u00b7 RIVERS \u00b7 FARMING \u00b7 EXODUS"
+   ],
+   "img": "ep/img/shot_54.jpg",
+   "start": 20856,
+   "end": 21302,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hop six. The real ending. If it was not a bomb, what emptied the city? A team led by Liviu Giosan of Woods Hole studied the rivers, and published in the journal PNAS in twenty twelve.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 13.776,
+     "start": 20866,
+     "end": 21280
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 21284,
+   "end": 21684,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They found that the monsoon had been weakening for centuries. By around four thousand years ago, the rains that fed the Indus rivers and the Ghaggar-Hakra system were at their lowest.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 12.24,
+     "start": 21294,
+     "end": 21662
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21666,
+   "end": 22119,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Indus farming depended on yearly floods, not on canals. As the floods weakened, harvests got riskier. Cities that lived on surplus food began to shrink, and people moved east toward wetter land.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 14.016,
+     "start": 21676,
+     "end": 22097
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 22101,
+   "end": 22551,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their own words: a gradual decline in flood intensity, and a slow settlement shift eastwards, rather than a sudden collapse. No single day. No fireball. A civilisation that slowly walked away.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 13.92,
+     "start": 22111,
+     "end": 22529
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 22533,
+   "end": 22924,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The chain is complete. Every hop that touches real research points to climate and rivers. Every hop that points to a bomb ends in a book, or a blank. Time to score it.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 11.952,
+     "start": 22543,
+     "end": 22902
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "CASE FILE",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 22906,
+   "end": 23028,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Case file. Time to score Mohenjo-daro.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 2.976,
+     "start": 22916,
+     "end": 23006
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 23010,
+   "end": 23583,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A planned city of about forty thousand: evidence. A slow decline between nineteen hundred and seventeen hundred B C: evidence. A few dozen skeletons from many periods, mostly unwounded: evidence. A weakening monsoon and shifting rivers: evidence.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 18.024,
+     "start": 23020,
+     "end": 23561
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 23565,
+   "end": 24015,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A vitrified epicentre: kiln waste, never analysed. Radioactive bones: no measurement, and physics rules it out. Mahabharata nuclear quotes: not in the text, traced to an invented article.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 13.92,
+     "start": 23575,
+     "end": 23993
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23997,
+   "end": 24515,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Myth. No crater, no burn layer, no blast. The ancient nuclear story began as a book in nineteen seventy-nine and became an internet legend in two thousand. The city itself ended quietly, with a failing monsoon.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 16.176,
+     "start": 24007,
+     "end": 24493
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 24497,
+   "end": 24969,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here is the part that no fireball story can match. The real city is still there, and it is dying. Salt in the groundwater is eating its bricks, and in twenty twelve experts warned it could vanish by twenty thirty.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 14.64,
+     "start": 24507,
+     "end": 24947
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 24951,
+   "end": 25287,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The truth is more precious than the myth. A people who built drains and wells and a great bath four and a half thousand years ago deserve to be remembered for that.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 10.104,
+     "start": 24961,
+     "end": 25265
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 25269,
+   "end": 25669,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: March nineteen ninety-seven. Thousands of people in Arizona see a vast, silent formation of lights. A mile-wide craft, or flares and planes? We trace it.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 12.264,
+     "start": 25279,
+     "end": 25647
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 25651,
+   "end": 25971,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Did you ever see the Mohenjo-daro nuclear story? Tell us in the comments, and subscribe for the next ancient mystery, traced to its source.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 9.6,
+     "start": 25661,
+     "end": 25949
+    }
+   ]
+  }
+ ]
+}

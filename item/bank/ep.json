@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide aerial photograph of the ruins of an ancient Bronze Age brick city on a flat plain at dawn, straight streets, low walls and a mound with a ruined stupa, golden haze, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pakistan, four thousand years ago. A planned city of around forty thousand people, with drains, wells, and bathrooms inside the houses. And then, according to the internet, it was erased by an atomic bomb."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pakistan, four thousand years ago. A planned city of around forty thousand people, with drains, wells, and bathrooms inside the houses. And then, according to the internet, it was erased by an atomic bomb.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.568
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a vast pillar of fire and dust rising over an ancient brick city on a river plain at night, ominous red glow, epic scale, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The story has everything. Skeletons lying in the streets, holding hands. Bones as radioactive as Hiroshima. Bricks melted into glass. And an ancient Indian epic that describes the blast."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The story has everything. Skeletons lying in the streets, holding hands. Bones as radioactive as Hiroshima. Bricks melted into glass. And an ancient Indian epic that describes the blast.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 14.256
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A detective's investigation board in a dim room with blank index cards connected by red string, a desk lamp and an old magnifying glass, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we do something simple. We follow each claim upstream, one source at a time, the way a detective traces a rumour back to the first person who said it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we do something simple. We follow each claim upstream, one source at a time, the way a detective traces a rumour back to the first person who said it.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 10.248
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a hand pinning a blank paper card to a corkboard with a red thread leading off into the dark, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Six hops. At every stop, the same three questions. Who said it? When? And what did they actually have in their hands?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Six hops. At every stop, the same three questions. Who said it? When? And what did they actually have in their hands?",
+    "file": "ep/audio/s04.mp3",
+    "dur": 7.584
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of the ruins of an ancient brick city at sunrise with long shadows over straight streets, empty and quiet, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If the chain ends in a dig report or a laboratory, the claim stands. If it ends in a book, a magazine, or a blank, it falls. Start at the top."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If the chain ends in a dig report or a laboratory, the claim stands. If it ends in a book, a magazine, or a blank, it falls. Start at the top.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A laptop on a dark desk showing a glowing blank web page with only abstract grey boxes, late night, moody blue light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item one. The claim, as it stands today. It is repeated on hundreds of websites, in videos, in documentaries, always in nearly the same words."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 THE CLAIM",
+   "What the Web Says",
+   "SKELETONS \u00b7 GLASS \u00b7 RADIATION \u00b7 EPIC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item one. The claim, as it stands today. It is repeated on hundreds of websites, in videos, in documentaries, always in nearly the same words.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Many different laptops and phone screens glowing in a dark room each showing the same blank grey page, symmetrical composition, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Skeletons in the street, unburied, many holding hands. Fused glass at an epicentre. Radiation fifty times normal. And an epic poem, the Mahabharata, with a nuclear weapon in it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Skeletons in the street, unburied, many holding hands. Fused glass at an epicentre. Radiation fifty times normal. And an epic poem, the Mahabharata, with a nuclear weapon in it.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A glass-fronted museum case holding a few pale ancient skulls on dark velvet in a dim hall, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice what kind of evidence this is. Every item is a thing someone found, or measured, or read. So each one should leave a paper trail."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice what kind of evidence this is. Every item is a thing someone found, or measured, or read. So each one should leave a paper trail.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 9.384
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A long empty corridor of an archive with tall shelves of dusty folders and boxes, one lamp lit at the far end, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Archaeology is boring in exactly the right way. Digs are published, finds are catalogued, labs sign their results. A real discovery of an ancient bomb site would leave a mountain of paper."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Archaeology is boring in exactly the right way. Digs are published, finds are catalogued, labs sign their results. A real discovery of an ancient bomb site would leave a mountain of paper.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An aerial view of the brick ruins of Mohenjo-daro with the high citadel mound and a ruined stupa, soft morning light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So let's go and look for the paper. Hop one: the city itself. What was Mohenjo-daro, really?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So let's go and look for the paper. Hop one: the city itself. What was Mohenjo-daro, really?",
+    "file": "ep/audio/s10.mp3",
+    "dur": 6.6
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of fired red bricks laid in neat courses forming an ancient drain channel running along a straight street, raking sunlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hop one. The city. Mohenjo-daro was built around twenty-five hundred B C, on a ridge beside the Indus River, in what is now Sindh. It was one of the great cities of the Indus Valley civilisation."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 HOP ONE",
+   "The City",
+   "GRID \u00b7 WELLS \u00b7 BATH \u00b7 DRAINS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hop one. The city. Mohenjo-daro was built around twenty-five hundred B C, on a ridge beside the Indus River, in what is now Sindh. It was one of the great cities of the Indus Valley civilisation.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 14.736
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Aerial photograph of an ancient grid of straight streets and rectangular house blocks made of brick, top-down view, dusty light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Streets on a grid. Houses of fired brick. Covered drains running beneath the lanes. More than seven hundred wells, roughly one for every three houses. Nothing else in the world at that time looked like it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Streets on a grid. Houses of fired brick. Covered drains running beneath the lanes. More than seven hundred wells, roughly one for every three houses. Nothing else in the world at that time looked like it.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "The Great Bath of an ancient Indus city, a rectangular brick-lined pool with steps going down at each end, empty and dry, late afternoon light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At its heart, the Great Bath. Twelve metres long, seven wide, two and a half deep, lined with bitumen to hold the water. We still do not know exactly what it was for."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At its heart, the Great Bath. Twelve metres long, seven wide, two and a half deep, lined with bitumen to hold the water. We still do not know exactly what it was for.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 11.472
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A pile of ancient clay brick platforms under construction by hundreds of workers carrying baskets, Bronze Age river plain, warm light, cinematic historical reconstruction, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The city stood on huge brick platforms, built against floods. One estimate puts that labour at four million man-days. This was a society that planned, organised, and fed its workers."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The city stood on huge brick platforms, built against floods. One estimate puts that labour at four million man-days. This was a society that planned, organised, and fed its workers.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An ancient bronze statuette of a young dancing girl with a raised hand on her hip and bangles on one arm, black background, museum lighting, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No obvious palace. No royal tomb. No temple we can name. And one small bronze girl, hand on hip, with bangles up her arm, who tells us these people could cast metal and loved to dance."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No obvious palace. No royal tomb. No temple we can name. And one small bronze girl, hand on hip, with bangles up her arm, who tells us these people could cast metal and loved to dance.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 13.272
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An ancient carved steatite stamp seal with a bull and rows of tiny undeciphered symbols, macro photograph, dark background, photoreal, symbols abstract, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They also had a script, on thousands of tiny seals. Nobody can read it. That, and the silence about kings, is the real mystery of the Indus, and it has nothing to do with bombs."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They also had a script, on thousands of tiny seals. Nobody can read it. That, and the silence about kings, is the real mystery of the Indus, and it has nothing to do with bombs.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A weathered British colonial archaeologist in a pith helmet standing on a mound of earth in the 1920s holding a notebook, sepia old photograph look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The city lay forgotten for about thirty-seven hundred years. An Indian archaeologist, R D Banerji, visited in nineteen nineteen. Large digs followed under Dikshit and John Marshall in the mid nineteen twenties."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The city lay forgotten for about thirty-seven hundred years. An Indian archaeologist, R D Banerji, visited in nineteen nineteen. Large digs followed under Dikshit and John Marshall in the mid nineteen twenties.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 15.072
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of the ruined streets of Mohenjo-daro at dusk, dark brick walls and a long straight lane, atmospheric, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice something. Everything we know about the city comes from a century of excavation. So if something blew it up, this is where the first receipts should be. Hop two: the bodies."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice something. Everything we know about the city comes from a century of excavation. So if something blew it up, this is where the first receipts should be. Hop two: the bodies.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A dusty archaeological trench in an ancient brick city with a small pile of old bones laid carefully on cloth, trowel and brush beside them, sepia film look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hop two. The skeletons. Yes, human remains were found, scattered through the excavations at Mohenjo-daro. The count usually quoted is a few dozen. Not thousands. Not a whole city."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 HOP TWO",
+   "The Skeletons",
+   "WHEELER \u00b7 DALES \u00b7 FLOOD \u00b7 DISEASE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hop two. The skeletons. Yes, human remains were found, scattered through the excavations at Mohenjo-daro. The count usually quoted is a few dozen. Not thousands. Not a whole city.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A stern 1940s British archaeologist in a white shirt and shorts with a pipe standing at a dig site pointing at a trench, black and white photograph look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The first big story came from the archaeologist Mortimer Wheeler, in the late nineteen forties. He saw those bones as victims of a massacre, killed in the last hours of the city by invaders from the north."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The first big story came from the archaeologist Mortimer Wheeler, in the late nineteen forties. He saw those bones as victims of a massacre, killed in the last hours of the city by invaders from the north.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 14.04
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An old black and white map of ancient India with arrows from the north-west crossing mountains toward the Indus plain, aged paper, blank no labels, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Wheeler's invasion theory was dramatic, and it fit the thinking of his day. For a while it was the textbook answer. It also explains why people later believed in a sudden, violent end."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Wheeler's invasion theory was dramatic, and it fit the thinking of his day. For a while it was the textbook answer. It also explains why people later believed in a sudden, violent end.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.816
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A researcher in the 1960s reading a thick report at a desk in a university museum, stacks of excavation photographs, warm lamp light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, in nineteen sixty-four, the American archaeologist George Dales went back through the records. His paper has a blunt title: The Mythical Massacre at Mohenjo-daro."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, in nineteen sixty-four, the American archaeologist George Dales went back through the records. His paper has a blunt title: The Mythical Massacre at Mohenjo-daro.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Chart-like cross-section of earth layers in a trench wall showing separate stacked soil levels from different periods, clean geological illustration, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dales found that the skeletons came from different levels, which means different periods, scattered across the city's long history. They did not die together."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dales found that the skeletons came from different levels, which means different periods, scattered across the city's long history. They did not die together.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 9.864
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of an ancient human skull on a lab table with no wound, soft clinical light, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Most showed no weapon injuries at all. And none lay in the citadel, the one place where a last stand would have happened. The massacre story collapsed, and archaeologists dropped it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Most showed no weapon injuries at all. And none lay in the citadel, the one place where a last stand would have happened. The massacre story collapsed, and archaeologists dropped it.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.64
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Layers of grey silty clay in the wall of an excavation trench beside a brick wall, raking light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What the diggers did find was mud. Layer on layer of silty clay, the signature of floods. The city was raised, rebuilt and flooded again, perhaps six times, as the Indus wandered across its plain."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What the diggers did find was mud. Layer on layer of silty clay, the signature of floods. The city was raised, rebuilt and flooded again, perhaps six times, as the Indus wandered across its plain.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 14.184
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A muddy flooded street between ancient brick houses after the river has withdrawn, stagnant brown water, grey sky, cinematic historical reconstruction, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Flood and water-borne disease are a far more ordinary answer for a few unburied bodies. That is not proven either, but it matches the layers in the ground."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Flood and water-borne disease are a far more ordinary answer for a few unburied bodies. That is not proven either, but it matches the layers in the ground.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide shot of the dig site of Mohenjo-daro in the evening, long shadows, an empty excavation trench in the foreground, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the skeletons trace back to a real dig, and a real correction. No blast, no hand-holding families. The first hop breaks on contact. Hop three: the glass."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the skeletons trace back to a real dig, and a real correction. No blast, no hand-holding families. The first hop breaks on contact. Hop three: the glass.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of a fused glassy melted lump of brick and sand with greenish glass surface, dark background, dramatic warm spotlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hop three. The glass. The nuclear story says there was an epicentre, about fifty yards wide, where everything was fused into crystal, and bricks melted on one side sixty yards out."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "IV \u00b7 HOP THREE",
+   "The Glass",
+   "EPICENTRE \u00b7 TRINITITE \u00b7 KILNS \u00b7 FIRE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hop three. The glass. The nuclear story says there was an epicentre, about fifty yards wide, where everything was fused into crystal, and bricks melted on one side sixty yards out.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1970s paperback book lying on a wooden desk with a plain blank cover beside a coffee cup and a lamp, warm film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ask who said it, and the trail runs to a book. A British researcher, David Davenport, and an Italian writer, Ettore Vincenti. It came out in Italy in nineteen seventy-nine, with the title two thousand B C: Atomic Destruction."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ask who said it, and the trail runs to a book. A British researcher, David Davenport, and an Italian writer, Ettore Vincenti. It came out in Italy in nineteen seventy-nine, with the title two thousand B C: Atomic Destruction.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 16.344
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A stack of borrowed library books with blank spines on a table, a pencil resting across them and an empty notebook, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They reported temperatures near fifteen hundred degrees, followed by sudden cooling. A dramatic claim. So we look for the same thing in the excavation reports. And we find a silence."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They reported temperatures near fifteen hundred degrees, followed by sudden cooling. A dramatic claim. So we look for the same thing in the excavation reports. And we find a silence.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A desert test site at dawn with a flat crater-like area of green glassy crust spread over sand, black and white nuclear age photograph look, wide shot, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now compare with a real atomic site. In nineteen forty-five, at the Trinity test in New Mexico, the blast turned desert sand into a thin green glass across the ground. A bomb leaves a signature you can pick up."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now compare with a real atomic site. In nineteen forty-five, at the Trinity test in New Mexico, the blast turned desert sand into a thin green glass across the ground. A bomb leaves a signature you can pick up.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 15.168
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A line of small pale bones and brick fragments and pottery shards laid in a neat row on a grey table in a field lab, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mohenjo-daro has no crater. No blast layer. No ring of melted ground. Not in Marshall's reports, not in Mackay's, not in Dales's, not in the surveys of the nineteen eighties."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mohenjo-daro has no crater. No blast layer. No ring of melted ground. Not in Marshall's reports, not in Mackay's, not in Dales's, not in the surveys of the nineteen eighties.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A brick kiln in an ancient Indus craft workshop with orange fire glowing inside and a potter stacking clay pots, warm light, cinematic historical reconstruction, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But there is glass of a kind. The city was a factory town. It had furnaces for copper and bronze, and kilns for baking bricks and pots, running hot for centuries."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But there is glass of a kind. The city was a factory town. It had furnaces for copper and bronze, and kilns for baking bricks and pots, running hot for centuries.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of overfired black glassy slag stuck to a broken clay pot fragment, raking light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Overfired pots warp and glaze. Kiln waste melts into lumps of slag. A site full of kilns is going to produce fused, glassy bits. That is a boring answer, and it fits the evidence."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Overfired pots warp and glaze. Kiln waste melts into lumps of slag. A site full of kilns is going to produce fused, glassy bits. That is a boring answer, and it fits the evidence.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A wall of ancient brick showing a patch of blackened soot above a doorway and a small burnt area, close-up, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There are a few traces of fire. One block of jewellers' workshops was apparently burned. But the layers show no wide ash, no charcoal horizon, no sign that the whole city burned at once."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There are a few traces of fire. One block of jewellers' workshops was apparently burned. But the layers show no wide ash, no charcoal horizon, no sign that the whole city burned at once.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 13.416
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A glowing hot orange blacksmith forge in the dark of an ancient workshop with sparks rising, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No published analysis ever matched the glass to a bomb. The trail ends at a book. Hop four: the radiation."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No published analysis ever matched the glass to a bomb. The trail ends at a book. Hop four: the radiation.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 7.464
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A Soviet-era 1970s laboratory with a Geiger counter on a steel table and a skull-shaped plaster cast beside it, cold fluorescent light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hop four. The radiation. The claim says a Soviet team found a skeleton with fifty times the natural level, matching Hiroshima and Nagasaki. Who measured it? That part is always missing."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "V \u00b7 HOP FOUR",
+   "The Radiation",
+   "GEIGER \u00b7 HALF-LIFE \u00b7 GORBOVSKY \u00b7 DATA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hop four. The radiation. The claim says a Soviet team found a skeleton with fifty times the natural level, matching Hiroshima and Nagasaki. Who measured it? That part is always missing.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 14.04
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An open 1970s Russian-style popular science book on a desk with abstract photographs and blank pages, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The usual source is a popular book called Riddles of Ancient History, by a Soviet writer, A Gorbovsky. It describes the skeleton. It does not give a sample number, a lab, a date, or a method."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The usual source is a popular book called Riddles of Ancient History, by a Soviet writer, A Gorbovsky. It describes the skeleton. It does not give a sample number, a lab, a date, or a method.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 13.92
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An empty laboratory bench with sample jars and a notebook open to blank pages, clinical light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Researchers who have chased this specific claim say they cannot find any published laboratory measurement of elevated radiation at the site, ever. Not one report."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Researchers who have chased this specific claim say they cannot find any published laboratory measurement of elevated radiation at the site, ever. Not one report.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A diagram-like illustration of glowing atoms slowly fading from bright to dark across a row of hourglass shapes, dark background, abstract, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the physics. After a nuclear explosion, the dangerous isotopes that last longest are caesium one thirty-seven and strontium ninety. Their half-lives are about thirty and twenty-eight years."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the physics. After a nuclear explosion, the dangerous isotopes that last longest are caesium one thirty-seven and strontium ninety. Their half-lives are about thirty and twenty-eight years.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A single white candle burning down inside a dark stone room across several stages of melting, cinematic still life, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Wait thirty-eight hundred years, and you have more than a hundred half-lives. The radiation is gone, down to the natural background. Bones from the bronze age could not stay hot."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Wait thirty-eight hundred years, and you have more than a hundred half-lives. The radiation is gone, down to the natural background. Bones from the bronze age could not stay hot.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A modern city street in Hiroshima on a sunny day with people walking and trees and small shops, wide photograph, peaceful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look at Hiroshima itself. Rebuilt, lived in, safe. No harmful radiation from nineteen forty-five remains there. Mohenjo-daro could not possibly be glowing after four thousand years."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look at Hiroshima itself. Rebuilt, lived in, safe. No harmful radiation from nineteen forty-five remains there. Mohenjo-daro could not possibly be glowing after four thousand years.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 14.616
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A thin spiral of paper pages being blown across a desert from a book that lies open on the sand, golden light, cinematic photoreal, pages blank, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the radioactive-skeleton claim is a measurement nobody can name, of a bone nobody can find, that physics says could not be true anyway. The trail dead-ends in a paperback."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the radioactive-skeleton claim is a measurement nobody can name, of a bone nobody can find, that physics says could not be true anyway. The trail dead-ends in a paperback.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 12.168
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark old library reading room at night with a green banker's lamp and an open ancient-looking leather book on the table, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One hop left in the old books. The strongest piece of the story is the poem. Hop five: the epic."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One hop left in the old books. The strongest piece of the story is the poem. Hop five: the epic.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 6.768
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An ancient Indian palm leaf manuscript with blank faded dark lines lying on a wooden stand in soft temple light, macro photograph, no readable writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hop five. The epic. The Mahabharata is one of the longest poems ever written, a story of a great war between cousins. The nuclear story quotes it, and the quotes sound chillingly modern."
+   ]
+  ],
+  "tag": "L",
+  "ch": [
+   "VI \u00b7 HOP FIVE",
+   "The Epic",
+   "MAHABHARATA \u00b7 QUOTES \u00b7 KEELYNET \u00b7 ORIGIN"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hop five. The epic. The Mahabharata is one of the longest poems ever written, a story of a great war between cousins. The nuclear story quotes it, and the quotes sound chillingly modern.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A close-up of a person at a dark desk typing with a faint glow on their face, only hands and keyboard visible, early 2000s computer, grain, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A single projectile charged with all the power of the universe. A column of smoke and flame as bright as ten thousand suns. Birds turned white. Hair and nails fell out. Where does this come from?"
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A single projectile charged with all the power of the universe. A column of smoke and flame as bright as ten thousand suns. Birds turned white. Hair and nails fell out. Where does this come from?",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A beige CRT computer monitor in a dim 2000-era room showing a blank grey web page with no readable text, dusty room, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The trail leads to the internet. In September two thousand, an article about ancient Indian atomic blasts appeared on an alternative-news site called KeelyNet. That is the earliest posting that anyone has located."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The trail leads to the internet. In September two thousand, an article about ancient Indian atomic blasts appeared on an alternative-news site called KeelyNet. That is the earliest posting that anyone has located.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 15.12
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A faded shop-worn magazine cover with an abstract blank face and no readable words lying in the dust, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its source was listed as a magazine called World Island Review, January nineteen ninety-two. Brian Dunning of Skeptoid looked for that magazine. There is no record that it ever existed."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its source was listed as a magazine called World Island Review, January nineteen ninety-two. Brian Dunning of Skeptoid looked for that magazine. There is no record that it ever existed.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A busy university archaeology department hallway with empty notice boards and closed office doors, quiet, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The article quoted an archaeologist, Francis Taylor. Nobody has found any archaeology paper published by anyone of that name. It also quoted a historian, K M Ganguli."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The article quoted an archaeologist, Francis Taylor. Nobody has found any archaeology paper published by anyone of that name. It also quoted a historian, K M Ganguli.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A nineteenth century scholar in a wool coat writing by oil lamp at a heavy wooden desk with a stack of paper, sepia old photograph look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Kisari Mohan Ganguli was real. He translated the Mahabharata into English in the eighteen eighties, long before the atomic bomb. Nowhere is there a record that he wrote the lines credited to him."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Kisari Mohan Ganguli was real. He translated the Mahabharata into English in the eighteen eighties, long before the atomic bomb. Nowhere is there a record that he wrote the lines credited to him.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 14.664
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An old shelf of heavy sacred Sanskrit books on a library wall in warm light, one volume open with an unreadable page, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dunning also searched the full translation for the famous quotes. He could not find them. Nothing like them. The passages seem to have been invented, then copied from site to site."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dunning also searched the full translation for the famous quotes. He could not find them. Nothing like them. The passages seem to have been invented, then copied from site to site.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 11.616
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A bright orange film still of a post-apocalyptic city with silhouettes being thrown by a blast wave like leaves, cinematic movie lighting, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He noticed the line about warriors swept away like dry leaves. It sounds a lot like a famous scene in a nineteen ninety-one science fiction film. Maybe coincidence. Maybe a writer borrowing a picture."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He noticed the line about warriors swept away like dry leaves. It sounds a lot like a famous scene in a nineteen ninety-one science fiction film. Maybe coincidence. Maybe a writer borrowing a picture.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 14.664
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark deep well of an ancient brick city with a faint light far down and straight brick walls going into the dark, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the Oppenheimer line is slippery. Robert Oppenheimer quoted the Gita on television in nineteen sixty-five. The tale that he told students in nineteen fifty-two that an earlier atom bomb had existed? No evidence."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the Oppenheimer line is slippery. Robert Oppenheimer quoted the Gita on television in nineteen sixty-five. The tale that he told students in nineteen fifty-two that an earlier atom bomb had existed? No evidence.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 15.84
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial view of a wide braided river meandering through a dry plain with green fields along its banks and dust on the horizon, golden light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hop six. The real ending. If it was not a bomb, what emptied the city? A team led by Liviu Giosan of Woods Hole studied the rivers, and published in the journal PNAS in twenty twelve."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII \u00b7 HOP SIX",
+   "The Real Ending",
+   "MONSOON \u00b7 RIVERS \u00b7 FARMING \u00b7 EXODUS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hop six. The real ending. If it was not a bomb, what emptied the city? A team led by Liviu Giosan of Woods Hole studied the rivers, and published in the journal PNAS in twenty twelve.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A cracked dry riverbed with a faint line of old channel marks under a pale sky, drought atmosphere, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They found that the monsoon had been weakening for centuries. By around four thousand years ago, the rains that fed the Indus rivers and the Ghaggar-Hakra system were at their lowest."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They found that the monsoon had been weakening for centuries. By around four thousand years ago, the rains that fed the Indus rivers and the Ghaggar-Hakra system were at their lowest.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 12.24
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An ancient farmer in a field of wheat beside a dried canal under a hot sun, cinematic historical reconstruction, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Indus farming depended on yearly floods, not on canals. As the floods weakened, harvests got riskier. Cities that lived on surplus food began to shrink, and people moved east toward wetter land."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Indus farming depended on yearly floods, not on canals. As the floods weakened, harvests got riskier. Cities that lived on surplus food began to shrink, and people moved east toward wetter land.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 14.016
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A line of ancient villagers with carts and cattle walking east across a plain toward green hills at sunset, wide, cinematic historical reconstruction, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their own words: a gradual decline in flood intensity, and a slow settlement shift eastwards, rather than a sudden collapse. No single day. No fireball. A civilisation that slowly walked away."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their own words: a gradual decline in flood intensity, and a slow settlement shift eastwards, rather than a sudden collapse. No single day. No fireball. A civilisation that slowly walked away.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 13.92
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "The last people leaving an ancient brick city at dusk with the empty streets behind them, wide shot, soft golden light, cinematic historical reconstruction, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The chain is complete. Every hop that touches real research points to climate and rivers. Every hop that points to a bomb ends in a book, or a blank. Time to score it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The chain is complete. Every hop that touches real research points to climate and rivers. Every hop that points to a bomb ends in a book, or a blank. Time to score it.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archive room at night, a single large fused glassy lump of melted brick glowing faintly on a black stand far on the right edge lit by a warm golden spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Case file. Time to score Mohenjo-daro."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "CASE FILE",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Case file. Time to score Mohenjo-daro.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 2.976
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archive room at night, a single large fused glassy lump of melted brick glowing faintly on a black stand far on the right edge lit by a warm golden spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A planned city of about forty thousand: evidence. A slow decline between nineteen hundred and seventeen hundred B C: evidence. A few dozen skeletons from many periods, mostly unwounded: evidence. A weakening monsoon and shifting rivers: evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A planned city of about forty thousand: evidence. A slow decline between nineteen hundred and seventeen hundred B C: evidence. A few dozen skeletons from many periods, mostly unwounded: evidence. A weakening monsoon and shifting rivers: evidence.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 18.024
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archive room at night, a single large fused glassy lump of melted brick glowing faintly on a black stand far on the right edge lit by a warm golden spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A vitrified epicentre: kiln waste, never analysed. Radioactive bones: no measurement, and physics rules it out. Mahabharata nuclear quotes: not in the text, traced to an invented article."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A vitrified epicentre: kiln waste, never analysed. Radioactive bones: no measurement, and physics rules it out. Mahabharata nuclear quotes: not in the text, traced to an invented article.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 13.92
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a fused glassy lump of melted brick glowing faintly on a black stand, warm golden light, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Myth. No crater, no burn layer, no blast. The ancient nuclear story began as a book in nineteen seventy-nine and became an internet legend in two thousand. The city itself ended quietly, with a failing monsoon."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Myth. No crater, no burn layer, no blast. The ancient nuclear story began as a book in nineteen seventy-nine and became an internet legend in two thousand. The city itself ended quietly, with a failing monsoon.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 16.176
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A lone traveller in a long coat walking through the ruins of Mohenjo-daro at golden hour, small figure between the straight brick walls, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here is the part that no fireball story can match. The real city is still there, and it is dying. Salt in the groundwater is eating its bricks, and in twenty twelve experts warned it could vanish by twenty thirty."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here is the part that no fireball story can match. The real city is still there, and it is dying. Salt in the groundwater is eating its bricks, and in twenty twelve experts warned it could vanish by twenty thirty.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a conservator's gloved hand gently touching a crumbling ancient brick wall with white salt crystals blooming on its surface, macro, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The truth is more precious than the myth. A people who built drains and wells and a great bath four and a half thousand years ago deserve to be remembered for that."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The truth is more precious than the myth. A people who built drains and wells and a great bath four and a half thousand years ago deserve to be remembered for that.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 10.104
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A dark desert night sky with strange glowing lights in a V formation above a distant city skyline, mysterious, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: March nineteen ninety-seven. Thousands of people in Arizona see a vast, silent formation of lights. A mile-wide craft, or flares and planes? We trace it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: March nineteen ninety-seven. Thousands of people in Arizona see a vast, silent formation of lights. A mile-wide craft, or flares and planes? We trace it.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small fused glassy brick lump glowing faintly in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Did you ever see the Mohenjo-daro nuclear story? Tell us in the comments, and subscribe for the next ancient mystery, traced to its source."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Did you ever see the Mohenjo-daro nuclear story? Tell us in the comments, and subscribe for the next ancient mystery, traced to its source.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 9.6
+   }
+  ]
+ }
+]
