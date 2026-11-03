@@ -1,0 +1,843 @@
+1
+00:00:00,333 --> 00:00:04,621
+This little wooden bird is about two thousand two hundred years old.
+
+2
+00:00:04,621 --> 00:00:06,702
+It fits in the palm of your hand.
+
+3
+00:00:06,702 --> 00:00:14,333
+And some people say it is not a bird at all, but a model aeroplane, carved two thousand years before the Wright brothers.
+
+4
+00:00:14,800 --> 00:00:17,341
+A glider, built by ancient Egyptians.
+
+5
+00:00:17,341 --> 00:00:20,433
+Or copied from something they saw in the sky.
+
+6
+00:00:20,433 --> 00:00:22,699
+You have probably seen the claim.
+
+7
+00:00:23,166 --> 00:00:26,307
+So tonight we do something no museum would allow.
+
+8
+00:00:26,307 --> 00:00:31,500
+We treat it like a new aircraft, and put it through a full flight-test programme.
+
+9
+00:00:31,966 --> 00:00:33,535
+Pre-flight inspection.
+
+10
+00:00:33,535 --> 00:00:34,105
+Logbook.
+
+11
+00:00:34,105 --> 00:00:34,747
+Airframe.
+
+12
+00:00:34,747 --> 00:00:39,667
+Three flight tests: by hand, in a wind tunnel, and inside a computer.
+
+13
+00:00:39,667 --> 00:00:42,733
+Then we ask what it was really built to do.
+
+14
+00:00:43,200 --> 00:00:44,958
+Every claim gets a score.
+
+15
+00:00:44,958 --> 00:00:46,505
+At the end, a verdict.
+
+16
+00:00:46,505 --> 00:00:48,756
+Cleared for flight, or grounded.
+
+17
+00:00:48,756 --> 00:00:49,600
+Let's begin.
+
+18
+00:00:54,066 --> 00:00:55,547
+Test card, item one.
+
+19
+00:00:55,547 --> 00:00:56,362
+Pre-flight.
+
+20
+00:00:56,362 --> 00:01:03,766
+The object sits in the Egyptian Museum in Cairo, under special register number six three four seven.
+
+21
+00:01:04,233 --> 00:01:10,065
+It is fourteen point two centimetres long, with a wingspan of eighteen point three.
+
+22
+00:01:10,065 --> 00:01:11,892
+Carved from sycamore wood.
+
+23
+00:01:11,892 --> 00:01:16,599
+Weight, thirty-nine grams, according to the man who made it famous.
+
+24
+00:01:17,066 --> 00:01:18,792
+Already, a warning light.
+
+25
+00:01:18,792 --> 00:01:23,349
+Popular accounts give its weight as fourteen grams, or thirty-one.
+
+26
+00:01:23,349 --> 00:01:27,700
+For an aircraft, weight is everything, and nobody agrees on it.
+
+27
+00:01:28,166 --> 00:01:38,920
+It was found in eighteen ninety-eight, at Saqqara, the vast burial ground of ancient Memphis, in a tomb usually named as the tomb of Pa-di-Imen.
+
+28
+00:01:38,920 --> 00:01:43,700
+It is dated to around two hundred B C, the age of the Ptolemies.
+
+29
+00:01:44,166 --> 00:01:46,055
+But the paperwork is thin.
+
+30
+00:01:46,055 --> 00:01:52,809
+No excavation report has been published that shows exactly which tomb, or what lay beside it.
+
+31
+00:01:52,809 --> 00:01:54,407
+Even the year wobbles.
+
+32
+00:01:54,407 --> 00:01:57,966
+One scientific abstract says eighteen ninety-one.
+
+33
+00:01:58,433 --> 00:02:04,626
+So we have a real ancient object, a fuzzy birth certificate, and one strange shape.
+
+34
+00:02:04,626 --> 00:02:05,894
+Now, the logbook.
+
+35
+00:02:05,894 --> 00:02:08,133
+How did a bird become a plane?
+
+36
+00:02:08,599 --> 00:02:09,302
+Item two.
+
+37
+00:02:09,302 --> 00:02:10,238
+The logbook.
+
+38
+00:02:10,238 --> 00:02:11,798
+Nineteen sixty-nine.
+
+39
+00:02:11,798 --> 00:02:19,599
+An Egyptian doctor, Khalil Messiha, is looking at a case of ancient bird models in the Cairo museum.
+
+40
+00:02:20,066 --> 00:02:25,785
+Messiha taught anatomy for artists, and he had built model aeroplanes since childhood.
+
+41
+00:02:25,785 --> 00:02:28,046
+He belonged to model flying clubs.
+
+42
+00:02:28,046 --> 00:02:33,166
+So when he looked at this one bird, he saw something the others did not show.
+
+43
+00:02:33,633 --> 00:02:34,233
+No legs.
+
+44
+00:02:34,233 --> 00:02:35,733
+No painted feathers.
+
+45
+00:02:35,733 --> 00:02:36,858
+Straight wings.
+
+46
+00:02:36,858 --> 00:02:41,058
+And a tail that stands upright, like the fin of a plane.
+
+47
+00:02:41,058 --> 00:02:44,433
+Real birds, he argued, hold their tails flat.
+
+48
+00:02:44,900 --> 00:02:49,687
+His brother Guirguis, a flight engineer, built a copy in balsa wood.
+
+49
+00:02:49,687 --> 00:02:58,699
+Messiha added a horizontal tailplane, which he supposed had been lost, and wrote that it sailed a few yards when thrown by hand.
+
+50
+00:02:59,166 --> 00:03:00,886
+His conclusion was bold.
+
+51
+00:03:00,886 --> 00:03:09,199
+This was a scale model of a full-size monoplane, and somewhere in Saqqara, the real aircraft might still be waiting.
+
+52
+00:03:09,666 --> 00:03:15,340
+In nineteen seventy-two the idea went public, in an Egyptian travel magazine.
+
+53
+00:03:15,340 --> 00:03:23,666
+Reports say the Cairo museum even staged a small exhibition of ancient model aircraft, with the bird as its star.
+
+54
+00:03:24,133 --> 00:03:26,328
+Then the story started to grow.
+
+55
+00:03:26,328 --> 00:03:31,709
+A journalist added a groove under the tail, where a tailplane would slot in.
+
+56
+00:03:31,709 --> 00:03:35,533
+Messiha himself had described no groove, and no holes.
+
+57
+00:03:36,000 --> 00:03:47,150
+A magazine wrote that a separate slotted piece fits onto the tail, that it soars with a slight jerk of the hand, and that a full-size version could carry heavy loads.
+
+58
+00:03:47,150 --> 00:03:49,366
+A newspaper gave it landing gear.
+
+59
+00:03:49,833 --> 00:03:57,682
+Online, it now carries hieroglyphs saying the gift of Amun, and three papyri nearby that say, I want to fly.
+
+60
+00:03:57,682 --> 00:03:59,863
+None of that is in any record.
+
+61
+00:03:59,863 --> 00:04:03,933
+Gift of Amun is simply what the tomb owner's name means.
+
+62
+00:04:04,400 --> 00:04:10,817
+One site even says Erich von Däniken used the bird in his nineteen sixty-eight bestseller.
+
+63
+00:04:10,817 --> 00:04:14,952
+That book came out a year before anyone called it a plane.
+
+64
+00:04:14,952 --> 00:04:20,299
+In the ancient astronaut world, it sits beside the golden jets of Colombia.
+
+65
+00:04:20,766 --> 00:04:26,215
+So the logbook shows one honest observation, and a pile of later upgrades.
+
+66
+00:04:26,215 --> 00:04:28,866
+Time to inspect the airframe itself.
+
+67
+00:04:29,333 --> 00:04:30,128
+Item three.
+
+68
+00:04:30,128 --> 00:04:31,575
+Airframe inspection.
+
+69
+00:04:31,575 --> 00:04:37,866
+Let's look at it the way an aircraft engineer would, and the way an Egyptologist would.
+
+70
+00:04:38,333 --> 00:04:39,384
+First, the head.
+
+71
+00:04:39,384 --> 00:04:41,485
+It has a beak and a painted eye.
+
+72
+00:04:41,485 --> 00:04:47,001
+There is paint on the top of the tail, and two faint reddish lines around the belly.
+
+73
+00:04:47,001 --> 00:04:51,466
+Underneath, the body curves from head to tail like a bird in flight.
+
+74
+00:04:51,933 --> 00:04:53,207
+Second, the wings.
+
+75
+00:04:53,207 --> 00:04:56,109
+From the front, the tips droop downwards.
+
+76
+00:04:56,109 --> 00:04:58,162
+Engineers call that anhedral.
+
+77
+00:04:58,162 --> 00:05:03,399
+On a small glider, it makes things worse: it tips the model into a spiral.
+
+78
+00:05:03,866 --> 00:05:05,464
+Third, the wing joint.
+
+79
+00:05:05,464 --> 00:05:10,765
+The wing is held on with iron nails, sits off-centre and slightly skewed.
+
+80
+00:05:10,765 --> 00:05:16,066
+A glider expert concluded it had probably been remounted in modern times.
+
+81
+00:05:16,533 --> 00:05:27,588
+That expert is Martin Gregorie, who has designed and flown free-flight competition gliders for more than thirty years, and placed fifth at a world championship.
+
+82
+00:05:27,588 --> 00:05:30,766
+He lists three things any stable glider needs.
+
+83
+00:05:31,233 --> 00:05:31,510
+One.
+
+84
+00:05:31,510 --> 00:05:37,184
+The balance point must sit roughly a quarter to sixty percent back along the wing.
+
+85
+00:05:37,184 --> 00:05:41,267
+The Saqqara bird balances at, or behind, the trailing edge.
+
+86
+00:05:41,267 --> 00:05:43,966
+And no weight was ever put in its head.
+
+87
+00:05:44,433 --> 00:05:44,705
+Two.
+
+88
+00:05:44,705 --> 00:05:49,335
+A horizontal tailplane, about a fifth to a quarter of the wing area.
+
+89
+00:05:49,335 --> 00:05:54,033
+The bird has none, and there is no trace of where one was ever fixed.
+
+90
+00:05:54,500 --> 00:05:54,951
+Three.
+
+91
+00:05:54,951 --> 00:05:59,089
+Wing tips raised, not lowered, to stop it rolling over.
+
+92
+00:05:59,089 --> 00:06:01,045
+The bird has the opposite.
+
+93
+00:06:01,045 --> 00:06:02,399
+Zero out of three.
+
+94
+00:06:02,866 --> 00:06:05,723
+On paper, the airframe fails inspection.
+
+95
+00:06:05,723 --> 00:06:07,438
+But paper is not flight.
+
+96
+00:06:07,438 --> 00:06:10,152
+So we do what the believers asked for.
+
+97
+00:06:10,152 --> 00:06:10,866
+We fly it.
+
+98
+00:06:11,333 --> 00:06:12,477
+Flight test one.
+
+99
+00:06:12,477 --> 00:06:13,336
+Hand launch.
+
+100
+00:06:13,336 --> 00:06:25,566
+In two thousand two, Gregorie built balsa replicas from careful drawings, with two wings, and two tails: one to scale, and one large tailplane, a quarter of the wing area.
+
+101
+00:06:26,033 --> 00:06:29,530
+With no tail, or the scale tail, it would not fly.
+
+102
+00:06:29,530 --> 00:06:31,698
+Launched slowly, it pitched up.
+
+103
+00:06:31,698 --> 00:06:33,866
+Launched fast, it pitched down.
+
+104
+00:06:33,866 --> 00:06:34,985
+Then it tumbled.
+
+105
+00:06:34,985 --> 00:06:37,433
+Weight in the nose changed nothing.
+
+106
+00:06:37,899 --> 00:06:42,217
+But mounted on a pin under the wing, it did one job beautifully.
+
+107
+00:06:42,217 --> 00:06:45,522
+It turned straight into the wind and held steady.
+
+108
+00:06:45,522 --> 00:06:46,466
+Remember that.
+
+109
+00:06:46,933 --> 00:06:51,369
+With the big tailplane fitted, it finally glided, fast and steep.
+
+110
+00:06:51,369 --> 00:06:55,190
+It could not be launched with a slight jerk of the hand.
+
+111
+00:06:55,190 --> 00:06:57,033
+It needed a full-arm throw.
+
+112
+00:06:57,500 --> 00:07:02,294
+Best result: three metres forward for a one point three metre drop.
+
+113
+00:07:02,294 --> 00:07:04,727
+A glide of one to two point three.
+
+114
+00:07:04,727 --> 00:07:08,233
+A modern sailplane does better than one to forty.
+
+115
+00:07:08,699 --> 00:07:15,327
+Weighted up to match the real wood, he said it flew more like a brick with fins than an aircraft.
+
+116
+00:07:15,327 --> 00:07:17,172
+His verdict: it never flew.
+
+117
+00:07:17,172 --> 00:07:19,699
+More likely a toy, or a weather vane.
+
+118
+00:07:20,166 --> 00:07:22,025
+But believers had an answer.
+
+119
+00:07:22,025 --> 00:07:23,618
+Hand launches are crude.
+
+120
+00:07:23,618 --> 00:07:27,866
+Put it in a wind tunnel, and the numbers tell a different story.
+
+121
+00:07:28,333 --> 00:07:29,503
+Flight test two.
+
+122
+00:07:29,503 --> 00:07:30,674
+The wind tunnel.
+
+123
+00:07:30,674 --> 00:07:42,600
+In two thousand six, a television documentary had an aerodynamics specialist, Simon Sanderson, build a larger replica and put it in the airflow, with no tailplane.
+
+124
+00:07:43,066 --> 00:07:47,770
+The headline result: it produced four times its own weight in lift.
+
+125
+00:07:47,770 --> 00:07:51,000
+Clips of that moment still circulate as proof.
+
+126
+00:07:51,466 --> 00:07:53,237
+But read the small print.
+
+127
+00:07:53,237 --> 00:07:58,479
+The model was held in place by cables, and the cables did the stabilising.
+
+128
+00:07:58,479 --> 00:07:59,824
+Lift is not flight.
+
+129
+00:07:59,824 --> 00:08:01,524
+A flat plank makes lift.
+
+130
+00:08:01,524 --> 00:08:05,066
+Keeping it pointed the right way is the hard part.
+
+131
+00:08:05,533 --> 00:08:13,349
+Then the programme took the data to a flight simulator at Liverpool University, and added a stabilising tailplane.
+
+132
+00:08:13,349 --> 00:08:17,119
+With the tailplane, the simulated bird flew quite well.
+
+133
+00:08:17,119 --> 00:08:21,233
+The part that made it fly was the part that was never found.
+
+134
+00:08:21,699 --> 00:08:28,305
+In two thousand eleven, for William Shatner's TV series Weird or What, Gregorie went further.
+
+135
+00:08:28,305 --> 00:08:35,833
+New replicas, a mechanical launcher for repeatable throws, careful measurements, and the tailplane fitted.
+
+136
+00:08:36,299 --> 00:08:41,342
+The glide ratios came in between about two point two and two point eight.
+
+137
+00:08:41,342 --> 00:08:46,177
+Gregorie put it plainly: that is about as good as a man in a wingsuit.
+
+138
+00:08:46,177 --> 00:08:48,733
+Even the space shuttle glides better.
+
+139
+00:08:49,200 --> 00:08:54,380
+With the drooping scale wing, it rolled forty degrees within two metres.
+
+140
+00:08:54,380 --> 00:08:57,978
+And without the tailplane, it tumbled, every time.
+
+141
+00:08:57,978 --> 00:08:59,633
+Two tests, one pattern.
+
+142
+00:09:00,100 --> 00:09:01,397
+Flight test three.
+
+143
+00:09:01,397 --> 00:09:02,622
+The digital twin.
+
+144
+00:09:02,622 --> 00:09:04,640
+Replicas can be built wrong.
+
+145
+00:09:04,640 --> 00:09:13,000
+So in twenty twenty-three, two engineers from the Institute of Aerospace Technology in Bremen tested the real shape.
+
+146
+00:09:13,466 --> 00:09:28,066
+Michel Zierow and Leon Lesemann used a 3D photo scan of the artefact, made with staff of the Egyptian Museum, rebuilt it in seventy-four slices, and ran a full computer airflow simulation.
+
+147
+00:09:28,533 --> 00:09:32,705
+Lift peaked at a low angle and then the flow broke away.
+
+148
+00:09:32,705 --> 00:09:36,580
+Drag was two to five times that of a light aircraft.
+
+149
+00:09:36,580 --> 00:09:39,933
+Best lift to drag ratio: two point eight six.
+
+150
+00:09:40,399 --> 00:09:46,974
+To glide at all, it would need about seventeen metres per second, roughly sixty kilometres an hour.
+
+151
+00:09:46,974 --> 00:09:50,759
+Too fast, the authors wrote, for a stable launch by hand.
+
+152
+00:09:50,759 --> 00:09:57,333
+Dropped from two metres, its best flight is five and a half metres, lasting one and a half seconds.
+
+153
+00:09:57,799 --> 00:10:06,378
+Its centre of gravity sits fifty-four millimetres behind the nose, near the trailing edge, behind the point that would keep it stable.
+
+154
+00:10:06,378 --> 00:10:07,466
+So it pitches up.
+
+155
+00:10:07,933 --> 00:10:11,600
+And the lift is lopsided, stronger on the left wing.
+
+156
+00:10:11,600 --> 00:10:15,689
+So it rolls right, banks, pitches up, stalls, and crashes.
+
+157
+00:10:15,689 --> 00:10:18,933
+In their words, it cannot fly a straight path.
+
+158
+00:10:19,399 --> 00:10:22,293
+Three tests, three methods, one result.
+
+159
+00:10:22,293 --> 00:10:25,260
+As it is, the Saqqara bird does not fly.
+
+160
+00:10:25,260 --> 00:10:27,931
+But the engineers ended with a hint.
+
+161
+00:10:27,931 --> 00:10:30,305
+Look at it as a cultural object.
+
+162
+00:10:30,305 --> 00:10:33,866
+And that vertical fin might suit a weather vane.
+
+163
+00:10:34,333 --> 00:10:35,136
+Item seven.
+
+164
+00:10:35,136 --> 00:10:36,232
+Alternate role.
+
+165
+00:10:36,232 --> 00:10:38,423
+If not an aircraft, then what?
+
+166
+00:10:38,423 --> 00:10:40,468
+Start with the temple walls.
+
+167
+00:10:40,468 --> 00:10:48,866
+At Karnak, in the Temple of Khonsu, reliefs of sacred festival boats show small bird figures on top of their masts.
+
+168
+00:10:49,333 --> 00:10:54,412
+A bird on a pivot, with an upright fin, turns its beak into the wind.
+
+169
+00:10:54,412 --> 00:10:57,650
+That is exactly what Gregorie's replica did.
+
+170
+00:10:57,650 --> 00:11:03,833
+A wind vane, on a boat, a shrine or a roof, explains the strangest feature, the fin.
+
+171
+00:11:04,299 --> 00:11:05,559
+Or a sacred bird.
+
+172
+00:11:05,559 --> 00:11:10,301
+The falcon was the form of Horus and of the sun god Ra-Horakhty.
+
+173
+00:11:10,301 --> 00:11:18,600
+Egyptian bird figures were made for coffins, shrines and offerings, most with folded wings and painted feathers.
+
+174
+00:11:19,066 --> 00:11:19,723
+Or a toy.
+
+175
+00:11:19,723 --> 00:11:23,009
+Wikipedia describes it as mounted on a stick.
+
+176
+00:11:23,009 --> 00:11:29,362
+A child running with a wooden bird held high would make the same shape against the sky.
+
+177
+00:11:29,362 --> 00:11:34,766
+Toy, vane, falcon, masthead: none of these is proven, but all of them fit.
+
+178
+00:11:35,233 --> 00:11:36,854
+And the era matters.
+
+179
+00:11:36,854 --> 00:11:44,797
+Two hundred B C is the Ptolemaic age, a time of real invention: gears, screws, valves, Archimedes.
+
+180
+00:11:44,797 --> 00:11:46,824
+Clever people lived then.
+
+181
+00:11:46,824 --> 00:11:50,066
+But they left texts and machines behind.
+
+182
+00:11:50,533 --> 00:11:52,984
+For aviation, there is nothing.
+
+183
+00:11:52,984 --> 00:11:54,566
+No full-size glider.
+
+184
+00:11:54,566 --> 00:11:55,515
+No workshop.
+
+185
+00:11:55,515 --> 00:11:56,938
+No text on flight.
+
+186
+00:11:56,938 --> 00:11:59,231
+No image of a flying machine.
+
+187
+00:11:59,231 --> 00:12:01,366
+Just one small wooden bird.
+
+188
+00:12:01,833 --> 00:12:06,192
+And the alien version, that it copies a craft visitors flew?
+
+189
+00:12:06,192 --> 00:12:11,206
+It has even less: no craft, no visitors, and a model that cannot fly.
+
+190
+00:12:11,206 --> 00:12:14,766
+It depends on reading a falcon's fin as a rudder.
+
+191
+00:12:15,233 --> 00:12:15,828
+Debrief.
+
+192
+00:12:15,828 --> 00:12:18,133
+Time to score the Saqqara bird.
+
+193
+00:12:18,600 --> 00:12:22,944
+A real ancient carving, about two hundred B C: evidence.
+
+194
+00:12:22,944 --> 00:12:27,210
+Shaped like a bird, with beak, eye and paint: evidence.
+
+195
+00:12:27,210 --> 00:12:32,098
+An upright fin unlike other bird figures: real, and still open.
+
+196
+00:12:32,098 --> 00:12:35,666
+A vane, a masthead, a toy or a falcon: likely.
+
+197
+00:12:36,133 --> 00:12:40,088
+A missing tailplane, or a groove for one: no trace.
+
+198
+00:12:40,088 --> 00:12:43,965
+Flies as it is: debunked, by three separate tests.
+
+199
+00:12:43,965 --> 00:12:47,533
+Alien or lost aviation knowledge: no evidence.
+
+200
+00:12:48,000 --> 00:12:48,948
+The verdict.
+
+201
+00:12:48,948 --> 00:12:49,659
+Grounded.
+
+202
+00:12:49,659 --> 00:12:57,485
+The Saqqara bird is a real and lovely carving of a bird, probably a vane, a sacred figure or a toy.
+
+203
+00:12:57,485 --> 00:13:00,409
+It is not a glider, and it never was.
+
+204
+00:13:00,409 --> 00:13:03,966
+But its fin is still a small, honest mystery.
+
+205
+00:13:04,433 --> 00:13:10,235
+Somewhere, twenty-two centuries ago, a carver made a bird with a tail that stands up.
+
+206
+00:13:10,235 --> 00:13:12,693
+Maybe because it turned in the wind.
+
+207
+00:13:12,693 --> 00:13:15,833
+That idea is wonderful enough, without aliens.
+
+208
+00:13:16,299 --> 00:13:21,687
+Next case: one man, more than a thousand tons of coral rock, and no witnesses.
+
+209
+00:13:21,687 --> 00:13:23,000
+How did he move it?
+
+210
+00:13:23,466 --> 00:13:25,589
+What do you think the fin was for?
+
+211
+00:13:25,589 --> 00:13:30,833
+Tell us in the comments, and subscribe for the next ancient mystery put to the test.

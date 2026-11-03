@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro museum photograph of a small pale cream-coloured ancient Egyptian wooden bird carving about fourteen centimetres long, a bird head with a short beak and a small dark painted eye, a smooth slim body, two straight flat wings stretched out sideways with slightly drooping tips, no legs, no carved feathers, and an upright vertical tail fin at the back like a tiny aeroplane fin, the body tapers straight into that single fin with no horizontal tail surfaces, resting on a slim dark stand, black background, dramatic warm spotlight, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This little wooden bird is about two thousand two hundred years old. It fits in the palm of your hand. And some people say it is not a bird at all, but a model aeroplane, carved two thousand years before the Wright brothers."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This little wooden bird is about two thousand two hundred years old. It fits in the palm of your hand. And some people say it is not a bird at all, but a model aeroplane, carved two thousand years before the Wright brothers.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a large wooden glider shaped like a giant bird with straight wings and an upright tail fin soaring over the Saqqara step pyramid at sunset, ancient Egypt, epic sky, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A glider, built by ancient Egyptians. Or copied from something they saw in the sky. You have probably seen the claim."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A glider, built by ancient Egyptians. Or copied from something they saw in the sky. You have probably seen the claim.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 7.872
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vintage aviation flight test clipboard with a blank checklist form and a pencil lying on a wooden workbench in a hangar, warm light, shallow depth of field, blank paper, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we do something no museum would allow. We treat it like a new aircraft, and put it through a full flight-test programme."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we do something no museum would allow. We treat it like a new aircraft, and put it through a full flight-test programme.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Side view macro photograph of a small pale cream-coloured ancient Egyptian wooden bird carving about fourteen centimetres long, a bird head with a short beak and a small dark painted eye, a smooth slim body, two straight flat wings stretched out sideways with slightly drooping tips, no legs, no carved feathers, and an upright vertical tail fin at the back like a tiny aeroplane fin, the body tapers straight into that single fin with no horizontal tail surfaces, seen exactly in profile against a dark grey background, soft studio light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pre-flight inspection. Logbook. Airframe. Three flight tests: by hand, in a wind tunnel, and inside a computer. Then we ask what it was really built to do."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pre-flight inspection. Logbook. Airframe. Three flight tests: by hand, in a wind tunnel, and inside a computer. Then we ask what it was really built to do.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of the Saqqara necropolis desert with the step pyramid of Djoser at dawn, golden haze, empty sand, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every claim gets a score. At the end, a verdict. Cleared for flight, or grounded. Let's begin."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every claim gets a score. At the end, a verdict. Cleared for flight, or grounded. Let's begin.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 6.384
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Museum display photograph of a small pale cream-coloured ancient Egyptian wooden bird carving about fourteen centimetres long, a bird head with a short beak and a small dark painted eye, a smooth slim body, two straight flat wings stretched out sideways with slightly drooping tips, no legs, no carved feathers, and an upright vertical tail fin at the back like a tiny aeroplane fin, the body tapers straight into that single fin with no horizontal tail surfaces, on a small stand inside a glass case in a dim historic museum hall, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test card, item one. Pre-flight. The object sits in the Egyptian Museum in Cairo, under special register number six three four seven."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 PRE-FLIGHT",
+   "The Object",
+   "SIZE \u00b7 WEIGHT \u00b7 WOOD \u00b7 DATE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test card, item one. Pre-flight. The object sits in the Egyptian Museum in Cairo, under special register number six three four seven.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 9.672
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A conservator's gloved hands holding a plain unmarked steel straightedge beside a small pale wooden bird carving with straight wings on a grey table, macro, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is fourteen point two centimetres long, with a wingspan of eighteen point three. Carved from sycamore wood. Weight, thirty-nine grams, according to the man who made it famous."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is fourteen point two centimetres long, with a wingspan of eighteen point three. Carved from sycamore wood. Weight, thirty-nine grams, according to the man who made it famous.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An old brass laboratory balance scale with an empty pan on a dark wooden desk, single warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Already, a warning light. Popular accounts give its weight as fourteen grams, or thirty-one. For an aircraft, weight is everything, and nobody agrees on it."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Already, a warning light. Popular accounts give its weight as fourteen grams, or thirty-one. For an aircraft, weight is everything, and nobody agrees on it.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Desert excavation at Saqqara in the 1890s, workers in robes digging around a stone tomb entrance, sepia old photograph look, wide shot, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It was found in eighteen ninety-eight, at Saqqara, the vast burial ground of ancient Memphis, in a tomb usually named as the tomb of Pa-di-Imen. It is dated to around two hundred B C, the age of the Ptolemies."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It was found in eighteen ninety-eight, at Saqqara, the vast burial ground of ancient Memphis, in a tomb usually named as the tomb of Pa-di-Imen. It is dated to around two hundred B C, the age of the Ptolemies.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 15.528
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of yellowed blank archive register pages and an empty index card drawer in a dusty museum storeroom, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the paperwork is thin. No excavation report has been published that shows exactly which tomb, or what lay beside it. Even the year wobbles. One scientific abstract says eighteen ninety-one."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the paperwork is thin. No excavation report has been published that shows exactly which tomb, or what lay beside it. Even the year wobbles. One scientific abstract says eighteen ninety-one.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 13.8
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of the head of a small ancient wooden bird carving, a short beak and a small dark painted eye on pale wood, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So we have a real ancient object, a fuzzy birth certificate, and one strange shape. Now, the logbook. How did a bird become a plane?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So we have a real ancient object, a fuzzy birth certificate, and one strange shape. Now, the logbook. How did a bird become a plane?",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.696
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1960s Egyptian physician in a suit and glasses seen from behind looking into a museum glass case of small wooden bird figurines, dim museum hall, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item two. The logbook. Nineteen sixty-nine. An Egyptian doctor, Khalil Messiha, is looking at a case of ancient bird models in the Cairo museum."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 LOGBOOK",
+   "Seventy Years in a Drawer",
+   "1898 \u00b7 1969 \u00b7 1972"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item two. The logbook. Nineteen sixty-nine. An Egyptian doctor, Khalil Messiha, is looking at a case of ancient bird models in the Cairo museum.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1950s boy building a balsa wood model aeroplane at a kitchen table, glue, tissue paper and small wooden parts, warm nostalgic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Messiha taught anatomy for artists, and he had built model aeroplanes since childhood. He belonged to model flying clubs. So when he looked at this one bird, he saw something the others did not show."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Messiha taught anatomy for artists, and he had built model aeroplanes since childhood. He belonged to model flying clubs. So when he looked at this one bird, he saw something the others did not show.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 13.08
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of the upright vertical tail fin at the back of a small pale ancient wooden bird carving, macro, raking light, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No legs. No painted feathers. Straight wings. And a tail that stands upright, like the fin of a plane. Real birds, he argued, hold their tails flat."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No legs. No painted feathers. Straight wings. And a tail that stands upright, like the fin of a plane. Real birds, he argued, hold their tails flat.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.776
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A flight engineer in a 1960s workshop holding a pale balsa wood glider with straight wings and an upright tail fin, about to throw it, warm light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His brother Guirguis, a flight engineer, built a copy in balsa wood. Messiha added a horizontal tailplane, which he supposed had been lost, and wrote that it sailed a few yards when thrown by hand."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His brother Guirguis, a flight engineer, built a copy in balsa wood. Messiha added a horizontal tailplane, which he supposed had been lost, and wrote that it sailed a few yards when thrown by hand.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Science fiction concept art of a full-size wooden monoplane with straight wings resting on sand beside an ancient Egyptian temple, golden hour, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His conclusion was bold. This was a scale model of a full-size monoplane, and somewhere in Saqqara, the real aircraft might still be waiting."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His conclusion was bold. This was a scale model of a full-size monoplane, and somewhere in Saqqara, the real aircraft might still be waiting.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vintage 1970s travel magazine lying closed on a desk next to a coffee cup, plain blank cover, warm window light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen seventy-two the idea went public, in an Egyptian travel magazine. Reports say the Cairo museum even staged a small exhibition of ancient model aircraft, with the bird as its star."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen seventy-two the idea went public, in an Egyptian travel magazine. Reports say the Cairo museum even staged a small exhibition of ancient model aircraft, with the bird as its star.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A journalist's 1980s typewriter with a blank sheet of paper on a cluttered desk, cigarette smoke, film noir lighting, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the story started to grow. A journalist added a groove under the tail, where a tailplane would slot in. Messiha himself had described no groove, and no holes."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the story started to grow. A journalist added a groove under the tail, where a tailplane would slot in. Messiha himself had described no groove, and no holes.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 11.4
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A stack of glossy alternative history magazines with blank covers on a table, a paper aeroplane on top, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A magazine wrote that a separate slotted piece fits onto the tail, that it soars with a slight jerk of the hand, and that a full-size version could carry heavy loads. A newspaper gave it landing gear."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A magazine wrote that a separate slotted piece fits onto the tail, that it soars with a slight jerk of the hand, and that a full-size version could carry heavy loads. A newspaper gave it landing gear.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient papyrus scrolls lying on sand in a dark tomb, torchlight, blank weathered papyrus with no visible writing, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Online, it now carries hieroglyphs saying the gift of Amun, and three papyri nearby that say, I want to fly. None of that is in any record. Gift of Amun is simply what the tomb owner's name means."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Online, it now carries hieroglyphs saying the gift of Amun, and three papyri nearby that say, I want to fly. None of that is in any record. Gift of Amun is simply what the tomb owner's name means.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 14.088
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A 1960s paperback book lying on a desk under a lamp with a blank plain cover, a small model flying saucer beside it, moody light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One site even says Erich von D\u00e4niken used the bird in his nineteen sixty-eight bestseller. That book came out a year before anyone called it a plane. In the ancient astronaut world, it sits beside the golden jets of Colombia."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One site even says Erich von D\u00e4niken used the bird in his nineteen sixty-eight bestseller. That book came out a year before anyone called it a plane. In the ancient astronaut world, it sits beside the golden jets of Colombia.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 15.888
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a small pale cream-coloured ancient Egyptian wooden bird carving about fourteen centimetres long, a bird head with a short beak and a small dark painted eye, a smooth slim body, two straight flat wings stretched out sideways with slightly drooping tips, no legs, no carved feathers, and an upright vertical tail fin at the back like a tiny aeroplane fin, the body tapers straight into that single fin with no horizontal tail surfaces, seen from the front at eye level, dark background, soft rim light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the logbook shows one honest observation, and a pile of later upgrades. Time to inspect the airframe itself."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the logbook shows one honest observation, and a pile of later upgrades. Time to inspect the airframe itself.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 8.088
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Top-down macro photograph of a small pale cream-coloured ancient Egyptian wooden bird carving about fourteen centimetres long, a bird head with a short beak and a small dark painted eye, a smooth slim body, two straight flat wings stretched out sideways with slightly drooping tips, no legs, no carved feathers, and an upright vertical tail fin at the back like a tiny aeroplane fin, the body tapers straight into that single fin with no horizontal tail surfaces, seen from directly above on a grey inspection mat, even studio light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item three. Airframe inspection. Let's look at it the way an aircraft engineer would, and the way an Egyptologist would."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 AIRFRAME",
+   "Bird or Plane?",
+   "FIN \u00b7 WINGS \u00b7 BALANCE \u00b7 PAINT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item three. Airframe inspection. Let's look at it the way an aircraft engineer would, and the way an Egyptologist would.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 8.52
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro photograph of the head of a small ancient wooden bird carving showing a hooked beak and a painted dark eye with faded paint traces, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First, the head. It has a beak and a painted eye. There is paint on the top of the tail, and two faint reddish lines around the belly. Underneath, the body curves from head to tail like a bird in flight."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First, the head. It has a beak and a painted eye. There is paint on the top of the tail, and two faint reddish lines around the belly. Underneath, the body curves from head to tail like a bird in flight.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Front view macro photograph of a small ancient wooden bird carving with straight wings whose tips droop slightly downward, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Second, the wings. From the front, the tips droop downwards. Engineers call that anhedral. On a small glider, it makes things worse: it tips the model into a spiral."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second, the wings. From the front, the tips droop downwards. Engineers call that anhedral. On a small glider, it makes things worse: it tips the model into a spiral.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of small rusty old iron nails holding a thin wooden wing onto a wooden carving, macro photo, conservation lab light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Third, the wing joint. The wing is held on with iron nails, sits off-centre and slightly skewed. A glider expert concluded it had probably been remounted in modern times."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Third, the wing joint. The wing is held on with iron nails, sits off-centre and slightly skewed. A glider expert concluded it had probably been remounted in modern times.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An expert model glider builder in a hobby workshop holding a white competition free-flight model glider, workbench full of balsa parts, natural light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That expert is Martin Gregorie, who has designed and flown free-flight competition gliders for more than thirty years, and placed fifth at a world championship. He lists three things any stable glider needs."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That expert is Martin Gregorie, who has designed and flown free-flight competition gliders for more than thirty years, and placed fifth at a world championship. He lists three things any stable glider needs.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 14.208
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Engineering photo of a balsa glider wing balanced on a fingertip near its front edge, workshop background, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One. The balance point must sit roughly a quarter to sixty percent back along the wing. The Saqqara bird balances at, or behind, the trailing edge. And no weight was ever put in its head."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One. The balance point must sit roughly a quarter to sixty percent back along the wing. The Saqqara bird balances at, or behind, the trailing edge. And no weight was ever put in its head.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of the rear of a model glider showing a horizontal tailplane mounted on the tail, workshop light, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two. A horizontal tailplane, about a fifth to a quarter of the wing area. The bird has none, and there is no trace of where one was ever fixed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two. A horizontal tailplane, about a fifth to a quarter of the wing area. The bird has none, and there is no trace of where one was ever fixed.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 9.6
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A model glider seen from the front with its wing tips raised in a gentle V shape, white background, studio photo, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three. Wing tips raised, not lowered, to stop it rolling over. The bird has the opposite. Zero out of three."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three. Wing tips raised, not lowered, to stop it rolling over. The bird has the opposite. Zero out of three.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 7.896
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a small pale cream-coloured ancient Egyptian wooden bird carving about fourteen centimetres long, a bird head with a short beak and a small dark painted eye, a smooth slim body, two straight flat wings stretched out sideways with slightly drooping tips, no legs, no carved feathers, and an upright vertical tail fin at the back like a tiny aeroplane fin, the body tapers straight into that single fin with no horizontal tail surfaces, three-quarter view, dark blue background, dramatic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On paper, the airframe fails inspection. But paper is not flight. So we do what the believers asked for. We fly it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On paper, the airframe fails inspection. But paper is not flight. So we do what the believers asked for. We fly it.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 7.968
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A man in a calm grassy field holding a pale balsa wood replica of a small bird-shaped glider with straight wings and an upright tail fin at shoulder height, ready to launch, overcast light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Flight test one. Hand launch. In two thousand two, Gregorie built balsa replicas from careful drawings, with two wings, and two tails: one to scale, and one large tailplane, a quarter of the wing area."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "IV \u00b7 TEST 1",
+   "Hand Launch",
+   "BALSA REPLICAS \u00b7 2002"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Flight test one. Hand launch. In two thousand two, Gregorie built balsa replicas from careful drawings, with two wings, and two tails: one to scale, and one large tailplane, a quarter of the wing area.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 14.208
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Motion blurred photo of a small pale wooden glider tumbling end over end in the air above a grass field, frozen mid tumble, overcast, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "With no tail, or the scale tail, it would not fly. Launched slowly, it pitched up. Launched fast, it pitched down. Then it tumbled. Weight in the nose changed nothing."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "With no tail, or the scale tail, it would not fly. Launched slowly, it pitched up. Launched fast, it pitched down. Then it tumbled. Weight in the nose changed nothing.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A small pale wooden bird figure mounted on a thin pivot pin on a wooden post, pointing into the wind on a breezy hilltop, grass bending, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But mounted on a pin under the wing, it did one job beautifully. It turned straight into the wind and held steady. Remember that."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But mounted on a pin under the wing, it did one job beautifully. It turned straight into the wind and held steady. Remember that.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 8.544
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small pale balsa glider with a large horizontal tailplane gliding low over an indoor gym floor, motion blur, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "With the big tailplane fitted, it finally glided, fast and steep. It could not be launched with a slight jerk of the hand. It needed a full-arm throw."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "With the big tailplane fitted, it finally glided, fast and steep. It could not be launched with a slight jerk of the hand. It needed a full-arm throw.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.08
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A plain taut white string line stretched across a polished indoor floor next to a landed small balsa glider, close-up, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Best result: three metres forward for a one point three metre drop. A glide of one to two point three. A modern sailplane does better than one to forty."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Best result: three metres forward for a one point three metre drop. A glide of one to two point three. A modern sailplane does better than one to forty.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 10.728
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small dense dark wooden glider model lying on concrete after a hard landing, dramatic low angle, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Weighted up to match the real wood, he said it flew more like a brick with fins than an aircraft. His verdict: it never flew. More likely a toy, or a weather vane."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Weighted up to match the real wood, he said it flew more like a brick with fins than an aircraft. His verdict: it never flew. More likely a toy, or a weather vane.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A small balsa glider resting on a workbench next to a hand drawn wing sketch with no writing, warm workshop light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But believers had an answer. Hand launches are crude. Put it in a wind tunnel, and the numbers tell a different story."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But believers had an answer. Hand launches are crude. Put it in a wind tunnel, and the numbers tell a different story.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 7.68
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Inside a small aerodynamic wind tunnel, a pale wooden bird-shaped glider model held in place by thin cables in the airflow, smoke streams flowing over its wings, blue lab lighting, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Flight test two. The wind tunnel. In two thousand six, a television documentary had an aerodynamics specialist, Simon Sanderson, build a larger replica and put it in the airflow, with no tailplane."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "V \u00b7 TEST 2",
+   "Wind Tunnel",
+   "LIFT \u00b7 CABLES \u00b7 SIMULATOR"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Flight test two. The wind tunnel. In two thousand six, a television documentary had an aerodynamics specialist, Simon Sanderson, build a larger replica and put it in the airflow, with no tailplane.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 14.256
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of white smoke streamlines curling over a small wooden wing in a wind tunnel, dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The headline result: it produced four times its own weight in lift. Clips of that moment still circulate as proof."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The headline result: it produced four times its own weight in lift. Clips of that moment still circulate as proof.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 7.92
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of taut thin steel cables attached to a model in a wind tunnel test section, technical photo, cool light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But read the small print. The model was held in place by cables, and the cables did the stabilising. Lift is not flight. A flat plank makes lift. Keeping it pointed the right way is the hard part."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But read the small print. The model was held in place by cables, and the cables did the stabilising. Lift is not flight. A flat plank makes lift. Keeping it pointed the right way is the hard part.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 13.584
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A university flight simulator room with a pilot seat and wraparound screens showing a blank blue sky, dim lab, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the programme took the data to a flight simulator at Liverpool University, and added a stabilising tailplane. With the tailplane, the simulated bird flew quite well. The part that made it fly was the part that was never found."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the programme took the data to a flight simulator at Liverpool University, and added a stabilising tailplane. With the tailplane, the simulated bird flew quite well. The part that made it fly was the part that was never found.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 15.672
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A model glider builder setting up a small rubber band powered launcher ramp in a large calm barn, a pale bird-shaped balsa glider on the ramp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand eleven, for William Shatner's TV series Weird or What, Gregorie went further. New replicas, a mechanical launcher for repeatable throws, careful measurements, and the tailplane fitted."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand eleven, for William Shatner's TV series Weird or What, Gregorie went further. New replicas, a mechanical launcher for repeatable throws, careful measurements, and the tailplane fitted.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 14.112
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A skydiver in a wingsuit gliding over mountains, wide cinematic photo, clear sky, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The glide ratios came in between about two point two and two point eight. Gregorie put it plainly: that is about as good as a man in a wingsuit. Even the space shuttle glides better."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The glide ratios came in between about two point two and two point eight. Gregorie put it plainly: that is about as good as a man in a wingsuit. Even the space shuttle glides better.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Slow motion photo of a pale balsa bird glider rolling sharply to one side in mid air inside a barn, motion blur, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "With the drooping scale wing, it rolled forty degrees within two metres. And without the tailplane, it tumbled, every time. Two tests, one pattern."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "With the drooping scale wing, it rolled forty degrees within two metres. And without the tailplane, it tumbled, every time. Two tests, one pattern.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A museum photographer using a camera rig to 3D scan a small pale ancient wooden bird carving on a turntable, many soft lights, dark room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Flight test three. The digital twin. Replicas can be built wrong. So in twenty twenty-three, two engineers from the Institute of Aerospace Technology in Bremen tested the real shape."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "VI \u00b7 TEST 3",
+   "Digital Twin",
+   "3D SCAN \u00b7 CFD \u00b7 2023"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Flight test three. The digital twin. Replicas can be built wrong. So in twenty twenty-three, two engineers from the Institute of Aerospace Technology in Bremen tested the real shape.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A glowing blue wireframe 3D mesh of a small bird-shaped object with straight wings floating in a dark virtual space, computer graphics, no interface text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Michel Zierow and Leon Lesemann used a 3D photo scan of the artefact, made with staff of the Egyptian Museum, rebuilt it in seventy-four slices, and ran a full computer airflow simulation."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Michel Zierow and Leon Lesemann used a 3D photo scan of the artefact, made with staff of the Egyptian Museum, rebuilt it in seventy-four slices, and ran a full computer airflow simulation.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 14.592
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Computational fluid dynamics visualization of colourful airflow streamlines around a small bird-shaped glider with straight wings, red and blue pressure colours, dark background, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lift peaked at a low angle and then the flow broke away. Drag was two to five times that of a light aircraft. Best lift to drag ratio: two point eight six."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lift peaked at a low angle and then the flow broke away. Drag was two to five times that of a light aircraft. Best lift to drag ratio: two point eight six.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 11.4
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A hand releasing a small pale wooden bird-shaped glider from shoulder height in a bright room, motion blur, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "To glide at all, it would need about seventeen metres per second, roughly sixty kilometres an hour. Too fast, the authors wrote, for a stable launch by hand. Dropped from two metres, its best flight is five and a half metres, lasting one and a half seconds."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To glide at all, it would need about seventeen metres per second, roughly sixty kilometres an hour. Too fast, the authors wrote, for a stable launch by hand. Dropped from two metres, its best flight is five and a half metres, lasting one and a half seconds.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 16.92
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photo of a small wooden bird-shaped glider balanced on a thin metal pin near its tail, showing a tail-heavy balance point, dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its centre of gravity sits fifty-four millimetres behind the nose, near the trailing edge, behind the point that would keep it stable. So it pitches up."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its centre of gravity sits fifty-four millimetres behind the nose, near the trailing edge, behind the point that would keep it stable. So it pitches up.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Computer visualization of a small bird-shaped glider rolling to the right and stalling, motion trail in a dark virtual space, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the lift is lopsided, stronger on the left wing. So it rolls right, banks, pitches up, stalls, and crashes. In their words, it cannot fly a straight path."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the lift is lopsided, stronger on the left wing. So it rolls right, banks, pitches up, stalls, and crashes. In their words, it cannot fly a straight path.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark engineering lab at night with a single monitor glowing blue, an empty chair, cinematic photoreal, screen with abstract shapes only, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three tests, three methods, one result. As it is, the Saqqara bird does not fly. But the engineers ended with a hint. Look at it as a cultural object. And that vertical fin might suit a weather vane."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three tests, three methods, one result. As it is, the Saqqara bird does not fly. But the engineers ended with a hint. Look at it as a cultural object. And that vertical fin might suit a weather vane.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Egyptian temple relief carved in sandstone showing a sacred boat with a tall mast topped by a small bird figure, warm raking light, photoreal, eroded relief with no hieroglyphs, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item seven. Alternate role. If not an aircraft, then what? Start with the temple walls. At Karnak, in the Temple of Khonsu, reliefs of sacred festival boats show small bird figures on top of their masts."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII \u00b7 ALTERNATE ROLE",
+   "What Was It For?",
+   "VANE \u00b7 MASTHEAD \u00b7 TOY \u00b7 FALCON"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item seven. Alternate role. If not an aircraft, then what? Start with the temple walls. At Karnak, in the Temple of Khonsu, reliefs of sacred festival boats show small bird figures on top of their masts.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 14.52
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A small wooden bird-shaped wind vane with an upright tail fin turning on top of a pole on an ancient Nile sailing boat, river at golden hour, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A bird on a pivot, with an upright fin, turns its beak into the wind. That is exactly what Gregorie's replica did. A wind vane, on a boat, a shrine or a roof, explains the strangest feature, the fin."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A bird on a pivot, with an upright fin, turns its beak into the wind. That is exactly what Gregorie's replica did. A wind vane, on a boat, a shrine or a roof, explains the strangest feature, the fin.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 14.496
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An ancient Egyptian painted wooden falcon figure with folded wings and painted feathers on a museum shelf, soft light, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Or a sacred bird. The falcon was the form of Horus and of the sun god Ra-Horakhty. Egyptian bird figures were made for coffins, shrines and offerings, most with folded wings and painted feathers."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Or a sacred bird. The falcon was the form of Horus and of the sun god Ra-Horakhty. Egyptian bird figures were made for coffins, shrines and offerings, most with folded wings and painted feathers.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 14.28
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An ancient Egyptian child in a linen tunic in a sunlit courtyard holding up a small wooden bird toy on a stick, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Or a toy. Wikipedia describes it as mounted on a stick. A child running with a wooden bird held high would make the same shape against the sky. Toy, vane, falcon, masthead: none of these is proven, but all of them fit."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Or a toy. Wikipedia describes it as mounted on a stick. A child running with a wooden bird held high would make the same shape against the sky. Toy, vane, falcon, masthead: none of these is proven, but all of them fit.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 15.696
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient Alexandria harbour at sunset with Greek and Egyptian ships, lighthouse in the distance, cinematic historical reconstruction, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the era matters. Two hundred B C is the Ptolemaic age, a time of real invention: gears, screws, valves, Archimedes. Clever people lived then. But they left texts and machines behind."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the era matters. Two hundred B C is the Ptolemaic age, a time of real invention: gears, screws, valves, Archimedes. Clever people lived then. But they left texts and machines behind.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 14.808
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An empty desert landscape at Saqqara with nothing but sand and a distant step pyramid, wide, harsh midday light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For aviation, there is nothing. No full-size glider. No workshop. No text on flight. No image of a flying machine. Just one small wooden bird."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For aviation, there is nothing. No full-size glider. No workshop. No text on flight. No image of a flying machine. Just one small wooden bird.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 10.824
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky over the Egyptian desert with a faint unidentified light high in the stars above the step pyramid, mysterious, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the alien version, that it copies a craft visitors flew? It has even less: no craft, no visitors, and a model that cannot fly. It depends on reading a falcon's fin as a rudder."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the alien version, that it copies a craft visitors flew? It has even less: no craft, no visitors, and a model that cannot fly. It depends on reading a falcon's fin as a rudder.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum vault at night, a small pale wooden bird carving with straight wings on a black stand far on the right edge lit by a warm golden spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the Saqqara bird."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the Saqqara bird.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.88
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum vault at night, a small pale wooden bird carving with straight wings on a black stand far on the right edge lit by a warm golden spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real ancient carving, about two hundred B C: evidence. Shaped like a bird, with beak, eye and paint: evidence. An upright fin unlike other bird figures: real, and still open. A vane, a masthead, a toy or a falcon: likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real ancient carving, about two hundred B C: evidence. Shaped like a bird, with beak, eye and paint: evidence. An upright fin unlike other bird figures: real, and still open. A vane, a masthead, a toy or a falcon: likely.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 17.064
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum vault at night, a small pale wooden bird carving with straight wings on a black stand far on the right edge lit by a warm golden spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A missing tailplane, or a groove for one: no trace. Flies as it is: debunked, by three separate tests. Alien or lost aviation knowledge: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A missing tailplane, or a groove for one: no trace. Flies as it is: debunked, by three separate tests. Alien or lost aviation knowledge: no evidence.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.4
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro museum photograph of a small pale cream-coloured ancient Egyptian wooden bird carving about fourteen centimetres long, a bird head with a short beak and a small dark painted eye, a smooth slim body, two straight flat wings stretched out sideways with slightly drooping tips, no legs, no carved feathers, and an upright vertical tail fin at the back like a tiny aeroplane fin, the body tapers straight into that single fin with no horizontal tail surfaces, on its stand, warm golden light, dark background, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Grounded. The Saqqara bird is a real and lovely carving of a bird, probably a vane, a sacred figure or a toy. It is not a glider, and it never was. But its fin is still a small, honest mystery."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Grounded. The Saqqara bird is a real and lovely carving of a bird, probably a vane, a sacred figure or a toy. It is not a glider, and it never was. But its fin is still a small, honest mystery.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 15.96
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of an ancient craftsman's hands carving a small wooden bird with a knife in a sunlit Egyptian workshop, wood shavings, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Somewhere, twenty-two centuries ago, a carver made a bird with a tail that stands up. Maybe because it turned in the wind. That idea is wonderful enough, without aliens."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Somewhere, twenty-two centuries ago, a carver made a bird with a tail that stands up. Maybe because it turned in the wind. That idea is wonderful enough, without aliens.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A mysterious rough stone garden of huge carved coral rock blocks at night under stars in Florida, a crescent moon shaped stone, moody, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: one man, more than a thousand tons of coral rock, and no witnesses. How did he move it?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: one man, more than a thousand tons of coral rock, and no witnesses. How did he move it?",
+    "file": "ep/audio/s65.mp3",
+    "dur": 6.672
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small pale wooden bird with straight wings glowing faintly in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think the fin was for? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think the fin was for? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 7.344
+   }
+  ]
+ }
+]
