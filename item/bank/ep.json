@@ -1,0 +1,1439 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal low-angle view up at the ceiling of a dark sandstone rock shelter, a huge ancient red ochre painting of a giant humanoid figure with a smooth round featureless head, faded and cracked, torchlight, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Algeria, deep in the Sahara. On the ceiling of a rock shelter, a giant figure with a smooth round head and no face looks down. For sixty years, people have asked one question. Is it an alien in a space helmet?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Algeria, deep in the Sahara. On the ceiling of a rock shelter, a giant figure with a smooth round head and no face looks down. For sixty years, people have asked one question. Is it an alien in a space helmet?",
+    "file": "ep/audio/s01.mp3",
+    "dur": 15.24
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky over a Saharan sandstone plateau with the Milky Way and a lone camel caravan silhouette, photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Because buried in this story are a nickname, a bestselling book, and a long chain of copies. And somewhere along that chain, the picture changed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Because buried in this story are a nickname, a bestselling book, and a long chain of copies. And somewhere along that chain, the picture changed.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 9.504
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A weathered leather-bound expedition notebook and a brush and a compass on a sandy canvas tent table in warm lamp light, shallow depth of field, photoreal, pages blank, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real wall. A real expedition. And a joke that escaped. This is the caravan route to the so-called Great Martian God."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real wall. A real expedition. And a joke that escaped. This is the caravan route to the so-called Great Martian God.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 8.952
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Title card background: a lone camel caravan silhouetted against a huge orange sandstone arch at dusk, minimal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tassili n'Ajjer. Evidence against theory. Let's set out."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tassili n'Ajjer. Evidence against theory. Let's set out.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 4.056
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal view of a small Saharan oasis town of low sand-colored buildings at dawn at the foot of a huge sandstone escarpment, camels loading, a vast orange sandstone plateau in the Algerian Sahara with towers and arches of eroded rock, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Day one begins in Djanet, a small oasis town in southeastern Algeria. From here, guides lead walkers up onto the Tassili plateau, a vast sandstone tableland cut by deep gorges."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I",
+   "Day One: Djanet",
+   "THE CLAIM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Day one begins in Djanet, a small oasis town in southeastern Algeria. From here, guides lead walkers up onto the Tassili plateau, a vast sandstone tableland cut by deep gorges.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 14.496
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal wide shot of a vast orange sandstone plateau in the Algerian Sahara with towers and arches of eroded rock at golden hour, dramatic clouds, empty, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tassili n'Ajjer is a Tuareg name. It means the plateau of the Ajjer people. In nineteen eighty-two, UNESCO listed it, partly for its landscape and partly for its rock art."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tassili n'Ajjer is a Tuareg name. It means the plateau of the Ajjer people. In nineteen eighty-two, UNESCO listed it, partly for its landscape and partly for its rock art.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal narrow alley between towering eroded sandstone pillars in the Sahara, warm low sun, dust in the air, sense of walking on another planet, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The landscape alone is strange. Wind has carved the sandstone into towers, arches and narrow alleys, so-called stone forests. Walking through them can feel like walking on the Moon."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The landscape alone is strange. Wind has carved the sandstone into towers, arches and narrow alleys, so-called stone forests. Walking through them can feel like walking on the Moon.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal old black and white style 1950s expedition scene turned into a color photograph: a European explorer in a pith helmet and several Tuareg guides with camels at the base of a sandstone cliff, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now meet the claim. In the nineteen fifties, a French explorer named Henri Lhote led a team here and came home with copies of hundreds of paintings. One figure, he called the Great Martian God."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now meet the claim. In the nineteen fifties, a French explorer named Henri Lhote led a team here and came home with copies of hundreds of paintings. One figure, he called the Great Martian God.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A paperback-style book lying open on a wooden desk in a dim study with a single lamp, pages blurred, the open page showing a dark painted figure, photoreal, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, in nineteen sixty-eight, a Swiss author named Erich von D\u00e4niken printed that figure in a bestseller called Chariots of the Gods. His reading: a visitor in a spacesuit, wearing a helmet."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, in nineteen sixty-eight, a Swiss author named Erich von D\u00e4niken printed that figure in a bestseller called Chariots of the Gods. His reading: a visitor in a spacesuit, wearing a helmet.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal stack of many paperback books on a table in warm light, only their blank spines visible, a world globe behind them, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The idea went round the world. Across all his books, von D\u00e4niken has sold more than sixty million copies. But which picture went round the world? A wall, or a copy of a wall? Keep that question."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The idea went round the world. Across all his books, von D\u00e4niken has sold more than sixty million copies. But which picture went round the world? A wall, or a copy of a wall? Keep that question.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A lone traveler with a walking stick at the edge of a cliff looking out over a huge Saharan canyon at sunrise, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So we will do this properly. Walk to the wall. Look at what is actually painted there. Ask who painted it and when. Then follow the copies back out into the world."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So we will do this properly. Walk to the wall. Look at what is actually painted there. Ask who painted it and when. Then follow the copies back out into the world.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.896
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal green Sahara reconstruction: a wide grassy savannah with a river and acacia trees, giraffes and elephants in the distance, golden light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First clue, the climate. Today the Tassili is dry. But after the last ice age, the central Sahara was far wetter, with rivers, lakes and grassland."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First clue, the climate. Today the Tassili is dry. But after the last ice age, the central Sahara was far wetter, with rivers, lakes and grassland.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 10.848
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal Saharan green savannah scene with a herd of elephants and a hippo at a waterhole, soft morning light, documentary style, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Elephants, giraffes, hippos and rhinos lived here. Rock paintings and engravings show them, which is one reason researchers can tell the art is old. Most of the big animals vanished as the desert returned."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Elephants, giraffes, hippos and rhinos lived here. Rock paintings and engravings show them, which is one reason researchers can tell the art is old. Most of the big animals vanished as the desert returned.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 14.496
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal dry riverbed cracking into dust in the Sahara, a few dead trees, far dunes, haze, sad and quiet, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By about six thousand years ago, the Sahara had become much drier. Lakes shrank. People moved their herds south and east. And the high plateau became a time capsule."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By about six thousand years ago, the Sahara had become much drier. Lakes shrank. People moved their herds south and east. And the high plateau became a time capsule.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal 1930s French Foreign Legion style patrol with camels crossing a Saharan canyon floor, soldiers in khaki, warm dusty light, seen from behind, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the nineteen thirties, French soldiers on patrol noticed painted shelters. One of them, Lieutenant Charles Brenans, made sketches between nineteen thirty-three and nineteen forty."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the nineteen thirties, French soldiers on patrol noticed painted shelters. One of them, Lieutenant Charles Brenans, made sketches between nineteen thirty-three and nineteen forty.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vintage field sketchbook open on a rock with a pencil sketch of a simple figure, desert dust, golden light, photoreal, no readable writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His sketches went to a museum in Algiers, then to the great prehistorian Henri Breuil in France. And Brenans took a young ethnographer into the stone forests. His name was Henri Lhote."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His sketches went to a museum in Algiers, then to the great prehistorian Henri Breuil in France. And Brenans took a young ethnographer into the stone forests. His name was Henri Lhote.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal 1956 style expedition camp in the Sahara: tents, trucks and camels near an orange sandstone cliff at dusk, lanterns glowing, a few painters with easels, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In February nineteen fifty-six, Lhote reached Djanet with a large team. Over sixteen months, they documented about eight hundred paintings, with painters and photographers recording each one."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In February nineteen fifty-six, Lhote reached Djanet with a large team. Over sixteen months, they documented about eight hundred paintings, with painters and photographers recording each one.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Title card background: a lone figure silhouette climbing a steep sandstone staircase onto a plateau at sunrise, minimal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the first day gives us a real place, a real expedition, and a nickname that was about to become a legend. Keep a tally. Now, on to the shelter."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II",
+   "Day Two: The Shelter",
+   "JABBAREN"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the first day gives us a real place, a real expedition, and a nickname that was about to become a legend. Keep a tally. Now, on to the shelter.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 10.488
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal small group of trekkers with donkeys walking in single file through a dry canyon of orange rock, long shadows, dusty air, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Day two is a long walk. The painted shelters lie deep inside the plateau, reachable only on foot or by animal, with guides. That is one reason so much of the art survives."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Day two is a long walk. The painted shelters lie deep inside the plateau, reachable only on foot or by animal, with guides. That is one reason so much of the art survives.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal sandstone cones and domes forming alleys in the Sahara like a stone village at golden hour, deep shadows, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The site is called Jabbaren. It is a Tuareg word that means giants. The rock here has eroded into domes and alleys, like streets in a stone town, with ceilings and walls to paint on."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The site is called Jabbaren. It is a Tuareg word that means giants. The rock here has eroded into domes and alleys, like streets in a stone town, with ceilings and walls to paint on.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal view looking up from inside a rock shelter at its ceiling covered with faded red ochre paintings of tall humanoid figures with round heads, light spilling in from the opening, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And on the ceiling of one shelter is the giant. Accounts differ on its exact size. Most put it at five to six meters tall, and it is among the largest paintings in the Sahara."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And on the ceiling of one shelter is the giant. Accounts differ on its exact size. Most put it at five to six meters tall, and it is among the largest paintings in the Sahara.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up photoreal of a weathered red ochre painted humanoid figure with a simple rounded head outline, no face, no details, on rough sandstone, raking light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look closely. The head is a smooth round shape. There is no face, no eyes and no mouth. That absence is exactly what makes it look like a helmet."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look closely. The head is a smooth round shape. There is no face, no eyes and no mouth. That absence is exactly what makes it look like a helmet.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal silhouette of a person standing small under a gigantic ancient painted figure on a shelter ceiling for scale, dim light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next, the body. A broad, simple shape. Arms held out. Beside the head, a few small marks. The figure is huge, and the people painted near it are tiny."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next, the body. A broad, simple shape. Arms held out. Beside the head, a few small marks. The figure is huge, and the people painted near it are tiny.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal close-up of a rough sandstone surface with layers of red ochre pigment flaking off and pale patches where paint is lost, macro, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the surface. The paint is thousands of years old and has flaked, faded and cracked. Parts of the figure are simply gone. So any detail you think you see is partly guesswork."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the surface. The paint is thousands of years old and has flaked, faded and cracked. Parts of the figure are simply gone. So any detail you think you see is partly guesswork.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.88
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal view of a huge ancient painted figure on a rock ceiling with a visor-like pale oval shape across its head, dim lighting, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Von D\u00e4niken saw a visor in the head, a suit in the body, and antennae on the sides. Those are the claims we will test, one at a time."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Von D\u00e4niken saw a visor in the head, a suit in the body, and antennae on the sides. Those are the claims we will test, one at a time.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 9.624
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal ancient rock painting of a floating humanoid figure with a round head appearing to drift on a wall of orange sandstone, red ochre, soft light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some figures nearby seem to float or swim across the rock, drifting in profile. To a modern eye, that looks like weightlessness. Researchers have suggested something very different."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some figures nearby seem to float or swim across the rock, drifting in profile. To a modern eye, that looks like weightlessness. Researchers have suggested something very different.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.312
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal ethnographic scene: a shaman-like figure dancing at night around a fire in a Saharan rock shelter, shadows on the wall, seen as silhouettes, evocative, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Rock art researchers David Coulson and Alec Campbell note that floating figures could point to trance and out-of-body travel, which is part of shamanism. A spirit world, not a spaceship."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Rock art researchers David Coulson and Alec Campbell note that floating figures could point to trance and out-of-body travel, which is part of shamanism. A spirit world, not a spaceship.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal rock shelter with a tiny painted group of figures with raised hands in front of a huge painted figure on a sandstone wall, warm lamp light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Another scene shows women with raised hands approaching a huge figure towering over them. One scholar described a sense of fearless worship. That reads as devotion, not as a landing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Another scene shows women with raised hands approaching a huge figure towering over them. One scholar described a sense of fearless worship. That reads as devotion, not as a landing.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal scientific measuring tape and ochre pigment sample jar on a rock ledge in the desert, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The painters used natural pigments, mainly red ochre, on a sandstone wall. There is no metal, no glass, no technology anywhere in the paint. Everything in this picture is made from earth."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The painters used natural pigments, mainly red ochre, on a sandstone wall. There is no metal, no glass, no technology anywhere in the paint. Everything in this picture is made from earth.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 13.056
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal deep Saharan gorge at first light with long shadows, quiet, no people, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the question for day three. Is the Great God an oddball, or one of a family? The answer shapes everything."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III",
+   "Day Three: The Neighbours",
+   "THE FAMILY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the question for day three. Is the Great God an oddball, or one of a family? The answer shapes everything.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 7.08
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal wall of a rock shelter covered with many faded red ochre humanoid figures in different poses, a crowded panel of ancient art, soft light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is a family. On the plateau, researchers have recorded many figures with the same round, featureless heads, often painted in the same red ochre. The style has a name: Round Head."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is a family. On the plateau, researchers have recorded many figures with the same round, featureless heads, often painted in the same red ochre. The style has a name: Round Head.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal ancient rock painting of a dancing group of round-headed humanoid figures in rhythmic poses in red ochre on pale sandstone, ceremonial feel, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Round Head art shows people dancing, carrying sticks and bows, wearing arm bands. It shows ceremonies. These are not lone visitors. They are crowds in the middle of a ritual."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Round Head art shows people dancing, carrying sticks and bows, wearing arm bands. It shows ceremonies. These are not lone visitors. They are crowds in the middle of a ritual.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal ancient rock art of a human figure wearing the head and horns of a Barbary sheep as a mask, red ochre on rock, soft light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And some wear masks. In some paintings, figures wear the heads of animals, including Barbary sheep. A round head with nothing on it could be a mask pulled over the face."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And some wear masks. In some paintings, figures wear the heads of animals, including Barbary sheep. A round head with nothing on it could be a mask pulled over the face.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 11.088
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal museum-style dark display of a carved wooden West African ritual mask with round rounded forms under spot light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Archaeologist Jitka Soukopova has compared this tradition with masks, body painting and initiation rites across Sub-Saharan Africa. She sees ceremony and spirits, not astronauts."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Archaeologist Jitka Soukopova has compared this tradition with masks, body painting and initiation rites across Sub-Saharan Africa. She sees ceremony and spirits, not astronauts.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal ethnographic scene of ancient hunter-gatherers with bows and painted bodies in a Saharan green grassland at dawn, documentary style, respectful, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Who painted them? Hunter-gatherers living here when the Sahara was still green. Remains found in the region suggest they had dark skin and a sophisticated culture, including pottery."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Who painted them? Hunter-gatherers living here when the Sahara was still green. Remains found in the region suggest they had dark skin and a sophisticated culture, including pottery.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.504
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal archaeological sediment sampling in a rock shelter, a scientist with a small tube collecting dust, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "How old is the art? Dating is hard. Researchers use style, superimposition and associated finds. One study of sediments at the foot of the paintings suggests some Round Head art is at least nine thousand years old."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "How old is the art? Dating is hard. Researchers use style, superimposition and associated finds. One study of sediments at the foot of the paintings suggests some Round Head art is at least nine thousand years old.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 14.976
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal timeline concept as a long scenic desert horizon with layers of sediment in a cliff face, warm light, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The usual range is about nine and a half thousand to seven thousand years ago. Experts argue about the edges, but nobody argues about the neighbourhood. This art is far older than any spacecraft story."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The usual range is about nine and a half thousand to seven thousand years ago. Experts argue about the edges, but nobody argues about the neighbourhood. This art is far older than any spacecraft story.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 14.016
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal scene of a close-up of a large ancient painted figure beside a much smaller group of painted figures on a rock wall, showing scale difference, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is also a rule of scale. In Round Head art, important figures are painted huge and others tiny. Size shows rank. The giant is not a different species. It is a more important figure."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is also a rule of scale. In Round Head art, important figures are painted huge and others tiny. Size shows rank. The giant is not a different species. It is a more important figure.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal rock painting of a tall solitary red ochre figure with a round head and outstretched arms in the centre of a shelter wall, others smaller around it, mystical, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Soukopova counts at least seven of these central, towering figures in Tassili, and calls them Great Gods. Placed on the walls of chosen shelters, they look like the heart of a sacred place."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Soukopova counts at least seven of these central, towering figures in Tassili, and calls them Great Gods. Placed on the walls of chosen shelters, they look like the heart of a sacred place.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 13.32
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal archaeologist standing in a rock shelter looking at an ancient wall in quiet light, from behind, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The mainstream reading is therefore simple. Ordinary people in ritual dress, or spirit beings, painted by early Holocene hunters. The aliens are not in the paint. They arrive later, with the copies."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The mainstream reading is therefore simple. Ordinary people in ritual dress, or spirit beings, painted by early Holocene hunters. The aliens are not in the paint. They arrive later, with the copies.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 14.016
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal vintage studio of a painter copying a large rock-art panel onto huge paper on a wall, charcoal and brushes, warm light, the copy blurry, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So how did the wall become a book? Lhote's team did not just photograph the shelters. They employed painters to copy the paintings, and the copies were later shown as huge reproductions."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV",
+   "Day Four: The Copyists",
+   "THE COPIES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So how did the wall become a book? Lhote's team did not just photograph the shelters. They employed painters to copy the paintings, and the copies were later shown as huge reproductions.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.36
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal painter's hand holding a wet sponge against a red ochre rock painting, water dripping on the rock, close-up, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And to see the faint paint more clearly, the paintings were sponged down. Wet rock brightens colour. It is a quick way to make a better photograph, and a terrible thing to do to a painting."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And to see the faint paint more clearly, the paintings were sponged down. Wet rock brightens colour. It is a quick way to make a better photograph, and a terrible thing to do to a painting.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal faded and washed-out rock painting with traces of pigment running down the sandstone, melancholy, macro, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Coulson and Campbell describe the result bluntly. Serious damage, and colours reduced to a travesty of their original splendour. The team's own methods helped destroy what they came to save."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Coulson and Campbell describe the result bluntly. Serious damage, and colours reduced to a travesty of their original splendour. The team's own methods helped destroy what they came to save.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal scholar at a desk in a university office reading a thick report under a lamp, shelves of books, calm, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand three, British anthropologist Jeremy Keenan reviewed Lhote's publications. He concluded that many claims were misleading, that a number of paintings were faked, and that the copying was fraught with errors."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand three, British anthropologist Jeremy Keenan reviewed Lhote's publications. He concluded that many claims were misleading, that a number of paintings were faked, and that the copying was fraught with errors.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal split composition: an ancient faded painting on a rock wall at left and a bold bright modern painted copy of it on white paper at right, side by side, dramatic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even without fakery, copying changes things. A faded patch becomes a line. A scratch becomes a feature. The copy is cleaner, bolder and more strange than the wall."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even without fakery, copying changes things. A faded patch becomes a line. A scratch becomes a feature. The copy is cleaner, bolder and more strange than the wall.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1958 style Paris art exhibition hall with huge reproductions of Saharan paintings hung on tall walls, visitors in coats, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And those big, clean copies were shown in Paris in nineteen fifty-seven and fifty-eight. The writer Andr\u00e9 Malraux called it one of the defining exhibitions of the mid-century. African rock art was now fine art."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And those big, clean copies were shown in Paris in nineteen fifty-seven and fifty-eight. The writer Andr\u00e9 Malraux called it one of the defining exhibitions of the mid-century. African rock art was now fine art.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 15.216
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal open expedition book lying on a desk beside a model astronaut helmet and a palette of ochre pigment, dim lamp, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lhote's book followed. In it, he gave nicknames to some figures. Was the Great Martian God a serious proposal? Coulson says he called such figures martians jokingly. Other accounts say he floated the idea in print."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lhote's book followed. In it, he gave nicknames to some figures. Was the Great Martian God a serious proposal? Coulson says he called such figures martians jokingly. Other accounts say he floated the idea in print.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 14.808
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal expedition team members leaning over a table of photographs in a desert camp tent, warm lamp light, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Either way, a nickname offered as a joke, or as a hunch, became a caption. And a caption can outrun the person who wrote it. Which brings us to the book that carried it to millions."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Either way, a nickname offered as a joke, or as a hunch, became a caption. And a caption can outrun the person who wrote it. Which brings us to the book that carried it to millions.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal desk of an author with a typewriter and stacked manuscripts and rejection letters, dim lamp, no readable text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Erich von D\u00e4niken's first book was rejected twenty-two times before it was published. Then it became a worldwide bestseller. Its argument: ancient peoples could not have imagined gods without help from space."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Erich von D\u00e4niken's first book was rejected twenty-two times before it was published. Then it became a worldwide bestseller. Its argument: ancient peoples could not have imagined gods without help from space.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 14.712
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal ancient rock painting beside a modern astronaut helmet placed on the sand, dramatic desert light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That argument has a problem. It assumes ancient painters could not paint spirits. But cultures around the world paint spirits. Round heads, horned heads, animal heads. These are the gods of people who dreamt."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That argument has a problem. It assumes ancient painters could not paint spirits. But cultures around the world paint spirits. Round heads, horned heads, animal heads. These are the gods of people who dreamt.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 14.136
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal detective's table in a desert tent with three small objects in a row: a helmet, a carved mask, and a paintbrush, dramatic lamp light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So we can sort the claims. Theory one: the figure shows a visitor in a space suit. Theory two: it shows a person in a ritual mask or a spirit being. Theory three: the copies made it look stranger than the wall."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "V",
+   "Day Five: The Suspects",
+   "THE THEORIES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So we can sort the claims. Theory one: the figure shows a visitor in a space suit. Theory two: it shows a person in a ritual mask or a spirit being. Theory three: the copies made it look stranger than the wall.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 14.328
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal astronaut helmet resting on desert sand beside a sandstone cliff, lone, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First the alien theory. A visitor in a suit, with a helmet and a visor, painted by awestruck hunters. It is a good story. It needs evidence."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First the alien theory. A visitor in a suit, with a helmet and a visor, painted by awestruck hunters. It is a good story. It needs evidence.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal empty desert shelter floor with dust and a few stones, searching, no objects found, soft light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "To test it, ask what visitors would leave. Tools. Wreckage. Metal. Anything made of materials that do not belong. Excavations at Tassili have found pottery, stone tools and bones. No alien object. Nothing."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To test it, ask what visitors would leave. Tools. Wreckage. Metal. Anything made of materials that do not belong. Excavations at Tassili have found pottery, stone tools and bones. No alien object. Nothing.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 15.936
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal close-up of rounded featureless heads in ancient red ochre rock paintings, many different round heads in a row, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the helmet idea fails inside the art. The round head appears on figures of every size, with horns, with bows, with sticks. If every dancer wore a spacesuit, there would be a lot of astronauts."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the helmet idea fails inside the art. The round head appears on figures of every size, with horns, with bows, with sticks. If every dancer wore a spacesuit, there would be a lot of astronauts.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal ritual scene of masked dancers in a Saharan shelter at night by firelight, silhouettes, warm glow, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Second, the ritual theory. A round head is a mask, or a hood, or an idealised spirit. This fits the dancing, the animal masks, the body paint, and the ceremonial setting."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second, the ritual theory. A round head is a mask, or a hood, or an idealised spirit. This fits the dancing, the animal masks, the body paint, and the ceremonial setting.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 12.216
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal scientific illustration style desk with an anthropology book on African masks and a notepad, calm lighting, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But it has a gap, and honesty requires us to say so. Nobody can prove what a prehistoric painting meant. The mask idea is a well-supported reading, not a certainty."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But it has a gap, and honesty requires us to say so. Nobody can prove what a prehistoric painting meant. The mask idea is a well-supported reading, not a certainty.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 11.544
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal ancient rock paintings partially damaged with pale washed-out zones and gaps, overlaid tracing paper lying on a rock, soft light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Third, the copy theory. The strangest features, the neat visor, the floating look, grew as the paint faded and was copied. This is plausible, and Keenan's critique supports it. But we need the originals to know more."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Third, the copy theory. The strangest features, the neat visor, the floating look, grew as the paint faded and was copied. This is plausible, and Keenan's critique supports it. But we need the originals to know more.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 14.328
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal desert dunes at sunrise with a lone track of footprints, serene, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now stack the three. The wall shows ritual and masks. The copies exaggerate. The book then added a spacesuit that was never painted. Each layer moves a little further from the rock."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now stack the three. The wall shows ritual and masks. The copies exaggerate. The book then added a spacesuit that was never painted. Each layer moves a little further from the rock.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal bare wooden table in a tent with an empty notebook and a magnifying glass, one lamp, dramatic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What could change the verdict? A dated metal object. A painting showing something we cannot explain with masks, spirits or animals. A document from the painters themselves. After sixty years of looking, none has appeared."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What could change the verdict? A dated metal object. A painting showing something we cannot explain with masks, spirits or animals. A document from the painters themselves. After sixty years of looking, none has appeared.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 14.928
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum style hall with a pedestal on the right edge and large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to score the case. Day six. Evidence on one side, theory on the other."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VI",
+   "Day Six: The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score the case. Day six. Evidence on one side, theory on the other.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 5.208
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Dark museum style hall with a pedestal on the right edge and large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Round Head hunters painting it about nine and a half to seven thousand years ago: evidence. Masks, dances and ceremonies in the same style: evidence. The helmet as a plain round head outline: likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Round Head hunters painting it about nine and a half to seven thousand years ago: evidence. Masks, dances and ceremonies in the same style: evidence. The helmet as a plain round head outline: likely.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 14.184
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum style hall with a pedestal on the right edge and large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The joke or the hypothesis: disputed. Copies that altered the record: partial. Spacesuit, visor, antennae: no evidence. Visitors from space: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The joke or the hypothesis: disputed. Copies that altered the record: partial. Spacesuit, visor, antennae: no evidence. Visitors from space: no evidence.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.736
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A lone ancient painted round-headed figure on a sandstone ceiling at the end of a long dusk, fading light, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Not aliens. The Great Martian God is most likely a painting of a masked or spirit figure by early Saharan hunters, made about eight thousand years ago, and made stranger by its own copies."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Not aliens. The Great Martian God is most likely a painting of a masked or spirit figure by early Saharan hunters, made about eight thousand years ago, and made stranger by its own copies.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a hand placing a small stone on a cairn on a desert trail at sunset, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That does not make it less remarkable. It is one of the largest paintings in Africa, from a time before farming reached the Sahara, and it still holds a real mystery: what exactly did it mean?"
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That does not make it less remarkable. It is one of the largest paintings in Africa, from a time before farming reached the Sahara, and it still holds a real mystery: what exactly did it mean?",
+    "file": "ep/audio/s64.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Soft golden light entering a dark Saharan rock shelter, dust motes, calm and beautiful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What lingers is the silence of that shelter, and the sense that people stood there eight thousand years ago and looked up in awe, just as we do."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What lingers is the silence of that shelter, and the sense that people stood there eight thousand years ago and looked up in awe, just as we do.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night photograph of a lonely road in Belgium with three faint triangular lights silhouetted in the sky above fields, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: black triangles gliding silently over Belgium, seen by thousands, and chased by fighter jets."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: black triangles gliding silently over Belgium, seen by thousands, and chased by fighter jets.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 7.272
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single round-headed figure silhouette painted in faint red ochre on black rock, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think the painters meant? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think the painters meant? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 7.152
+   }
+  ]
+ }
+]

@@ -1,0 +1,1372 @@
+{
+ "fps": 30,
+ "total": 25852,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 490,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Algeria, deep in the Sahara. On the ceiling of a rock shelter, a giant figure with a smooth round head and no face looks down. For sixty years, people have asked one question. Is it an alien in a space helmet?",
+     "file": "ep/audio/s01.mp3",
+     "dur": 15.24,
+     "start": 10,
+     "end": 468
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 472,
+   "end": 790,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Because buried in this story are a nickname, a bestselling book, and a long chain of copies. And somewhere along that chain, the picture changed.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 9.504,
+     "start": 482,
+     "end": 768
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 772,
+   "end": 1073,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A real wall. A real expedition. And a joke that escaped. This is the caravan route to the so-called Great Martian God.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 8.952,
+     "start": 782,
+     "end": 1051
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1055,
+   "end": 1329,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tassili n'Ajjer. Evidence against theory. Let's set out.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 4.056,
+     "start": 1065,
+     "end": 1187
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I",
+    "Day One: Djanet",
+    "THE CLAIM"
+   ],
+   "img": "ep/img/shot_05.jpg",
+   "start": 1311,
+   "end": 1778,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Day one begins in Djanet, a small oasis town in southeastern Algeria. From here, guides lead walkers up onto the Tassili plateau, a vast sandstone tableland cut by deep gorges.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 14.496,
+     "start": 1321,
+     "end": 1756
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 1760,
+   "end": 2180,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tassili n'Ajjer is a Tuareg name. It means the plateau of the Ajjer people. In nineteen eighty-two, UNESCO listed it, partly for its landscape and partly for its rock art.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 12.912,
+     "start": 1770,
+     "end": 2158
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2162,
+   "end": 2581,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The landscape alone is strange. Wind has carved the sandstone into towers, arches and narrow alleys, so-called stone forests. Walking through them can feel like walking on the Moon.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 12.888,
+     "start": 2172,
+     "end": 2559
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2563,
+   "end": 2984,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now meet the claim. In the nineteen fifties, a French explorer named Henri Lhote led a team here and came home with copies of hundreds of paintings. One figure, he called the Great Martian God.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 12.936,
+     "start": 2573,
+     "end": 2962
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2966,
+   "end": 3399,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, in nineteen sixty-eight, a Swiss author named Erich von D\u00e4niken printed that figure in a bestseller called Chariots of the Gods. His reading: a visitor in a spacesuit, wearing a helmet.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.344,
+     "start": 2976,
+     "end": 3377
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3381,
+   "end": 3827,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The idea went round the world. Across all his books, von D\u00e4niken has sold more than sixty million copies. But which picture went round the world? A wall, or a copy of a wall? Keep that question.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 13.776,
+     "start": 3391,
+     "end": 3805
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3809,
+   "end": 4168,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So we will do this properly. Walk to the wall. Look at what is actually painted there. Ask who painted it and when. Then follow the copies back out into the world.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 10.896,
+     "start": 3819,
+     "end": 4146
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4150,
+   "end": 4508,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First clue, the climate. Today the Tassili is dry. But after the last ice age, the central Sahara was far wetter, with rivers, lakes and grassland.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 10.848,
+     "start": 4160,
+     "end": 4486
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4490,
+   "end": 4957,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Elephants, giraffes, hippos and rhinos lived here. Rock paintings and engravings show them, which is one reason researchers can tell the art is old. Most of the big animals vanished as the desert returned.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 14.496,
+     "start": 4500,
+     "end": 4935
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4939,
+   "end": 5326,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By about six thousand years ago, the Sahara had become much drier. Lakes shrank. People moved their herds south and east. And the high plateau became a time capsule.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 11.832,
+     "start": 4949,
+     "end": 5304
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5308,
+   "end": 5695,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the nineteen thirties, French soldiers on patrol noticed painted shelters. One of them, Lieutenant Charles Brenans, made sketches between nineteen thirty-three and nineteen forty.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 11.808,
+     "start": 5318,
+     "end": 5673
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5677,
+   "end": 6103,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His sketches went to a museum in Algiers, then to the great prehistorian Henri Breuil in France. And Brenans took a young ethnographer into the stone forests. His name was Henri Lhote.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 13.128,
+     "start": 5687,
+     "end": 6081
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6085,
+   "end": 6507,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In February nineteen fifty-six, Lhote reached Djanet with a large team. Over sixteen months, they documented about eight hundred paintings, with painters and photographers recording each one.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.984,
+     "start": 6095,
+     "end": 6485
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II",
+    "Day Two: The Shelter",
+    "JABBAREN"
+   ],
+   "img": "ep/img/shot_18.jpg",
+   "start": 6489,
+   "end": 6836,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the first day gives us a real place, a real expedition, and a nickname that was about to become a legend. Keep a tally. Now, on to the shelter.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 10.488,
+     "start": 6499,
+     "end": 6814
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6818,
+   "end": 7239,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Day two is a long walk. The painted shelters lie deep inside the plateau, reachable only on foot or by animal, with guides. That is one reason so much of the art survives.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.96,
+     "start": 6828,
+     "end": 7217
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7221,
+   "end": 7647,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The site is called Jabbaren. It is a Tuareg word that means giants. The rock here has eroded into domes and alleys, like streets in a stone town, with ceilings and walls to paint on.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 13.104,
+     "start": 7231,
+     "end": 7625
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7629,
+   "end": 8034,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And on the ceiling of one shelter is the giant. Accounts differ on its exact size. Most put it at five to six meters tall, and it is among the largest paintings in the Sahara.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.432,
+     "start": 7639,
+     "end": 8012
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8016,
+   "end": 8346,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look closely. The head is a smooth round shape. There is no face, no eyes and no mouth. That absence is exactly what makes it look like a helmet.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 9.912,
+     "start": 8026,
+     "end": 8324
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8328,
+   "end": 8679,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next, the body. A broad, simple shape. Arms held out. Beside the head, a few small marks. The figure is huge, and the people painted near it are tiny.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.608,
+     "start": 8338,
+     "end": 8657
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8661,
+   "end": 9050,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the surface. The paint is thousands of years old and has flaked, faded and cracked. Parts of the figure are simply gone. So any detail you think you see is partly guesswork.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 11.88,
+     "start": 8671,
+     "end": 9028
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9032,
+   "end": 9353,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Von D\u00e4niken saw a visor in the head, a suit in the body, and antennae on the sides. Those are the claims we will test, one at a time.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 9.624,
+     "start": 9042,
+     "end": 9331
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9335,
+   "end": 9737,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some figures nearby seem to float or swim across the rock, drifting in profile. To a modern eye, that looks like weightlessness. Researchers have suggested something very different.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 12.312,
+     "start": 9345,
+     "end": 9715
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9719,
+   "end": 10131,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Rock art researchers David Coulson and Alec Campbell note that floating figures could point to trance and out-of-body travel, which is part of shamanism. A spirit world, not a spaceship.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 12.648,
+     "start": 9729,
+     "end": 10109
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10113,
+   "end": 10536,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Another scene shows women with raised hands approaching a huge figure towering over them. One scholar described a sense of fearless worship. That reads as devotion, not as a landing.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 13.032,
+     "start": 10123,
+     "end": 10514
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10518,
+   "end": 10942,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The painters used natural pigments, mainly red ochre, on a sandstone wall. There is no metal, no glass, no technology anywhere in the paint. Everything in this picture is made from earth.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 13.056,
+     "start": 10528,
+     "end": 10920
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III",
+    "Day Three: The Neighbours",
+    "THE FAMILY"
+   ],
+   "img": "ep/img/shot_30.jpg",
+   "start": 10924,
+   "end": 11169,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the question for day three. Is the Great God an oddball, or one of a family? The answer shapes everything.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 7.08,
+     "start": 10934,
+     "end": 11147
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11151,
+   "end": 11594,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is a family. On the plateau, researchers have recorded many figures with the same round, featureless heads, often painted in the same red ochre. The style has a name: Round Head.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.68,
+     "start": 11161,
+     "end": 11572
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11576,
+   "end": 11963,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Round Head art shows people dancing, carrying sticks and bows, wearing arm bands. It shows ceremonies. These are not lone visitors. They are crowds in the middle of a ritual.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 11.808,
+     "start": 11586,
+     "end": 11941
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11945,
+   "end": 12310,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And some wear masks. In some paintings, figures wear the heads of animals, including Barbary sheep. A round head with nothing on it could be a mask pulled over the face.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 11.088,
+     "start": 11955,
+     "end": 12288
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12292,
+   "end": 12733,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Archaeologist Jitka Soukopova has compared this tradition with masks, body painting and initiation rites across Sub-Saharan Africa. She sees ceremony and spirits, not astronauts.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 13.608,
+     "start": 12302,
+     "end": 12711
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12715,
+   "end": 13123,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Who painted them? Hunter-gatherers living here when the Sahara was still green. Remains found in the region suggest they had dark skin and a sophisticated culture, including pottery.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 12.504,
+     "start": 12725,
+     "end": 13101
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13105,
+   "end": 13587,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How old is the art? Dating is hard. Researchers use style, superimposition and associated finds. One study of sediments at the foot of the paintings suggests some Round Head art is at least nine thousand years old.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 14.976,
+     "start": 13115,
+     "end": 13565
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13569,
+   "end": 14022,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The usual range is about nine and a half thousand to seven thousand years ago. Experts argue about the edges, but nobody argues about the neighbourhood. This art is far older than any spacecraft story.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 14.016,
+     "start": 13579,
+     "end": 14000
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14004,
+   "end": 14456,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is also a rule of scale. In Round Head art, important figures are painted huge and others tiny. Size shows rank. The giant is not a different species. It is a more important figure.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 13.968,
+     "start": 14014,
+     "end": 14434
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14438,
+   "end": 14870,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Soukopova counts at least seven of these central, towering figures in Tassili, and calls them Great Gods. Placed on the walls of chosen shelters, they look like the heart of a sacred place.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.32,
+     "start": 14448,
+     "end": 14848
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14852,
+   "end": 15305,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The mainstream reading is therefore simple. Ordinary people in ritual dress, or spirit beings, painted by early Holocene hunters. The aliens are not in the paint. They arrive later, with the copies.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 14.016,
+     "start": 14862,
+     "end": 15283
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV",
+    "Day Four: The Copyists",
+    "THE COPIES"
+   ],
+   "img": "ep/img/shot_41.jpg",
+   "start": 15287,
+   "end": 15690,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So how did the wall become a book? Lhote's team did not just photograph the shelters. They employed painters to copy the paintings, and the copies were later shown as huge reproductions.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.36,
+     "start": 15297,
+     "end": 15668
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15672,
+   "end": 16063,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And to see the faint paint more clearly, the paintings were sponged down. Wet rock brightens colour. It is a quick way to make a better photograph, and a terrible thing to do to a painting.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.952,
+     "start": 15682,
+     "end": 16041
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16045,
+   "end": 16465,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Coulson and Campbell describe the result bluntly. Serious damage, and colours reduced to a travesty of their original splendour. The team's own methods helped destroy what they came to save.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 12.912,
+     "start": 16055,
+     "end": 16443
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16447,
+   "end": 16911,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand three, British anthropologist Jeremy Keenan reviewed Lhote's publications. He concluded that many claims were misleading, that a number of paintings were faked, and that the copying was fraught with errors.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 14.4,
+     "start": 16457,
+     "end": 16889
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 16893,
+   "end": 17277,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even without fakery, copying changes things. A faded patch becomes a line. A scratch becomes a feature. The copy is cleaner, bolder and more strange than the wall.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 11.712,
+     "start": 16903,
+     "end": 17255
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17259,
+   "end": 17748,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And those big, clean copies were shown in Paris in nineteen fifty-seven and fifty-eight. The writer Andr\u00e9 Malraux called it one of the defining exhibitions of the mid-century. African rock art was now fine art.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 15.216,
+     "start": 17269,
+     "end": 17726
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17730,
+   "end": 18207,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lhote's book followed. In it, he gave nicknames to some figures. Was the Great Martian God a serious proposal? Coulson says he called such figures martians jokingly. Other accounts say he floated the idea in print.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 14.808,
+     "start": 17740,
+     "end": 18185
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18189,
+   "end": 18586,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Either way, a nickname offered as a joke, or as a hunch, became a caption. And a caption can outrun the person who wrote it. Which brings us to the book that carried it to millions.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 12.144,
+     "start": 18199,
+     "end": 18564
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18568,
+   "end": 19042,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Erich von D\u00e4niken's first book was rejected twenty-two times before it was published. Then it became a worldwide bestseller. Its argument: ancient peoples could not have imagined gods without help from space.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 14.712,
+     "start": 18578,
+     "end": 19020
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 19024,
+   "end": 19481,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That argument has a problem. It assumes ancient painters could not paint spirits. But cultures around the world paint spirits. Round heads, horned heads, animal heads. These are the gods of people who dreamt.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 14.136,
+     "start": 19034,
+     "end": 19459
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "V",
+    "Day Five: The Suspects",
+    "THE THEORIES"
+   ],
+   "img": "ep/img/shot_51.jpg",
+   "start": 19463,
+   "end": 19925,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So we can sort the claims. Theory one: the figure shows a visitor in a space suit. Theory two: it shows a person in a ritual mask or a spirit being. Theory three: the copies made it look stranger than the wall.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 14.328,
+     "start": 19473,
+     "end": 19903
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19907,
+   "end": 20233,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First the alien theory. A visitor in a suit, with a helmet and a visor, painted by awestruck hunters. It is a good story. It needs evidence.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 9.792,
+     "start": 19917,
+     "end": 20211
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 20215,
+   "end": 20726,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "To test it, ask what visitors would leave. Tools. Wreckage. Metal. Anything made of materials that do not belong. Excavations at Tassili have found pottery, stone tools and bones. No alien object. Nothing.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 15.936,
+     "start": 20225,
+     "end": 20704
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 20708,
+   "end": 21154,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the helmet idea fails inside the art. The round head appears on figures of every size, with horns, with bows, with sticks. If every dancer wore a spacesuit, there would be a lot of astronauts.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 13.776,
+     "start": 20718,
+     "end": 21132
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 21136,
+   "end": 21535,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Second, the ritual theory. A round head is a mask, or a hood, or an idealised spirit. This fits the dancing, the animal masks, the body paint, and the ceremonial setting.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 12.216,
+     "start": 21146,
+     "end": 21513
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21517,
+   "end": 21896,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But it has a gap, and honesty requires us to say so. Nobody can prove what a prehistoric painting meant. The mask idea is a well-supported reading, not a certainty.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 11.544,
+     "start": 21527,
+     "end": 21874
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21878,
+   "end": 22340,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Third, the copy theory. The strangest features, the neat visor, the floating look, grew as the paint faded and was copied. This is plausible, and Keenan's critique supports it. But we need the originals to know more.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 14.328,
+     "start": 21888,
+     "end": 22318
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 22322,
+   "end": 22730,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now stack the three. The wall shows ritual and masks. The copies exaggerate. The book then added a spacesuit that was never painted. Each layer moves a little further from the rock.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 12.528,
+     "start": 22332,
+     "end": 22708
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 22712,
+   "end": 23192,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What could change the verdict? A dated metal object. A painting showing something we cannot explain with masks, spirits or animals. A document from the painters themselves. After sixty years of looking, none has appeared.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 14.928,
+     "start": 22722,
+     "end": 23170
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VI",
+    "Day Six: The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 23174,
+   "end": 23363,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score the case. Day six. Evidence on one side, theory on the other.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 5.208,
+     "start": 23184,
+     "end": 23341
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 23345,
+   "end": 23803,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Round Head hunters painting it about nine and a half to seven thousand years ago: evidence. Masks, dances and ceremonies in the same style: evidence. The helmet as a plain round head outline: likely.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 14.184,
+     "start": 23355,
+     "end": 23781
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23785,
+   "end": 24170,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The joke or the hypothesis: disputed. Copies that altered the record: partial. Spacesuit, visor, antennae: no evidence. Visitors from space: no evidence.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 11.736,
+     "start": 23795,
+     "end": 24148
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 24152,
+   "end": 24618,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Not aliens. The Great Martian God is most likely a painting of a masked or spirit figure by early Saharan hunters, made about eight thousand years ago, and made stranger by its own copies.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 14.448,
+     "start": 24162,
+     "end": 24596
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 24600,
+   "end": 25034,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That does not make it less remarkable. It is one of the largest paintings in Africa, from a time before farming reached the Sahara, and it still holds a real mystery: what exactly did it mean?",
+     "file": "ep/audio/s64.mp3",
+     "dur": 13.368,
+     "start": 24610,
+     "end": 25012
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 25016,
+   "end": 25315,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What lingers is the silence of that shelter, and the sense that people stood there eight thousand years ago and looked up in awe, just as we do.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 8.88,
+     "start": 25026,
+     "end": 25293
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 25297,
+   "end": 25548,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: black triangles gliding silently over Belgium, seen by thousands, and chased by fighter jets.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 7.272,
+     "start": 25307,
+     "end": 25526
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 25530,
+   "end": 25777,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think the painters meant? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 7.152,
+     "start": 25540,
+     "end": 25755
+    }
+   ]
+  }
+ ]
+}
