@@ -1,0 +1,1433 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photograph of the ruined dry-stone rampart of an Iron Age hillfort on a windswept Scottish highland summit, grey rock mixed with patches of black glassy fused stone and bubbled slag-like crust, heather and low cloud, moody dawn light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This wall is made of stone. But look closely. Parts of it are glass. Black, bubbled, dripping glass, fused onto solid rock, on a Scottish hilltop, two and a half thousand years ago."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This wall is made of stone. But look closely. Parts of it are glass. Black, bubbled, dripping glass, fused onto solid rock, on a Scottish hilltop, two and a half thousand years ago.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Macro photograph of a lump of ancient vitrified rock, pale grey stones set in a dark glassy black crust with small bubbles and frozen drips, lit from the side, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "To melt rock like this, you need around a thousand degrees. For hours. That is far hotter than any campfire, and no ancient writer left instructions."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To melt rock like this, you need around a thousand degrees. For hours. That is far hotter than any campfire, and no ancient writer left instructions.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 10.344
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a blinding beam of light from the night sky striking a Scottish hilltop fort, stone glowing white hot, epic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the internet has answers. Lasers from the sky. Plasma weapons. An ancient atomic blast. Some say only a lost super-civilisation, or visitors, could melt solid stone like this."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the internet has answers. Lasers from the sky. Plasma weapons. An ancient atomic blast. Some say only a lost super-civilisation, or visitors, could melt solid stone like this.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An old industrial furnace temperature dial with a blank face and a thin needle rising, dark workshop, warm glow, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we do something different. We follow the heat. A gauge that starts at cold hilltop air and climbs, one chapter at a time, until the stone itself gives way."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we do something different. We follow the heat. A gauge that starts at cold hilltop air and climbs, one chapter at a time, until the stone itself gives way.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 11.52
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Close view of a roaring bonfire inside a stack of timber and stones at night, sparks rising, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eight questions. A scorecard. And a verdict on Scotland's vitrified forts. Let's light the fire."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eight questions. A scorecard. And a verdict on Scotland's vitrified forts. Let's light the fire.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 6.888
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide cinematic photograph of a bare Scottish mountain summit with a ring of ruined stone wall, rolling highlands below, cold clear air, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question one. Where are these places? Cold air, twenty degrees at most. Tap o' Noth in Aberdeenshire rises about five hundred and sixty metres, the second highest hillfort in Scotland."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 THE HILL",
+   "Where Are They?",
+   "20\u00b0C \u00b7 TAP O' NOTH \u00b7 HILLTOPS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question one. Where are these places? Cold air, twenty degrees at most. Tap o' Noth in Aberdeenshire rises about five hundred and sixty metres, the second highest hillfort in Scotland.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Aerial photograph of green and brown Scottish highlands with lochs and glens, a few hilltops with faint oval ruins, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "More than sixty vitrified forts are known in Scotland, from Argyll to Aberdeenshire, from Galloway to Sutherland. A geologist, John Williams, first described them in seventeen seventy-seven."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "More than sixty vitrified forts are known in Scotland, from Argyll to Aberdeenshire, from Galloway to Sutherland. A geologist, John Williams, first described them in seventeen seventy-seven.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Collage-like wide photograph of three ruined hilltop stone walls in different landscapes, a misty Irish hill, a French green valley, a Swedish forest ridge, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They are not only Scottish. Burned, fused walls turn up in Ireland, France, Germany, Bohemia, Hungary and Sweden. Whatever this was, it was a habit across Europe."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They are not only Scottish. Burned, fused walls turn up in Ireland, France, Germany, Bohemia, Hungary and Sweden. Whatever this was, it was a habit across Europe.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up photograph of a lump of ancient vitrified rock, pale grey stones set in a dark glassy black crust with small bubbles and frozen drips in a grassy hillside, a hand for scale, daylight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Up close, it does not look like window glass. It looks like pale rocks set in a dark, slag-like crust, with bubbles, or frozen drips. Easy to walk straight past."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Up close, it does not look like window glass. It looks like pale rocks set in a dark, slag-like crust, with bubbles, or frozen drips. Easy to walk straight past.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Archaeologists working on a steep grassy slope above a mountain glen with a huge dark mountain opposite, scaffolding and tape, overcast, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At Dun Deardail, high above Glen Nevis, excavation dated the fort to around five hundred B C. And then something ended it, in what the archaeologists call a catastrophic fire."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At Dun Deardail, high above Glen Nevis, excavation dated the fort to around five hundred B C. And then something ended it, in what the archaeologists call a catastrophic fire.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 12.768
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Lone silhouette of a hillfort rampart at dusk, a thin line of orange light low on the horizon, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the places are real, and the melted rock is real. But where did the fuel come from? Next mark on the gauge: the wall itself."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the places are real, and the melted rock is real. But where did the fuel come from? Next mark on the gauge: the wall itself.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 8.472
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cross-section of a half-built Iron Age rampart showing horizontal oak beams laid between layers of rubble stone, daylight, museum-style reconstruction photograph, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question two. What was the wall made of? Three hundred degrees, hotter than any kitchen oven, and so far it is just stone and wood. Timber-laced stone."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 THE WALL",
+   "What Was Inside?",
+   "300\u00b0C \u00b7 TIMBER \u00b7 RUBBLE \u00b7 NO MORTAR"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question two. What was the wall made of? Three hundred degrees, hotter than any kitchen oven, and so far it is just stone and wood. Timber-laced stone.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Iron Age builders stacking dry stone around a frame of long wooden logs on a hilltop, no mortar, rough wool clothing, golden light, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "These ramparts were timber-laced. Beams laid in and across the wall, packed with rubble. And in every one of these forts, no lime, no cement, no mortar has ever been found."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "These ramparts were timber-laced. Beams laid in and across the wall, packed with rubble. And in every one of these forts, no lime, no cement, no mortar has ever been found.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 11.4
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close photograph of a thick old rampart on an oval hilltop summit seen from above, tree stumps and heather, a tiny person for scale, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At Craig Phadrig, near Inverness, the inner wall is a heavy vitrified mass spread about thirty feet thick, around an oval summit roughly two hundred and forty by seventy-five feet."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At Craig Phadrig, near Inverness, the inner wall is a heavy vitrified mass spread about thirty feet thick, around an oval summit roughly two hundred and forty by seventy-five feet.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Macro photograph of vitrified rock with hollow tunnel-shaped cavities and undercut glassy overhangs, dramatic side lighting, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the first clue. The vitrified masses are always heavily undercut, with hollows where something burned away. That is the shape fire leaves from the inside, along the beams."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the first clue. The vitrified masses are always heavily undercut, with hollows where something burned away. That is the shape fire leaves from the inside, along the beams.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A thick log cut open showing tree rings beside a small charred fragment on a lab table, soft light, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Timber is useful to archaeologists. Charcoal from those beams can be radiocarbon dated, and most dates fall in the first millennium B C, roughly seven hundred to three hundred B C."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Timber is useful to archaeologists. Charcoal from those beams can be radiocarbon dated, and most dates fall in the first millennium B C, roughly seven hundred to three hundred B C.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide photograph of an Iron Age hillfort rampart in different eras, a faint ghost-like layering of centuries, misty highland, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And timber lacing was no brief fashion. It was used for well over a thousand years, from the early first millennium B C into the ninth century A D."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And timber lacing was no brief fashion. It was used for well over a thousand years, from the early first millennium B C into the ninth century A D.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Stack of oak beams and stones glowing at the seams as a wall begins to smoulder at dusk, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the wall carried its own fuel. A hill, a stone rampart, and tonnes of wood hidden inside it. Next question: who first noticed the glass?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the wall carried its own fuel. A hill, a stone rampart, and tonnes of wood hidden inside it. Next question: who first noticed the glass?",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An eighteenth century gentleman geologist in a tricorn hat kneeling on a hillside examining a fused black rock with a hammer, oil painting style photograph, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question three. Who noticed first? In seventeen seventy-seven, the geologist John Williams described the fused ruins. A debate began that has not stopped for two hundred and fifty years."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III \u00b7 FIRST WITNESSES",
+   "Who Noticed?",
+   "600\u00b0C \u00b7 1777 \u00b7 THE DEBATE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question three. Who noticed first? In seventeen seventy-seven, the geologist John Williams described the fused ruins. A debate began that has not stopped for two hundred and fifty years.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 13.08
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Victorian antiquarians in frock coats and top hats examining a fused stone wall on a hillside with notebooks, sepia film look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By the nineteenth century, antiquarians argued the builders had fused the stone on purpose, to bind the wall into one solid mass, a kind of natural cement."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By the nineteenth century, antiquarians argued the builders had fused the stone on purpose, to bind the wall into one solid mass, a kind of natural cement.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An old leather bound encyclopaedia open on a desk beside a lump of fused rock, warm lamp light, photoreal, the pages are blurred and unreadable, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The old encyclopaedia was careful. The stones might be only partly melted, or cemented at the edges, or coated in glassy enamel, and rarely one solid glassy mass."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The old encyclopaedia was careful. The stones might be only partly melted, or cemented at the edges, or coated in glassy enamel, and rarely one solid glassy mass.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.168
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A stern Edwardian army officer in uniform lighting a small test fire on a stack of stones in a field, 1906, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen oh six, a lieutenant-colonel tested open fires on selected stones, and published the results. Fire could fuse some rock. But how and why stayed open."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen oh six, a lieutenant-colonel tested open fires on selected stones, and published the results. Fire could fuse some rock. But how and why stayed open.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 11.616
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Several different rock samples on a table in a geology museum, red sandstone, dark diorite, silvery schist, grey conglomerate, each with a fused black edge, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Different forts, different rocks. Red sandstone, conglomerate, diorite, schist. Builders used what the hill gave them, and many of those rocks were fused."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Different forts, different rocks. Red sandstone, conglomerate, diorite, schist. Builders used what the hill gave them, and many of those rocks were fused.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.656
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A stack of brushwood and logs piled against a stone wall in a field at dusk, ready to be lit, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By the nineteen thirties, someone finally decided to stop arguing and light a bonfire."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By the nineteen thirties, someone finally decided to stop arguing and light a bonfire.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 5.952
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Black and white archive style photograph of a 1930s archaeologist in a tweed coat and flat cap standing on a hillfort excavation trench, film grain, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question four. Can ordinary fire do it? Eight hundred degrees. In the nineteen thirties, the archaeologist Vere Gordon Childe excavated the fort at Finavon in Angus. Then he tried to recreate it."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV \u00b7 CHILDE'S BONFIRE",
+   "Can Fire Do It?",
+   "800\u00b0C \u00b7 1930s \u00b7 FINAVON"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question four. Can ordinary fire do it? Eight hundred degrees. In the nineteen thirties, the archaeologist Vere Gordon Childe excavated the fort at Finavon in Angus. Then he tried to recreate it.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 14.304
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A freshly built experimental timber-laced stone wall, six feet high and six feet wide, in a field, with horizontal logs between layers of dark rubble, 1930s film look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "With Wallace Thorneycroft, he built a test wall about six feet wide and six feet high, laced with horizontal timbers and packed with rubble."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "With Wallace Thorneycroft, he built a test wall about six feet wide and six feet high, laced with horizontal timbers and packed with rubble.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "The experimental wall engulfed in flames and thick smoke, brushwood fires banked against its face, dusk, 1930s film look, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They lit brushwood fires against the face. The timbers caught. The wall burned hard, and after about three hours it collapsed."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They lit brushwood fires against the face. The timbers caught. The wall burned hard, and after about three hours it collapsed.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 8.256
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeologists in 1930s clothes digging into a pile of glowing hot rubble with iron tools, steam and smoke, black and white film look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Digging into it, they found the core of the rubble had been red hot, somewhere around eight hundred to twelve hundred degrees. At the bottom lay vitrified rock."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Digging into it, they found the core of the rubble had been red hot, somewhere around eight hundred to twelve hundred degrees. At the bottom lay vitrified rock.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A large dark glassy fused mass of stone with the clear cast of a burned log pressed into it, on a table, dramatic side lighting, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Droplets of melted rock. Casts of the burned timbers. The largest piece weighed about one hundred and eighty kilograms. A timber-laced wall, plus ordinary fire, had made vitrified stone."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Droplets of melted rock. Casts of the burned timbers. The largest piece weighed about one hundred and eighty kilograms. A timber-laced wall, plus ordinary fire, had made vitrified stone.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close macro photograph of glowing charcoal embers with air flowing through them, orange and white, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The experiment taught a subtle lesson. Wood alone is not enough. The timber first has to turn to charcoal, which soaks up heat. Only then does glowing charcoal, with air moving through it, melt rock."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The experiment taught a subtle lesson. Wood alone is not enough. The timber first has to turn to charcoal, which soaks up heat. Only then does glowing charcoal, with air moving through it, melt rock.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A burned out wall in the rain at dawn, smouldering rubble and pale smoke on a quiet field, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So fire can do it. But a test wall is small, and real forts are huge. Next on the gauge: the television fire."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So fire can do it. But a test wall is small, and real forts are huge. Next on the gauge: the television fire.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.16
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1980s television film crew with a bulky camera and boom microphone filming a tall timber and stone wall on a muddy hillside, vintage film look, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question five. Can fire do it at full scale? One thousand degrees. In nineteen eighty, Yorkshire Television set out to find out, for Arthur C. Clarke's Mysterious World."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "V \u00b7 THE TELEVISION FIRE",
+   "Full Scale",
+   "1,000\u00b0C \u00b7 1980 \u00b7 TULLOS HILL"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question five. Can fire do it at full scale? One thousand degrees. In nineteen eighty, Yorkshire Television set out to find out, for Arthur C. Clarke's Mysterious World.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A large timber-laced pine and stone wall under construction on the edge of a landfill site in Aberdeen, bulldozers and cranes beyond, grey spring light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Archaeologist Ian Ralston supervised a full-scale pine-laced wall, built in March and April, at the edge of a waste disposal tip on Tullos Hill in Aberdeen."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Archaeologist Ian Ralston supervised a full-scale pine-laced wall, built in March and April, at the edge of a waste disposal tip on Tullos Hill in Aberdeen.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 12.0
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "The big wall burning fiercely at night, flames pouring from its face, firefighters standing back, fire trucks in the distance, dramatic, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They lit it in less than ideal conditions. Twenty-eight hours later, the wall was still alight. It had to be pulled down, to be searched."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They lit it in less than ideal conditions. Twenty-eight hours later, the wall was still alight. It had to be pulled down, to be searched.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 8.616
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Small pile of dark fused rock fragments in a wooden crate beside a weighing scale, a researcher's gloved hand, plain background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The result was limited, local vitrification. About three kilograms of glassy rock. Not a rampart. Not even close."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The result was limited, local vitrification. About three kilograms of glassy rock. Not a rampart. Not even close.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1980 television documentary presenter in a corduroy jacket standing before a huge bonfire on a Scottish hilltop, windy, vintage film look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On screen, Ralston also piled stones on Tap o' Noth and lit a massive bonfire. A few partly vitrified stones. For large-scale forts, the experiment gave no answer."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On screen, Ralston also piled stones on Tap o' Noth and lit a massive bonfire. A few partly vitrified stones. For large-scale forts, the experiment gave no answer.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a night sky with a distant glowing craft above a hillfort ring, ominous clouds, epic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "To fans of the mystery, that was the opening. If a professional test could not do it, then maybe something stranger did. This is where the lasers and the atomic blast come in."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To fans of the mystery, that was the opening. If a professional test could not do it, then maybe something stranger did. This is where the lasers and the atomic blast come in.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A single flame burning on a bare hilltop in strong wind, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But a failed test does not prove impossible. Fuel, wind, and wall design all matter. So how hot, and for how long, did the real fires burn?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But a failed test does not prove impossible. Fuel, wind, and wall design all matter. So how hot, and for how long, did the real fires burn?",
+    "file": "ep/audio/s38.mp3",
+    "dur": 10.248
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A laboratory scientist in a white coat examining a sliver of glassy rock under a microscope, bright clean lab, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question six. How hot, exactly? Eleven hundred degrees. Analysis of the glass in vitrified forts suggests temperatures averaging between nine hundred and eleven hundred and fifty degrees Celsius."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI \u00b7 HOW HOT?",
+   "The Real Number",
+   "1,100\u00b0C \u00b7 HOURS \u00b7 MELT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question six. How hot, exactly? Eleven hundred degrees. Analysis of the glass in vitrified forts suggests temperatures averaging between nine hundred and eleven hundred and fifty degrees Celsius.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 14.28
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A rock sample glowing orange inside an electric laboratory furnace with its door open, researchers behind safety glass, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Researchers heated rock from Wincobank, a vitrified hillfort in Sheffield. The match was between one thousand and fifty and twelve hundred and fifty degrees, for more than ten hours."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Researchers heated rock from Wincobank, a vitrified hillfort in Sheffield. The match was between one thousand and fifty and twelve hundred and fifty degrees, for more than ten hours.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Aerial photograph of a complete circular hillfort rampart with a glassy black fused band all the way around, dusk, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ten hours. And the glass often runs right around the circuit. The researchers thought that makes an accident, or a brief battle fire, unlikely for many forts."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ten hours. And the glass often runs right around the circuit. The researchers thought that makes an accident, or a brief battle fire, unlikely for many forts.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Iron Age blacksmith pulling a glowing white-hot iron bar from a clay furnace, sparks, strong firelight on his face, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But ten hours at eleven hundred degrees is not alien technology. An Iron Age smith's furnace reached around thirteen hundred. People had been melting metal for thousands of years."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But ten hours at eleven hundred degrees is not alien technology. An Iron Age smith's furnace reached around thirteen hundred. People had been melting metal for thousands of years.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 12.768
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Volcanic lava flowing from a vent on a mountainside at night, glowing orange rivers of molten rock, wide cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The heat is volcano heat, which is why we call it vitrified. Forestry and Land Scotland describe it simply: past a thousand degrees, the rubble melts, the rocks fracture, then flow."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The heat is volcano heat, which is why we call it vitrified. Forestry and Land Scotland describe it simply: past a thousand degrees, the rubble melts, the rocks fracture, then flow.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A wide dark hillside with a long ring of embers glowing in a line along an old wall, night, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the heat was within Iron Age reach. What is left is the motive. Who sets fire to a wall? And why do it for ten hours?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the heat was within Iron Age reach. What is left is the motive. Who sets fire to a wall? And why do it for ten hours?",
+    "file": "ep/audio/s44.mp3",
+    "dur": 8.52
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A crowd of armed Iron Age warriors in the dusk throwing torches onto a timber-laced hillfort wall, flames climbing, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question seven. Why burn a wall? Theory one: an enemy did it. Conquerors torch the timber, the fort falls, and the stone melts. It is the oldest explanation of all."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VII \u00b7 WHY BURN?",
+   "The Motive",
+   "1,200\u00b0C \u00b7 ENEMY \u00b7 RITUAL \u00b7 BUILDERS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question seven. Why burn a wall? Theory one: an enemy did it. Conquerors torch the timber, the fort falls, and the stone melts. It is the oldest explanation of all.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two men struggling to climb a steep smouldering rubble slope of fused stone, falling back, smoke, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The problem: fires like that need to be tended for hours, and vitrification did not breach the walls, nor make them easier to climb. A battle fire is a poor fit."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The problem: fires like that need to be tended for hours, and vitrification did not breach the walls, nor make them easier to climb. A battle fire is a poor fit.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 11.544
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Iron Age villagers standing in a silent circle on a hilltop at night around their own burning rampart, ceremonial atmosphere, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Theory two: the people burned it themselves, at the end of its life, as a ritual closure. The current expert consensus favours deliberate destruction, by victors or by the occupants."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Theory two: the people burned it themselves, at the end of its life, as a ritual closure. The current expert consensus favours deliberate destruction, by victors or by the occupants.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 12.048
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A close macro photograph of a fused rubble mass with large angular blocks welded together by glassy material, dramatic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Theory three: the builders melted the wall to strengthen it. Heat cracks big blocks. But Wadsworth and Hearne found the fine rubble between them fuses, and gets stronger, welding the wall together."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Theory three: the builders melted the wall to strengthen it. Heat cracks big blocks. But Wadsworth and Hearne found the fine rubble between them fuses, and gets stronger, welding the wall together.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A reconstructed Migration Period hillfort wall in Sweden on a forested ridge, grey stone and charred timber, autumn mist, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At Broborg in Sweden, built between four hundred and five hundred and fifty A D, a twenty twenty-two study concluded the vitrification was done to construct the fort. A skill lost once mortar arrived."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At Broborg in Sweden, built between four hundred and five hundred and fifty A D, a twenty twenty-two study concluded the vitrification was done to construct the fort. A skill lost once mortar arrived.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A timeline of different eras shown as layered rock strata on a cliff face, with a charred black band in several layers, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The dates scatter. Many are Iron Age, others early medieval. Clatchard Craig in Fife burned in the sixth or seventh century A D. There was no single moment, and no single reason."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The dates scatter. Many are Iron Age, others early medieval. Clatchard Craig in Fife burned in the sixth or seventh century A D. There was no single moment, and no single reason.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A great ring of fused stone on a hilltop at sunset, resembling a ceremonial monument, golden light, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One idea is gaining ground. Some of these may not have been forts at all, but monuments, built to be burned, as a show of power."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One idea is gaining ground. Some of these may not have been forts at all, but monuments, built to be burned, as a show of power.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a mushroom cloud rising far behind a Scottish highland ridge, ancient fort ring in the foreground, dark sky, epic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question eight. The extraordinary claim. Lasers, plasma, or an ancient atomic blast. Forts melted from above, in a flash, by a lost super-weapon. Let's test it."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VIII \u00b7 THE ATOM CLAIM",
+   "Lasers or Fire?",
+   "TEST \u00b7 TEMPERATURE \u00b7 PATTERN \u00b7 TRACE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question eight. The extraordinary claim. Lasers, plasma, or an ancient atomic blast. Forts melted from above, in a flash, by a lost super-weapon. Let's test it.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A white hot glowing sun-like fireball with extreme light on the horizon above a barren desert, overexposed, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test one: temperature. A nuclear explosion reaches millions of degrees. The forts needed around eleven hundred, cooking slowly. Wrong kind of heat."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test one: temperature. A nuclear explosion reaches millions of degrees. The forts needed around eleven hundred, cooking slowly. Wrong kind of heat.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A cut-away fused wall mass with cavities where logs once burned inside the rubble core, evenly lit, museum photograph, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test two: the pattern. A flash would strike the surface. These masses are fused inside the wall, undercut, with casts of the burned beams. The fire came from within the timber."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test two: the pattern. A flash would strike the surface. These masses are fused inside the wall, undercut, with casts of the burned beams. The fire came from within the timber.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A Geiger counter held over a green glassy rock sample in a desert, scientist in protective gear, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test three: the trail. The nineteen forty-five Trinity test left green glass and clear chemical signatures. Nobody has reported finding anything like that at a vitrified fort."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test three: the trail. The nineteen forty-five Trinity test left green glass and clear chemical signatures. Nobody has reported finding anything like that at a vitrified fort.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of a long grey wall where only some sections are glassy black and others remain plain stone, uneven pattern, daylight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test four: the patchwork. Vitrification is uneven, section by section, fort by fort. Weapons do not melt one stretch and ignore the next. A fire fed by beams does exactly that."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test four: the patchwork. Vitrification is uneven, section by section, fort by fort. Weapons do not melt one stretch and ignore the next. A fire fed by beams does exactly that.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A Byzantine ship at sea spraying a stream of liquid fire on a wooden vessel at night, dramatic painting style, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Another suggestion is Greek fire. But it was most likely petroleum, hard to carry that far, and not hot or long-lasting enough. Local wood was easier."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Another suggestion is Greek fire. But it was most likely petroleum, hard to carry that far, and not hot or long-lasting enough. Local wood was easier.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 10.848
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A modern archaeologist and a student side by side feeding timber into an experimental burn at a field site, evening, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And no weapon is needed. Childe's bonfire made vitrified rock. A lab furnace reproduced the melting. Timber, charcoal, air and time. The technology is ordinary."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And no weapon is needed. Childe's bonfire made vitrified rock. A lab furnace reproduced the melting. Timber, charcoal, air and time. The technology is ordinary.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Lone hilltop rampart at night, a single faint star above, quiet, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What remains unknown is not the tool. It is the reason. That is not an alien mystery. It is a human one."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What remains unknown is not the tool. It is the reason. That is not an alien mystery. It is a human one.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 7.536
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene, a Scottish hilltop rampart with glowing orange embers inside black fused stone on the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Time to score the vitrified forts."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VERDICT",
+   "The Scorecard",
+   "FIRE VS SUPERWEAPON"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Time to score the vitrified forts.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.928
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene, a Scottish hilltop rampart with glowing orange embers inside black fused stone on the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Fused rock in real Scottish walls: evidence. Timber-laced ramparts with burned beam hollows: evidence. Eleven hundred degrees, for hours: evidence. Reproduced by fire, partly, at small scale: partial."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fused rock in real Scottish walls: evidence. Timber-laced ramparts with burned beam hollows: evidence. Eleven hundred degrees, for hours: evidence. Reproduced by fire, partly, at small scale: partial.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 15.12
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night scene, a Scottish hilltop rampart with glowing orange embers inside black fused stone on the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why they were burned: debated, a ritual, a victory, or a method. Ancient atomic blast or lasers: no evidence. Greek fire or visitors: unlikely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why they were burned: debated, a ritual, a victory, or a method. Ancient atomic blast or lasers: no evidence. Greek fire or visitors: unlikely.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cinematic photograph of the ruined dry-stone rampart of an Iron Age hillfort on a windswept Scottish highland summit, grey rock mixed with patches of black glassy fused stone and bubbled slag-like crust, heather and low cloud, calm evening light, a faint ember glow deep in the stone, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Case closed, and the walls still burn in the imagination. Ancient lasers? No. An ancient timber fire hot enough to melt rock, set for reasons we still argue about? Yes."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Case closed, and the walls still burn in the imagination. Ancient lasers? No. An ancient timber fire hot enough to melt rock, set for reasons we still argue about? Yes.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Iron Age figures silhouetted against a huge burning hillfort at night, flames lighting the clouds, awe, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Somewhere, twenty-five centuries ago, a whole hilltop burned through the night. They knew exactly what they were doing. We just do not know why."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Somewhere, twenty-five centuries ago, a whole hilltop burned through the night. They knew exactly what they were doing. We just do not know why.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 9.192
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Ancient city street at night with mud brick houses and a sky glowing with an orange light, mysterious, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a Pakistani city, said to be destroyed by an ancient nuclear blast. Skeletons in the street, glassy rocks, and a story that began in a nineteen seventies book."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a Pakistani city, said to be destroyed by an ancient nuclear blast. Skeletons in the street, glassy rocks, and a story that began in a nineteen seventies book.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 12.168
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small ring of glowing embers on a hilltop in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lasers or burning ramparts, which side are you on? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lasers or burning ramparts, which side are you on? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 8.904
+   }
+  ]
+ }
+]

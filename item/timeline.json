@@ -1,0 +1,1364 @@
+{
+ "fps": 30,
+ "total": 23495,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 397,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This wall is made of stone. But look closely. Parts of it are glass. Black, bubbled, dripping glass, fused onto solid rock, on a Scottish hilltop, two and a half thousand years ago.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 12.144,
+     "start": 10,
+     "end": 375
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 379,
+   "end": 722,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "To melt rock like this, you need around a thousand degrees. For hours. That is far hotter than any campfire, and no ancient writer left instructions.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 10.344,
+     "start": 389,
+     "end": 700
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 704,
+   "end": 1138,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the internet has answers. Lasers from the sky. Plasma weapons. An ancient atomic blast. Some say only a lost super-civilisation, or visitors, could melt solid stone like this.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 13.392,
+     "start": 714,
+     "end": 1116
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1120,
+   "end": 1498,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight we do something different. We follow the heat. A gauge that starts at cold hilltop air and climbs, one chapter at a time, until the stone itself gives way.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 11.52,
+     "start": 1130,
+     "end": 1476
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1480,
+   "end": 1839,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eight questions. A scorecard. And a verdict on Scotland's vitrified forts. Let's light the fire.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 6.888,
+     "start": 1490,
+     "end": 1697
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 THE HILL",
+    "Where Are They?",
+    "20\u00b0C \u00b7 TAP O' NOTH \u00b7 HILLTOPS"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1821,
+   "end": 2252,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question one. Where are these places? Cold air, twenty degrees at most. Tap o' Noth in Aberdeenshire rises about five hundred and sixty metres, the second highest hillfort in Scotland.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 13.296,
+     "start": 1831,
+     "end": 2230
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2234,
+   "end": 2698,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "More than sixty vitrified forts are known in Scotland, from Argyll to Aberdeenshire, from Galloway to Sutherland. A geologist, John Williams, first described them in seventeen seventy-seven.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 14.4,
+     "start": 2244,
+     "end": 2676
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2680,
+   "end": 3060,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They are not only Scottish. Burned, fused walls turn up in Ireland, France, Germany, Bohemia, Hungary and Sweden. Whatever this was, it was a habit across Europe.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 11.568,
+     "start": 2690,
+     "end": 3038
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3042,
+   "end": 3418,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Up close, it does not look like window glass. It looks like pale rocks set in a dark, slag-like crust, with bubbles, or frozen drips. Easy to walk straight past.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 11.448,
+     "start": 3052,
+     "end": 3396
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3400,
+   "end": 3816,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At Dun Deardail, high above Glen Nevis, excavation dated the fort to around five hundred B C. And then something ended it, in what the archaeologists call a catastrophic fire.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 12.768,
+     "start": 3410,
+     "end": 3794
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3798,
+   "end": 4085,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the places are real, and the melted rock is real. But where did the fuel come from? Next mark on the gauge: the wall itself.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 8.472,
+     "start": 3808,
+     "end": 4063
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II \u00b7 THE WALL",
+    "What Was Inside?",
+    "300\u00b0C \u00b7 TIMBER \u00b7 RUBBLE \u00b7 NO MORTAR"
+   ],
+   "img": "ep/img/shot_12.jpg",
+   "start": 4067,
+   "end": 4401,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question two. What was the wall made of? Three hundred degrees, hotter than any kitchen oven, and so far it is just stone and wood. Timber-laced stone.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 10.056,
+     "start": 4077,
+     "end": 4379
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4383,
+   "end": 4757,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "These ramparts were timber-laced. Beams laid in and across the wall, packed with rubble. And in every one of these forts, no lime, no cement, no mortar has ever been found.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 11.4,
+     "start": 4393,
+     "end": 4735
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4739,
+   "end": 5144,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At Craig Phadrig, near Inverness, the inner wall is a heavy vitrified mass spread about thirty feet thick, around an oval summit roughly two hundred and forty by seventy-five feet.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 12.432,
+     "start": 4749,
+     "end": 5122
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5126,
+   "end": 5539,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the first clue. The vitrified masses are always heavily undercut, with hollows where something burned away. That is the shape fire leaves from the inside, along the beams.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 12.672,
+     "start": 5136,
+     "end": 5517
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5521,
+   "end": 5952,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Timber is useful to archaeologists. Charcoal from those beams can be radiocarbon dated, and most dates fall in the first millennium B C, roughly seven hundred to three hundred B C.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 13.296,
+     "start": 5531,
+     "end": 5930
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5934,
+   "end": 6279,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And timber lacing was no brief fashion. It was used for well over a thousand years, from the early first millennium B C into the ninth century A D.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 10.416,
+     "start": 5944,
+     "end": 6257
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6261,
+   "end": 6581,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the wall carried its own fuel. A hill, a stone rampart, and tonnes of wood hidden inside it. Next question: who first noticed the glass?",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.576,
+     "start": 6271,
+     "end": 6559
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 FIRST WITNESSES",
+    "Who Noticed?",
+    "600\u00b0C \u00b7 1777 \u00b7 THE DEBATE"
+   ],
+   "img": "ep/img/shot_19.jpg",
+   "start": 6563,
+   "end": 6988,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question three. Who noticed first? In seventeen seventy-seven, the geologist John Williams described the fused ruins. A debate began that has not stopped for two hundred and fifty years.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 13.08,
+     "start": 6573,
+     "end": 6966
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6970,
+   "end": 7341,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By the nineteenth century, antiquarians argued the builders had fused the stone on purpose, to bind the wall into one solid mass, a kind of natural cement.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 11.28,
+     "start": 6980,
+     "end": 7319
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7323,
+   "end": 7721,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The old encyclopaedia was careful. The stones might be only partly melted, or cemented at the edges, or coated in glassy enamel, and rarely one solid glassy mass.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.168,
+     "start": 7333,
+     "end": 7699
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7703,
+   "end": 8084,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen oh six, a lieutenant-colonel tested open fires on selected stones, and published the results. Fire could fuse some rock. But how and why stayed open.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 11.616,
+     "start": 7713,
+     "end": 8062
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8066,
+   "end": 8418,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Different forts, different rocks. Red sandstone, conglomerate, diorite, schist. Builders used what the hill gave them, and many of those rocks were fused.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.656,
+     "start": 8076,
+     "end": 8396
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8400,
+   "end": 8611,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By the nineteen thirties, someone finally decided to stop arguing and light a bonfire.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 5.952,
+     "start": 8410,
+     "end": 8589
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 CHILDE'S BONFIRE",
+    "Can Fire Do It?",
+    "800\u00b0C \u00b7 1930s \u00b7 FINAVON"
+   ],
+   "img": "ep/img/shot_25.jpg",
+   "start": 8593,
+   "end": 9055,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question four. Can ordinary fire do it? Eight hundred degrees. In the nineteen thirties, the archaeologist Vere Gordon Childe excavated the fort at Finavon in Angus. Then he tried to recreate it.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 14.304,
+     "start": 8603,
+     "end": 9033
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9037,
+   "end": 9347,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "With Wallace Thorneycroft, he built a test wall about six feet wide and six feet high, laced with horizontal timbers and packed with rubble.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 9.264,
+     "start": 9047,
+     "end": 9325
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9329,
+   "end": 9609,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They lit brushwood fires against the face. The timbers caught. The wall burned hard, and after about three hours it collapsed.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 8.256,
+     "start": 9339,
+     "end": 9587
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9591,
+   "end": 9940,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Digging into it, they found the core of the rubble had been red hot, somewhere around eight hundred to twelve hundred degrees. At the bottom lay vitrified rock.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 10.56,
+     "start": 9601,
+     "end": 9918
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9922,
+   "end": 10365,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Droplets of melted rock. Casts of the burned timbers. The largest piece weighed about one hundred and eighty kilograms. A timber-laced wall, plus ordinary fire, had made vitrified stone.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 13.68,
+     "start": 9932,
+     "end": 10343
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10347,
+   "end": 10773,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The experiment taught a subtle lesson. Wood alone is not enough. The timber first has to turn to charcoal, which soaks up heat. Only then does glowing charcoal, with air moving through it, melt rock.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 13.128,
+     "start": 10357,
+     "end": 10751
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10755,
+   "end": 11032,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So fire can do it. But a test wall is small, and real forts are huge. Next on the gauge: the television fire.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 8.16,
+     "start": 10765,
+     "end": 11010
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "V \u00b7 THE TELEVISION FIRE",
+    "Full Scale",
+    "1,000\u00b0C \u00b7 1980 \u00b7 TULLOS HILL"
+   ],
+   "img": "ep/img/shot_32.jpg",
+   "start": 11014,
+   "end": 11402,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question five. Can fire do it at full scale? One thousand degrees. In nineteen eighty, Yorkshire Television set out to find out, for Arthur C. Clarke's Mysterious World.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 11.856,
+     "start": 11024,
+     "end": 11380
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11384,
+   "end": 11776,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Archaeologist Ian Ralston supervised a full-scale pine-laced wall, built in March and April, at the edge of a waste disposal tip on Tullos Hill in Aberdeen.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.0,
+     "start": 11394,
+     "end": 11754
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11758,
+   "end": 12049,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They lit it in less than ideal conditions. Twenty-eight hours later, the wall was still alight. It had to be pulled down, to be searched.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 8.616,
+     "start": 11768,
+     "end": 12027
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12031,
+   "end": 12318,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The result was limited, local vitrification. About three kilograms of glassy rock. Not a rampart. Not even close.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 8.496,
+     "start": 12041,
+     "end": 12296
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12300,
+   "end": 12718,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On screen, Ralston also piled stones on Tap o' Noth and lit a massive bonfire. A few partly vitrified stones. For large-scale forts, the experiment gave no answer.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 12.84,
+     "start": 12310,
+     "end": 12696
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 12700,
+   "end": 13082,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "To fans of the mystery, that was the opening. If a professional test could not do it, then maybe something stranger did. This is where the lasers and the atomic blast come in.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 11.664,
+     "start": 12710,
+     "end": 13060
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 13064,
+   "end": 13404,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But a failed test does not prove impossible. Fuel, wind, and wall design all matter. So how hot, and for how long, did the real fires burn?",
+     "file": "ep/audio/s38.mp3",
+     "dur": 10.248,
+     "start": 13074,
+     "end": 13382
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VI \u00b7 HOW HOT?",
+    "The Real Number",
+    "1,100\u00b0C \u00b7 HOURS \u00b7 MELT"
+   ],
+   "img": "ep/img/shot_39.jpg",
+   "start": 13386,
+   "end": 13847,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question six. How hot, exactly? Eleven hundred degrees. Analysis of the glass in vitrified forts suggests temperatures averaging between nine hundred and eleven hundred and fifty degrees Celsius.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 14.28,
+     "start": 13396,
+     "end": 13825
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 13829,
+   "end": 14247,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Researchers heated rock from Wincobank, a vitrified hillfort in Sheffield. The match was between one thousand and fifty and twelve hundred and fifty degrees, for more than ten hours.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.84,
+     "start": 13839,
+     "end": 14225
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14229,
+   "end": 14589,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ten hours. And the glass often runs right around the circuit. The researchers thought that makes an accident, or a brief battle fire, unlikely for many forts.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 10.92,
+     "start": 14239,
+     "end": 14567
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14571,
+   "end": 14987,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But ten hours at eleven hundred degrees is not alien technology. An Iron Age smith's furnace reached around thirteen hundred. People had been melting metal for thousands of years.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 12.768,
+     "start": 14581,
+     "end": 14965
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 14969,
+   "end": 15390,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The heat is volcano heat, which is why we call it vitrified. Forestry and Land Scotland describe it simply: past a thousand degrees, the rubble melts, the rocks fracture, then flow.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 12.96,
+     "start": 14979,
+     "end": 15368
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 15372,
+   "end": 15660,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the heat was within Iron Age reach. What is left is the motive. Who sets fire to a wall? And why do it for ten hours?",
+     "file": "ep/audio/s44.mp3",
+     "dur": 8.52,
+     "start": 15382,
+     "end": 15638
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "VII \u00b7 WHY BURN?",
+    "The Motive",
+    "1,200\u00b0C \u00b7 ENEMY \u00b7 RITUAL \u00b7 BUILDERS"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 15642,
+   "end": 16022,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question seven. Why burn a wall? Theory one: an enemy did it. Conquerors torch the timber, the fort falls, and the stone melts. It is the oldest explanation of all.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 11.592,
+     "start": 15652,
+     "end": 16000
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 16004,
+   "end": 16383,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The problem: fires like that need to be tended for hours, and vitrification did not breach the walls, nor make them easier to climb. A battle fire is a poor fit.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 11.544,
+     "start": 16014,
+     "end": 16361
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 16365,
+   "end": 16759,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Theory two: the people burned it themselves, at the end of its life, as a ritual closure. The current expert consensus favours deliberate destruction, by victors or by the occupants.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 12.048,
+     "start": 16375,
+     "end": 16737
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16741,
+   "end": 17167,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Theory three: the builders melted the wall to strengthen it. Heat cracks big blocks. But Wadsworth and Hearne found the fine rubble between them fuses, and gets stronger, welding the wall together.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.104,
+     "start": 16751,
+     "end": 17145
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 17149,
+   "end": 17613,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At Broborg in Sweden, built between four hundred and five hundred and fifty A D, a twenty twenty-two study concluded the vitrification was done to construct the fort. A skill lost once mortar arrived.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 14.4,
+     "start": 17159,
+     "end": 17591
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 17595,
+   "end": 18017,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The dates scatter. Many are Iron Age, others early medieval. Clatchard Craig in Fife burned in the sixth or seventh century A D. There was no single moment, and no single reason.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 12.984,
+     "start": 17605,
+     "end": 17995
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 17999,
+   "end": 18292,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One idea is gaining ground. Some of these may not have been forts at all, but monuments, built to be burned, as a show of power.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 8.688,
+     "start": 18009,
+     "end": 18270
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "VIII \u00b7 THE ATOM CLAIM",
+    "Lasers or Fire?",
+    "TEST \u00b7 TEMPERATURE \u00b7 PATTERN \u00b7 TRACE"
+   ],
+   "img": "ep/img/shot_52.jpg",
+   "start": 18274,
+   "end": 18665,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question eight. The extraordinary claim. Lasers, plasma, or an ancient atomic blast. Forts melted from above, in a flash, by a lost super-weapon. Let's test it.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 11.952,
+     "start": 18284,
+     "end": 18643
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 18647,
+   "end": 18986,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Test one: temperature. A nuclear explosion reaches millions of degrees. The forts needed around eleven hundred, cooking slowly. Wrong kind of heat.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 10.224,
+     "start": 18657,
+     "end": 18964
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 18968,
+   "end": 19366,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Test two: the pattern. A flash would strike the surface. These masses are fused inside the wall, undercut, with casts of the burned beams. The fire came from within the timber.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 12.192,
+     "start": 18978,
+     "end": 19344
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 19348,
+   "end": 19768,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Test three: the trail. The nineteen forty-five Trinity test left green glass and clear chemical signatures. Nobody has reported finding anything like that at a vitrified fort.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 12.912,
+     "start": 19358,
+     "end": 19746
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 19750,
+   "end": 20181,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Test four: the patchwork. Vitrification is uneven, section by section, fort by fort. Weapons do not melt one stretch and ignore the next. A fire fed by beams does exactly that.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 13.296,
+     "start": 19760,
+     "end": 20159
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 20163,
+   "end": 20521,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Another suggestion is Greek fire. But it was most likely petroleum, hard to carry that far, and not hot or long-lasting enough. Local wood was easier.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 10.848,
+     "start": 20173,
+     "end": 20499
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 20503,
+   "end": 20917,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And no weapon is needed. Childe's bonfire made vitrified rock. A lab furnace reproduced the melting. Timber, charcoal, air and time. The technology is ordinary.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 12.72,
+     "start": 20513,
+     "end": 20895
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 20899,
+   "end": 21158,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What remains unknown is not the tool. It is the reason. That is not an alien mystery. It is a human one.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 7.536,
+     "start": 20909,
+     "end": 21136
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VERDICT",
+    "The Scorecard",
+    "FIRE VS SUPERWEAPON"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 21140,
+   "end": 21260,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Time to score the vitrified forts.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 2.928,
+     "start": 21150,
+     "end": 21238
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 21242,
+   "end": 21728,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Fused rock in real Scottish walls: evidence. Timber-laced ramparts with burned beam hollows: evidence. Eleven hundred degrees, for hours: evidence. Reproduced by fire, partly, at small scale: partial.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 15.12,
+     "start": 21252,
+     "end": 21706
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 21710,
+   "end": 22073,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why they were burned: debated, a ritual, a victory, or a method. Ancient atomic blast or lasers: no evidence. Greek fire or visitors: unlikely.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 11.016,
+     "start": 21720,
+     "end": 22051
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 22055,
+   "end": 22468,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Case closed, and the walls still burn in the imagination. Ancient lasers? No. An ancient timber fire hot enough to melt rock, set for reasons we still argue about? Yes.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 12.672,
+     "start": 22065,
+     "end": 22446
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 22450,
+   "end": 22758,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Somewhere, twenty-five centuries ago, a whole hilltop burned through the night. They knew exactly what they were doing. We just do not know why.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 9.192,
+     "start": 22460,
+     "end": 22736
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 22740,
+   "end": 23138,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a Pakistani city, said to be destroyed by an ancient nuclear blast. Skeletons in the street, glassy rocks, and a story that began in a nineteen seventies book.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 12.168,
+     "start": 22750,
+     "end": 23116
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 23120,
+   "end": 23420,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lasers or burning ramparts, which side are you on? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 8.904,
+     "start": 23130,
+     "end": 23398
+    }
+   ]
+  }
+ ]
+}
