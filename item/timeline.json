@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 25710,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 459,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Delhi, India. In the courtyard of a ruined mosque, a dark iron column stands seven meters tall. It has been out in the open for sixteen hundred years. Monsoons, heat, and the smog of a megacity.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.208,
+     "start": 10,
+     "end": 437
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 441,
+   "end": 800,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the internet says it never rusted. Not a flake. Some say ancient smiths knew a lost super-metal. Others say the metal did not come from this planet at all.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 10.872,
+     "start": 451,
+     "end": 778
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 782,
+   "end": 1210,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we handle it like an insurance adjuster handles a warranty. Sixteen hundred years, no rust, no maintenance. A claim that big needs paperwork, and every clause gets inspected.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 13.176,
+     "start": 792,
+     "end": 1188
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1192,
+   "end": 1543,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Approved. Denied. Or approved with conditions. No opinions and no mood, only what the laboratory, the inscription, and the iron itself can back up.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 10.608,
+     "start": 1202,
+     "end": 1521
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1525,
+   "end": 1984,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And by the end, you will know exactly why this pillar survived, and why the real answer is a better story than the one with the aliens. File the claim.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 10.224,
+     "start": 1535,
+     "end": 1842
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 INTAKE",
+    "The Claim File",
+    "HEIGHT \u00b7 WEIGHT \u00b7 SITE"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1966,
+   "end": 2359,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Item one. Intake. The pillar is seven point two one meters tall, about forty centimeters wide, and it weighs more than six tonnes. More than a meter of it is underground.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 12.024,
+     "start": 1976,
+     "end": 2337
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2341,
+   "end": 2763,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It stands in the Qutb complex, in Mehrauli, in the south of Delhi. Right beside it, a minaret and the ruins of a mosque built in the eleven hundreds. The pillar is older than all of it.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 12.984,
+     "start": 2351,
+     "end": 2741
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2745,
+   "end": 3136,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the top, a carved bell-shaped capital, about thirty centimeters tall. The shaft below it is smooth, dark, and almost black, with a faint shine like old gun metal.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 11.952,
+     "start": 2755,
+     "end": 3114
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3118,
+   "end": 3483,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Millions of people have come to see it. And the claim they carry with them is always the same. This iron has never rusted. So that is clause one, and it is where we begin.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 11.088,
+     "start": 3128,
+     "end": 3461
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3465,
+   "end": 3619,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause one. Does it really never rust? Let's inspect the surface.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 4.056,
+     "start": 3475,
+     "end": 3597
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II \u00b7 CLAUSE ONE",
+    "Never Rusts",
+    "SURFACE \u00b7 FILM \u00b7 JOINTS"
+   ],
+   "img": "ep/img/shot_11.jpg",
+   "start": 3601,
+   "end": 4004,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause one. The pillar never rusts. First, the surface. Look closely and you do not see bare, shining metal. You see a dark skin of corrosion, thin and smooth, covering all of it.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 12.336,
+     "start": 3611,
+     "end": 3982
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3986,
+   "end": 4377,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is the first correction. The pillar does rust. Every iron object rusts a little. What it does not do is what ordinary iron does, which is keep rusting until it crumbles.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 11.952,
+     "start": 3996,
+     "end": 4355
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4359,
+   "end": 4746,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ordinary iron makes a loose, flaky rust that holds water and lets the damage move deeper. A little rain, a little oxygen, and a few decades later, the post is gone.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 11.832,
+     "start": 4369,
+     "end": 4724
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4728,
+   "end": 5173,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The pillar's skin is different. Under the microscope it is compact, tightly stuck to the metal, and almost waterproof. In sixteen hundred years, that film has grown only about one twentieth of a millimeter.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 13.752,
+     "start": 4738,
+     "end": 5151
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5155,
+   "end": 5593,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That figure comes from the work of Professor R Balasubramaniam of the Indian Institute of Technology, Kanpur, who spent years studying the rust of the pillar. We will keep meeting him.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 13.512,
+     "start": 5165,
+     "end": 5571
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5575,
+   "end": 5941,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is also a tradition. For generations, visitors stood with their backs to the pillar and tried to clasp their hands behind it. If your fingers met, you would have good luck.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 11.112,
+     "start": 5585,
+     "end": 5919
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5923,
+   "end": 6343,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen ninety-seven, India's Archaeological Survey built an iron grill around the pillar to protect it from all those hands. And that gave scientists an accidental experiment.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.912,
+     "start": 5933,
+     "end": 6321
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6325,
+   "end": 6722,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The rubbing had polished a patch about five feet up until it was bright. Within a year of the fence, that bright patch had turned a thin, dark brown. Fresh iron, rebuilding its skin.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 12.144,
+     "start": 6335,
+     "end": 6700
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6704,
+   "end": 7059,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Verdict on clause one. Denied as written, approved with conditions. It rusts, slowly, and then the rust stops being a problem. The real question is how.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 10.752,
+     "start": 6714,
+     "end": 7037
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III \u00b7 CLAUSE TWO",
+    "The Maker",
+    "INSCRIPTION \u00b7 KING CHANDRA \u00b7 GUPTA"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 7041,
+   "end": 7397,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause two. Nobody knows who made it. Most of the claims say it is a mystery, but the pillar is signed, in a way. On the shaft, near the bottom, there is an inscription.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 10.8,
+     "start": 7051,
+     "end": 7375
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7379,
+   "end": 7739,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A short poem in Sanskrit, cut into the iron in Gupta-era script. The letters are about a centimeter tall, and they are still sharp. The iron kept them safe.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 10.92,
+     "start": 7389,
+     "end": 7717
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7721,
+   "end": 8170,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The text praises a king named Chandra. It says he conquered enemies in Bengal in the east, that his fame reached the southern ocean, and that he was devoted to the god Vishnu. It never names his dynasty.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 13.872,
+     "start": 7731,
+     "end": 8148
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8152,
+   "end": 8637,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scholars match him to Chandragupta the Second, who ruled around three seventy-five to four fifteen C E. His gold coins show an archer and the short name Chandra. The script and the poetry fit the same age.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 15.072,
+     "start": 8162,
+     "end": 8615
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8619,
+   "end": 9064,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "An East India Company officer made a copy of the text in eighteen thirty-one, and a first reading was published in eighteen thirty-four. It took until eighteen seventy-five to read the king's name correctly.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 13.752,
+     "start": 8629,
+     "end": 9042
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9046,
+   "end": 9529,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The inscription says the pillar was raised on a hill called Vishnupada. Researchers think that was Udayagiri, a hill of rock-cut caves in central India, where Chandragupta's own inscriptions have been found.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 15.024,
+     "start": 9056,
+     "end": 9507
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9511,
+   "end": 10004,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So how did it end up in Delhi? Honestly, we do not know. One view says a king named Anangpal moved it in the eleven hundreds. Another says the sultan Iltutmish carried it off after sacking Vidisha, around twelve thirty.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 15.36,
+     "start": 9521,
+     "end": 9982
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9986,
+   "end": 10366,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Whoever did it moved over six tonnes of iron across hundreds of kilometers. If it was a trophy, it was also a message: the flagpole of your god now stands in our mosque.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.568,
+     "start": 9996,
+     "end": 10344
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10348,
+   "end": 10697,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Verdict on clause two. Approved. A real king, a real date range, and a real inscription. The pillar is not an orphan from nowhere. It has a signature.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 10.536,
+     "start": 10358,
+     "end": 10675
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV \u00b7 CLAUSE THREE",
+    "The Build",
+    "LUMPS \u00b7 FORGE WELDING \u00b7 SCALE"
+   ],
+   "img": "ep/img/shot_29.jpg",
+   "start": 10679,
+   "end": 11007,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause three. Nobody could have built something this big sixteen hundred years ago. We can test that. Because the pillar carries the marks of how it was made.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 9.864,
+     "start": 10689,
+     "end": 10985
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10989,
+   "end": 11409,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ancient Indian iron was not poured. It was made in small clay furnaces, where ore and charcoal made a spongy lump called a bloom. Each lump weighed maybe twenty or thirty kilograms.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 12.912,
+     "start": 10999,
+     "end": 11387
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11391,
+   "end": 11774,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "To build something bigger, you joined lumps while they were white hot, and hammered them until they fused into one. That is forge welding. And this pillar is made of that, lump after lump.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 11.688,
+     "start": 11401,
+     "end": 11752
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11756,
+   "end": 12190,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Metallurgists believe it was built lying on its side, with discs of hot iron added from the side and hammered in. The joints still leave traces on the shaft, and they are where the darker rust shows.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 13.392,
+     "start": 11766,
+     "end": 12168
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12172,
+   "end": 12618,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Those joints rust a little darker, which is why researchers know they exist. A solid casting would not show them. Even the surface was hammered smooth, and that work pressed slag-rich metal into a hard skin.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 13.776,
+     "start": 12182,
+     "end": 12596
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12600,
+   "end": 13026,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It was a huge job. It took a team, a lot of charcoal, and an organised workforce. Remarkable, yes. But it is exactly the kind of organised effort that empires of that age were good at.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 13.128,
+     "start": 12610,
+     "end": 13004
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13008,
+   "end": 13488,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And Delhi is not alone. At Dhar, in central India, lie the broken pieces of another iron pillar, of uncertain date, perhaps the eleventh to thirteenth century. Together the pieces measure more than thirteen meters.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 14.928,
+     "start": 13018,
+     "end": 13466
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13470,
+   "end": 13870,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is about twice the height of Delhi's, and heavier, at around seven tonnes. It was probably the largest forged iron pillar of its time. It was never a one-off. The skill existed.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 12.24,
+     "start": 13480,
+     "end": 13848
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13852,
+   "end": 14224,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Verdict on clause three. Denied. Ancient smiths could and did forge massive iron, and the pillar still wears the marks of their method. The how is not the mystery.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 11.328,
+     "start": 13862,
+     "end": 14202
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "V \u00b7 CLAUSE FOUR",
+    "The Secret Chemistry",
+    "PHOSPHORUS \u00b7 SLAG \u00b7 FILM"
+   ],
+   "img": "ep/img/shot_38.jpg",
+   "start": 14206,
+   "end": 14627,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause four. The metal itself has a secret chemistry, a lost formula. Here, at last, the claim has a real core. Because the iron is unusual, and the lab can tell us exactly how.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 12.936,
+     "start": 14216,
+     "end": 14605
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14609,
+   "end": 15040,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The pillar is almost pure wrought iron, with very little carbon. But it has an unusual amount of phosphorus. About a quarter of one percent. Modern iron usually carries less than a fifth of that.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.272,
+     "start": 14619,
+     "end": 15018
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15022,
+   "end": 15445,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why? In a modern furnace, limestone is added to carry the phosphorus away in the slag. The ancient smiths did not use limestone. They used wood and ore, and the phosphorus stayed in the metal.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 13.032,
+     "start": 15032,
+     "end": 15423
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15427,
+   "end": 15878,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some researchers add another detail. The fuel may have included phosphorus-rich woods, such as Cassia auriculata, a common shrub in India. Charcoal from it would push even more phosphorus in.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 13.944,
+     "start": 15437,
+     "end": 15856
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15860,
+   "end": 16276,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The iron also holds tiny specks of slag, glassy leftovers from the smelting. Normally, impurities are bad. Here, they turn out to matter, because they change how rust behaves.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 12.792,
+     "start": 15870,
+     "end": 16254
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16258,
+   "end": 16730,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Balasubramaniam's team proposed the sequence. At first, ordinary rust forms. But the slag specks and the phosphorus stack up at the boundary between metal and rust, and a different layer begins to grow.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 14.664,
+     "start": 16268,
+     "end": 16708
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16712,
+   "end": 17212,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First an amorphous layer called misawite. Then, slowly, a thin crystal layer of iron hydrogen phosphate hydrate. That crystal layer is dense and it hardly lets in water or air. Rust has nowhere to go.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 15.6,
+     "start": 16722,
+     "end": 17190
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 17194,
+   "end": 17600,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It needs help from the weather. Alternate wetting and drying makes that phosphate crystal layer form. It cannot be switched on in a day. It took years, even decades, and it keeps getting better.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 12.456,
+     "start": 17204,
+     "end": 17578
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17582,
+   "end": 18042,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Verdict on clause four. Approved with conditions. The chemistry is real, but it is not lost, and it is not secret. It came from local ore, local wood, and no limestone. They did not need to know the formula.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 14.256,
+     "start": 17592,
+     "end": 18020
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VI \u00b7 CLAUSE FIVE",
+    "The Weather",
+    "HUMIDITY \u00b7 SALT \u00b7 TEMPLES"
+   ],
+   "img": "ep/img/shot_47.jpg",
+   "start": 18024,
+   "end": 18460,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause five. The weather did it. An older theory says the iron is ordinary, and Delhi's climate is the reason. In nineteen seventy, a Swedish corrosion scientist, Wranglen, said exactly that.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 13.464,
+     "start": 18034,
+     "end": 18438
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18442,
+   "end": 18876,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Rust runs faster when the air stays above about seventy percent humidity. Delhi, for most of the year, stays below it. Dry air really does slow iron down, and the pillar stands in the open air.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.392,
+     "start": 18452,
+     "end": 18854
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18858,
+   "end": 19268,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the weather cannot be the whole story. Look at Konark, on the Odisha coast, with sea salt and damp. Its temple uses big iron beams from the thirteenth century. They are still there.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 12.6,
+     "start": 18868,
+     "end": 19246
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 19250,
+   "end": 19687,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Or Kollur, in the humid hills of the west coast, where an old iron pillar stands at a temple in heavy monsoon rain. Same family of phosphoric iron. Very different weather. Still standing.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 13.488,
+     "start": 19260,
+     "end": 19665
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19669,
+   "end": 20049,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So, climate and metal work together. The dry air helps the pillar, and the phosphoric iron helps it everywhere. Neither explains the pillar alone, and neither needs a spaceship.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 11.568,
+     "start": 19679,
+     "end": 20027
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 20031,
+   "end": 20470,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is one more catch for the miracle story. Researchers could not cut a piece from the pillar, so some of the lab work used rust flakes, and old Gupta-era iron clamps. The pillar itself is protected.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 13.56,
+     "start": 20041,
+     "end": 20448
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 20452,
+   "end": 20879,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Verdict on clause five. Approved with conditions. The climate is a helper, not a trick. It explains why Delhi is a lucky home, and why the damp coast iron beams are even more impressive.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 13.152,
+     "start": 20462,
+     "end": 20857
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": [
+    "VII \u00b7 CLAUSE SIX",
+    "The Aliens",
+    "BOOK \u00b7 INTERVIEW \u00b7 RETRACTION"
+   ],
+   "img": "ep/img/shot_54.jpg",
+   "start": 20861,
+   "end": 21303,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause six. Extraterrestrial origin. This one has a traceable author. In nineteen sixty-eight, Erich von Daniken wrote Chariots of the Gods, and used the pillar as a proof of alien help.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 13.656,
+     "start": 20871,
+     "end": 21281
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 21285,
+   "end": 21729,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen seventy-four, an interviewer from Playboy told him that the column was not rust-free, and that its method of manufacture was understood. His answer: he no longer considered the pillar a mystery.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 13.728,
+     "start": 21295,
+     "end": 21707
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21711,
+   "end": 22168,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One more mark deserves a mention. About four meters up the shaft is a deep dent, made by a cannonball. Historians think it was fired in seventeen thirty-nine, probably by the army of Nadir Shah.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 14.16,
+     "start": 21721,
+     "end": 22146
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 22150,
+   "end": 22508,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The ball cracked the metal on the far side, and the pillar still stood. That is a stronger story than rust. Whatever this iron is, it took a cannon, and it stayed upright.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 10.848,
+     "start": 22160,
+     "end": 22486
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 22490,
+   "end": 22852,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Verdict on clause six. Denied. Its main advocate withdrew it fifty years ago. Meanwhile, every question that he used it for now has a published answer.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 10.992,
+     "start": 22500,
+     "end": 22830
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "CASE FILE",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 22834,
+   "end": 22959,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Case file. Time to score the Iron Pillar of Delhi.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 3.072,
+     "start": 22844,
+     "end": 22937
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 22941,
+   "end": 23480,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A Gupta-era inscription naming King Chandra: evidence. Forge-welded wrought iron, high in phosphorus: evidence. A thin crystal phosphate film, one twentieth of a millimeter: evidence. Delhi's dry climate as a helper: evidence.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 16.872,
+     "start": 22951,
+     "end": 23458
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 23462,
+   "end": 23783,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Never rusts: false, it rusts slowly. A lost super-metal: no, local ore and local wood. An alien alloy: dropped by its own author.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 9.624,
+     "start": 23472,
+     "end": 23761
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23765,
+   "end": 24169,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Human genius, not alien. A sixteen-hundred-year warranty honoured by phosphorus, slag, dry air, and a skilled workforce. Not magic. Not an accident either.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 12.384,
+     "start": 23775,
+     "end": 24147
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 24151,
+   "end": 24628,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here is the part the aliens cannot match. This tradition did not die with the Guptas. Smiths in India kept making phosphoric iron for centuries, and Dhar, Konark, and Kollur all carry the same signature.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 14.832,
+     "start": 24161,
+     "end": 24606
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 24610,
+   "end": 25032,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is a monument to patient craft. People who never heard of phosphates built a pillar that outlasted empires, and it is still standing because they paid attention to what their materials did.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 12.984,
+     "start": 24620,
+     "end": 25010
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 25014,
+   "end": 25354,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a stone lid in a Maya tomb at Palenque. An astronaut at the controls of a rocket, or the world tree of the Maya? We open the tomb.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 10.248,
+     "start": 25024,
+     "end": 25332
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 25336,
+   "end": 25635,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Did you ever hear the rustless pillar story? Tell us in the comments, and subscribe for the next ancient mystery, tested clause by clause.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 8.88,
+     "start": 25346,
+     "end": 25613
+    }
+   ]
+  }
+ ]
+}
