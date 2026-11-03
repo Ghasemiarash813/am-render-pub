@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Low angle photograph looking up at a long weathered sandstone ceiling beam of an ancient Egyptian temple carved with a row of sunken-relief hieroglyph symbols, some symbols overlapping one another, patches of old plaster missing, warm ochre stone, high on top of massive columns in a dim temple hall, a shaft of golden light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "High on a stone beam in an Egyptian temple, about three thousand three hundred years old, there is a carving that looks like a helicopter."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "High on a stone beam in an Egyptian temple, about three thousand three hundred years old, there is a carving that looks like a helicopter.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 8.664
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Macro photograph of a carved sunken-relief shape on weathered sandstone that by coincidence resembles the side silhouette of a helicopter with a long tail, made from overlapping ancient Egyptian hieroglyph strokes, eroded edges, raking golden light, shallow depth of field, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Not roughly. It has a rotor on top, a cockpit, and a long tail. Next to it, people see a submarine, a tank and a jet plane."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Not roughly. It has a rotor on top, a cockpit, and a long tail. Next to it, people see a submarine, a tank and a jet plane.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a bronze-coloured ancient helicopter hovering over an Egyptian temple at dusk, priests looking up, dramatic sky, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For more than twenty five years, it has been one of the internet's favourite proofs that ancient Egypt had flying machines. Or visitors who did."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For more than twenty five years, it has been one of the internet's favourite proofs that ancient Egypt had flying machines. Or visitors who did.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A forensic document examiner's desk at night with a large magnifying lamp, tweezers, a blank evidence folder and a closed archive box, cold light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we treat it the way a forensic lab treats a suspicious document. A questioned document. Every claim is an exhibit, and every exhibit gets examined."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we treat it the way a forensic lab treats a suspicious document. A questioned document. Every claim is an exhibit, and every exhibit gets examined.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 10.872
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A blank evidence tag tied with string to a small fragment of carved sandstone on a black bench, macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Intake. Photo authentication. Chain of custody. Two hands. The filler. The reading. Comparison specimens."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Intake. Photo authentication. Chain of custody. Two hands. The filler. The reading. Comparison specimens.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 7.152
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide dawn view of the colonnaded facade of the Temple of Seti I at Abydos, golden haze, empty forecourt, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then a lab report, with a scorecard and a verdict. Genuine aircraft, or something stranger and far more human. Let's open the file."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then a lab report, with a scorecard and a verdict. Genuine aircraft, or something stranger and far more human. Let's open the file.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1990s beige desktop computer with a bulky CRT monitor glowing in a dark room, a dial-up modem with lights on the desk, nostalgic film look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Exhibit A arrived, like so many mysteries, by email. In the mid nineteen nineties, photos of the beam were passed around on mailing lists about U F Os and archaeology."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "I \u00b7 INTAKE",
+   "The Photo That Flew",
+   "1996 \u00b7 1998 \u00b7 VIRAL"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Exhibit A arrived, like so many mysteries, by email. In the mid nineteen nineties, photos of the beam were passed around on mailing lists about U F Os and archaeology.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of a carved sunken-relief shape on weathered sandstone that by coincidence resembles the side silhouette of a helicopter with a long tail, made from overlapping ancient Egyptian hieroglyph strokes, eroded edges, seen in harsh flat flash light like a tourist snapshot, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The picture was striking: a neat little helicopter, perfectly outlined, sitting in a line of hieroglyphs as if somebody had carved it from life."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The picture was striking: a neat little helicopter, perfectly outlined, sitting in a line of hieroglyphs as if somebody had carved it from life.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Macro photograph of several eroded sunken-relief shapes on a sandstone beam, one resembling a long submarine and one a small boxy tank, by coincidence, raking light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Beside it, other shapes: a long one that looks like a submarine or an airship, and a boxy one that looks like a tank. Below, something like a plane."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Beside it, other shapes: a long one that looks like a submarine or an airship, and a boxy one that looks like a tank. Below, something like a plane.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A night sky over desert sand dunes with a faint unidentified light high in the stars, mysterious, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The theories followed fast. Egypt had aircraft. Or Atlantis did. Or visitors from the stars showed the priests their machines, and the priests carved what they saw."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The theories followed fast. Egypt had aircraft. Or Atlantis did. Or visitors from the stars showed the priests their machines, and the priests carved what they saw.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dim living room lit by an old television screen showing a glowing blank picture, a sofa in silhouette, nostalgic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Television documentaries picked it up. Websites copied it. In twenty seventeen one viral article added a submarine and even a hoverboard to the list."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Television documentaries picked it up. Websites copied it. In twenty seventeen one viral article added a submarine and even a hoverboard to the list.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.392
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A laptop screen glowing in a dark bedroom showing a blank white search page with many blurred result rows, a cup beside it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One writer searched the phrase and found hundreds of thousands of pages, most of them in favour of ancient flight. The exhibit is famous. Now, is it genuine?"
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One writer searched the phrase and found hundreds of thousands of pages, most of them in favour of ancient flight. The exhibit is famous. Now, is it genuine?",
+    "file": "ep/audio/s12.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A belgian researcher at a cluttered 1998 desk reading a printed email by lamplight, seen from behind, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In February nineteen ninety eight, a Belgian U F O researcher named Thierry Wathelet decided to find out. He emailed about fifty Egyptologists and museum curators, and asked."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In February nineteen ninety eight, a Belgian U F O researcher named Thierry Wathelet decided to find out. He emailed about fifty Egyptologists and museum curators, and asked.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A forensic photo analyst comparing two printed photographs of a carved stone surface side by side under a magnifier, gloved hands, cold light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Examination one: is the photograph honest? A document lab always checks the copy before it checks the original."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "II \u00b7 AUTHENTICATION",
+   "Was the Photo Edited?",
+   "RETOUCHED \u00b7 UNTOUCHED \u00b7 RELIEF"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Examination one: is the photograph honest? A document lab always checks the copy before it checks the original.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 7.992
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A grainy printed photograph of a carved stone surface with suspiciously crisp smooth shapes, lying on a light table, macro, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The first reply came within hours, from Peter Der Manuelian at Boston's Museum of Fine Arts. What you are looking at, he wrote, is hieroglyphs that have been digitally altered by someone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The first reply came within hours, from Peter Der Manuelian at Boston's Museum of Fine Arts. What you are looking at, he wrote, is hieroglyphs that have been digitally altered by someone.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Two textures side by side on a lab table: a sunken carving cut into sandstone and a raised metallic-looking relief, macro comparison, soft light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Another expert, Jacques Kinnaer, spotted the giveaway. On the temple, the signs are sunken relief, cut into the stone. In the famous close-up, they look raised, almost like bronze."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Another expert, Jacques Kinnaer, spotted the giveaway. On the temple, the signs are sunken relief, cut into the stone. In the famous close-up, they look raised, almost like bronze.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A cursor-free computer monitor in a dark room showing an image editing workspace with a carved stone photo and smooth airbrushed patches, blue glow, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the helicopter in that close-up does not quite match the same sign in untouched photos. Its outline has been cleaned up, its edges sharpened, its gaps filled in. Later, versions shown on television were retouched again, to make the craft even more obvious. Each copy drifted a little further from the stone."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the helicopter in that close-up does not quite match the same sign in untouched photos. Its outline has been cleaned up, its edges sharpened, its gaps filled in. Later, versions shown on television were retouched again, to make the craft even more obvious. Each copy drifted a little further from the stone.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 20.304
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An old 35mm film photograph print of an ancient temple ceiling beam with worn carvings, held in gloved fingers, warm light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the most famous picture is a retouched picture. But this is where honest investigators slow down, because the story does not end there."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the most famous picture is a retouched picture. But this is where honest investigators slow down, because the story does not end there.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.12
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Tourists' cameras pointed up at a dim temple ceiling, silhouettes of people holding up phones and cameras, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Plenty of tourists have photographed the beam with ordinary cameras. The strange shapes are really there in the stone. The edit exaggerated them. It did not invent them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Plenty of tourists have photographed the beam with ordinary cameras. The strange shapes are really there in the stone. The edit exaggerated them. It did not invent them.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An evidence bag containing a printed photograph, sealed on a black bench under a lamp, macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Finding one: the viral image is doctored, and that is a point against the claim. But a doctored copy does not prove the original is boring. A real carving still needs a real explanation. So we leave the photographs, and go to the stone itself."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Finding one: the viral image is doctored, and that is a point against the claim. But a doctored copy does not prove the original is boring. A real carving still needs a real explanation. So we leave the photographs, and go to the stone itself.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 16.296
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide photograph of the Temple of Seti I at Abydos in Egypt, a long colonnaded facade of square pillars under a clear morning sky, desert, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Examination two: chain of custody. Where exactly is this beam, and who made it? It sits in the Temple of Seti the First, at Abydos, in Upper Egypt."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 CHAIN OF CUSTODY",
+   "Seti's Unfinished Temple",
+   "ABYDOS \u00b7 c. 1290 BC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Examination two: chain of custody. Where exactly is this beam, and who made it? It sits in the Temple of Seti the First, at Abydos, in Upper Egypt.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 10.872
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A regal ancient Egyptian pharaoh in a blue crown seen in profile, carved painted limestone relief style rendered as a realistic portrait, temple light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seti the First ruled Egypt from about twelve ninety four to twelve seventy nine B C. His temple at Abydos was built to honour Osiris, god of the dead, and the king himself."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seti the First ruled Egypt from about twelve ninety four to twelve seventy nine B C. His temple at Abydos was built to honour Osiris, god of the dead, and the king himself.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of exquisitely detailed painted raised relief of an Egyptian god and king on a temple wall, rich original colours, soft light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its inner reliefs are some of the finest carving anywhere in Egypt. Fine lines, delicate faces, colour still clinging to the stone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its inner reliefs are some of the finest carving anywhere in Egypt. Fine lines, delicate faces, colour still clinging to the stone.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An empty ancient Egyptian temple hall half finished, scaffolding of wooden poles, blocks waiting, dust in light beams, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But Seti died before the temple was finished. The job passed to his son, the most famous builder in Egyptian history: Ramesses the Second."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But Seti died before the temple was finished. The job passed to his son, the most famous builder in Egyptian history: Ramesses the Second.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 10.152
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A powerful young ancient Egyptian pharaoh with a blue war crown standing in a sunlit temple court, cinematic portrait, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ramesses ruled for about sixty six years, and few kings ever built more. At Abydos he finished the outer courts and the hypostyle halls, the forests of columns at the front of the temple, and he made sure his own name was everywhere."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ramesses ruled for about sixty six years, and few kings ever built more. At Abydos he finished the outer courts and the hypostyle halls, the forests of columns at the front of the temple, and he made sure his own name was everywhere.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 15.888
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Inside an ancient Egyptian hypostyle hall, rows of massive papyrus columns supporting heavy stone ceiling beams, shafts of light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that is where our exhibit lives: on an architrave, a stone beam resting on top of the columns in the first hypostyle hall. Part of the section Ramesses completed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that is where our exhibit lives: on an architrave, a stone beam resting on top of the columns in the first hypostyle hall. Part of the section Ramesses completed.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient Egyptian stonemasons hurriedly carving hieroglyphs on a temple wall with copper chisels and mallets, dust, torchlight, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scholars note his work there was hurried. Doorways were blocked, the plan was trimmed, the decoration rushed. Egyptologists even have a nickname for him: Ramesses the Chiseler."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scholars note his work there was hurried. Doorways were blocked, the plan was trimmed, the decoration rushed. Egyptologists even have a nickname for him: Ramesses the Chiseler.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1920s expedition artist sitting on scaffolding copying temple wall reliefs onto a large drawing board by lamplight, sepia photograph look, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Custody since then is well documented. The temple was cleared in the eighteen sixties, then photographed and copied in detail by an expedition that published four volumes by nineteen thirty three."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Custody since then is well documented. The temple was cleared in the eighteen sixties, then photographed and copied in detail by an expedition that published four volumes by nineteen thirty three.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.152
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A stack of large old leather bound archaeological folio volumes on a library table, one closed, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "As one Egyptologist put it, the temple has been intensely studied, copied and published. No unusual hieroglyphs are known. So what is going on up there?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "As one Egyptologist put it, the temple has been intensely studied, copied and published. No unusual hieroglyphs are known. So what is going on up there?",
+    "file": "ep/audio/s29.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A handwriting expert's desk with two overlapping sheets of tracing paper over a carved stone rubbing, a magnifier, cold light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Examination three: two hands. In a document lab, one of the first questions is whether a page was written once, or written over."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "IV \u00b7 TWO HANDS",
+   "Two Kings, One Stone",
+   "SETI I \u00b7 RAMESSES II"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Examination three: two hands. In a document lab, one of the first questions is whether a page was written once, or written over.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 8.856
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An old medieval parchment manuscript under raking light revealing faint older erased writing beneath newer ink, macro, photoreal, indistinct illegible script, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is a word for a surface written on twice: a palimpsest. Medieval scribes scraped old parchment and reused it, and centuries later the first text can still bleed through."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is a word for a surface written on twice: a palimpsest. Medieval scribes scraped old parchment and reused it, and centuries later the first text can still bleed through.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a weathered sandstone temple surface where two different sets of carved Egyptian symbols overlap each other, ghost lines of the older carving visible beneath, raking light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Egyptian builders did the same thing in stone. When a new king took over a monument, he often replaced the old king's names with his own."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Egyptian builders did the same thing in stone. When a new king took over a monument, he often replaced the old king's names with his own.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Two ancient Egyptian royal cartouche shapes carved one over the other on sandstone, overlapping outlines, symbols indistinct, raking light, macro, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In Seti's temple, that is exactly what happened. Ramesses had his father's royal titles on this beam replaced by his own titles. Same spot. Same stone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In Seti's temple, that is exactly what happened. Ramesses had his father's royal titles on this beam replaced by his own titles. Same spot. Same stone.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of a carved sunken-relief shape on weathered sandstone that by coincidence resembles the side silhouette of a helicopter with a long tail, made from overlapping ancient Egyptian hieroglyph strokes, eroded edges, cold forensic light from the side, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now look at the helicopter with that in mind. According to Egyptologist Peter Brand, it is made from a bow sign from Seti's text, and two arm signs from the text of Ramesses."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now look at the helicopter with that in mind. According to Egyptologist Peter Brand, it is made from a bow sign from Seti's text, and two arm signs from the text of Ramesses.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A forensic illustration on a light table: two transparent overlays of simple carved outlines, one in blue and one in orange, combining into a strange new shape, macro, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Put the two layers on top of each other, and the strokes of one king's words cross the strokes of the other's. The rotor, the cabin and the tail are pieces of two different sentences, written about twenty years apart, by two different teams of carvers who never meant them to touch."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Put the two layers on top of each other, and the strokes of one king's words cross the strokes of the other's. The rotor, the cabin and the tail are pieces of two different sentences, written about twenty years apart, by two different teams of carvers who never meant them to touch.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 17.136
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of eroded overlapping carved Egyptian relief symbols on sandstone that look like a long boxy vessel, raking light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Another Egyptologist, Eugene Cruz Uribe, pointed to the signs for the number nine and for foreign lands, carved one over the other, with parts lost. The tank and submarine come from the same overlap."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Another Egyptologist, Eugene Cruz Uribe, pointed to the signs for the number nine and for foreign lands, carved one over the other, with parts lost. The tank and submarine come from the same overlap.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 14.52
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An ancient Egyptian royal sculptor's workshop, a master carver comparing a papyrus draft to a stone block, warm lamp light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Finding two: two different hands, two different reigns, about thirteen hundred B C. The shapes are real, but each stroke belongs to a word."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Finding two: two different hands, two different reigns, about thirteen hundred B C. The shapes are real, but each stroke belongs to a word.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A conservator's gloved hand pointing a probe at a patch where old white plaster has fallen out of a carved sandstone surface, macro, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Examination four: the filler. If Ramesses carved over his father's words, why can we still see both?"
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "V \u00b7 THE FILLER",
+   "Plaster, Time and Erosion",
+   "FILL \u00b7 RECARVE \u00b7 FALL OUT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Examination four: the filler. If Ramesses carved over his father's words, why can we still see both?",
+    "file": "ep/audio/s38.mp3",
+    "dur": 7.224
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Egyptian workers pressing wet white plaster into carved hieroglyph grooves on a sandstone beam with wooden trowels, torchlight, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The method was simple. The old sunken signs were packed with plaster. When it set, the surface was smooth again, ready to be carved and painted with the new titles."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The method was simple. The old sunken signs were packed with plaster. When it set, the surface was smooth again, ready to be carved and painted with the new titles.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A freshly re-carved and brightly painted smooth Egyptian temple beam with crisp coloured symbols, newly finished, warm lamp light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Painted over, the trick was invisible. Visitors in Ramesses' day would have looked up and seen one clean, colourful inscription, and nothing else. The father's words were still there, but sealed under a skin of plaster."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Painted over, the trick was invisible. Visitors in Ramesses' day would have looked up and seen one clean, colourful inscription, and nothing else. The father's words were still there, but sealed under a skin of plaster.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 14.304
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Time-lapse style image of an ancient temple ceiling with cracked collapsed roof slabs letting desert light in, dust falling, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came three thousand years. Paint faded. Parts of the roof collapsed. Weather and time worked on the stone."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came three thousand years. Paint faded. Parts of the roof collapsed. Weather and time worked on the stone.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 7.392
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Extreme macro of crumbling old white plaster falling out of a carved groove in sandstone, small fragments in the air, raking light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the plaster began to fall out. Wherever it dropped away, Seti's original signs reappeared underneath Ramesses' newer ones. Both texts showing at once."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the plaster began to fall out. Wherever it dropped away, Seti's original signs reappeared underneath Ramesses' newer ones. Both texts showing at once.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A wide view of a temple hypostyle hall where many column surfaces show faint double-carved overlapping cartouches, warm light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is not a one-off. Across the hypostyle hall, column after column shows the names of Seti and Ramesses overlapping. On one, Ramesses even reversed the direction of the writing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is not a one-off. Across the hypostyle hall, column after column shows the names of Seti and Ramesses overlapping. On one, Ramesses even reversed the direction of the writing.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 14.088
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Black and white archive portrait style photo of a British Egyptologist professor in a study full of books, seen from behind, film look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Aidan Dodson, of the University of Bristol, summed it up: the plaster has fallen out, leaving images that look rather like modern items. A Copenhagen scholar called it a perfectly clear case of an ancient correction."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Aidan Dodson, of the University of Bristol, summed it up: the plaster has fallen out, leaving images that look rather like modern items. A Copenhagen scholar called it a perfectly clear case of an ancient correction.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 14.736
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Macro photograph of eroded stone edges of a carved Egyptian relief symbol, pitted surface, sand grains, raking light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Add erosion of the stone surface, which is visible elsewhere in the temple too, and edges soften into outlines our brains are eager to complete. Finding three: the filler failed, and time did the rest."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Add erosion of the stone surface, which is visible elsewhere in the temple too, and edges soften into outlines our brains are eager to complete. Finding three: the filler failed, and time did the rest.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An Egyptologist's desk with a hieroglyph sign list book open to indistinct symbol charts, a notebook and pencil, warm lamp light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Examination five: the reading. Hieroglyphs are not decoration. They are a full writing system with grammar, spelling and fixed formulas, read by scholars every day. So if we read this beam like any other text, what does it actually say?"
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "VI \u00b7 THE READING",
+   "What the Beam Says",
+   "FIVE NAMES \u00b7 TWO LADIES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Examination five: the reading. Hieroglyphs are not decoration. They are a full writing system with grammar, spelling and fixed formulas, read by scholars every day. So if we read this beam like any other text, what does it actually say?",
+    "file": "ep/audio/s46.mp3",
+    "dur": 16.2
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A carved Egyptian relief of a vulture goddess and a cobra goddess side by side on baskets, ancient sandstone, raking light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every pharaoh had five official names. One of them is called the Two Ladies name, after the vulture goddess and the cobra goddess who protected the king."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every pharaoh had five official names. One of them is called the Two Ladies name, after the vulture goddess and the cobra goddess who protected the king.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A long Egyptian temple architrave carved with formal royal titles in neat columns of indistinct hieroglyphs, viewed from below, warm light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Architraves like this one usually carry those royal names, in a fixed order. And every one of the so called flying machines sits inside the Two Ladies names."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Architraves like this one usually carry those royal names, in a fixed order. And every one of the so called flying machines sits inside the Two Ladies names.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 10.848
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An ancient Egyptian bow and arrows lying on a stone altar beside a curved sickle sword, symbolic of Egypt's enemies, dramatic warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seti's original read, in translation: Powerful of scimitar, who suppresses the Nine Bows. The Nine Bows were Egypt's traditional enemies, bows as in archery."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seti's original read, in translation: Powerful of scimitar, who suppresses the Nine Bows. The Nine Bows were Egypt's traditional enemies, bows as in archery.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A young pharaoh in a chariot standing guard at the border of Egypt with desert hills beyond, heroic cinematic painting look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ramesses' replacement read: protector of Egypt, who repels foreign lands. A boast written over a boast. Then each text ends with the king's throne name: Menmaatra for Seti, User maatra Setepenra for Ramesses."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ramesses' replacement read: protector of Egypt, who repels foreign lands. A boast written over a boast. Then each text ends with the king's throne name: Menmaatra for Seti, User maatra Setepenra for Ramesses.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 16.344
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An academic journal and a thick scholarly book lying closed on a desk next to reading glasses, blank covers, warm window light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This reading is not a guess from the internet. It is set out by Egyptologist Joshua Roberson in a twenty sixteen article, and by Peter Brand in his twenty twenty three book on Ramesses."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This reading is not a guess from the internet. It is set out by Egyptologist Joshua Roberson in a twenty sixteen article, and by Peter Brand in his twenty twenty three book on Ramesses.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A printed royal name handbook open on a library table under lamp light, pages with indistinct columns, macro, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Another scholar, Katherine Griffis Greenberg, even gave page numbers in a standard handbook of royal names. The kind of reference you can check yourself."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Another scholar, Katherine Griffis Greenberg, even gave page numbers in a standard handbook of royal names. The kind of reference you can check yourself.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Macro of a carved sunken-relief shape on weathered sandstone that by coincidence resembles the side silhouette of a helicopter with a long tail, made from overlapping ancient Egyptian hieroglyph strokes, eroded edges, with faint glowing outlines tracing the separate overlapping strokes, forensic visualization, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the helicopter has a translation. It reads, roughly, Nine Bows meets foreign lands. Finding four: the exhibit is a sentence, not a picture."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the helicopter has a translation. It reads, roughly, Nine Bows meets foreign lands. Finding four: the exhibit is a sentence, not a picture.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 10.152
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A long row of museum display cases holding ancient Egyptian painted reliefs and papyri in a dark gallery, soft lights, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Examination six: comparison specimens. A forger's document often fails when you compare it with everything around it. So, what else should exist?"
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "VII \u00b7 COMPARISON",
+   "Where Are the Other Helicopters?",
+   "SUPPORT \u00b7 CONTEXT \u00b7 PAREIDOLIA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Examination six: comparison specimens. A forger's document often fails when you compare it with everything around it. So, what else should exist?",
+    "file": "ep/audio/s54.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An empty desert landscape in Egypt at noon with no structures, heat haze, bare sand and rock, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If Egyptians flew helicopters, we would expect the machinery behind them: metal workshops, engines, fuel, spare parts, landing places, crash sites. Egypt is one of the most excavated countries on Earth. Archaeology has found none of it."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If Egyptians flew helicopters, we would expect the machinery behind them: metal workshops, engines, fuel, spare parts, landing places, crash sites. Egypt is one of the most excavated countries on Earth. Archaeology has found none of it.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 16.464
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient Egyptian papyrus scrolls and painted tomb walls showing boats, chariots and farming, warm museum light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Egyptian texts boast about everything: chariots, ships, gold, victories. Not one boasts about flight. And no other tomb or temple shows a helicopter. Only this one beam, and only at this one overlap."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Egyptian texts boast about everything: chariots, ships, gold, victories. Not one boasts about flight. And no other tomb or temple shows a helicopter. Only this one beam, and only at this one overlap.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Clouds in a blue sky that by chance resemble a face, and a wall socket that looks like a surprised face, side by side, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is a name for what our eyes are doing: pareidolia. The same instinct that finds faces in clouds and electric sockets. It is a feature of the brain, not a flaw of the viewer."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is a name for what our eyes are doing: pareidolia. The same instinct that finds faces in clouds and electric sockets. It is a feature of the brain, not a flaw of the viewer.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 12.624
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Inside the Temple of Seti I at Abydos, a richly painted shrine wall showing the king offering to the god Osiris, warm light, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then there is context. This temple was built to join the dead king with Osiris, so that he would live forever. Its walls are prayers, offerings and royal names. A royal title is the last place a scribe would slip in a picture of a vehicle, and nobody in three thousand years of visitors wrote that they saw one."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then there is context. This temple was built to join the dead king with Osiris, so that he would live forever. Its walls are prayers, offerings and royal names. A royal title is the last place a scribe would slip in a picture of a vehicle, and nobody in three thousand years of visitors wrote that they saw one.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 20.256
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A faint light high in a star filled night sky above an Egyptian temple at night, mysterious, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the alien version? It needs visitors who left one doodle in a dead king's name, and nothing else in three thousand years. That is not evidence. It is an overlap with a story attached."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the alien version? It needs visitors who left one doodle in a dead king's name, and nothing else in three thousand years. That is not evidence. It is an overlap with a story attached.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 12.768
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark forensic laboratory at night, a long ancient sandstone beam fragment lying on a black lab bench far on the right edge under a cold examination lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lab report. Time to score the Abydos helicopter."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "LAB REPORT",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lab report. Time to score the Abydos helicopter.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 3.72
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark forensic laboratory at night, a long ancient sandstone beam fragment lying on a black lab bench far on the right edge under a cold examination lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real carved beam in Seti's temple: evidence. Craft-like shapes in untouched photos: real, and a coincidence. Seti's titles under Ramesses' titles: evidence. Plaster that fell out, plus erosion: evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real carved beam in Seti's temple: evidence. Craft-like shapes in untouched photos: real, and a coincidence. Seti's titles under Ramesses' titles: evidence. Plaster that fell out, plus erosion: evidence.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 16.2
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark forensic laboratory at night, a long ancient sandstone beam fragment lying on a black lab bench far on the right edge under a cold examination lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The famous viral photo: retouched. Any supporting trace of aircraft: none. Ancient flight, or alien visitors: debunked."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The famous viral photo: retouched. Any supporting trace of aircraft: none. Ancient flight, or alien visitors: debunked.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 8.712
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro of a carved sunken-relief shape on weathered sandstone that by coincidence resembles the side silhouette of a helicopter with a long tail, made from overlapping ancient Egyptian hieroglyph strokes, eroded edges, warm golden light, calm, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Not a helicopter. Exhibit A is a genuine document that was edited twice: once by a king in about twelve seventy nine B C, and once by someone with photo software in the nineteen nineties."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Not a helicopter. Exhibit A is a genuine document that was edited twice: once by a king in about twelve seventy nine B C, and once by someone with photo software in the nineteen nineties.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.712
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of an ancient Egyptian sculptor's hands carving a hieroglyph into soft plaster on a temple beam with a copper chisel, warm lamplight, photoreal, no latin letters, no numbers, no modern writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Somewhere, about three thousand three hundred years ago, a carver working for Ramesses smoothed his plaster over an old king's words and never imagined they would come back. They did. And by pure chance, they look like the future. That is the real mystery of Abydos: not a lost aircraft, but how hungry our eyes are for one."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Somewhere, about three thousand three hundred years ago, a carver working for Ramesses smoothed his plaster over an old king's words and never imagined they would come back. They did. And by pure chance, they look like the future. That is the real mystery of Abydos: not a lost aircraft, but how hungry our eyes are for one.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 20.016
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Ruins of an ancient stone hill fort in the Scottish highlands at night, rocks fused and glassy as if melted, faint glow, moody, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: stone walls in Scotland that were melted into glass. Ancient lasers, or something much simpler?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: stone walls in Scotland that were melted into glass. Ancient lasers, or something much simpler?",
+    "file": "ep/audio/s65.mp3",
+    "dur": 7.464
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single carved sandstone beam fragment glowing faintly in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you see in the beam? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you see in the beam? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 6.744
+   }
+  ]
+ }
+]
