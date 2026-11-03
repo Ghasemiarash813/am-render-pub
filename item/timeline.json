@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 23124,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 420,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the night of March thirteenth, nineteen ninety-seven, thousands of people in Arizona looked up and saw lights. Five of them, in a V, gliding in silence. Some swear it blocked out the stars.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 12.912,
+     "start": 10,
+     "end": 398
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 402,
+   "end": 726,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A craft a mile wide, they said. Even a governor said so, ten years later, after first making a joke of it. Silent. Slow. Enormous.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 9.72,
+     "start": 412,
+     "end": 704
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 708,
+   "end": 1018,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But that same night, a second thing happened. A row of lights, hanging over the city at ten o'clock. And the story you know blends the two into one.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 9.264,
+     "start": 718,
+     "end": 996
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1000,
+   "end": 1376,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we split the case in half. File A: the V, at eight thirty. File B: the row, at ten. Each gets its own evidence, its own explanation, and its own score.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 11.448,
+     "start": 1010,
+     "end": 1354
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1358,
+   "end": 1672,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then we ask how two events became one legend. The clock starts at five to eight.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 5.4,
+     "start": 1368,
+     "end": 1530
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 7:55 PM",
+    "First Calls",
+    "NEVADA \u00b7 PAULDEN \u00b7 THE COMET"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1654,
+   "end": 1983,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Seven fifty-five, Henderson, Nevada. A witness reports a large V-shaped object heading southeast. It is the first call in the file.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 9.888,
+     "start": 1664,
+     "end": 1961
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 1965,
+   "end": 2379,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Twenty minutes later, near Paulden, Arizona, a former police officer phones the National UFO Reporting Center. Red-orange lights, in a V. Then another witness, and another.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 12.72,
+     "start": 1975,
+     "end": 2357
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2361,
+   "end": 2752,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why were so many people outside? Because Comet Hale-Bopp was at its best that month, and the whole state was looking up. Skeptic Robert Sheaffer notes it was one of the best nights to see it.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 11.952,
+     "start": 2371,
+     "end": 2730
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2734,
+   "end": 3177,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So these are not a few cranks. These are ordinary people, with a clear sky, looking up on purpose, along a line about three hundred miles long. MUFON later collected over two hundred statements.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.68,
+     "start": 2744,
+     "end": 3155
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3159,
+   "end": 3630,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their descriptions disagree in useful ways. Some saw five lights, some saw seven. A V, a boomerang, a crown, a triangle. A few described a dark solid shape, with the stars blocked out behind it.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 14.616,
+     "start": 3169,
+     "end": 3608
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3612,
+   "end": 3947,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice what that is. People describing the same event, but disagreeing on what it is. The lights are data. The solid body is interpretation.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 10.08,
+     "start": 3622,
+     "end": 3925
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3929,
+   "end": 4136,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Remember that split. It is the key to File A. Now follow the V south, toward Phoenix.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 5.808,
+     "start": 3939,
+     "end": 4114
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 8:30 PM",
+    "The V Over Phoenix",
+    "SILENT \u00b7 SLOW \u00b7 STARS \u00b7 CLOUD"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4118,
+   "end": 4388,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eight thirty, Phoenix. Witnesses in the north of the city watch five lights approach from the northwest, and cross the valley.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 7.92,
+     "start": 4128,
+     "end": 4366
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4370,
+   "end": 4745,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They describe a silent, slow formation. Some say they saw stars between the lights. Others say the stars vanished as the shape passed. Both accounts are on record.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 11.424,
+     "start": 4380,
+     "end": 4723
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4727,
+   "end": 5205,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "From reports like these came the headline: one craft, a mile wide. That figure grew in later accounts gathered by researchers such as Doctor Lynne Kitei, some placing a huge object over Sky Harbor Airport.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 14.856,
+     "start": 4737,
+     "end": 5183
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5187,
+   "end": 5501,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Glendale, between eight thirty and eight forty-five. Witnesses see the formation pass overhead, high enough to be swallowed by thin cloud.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 9.384,
+     "start": 5197,
+     "end": 5479
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5483,
+   "end": 5816,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Something that fades into thin cloud is above that cloud. High, and silent. That is exactly how an aircraft at altitude sounds from the ground.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 10.032,
+     "start": 5493,
+     "end": 5794
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5798,
+   "end": 6199,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the formation crosses the city, heading south toward Tucson. It does not hover. It does not dart. It keeps a steady pace, along the same corridor that air traffic uses.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 12.288,
+     "start": 5808,
+     "end": 6177
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6181,
+   "end": 6578,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And there is a video. The one clear recording of the V. Watch the lights in it, and they shift against each other. They are not fixed to a frame. They are separate objects, flying together.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.144,
+     "start": 6191,
+     "end": 6556
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6560,
+   "end": 6813,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Could one giant craft carry lights that move? As a hypothesis, yes. But nothing in the video requires it.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 7.344,
+     "start": 6570,
+     "end": 6791
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6795,
+   "end": 7123,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By nine, the V is gone to the south. File A now holds two stories: a giant craft, or a flight of aircraft. Time to test the second.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 9.84,
+     "start": 6805,
+     "end": 7101
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "III \u00b7 FILE A",
+    "The Telescope",
+    "SQUARE WINGS \u00b7 A-10s \u00b7 NO RADAR"
+   ],
+   "img": "ep/img/shot_22.jpg",
+   "start": 7105,
+   "end": 7450,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "File A, test one: the telescope. In Scottsdale, amateur astronomer Mitch Stanley has set up a large Dobsonian telescope, for the comet.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.416,
+     "start": 7115,
+     "end": 7428
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7432,
+   "end": 7700,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He turns it on the V. And under magnification, each light splits into a pair. One on each tip of a squarish wing.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 7.848,
+     "start": 7442,
+     "end": 7678
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 7682,
+   "end": 8083,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Squarish wings. Not swept, not triangular. He follows the planes for about a minute, then goes back to the comet. His words: they were planes. There was no way he could have mistaken that.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 12.288,
+     "start": 7692,
+     "end": 8061
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8065,
+   "end": 8566,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Test two: the corridor. Robert Sheaffer reconstructs the flight. Five A-10 Warthogs from the Operation Snowbird training programme had flown from Tucson to Nellis days earlier. It was the last night, so they were flying home.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 15.624,
+     "start": 8075,
+     "end": 8544
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8548,
+   "end": 8976,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On that reconstruction, they flew by visual rules, in formation, wearing formation lights that look like landing lights. They crossed Phoenix, and landed at Davis-Monthan around eight forty-five.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 13.2,
+     "start": 8558,
+     "end": 8954
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 8958,
+   "end": 9340,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Analyst Tim Printy modelled the lights at high altitude, around thirty-five to forty thousand feet, where jets cannot be heard. It is a model, not a measured track.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.664,
+     "start": 8968,
+     "end": 9318
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9322,
+   "end": 9830,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the weakness. That flight was never publicly identified. Luke Air Force Base radar operators saw nothing unusual, and nobody asked the FAA for its radar tapes within two weeks, when such records were routinely deleted.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 15.864,
+     "start": 9332,
+     "end": 9808
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9812,
+   "end": 10170,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So File A stays open. Aircraft in formation is the strongest explanation, with an eyewitness at the eyepiece. But the paperwork that would prove it is gone.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 10.848,
+     "start": 9822,
+     "end": 10148
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 10:00 PM",
+    "The Row of Lights",
+    "HOVERING \u00b7 FILMED \u00b7 ESTRELLA"
+   ],
+   "img": "ep/img/shot_30.jpg",
+   "start": 10152,
+   "end": 10483,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ten o'clock. A different sky, different lights. Over the southwest of Phoenix, a row of bright orange lights appears. About nine of them, in an arc.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 9.96,
+     "start": 10162,
+     "end": 10461
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10465,
+   "end": 10803,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They do not move like the V. They hang. Some slowly sink. Thousands of people film them. This is the footage that was on the news, and on every poster.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 10.176,
+     "start": 10475,
+     "end": 10781
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 10785,
+   "end": 11165,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Doctor Lynne Kitei, a Phoenix physician, films them from her home. Others film from all over the valley. When the tapes air nationally that June, a media frenzy begins.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 11.568,
+     "start": 10795,
+     "end": 11143
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11147,
+   "end": 11406,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sky Harbor air traffic controller Bill Grava sees them on the southern horizon. His first thought? Flares.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 7.536,
+     "start": 11157,
+     "end": 11384
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11388,
+   "end": 11650,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And notice this. From every camera, in every part of the valley, the lights sit in the southwest, over the same ridgeline.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 7.656,
+     "start": 11398,
+     "end": 11628
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 11632,
+   "end": 11924,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A little after ten, they go out one by one. Not by flying away, but by dropping behind the Sierra Estrella mountains.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 8.664,
+     "start": 11642,
+     "end": 11902
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 11906,
+   "end": 12152,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A row of lights that sinks behind a ridge. Hold that thought. The official answer arrived four months late.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 7.104,
+     "start": 11916,
+     "end": 12130
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "V \u00b7 FILE B",
+    "The Flares",
+    "MARYLAND GUARD \u00b7 15,000 FEET \u00b7 SNOWBIRD"
+   ],
+   "img": "ep/img/shot_37.jpg",
+   "start": 12134,
+   "end": 12480,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "File B. The explanation comes on July twenty-fifth, nineteen ninety-seven. Captain Drew Sullins, of the Maryland Air National Guard, speaks.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 10.464,
+     "start": 12144,
+     "end": 12458
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 12462,
+   "end": 12919,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eight of his unit's A-10s had trained that night over the Barry Goldwater range. They dropped high-intensity flares from fifteen thousand feet. The flares fall slowly on parachutes and light up a huge area.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 14.136,
+     "start": 12472,
+     "end": 12897
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 12901,
+   "end": 13240,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Before flying home, he says, the pilots dumped all their remaining flares at high altitude. One pilot called the result one hell of a light show.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 10.224,
+     "start": 12911,
+     "end": 13218
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 13222,
+   "end": 13644,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "An Arizona National Guard officer, Captain Eileen Bienz, had already put the drop at ten p.m., over the range southwest of Phoenix. Same hour. Same direction as the lights.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.984,
+     "start": 13232,
+     "end": 13622
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 13626,
+   "end": 14029,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then television tested it. Channel Twelve filmed military planes dropping flares, and the result looked, in reporter Tony Ortega's words, remarkably like the ten o'clock lights.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.36,
+     "start": 13636,
+     "end": 14007
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14011,
+   "end": 14381,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the hovering? A flare falls slowly under its parachute, and the heat rising from it holds the parachute up like a balloon. The ridge then hides it. That is the sinking.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.256,
+     "start": 14021,
+     "end": 14359
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 14363,
+   "end": 14877,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why four months? Sullins blamed a miscommunication, saying Davis-Monthan checked its resident aircraft logs, not the visiting ones. Phoenix councilwoman Frances Barwood called the answer too convenient, and asked for a re-enactment.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 16.056,
+     "start": 14373,
+     "end": 14855
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 14859,
+   "end": 15465,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Doubts remain. Optical physicist Bruce Maccabee triangulated two videos and put the lights some seventy to eighty miles away. Doctor Kitei says her footage cannot be flares. Skeptics are unconvinced. Still, File B is as close to closed as a UFO case gets.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 19.104,
+     "start": 14869,
+     "end": 15443
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VI \u00b7 JUNE 1997",
+    "The Governor's Joke",
+    "PRESS CONFERENCE \u00b7 HANDCUFFS \u00b7 MASK"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 15447,
+   "end": 15855,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "June, nineteen ninety-seven. The tapes are on national television, and Arizona's governor, Fife Symington, is under pressure. He is a pilot and a former Air Force officer.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 12.504,
+     "start": 15457,
+     "end": 15833
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 15837,
+   "end": 16141,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On June nineteenth he announces a state investigation. Then, the same day, he calls a press conference to say they have found the culprit.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 9.048,
+     "start": 15847,
+     "end": 16119
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 16123,
+   "end": 16561,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A tall creature in a mask is led in, in handcuffs, before the cameras. Then it is unmasked. It is the governor's chief of staff, Jay Heiler. The room laughs. For a while, the story goes quiet.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 13.512,
+     "start": 16133,
+     "end": 16539
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16543,
+   "end": 16934,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why do it? Symington later said he wanted to lighten the mood and break the momentum of hysteria. At the time, he also faced federal fraud charges, and did not need more trouble.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 11.952,
+     "start": 16553,
+     "end": 16912
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 16916,
+   "end": 17140,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The joke had a cost. For ten years it hung over every witness who said they had seen something real.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 6.384,
+     "start": 16926,
+     "end": 17118
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 17122,
+   "end": 17565,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Meanwhile, a May nineteen ninety-seven reply from Luke Air Force Base to a Freedom of Information request says it had no records, was not an air-defense base, and had no involvement with the lights.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 13.68,
+     "start": 17132,
+     "end": 17543
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 17547,
+   "end": 17894,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That fits both stories. No involvement from Luke fits a flight of Guard jets passing through from Tucson. And it fits a cover-up, to anyone who wants one.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 10.488,
+     "start": 17557,
+     "end": 17872
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VII \u00b7 2007",
+    "The Turn",
+    "SYMINGTON \u00b7 THE FILM \u00b7 THE GAP"
+   ],
+   "img": "ep/img/shot_52.jpg",
+   "start": 17876,
+   "end": 18203,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "March, two thousand and seven. Ten years on, Symington says he saw it himself. He tells a news network, and later writes it in his own words.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 9.816,
+     "start": 17886,
+     "end": 18181
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 18185,
+   "end": 18523,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A massive delta-shaped craft, he says, gliding silently over a Phoenix mountain. A solid structure, with enormous lights along its leading edge.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 10.176,
+     "start": 18195,
+     "end": 18501
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 18505,
+   "end": 18892,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He says he knows every machine that flies. It did not resemble anything man-made he had seen. And it was not flares, he says, because flares do not fly in formation.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 11.808,
+     "start": 18515,
+     "end": 18870
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 18874,
+   "end": 19323,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Take his word seriously. He was there, and he is a pilot. But it is retrospective testimony, given a decade later, with no instrument record attached. And flares explain only one of the two events.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 13.872,
+     "start": 18884,
+     "end": 19301
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 19305,
+   "end": 19736,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Meanwhile the legend grows. A fictional thriller, The Phoenix Incident, premiered at a UFO conference in twenty sixteen, mixing real footage with alien monsters and a military cover-up.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 13.272,
+     "start": 19315,
+     "end": 19714
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 19718,
+   "end": 20049,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Skeptic Robert Sheaffer reports that while the audience watched, the Guard was dropping flares over the same range again. Nobody in the room noticed.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 9.96,
+     "start": 19728,
+     "end": 20027
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 20031,
+   "end": 20436,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So how did two events become one? The V had no explanation for months. The row had a good one, but it came late. Anyone who saw the V and then heard about flares could feel lied to.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 12.432,
+     "start": 20041,
+     "end": 20414
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 20418,
+   "end": 20803,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the real engine of this legend. Not a spaceship. A gap, between what thousands saw, and what officials took months to say, and never fully documented for the first event.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 11.76,
+     "start": 20428,
+     "end": 20781
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 20785,
+   "end": 20894,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score the Phoenix Lights.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 2.544,
+     "start": 20795,
+     "end": 20872
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 20876,
+   "end": 21450,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two separate events that night: evidence. The ten o'clock row was flares, confirmed by the Guard: evidence. The V was separate lights moving together, on the one video: evidence. A formation of high-altitude aircraft: likely, with a witness at a telescope, but unproven.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 18.048,
+     "start": 20886,
+     "end": 21428
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 21432,
+   "end": 21750,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The flight's records and radar: never obtained. One craft a mile wide: no supporting evidence. Alien spacecraft: no evidence.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 9.504,
+     "start": 21442,
+     "end": 21728
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 21732,
+   "end": 22250,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Two events, not one. The ten o'clock lights were flares. The V was most likely a formation of aircraft, and the paperwork that would prove it is lost. The Phoenix Lights are not a spaceship. They are a lesson in how a mystery is made.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 16.2,
+     "start": 21742,
+     "end": 22228
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 22232,
+   "end": 22553,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On a warm night in March, thousands of people looked up at the same sky. They really did see something. They just were not all looking at the same thing.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 9.624,
+     "start": 22242,
+     "end": 22531
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 22535,
+   "end": 22827,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a pillar of iron, sixteen hundred years old, standing in the open in Delhi, with almost no rust. A lost super-metal?",
+     "file": "ep/audio/s65.mp3",
+     "dur": 8.64,
+     "start": 22545,
+     "end": 22805
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 22809,
+   "end": 23049,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think the V was? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 6.912,
+     "start": 22819,
+     "end": 23027
+    }
+   ]
+  }
+ ]
+}

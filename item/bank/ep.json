@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photograph of five warm amber-white glowing round lights arranged in a wide V shape like a boomerang, evenly spaced, soft glow, each light a separate small point, no solid body between them, gliding over a dark desert suburb at dusk with saguaro cacti and low houses, deep blue twilight sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the night of March thirteenth, nineteen ninety-seven, thousands of people in Arizona looked up and saw lights. Five of them, in a V, gliding in silence. Some swear it blocked out the stars."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the night of March thirteenth, nineteen ninety-seven, thousands of people in Arizona looked up and saw lights. Five of them, in a V, gliding in silence. Some swear it blocked out the stars.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a family standing in a suburban backyard in the desert at dusk, looking up at the sky in amazement, seen from behind, silhouettes, five warm amber-white glowing round lights arranged in a wide V shape like a boomerang, evenly spaced, soft glow, each light a separate small point, no solid body between them in the sky above them, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A craft a mile wide, they said. Even a governor said so, ten years later, after first making a joke of it. Silent. Slow. Enormous."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A craft a mile wide, they said. Even a governor said so, ten years later, after first making a joke of it. Silent. Slow. Enormous.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 9.72
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Long exposure photograph of a curved row of seven bright orange-gold glowing lights hanging in the sky above a dark mountain ridge, long exposure look, soft glow, over a sprawling desert city at night with a grid of orange streetlights and distant dark mountains, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But that same night, a second thing happened. A row of lights, hanging over the city at ten o'clock. And the story you know blends the two into one."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But that same night, a second thing happened. A row of lights, hanging over the city at ten o'clock. And the story you know blends the two into one.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Split composition photograph: on the left half five warm amber-white glowing round lights arranged in a wide V shape like a boomerang, evenly spaced, soft glow, each light a separate small point, no solid body between them in a dusk sky, on the right half a curved row of seven bright orange-gold glowing lights hanging in the sky above a dark mountain ridge, long exposure look, soft glow in a black night sky, divided by a thin vertical line, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we split the case in half. File A: the V, at eight thirty. File B: the row, at ten. Each gets its own evidence, its own explanation, and its own score."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we split the case in half. File A: the V, at eight thirty. File B: the row, at ten. Each gets its own evidence, its own explanation, and its own score.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Close-up of an old analogue wall clock in a dim investigator's office, showing five minutes to eight, warm lamp light, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then we ask how two events became one legend. The clock starts at five to eight."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then we ask how two events became one legend. The clock starts at five to eight.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 5.4
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide photograph of the Nevada desert near Henderson at sunset, the Las Vegas valley lights beginning to glow in the distance, a dark highway, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seven fifty-five, Henderson, Nevada. A witness reports a large V-shaped object heading southeast. It is the first call in the file."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "I \u00b7 7:55 PM",
+   "First Calls",
+   "NEVADA \u00b7 PAULDEN \u00b7 THE COMET"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seven fifty-five, Henderson, Nevada. A witness reports a large V-shaped object heading southeast. It is the first call in the file.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 9.888
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of an old beige push-button telephone with a coiled cord on a wooden table in a small desert police-style office at night, warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Twenty minutes later, near Paulden, Arizona, a former police officer phones the National UFO Reporting Center. Red-orange lights, in a V. Then another witness, and another."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Twenty minutes later, near Paulden, Arizona, a former police officer phones the National UFO Reporting Center. Red-orange lights, in a V. Then another witness, and another.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Beautiful photograph of a bright comet with a long white tail in a clear dark sky above silhouetted saguaro cacti and mountains, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why were so many people outside? Because Comet Hale-Bopp was at its best that month, and the whole state was looking up. Skeptic Robert Sheaffer notes it was one of the best nights to see it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why were so many people outside? Because Comet Hale-Bopp was at its best that month, and the whole state was looking up. Skeptic Robert Sheaffer notes it was one of the best nights to see it.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of a crowd of ordinary people of different ages standing on a desert hillside at dusk, looking up at the sky, seen from behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So these are not a few cranks. These are ordinary people, with a clear sky, looking up on purpose, along a line about three hundred miles long. MUFON later collected over two hundred statements."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So these are not a few cranks. These are ordinary people, with a clear sky, looking up on purpose, along a line about three hundred miles long. MUFON later collected over two hundred statements.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Table with several hand-drawn sketches on paper of different formations of lights in the sky: a V, a boomerang, a crown and a triangle, lamp light, shallow depth of field, photoreal, the sketches contain only dots and lines, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their descriptions disagree in useful ways. Some saw five lights, some saw seven. A V, a boomerang, a crown, a triangle. A few described a dark solid shape, with the stars blocked out behind it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their descriptions disagree in useful ways. Some saw five lights, some saw seven. A V, a boomerang, a crown, a triangle. A few described a dark solid shape, with the stars blocked out behind it.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 14.616
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro close-up of an investigator's hands holding a magnifying glass over a blank map of the American Southwest on a desk, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice what that is. People describing the same event, but disagreeing on what it is. The lights are data. The solid body is interpretation."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice what that is. People describing the same event, but disagreeing on what it is. The lights are data. The solid body is interpretation.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.08
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide photograph of a dark desert highway at dusk heading toward distant city lights, a few faint amber lights low in the twilight sky ahead, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Remember that split. It is the key to File A. Now follow the V south, toward Phoenix."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Remember that split. It is the key to File A. Now follow the V south, toward Phoenix.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 5.808
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph looking north-west over the rooftops of a Phoenix neighbourhood at twilight with palm trees, five warm amber-white glowing round lights arranged in a wide V shape like a boomerang, evenly spaced, soft glow, each light a separate small point, no solid body between them approaching low over the hills, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eight thirty, Phoenix. Witnesses in the north of the city watch five lights approach from the northwest, and cross the valley."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 8:30 PM",
+   "The V Over Phoenix",
+   "SILENT \u00b7 SLOW \u00b7 STARS \u00b7 CLOUD"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eight thirty, Phoenix. Witnesses in the north of the city watch five lights approach from the northwest, and cross the valley.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 7.92
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of two people standing on a suburban driveway in Arizona at dusk with their hands shading their eyes, looking up, seen from behind, five warm amber-white glowing round lights arranged in a wide V shape like a boomerang, evenly spaced, soft glow, each light a separate small point, no solid body between them in the sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They describe a silent, slow formation. Some say they saw stars between the lights. Others say the stars vanished as the shape passed. Both accounts are on record."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They describe a silent, slow formation. Some say they saw stars between the lights. Others say the stars vanished as the shape passed. Both accounts are on record.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photograph of an enormous wide dark triangular shadow shape blocking the stars above a desert city at night, concept image of what some witnesses described, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "From reports like these came the headline: one craft, a mile wide. That figure grew in later accounts gathered by researchers such as Doctor Lynne Kitei, some placing a huge object over Sky Harbor Airport."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "From reports like these came the headline: one craft, a mile wide. That figure grew in later accounts gathered by researchers such as Doctor Lynne Kitei, some placing a huge object over Sky Harbor Airport.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 14.856
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of a thin high layer of cloud over a suburban skyline at dusk with a few faint amber points of light fading into it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Glendale, between eight thirty and eight forty-five. Witnesses see the formation pass overhead, high enough to be swallowed by thin cloud."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Glendale, between eight thirty and eight forty-five. Witnesses see the formation pass overhead, high enough to be swallowed by thin cloud.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 9.384
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of a high thin veil of cloud lit orange from below by city lights at night, a faint amber glow behind it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Something that fades into thin cloud is above that cloud. High, and silent. That is exactly how an aircraft at altitude sounds from the ground."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Something that fades into thin cloud is above that cloud. High, and silent. That is exactly how an aircraft at altitude sounds from the ground.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Aerial photograph at dusk of a wide interstate highway running through the Arizona desert from north to south, lit with car headlights and a few amber points in the sky above following it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the formation crosses the city, heading south toward Tucson. It does not hover. It does not dart. It keeps a steady pace, along the same corridor that air traffic uses."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the formation crosses the city, heading south toward Tucson. It does not hover. It does not dart. It keeps a steady pace, along the same corridor that air traffic uses.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 12.288
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of an old camcorder from the nineteen nineties on a tripod pointing at the evening sky from a balcony, warm dusk light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there is a video. The one clear recording of the V. Watch the lights in it, and they shift against each other. They are not fixed to a frame. They are separate objects, flying together."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there is a video. The one clear recording of the V. Watch the lights in it, and they shift against each other. They are not fixed to a frame. They are separate objects, flying together.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Concept photograph: a vast dark flexible shape in the sky with small lights along its edges, ambiguous and blurry, above a desert, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Could one giant craft carry lights that move? As a hypothesis, yes. But nothing in the video requires it."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Could one giant craft carry lights that move? As a hypothesis, yes. But nothing in the video requires it.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 7.344
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a quiet suburban street in Arizona after dark, a few faint amber points of light disappearing in the southern sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By nine, the V is gone to the south. File A now holds two stories: a giant craft, or a flight of aircraft. Time to test the second."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By nine, the V is gone to the south. File A now holds two stories: a giant craft, or a flight of aircraft. Time to test the second.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a large black Dobsonian telescope on a rotating base on a suburban patio in the desert at dusk, pointed up at the sky, warm porch light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "File A, test one: the telescope. In Scottsdale, amateur astronomer Mitch Stanley has set up a large Dobsonian telescope, for the comet."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "III \u00b7 FILE A",
+   "The Telescope",
+   "SQUARE WINGS \u00b7 A-10s \u00b7 NO RADAR"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "File A, test one: the telescope. In Scottsdale, amateur astronomer Mitch Stanley has set up a large Dobsonian telescope, for the comet.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of an eye looking into the eyepiece of a large telescope at night, red torch light, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He turns it on the V. And under magnification, each light splits into a pair. One on each tip of a squarish wing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He turns it on the V. And under magnification, each light splits into a pair. One on each tip of a squarish wing.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 7.848
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of a grey A-10 Thunderbolt II attack jet with two engines mounted high at the tail and straight rectangular wings, seen from below at dusk with two bright landing-style lights on the wing tips, high in a blue-black sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Squarish wings. Not swept, not triangular. He follows the planes for about a minute, then goes back to the comet. His words: they were planes. There was no way he could have mistaken that."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Squarish wings. Not swept, not triangular. He follows the planes for about a minute, then goes back to the comet. His words: they were planes. There was no way he could have mistaken that.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 12.288
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a flight of five a grey A-10 Thunderbolt II attack jet with two engines mounted high at the tail and straight rectangular wings in a V formation flying high at twilight, lights glowing on the aircraft, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test two: the corridor. Robert Sheaffer reconstructs the flight. Five A-10 Warthogs from the Operation Snowbird training programme had flown from Tucson to Nellis days earlier. It was the last night, so they were flying home."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test two: the corridor. Robert Sheaffer reconstructs the flight. Five A-10 Warthogs from the Operation Snowbird training programme had flown from Tucson to Nellis days earlier. It was the last night, so they were flying home.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 15.624
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of the cockpit view of a military jet at night, looking forward over the wing with small formation lights glowing on the aircraft ahead, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On that reconstruction, they flew by visual rules, in formation, wearing formation lights that look like landing lights. They crossed Phoenix, and landed at Davis-Monthan around eight forty-five."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On that reconstruction, they flew by visual rules, in formation, wearing formation lights that look like landing lights. They crossed Phoenix, and landed at Davis-Monthan around eight forty-five.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 13.2
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of a notebook with hand-drawn trigonometry triangles and sight lines on blank graph paper beside a calculator on a desk, lamp light, photoreal, only lines and angles, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Analyst Tim Printy modelled the lights at high altitude, around thirty-five to forty thousand feet, where jets cannot be heard. It is a model, not a measured track."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Analyst Tim Printy modelled the lights at high altitude, around thirty-five to forty thousand feet, where jets cannot be heard. It is a model, not a measured track.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Dim air traffic radar room with empty operator chairs and dark radar screens, no readable text, cold blue light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the weakness. That flight was never publicly identified. Luke Air Force Base radar operators saw nothing unusual, and nobody asked the FAA for its radar tapes within two weeks, when such records were routinely deleted."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the weakness. That flight was never publicly identified. Luke Air Force Base radar operators saw nothing unusual, and nobody asked the FAA for its radar tapes within two weeks, when such records were routinely deleted.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 15.864
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of an empty filing cabinet drawer left open in a dim archive room, warm lamp light, dust in the air, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So File A stays open. Aircraft in formation is the strongest explanation, with an eyewitness at the eyepiece. But the paperwork that would prove it is gone."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So File A stays open. Aircraft in formation is the strongest explanation, with an eyewitness at the eyepiece. But the paperwork that would prove it is gone.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 10.848
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Long exposure photograph of a curved row of seven bright orange-gold glowing lights hanging in the sky above a dark mountain ridge, long exposure look, soft glow, over a sprawling desert city at night with a grid of orange streetlights and distant dark mountains, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ten o'clock. A different sky, different lights. Over the southwest of Phoenix, a row of bright orange lights appears. About nine of them, in an arc."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV \u00b7 10:00 PM",
+   "The Row of Lights",
+   "HOVERING \u00b7 FILMED \u00b7 ESTRELLA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ten o'clock. A different sky, different lights. Over the southwest of Phoenix, a row of bright orange lights appears. About nine of them, in an arc.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of a large crowd on a flat rooftop car park in a desert city at night, people pointing at a row of orange lights above the southwestern horizon, seen from behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They do not move like the V. They hang. Some slowly sink. Thousands of people film them. This is the footage that was on the news, and on every poster."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They do not move like the V. They hang. Some slowly sink. Thousands of people film them. This is the footage that was on the news, and on every poster.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 10.176
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a woman holding a video camera on a home balcony at night in a desert suburb, filming a row of orange lights over a mountain ridge, seen from behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Doctor Lynne Kitei, a Phoenix physician, films them from her home. Others film from all over the valley. When the tapes air nationally that June, a media frenzy begins."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Doctor Lynne Kitei, a Phoenix physician, films them from her home. Others film from all over the valley. When the tapes air nationally that June, a media frenzy begins.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of an airport control tower cab at night with the dark silhouette of a controller looking out of the window toward the horizon, cold blue lights, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Sky Harbor air traffic controller Bill Grava sees them on the southern horizon. His first thought? Flares."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Sky Harbor air traffic controller Bill Grava sees them on the southern horizon. His first thought? Flares.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 7.536
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a map table with several video cameras on tripods placed at different positions around a valley all pointing to one distant mountain ridge, night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And notice this. From every camera, in every part of the valley, the lights sit in the southwest, over the same ridgeline."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And notice this. From every camera, in every part of the valley, the lights sit in the southwest, over the same ridgeline.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 7.656
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of a curved row of seven bright orange-gold glowing lights hanging in the sky above a dark mountain ridge, long exposure look, soft glow with the lowest lights sinking behind a dark jagged mountain ridge one by one, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A little after ten, they go out one by one. Not by flying away, but by dropping behind the Sierra Estrella mountains."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A little after ten, they go out one by one. Not by flying away, but by dropping behind the Sierra Estrella mountains.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 8.664
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide photograph of a dark mountain ridge against a night sky with a last faint orange glow behind it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A row of lights that sinks behind a ridge. Hold that thought. The official answer arrived four months late."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A row of lights that sinks behind a ridge. Hold that thought. The official answer arrived four months late.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 7.104
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a military press officer in uniform speaking at a plain wooden podium with microphones in a plain room, seen from the side, 1997 era, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "File B. The explanation comes on July twenty-fifth, nineteen ninety-seven. Captain Drew Sullins, of the Maryland Air National Guard, speaks."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "V \u00b7 FILE B",
+   "The Flares",
+   "MARYLAND GUARD \u00b7 15,000 FEET \u00b7 SNOWBIRD"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "File B. The explanation comes on July twenty-fifth, nineteen ninety-seven. Captain Drew Sullins, of the Maryland Air National Guard, speaks.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a grey A-10 Thunderbolt II attack jet with two engines mounted high at the tail and straight rectangular wings releasing a bright magnesium illumination flare on a small parachute at night over a desert training range, glowing white-orange, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eight of his unit's A-10s had trained that night over the Barry Goldwater range. They dropped high-intensity flares from fifteen thousand feet. The flares fall slowly on parachutes and light up a huge area."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eight of his unit's A-10s had trained that night over the Barry Goldwater range. They dropped high-intensity flares from fifteen thousand feet. The flares fall slowly on parachutes and light up a huge area.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 14.136
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of many glowing orange flares on parachutes drifting down in a staggered row over a dark desert, long exposure, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Before flying home, he says, the pilots dumped all their remaining flares at high altitude. One pilot called the result one hell of a light show."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Before flying home, he says, the pilots dumped all their remaining flares at high altitude. One pilot called the result one hell of a light show.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Aerial night photograph of the Arizona desert training range southwest of a glowing city, a bright cluster of orange flares in the sky above it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "An Arizona National Guard officer, Captain Eileen Bienz, had already put the drop at ten p.m., over the range southwest of Phoenix. Same hour. Same direction as the lights."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "An Arizona National Guard officer, Captain Eileen Bienz, had already put the drop at ten p.m., over the range southwest of Phoenix. Same hour. Same direction as the lights.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a television news crew with a camera on a tripod filming a military plane dropping flares at night in the desert, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then television tested it. Channel Twelve filmed military planes dropping flares, and the result looked, in reporter Tony Ortega's words, remarkably like the ten o'clock lights."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then television tested it. Channel Twelve filmed military planes dropping flares, and the result looked, in reporter Tony Ortega's words, remarkably like the ten o'clock lights.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.36
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up photograph of a burning orange illumination flare hanging under a small parachute against a dark sky with rising heat shimmer, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the hovering? A flare falls slowly under its parachute, and the heat rising from it holds the parachute up like a balloon. The ridge then hides it. That is the sinking."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the hovering? A flare falls slowly under its parachute, and the heat rising from it holds the parachute up like a balloon. The ridge then hides it. That is the sinking.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of a city councilwoman in a blazer at a desk in a 1990s American city council office, folders and a telephone, serious expression, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why four months? Sullins blamed a miscommunication, saying Davis-Monthan checked its resident aircraft logs, not the visiting ones. Phoenix councilwoman Frances Barwood called the answer too convenient, and asked for a re-enactment."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why four months? Sullins blamed a miscommunication, saying Davis-Monthan checked its resident aircraft logs, not the visiting ones. Phoenix councilwoman Frances Barwood called the answer too convenient, and asked for a re-enactment.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 16.056
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a quiet desert night with a mountain ridge and a faint orange glow above it, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Doubts remain. Optical physicist Bruce Maccabee triangulated two videos and put the lights some seventy to eighty miles away. Doctor Kitei says her footage cannot be flares. Skeptics are unconvinced. Still, File B is as close to closed as a UFO case gets."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Doubts remain. Optical physicist Bruce Maccabee triangulated two videos and put the lights some seventy to eighty miles away. Doctor Kitei says her footage cannot be flares. Skeptics are unconvinced. Still, File B is as close to closed as a UFO case gets.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 19.104
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a government building in Phoenix, Arizona, with a flag, bright daylight, wide shot, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "June, nineteen ninety-seven. The tapes are on national television, and Arizona's governor, Fife Symington, is under pressure. He is a pilot and a former Air Force officer."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VI \u00b7 JUNE 1997",
+   "The Governor's Joke",
+   "PRESS CONFERENCE \u00b7 HANDCUFFS \u00b7 MASK"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "June, nineteen ninety-seven. The tapes are on national television, and Arizona's governor, Fife Symington, is under pressure. He is a pilot and a former Air Force officer.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 12.504
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a politician in a dark suit seen from behind standing at a podium with microphones in front of a room of reporters, 1990s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On June nineteenth he announces a state investigation. Then, the same day, he calls a press conference to say they have found the culprit."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On June nineteenth he announces a state investigation. Then, the same day, he calls a press conference to say they have found the culprit.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 9.048
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of a very tall person in a rubber alien mask and a suit being led in handcuffs by two officers into a press conference room, reporters laughing, 1990s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A tall creature in a mask is led in, in handcuffs, before the cameras. Then it is unmasked. It is the governor's chief of staff, Jay Heiler. The room laughs. For a while, the story goes quiet."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A tall creature in a mask is led in, in handcuffs, before the cameras. Then it is unmasked. It is the governor's chief of staff, Jay Heiler. The room laughs. For a while, the story goes quiet.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up photograph of a stack of legal documents and a pen on a polished desk in a dim office, tense mood, photoreal, papers are blank, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why do it? Symington later said he wanted to lighten the mood and break the momentum of hysteria. At the time, he also faced federal fraud charges, and did not need more trouble."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why do it? Symington later said he wanted to lighten the mood and break the momentum of hysteria. At the time, he also faced federal fraud charges, and did not need more trouble.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a man in a suit sitting alone at a desk in a dim office at night looking out of a window, thoughtful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The joke had a cost. For ten years it hung over every witness who said they had seen something real."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The joke had a cost. For ten years it hung over every witness who said they had seen something real.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 6.384
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of an old paper letter with an official stamp lying on a desk in a government office, only abstract lines of text shapes, no readable words, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Meanwhile, a May nineteen ninety-seven reply from Luke Air Force Base to a Freedom of Information request says it had no records, was not an air-defense base, and had no involvement with the lights."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Meanwhile, a May nineteen ninety-seven reply from Luke Air Force Base to a Freedom of Information request says it had no records, was not an air-defense base, and had no involvement with the lights.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a dark empty press room with rows of chairs and a lone podium lit by a single lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That fits both stories. No involvement from Luke fits a flight of Guard jets passing through from Tucson. And it fits a cover-up, to anyone who wants one."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That fits both stories. No involvement from Luke fits a flight of Guard jets passing through from Tucson. And it fits a cover-up, to anyone who wants one.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 10.488
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of a man in his sixties in a suit sitting for a television interview in a quiet park at dusk, warm light, serious expression, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "March, two thousand and seven. Ten years on, Symington says he saw it himself. He tells a news network, and later writes it in his own words."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VII \u00b7 2007",
+   "The Turn",
+   "SYMINGTON \u00b7 THE FILM \u00b7 THE GAP"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "March, two thousand and seven. Ten years on, Symington says he saw it himself. He tells a news network, and later writes it in his own words.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photograph of a massive delta-shaped dark craft with enormous white lights along its leading edge gliding silently over a mountain in a desert city at night, concept image of the governor's description, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A massive delta-shaped craft, he says, gliding silently over a Phoenix mountain. A solid structure, with enormous lights along its leading edge."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A massive delta-shaped craft, he says, gliding silently over a Phoenix mountain. A solid structure, with enormous lights along its leading edge.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 10.176
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a man's hands holding an old pilot's logbook and aviation sunglasses on a desk, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He says he knows every machine that flies. It did not resemble anything man-made he had seen. And it was not flares, he says, because flares do not fly in formation."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He says he knows every machine that flies. It did not resemble anything man-made he had seen. And it was not flares, he says, because flares do not fly in formation.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of an empty witness chair under a spotlight in a dark room, dramatic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Take his word seriously. He was there, and he is a pilot. But it is retrospective testimony, given a decade later, with no instrument record attached. And flares explain only one of the two events."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Take his word seriously. He was there, and he is a pilot. But it is retrospective testimony, given a decade later, with no instrument record attached. And flares explain only one of the two events.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of a cinema screen in a dark theatre showing a dim shaky night scene in the desert with alien silhouettes, audience silhouettes in front, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Meanwhile the legend grows. A fictional thriller, The Phoenix Incident, premiered at a UFO conference in twenty sixteen, mixing real footage with alien monsters and a military cover-up."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Meanwhile the legend grows. A fictional thriller, The Phoenix Incident, premiered at a UFO conference in twenty sixteen, mixing real footage with alien monsters and a military cover-up.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 13.272
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a UFO conference hall at night with a crowd of people in chairs and a large screen, seen from the back, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Skeptic Robert Sheaffer reports that while the audience watched, the Guard was dropping flares over the same range again. Nobody in the room noticed."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Skeptic Robert Sheaffer reports that while the audience watched, the Guard was dropping flares over the same range again. Nobody in the room noticed.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a newspaper front page lying on a table, with a large blurry photo of lights in the sky and only abstract grey blocks for the text, no readable words, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So how did two events become one? The V had no explanation for months. The row had a good one, but it came late. Anyone who saw the V and then heard about flares could feel lied to."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So how did two events become one? The V had no explanation for months. The row had a good one, but it came late. Anyone who saw the V and then heard about flares could feel lied to.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photograph of a lone person standing in the desert at night looking up at a sky full of stars and one faint amber light, seen from behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the real engine of this legend. Not a spaceship. A gap, between what thousands saw, and what officials took months to say, and never fully documented for the first event."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the real engine of this legend. Not a spaceship. A gap, between what thousands saw, and what officials took months to say, and never fully documented for the first event.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night sky over a quiet desert valley with a single faint amber glow far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the Phoenix Lights."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the Phoenix Lights.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.544
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night sky over a quiet desert valley with a single faint amber glow far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two separate events that night: evidence. The ten o'clock row was flares, confirmed by the Guard: evidence. The V was separate lights moving together, on the one video: evidence. A formation of high-altitude aircraft: likely, with a witness at a telescope, but unproven."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two separate events that night: evidence. The ten o'clock row was flares, confirmed by the Guard: evidence. The V was separate lights moving together, on the one video: evidence. A formation of high-altitude aircraft: likely, with a witness at a telescope, but unproven.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 18.048
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night sky over a quiet desert valley with a single faint amber glow far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The flight's records and radar: never obtained. One craft a mile wide: no supporting evidence. Alien spacecraft: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The flight's records and radar: never obtained. One craft a mile wide: no supporting evidence. Alien spacecraft: no evidence.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 9.504
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a calm dark desert valley at night with a faint row of orange lights low over a distant ridge and a few stars above, serene, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Two events, not one. The ten o'clock lights were flares. The V was most likely a formation of aircraft, and the paperwork that would prove it is lost. The Phoenix Lights are not a spaceship. They are a lesson in how a mystery is made."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Two events, not one. The ten o'clock lights were flares. The V was most likely a formation of aircraft, and the paperwork that would prove it is lost. The Phoenix Lights are not a spaceship. They are a lesson in how a mystery is made.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 16.2
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a family standing together on a suburban lawn at twilight looking up at the sky, warm light from their house windows, seen from behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On a warm night in March, thousands of people looked up at the same sky. They really did see something. They just were not all looking at the same thing."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On a warm night in March, thousands of people looked up at the same sky. They really did see something. They just were not all looking at the same thing.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 9.624
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of a tall dark ancient iron pillar standing alone in a sunlit stone courtyard in Delhi, India, blue sky, ancient ruins around it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a pillar of iron, sixteen hundred years old, standing in the open in Delhi, with almost no rust. A lost super-metal?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a pillar of iron, sixteen hundred years old, standing in the open in Delhi, with almost no rust. A lost super-metal?",
+    "file": "ep/audio/s65.mp3",
+    "dur": 8.64
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small V shape of five faintly glowing amber lights in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think the V was? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think the V was? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 6.912
+   }
+  ]
+ }
+]
