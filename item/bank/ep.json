@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photograph of a rectangular carved limestone slab relief showing a Maya king reclining beneath a cross-shaped tree with a large bird perched on top, framed at the bottom by open skeletal serpent jaws, intricate border of abstract carved patterns, lit by a single warm lamp in a dark stone chamber, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mexico, the year six eighty-three. A king is lowered into the heart of a pyramid, and a great stone slab is carved to cover him. Thirteen centuries later, a book says that slab shows a man piloting a rocket."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mexico, the year six eighty-three. A king is lowered into the heart of a pyramid, and a great stone slab is carved to cover him. Thirteen centuries later, a book says that slab shows a man piloting a rocket.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a modern living room wall with a poster-sized print of a carved stone relief of a reclining figure turned on its side, beside a bookshelf, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The picture is everywhere. Documentaries, T-shirts, a million posts. A man leaning back, hands forward, flames behind him. It really does look like a cockpit. Until you turn it around."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The picture is everywhere. Documentaries, T-shirts, a million posts. A man leaning back, hands forward, flames behind him. It really does look like a cockpit. Until you turn it around.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 12.624
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photograph looking down a narrow stone stairway with a lamp at the bottom casting a warm glow on damp walls, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we go down the same hidden stair the archaeologist took. Seven levels, to the tomb itself. And at every level, we test the astronaut against the evidence."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we go down the same hidden stair the archaeologist took. Seven levels, to the tomb itself. And at every level, we test the astronaut against the evidence.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a carved stone Maya king relief half in shadow in a dark chamber, one raised hand lit by lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Is that a pilot at the controls? Or a king at the foot of the world tree? And is there anything in this tomb that is truly unexplained? There is one thing. It is not what you think."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Is that a pilot at the controls? Or a king at the foot of the world tree? And is there anything in this tomb that is truly unexplained? There is one thing. It is not what you think.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 11.928
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "Wide photograph of the Temple of the Inscriptions at Palenque, a steep stepped Maya limestone pyramid with a small temple on top, surrounded by dense green rainforest in Chiapas, Mexico, at dawn with mist in the trees, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The descent starts at the very top, with a book."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The descent starts at the very top, with a book.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 2.736
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a worn paperback book from the nineteen seventies lying on a wooden desk beside a lamp, the cover is an abstract blank colour block, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nineteen sixty-eight. A Swiss hotel manager, Erich von Daniken, publishes a book. In English it becomes Chariots of the Gods. By nineteen eighty-seven it has sold seven million copies."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "LEVEL 1",
+   "The Page",
+   "CHARIOTS \u00b7 1968 \u00b7 THE CAPTION"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nineteen sixty-eight. A Swiss hotel manager, Erich von Daniken, publishes a book. In English it becomes Chariots of the Gods. By nineteen eighty-seven it has sold seven million copies.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a large library shelf full of books about archaeology, a single bestseller paperback standing out in front, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Archaeologists noted, with some despair, that he had sold more books about archaeology than any archaeologist who ever lived."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Archaeologists noted, with some despair, that he had sold more books about archaeology than any archaeologist who ever lived.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 8.544
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up photograph of a pencil line drawing of a carved Maya relief of a reclining king under a cross-shaped tree, printed in a book that lies open on a desk and is turned on its side, photoreal, drawing only, no words, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In it, a drawing from Palenque. He compares the reclining king to an American Mercury astronaut, reads the tree as a rocket, and the jaws at the bottom as exhaust flames."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In it, a drawing from Palenque. He compares the reclining king to an American Mercury astronaut, reads the tree as a rocket, and the jaws at the bottom as exhaust flames.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a person turning a book ninety degrees on a table to look at a drawing, close-up of hands, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the drawing is printed turned on its side. Turned that way, it does look like a man in a seat. Hold on to that detail. We will come back to it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the drawing is printed turned on its side. Turned that way, it does look like a man in a seat. Hold on to that detail. We will come back to it.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 9.744
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of a vintage map of Central America spread on a desk with a magnifying glass over the region of Honduras and southern Mexico, no readable words, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the caption slips. It says the relief is from Copan, in Honduras. The text gets Palenque right. A small error, but it tells you how closely the page was checked."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the caption slips. It says the relief is from Copan, in Honduras. The text gets Palenque right. A small error, but it tells you how closely the page was checked.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 11.928
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of two old yellowed magazine pages from the nineteen sixties lying side by side on a desk, abstract grey bars instead of words, a small blurry picture on one, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the idea was not even new. Researchers at Bad Archaeology trace the description to an earlier article by two French writers, Guy Tarade and A. Millou."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the idea was not even new. Researchers at Bad Archaeology trace the description to an earlier article by two French writers, Guy Tarade and A. Millou.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a Maya pyramid jungle ruin at dusk, the rainforest canopy around it, a thin trail of mist, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The claim, then, is an ancient astronaut, worshipped by the Maya, and buried under his own portrait. Easy to say. To test it, we need the real object, and the real object was hidden for twelve hundred years."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The claim, then, is an ancient astronaut, worshipped by the Maya, and buried under his own portrait. Easy to say. To test it, we need the real object, and the real object was hidden for twelve hundred years.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 14.04
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide photograph of the Temple of the Inscriptions at Palenque, a steep stepped Maya limestone pyramid with a small temple on top, surrounded by dense green rainforest in Chiapas, Mexico, bright morning light, tourists absent, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Palenque, in the rainforest of Chiapas. The Temple of the Inscriptions. For a century and more it looked like what it appears to be, a pyramid with a temple on top, and nothing more."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "LEVEL 2",
+   "The Hidden Stair",
+   "RUZ \u00b7 THE PLUGS \u00b7 THE RUBBLE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Palenque, in the rainforest of Chiapas. The Temple of the Inscriptions. For a century and more it looked like what it appears to be, a pyramid with a temple on top, and nothing more.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a 1950s archaeologist in khaki clothes with a headlamp kneeling on the stone floor of a small Maya temple room, examining one floor slab with two round holes filled with stone plugs, lamp light, black and white film look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the late nineteen forties, the Mexican archaeologist Alberto Ruz Lhuillier notices something odd in the temple floor. One slab has holes in it, and the holes are filled with stone plugs."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the late nineteen forties, the Mexican archaeologist Alberto Ruz Lhuillier notices something odd in the temple floor. One slab has holes in it, and the holes are filled with stone plugs.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of several workers in 1950s clothes lifting a heavy floor slab with iron bars in a small stone temple room, revealing a dark opening beneath, dust in the air, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Floors do not have handles. He lifts the slab. Beneath it, a stairway, packed solid with rubble, leading down into the pyramid."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Floors do not have handles. He lifts the slab. Beneath it, a stairway, packed solid with rubble, leading down into the pyramid.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of workers in 1950s clothes passing baskets of rubble up a narrow steep stone stairway with a corbelled vault descending into darkness inside a Maya pyramid, damp limestone walls, sweat, work lamps, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It takes four seasons to empty. Hot, damp, narrow, in the dark. Basket by basket, the stair goes down through the body of the pyramid, below the level of the plaza outside."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It takes four seasons to empty. Hot, damp, narrow, in the dark. Basket by basket, the stair goes down through the body of the pyramid, below the level of the plaza outside.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph looking down a narrow steep stone stairway with a corbelled vault descending into darkness inside a Maya pyramid, damp limestone walls, at the bottom a small group of old yellow human bones laid in a stone box, work lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the bottom, in the rubble, the remains of sacrificed attendants. And behind them, a triangular stone slab, sealing a wall."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the bottom, in the rubble, the remains of sacrificed attendants. And behind them, a triangular stone slab, sealing a wall.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 8.592
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of a 1950s archaeologist in khaki clothes with a headlamp standing in front of a large triangular stone slab leaning in a dark stone passage, work lamp, tense moment, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "June fifteenth, nineteen fifty-two. The slab is moved. Ruz steps into a vault that no human being had entered for twelve centuries."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "June fifteenth, nineteen fifty-two. The slab is moved. Ruz steps into a vault that no human being had entered for twelve centuries.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.528
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Photograph of a damp Maya burial chamber with a high corbelled vault and stucco relief figures on the walls, lit by a single work lamp, with white stucco figures of standing people on the walls, empty centre, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The walls are lined with stucco figures, nine of them, standing guard. And in the middle of the room, a vast carved stone."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The walls are lined with stucco figures, nine of them, standing guard. And in the middle of the room, a vast carved stone.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 8.112
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photograph of a monolithic limestone sarcophagus in the middle of a Maya burial chamber, covered by a single huge carved slab, work lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the centre, a monolithic sarcophagus. Over it, a single slab of limestone, about three and a half metres long, carved on its top and on its sides."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LEVEL 3",
+   "The Vault",
+   "THE SLAB \u00b7 THE JADE \u00b7 THE TUBE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the centre, a monolithic sarcophagus. Over it, a single slab of limestone, about three and a half metres long, carved on its top and on its sides.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 10.728
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a dark narrow stone stairway with a very wide heavy stone slab shown in the foreground, scale impression, tiny human figure near it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The slab is far too big to have come down the stairs. The tomb was sealed first, and the pyramid was built over it. This was made to stay shut for ever."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The slab is far too big to have come down the stairs. The tomb was sealed first, and the pyramid was built over it. This was made to stay shut for ever.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 9.864
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of workers with logs and mechanical car jacks raising one corner of a huge stone slab in a cramped stone chamber, work lamps, 1950s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ruz waits for months. Then, in November, his team raises the five-ton slab a few centimetres at a time, with logs and jacks under the four corners."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ruz waits for months. Then, in November, his team raises the five-ton slab a few centimetres at a time, with logs and jacks under the four corners.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 10.848
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of the inside of an open stone sarcophagus with red pigment on the stone and a skeleton lightly covered with green jade beads, warm lamp light, photoreal, archaeological documentation, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Underneath, a second smaller lid, held by stone plugs. And under that, the king, stained red with cinnabar, wearing a mask and strings of jade."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Underneath, a second smaller lid, held by stone plugs. And under that, the king, stained red with cinnabar, wearing a mask and strings of jade.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a funerary mask made of hundreds of small green jade pieces with eyes of shell and black stone, displayed in a museum case with dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The mask alone is built from hundreds of pieces of jade, with eyes of shell and obsidian. To the Maya, jade meant breath, life, and royalty."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The mask alone is built from hundreds of pieces of jade, with eyes of shell and obsidian. To the Maya, jade meant breath, life, and royalty.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 10.536
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a hollow stone tube running alongside a narrow stairway inside a Maya pyramid, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "From the sarcophagus, a hollow stone tube rises along the stair to the temple floor. Archaeologists call it a psychoduct. The likely purpose: to keep the dead king in contact with the world above."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "From the sarcophagus, a hollow stone tube rises along the stair to the temple floor. Archaeologists call it a psychoduct. The likely purpose: to keep the dead king in contact with the world above.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 14.16
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of a stone sarcophagus chamber seen from the doorway, a cross-section impression with a stair rising away, mood lighting, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look at what this means. A stair going down, a tube coming up, a lid carved with a road. If this is a machine, it is a machine for crossing between worlds."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look at what this means. A stair going down, a tube coming up, a lid carved with a road. If this is a machine, it is a machine for crossing between worlds.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 10.872
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Photograph of clear water running through a narrow ancient stone channel underground, torch light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And in two thousand sixteen, archaeologists found a water tunnel running under the temple. The tomb sits over a spring. Keep that in mind. Now, we read the lid."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And in two thousand sixteen, archaeologists found a water tunnel running under the temple. The tomb sits over a spring. Keep that in mind. Now, we read the lid.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a rectangular carved limestone slab relief showing a Maya king reclining beneath a cross-shaped tree with a large bird perched on top, framed at the bottom by open skeletal serpent jaws, intricate border of abstract carved patterns, lit from the side by a raking lamp so every line of the carving shows, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The method is simple. We read it the way the Maya carved it, with the king at the foot of the picture, falling toward us. And we start at the top."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LEVEL 4",
+   "Reading the Lid",
+   "TREE \u00b7 BIRD \u00b7 JAWS \u00b7 BORDER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The method is simple. We read it the way the Maya carved it, with the king at the foot of the picture, falling toward us. And we start at the top.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up photograph of a carved limestone relief of a large bird with a curved beak perched at the top of a cross-shaped tree, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the top, a great bird, perched on the highest branch. The celestial bird, the Maya sign of the heavens. In the astronaut reading, this is part of a control panel."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the top, a great bird, perched on the highest branch. The celestial bird, the Maya sign of the heavens. In the astronaut reading, this is part of a control panel.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 10.824
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photograph of a giant tree with roots in dark water and branches reaching a night sky full of stars, mythic composition, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Below it, the tree. A cross-shaped world tree, the axis of the Maya universe. Roots in the underworld, trunk in the human world, branches in the sky."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Below it, the tree. A cross-shaped world tree, the axis of the Maya universe. Roots in the underworld, trunk in the human world, branches in the sky.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a carved limestone wall panel of a Maya temple showing a cross-shaped tree with a bird on top, a ruler standing at each side, jungle light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The same tree, with the same bird, stands on the big wall panels of the Temple of the Cross and the Temple of the Foliated Cross, in the same city. Nobody calls those rockets."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The same tree, with the same bird, stands on the big wall panels of the Temple of the Cross and the Temple of the Foliated Cross, in the same city. Nobody calls those rockets.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up photograph of a carved limestone relief of a reclining Maya king with a turtle ornament on his chest and a headdress shaped like a maize plant, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the middle, the king. He reclines, his body bent, dressed as the Maize God, with a turtle ornament on his chest. The Maize God dies, and is born again. So does the crop. So does the king."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the middle, the king. He reclines, his body bent, dressed as the Maize God, with a turtle ornament on his chest. The Maize God dies, and is born again. So does the crop. So does the king.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up photograph of a carved limestone relief of a skeletal monster head with a bony jaw, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Beneath him, the head of a skeletal creature. In one reading, the Sun Monster. Pakal rests on it, halfway between the underworld and the living world, at the moment of sunset."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Beneath him, the head of a skeletal creature. In one reading, the Sun Monster. Pakal rests on it, halfway between the underworld and the living world, at the moment of sunset.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up photograph of a carved limestone relief of the wide open jaws of a stone serpent with teeth, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And around him, open jaws. The jaws of the earth, the doorway into Xibalba, the Maya underworld. The astronaut reading calls those jaws exhaust flames."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And around him, open jaws. The jaws of the earth, the doorway into Xibalba, the Maya underworld. The astronaut reading calls those jaws exhaust flames.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of the carved border of a limestone slab with rows of small abstract symbols and tiny carved portrait heads, lamp light, macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The border is a band of cosmic signs: sun, moon, star. Along it, the heads of six named noblemen. A sky, seen from above, with witnesses. Not a dashboard."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The border is a band of cosmic signs: sun, moon, star. Along it, the heads of six named noblemen. A sky, seen from above, with witnesses. Not a dashboard.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of the side of a carved limestone sarcophagus with rows of carved standing figures emerging from the ground, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The sides of the sarcophagus show Pakal's ancestors, emerging from the earth. A family tree, quite literally. This is not the portrait of a visitor. It is the portrait of a dynasty."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The sides of the sarcophagus show Pakal's ancestors, emerging from the earth. A family tree, quite literally. This is not the portrait of a visitor. It is the portrait of a dynasty.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "Cinematic photograph of the Milky Way arching over a dark rainforest horizon, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scholars still argue about the posture. Linda Schele saw Pakal falling down the Milky Way into the southern horizon. Others see him rising, reborn, up the tree. Falling or rising, the story is the same: death, then return."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scholars still argue about the posture. Linda Schele saw Pakal falling down the Milky Way into the southern horizon. Others see him rising, reborn, up the tree. Falling or rising, the story is the same: death, then return.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 16.416
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a small plaster model of a carved relief slab on a laboratory table being rotated by two hands, bright clean light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The experiment. We take the astronaut claim seriously, and check every part of it. Part one: orientation. The slab lay flat over the king's body. The carving is meant to be read with Pakal falling toward the bottom of the picture. To get a seat, you must turn it ninety degrees."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "LEVEL 5",
+   "The Rotation Test",
+   "TURN IT \u00b7 SEAT \u00b7 FLAMES \u00b7 MASK"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The experiment. We take the astronaut claim seriously, and check every part of it. Part one: orientation. The slab lay flat over the king's body. The carving is meant to be read with Pakal falling toward the bottom of the picture. To get a seat, you must turn it ninety degrees.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 18.48
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of the inside cockpit of a 1960s spacecraft capsule with dials and switches and a seat, museum display, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Part two: the controls. In a real capsule, every dial does a job. The astronaut reading gives the tree, the bird, and the monster head the job of dials and levers. It never explains how a stone relief controls anything."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Part two: the controls. In a real capsule, every dial does a job. The astronaut reading gives the tree, the bird, and the monster head the job of dials and levers. It never explains how a stone relief controls anything.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 15.72
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of a rocket engine firing at night with a bright orange plume, long exposure, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Part three: the flames. A rocket's exhaust is a plume of fire. The jaws at the bottom of the lid have teeth, a lower jaw, and a standard shape used again and again in Maya art for the entrance to the other world."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Part three: the flames. A rocket's exhaust is a plume of fire. The jaws at the bottom of the lid have teeth, a lower jaw, and a standard shape used again and again in Maya art for the entrance to the other world.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 14.352
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up photograph of a small polished green jade bead lying in the open palm of an old weathered hand, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Part four: the mask. One version of the claim reads a breathing apparatus. Maya burials place a jade bead in the mouth of the dead. Jade meant breath. The tomb contained the jade."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Part four: the mask. One version of the claim reads a breathing apparatus. Maya burials place a jade bead in the mouth of the dead. Jade meant breath. The tomb contained the jade.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a stone slab edge with rows of carved Maya hieroglyph-like blocks, abstract carved patterns, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Part five: names. The texts carved on the sarcophagus record who he was, when he was born, when he came to the throne, and when he died. The alien has a Maya name, a Maya mother, and a Maya funeral."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Part five: names. The texts carved on the sarcophagus record who he was, when he was born, when he came to the throne, and when he died. The alien has a Maya name, a Maya mother, and a Maya funeral.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a laid-out collection of excavated objects on a table: a jade mask, jade beads, shell pieces and red pigment powder in a dish, museum lighting, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Part six: the rest of the grave. If he came from the stars, we would expect something from the stars. We find cinnabar, jade, shell, obsidian, and nine stucco guardians. Classic Maya royal burial, piece by piece."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Part six: the rest of the grave. If he came from the stars, we would expect something from the stars. We find cinnabar, jade, shell, obsidian, and nine stucco guardians. Classic Maya royal burial, piece by piece.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 15.264
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a balance scale on a dark table, one side holding a single small stone, the other empty, dramatic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The result. The rotated image needs a new seat, new controls, new flames, and a new passenger. The unrotated image needs nothing new. Penn Museum's Stephen Epstein recommends the tool: never postulate complexity unless it is necessary."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The result. The rotated image needs a new seat, new controls, new flames, and a new passenger. The unrotated image needs nothing new. Penn Museum's Stephen Epstein recommends the tool: never postulate complexity unless it is necessary.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 16.848
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a skeleton laid on a table in an old museum anthropology lab, 1950s style, lamp light, photoreal, respectful, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But there is a real mystery in this tomb, and it has nothing to do with aliens. The bones did not seem to match the king."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "LEVEL 6",
+   "The Age Problem",
+   "TEETH \u00b7 TEXTS \u00b7 TWO PAKALS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But there is a real mystery in this tomb, and it has nothing to do with aliens. The bones did not seem to match the king.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 7.752
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of two scientists in 1950s lab coats measuring a skull with calipers on a table, black and white film look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The inscriptions say Pakal died at eighty, after sixty-eight years on the throne. Ruz's anthropologists examined the bones at the site and judged the man to be between forty and fifty."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The inscriptions say Pakal died at eighty, after sixty-eight years on the throne. Ruz's anthropologists examined the bones at the site and judged the man to be between forty and fifty.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of an archaeologist at a desk with open notebooks and two identical tall candles burning, thoughtful mood, 1950s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ruz took it seriously. He suggested the texts might describe two men with the same name, or count time in a different way."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ruz took it seriously. He suggested the texts might describe two men with the same name, or count time in a different way.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 8.424
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of two experts in discussion around a table covered with drawings of carved glyph blocks, intense debate, 1970s style, photoreal, drawings contain only abstract shapes, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The epigraphers disagreed. Linda Schele and Peter Mathews, reading the birth and death glyphs, said the dates were clear. A man of eighty. Everything we know of the Maya calendar backs them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The epigraphers disagreed. Linda Schele and Peter Mathews, reading the birth and death glyphs, said the dates were clear. A man of eighty. Everything we know of the Maya calendar backs them.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up photograph of old human teeth in a jaw on a laboratory tray with a ruler, clinical light, photoreal, respectful, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later analysis settled it. The man in the tomb could not have lived fewer than fifty years, and most likely died in his eighth or ninth decade. The problem was the teeth. They showed little wear."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later analysis settled it. The man in the tomb could not have lived fewer than fifty years, and most likely died in his eighth or ninth decade. The problem was the teeth. They showed little wear.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a feast table with soft bread, fruit and tender food on ceramic plates in a royal Maya palace setting, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The probable reason: a king eats soft food. Without the gritty diet of the commoners, the teeth wear slowly. His heavy tartar fits that diet too."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The probable reason: a king eats soft food. Without the gritty diet of the commoners, the teeth wear slowly. His heavy tartar fits that diet too.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 10.392
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a quiet stone corridor lit by a single warm lamp, calm mood, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real scientific dispute, solved with evidence. That is how a real mystery behaves. It gets smaller when you look closer. The astronaut only gets bigger."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real scientific dispute, solved with evidence. That is how a real mystery behaves. It gets smaller when you look closer. The astronaut only gets bigger.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a wide open sky with a puffy white cloud shaped roughly like a running dog above a green field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So why does the astronaut survive? Stephen Epstein, in Penn Museum's Expedition magazine, named it the looks-like-a-spaceman-to-me argument."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LEVEL 7",
+   "The Cloud",
+   "RORSCHACH \u00b7 OCCAM \u00b7 SEVEN MILLION"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So why does the astronaut survive? Stephen Epstein, in Penn Museum's Expedition magazine, named it the looks-like-a-spaceman-to-me argument.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a small child pointing up at clouds in a summer sky, seen from behind, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His example: a child says, that cloud looks like a doggie. Has the child told you anything about clouds? About dogs? Or only about himself?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His example: a child says, that cloud looks like a doggie. Has the child told you anything about clouds? About dogs? Or only about himself?",
+    "file": "ep/audio/s53.mp3",
+    "dur": 10.32
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of a Maya stone relief in a museum gallery with a visitor in modern clothes standing in front of it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The lid looks like a pilot to us because our century has pilots. Nobody in Palenque in the year six eighty-three had seen a cockpit. They had seen kings, trees, birds, and the sunset."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The lid looks like a pilot to us because our century has pilots. Nobody in Palenque in the year six eighty-three had seen a cockpit. They had seen kings, trees, birds, and the sunset.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 12.768
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a Maya man and woman descendants in traditional clothing standing in front of an ancient stone ruin in the jungle, warm light, respectful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Epstein names the deeper cost. In this story the ancient builders could not make their own art. It had to fall from the sky. In this view, he writes, the people who went before us were not fully human."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Epstein names the deeper cost. In this story the ancient builders could not make their own art. It had to fall from the sky. In this view, he writes, the people who went before us were not fully human.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a scholar's desk with notebooks, brushes and a printed photograph of a carved stone slab with hieroglyph blocks, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And Maya writing is now largely deciphered. The sarcophagus texts record his accession, his death, and his ancestors. In Maya, on the same stone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And Maya writing is now largely deciphered. The sarcophagus texts record his accession, his death, and his ancestors. In Maya, on the same stone.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 10.944
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a laptop on a table showing a blurry social media post with a sideways picture of a stone carving, no readable text, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today the legend lives on. Still on documentaries, mugs and memes. Often with the picture turned sideways, exactly as in nineteen sixty-eight."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today the legend lives on. Still on documentaries, mugs and memes. Often with the picture turned sideways, exactly as in nineteen sixty-eight.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of a Maya stone relief of a king under a tree at sunrise, golden light rising over the carved face, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A debunked reading does not make the lid boring. It shows a king turning his own death into a story about the sun, the maize, the Milky Way, and the return of life. Of the two stories, the Maya one is the stranger."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A debunked reading does not make the lid boring. It shows a king turning his own death into a story about the sun, the maize, the Milky Way, and the return of life. Of the two stories, the Maya one is the stranger.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 14.664
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph looking up a long narrow stone stairway toward a bright rectangle of daylight at the top, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to count the evidence. Back up the stair, to the surface, and into the debrief."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to count the evidence. Back up the stair, to the surface, and into the debrief.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 5.064
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark carved stone wall of a Maya burial chamber with a faint warm lamp glow at the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the lid of Pakal."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the lid of Pakal.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.664
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark carved stone wall of a Maya burial chamber with a faint warm lamp glow at the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A Maya king, named in the texts, buried with Maya kingship goods: evidence. The world tree, the bird, the jaws, the Maize God dress, all repeated elsewhere in Palenque: evidence. The astronaut reading needs the picture turned ninety degrees: that is its own admission."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A Maya king, named in the texts, buried with Maya kingship goods: evidence. The world tree, the bird, the jaws, the Maize God dress, all repeated elsewhere in Palenque: evidence. The astronaut reading needs the picture turned ninety degrees: that is its own admission.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 18.72
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark carved stone wall of a Maya burial chamber with a faint warm lamp glow at the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pakal falling or rising: still debated, both inside Maya belief. The age mismatch: solved. A rocket, a seat, a pilot: no evidence. Alien visitor: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pakal falling or rising: still debated, both inside Maya belief. The age mismatch: solved. A rocket, a seat, a pilot: no evidence. Alien visitor: no evidence.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a quiet dark burial chamber with a carved slab in the middle and a single warm lamp glow, serene, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Not an astronaut. A king at the foot of the world tree, falling and rising through the underworld. The real wonder is a hidden stair, a sealed vault, and a stone slab that tells the whole story, if you turn it the right way up."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Not an astronaut. A king at the foot of the world tree, falling and rising through the underworld. The real wonder is a hidden stair, a sealed vault, and a stone slab that tells the whole story, if you turn it the right way up.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 15.48
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of the Temple of the Inscriptions at Palenque, a steep stepped Maya limestone pyramid with a small temple on top, surrounded by dense green rainforest in Chiapas, Mexico, the setting sun lighting the temple stone gold, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Thirteen centuries ago, a family carved a goodbye to a king they loved. The stranger in the story was never an alien. It was us, looking at the wrong end of the picture."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Thirteen centuries ago, a family carved a goodbye to a king they loved. The stranger in the story was never an alien. It was us, looking at the wrong end of the picture.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of a huge ancient Saharan rock-art painting of a giant white human-like figure with a rounded head on a sandstone cliff wall, warm desert light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a towering painted figure on a Saharan cliff, with a round head and no face. Rock art, or a visitor? The Great Martian God of Tassili."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a towering painted figure on a Saharan cliff, with a round head and no face. Rock art, or a visitor? The Great Martian God of Tassili.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a carved stone slab in the centre faintly lit by warm lamp light, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you see in the lid, a pilot or a king? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you see in the lid, a pilot or a king? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 8.304
+   }
+  ]
+ }
+]

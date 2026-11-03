@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 24182,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 466,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mexico, the year six eighty-three. A king is lowered into the heart of a pyramid, and a great stone slab is carved to cover him. Thirteen centuries later, a book says that slab shows a man piloting a rocket.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.448,
+     "start": 10,
+     "end": 444
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 448,
+   "end": 859,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The picture is everywhere. Documentaries, T-shirts, a million posts. A man leaning back, hands forward, flames behind him. It really does look like a cockpit. Until you turn it around.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 12.624,
+     "start": 458,
+     "end": 837
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 841,
+   "end": 1204,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we go down the same hidden stair the archaeologist took. Seven levels, to the tomb itself. And at every level, we test the astronaut against the evidence.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 11.016,
+     "start": 851,
+     "end": 1182
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1186,
+   "end": 1576,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Is that a pilot at the controls? Or a king at the foot of the world tree? And is there anything in this tomb that is truly unexplained? There is one thing. It is not what you think.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 11.928,
+     "start": 1196,
+     "end": 1554
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1558,
+   "end": 1793,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The descent starts at the very top, with a book.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 2.736,
+     "start": 1568,
+     "end": 1651
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "LEVEL 1",
+    "The Page",
+    "CHARIOTS \u00b7 1968 \u00b7 THE CAPTION"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1775,
+   "end": 2223,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nineteen sixty-eight. A Swiss hotel manager, Erich von Daniken, publishes a book. In English it becomes Chariots of the Gods. By nineteen eighty-seven it has sold seven million copies.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 13.848,
+     "start": 1785,
+     "end": 2201
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2205,
+   "end": 2494,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Archaeologists noted, with some despair, that he had sold more books about archaeology than any archaeologist who ever lived.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 8.544,
+     "start": 2215,
+     "end": 2472
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2476,
+   "end": 2880,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In it, a drawing from Palenque. He compares the reclining king to an American Mercury astronaut, reads the tree as a rocket, and the jaws at the bottom as exhaust flames.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 12.384,
+     "start": 2486,
+     "end": 2858
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2862,
+   "end": 3187,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the drawing is printed turned on its side. Turned that way, it does look like a man in a seat. Hold on to that detail. We will come back to it.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 9.744,
+     "start": 2872,
+     "end": 3165
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3169,
+   "end": 3559,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the caption slips. It says the relief is from Copan, in Honduras. The text gets Palenque right. A small error, but it tells you how closely the page was checked.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 11.928,
+     "start": 3179,
+     "end": 3537
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3541,
+   "end": 3912,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the idea was not even new. Researchers at Bad Archaeology trace the description to an earlier article by two French writers, Guy Tarade and A. Millou.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 11.28,
+     "start": 3551,
+     "end": 3890
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3894,
+   "end": 4348,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The claim, then, is an ancient astronaut, worshipped by the Maya, and buried under his own portrait. Easy to say. To test it, we need the real object, and the real object was hidden for twelve hundred years.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 14.04,
+     "start": 3904,
+     "end": 4326
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "LEVEL 2",
+    "The Hidden Stair",
+    "RUZ \u00b7 THE PLUGS \u00b7 THE RUBBLE"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4330,
+   "end": 4734,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Palenque, in the rainforest of Chiapas. The Temple of the Inscriptions. For a century and more it looked like what it appears to be, a pyramid with a temple on top, and nothing more.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.384,
+     "start": 4340,
+     "end": 4712
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4716,
+   "end": 5150,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the late nineteen forties, the Mexican archaeologist Alberto Ruz Lhuillier notices something odd in the temple floor. One slab has holes in it, and the holes are filled with stone plugs.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 13.392,
+     "start": 4726,
+     "end": 5128
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5132,
+   "end": 5419,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Floors do not have handles. He lifts the slab. Beneath it, a stairway, packed solid with rubble, leading down into the pyramid.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 8.496,
+     "start": 5142,
+     "end": 5397
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5401,
+   "end": 5798,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It takes four seasons to empty. Hot, damp, narrow, in the dark. Basket by basket, the stair goes down through the body of the pyramid, below the level of the plaza outside.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 12.144,
+     "start": 5411,
+     "end": 5776
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5780,
+   "end": 6070,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the bottom, in the rubble, the remains of sacrificed attendants. And behind them, a triangular stone slab, sealing a wall.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 8.592,
+     "start": 5790,
+     "end": 6048
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6052,
+   "end": 6370,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "June fifteenth, nineteen fifty-two. The slab is moved. Ruz steps into a vault that no human being had entered for twelve centuries.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.528,
+     "start": 6062,
+     "end": 6348
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6352,
+   "end": 6628,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The walls are lined with stucco figures, nine of them, standing guard. And in the middle of the room, a vast carved stone.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 8.112,
+     "start": 6362,
+     "end": 6606
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LEVEL 3",
+    "The Vault",
+    "THE SLAB \u00b7 THE JADE \u00b7 THE TUBE"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 6610,
+   "end": 6964,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the centre, a monolithic sarcophagus. Over it, a single slab of limestone, about three and a half metres long, carved on its top and on its sides.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 10.728,
+     "start": 6620,
+     "end": 6942
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6946,
+   "end": 7274,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The slab is far too big to have come down the stairs. The tomb was sealed first, and the pyramid was built over it. This was made to stay shut for ever.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 9.864,
+     "start": 6956,
+     "end": 7252
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7256,
+   "end": 7614,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ruz waits for months. Then, in November, his team raises the five-ton slab a few centimetres at a time, with logs and jacks under the four corners.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.848,
+     "start": 7266,
+     "end": 7592
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7596,
+   "end": 7929,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Underneath, a second smaller lid, held by stone plugs. And under that, the king, stained red with cinnabar, wearing a mask and strings of jade.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.008,
+     "start": 7606,
+     "end": 7907
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 7911,
+   "end": 8260,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The mask alone is built from hundreds of pieces of jade, with eyes of shell and obsidian. To the Maya, jade meant breath, life, and royalty.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 10.536,
+     "start": 7921,
+     "end": 8238
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8242,
+   "end": 8699,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "From the sarcophagus, a hollow stone tube rises along the stair to the temple floor. Archaeologists call it a psychoduct. The likely purpose: to keep the dead king in contact with the world above.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 14.16,
+     "start": 8252,
+     "end": 8677
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8681,
+   "end": 9040,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look at what this means. A stair going down, a tube coming up, a lid carved with a road. If this is a machine, it is a machine for crossing between worlds.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 10.872,
+     "start": 8691,
+     "end": 9018
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9022,
+   "end": 9396,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And in two thousand sixteen, archaeologists found a water tunnel running under the temple. The tomb sits over a spring. Keep that in mind. Now, we read the lid.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.376,
+     "start": 9032,
+     "end": 9374
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LEVEL 4",
+    "Reading the Lid",
+    "TREE \u00b7 BIRD \u00b7 JAWS \u00b7 BORDER"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 9378,
+   "end": 9688,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The method is simple. We read it the way the Maya carved it, with the king at the foot of the picture, falling toward us. And we start at the top.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 9.264,
+     "start": 9388,
+     "end": 9666
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9670,
+   "end": 10027,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the top, a great bird, perched on the highest branch. The celestial bird, the Maya sign of the heavens. In the astronaut reading, this is part of a control panel.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 10.824,
+     "start": 9680,
+     "end": 10005
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10009,
+   "end": 10350,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Below it, the tree. A cross-shaped world tree, the axis of the Maya universe. Roots in the underworld, trunk in the human world, branches in the sky.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 10.272,
+     "start": 10019,
+     "end": 10328
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10332,
+   "end": 10719,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The same tree, with the same bird, stands on the big wall panels of the Temple of the Cross and the Temple of the Foliated Cross, in the same city. Nobody calls those rockets.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 11.808,
+     "start": 10342,
+     "end": 10697
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 10701,
+   "end": 11137,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the middle, the king. He reclines, his body bent, dressed as the Maize God, with a turtle ornament on his chest. The Maize God dies, and is born again. So does the crop. So does the king.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 13.44,
+     "start": 10711,
+     "end": 11115
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11119,
+   "end": 11499,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Beneath him, the head of a skeletal creature. In one reading, the Sun Monster. Pakal rests on it, halfway between the underworld and the living world, at the moment of sunset.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 11.568,
+     "start": 11129,
+     "end": 11477
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11481,
+   "end": 11855,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And around him, open jaws. The jaws of the earth, the doorway into Xibalba, the Maya underworld. The astronaut reading calls those jaws exhaust flames.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 11.376,
+     "start": 11491,
+     "end": 11833
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 11837,
+   "end": 12222,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The border is a band of cosmic signs: sun, moon, star. Along it, the heads of six named noblemen. A sky, seen from above, with witnesses. Not a dashboard.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 11.76,
+     "start": 11847,
+     "end": 12200
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12204,
+   "end": 12612,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The sides of the sarcophagus show Pakal's ancestors, emerging from the earth. A family tree, quite literally. This is not the portrait of a visitor. It is the portrait of a dynasty.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 12.528,
+     "start": 12214,
+     "end": 12590
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 12594,
+   "end": 13119,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scholars still argue about the posture. Linda Schele saw Pakal falling down the Milky Way into the southern horizon. Others see him rising, reborn, up the tree. Falling or rising, the story is the same: death, then return.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 16.416,
+     "start": 12604,
+     "end": 13097
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "LEVEL 5",
+    "The Rotation Test",
+    "TURN IT \u00b7 SEAT \u00b7 FLAMES \u00b7 MASK"
+   ],
+   "img": "ep/img/shot_38.jpg",
+   "start": 13101,
+   "end": 13688,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The experiment. We take the astronaut claim seriously, and check every part of it. Part one: orientation. The slab lay flat over the king's body. The carving is meant to be read with Pakal falling toward the bottom of the picture. To get a seat, you must turn it ninety degrees.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 18.48,
+     "start": 13111,
+     "end": 13666
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 13670,
+   "end": 14174,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part two: the controls. In a real capsule, every dial does a job. The astronaut reading gives the tree, the bird, and the monster head the job of dials and levers. It never explains how a stone relief controls anything.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 15.72,
+     "start": 13680,
+     "end": 14152
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14156,
+   "end": 14619,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part three: the flames. A rocket's exhaust is a plume of fire. The jaws at the bottom of the lid have teeth, a lower jaw, and a standard shape used again and again in Maya art for the entrance to the other world.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 14.352,
+     "start": 14166,
+     "end": 14597
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14601,
+   "end": 15011,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part four: the mask. One version of the claim reads a breathing apparatus. Maya burials place a jade bead in the mouth of the dead. Jade meant breath. The tomb contained the jade.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.576,
+     "start": 14611,
+     "end": 14989
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14993,
+   "end": 15439,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part five: names. The texts carved on the sarcophagus record who he was, when he was born, when he came to the throne, and when he died. The alien has a Maya name, a Maya mother, and a Maya funeral.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 13.776,
+     "start": 15003,
+     "end": 15417
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 15421,
+   "end": 15911,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part six: the rest of the grave. If he came from the stars, we would expect something from the stars. We find cinnabar, jade, shell, obsidian, and nine stucco guardians. Classic Maya royal burial, piece by piece.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 15.264,
+     "start": 15431,
+     "end": 15889
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 15893,
+   "end": 16431,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The result. The rotated image needs a new seat, new controls, new flames, and a new passenger. The unrotated image needs nothing new. Penn Museum's Stephen Epstein recommends the tool: never postulate complexity unless it is necessary.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 16.848,
+     "start": 15903,
+     "end": 16409
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "LEVEL 6",
+    "The Age Problem",
+    "TEETH \u00b7 TEXTS \u00b7 TWO PAKALS"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 16413,
+   "end": 16678,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But there is a real mystery in this tomb, and it has nothing to do with aliens. The bones did not seem to match the king.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 7.752,
+     "start": 16423,
+     "end": 16656
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 16660,
+   "end": 17086,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The inscriptions say Pakal died at eighty, after sixty-eight years on the throne. Ruz's anthropologists examined the bones at the site and judged the man to be between forty and fifty.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 13.128,
+     "start": 16670,
+     "end": 17064
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17068,
+   "end": 17353,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ruz took it seriously. He suggested the texts might describe two men with the same name, or count time in a different way.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 8.424,
+     "start": 17078,
+     "end": 17331
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 17335,
+   "end": 17761,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The epigraphers disagreed. Linda Schele and Peter Mathews, reading the birth and death glyphs, said the dates were clear. A man of eighty. Everything we know of the Maya calendar backs them.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.128,
+     "start": 17345,
+     "end": 17739
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 17743,
+   "end": 18164,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Later analysis settled it. The man in the tomb could not have lived fewer than fifty years, and most likely died in his eighth or ninth decade. The problem was the teeth. They showed little wear.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 12.936,
+     "start": 17753,
+     "end": 18142
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18146,
+   "end": 18490,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The probable reason: a king eats soft food. Without the gritty diet of the commoners, the teeth wear slowly. His heavy tartar fits that diet too.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 10.392,
+     "start": 18156,
+     "end": 18468
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 18472,
+   "end": 18839,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A real scientific dispute, solved with evidence. That is how a real mystery behaves. It gets smaller when you look closer. The astronaut only gets bigger.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 11.16,
+     "start": 18482,
+     "end": 18817
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LEVEL 7",
+    "The Cloud",
+    "RORSCHACH \u00b7 OCCAM \u00b7 SEVEN MILLION"
+   ],
+   "img": "ep/img/shot_52.jpg",
+   "start": 18821,
+   "end": 19149,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So why does the astronaut survive? Stephen Epstein, in Penn Museum's Expedition magazine, named it the looks-like-a-spaceman-to-me argument.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 9.84,
+     "start": 18831,
+     "end": 19127
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 19131,
+   "end": 19473,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His example: a child says, that cloud looks like a doggie. Has the child told you anything about clouds? About dogs? Or only about himself?",
+     "file": "ep/audio/s53.mp3",
+     "dur": 10.32,
+     "start": 19141,
+     "end": 19451
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 19455,
+   "end": 19871,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The lid looks like a pilot to us because our century has pilots. Nobody in Palenque in the year six eighty-three had seen a cockpit. They had seen kings, trees, birds, and the sunset.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 12.768,
+     "start": 19465,
+     "end": 19849
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 19853,
+   "end": 20284,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Epstein names the deeper cost. In this story the ancient builders could not make their own art. It had to fall from the sky. In this view, he writes, the people who went before us were not fully human.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 13.296,
+     "start": 19863,
+     "end": 20262
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 20266,
+   "end": 20627,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And Maya writing is now largely deciphered. The sarcophagus texts record his accession, his death, and his ancestors. In Maya, on the same stone.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 10.944,
+     "start": 20276,
+     "end": 20605
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "none",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 20609,
+   "end": 20955,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today the legend lives on. Still on documentaries, mugs and memes. Often with the picture turned sideways, exactly as in nineteen sixty-eight.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 10.464,
+     "start": 20619,
+     "end": 20933
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 20937,
+   "end": 21409,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A debunked reading does not make the lid boring. It shows a king turning his own death into a story about the sun, the maize, the Milky Way, and the return of life. Of the two stories, the Maya one is the stranger.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 14.664,
+     "start": 20947,
+     "end": 21387
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 21391,
+   "end": 21575,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to count the evidence. Back up the stair, to the surface, and into the debrief.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 5.064,
+     "start": 21401,
+     "end": 21553
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 21557,
+   "end": 21669,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score the lid of Pakal.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 2.664,
+     "start": 21567,
+     "end": 21647
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 21651,
+   "end": 22245,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A Maya king, named in the texts, buried with Maya kingship goods: evidence. The world tree, the bird, the jaws, the Maize God dress, all repeated elsewhere in Palenque: evidence. The astronaut reading needs the picture turned ninety degrees: that is its own admission.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 18.72,
+     "start": 21661,
+     "end": 22223
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 22227,
+   "end": 22645,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Pakal falling or rising: still debated, both inside Maya belief. The age mismatch: solved. A rocket, a seat, a pilot: no evidence. Alien visitor: no evidence.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 12.84,
+     "start": 22237,
+     "end": 22623
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 22627,
+   "end": 23124,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Not an astronaut. A king at the foot of the world tree, falling and rising through the underworld. The real wonder is a hidden stair, a sealed vault, and a stone slab that tells the whole story, if you turn it the right way up.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 15.48,
+     "start": 22637,
+     "end": 23102
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 23106,
+   "end": 23493,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Thirteen centuries ago, a family carved a goodbye to a king they loved. The stranger in the story was never an alien. It was us, looking at the wrong end of the picture.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 11.808,
+     "start": 23116,
+     "end": 23471
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 23475,
+   "end": 23843,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a towering painted figure on a Saharan cliff, with a round head and no face. Rock art, or a visitor? The Great Martian God of Tassili.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 11.184,
+     "start": 23485,
+     "end": 23821
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 23825,
+   "end": 24107,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you see in the lid, a pilot or a king? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 8.304,
+     "start": 23835,
+     "end": 24085
+    }
+   ]
+  }
+ ]
+}
