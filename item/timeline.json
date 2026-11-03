@@ -1,0 +1,1336 @@
+{
+ "fps": 30,
+ "total": 26701,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 554,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One tent, high on a bare slope in the Ural mountains. February, nineteen fifty-nine. Nine experienced hikers cut their way out of it from the inside, and walked into minus thirty degrees in socks. More than sixty years later, we still argue about why.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 17.376,
+     "start": 10,
+     "end": 532
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 536,
+   "end": 962,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some say the sky held glowing orange spheres that night. Some say a secret weapon, a yeti, or visitors from elsewhere. The Russian government says avalanche. Which of these survives the evidence?",
+     "file": "ep/audio/s02.mp3",
+     "dur": 13.128,
+     "start": 546,
+     "end": 940
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 944,
+   "end": 1368,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we open the case file, and develop it one frame at a time, like the last roll of film the group ever shot. Facts first, then every suspect. This is the Dyatlov Pass incident.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 13.056,
+     "start": 954,
+     "end": 1346
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1350,
+   "end": 1682,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Dyatlov Pass incident. Evidence against theory. Let us develop the first frame.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 6.0,
+     "start": 1360,
+     "end": 1540
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I",
+    "FRAME 1 \u00b7 THE GROUP",
+    "23 JANUARY 1959 \u00b7 WHO THEY WERE"
+   ],
+   "img": "ep/img/shot_05.jpg",
+   "start": 1664,
+   "end": 2182,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "January, nineteen fifty-nine. Ten students and graduates of the Ural Polytechnical Institute set out on a ski trek across the northern Urals. Their leader is Igor Dyatlov, twenty-three, a radio engineering student.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 16.2,
+     "start": 1674,
+     "end": 2160
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 2164,
+   "end": 2636,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eight men and two women. All experienced, all trained for hard winter travel. The route would earn them the top hiking grade of the day, Grade Three, and the Sverdlovsk route commission approved it on the eighth of January.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 14.664,
+     "start": 2174,
+     "end": 2614
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2618,
+   "end": 2962,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their goal was Gora Otorten, a mountain about ten kilometers north of where they would camp. February is the hardest time to cross this country.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.368,
+     "start": 2628,
+     "end": 2940
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2944,
+   "end": 3375,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They reach the town of Ivdel on the twenty-fifth, then ride a lorry to Vizhai, the last village on the map. On the twenty-seventh they ski north into the forest, and the last settlement falls behind.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 13.272,
+     "start": 2954,
+     "end": 3353
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3357,
+   "end": 3790,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the twenty-eighth, Yuri Yudin turns back. His joints hurt, and he has a heart condition. He shakes hands with his friends and walks back alone. He is the only member of the group who survives.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.344,
+     "start": 3367,
+     "end": 3768
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3772,
+   "end": 4129,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nine remain. Seven men and two women. They keep diaries and carry cameras, which is why we know their route almost to the hour, right up to the day before the end.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 10.824,
+     "start": 3782,
+     "end": 4107
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 4111,
+   "end": 4335,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their diaries are the diaries of a tired, happy group. Nothing on those pages hints at fear.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 6.384,
+     "start": 4121,
+     "end": 4313
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II",
+    "FRAME 2 \u00b7 THE SLOPE",
+    "1 FEBRUARY 1959 \u00b7 WHERE THEY CAMPED"
+   ],
+   "img": "ep/img/shot_12.jpg",
+   "start": 4317,
+   "end": 4702,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The first of February. They reach the edge of the highland, leave spare food and gear in the forest below, and start up toward the pass. The snow thickens and the view collapses.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 11.76,
+     "start": 4327,
+     "end": 4680
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4684,
+   "end": 5069,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the storm they drift west of their line, away from the pass and up the flank of Kholat Syakhl. In the Mansi language, the name is usually translated as Dead Mountain.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 11.76,
+     "start": 4694,
+     "end": 5047
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 5051,
+   "end": 5538,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They realize their mistake. The forest, with shelter and firewood, lies one and a half kilometers downhill. Instead they pitch the tent right there on the open slope. Yudin later guessed Dyatlov wanted to keep the height they had gained.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 15.144,
+     "start": 5061,
+     "end": 5516
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5520,
+   "end": 5771,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "To pitch a nine-person tent on a slope, they dig a shelf into the snow. Remember that cut. It matters later.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 7.296,
+     "start": 5530,
+     "end": 5749
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5753,
+   "end": 6116,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside: nine sleeping bags, a stove, boots drying overhead. One of their last photographs, taken before sunset, shows them digging that very cut in the slope.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 11.016,
+     "start": 5763,
+     "end": 6094
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6098,
+   "end": 6578,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The temperature falls toward minus thirty, and a storm builds. The 1959 investigators arrived weeks later, in calmer weather, after fresh snow had covered the slope. They never saw it as it was that night.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 14.904,
+     "start": 6108,
+     "end": 6556
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6560,
+   "end": 6870,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sometime after midnight, something happens. There is no witness. All we have is a tent, nine trails of footprints, and a great deal of silence.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.264,
+     "start": 6570,
+     "end": 6848
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III",
+    "FRAME 3 \u00b7 THE TENT",
+    "26 FEBRUARY 1959 \u00b7 WHAT THE SEARCHERS SAW"
+   ],
+   "img": "ep/img/shot_19.jpg",
+   "start": 6852,
+   "end": 7399,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Dyatlov had promised a telegram by the twelfth of February. A delay of a few days was normal, so nobody panicked. On the twentieth, relatives demand action, and the institute sends student volunteers. Soon soldiers and aircraft join.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 17.136,
+     "start": 6862,
+     "end": 7377
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7381,
+   "end": 7696,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Search parties fan out across the northern Urals. On the twenty-sixth of February, a student named Mikhail Sharavin finds the tent.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 9.432,
+     "start": 7391,
+     "end": 7674
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7678,
+   "end": 7947,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He describes it as half torn down and covered with snow. Empty. The group's belongings and boots were still inside.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 7.896,
+     "start": 7688,
+     "end": 7925
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7929,
+   "end": 8286,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Investigators study the canvas. The tent was cut open from the inside. Not clawed, not torn from outside. Cut with a knife, by people who needed out.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.824,
+     "start": 7939,
+     "end": 8264
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8268,
+   "end": 8653,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nine sets of footprints lead away. Some made by socks, one by a single shoe, some by bare feet. They head downhill, toward the forest edge, one and a half kilometers away.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 11.76,
+     "start": 8278,
+     "end": 8631
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8635,
+   "end": 8928,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "These tracks rule out a lot. They show nine people leaving on their own, on foot. No sign of anyone else. No sign of a struggle.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 8.688,
+     "start": 8645,
+     "end": 8906
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8910,
+   "end": 9201,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "After about five hundred meters, the tracks disappear under the snow. From there, the searchers have to follow the slope itself.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 8.616,
+     "start": 8920,
+     "end": 9179
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9183,
+   "end": 9566,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That night it is about minus twenty-five to minus thirty, with a storm blowing. Later reviews suggest it may have fallen to minus forty. Dressed for sleeping, that is lethal.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.688,
+     "start": 9193,
+     "end": 9544
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9548,
+   "end": 9912,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the question changes. It is no longer what attacked them. It is what frightened nine experienced hikers badly enough to leave warm shelter, in the dark, in a storm.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.064,
+     "start": 9558,
+     "end": 9890
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV",
+    "FRAME 4 \u00b7 THE PINE",
+    "THE FIRST FIVE \u00b7 EDGE OF THE FOREST"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 9894,
+   "end": 10127,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the forest edge stands a huge Siberian pine. Beneath it, the remains of a small fire.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 6.672,
+     "start": 9904,
+     "end": 10105
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10109,
+   "end": 10566,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here searchers find the first two, Yuri Krivonishenko and Yuri Doroshenko, in their underwear. The branches above them are broken as high as five meters, as if someone climbed up to look for the camp.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 14.136,
+     "start": 10119,
+     "end": 10544
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10548,
+   "end": 11088,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Between the pine and the tent, three more: Igor Dyatlov, Zinaida Kolmogorova and Rustem Slobodin. At three hundred, six hundred and thirty, and four hundred and eighty meters from the tree. Their positions suggest they were climbing back toward the tent.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 16.92,
+     "start": 10558,
+     "end": 11066
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11070,
+   "end": 11478,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The medical examination of these five finds no injury that could explain death. They died of hypothermia. Slobodin has a small crack in his skull, judged not fatal.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 12.528,
+     "start": 11080,
+     "end": 11456
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11460,
+   "end": 11840,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That fire matters. It does not look like blind panic. It looks like people trying to survive: lighting a fire, breaking branches for fuel, sharing out what clothes they had.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 11.592,
+     "start": 11470,
+     "end": 11818
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11822,
+   "end": 12227,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The most detailed reconstruction, from the Russian review, goes like this. Some stayed at the tree and kept the fire. Others tried to climb back for blankets and clothes. They did not make it.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.432,
+     "start": 11832,
+     "end": 12205
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12209,
+   "end": 12583,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The autopsies add a detail: they died six to eight hours after their last meal. They were not starving, not lost for days. Something hit them suddenly, in the first night.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 11.376,
+     "start": 12219,
+     "end": 12561
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12565,
+   "end": 12790,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Five are found. Four are still missing, and the snow is deep. Finding them takes more than two months.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 6.432,
+     "start": 12575,
+     "end": 12768
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12772,
+   "end": 13092,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Five dead. Four missing. And a first working theory: a terrible winter accident, nothing more. The second half of the file will wreck that idea.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 9.576,
+     "start": 12782,
+     "end": 13070
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13074,
+   "end": 13420,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hold that thought. Mark what is solid so far: a tent cut open from inside, the hikers' own tracks, and cold. Nothing yet needs anything exotic.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 10.44,
+     "start": 13084,
+     "end": 13398
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "V",
+    "FRAME 5 \u00b7 THE RAVINE",
+    "4 MAY 1959 \u00b7 THE FOUR WHO WERE MISSING"
+   ],
+   "img": "ep/img/shot_38.jpg",
+   "start": 13402,
+   "end": 13941,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The fourth of May. Searchers probe a ravine seventy-five meters beyond the pine, under four meters of snow. They find the last four: Lyudmila Dubinina, Semyon Zolotaryov, Nikolai Thibeaux-Brignolles and Alexander Kolevatov.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 16.896,
+     "start": 13412,
+     "end": 13919
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 13923,
+   "end": 14360,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "These four are better dressed. Clothing from the dead at the pine has been taken and worn. Dubinina wears a burned trouser leg that belonged to Krivonishenko. These were people trying to live.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.488,
+     "start": 13933,
+     "end": 14338
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14342,
+   "end": 14832,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the autopsies change everything. Thibeaux-Brignolles has major skull damage. Dubinina and Zolotaryov have severe chest fractures. The forensic expert says the force needed was comparable to a car crash.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 15.264,
+     "start": 14352,
+     "end": 14810
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14814,
+   "end": 15202,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Yet there were no wounds on the outside of their bodies. Injuries like that, with no marks outside, look like enormous pressure. That single detail launched a hundred theories.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 11.856,
+     "start": 14824,
+     "end": 15180
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15184,
+   "end": 15712,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some soft tissue is missing too. Dubinina's tongue and eyes, Zolotaryov's eyes, Kolevatov's eyebrows. The forensic expert judged this happened after death, in the running stream. Other researchers add scavenging animals.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 16.512,
+     "start": 15194,
+     "end": 15690
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 15694,
+   "end": 16218,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some radiation is found on one victim's clothing. Relatives later describe orange-brown skin. Cold explains the skin. And the radiation was on only some items, not on all the group's gear, so it was not a blast that hit everyone.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 16.368,
+     "start": 15704,
+     "end": 16196
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16200,
+   "end": 16623,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In May the inquest closes. Official conclusion: a compelling natural force. No guilty party. The files go to a secret archive, and the area is closed to hikers for three years.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 13.032,
+     "start": 16210,
+     "end": 16601
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "VI",
+    "FRAME 6 \u00b7 THE SUSPECTS",
+    "SIX THEORIES \u00b7 EVIDENCE VS CLAIM"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 16605,
+   "end": 16769,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the suspects. Six theories, tried one by one against the file.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 4.392,
+     "start": 16615,
+     "end": 16747
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 16751,
+   "end": 17248,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect one: an attack by the local Mansi people. Investigators questioned Mansi men and found nothing. Only the hikers' own footprints, no sign of a struggle, and the fatal injuries were too severe for human blows.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 15.48,
+     "start": 16761,
+     "end": 17226
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17230,
+   "end": 17782,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect two: animals, or a fight inside the group. There are no animal tracks. Researcher Donnie Eichar found a harmonious team, no drugs, and a small flask of medicinal alcohol, found intact. A brawl does not crush ribs without a mark.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 17.328,
+     "start": 17240,
+     "end": 17760
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 17764,
+   "end": 18324,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect three: a secret weapon. Soviet parachute mines were tested in this region around then. They explode in the air and can cause internal injuries without outer wounds, as in the report. Intriguing, but nothing in the file shows a test happened that night.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 17.568,
+     "start": 17774,
+     "end": 18302
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18306,
+   "end": 18956,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The orange lights. Another hiking group, about fifty kilometers south, saw orange spheres in the sky to the north that night. Similar lights were reported around Ivdel in February and March, even by military and weather staff. But none of it is in the 1959 file. The witnesses spoke years later.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 20.592,
+     "start": 18316,
+     "end": 18934
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18938,
+   "end": 19527,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen ninety, lead investigator Lev Ivanov wrote that the inquest had no rational explanation, and that he was told to drop the reports of flying spheres. That is a powerful statement. It also comes thirty-one years late, and it describes lights, not a craft.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 18.552,
+     "start": 18948,
+     "end": 19505
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19509,
+   "end": 20141,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect four: aliens. A craft hovers, the hikers flee. Notice what that needs: a craft nobody photographed or recovered, and injuries that look nothing like burns. Lights in the 1959 Soviet sky could be rockets or flares. Nothing in the file puts a craft at the tent.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 19.992,
+     "start": 19519,
+     "end": 20119
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 20123,
+   "end": 20694,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect five: infrasound. Eichar proposed that wind curling around the summit makes a vortex street, a pulse of infrasound that can cause dread and panic. It would explain the flight. But it is a hypothesis, not a measurement, and it does not explain the injuries.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 17.952,
+     "start": 20133,
+     "end": 20672
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 20676,
+   "end": 21260,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect six: a katabatic wind, cold dense air pouring down the slope. A Swedish and Russian expedition in twenty nineteen said wind alone could have forced them out, and compared the place to Anaris Mountain in Sweden, where eight hikers died in nineteen seventy-eight.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 18.384,
+     "start": 20686,
+     "end": 21238
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 21242,
+   "end": 21697,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Paradoxical undressing, where freezing people feel burning heat and strip, may explain some of the missing clothing. But others in the group took extra clothes from the dead, which looks like clear thinking, not delirium.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 14.088,
+     "start": 21252,
+     "end": 21675
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 21679,
+   "end": 22157,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the avalanche. In July twenty twenty, Russian prosecutors announced it as the official cause: a slab forced them out, and they made a hard, textbook retreat to safer ground. One official called it a heroic struggle.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 14.856,
+     "start": 21689,
+     "end": 22135
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 22139,
+   "end": 22732,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In twenty twenty-one, Swiss scientists Johan Gaume and Alexander Puzrin published a model in Communications Earth and Environment. A cut in the slope, a weak snow layer at about twenty-eight degrees, and hours of wind-blown snow can release a slab seven to thirteen hours later.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 18.696,
+     "start": 22149,
+     "end": 22710
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 22714,
+   "end": 23332,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their simulated slab, about five meters long, strikes at two meters per second. Against a chest pinned to a tent floor, that gives moderate to severe, non-fatal rib injuries, just what the autopsies found. The authors admit it does not explain the radiation, or where the bodies lay.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 19.512,
+     "start": 22724,
+     "end": 23310
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 23314,
+   "end": 23982,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Critics push back. Searchers saw no clear avalanche debris, the slope averages only about twenty-three degrees, and the footprints look like people walking, not running. Fair points. The authors reply that a thin slab leaves little trace, and in twenty twenty-two they reported avalanche activity found by follow-up expeditions.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 21.192,
+     "start": 23324,
+     "end": 23960
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VII",
+    "FRAME 7 \u00b7 THE SCORECARD",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 23964,
+   "end": 24122,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score the case. Evidence on one side, theory on the other.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 4.2,
+     "start": 23974,
+     "end": 24100
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 24104,
+   "end": 24648,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A tent cut from inside, hikers leaving on their own: evidence. Six of nine killed by cold: evidence. Chest and skull injuries with no wounds outside: evidence, now partly explained. A wind slab in a storm: the best fit, not proven.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 17.04,
+     "start": 24114,
+     "end": 24626
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 24630,
+   "end": 24887,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Weapon tests, infrasound, an attack: no proof. An alien craft: no craft, no wreckage, no evidence.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 7.488,
+     "start": 24640,
+     "end": 24865
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 24869,
+   "end": 25385,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Not aliens. Most likely a sudden natural disaster at a badly placed camp, a storm and a snow slab, followed by a brave retreat in the dark. Not every detail is explained. But no detail needs a spaceship.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 16.104,
+     "start": 24879,
+     "end": 25363
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 25367,
+   "end": 25805,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nine people died. Seven men and two women, aged twenty to thirty-eight. The best-supported story is also the saddest one: no villain, only a storm, a slope, and a decision made in the dark.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 13.512,
+     "start": 25377,
+     "end": 25783
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 25787,
+   "end": 26300,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a Bronze Age city in Jordan, where a team claims a cosmic airburst wiped everything out about thirty-six hundred years ago. Biblical Sodom, or a very bad day for a small town? Evidence against theory, next time.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 16.008,
+     "start": 25797,
+     "end": 26278
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 26282,
+   "end": 26626,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which suspect do you trust: the avalanche, the wind, the weapon, or the lights? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 10.368,
+     "start": 26292,
+     "end": 26604
+    }
+   ]
+  }
+ ]
+}

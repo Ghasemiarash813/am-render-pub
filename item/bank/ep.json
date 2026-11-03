@@ -1,0 +1,1402 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal a bare rounded snow-covered Ural mountain slope in a storm at night, blowing snow, film grain, one small orange canvas tent glowing faintly on the open slope far below a black sky full of stars, cinematic wide shot, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "One tent, high on a bare slope in the Ural mountains. February, nineteen fifty-nine. Nine experienced hikers cut their way out of it from the inside, and walked into minus thirty degrees in socks. More than sixty years later, we still argue about why."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One tent, high on a bare slope in the Ural mountains. February, nineteen fifty-nine. Nine experienced hikers cut their way out of it from the inside, and walked into minus thirty degrees in socks. More than sixty years later, we still argue about why.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 17.376
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal several glowing orange spheres floating above a dark snowy pine forest at night, mist, long exposure, eerie, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Some say the sky held glowing orange spheres that night. Some say a secret weapon, a yeti, or visitors from elsewhere. The Russian government says avalanche. Which of these survives the evidence?"
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some say the sky held glowing orange spheres that night. Some say a secret weapon, a yeti, or visitors from elsewhere. The Russian government says avalanche. Which of these survives the evidence?",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal dim Soviet archive room, a thick cardboard case file open on a wooden desk with photographs and papers spread out, green desk lamp, dust in the air, sepia tones, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we open the case file, and develop it one frame at a time, like the last roll of film the group ever shot. Facts first, then every suspect. This is the Dyatlov Pass incident."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we open the case file, and develop it one frame at a time, like the last roll of film the group ever shot. Facts first, then every suspect. This is the Dyatlov Pass incident.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 13.056
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Title card background: a lone small tent on a dark snow slope with a faint orange glow in the sky behind it, minimal, cinematic, lots of empty dark space, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "The Dyatlov Pass incident. Evidence against theory. Let us develop the first frame."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Dyatlov Pass incident. Evidence against theory. Let us develop the first frame.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 6.0
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal 1950s Soviet railway platform in winter, a group of young hikers in wool jackets and fur hats with canvas rucksacks and wooden skis, steam from a locomotive, black and white film look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "January, nineteen fifty-nine. Ten students and graduates of the Ural Polytechnical Institute set out on a ski trek across the northern Urals. Their leader is Igor Dyatlov, twenty-three, a radio engineering student."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I",
+   "FRAME 1 \u00b7 THE GROUP",
+   "23 JANUARY 1959 \u00b7 WHO THEY WERE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "January, nineteen fifty-nine. Ten students and graduates of the Ural Polytechnical Institute set out on a ski trek across the northern Urals. Their leader is Igor Dyatlov, twenty-three, a radio engineering student.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 16.2
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1950s Soviet train carriage interior, young hikers laughing and singing with a guitar, rucksacks stacked, warm lamp light, film grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Eight men and two women. All experienced, all trained for hard winter travel. The route would earn them the top hiking grade of the day, Grade Three, and the Sverdlovsk route commission approved it on the eighth of January."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eight men and two women. All experienced, all trained for hard winter travel. The route would earn them the top hiking grade of the day, Grade Three, and the Sverdlovsk route commission approved it on the eighth of January.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 14.664
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal old paper map of the northern Ural mountains spread on a desk with a pencil line along a valley and a small cross near one summit, ruler, compass, warm lamp light, no readable writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Their goal was Gora Otorten, a mountain about ten kilometers north of where they would camp. February is the hardest time to cross this country."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their goal was Gora Otorten, a mountain about ten kilometers north of where they would camp. February is the hardest time to cross this country.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal 1950s Soviet army-style lorry on a narrow snowy track through dense taiga forest, hikers sitting in the open back with rucksacks, pale winter morning, film grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "They reach the town of Ivdel on the twenty-fifth, then ride a lorry to Vizhai, the last village on the map. On the twenty-seventh they ski north into the forest, and the last settlement falls behind."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They reach the town of Ivdel on the twenty-fifth, then ride a lorry to Vizhai, the last village on the map. On the twenty-seventh they ski north into the forest, and the last settlement falls behind.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 13.272
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal young man in a wool jacket sitting on a log in a snowy forest holding his knee in pain, friends standing around him with skis, grey winter light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "On the twenty-eighth, Yuri Yudin turns back. His joints hurt, and he has a heart condition. He shakes hands with his friends and walks back alone. He is the only member of the group who survives."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the twenty-eighth, Yuri Yudin turns back. His joints hurt, and he has a heart condition. He shakes hands with his friends and walks back alone. He is the only member of the group who survives.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal nine small figures on skis in a line crossing a wide snowy valley toward dark mountains at dusk, black and white style, tiny against the landscape, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Nine remain. Seven men and two women. They keep diaries and carry cameras, which is why we know their route almost to the hour, right up to the day before the end."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nine remain. Seven men and two women. They keep diaries and carry cameras, which is why we know their route almost to the hour, right up to the day before the end.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 10.824
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal close-up of a hand writing in a small notebook by lantern light inside a canvas tent, warm orange glow, a cup of tea beside it, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Their diaries are the diaries of a tired, happy group. Nothing on those pages hints at fear."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their diaries are the diaries of a tired, happy group. Nothing on those pages hints at fear.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 6.384
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal a bare rounded snow-covered Ural mountain slope in a storm at night, blowing snow, film grain at dusk, tiny ski tracks climbing toward a pass, whiteout approaching, cold blue light, cinematic wide, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "The first of February. They reach the edge of the highland, leave spare food and gear in the forest below, and start up toward the pass. The snow thickens and the view collapses."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II",
+   "FRAME 2 \u00b7 THE SLOPE",
+   "1 FEBRUARY 1959 \u00b7 WHERE THEY CAMPED"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The first of February. They reach the edge of the highland, leave spare food and gear in the forest below, and start up toward the pass. The snow thickens and the view collapses.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal total whiteout blizzard on a mountainside, a few dark silhouettes of skiers barely visible, swirling snow, no horizon, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "In the storm they drift west of their line, away from the pass and up the flank of Kholat Syakhl. In the Mansi language, the name is usually translated as Dead Mountain."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the storm they drift west of their line, away from the pass and up the flank of Kholat Syakhl. In the Mansi language, the name is usually translated as Dead Mountain.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal hikers stopped on an open snow slope, one pointing down toward a distant dark treeline far below under a heavy sky, backs to the camera, wind blowing snow, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "They realize their mistake. The forest, with shelter and firewood, lies one and a half kilometers downhill. Instead they pitch the tent right there on the open slope. Yudin later guessed Dyatlov wanted to keep the height they had gained."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They realize their mistake. The forest, with shelter and firewood, lies one and a half kilometers downhill. Instead they pitch the tent right there on the open slope. Yudin later guessed Dyatlov wanted to keep the height they had gained.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 15.144
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal two hikers with shovels digging a flat shelf into a steep snow slope at dusk, a big folded canvas tent and wooden skis lying beside them, backs to the camera, 1950s gear, blue evening light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "To pitch a nine-person tent on a slope, they dig a shelf into the snow. Remember that cut. It matters later."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To pitch a nine-person tent on a slope, they dig a shelf into the snow. Remember that cut. It matters later.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 7.296
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal interior of a large canvas expedition tent at night, nine sleeping bags in a row, a small stove, lantern light, boots and socks drying on a line, warm tones, no faces, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Inside: nine sleeping bags, a stove, boots drying overhead. One of their last photographs, taken before sunset, shows them digging that very cut in the slope."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inside: nine sleeping bags, a stove, boots drying overhead. One of their last photographs, taken before sunset, shows them digging that very cut in the slope.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal exposed mountain slope at night, snow streaming across the surface in strong wind, a tiny tent in the middle, thermometer-cold blue light, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "The temperature falls toward minus thirty, and a storm builds. The 1959 investigators arrived weeks later, in calmer weather, after fresh snow had covered the slope. They never saw it as it was that night."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The temperature falls toward minus thirty, and a storm builds. The 1959 investigators arrived weeks later, in calmer weather, after fresh snow had covered the slope. They never saw it as it was that night.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 14.904
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal night view of a canvas tent from outside, softly lit from inside, snow streaming past in the wind, dark mountain behind, faint stars, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Sometime after midnight, something happens. There is no witness. All we have is a tent, nine trails of footprints, and a great deal of silence."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Sometime after midnight, something happens. There is no witness. All we have is a tent, nine trails of footprints, and a great deal of silence.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal 1950s Soviet institute office, a wall map of the Ural region, black telephone, anxious relatives' coats on chairs, a clerk at a desk, warm lamp light, film grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Dyatlov had promised a telegram by the twelfth of February. A delay of a few days was normal, so nobody panicked. On the twentieth, relatives demand action, and the institute sends student volunteers. Soon soldiers and aircraft join."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III",
+   "FRAME 3 \u00b7 THE TENT",
+   "26 FEBRUARY 1959 \u00b7 WHAT THE SEARCHERS SAW"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dyatlov had promised a telegram by the twelfth of February. A delay of a few days was normal, so nobody panicked. On the twentieth, relatives demand action, and the institute sends student volunteers. Soon soldiers and aircraft join.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 17.136
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1950s Soviet transport helicopter flying low over a snowy taiga ridge, a line of search skiers below, pale winter sky, film grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Search parties fan out across the northern Urals. On the twenty-sixth of February, a student named Mikhail Sharavin finds the tent."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Search parties fan out across the northern Urals. On the twenty-sixth of February, a student named Mikhail Sharavin finds the tent.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal half-collapsed canvas tent buried in snow on a bare mountain slope, ski poles leaning in the drift, boots and a rucksack visible inside the torn opening, dim grey daylight, abandoned, no people, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "He describes it as half torn down and covered with snow. Empty. The group's belongings and boots were still inside."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He describes it as half torn down and covered with snow. Empty. The group's belongings and boots were still inside.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 7.896
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal extreme close-up macro of a clean long slit cut through old canvas tent fabric, edges parted outward, a dusting of snow, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Investigators study the canvas. The tent was cut open from the inside. Not clawed, not torn from outside. Cut with a knife, by people who needed out."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Investigators study the canvas. The tent was cut open from the inside. Not clawed, not torn from outside. Cut with a knife, by people who needed out.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 10.824
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal a line of bare footprints and sock prints in fresh snow leading down a long slope toward a dark treeline, low morning sun raking across, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Nine sets of footprints lead away. Some made by socks, one by a single shoe, some by bare feet. They head downhill, toward the forest edge, one and a half kilometers away."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nine sets of footprints lead away. Some made by socks, one by a single shoe, some by bare feet. They head downhill, toward the forest edge, one and a half kilometers away.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal evenly spaced footprints descending a blue-lit snow slope toward the forest, calm and orderly, early dawn light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "These tracks rule out a lot. They show nine people leaving on their own, on foot. No sign of anyone else. No sign of a struggle."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "These tracks rule out a lot. They show nine people leaving on their own, on foot. No sign of anyone else. No sign of a struggle.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal footprints in snow gradually fading and vanishing under a smooth wind-blown drift, soft grey light, macro-to-wide, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "After about five hundred meters, the tracks disappear under the snow. From there, the searchers have to follow the slope itself."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "After about five hundred meters, the tracks disappear under the snow. From there, the searchers have to follow the slope itself.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 8.616
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal silhouette of a lone person in a thin jacket standing in a blizzard at night on a mountain, back to the camera, extreme cold, breath steam, wind-blown snow, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "That night it is about minus twenty-five to minus thirty, with a storm blowing. Later reviews suggest it may have fallen to minus forty. Dressed for sleeping, that is lethal."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That night it is about minus twenty-five to minus thirty, with a storm blowing. Later reviews suggest it may have fallen to minus forty. Dressed for sleeping, that is lethal.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 11.688
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal investigator's desk in 1959, a hand-drawn sketch map and a black-and-white photograph of a torn tent, magnifying glass, desk lamp, shallow depth of field, no readable writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "So the question changes. It is no longer what attacked them. It is what frightened nine experienced hikers badly enough to leave warm shelter, in the dark, in a storm."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the question changes. It is no longer what attacked them. It is what frightened nine experienced hikers badly enough to leave warm shelter, in the dark, in a storm.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal huge Siberian pine tree standing at the edge of a dark spruce forest at dawn, a blackened fire pit in the snow at its base, blue light, no people, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "At the forest edge stands a huge Siberian pine. Beneath it, the remains of a small fire."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV",
+   "FRAME 4 \u00b7 THE PINE",
+   "THE FIRST FIVE \u00b7 EDGE OF THE FOREST"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the forest edge stands a huge Siberian pine. Beneath it, the remains of a small fire.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 6.672
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal looking up the trunk of a giant pine with many lower branches snapped off high up, snow on the ground, pale dawn sky between the branches, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Here searchers find the first two, Yuri Krivonishenko and Yuri Doroshenko, in their underwear. The branches above them are broken as high as five meters, as if someone climbed up to look for the camp."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here searchers find the first two, Yuri Krivonishenko and Yuri Doroshenko, in their underwear. The branches above them are broken as high as five meters, as if someone climbed up to look for the camp.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 14.136
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal long diagonal snow slope between a dark forest edge at the bottom and a distant tiny tent at the top, three small dark marks spaced along the slope, overcast light, wide, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Between the pine and the tent, three more: Igor Dyatlov, Zinaida Kolmogorova and Rustem Slobodin. At three hundred, six hundred and thirty, and four hundred and eighty meters from the tree. Their positions suggest they were climbing back toward the tent."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Between the pine and the tent, three more: Igor Dyatlov, Zinaida Kolmogorova and Rustem Slobodin. At three hundred, six hundred and thirty, and four hundred and eighty meters from the tree. Their positions suggest they were climbing back toward the tent.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 16.92
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal 1959 medical examiner's desk with papers and an old wooden stethoscope, green-shaded lamp, dim room, shallow depth of field, no readable writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "The medical examination of these five finds no injury that could explain death. They died of hypothermia. Slobodin has a small crack in his skull, judged not fatal."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The medical examination of these five finds no injury that could explain death. They died of hypothermia. Slobodin has a small crack in his skull, judged not fatal.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal small campfire burning in deep snow under dark spruce trees at night, embers rising, orange glow on the snow, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "That fire matters. It does not look like blind panic. It looks like people trying to survive: lighting a fire, breaking branches for fuel, sharing out what clothes they had."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That fire matters. It does not look like blind panic. It looks like people trying to survive: lighting a fire, breaking branches for fuel, sharing out what clothes they had.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal wide dark mountain slope at night with a distant forest edge glowing orange at the bottom and tiny figures spread out along the slope, cold blue light, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "The most detailed reconstruction, from the Russian review, goes like this. Some stayed at the tree and kept the fire. Others tried to climb back for blankets and clothes. They did not make it."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The most detailed reconstruction, from the Russian review, goes like this. Some stayed at the tree and kept the fire. Others tried to climb back for blankets and clothes. They did not make it.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal old tin camping plate with a half-eaten meal and a spoon on a snow-dusted ground, shallow depth of field, cold light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "The autopsies add a detail: they died six to eight hours after their last meal. They were not starving, not lost for days. Something hit them suddenly, in the first night."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The autopsies add a detail: they died six to eight hours after their last meal. They were not starving, not lost for days. Something hit them suddenly, in the first night.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal search party in dark winter coats walking in a line on a deep snow slope with long metal probe poles, pale overcast light, wide shot, film grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Five are found. Four are still missing, and the snow is deep. Finding them takes more than two months."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Five are found. Four are still missing, and the snow is deep. Finding them takes more than two months.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 6.432
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal view down a snowy slope at night with a few scattered flashlight beams of a search party and a dark pine forest, cold blue, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Five dead. Four missing. And a first working theory: a terrible winter accident, nothing more. The second half of the file will wreck that idea."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Five dead. Four missing. And a first working theory: a terrible winter accident, nothing more. The second half of the file will wreck that idea.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal thick old cardboard case file folder with a string tie lying on a wooden desk beside a lamp, a black-and-white photo of a torn tent partly visible, no readable writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Hold that thought. Mark what is solid so far: a tent cut open from inside, the hikers' own tracks, and cold. Nothing yet needs anything exotic."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hold that thought. Mark what is solid so far: a tent cut open from inside, the hikers' own tracks, and cold. Nothing yet needs anything exotic.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal snowmelt ravine in a dark spruce forest in early May, deep old snow bank cut by a running stream, search probes standing in the snow, grey light, no people, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "The fourth of May. Searchers probe a ravine seventy-five meters beyond the pine, under four meters of snow. They find the last four: Lyudmila Dubinina, Semyon Zolotaryov, Nikolai Thibeaux-Brignolles and Alexander Kolevatov."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V",
+   "FRAME 5 \u00b7 THE RAVINE",
+   "4 MAY 1959 \u00b7 THE FOUR WHO WERE MISSING"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The fourth of May. Searchers probe a ravine seventy-five meters beyond the pine, under four meters of snow. They find the last four: Lyudmila Dubinina, Semyon Zolotaryov, Nikolai Thibeaux-Brignolles and Alexander Kolevatov.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 16.896
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal a floor of cut spruce branches laid in a snow hollow beneath a ledge, a small improvised shelter in a ravine, shadowy, wool clothing scraps hanging, no people, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "These four are better dressed. Clothing from the dead at the pine has been taken and worn. Dubinina wears a burned trouser leg that belonged to Krivonishenko. These were people trying to live."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "These four are better dressed. Clothing from the dead at the pine has been taken and worn. Dubinina wears a burned trouser leg that belonged to Krivonishenko. These were people trying to live.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal dim 1959 medical examination room, a glowing lightbox on the wall showing a clean X-ray outline of a rib cage, nobody in frame, clinical green light, no blood, no bodies, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Then the autopsies change everything. Thibeaux-Brignolles has major skull damage. Dubinina and Zolotaryov have severe chest fractures. The forensic expert says the force needed was comparable to a car crash."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the autopsies change everything. Thibeaux-Brignolles has major skull damage. Dubinina and Zolotaryov have severe chest fractures. The forensic expert says the force needed was comparable to a car crash.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 15.264
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal an unmarked intact wool winter coat hanging on a hook against a plain wall, clean and undamaged, cold light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Yet there were no wounds on the outside of their bodies. Injuries like that, with no marks outside, look like enormous pressure. That single detail launched a hundred theories."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Yet there were no wounds on the outside of their bodies. Injuries like that, with no marks outside, look like enormous pressure. That single detail launched a hundred theories.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal shallow mountain stream running under a bridge of snow in a dark forest, water glinting over dark rocks, cold blue light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Some soft tissue is missing too. Dubinina's tongue and eyes, Zolotaryov's eyes, Kolevatov's eyebrows. The forensic expert judged this happened after death, in the running stream. Other researchers add scavenging animals."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some soft tissue is missing too. Dubinina's tongue and eyes, Zolotaryov's eyes, Kolevatov's eyebrows. The forensic expert judged this happened after death, in the running stream. Other researchers add scavenging animals.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 16.512
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal vintage 1950s Geiger counter with a cloth strap and black dial on a laboratory bench, soft lamp light, shallow depth of field, no readable markings, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Some radiation is found on one victim's clothing. Relatives later describe orange-brown skin. Cold explains the skin. And the radiation was on only some items, not on all the group's gear, so it was not a blast that hit everyone."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some radiation is found on one victim's clothing. Relatives later describe orange-brown skin. Cold explains the skin. And the radiation was on only some items, not on all the group's gear, so it was not a blast that hit everyone.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 16.368
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal rows of closed cardboard archive boxes on tall metal shelves in a dim Soviet archive, a single bare bulb, dust, deep shadows, no readable writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "In May the inquest closes. Official conclusion: a compelling natural force. No guilty party. The files go to a secret archive, and the area is closed to hikers for three years."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In May the inquest closes. Official conclusion: a compelling natural force. No guilty party. The files go to a secret archive, and the area is closed to hikers for three years.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal dim suspect line-up wall with six empty framed outlines in a dark room, noir lighting, one bare bulb, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Now the suspects. Six theories, tried one by one against the file."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VI",
+   "FRAME 6 \u00b7 THE SUSPECTS",
+   "SIX THEORIES \u00b7 EVIDENCE VS CLAIM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the suspects. Six theories, tried one by one against the file.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 4.392
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal clean fresh snow slope showing only the nine sets of footprints heading away from the tent, no other tracks anywhere, low sun, wide shot, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Suspect one: an attack by the local Mansi people. Investigators questioned Mansi men and found nothing. Only the hikers' own footprints, no sign of a struggle, and the fatal injuries were too severe for human blows."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect one: an attack by the local Mansi people. Investigators questioned Mansi men and found nothing. Only the hikers' own footprints, no sign of a struggle, and the fatal injuries were too severe for human blows.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 15.48
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal dark spruce forest edge at dusk with unbroken smooth snow in front and no tracks, a small flask lying intact on the snow, cold blue light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Suspect two: animals, or a fight inside the group. There are no animal tracks. Researcher Donnie Eichar found a harmonious team, no drugs, and a small flask of medicinal alcohol, found intact. A brawl does not crush ribs without a mark."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect two: animals, or a fight inside the group. There are no animal tracks. Researcher Donnie Eichar found a harmonious team, no drugs, and a small flask of medicinal alcohol, found intact. A brawl does not crush ribs without a mark.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 17.328
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal Cold War night sky over mountains with a bright descending parachute flare and a faint aircraft silhouette, long exposure, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Suspect three: a secret weapon. Soviet parachute mines were tested in this region around then. They explode in the air and can cause internal injuries without outer wounds, as in the report. Intriguing, but nothing in the file shows a test happened that night."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect three: a secret weapon. Soviet parachute mines were tested in this region around then. They explode in the air and can cause internal injuries without outer wounds, as in the report. Intriguing, but nothing in the file shows a test happened that night.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 17.568
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal glowing orange spheres hovering low above a distant dark ridge over a snowy taiga at night, haze, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "The orange lights. Another hiking group, about fifty kilometers south, saw orange spheres in the sky to the north that night. Similar lights were reported around Ivdel in February and March, even by military and weather staff. But none of it is in the 1959 file. The witnesses spoke years later."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The orange lights. Another hiking group, about fifty kilometers south, saw orange spheres in the sky to the north that night. Similar lights were reported around Ivdel in February and March, even by military and weather staff. But none of it is in the 1959 file. The witnesses spoke years later.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 20.592
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal elderly grey-haired man in a dark suit sitting at a desk in 1990 with a folder, window light, thoughtful, shallow depth of field, face turned away, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen ninety, lead investigator Lev Ivanov wrote that the inquest had no rational explanation, and that he was told to drop the reports of flying spheres. That is a powerful statement. It also comes thirty-one years late, and it describes lights, not a craft."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen ninety, lead investigator Lev Ivanov wrote that the inquest had no rational explanation, and that he was told to drop the reports of flying spheres. That is a powerful statement. It also comes thirty-one years late, and it describes lights, not a craft.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 18.552
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal dramatic glowing disc-shaped craft hovering silently above a snowy Ural valley with a tiny tent below it, cold blue light, rendered realistic, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Suspect four: aliens. A craft hovers, the hikers flee. Notice what that needs: a craft nobody photographed or recovered, and injuries that look nothing like burns. Lights in the 1959 Soviet sky could be rockets or flares. Nothing in the file puts a craft at the tent."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect four: aliens. A craft hovers, the hikers flee. Notice what that needs: a craft nobody photographed or recovered, and injuries that look nothing like burns. Lights in the 1959 Soviet sky could be rockets or flares. Nothing in the file puts a craft at the tent.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 19.992
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal strong wind curling around a rounded bare summit, long plumes of snow spiralling off the ridge in a repeating pattern, eerie dusk light, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Suspect five: infrasound. Eichar proposed that wind curling around the summit makes a vortex street, a pulse of infrasound that can cause dread and panic. It would explain the flight. But it is a hypothesis, not a measurement, and it does not explain the injuries."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect five: infrasound. Eichar proposed that wind curling around the summit makes a vortex street, a pulse of infrasound that can cause dread and panic. It would explain the flight. But it is a hypothesis, not a measurement, and it does not explain the injuries.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 17.952
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal dense wall of blowing snow pouring down a mountain slope at night like a river of white, katabatic wind, tiny tent at the edge, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Suspect six: a katabatic wind, cold dense air pouring down the slope. A Swedish and Russian expedition in twenty nineteen said wind alone could have forced them out, and compared the place to Anaris Mountain in Sweden, where eight hikers died in nineteen seventy-eight."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect six: a katabatic wind, cold dense air pouring down the slope. A Swedish and Russian expedition in twenty nineteen said wind alone could have forced them out, and compared the place to Anaris Mountain in Sweden, where eight hikers died in nineteen seventy-eight.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 18.384
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal a lone wool jacket dropped on the snow beside a trail of footprints in the cold dawn, shallow depth of field, no people, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Paradoxical undressing, where freezing people feel burning heat and strip, may explain some of the missing clothing. But others in the group took extra clothes from the dead, which looks like clear thinking, not delirium."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Paradoxical undressing, where freezing people feel burning heat and strip, may explain some of the missing clothing. But others in the group took extra clothes from the dead, which looks like clear thinking, not delirium.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 14.088
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal small slab avalanche on a snow slope in daylight with a clean crown fracture line and broken blocks of snow below it, a tiny tent platform at the bottom, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "And the avalanche. In July twenty twenty, Russian prosecutors announced it as the official cause: a slab forced them out, and they made a hard, textbook retreat to safer ground. One official called it a heroic struggle."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the avalanche. In July twenty twenty, Russian prosecutors announced it as the official cause: a slab forced them out, and they made a hard, textbook retreat to safer ground. One official called it a heroic struggle.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 14.856
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal engineering laboratory with a long glass flume holding a layered snow slab model on a tilted bed, a sensor rig above, clean light, shallow depth of field, no readable text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "In twenty twenty-one, Swiss scientists Johan Gaume and Alexander Puzrin published a model in Communications Earth and Environment. A cut in the slope, a weak snow layer at about twenty-eight degrees, and hours of wind-blown snow can release a slab seven to thirteen hours later."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty twenty-one, Swiss scientists Johan Gaume and Alexander Puzrin published a model in Communications Earth and Environment. A cut in the slope, a weak snow layer at about twenty-eight degrees, and hours of wind-blown snow can release a slab seven to thirteen hours later.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 18.696
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal a snow block resting against a canvas tent floor in a hollow dug into a slope, compacted snow and skis beneath, side view cross-section feel, dim blue light, no people, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Their simulated slab, about five meters long, strikes at two meters per second. Against a chest pinned to a tent floor, that gives moderate to severe, non-fatal rib injuries, just what the autopsies found. The authors admit it does not explain the radiation, or where the bodies lay."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their simulated slab, about five meters long, strikes at two meters per second. Against a chest pinned to a tent floor, that gives moderate to severe, non-fatal rib injuries, just what the autopsies found. The authors admit it does not explain the radiation, or where the bodies lay.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 19.512
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal calm snow slope in daylight seen from a skier's viewpoint with gentle rolling terrain and few visible signs of avalanche, overcast, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Critics push back. Searchers saw no clear avalanche debris, the slope averages only about twenty-three degrees, and the footprints look like people walking, not running. Fair points. The authors reply that a thin slab leaves little trace, and in twenty twenty-two they reported avalanche activity found by follow-up expeditions."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Critics push back. Searchers saw no clear avalanche debris, the slope averages only about twenty-three degrees, and the footprints look like people walking, not running. Fair points. The authors reply that a thin slab leaves little trace, and in twenty twenty-two they reported avalanche activity found by follow-up expeditions.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 21.192
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark interior at the edge of a snowy forest at night with a cut-open orange tent glowing on the far right edge of frame, large empty dark space on the left, soft snowfall, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Time to score the case. Evidence on one side, theory on the other."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VII",
+   "FRAME 7 \u00b7 THE SCORECARD",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score the case. Evidence on one side, theory on the other.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 4.2
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark interior at the edge of a snowy forest at night with a cut-open orange tent glowing on the far right edge of frame, large empty dark space on the left, soft snowfall, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "A tent cut from inside, hikers leaving on their own: evidence. Six of nine killed by cold: evidence. Chest and skull injuries with no wounds outside: evidence, now partly explained. A wind slab in a storm: the best fit, not proven."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A tent cut from inside, hikers leaving on their own: evidence. Six of nine killed by cold: evidence. Chest and skull injuries with no wounds outside: evidence, now partly explained. A wind slab in a storm: the best fit, not proven.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 17.04
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark interior at the edge of a snowy forest at night with a cut-open orange tent glowing on the far right edge of frame, large empty dark space on the left, soft snowfall, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Weapon tests, infrasound, an attack: no proof. An alien craft: no craft, no wreckage, no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Weapon tests, infrasound, an attack: no proof. An alien craft: no craft, no wreckage, no evidence.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 7.488
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A calm snowy Ural mountain slope at dawn under a clear pale sky, a single small tent standing far away, peaceful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Not aliens. Most likely a sudden natural disaster at a badly placed camp, a storm and a snow slab, followed by a brave retreat in the dark. Not every detail is explained. But no detail needs a spaceship."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Not aliens. Most likely a sudden natural disaster at a badly placed camp, a storm and a snow slab, followed by a brave retreat in the dark. Not every detail is explained. But no detail needs a spaceship.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 16.104
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal a single candle and a small bouquet of fresh flowers on snow at the foot of a plain granite memorial stone in a quiet winter cemetery, soft light, shallow depth of field, no readable writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Nine people died. Seven men and two women, aged twenty to thirty-eight. The best-supported story is also the saddest one: no villain, only a storm, a slope, and a decision made in the dark."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nine people died. Seven men and two women, aged twenty to thirty-eight. The best-supported story is also the saddest one: no villain, only a storm, a slope, and a decision made in the dark.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal ancient Bronze Age city ruins on a flat desert plain in the Jordan Valley at dusk, mud-brick walls and a dark band of scorched earth under a pale glowing sky, warm light, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a Bronze Age city in Jordan, where a team claims a cosmic airburst wiped everything out about thirty-six hundred years ago. Biblical Sodom, or a very bad day for a small town? Evidence against theory, next time."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a Bronze Age city in Jordan, where a team claims a cosmic airburst wiped everything out about thirty-six hundred years ago. Biblical Sodom, or a very bad day for a small town? Evidence against theory, next time.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 16.008
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single tiny orange tent glowing on a thin pale mountain ridge line under black sky, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark, no people's faces, no bodies",
+  "lines": [
+   [
+    "narrator",
+    "Which suspect do you trust: the avalanche, the wind, the weapon, or the lights? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which suspect do you trust: the avalanche, the wind, the weapon, or the lights? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 10.368
+   }
+  ]
+ }
+]
