@@ -1,0 +1,1364 @@
+{
+ "fps": 30,
+ "total": 26865,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 478,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This disc of baked clay is about three thousand seven hundred years old. Both sides are covered in a spiral of tiny pictures, stamped one by one. And after more than a century, nobody on Earth can read a single word of it.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.976,
+     "start": 10,
+     "end": 460
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 460,
+   "end": 776,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some say that is because it was never meant for us. That it is a message from somewhere else. A disk, made to be read by a machine from the stars.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 9.576,
+     "start": 470,
+     "end": 758
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 758,
+   "end": 1054,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight we open a codebreaker's notebook, and treat the Phaistos Disc the way cryptographers treat an intercepted enemy message.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 8.928,
+     "start": 768,
+     "end": 1036
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1036,
+   "end": 1433,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We log the intercept. We study the press that printed it. We count every sign, hunt for patterns, look for a crib, test the people who claimed to crack it, and check whether it is even genuine.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 12.288,
+     "start": 1046,
+     "end": 1415
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1415,
+   "end": 1835,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the boldest theory of all: that the message is not human. Every claim gets a score. At the end, a verdict. Let's open the notebook.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 9.048,
+     "start": 1425,
+     "end": 1697
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "sand",
+   "motion": "right",
+   "tag": "E",
+   "ch": [
+    "PAGE 1",
+    "The Intercept",
+    "PHAISTOS, CRETE \u00b7 3 JULY 1908"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1817,
+   "end": 2259,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Page one. The intercept. In southern Crete, on a ridge above the Mesara plain, stand the ruins of Phaistos, one of the great palaces of the Minoans, the Bronze Age civilisation of Crete.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 13.8,
+     "start": 1827,
+     "end": 2241
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2241,
+   "end": 2704,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In 1908 an Italian mission under Federico Halbherr and Luigi Pernier was digging there. On the third of July, in a group of buildings north-east of the main palace, the disc came out of the ground.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 14.496,
+     "start": 2251,
+     "end": 2686
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2686,
+   "end": 3123,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It lay in an underground cell, a kind of basement deposit, in a layer of black earth and ash mixed with burnt cattle bones. One account says the local foreman spotted it during an evening inspection.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 13.608,
+     "start": 2696,
+     "end": 3105
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3105,
+   "end": 3509,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A few centimetres away lay something important: a small clay tablet in Linear A, the everyday script of Minoan Crete. That tablet is the disc's closest neighbour, and its first alibi.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 12.528,
+     "start": 3115,
+     "end": 3491
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3491,
+   "end": 3918,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The disc itself is small. About sixteen centimetres across, up to two centimetres thick, slightly egg-shaped, with rounded edges. One face is a little concave, the other a little convex.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 13.296,
+     "start": 3501,
+     "end": 3900
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3900,
+   "end": 4328,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And it was fired on purpose. Clay documents in Crete usually survive only because a building burned down around them. This one was baked deliberately, like pottery, as if it was meant to last.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 13.32,
+     "start": 3910,
+     "end": 4310
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4310,
+   "end": 4720,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today it sits behind glass in the Heraklion Archaeological Museum, the most famous object in Minoan archaeology. A message with no sender, no reader, and no key.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 12.72,
+     "start": 4320,
+     "end": 4702
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "PAGE 2",
+    "The Printing Press",
+    "45 STAMPS \u00b7 NO PEN"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4702,
+   "end": 5106,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Page two. How was it written? Not with a pen, or a stylus. Every sign was pressed into the soft clay with a separate stamp, one stamp for each of the forty-five different signs.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.528,
+     "start": 4712,
+     "end": 5088
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 5088,
+   "end": 5460,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Whoever made it carved a set of punches, probably of metal, then pressed them one after another around a spiral. The same stamp leaves the same mark, again and again.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 11.448,
+     "start": 5098,
+     "end": 5442
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5442,
+   "end": 5875,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the principle of movable type. The typesetter and linguist Herbert Brekle argued that the disc fulfils every definition of a printed text, more than three thousand years before Gutenberg.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 13.488,
+     "start": 5452,
+     "end": 5857
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5857,
+   "end": 6300,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some marks were drawn by hand. A scored line spirals between the rows. Short radial lines cut the spiral into boxes. And at the rim, one starting line is marked with five punched dots.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 13.824,
+     "start": 5867,
+     "end": 6282
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6282,
+   "end": 6709,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Under some signs there is a tiny slanting stroke, scratched with a stylus. It appears eighteen times, always on the last sign of a box. A word ending? A paragraph mark? Nobody knows.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 13.296,
+     "start": 6292,
+     "end": 6691
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6691,
+   "end": 7095,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here is the most human detail of all. The disc has corrections. In more than a dozen places, a sign was smoothed away and another stamped over it. Someone made mistakes, and fixed them.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 12.528,
+     "start": 6701,
+     "end": 7077
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 7077,
+   "end": 7401,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Keep that in mind. A printing press, a spiral layout, and a maker who sometimes slipped. These are the fingerprints we will check every theory against.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 9.84,
+     "start": 7087,
+     "end": 7383
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "A",
+   "ch": [
+    "PAGE 3",
+    "The Inventory",
+    "241 SIGNS \u00b7 45 TYPES \u00b7 61 WORDS"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 7383,
+   "end": 7828,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Page three. Inventory. A codebreaker starts by counting. The disc carries two hundred and forty-two stamped impressions. One is too damaged to identify, so most counts say two hundred and forty-one.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 13.872,
+     "start": 7393,
+     "end": 7810
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7810,
+   "end": 8224,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They are grouped into sixty-one boxes, thirty-one on one side and thirty on the other, each holding between two and seven signs. Scholars call them words, though nobody can prove they are.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.84,
+     "start": 7820,
+     "end": 8206
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "sand",
+   "motion": "left",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8206,
+   "end": 8689,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Arthur Evans numbered the forty-five signs, and the nicknames stuck. A walking man. A head with a feathered crest. A shaven head. A woman, a child, a bow, a shield, a ship, a fish, a bee, a beehive, a tree.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 15.144,
+     "start": 8216,
+     "end": 8671
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8671,
+   "end": 9050,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The most common is the plumed head, nineteen times. Then a cap-like sign, eighteen times, and a round shield with dots, seventeen. Nine signs appear only once.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 11.688,
+     "start": 8681,
+     "end": 9032
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 9032,
+   "end": 9481,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the first real clue. Alphabets use about twenty to forty signs. Scripts built on word-signs need hundreds or thousands. Syllabaries, where each sign is a syllable, usually sit in between.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 14.016,
+     "start": 9042,
+     "end": 9463
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9463,
+   "end": 9930,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Forty-five different signs in such a short text fits a syllabary best, perhaps with a few word-signs mixed in, like the other scripts of the Bronze Age Aegean. The full set may have held fifty-five or sixty.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 14.616,
+     "start": 9473,
+     "end": 9912
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "sand",
+   "motion": "right",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9912,
+   "end": 10303,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which way does it run? Evans first thought from the centre out, then changed his mind. Today most agree: start at the five dots on the rim, and read clockwise, spiralling inward.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 12.072,
+     "start": 9922,
+     "end": 10285
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10285,
+   "end": 10676,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In 2008 the forty-five signs were even added to Unicode, the standard behind every computer font. You can type the Phaistos Disc. You just cannot read it.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 12.072,
+     "start": 10295,
+     "end": 10658
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "A",
+   "ch": [
+    "PAGE 4",
+    "Pattern Hunt",
+    "REPEATS \u00b7 REFRAINS \u00b7 RHYMES"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 10658,
+   "end": 11082,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Page four. Patterns. Codebreakers look for what repeats, and the disc repeats a lot. Of the seventeen shields, thirteen come straight after a plumed head. That pair opens box after box.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 13.176,
+     "start": 10668,
+     "end": 11064
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 11064,
+   "end": 11504,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On one side, a four-sign word, plumed head, shield, a bird, a horn, appears three times. A longer six-sign phrase repeats twice, and so does a seven-sign word. Like a refrain in a song.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 13.704,
+     "start": 11074,
+     "end": 11486
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11486,
+   "end": 11876,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the other side the habits change. Many words end in the same few signs, like lines of a poem that rhyme. The two sides share many signs, but follow different patterns.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 12.048,
+     "start": 11496,
+     "end": 11858
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11858,
+   "end": 12349,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Refrains and rhymes are what you expect from a hymn, a prayer, or a ritual formula. The archaeologist Giorgia Baldacci argues the repetitions point to a religious or magical text, made for display.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 15.432,
+     "start": 11868,
+     "end": 12331
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12331,
+   "end": 12744,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That would fit a deliberately fired object, found in what Pernier called a temple deposit. But a list of names can repeat too. Patterns tell us the text is structured. Not what it says.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.816,
+     "start": 12341,
+     "end": 12726
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12726,
+   "end": 13127,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some see a board game, like snakes and ladders, with the boxes as squares. Others see a calendar, counting days around the spiral. Each idea fits a few features and ignores the rest.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.432,
+     "start": 12736,
+     "end": 13109
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 13109,
+   "end": 13451,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the hard truth of page four. Two hundred and forty-one signs is tiny. The statistics that crack a long message have almost nothing to grip.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 10.44,
+     "start": 13119,
+     "end": 13433
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "PAGE 5",
+    "Looking for a Crib",
+    "LINEAR A \u00b7 LINEAR B \u00b7 THE AXE"
+   ],
+   "img": "ep/img/shot_35.jpg",
+   "start": 13433,
+   "end": 13826,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Page five. Looking for a crib. Every great decipherment had outside help. The Rosetta Stone gave Egyptian hieroglyphs a Greek translation, carved right beside them.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 12.144,
+     "start": 13443,
+     "end": 13808
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13808,
+   "end": 14304,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Crete had two scripts of its own: Cretan hieroglyphs and Linear A. Both are still undeciphered. A later script, Linear B, was cracked in 1952 by Michael Ventris. It turned out to be an early form of Greek.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 15.6,
+     "start": 13818,
+     "end": 14286
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14286,
+   "end": 14705,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But Ventris had thousands of tablets, and the patient grids of Alice Kober before him. The disc is one object. In 1948 Kober wrote that very little can be done with it.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 13.008,
+     "start": 14296,
+     "end": 14687
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14687,
+   "end": 15227,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The best crib so far is a bronze double axe, found in 1934 in a cave at Arkalochori in central Crete. It carries fifteen signs. Some resemble the disc's signs, including a crested head. None is a perfect match.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 17.04,
+     "start": 14697,
+     "end": 15209
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 15209,
+   "end": 15767,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then smaller clues turned up at Phaistos itself. A bowl excavated in 1965 carries a potter's mark almost identical to the disc's comb sign. A clay sealing found in 1955 shows a very similar motif.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 17.64,
+     "start": 15219,
+     "end": 15749
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15749,
+   "end": 16220,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And Phaistos potters had a habit: they decorated fine cups by pressing small stamps into the clay in rows. Alessandro Sanavia found close parallels for six of the disc's signs on that stamped pottery.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 14.76,
+     "start": 15759,
+     "end": 16202
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 16202,
+   "end": 16621,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the disc is not an orphan. Its technique, and some of its signs, belong to Phaistos. What we still lack is one word we can actually read. Without that, every crib is only a resemblance.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 13.008,
+     "start": 16212,
+     "end": 16603
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "N",
+   "ch": [
+    "PAGE 6",
+    "The Solutions",
+    "EVERYONE CRACKED IT \u00b7 NOBODY AGREES"
+   ],
+   "img": "ep/img/shot_42.jpg",
+   "start": 16603,
+   "end": 16925,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Page six. The solutions. People have claimed to crack the disc for more than a hundred years. The problem is not too few answers. It is too many.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 9.792,
+     "start": 16613,
+     "end": 16907
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "N",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16907,
+   "end": 17402,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In 1911 George Hempl read it as early Ionic Greek: a prophetess dedicating spoils, with calls for silence. The same year Florence Stawell read it as Homeric Greek, starting from the other side.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 15.552,
+     "start": 16917,
+     "end": 17384
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "N",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 17384,
+   "end": 17838,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In 1988 Steven Roger Fischer read Greek again, opening with the words hear ye. Kjell Aartun found a Semitic language. Others found Hittite, Egyptian, even a route through Basque.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 14.184,
+     "start": 17394,
+     "end": 17820
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "N",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 17820,
+   "end": 18282,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In 2004 a team based in the Netherlands read it as Luwian, a language of Anatolia: a document about land, addressed to Nestor, the king from Homer, naming Phaistos and Knossos.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 14.448,
+     "start": 17830,
+     "end": 18264
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "N",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 18264,
+   "end": 18753,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And in 2014 linguist Gareth Owens, working with the Oxford phonetician John Coleman, presented the disc as a prayer to a Minoan mother goddess, built around a word he read as ee kweh koo ree ah.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 15.336,
+     "start": 18274,
+     "end": 18735
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "N",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 18735,
+   "end": 19200,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Headlines said the code was cracked. Specialists disagreed. Owens borrowed sound values from Linear A, which is itself unread. Brent Davis called the readings a stack of unverifiable assumptions.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 14.544,
+     "start": 18745,
+     "end": 19182
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "A",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 19182,
+   "end": 19601,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Elizabeth Barber summed up the problem in one line. With so few signs, there is not enough data for anyone to prove a decipherment, and by the same token, not enough for anyone to disprove one.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.032,
+     "start": 19192,
+     "end": 19583
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "out",
+   "tag": "N",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 19583,
+   "end": 19952,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is why the disc can be Greek, Luwian, Semitic and a prayer all at once. When one text supports every answer, it supports none. Deciphered? Unproven.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 11.352,
+     "start": 19593,
+     "end": 19934
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "PAGE 7",
+    "Counterfeit Check",
+    "IS THE INTERCEPT GENUINE?"
+   ],
+   "img": "ep/img/shot_50.jpg",
+   "start": 19934,
+   "end": 20397,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Page seven. Is the intercept even genuine? In 2008 Jerome Eisenberg, an expert on faked antiquities, argued in his journal Minerva that the disc was a modern hoax, made for Pernier.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 14.496,
+     "start": 19944,
+     "end": 20379
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 20379,
+   "end": 20857,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His case: Pernier envied the spectacular finds of his rivals on Crete. The disc was too neat, too perfect, too unique. And it has never been dated by thermoluminescence, which measures when clay was last fired.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 15.0,
+     "start": 20389,
+     "end": 20839
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 20839,
+   "end": 21270,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That last point is fair. Greek authorities have not allowed the test, and the writer Andrew Robinson, who does not back the hoax theory, says a lab date would be very welcome. Until then, there is none.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 13.416,
+     "start": 20849,
+     "end": 21252
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 21252,
+   "end": 21790,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the hoax theory has a time-machine problem. The comb sign turns up on a sealing found in 1955 and a bowl found in 1965. A forger in 1908 could not copy marks that were still underground.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 16.992,
+     "start": 21262,
+     "end": 21772
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 21772,
+   "end": 22268,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Add the Linear A tablet in the same layer, the stamped pottery of Phaistos, and those careful corrections. Why fix mistakes in a text that means nothing? A 2008 symposium rejected the hoax. Genuine, very probably.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 15.576,
+     "start": 21782,
+     "end": 22250
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "PAGE 8",
+    "The Alien Hypothesis",
+    "A MESSAGE FROM THE STARS?"
+   ],
+   "img": "ep/img/shot_55.jpg",
+   "start": 22250,
+   "end": 22718,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Page eight. The alien hypothesis. On the TV series Ancient Aliens, in an episode called The Alien Disks, a guest suggested the disc is a kind of computer disk, meant to be read by a machine from space.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 14.64,
+     "start": 22260,
+     "end": 22700
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 22700,
+   "end": 23102,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Others call it an interstellar navigation chart, a message from the galaxy, even a stargate. The spiral, they say, looks like a galaxy, or the path of a craft through space.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 12.456,
+     "start": 22710,
+     "end": 23084
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 23084,
+   "end": 23521,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So read the evidence the way a codebreaker would. What does the sender know? Bees and beehives. A fish. A ship. Trees and plants, animal hides, a bull's leg, people with Bronze Age headgear.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 13.632,
+     "start": 23094,
+     "end": 23503
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 23503,
+   "end": 23879,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is not a picture of the galaxy. It is a picture of Bronze Age Crete. The maker used a Cretan stamping craft, Cretan motifs, and fixed their typos by hand.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 11.568,
+     "start": 23513,
+     "end": 23861
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "none",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 23861,
+   "end": 24277,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "An interstellar message, stamped in local clay, with typos, buried beside a Linear A tablet? The alien version explains none of that, and adds a sender who left no trace. No evidence.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 12.912,
+     "start": 23871,
+     "end": 24259
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 24259,
+   "end": 24368,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score the Phaistos Disc.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 2.688,
+     "start": 24269,
+     "end": 24350
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 24350,
+   "end": 24869,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A genuine Minoan object, from around seventeen hundred B C: evidence. Stamped with forty-five punches, an early kind of printing: evidence. A real script, probably syllables: likely. A hymn or a prayer: possible, but open.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 16.344,
+     "start": 24360,
+     "end": 24851
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 24851,
+   "end": 25212,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Deciphered, by any of the claimants: unproven. A modern forgery: unlikely, though a lab date would settle it. An alien message or star map: no evidence.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 11.088,
+     "start": 24861,
+     "end": 25194
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 25194,
+   "end": 25706,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Unbroken, but human. The Phaistos Disc is a real Minoan text, printed with stamps more than three thousand years before Gutenberg. We cannot read it yet. One more inscription in the same script could change everything.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 16.104,
+     "start": 25204,
+     "end": 25688
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 25688,
+   "end": 26160,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Somewhere in Phaistos, around seventeen hundred B C, a person pressed a stamp into wet clay, smoothed out a mistake, and pressed again. That person is the real mystery. And one day, a trowel may give us their voice.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 14.784,
+     "start": 25698,
+     "end": 26142
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 26142,
+   "end": 26571,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: December 1980. Strange lights among the pines of Rendlesham Forest, right beside two air bases in England. Britain's Roswell. What did the airmen really see?",
+     "file": "ep/audio/s65.mp3",
+     "dur": 13.344,
+     "start": 26152,
+     "end": 26553
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 26553,
+   "end": 26790,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think the disc says? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 6.936,
+     "start": 26563,
+     "end": 26772
+    }
+   ]
+  }
+ ]
+}

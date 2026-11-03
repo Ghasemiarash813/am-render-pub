@@ -1,0 +1,827 @@
+1
+00:00:00,333 --> 00:00:05,242
+This disc of baked clay is about three thousand seven hundred years old.
+
+2
+00:00:05,242 --> 00:00:10,151
+Both sides are covered in a spiral of tiny pictures, stamped one by one.
+
+3
+00:00:10,151 --> 00:00:15,333
+And after more than a century, nobody on Earth can read a single word of it.
+
+4
+00:00:15,666 --> 00:00:19,066
+Some say that is because it was never meant for us.
+
+5
+00:00:19,066 --> 00:00:21,800
+That it is a message from somewhere else.
+
+6
+00:00:21,800 --> 00:00:25,266
+A disk, made to be read by a machine from the stars.
+
+7
+00:00:25,600 --> 00:00:34,533
+So tonight we open a codebreaker's notebook, and treat the Phaistos Disc the way cryptographers treat an intercepted enemy message.
+
+8
+00:00:34,866 --> 00:00:36,219
+We log the intercept.
+
+9
+00:00:36,219 --> 00:00:38,472
+We study the press that printed it.
+
+10
+00:00:38,472 --> 00:00:47,166
+We count every sign, hunt for patterns, look for a crib, test the people who claimed to crack it, and check whether it is even genuine.
+
+11
+00:00:47,500 --> 00:00:51,726
+Then the boldest theory of all: that the message is not human.
+
+12
+00:00:51,726 --> 00:00:53,430
+Every claim gets a score.
+
+13
+00:00:53,430 --> 00:00:54,930
+At the end, a verdict.
+
+14
+00:00:54,930 --> 00:00:56,566
+Let's open the notebook.
+
+15
+00:01:00,899 --> 00:01:01,575
+Page one.
+
+16
+00:01:01,575 --> 00:01:02,625
+The intercept.
+
+17
+00:01:02,625 --> 00:01:14,700
+In southern Crete, on a ridge above the Mesara plain, stand the ruins of Phaistos, one of the great palaces of the Minoans, the Bronze Age civilisation of Crete.
+
+18
+00:01:15,033 --> 00:01:21,469
+In 1908 an Italian mission under Federico Halbherr and Luigi Pernier was digging there.
+
+19
+00:01:21,469 --> 00:01:29,533
+On the third of July, in a group of buildings north-east of the main palace, the disc came out of the ground.
+
+20
+00:01:29,866 --> 00:01:38,335
+It lay in an underground cell, a kind of basement deposit, in a layer of black earth and ash mixed with burnt cattle bones.
+
+21
+00:01:38,335 --> 00:01:43,500
+One account says the local foreman spotted it during an evening inspection.
+
+22
+00:01:43,833 --> 00:01:51,890
+A few centimetres away lay something important: a small clay tablet in Linear A, the everyday script of Minoan Crete.
+
+23
+00:01:51,890 --> 00:01:56,366
+That tablet is the disc's closest neighbour, and its first alibi.
+
+24
+00:01:56,700 --> 00:01:58,507
+The disc itself is small.
+
+25
+00:01:58,507 --> 00:02:05,952
+About sixteen centimetres across, up to two centimetres thick, slightly egg-shaped, with rounded edges.
+
+26
+00:02:05,952 --> 00:02:09,999
+One face is a little concave, the other a little convex.
+
+27
+00:02:10,333 --> 00:02:12,298
+And it was fired on purpose.
+
+28
+00:02:12,298 --> 00:02:18,473
+Clay documents in Crete usually survive only because a building burned down around them.
+
+29
+00:02:18,473 --> 00:02:23,666
+This one was baked deliberately, like pottery, as if it was meant to last.
+
+30
+00:02:24,000 --> 00:02:32,913
+Today it sits behind glass in the Heraklion Archaeological Museum, the most famous object in Minoan archaeology.
+
+31
+00:02:32,913 --> 00:02:36,733
+A message with no sender, no reader, and no key.
+
+32
+00:02:37,066 --> 00:02:37,714
+Page two.
+
+33
+00:02:37,714 --> 00:02:39,083
+How was it written?
+
+34
+00:02:39,083 --> 00:02:41,100
+Not with a pen, or a stylus.
+
+35
+00:02:41,100 --> 00:02:49,599
+Every sign was pressed into the soft clay with a separate stamp, one stamp for each of the forty-five different signs.
+
+36
+00:02:49,933 --> 00:02:57,716
+Whoever made it carved a set of punches, probably of metal, then pressed them one after another around a spiral.
+
+37
+00:02:57,716 --> 00:03:01,400
+The same stamp leaves the same mark, again and again.
+
+38
+00:03:01,733 --> 00:03:04,377
+That is the principle of movable type.
+
+39
+00:03:04,377 --> 00:03:15,233
+The typesetter and linguist Herbert Brekle argued that the disc fulfils every definition of a printed text, more than three thousand years before Gutenberg.
+
+40
+00:03:15,566 --> 00:03:17,859
+Some marks were drawn by hand.
+
+41
+00:03:17,859 --> 00:03:20,840
+A scored line spirals between the rows.
+
+42
+00:03:20,840 --> 00:03:24,279
+Short radial lines cut the spiral into boxes.
+
+43
+00:03:24,279 --> 00:03:29,400
+And at the rim, one starting line is marked with five punched dots.
+
+44
+00:03:29,733 --> 00:03:35,262
+Under some signs there is a tiny slanting stroke, scratched with a stylus.
+
+45
+00:03:35,262 --> 00:03:39,745
+It appears eighteen times, always on the last sign of a box.
+
+46
+00:03:39,745 --> 00:03:40,791
+A word ending?
+
+47
+00:03:40,791 --> 00:03:42,061
+A paragraph mark?
+
+48
+00:03:42,061 --> 00:03:43,033
+Nobody knows.
+
+49
+00:03:43,366 --> 00:03:46,129
+And here is the most human detail of all.
+
+50
+00:03:46,129 --> 00:03:47,813
+The disc has corrections.
+
+51
+00:03:47,813 --> 00:03:53,339
+In more than a dozen places, a sign was smoothed away and another stamped over it.
+
+52
+00:03:53,339 --> 00:03:55,900
+Someone made mistakes, and fixed them.
+
+53
+00:03:56,233 --> 00:03:57,425
+Keep that in mind.
+
+54
+00:03:57,425 --> 00:04:01,994
+A printing press, a spiral layout, and a maker who sometimes slipped.
+
+55
+00:04:01,994 --> 00:04:06,099
+These are the fingerprints we will check every theory against.
+
+56
+00:04:06,433 --> 00:04:07,221
+Page three.
+
+57
+00:04:07,221 --> 00:04:07,937
+Inventory.
+
+58
+00:04:07,937 --> 00:04:10,302
+A codebreaker starts by counting.
+
+59
+00:04:10,302 --> 00:04:14,816
+The disc carries two hundred and forty-two stamped impressions.
+
+60
+00:04:14,816 --> 00:04:20,333
+One is too damaged to identify, so most counts say two hundred and forty-one.
+
+61
+00:04:20,666 --> 00:04:29,473
+They are grouped into sixty-one boxes, thirty-one on one side and thirty on the other, each holding between two and seven signs.
+
+62
+00:04:29,473 --> 00:04:33,533
+Scholars call them words, though nobody can prove they are.
+
+63
+00:04:33,866 --> 00:04:38,972
+Arthur Evans numbered the forty-five signs, and the nicknames stuck.
+
+64
+00:04:38,972 --> 00:04:40,023
+A walking man.
+
+65
+00:04:40,023 --> 00:04:42,275
+A head with a feathered crest.
+
+66
+00:04:42,275 --> 00:04:43,327
+A shaven head.
+
+67
+00:04:43,327 --> 00:04:49,033
+A woman, a child, a bow, a shield, a ship, a fish, a bee, a beehive, a tree.
+
+68
+00:04:49,366 --> 00:04:53,167
+The most common is the plumed head, nineteen times.
+
+69
+00:04:53,167 --> 00:04:58,980
+Then a cap-like sign, eighteen times, and a round shield with dots, seventeen.
+
+70
+00:04:58,980 --> 00:05:01,066
+Nine signs appear only once.
+
+71
+00:05:01,399 --> 00:05:03,191
+Now the first real clue.
+
+72
+00:05:03,191 --> 00:05:06,326
+Alphabets use about twenty to forty signs.
+
+73
+00:05:06,326 --> 00:05:10,432
+Scripts built on word-signs need hundreds or thousands.
+
+74
+00:05:10,432 --> 00:05:15,433
+Syllabaries, where each sign is a syllable, usually sit in between.
+
+75
+00:05:15,766 --> 00:05:27,061
+Forty-five different signs in such a short text fits a syllabary best, perhaps with a few word-signs mixed in, like the other scripts of the Bronze Age Aegean.
+
+76
+00:05:27,061 --> 00:05:30,399
+The full set may have held fifty-five or sixty.
+
+77
+00:05:30,733 --> 00:05:32,245
+Which way does it run?
+
+78
+00:05:32,245 --> 00:05:36,577
+Evans first thought from the centre out, then changed his mind.
+
+79
+00:05:36,577 --> 00:05:42,833
+Today most agree: start at the five dots on the rim, and read clockwise, spiralling inward.
+
+80
+00:05:43,166 --> 00:05:50,888
+In 2008 the forty-five signs were even added to Unicode, the standard behind every computer font.
+
+81
+00:05:50,888 --> 00:05:53,356
+You can type the Phaistos Disc.
+
+82
+00:05:53,356 --> 00:05:55,266
+You just cannot read it.
+
+83
+00:05:55,600 --> 00:05:56,329
+Page four.
+
+84
+00:05:56,329 --> 00:05:56,985
+Patterns.
+
+85
+00:05:56,985 --> 00:06:01,580
+Codebreakers look for what repeats, and the disc repeats a lot.
+
+86
+00:06:01,580 --> 00:06:06,612
+Of the seventeen shields, thirteen come straight after a plumed head.
+
+87
+00:06:06,612 --> 00:06:08,800
+That pair opens box after box.
+
+88
+00:06:09,133 --> 00:06:15,737
+On one side, a four-sign word, plumed head, shield, a bird, a horn, appears three times.
+
+89
+00:06:15,737 --> 00:06:20,990
+A longer six-sign phrase repeats twice, and so does a seven-sign word.
+
+90
+00:06:20,990 --> 00:06:22,866
+Like a refrain in a song.
+
+91
+00:06:23,199 --> 00:06:25,785
+On the other side the habits change.
+
+92
+00:06:25,785 --> 00:06:30,813
+Many words end in the same few signs, like lines of a poem that rhyme.
+
+93
+00:06:30,813 --> 00:06:35,266
+The two sides share many signs, but follow different patterns.
+
+94
+00:06:35,600 --> 00:06:42,135
+Refrains and rhymes are what you expect from a hymn, a prayer, or a ritual formula.
+
+95
+00:06:42,135 --> 00:06:51,033
+The archaeologist Giorgia Baldacci argues the repetitions point to a religious or magical text, made for display.
+
+96
+00:06:51,366 --> 00:06:57,712
+That would fit a deliberately fired object, found in what Pernier called a temple deposit.
+
+97
+00:06:57,712 --> 00:07:00,180
+But a list of names can repeat too.
+
+98
+00:07:00,180 --> 00:07:03,001
+Patterns tell us the text is structured.
+
+99
+00:07:03,001 --> 00:07:04,199
+Not what it says.
+
+100
+00:07:04,533 --> 00:07:09,644
+Some see a board game, like snakes and ladders, with the boxes as squares.
+
+101
+00:07:09,644 --> 00:07:13,443
+Others see a calendar, counting days around the spiral.
+
+102
+00:07:13,443 --> 00:07:16,966
+Each idea fits a few features and ignores the rest.
+
+103
+00:07:17,300 --> 00:07:19,898
+Here is the hard truth of page four.
+
+104
+00:07:19,898 --> 00:07:22,785
+Two hundred and forty-one signs is tiny.
+
+105
+00:07:22,785 --> 00:07:27,766
+The statistics that crack a long message have almost nothing to grip.
+
+106
+00:07:28,100 --> 00:07:28,855
+Page five.
+
+107
+00:07:28,855 --> 00:07:30,291
+Looking for a crib.
+
+108
+00:07:30,291 --> 00:07:33,465
+Every great decipherment had outside help.
+
+109
+00:07:33,465 --> 00:07:40,266
+The Rosetta Stone gave Egyptian hieroglyphs a Greek translation, carved right beside them.
+
+110
+00:07:40,600 --> 00:07:45,697
+Crete had two scripts of its own: Cretan hieroglyphs and Linear A.
+
+111
+00:07:45,697 --> 00:07:47,859
+Both are still undeciphered.
+
+112
+00:07:47,859 --> 00:07:52,879
+A later script, Linear B, was cracked in 1952 by Michael Ventris.
+
+113
+00:07:52,879 --> 00:07:56,199
+It turned out to be an early form of Greek.
+
+114
+00:07:56,533 --> 00:08:03,285
+But Ventris had thousands of tablets, and the patient grids of Alice Kober before him.
+
+115
+00:08:03,285 --> 00:08:05,091
+The disc is one object.
+
+116
+00:08:05,091 --> 00:08:09,566
+In 1948 Kober wrote that very little can be done with it.
+
+117
+00:08:09,899 --> 00:08:18,227
+The best crib so far is a bronze double axe, found in 1934 in a cave at Arkalochori in central Crete.
+
+118
+00:08:18,227 --> 00:08:20,288
+It carries fifteen signs.
+
+119
+00:08:20,288 --> 00:08:24,987
+Some resemble the disc's signs, including a crested head.
+
+120
+00:08:24,987 --> 00:08:26,966
+None is a perfect match.
+
+121
+00:08:27,300 --> 00:08:31,671
+Then smaller clues turned up at Phaistos itself.
+
+122
+00:08:31,671 --> 00:08:39,867
+A bowl excavated in 1965 carries a potter's mark almost identical to the disc's comb sign.
+
+123
+00:08:39,867 --> 00:08:44,966
+A clay sealing found in 1955 shows a very similar motif.
+
+124
+00:08:45,299 --> 00:08:53,165
+And Phaistos potters had a habit: they decorated fine cups by pressing small stamps into the clay in rows.
+
+125
+00:08:53,165 --> 00:09:00,066
+Alessandro Sanavia found close parallels for six of the disc's signs on that stamped pottery.
+
+126
+00:09:00,399 --> 00:09:02,443
+So the disc is not an orphan.
+
+127
+00:09:02,443 --> 00:09:06,458
+Its technique, and some of its signs, belong to Phaistos.
+
+128
+00:09:06,458 --> 00:09:10,122
+What we still lack is one word we can actually read.
+
+129
+00:09:10,122 --> 00:09:13,433
+Without that, every crib is only a resemblance.
+
+130
+00:09:13,766 --> 00:09:14,392
+Page six.
+
+131
+00:09:14,392 --> 00:09:15,365
+The solutions.
+
+132
+00:09:15,365 --> 00:09:20,091
+People have claimed to crack the disc for more than a hundred years.
+
+133
+00:09:20,091 --> 00:09:22,524
+The problem is not too few answers.
+
+134
+00:09:22,524 --> 00:09:23,566
+It is too many.
+
+135
+00:09:23,899 --> 00:09:32,494
+In 1911 George Hempl read it as early Ionic Greek: a prophetess dedicating spoils, with calls for silence.
+
+136
+00:09:32,494 --> 00:09:39,466
+The same year Florence Stawell read it as Homeric Greek, starting from the other side.
+
+137
+00:09:39,799 --> 00:09:46,093
+In 1988 Steven Roger Fischer read Greek again, opening with the words hear ye.
+
+138
+00:09:46,093 --> 00:09:49,159
+Kjell Aartun found a Semitic language.
+
+139
+00:09:49,159 --> 00:09:54,000
+Others found Hittite, Egyptian, even a route through Basque.
+
+140
+00:09:54,333 --> 00:10:08,799
+In 2004 a team based in the Netherlands read it as Luwian, a language of Anatolia: a document about land, addressed to Nestor, the king from Homer, naming Phaistos and Knossos.
+
+141
+00:10:09,133 --> 00:10:24,500
+And in 2014 linguist Gareth Owens, working with the Oxford phonetician John Coleman, presented the disc as a prayer to a Minoan mother goddess, built around a word he read as ee kweh koo ree ah.
+
+142
+00:10:24,833 --> 00:10:27,564
+Headlines said the code was cracked.
+
+143
+00:10:27,564 --> 00:10:29,233
+Specialists disagreed.
+
+144
+00:10:29,233 --> 00:10:34,240
+Owens borrowed sound values from Linear A, which is itself unread.
+
+145
+00:10:34,240 --> 00:10:39,399
+Brent Davis called the readings a stack of unverifiable assumptions.
+
+146
+00:10:39,733 --> 00:10:43,195
+Elizabeth Barber summed up the problem in one line.
+
+147
+00:10:43,195 --> 00:10:52,766
+With so few signs, there is not enough data for anyone to prove a decipherment, and by the same token, not enough for anyone to disprove one.
+
+148
+00:10:53,100 --> 00:10:58,859
+That is why the disc can be Greek, Luwian, Semitic and a prayer all at once.
+
+149
+00:10:58,859 --> 00:11:02,951
+When one text supports every answer, it supports none.
+
+150
+00:11:02,951 --> 00:11:03,784
+Deciphered?
+
+151
+00:11:03,784 --> 00:11:04,466
+Unproven.
+
+152
+00:11:04,799 --> 00:11:05,691
+Page seven.
+
+153
+00:11:05,691 --> 00:11:08,121
+Is the intercept even genuine?
+
+154
+00:11:08,121 --> 00:11:19,299
+In 2008 Jerome Eisenberg, an expert on faked antiquities, argued in his journal Minerva that the disc was a modern hoax, made for Pernier.
+
+155
+00:11:19,633 --> 00:11:24,681
+His case: Pernier envied the spectacular finds of his rivals on Crete.
+
+156
+00:11:24,681 --> 00:11:28,070
+The disc was too neat, too perfect, too unique.
+
+157
+00:11:28,070 --> 00:11:34,633
+And it has never been dated by thermoluminescence, which measures when clay was last fired.
+
+158
+00:11:34,966 --> 00:11:36,578
+That last point is fair.
+
+159
+00:11:36,578 --> 00:11:46,653
+Greek authorities have not allowed the test, and the writer Andrew Robinson, who does not back the hoax theory, says a lab date would be very welcome.
+
+160
+00:11:46,653 --> 00:11:48,399
+Until then, there is none.
+
+161
+00:11:48,733 --> 00:11:52,983
+But the hoax theory has a time-machine problem.
+
+162
+00:11:52,983 --> 00:11:59,765
+The comb sign turns up on a sealing found in 1955 and a bowl found in 1965.
+
+163
+00:11:59,765 --> 00:12:05,733
+A forger in 1908 could not copy marks that were still underground.
+
+164
+00:12:06,066 --> 00:12:13,940
+Add the Linear A tablet in the same layer, the stamped pottery of Phaistos, and those careful corrections.
+
+165
+00:12:13,940 --> 00:12:17,358
+Why fix mistakes in a text that means nothing?
+
+166
+00:12:17,358 --> 00:12:19,958
+A 2008 symposium rejected the hoax.
+
+167
+00:12:19,958 --> 00:12:21,666
+Genuine, very probably.
+
+168
+00:12:22,000 --> 00:12:22,810
+Page eight.
+
+169
+00:12:22,810 --> 00:12:24,358
+The alien hypothesis.
+
+170
+00:12:24,358 --> 00:12:36,666
+On the TV series Ancient Aliens, in an episode called The Alien Disks, a guest suggested the disc is a kind of computer disk, meant to be read by a machine from space.
+
+171
+00:12:37,000 --> 00:12:43,668
+Others call it an interstellar navigation chart, a message from the galaxy, even a stargate.
+
+172
+00:12:43,668 --> 00:12:49,466
+The spiral, they say, looks like a galaxy, or the path of a craft through space.
+
+173
+00:12:49,799 --> 00:12:53,410
+So read the evidence the way a codebreaker would.
+
+174
+00:12:53,410 --> 00:12:55,327
+What does the sender know?
+
+175
+00:12:55,327 --> 00:12:56,653
+Bees and beehives.
+
+176
+00:12:56,653 --> 00:12:57,169
+A fish.
+
+177
+00:12:57,169 --> 00:12:57,685
+A ship.
+
+178
+00:12:57,685 --> 00:13:03,433
+Trees and plants, animal hides, a bull's leg, people with Bronze Age headgear.
+
+179
+00:13:03,766 --> 00:13:06,426
+That is not a picture of the galaxy.
+
+180
+00:13:06,426 --> 00:13:09,086
+It is a picture of Bronze Age Crete.
+
+181
+00:13:09,086 --> 00:13:15,366
+The maker used a Cretan stamping craft, Cretan motifs, and fixed their typos by hand.
+
+182
+00:13:15,700 --> 00:13:22,273
+An interstellar message, stamped in local clay, with typos, buried beside a Linear A tablet?
+
+183
+00:13:22,273 --> 00:13:27,775
+The alien version explains none of that, and adds a sender who left no trace.
+
+184
+00:13:27,775 --> 00:13:28,633
+No evidence.
+
+185
+00:13:28,966 --> 00:13:29,506
+Debrief.
+
+186
+00:13:29,506 --> 00:13:31,666
+Time to score the Phaistos Disc.
+
+187
+00:13:32,000 --> 00:13:37,156
+A genuine Minoan object, from around seventeen hundred B C: evidence.
+
+188
+00:13:37,156 --> 00:13:42,313
+Stamped with forty-five punches, an early kind of printing: evidence.
+
+189
+00:13:42,313 --> 00:13:45,452
+A real script, probably syllables: likely.
+
+190
+00:13:45,452 --> 00:13:48,366
+A hymn or a prayer: possible, but open.
+
+191
+00:13:48,700 --> 00:13:52,103
+Deciphered, by any of the claimants: unproven.
+
+192
+00:13:52,103 --> 00:13:56,691
+A modern forgery: unlikely, though a lab date would settle it.
+
+193
+00:13:56,691 --> 00:13:59,799
+An alien message or star map: no evidence.
+
+194
+00:14:00,133 --> 00:14:00,986
+The verdict.
+
+195
+00:14:00,986 --> 00:14:02,407
+Unbroken, but human.
+
+196
+00:14:02,407 --> 00:14:10,154
+The Phaistos Disc is a real Minoan text, printed with stamps more than three thousand years before Gutenberg.
+
+197
+00:14:10,154 --> 00:14:11,718
+We cannot read it yet.
+
+198
+00:14:11,718 --> 00:14:16,266
+One more inscription in the same script could change everything.
+
+199
+00:14:16,600 --> 00:14:25,980
+Somewhere in Phaistos, around seventeen hundred B C, a person pressed a stamp into wet clay, smoothed out a mistake, and pressed again.
+
+200
+00:14:25,980 --> 00:14:28,203
+That person is the real mystery.
+
+201
+00:14:28,203 --> 00:14:31,399
+And one day, a trowel may give us their voice.
+
+202
+00:14:31,733 --> 00:14:33,758
+Next case: December 1980.
+
+203
+00:14:33,758 --> 00:14:41,130
+Strange lights among the pines of Rendlesham Forest, right beside two air bases in England.
+
+204
+00:14:41,130 --> 00:14:42,588
+Britain's Roswell.
+
+205
+00:14:42,588 --> 00:14:45,100
+What did the airmen really see?
+
+206
+00:14:45,433 --> 00:14:47,355
+What do you think the disc says?
+
+207
+00:14:47,355 --> 00:14:52,399
+Tell us in the comments, and subscribe for the next ancient mystery put to the test.
