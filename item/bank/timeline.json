@@ -1,0 +1,1432 @@
+{
+ "fps": 30,
+ "total": 23572,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 449,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "December, nineteen eighty. A pine forest in Suffolk, England. Over three nights, American airmen saw lights, a craft, and something that would be called Britain's Roswell. Tonight we put the log on trial.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 13.872,
+     "start": 10,
+     "end": 427
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 431,
+   "end": 687,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Because buried in this story are a lighthouse, a star, and a fireball. And one of them explains almost everything.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 7.464,
+     "start": 441,
+     "end": 665
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 669,
+   "end": 955,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A real memo. A real deputy base commander. And a tape recording made in the middle of the night. This is the case file.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 8.448,
+     "start": 679,
+     "end": 933
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 937,
+   "end": 1208,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Rendlesham Forest. Evidence against theory. Let's begin.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 3.936,
+     "start": 947,
+     "end": 1066
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I",
+    "The Night Shift Log",
+    "DECEMBER 1980"
+   ],
+   "img": "ep/img/shot_05.jpg",
+   "start": 1190,
+   "end": 1617,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two American air bases, RAF Woodbridge and RAF Bentwaters, sat side by side in the English countryside. Between them lay the forest, nearly six square miles of pine.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 13.152,
+     "start": 1200,
+     "end": 1595
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 1599,
+   "end": 1969,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "These were working bases of the United States Air Force, at the height of the Cold War. Nuclear-era tension, strict security, and a lot of bored people on night shift.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 11.256,
+     "start": 1609,
+     "end": 1947
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 1951,
+   "end": 2423,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Rendlesham is a quiet corner of Suffolk. Pine plantation, heathland, flat farm fields, and the sea only a few miles beyond. At night in winter it is very dark, and very easy to misjudge distance.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 14.64,
+     "start": 1961,
+     "end": 2401
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2405,
+   "end": 2741,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Around three in the morning on the twenty-sixth of December, guards at the east gate saw lights moving down through the trees. They thought an aircraft had crashed.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 10.128,
+     "start": 2415,
+     "end": 2719
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2723,
+   "end": 3145,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three men went in to investigate. Colonel Halt's later memo says they found a glowing metallic object with coloured lights, moving through the trees. Nearby farm animals went into a frenzy.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 12.984,
+     "start": 2733,
+     "end": 3123
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3127,
+   "end": 3356,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the report, written two weeks later. What did they write down that night? Hold that thought. It matters.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 6.552,
+     "start": 3137,
+     "end": 3334
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3338,
+   "end": 3748,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In January nineteen eighty-one, Halt sent his memo to the British Ministry of Defence. Its title was simply, Unexplained Lights. Two words that launched forty years of argument.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 12.576,
+     "start": 3348,
+     "end": 3726
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3730,
+   "end": 4081,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At about four in the morning, local police were called. They saw nothing but the distant sweep of a lighthouse. In daylight they were shown three small marks in the ground.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 10.608,
+     "start": 3740,
+     "end": 4059
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4063,
+   "end": 4466,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The police visit matters, because it is the one outside record. Civilian officers, no stake in the story. Their notes mention a lighthouse in the distance, and animal scrapes on the ground.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.336,
+     "start": 4073,
+     "end": 4444
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4448,
+   "end": 4804,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three shallow impressions in the soil. Foresters and police thought they were rabbit diggings, with a fresh scrape around them. Real marks, yes. But marks from what?",
+     "file": "ep/audio/s14.mp3",
+     "dur": 10.8,
+     "start": 4458,
+     "end": 4782
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4786,
+   "end": 5101,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Remember that lighthouse. Orford Ness sits about five miles beyond the forest, and in nineteen eighty it was one of the brightest lights in Britain.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 9.408,
+     "start": 4796,
+     "end": 5079
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5083,
+   "end": 5493,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "From the east gate the forest runs about a mile east to a farmer's field. Look further along that same line of sight and you reach the coast, and the lighthouse, five miles beyond the trees.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 12.6,
+     "start": 5093,
+     "end": 5471
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5475,
+   "end": 5919,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And one more clue. At about the same hour, a bright fireball crossed the sky over southern England. Astronomers logged it. Many people saw it. Many astronomers link it to a rocket body re-entering.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 13.704,
+     "start": 5485,
+     "end": 5897
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5901,
+   "end": 6404,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "To the eye, a fireball like that looks like something coming down, burning, and breaking apart. Some researchers tie this one to the re-entry of a Soviet launch. Either way, it ends in a streak that seems to fall straight into a forest.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 15.696,
+     "start": 5911,
+     "end": 6382
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": [
+    "II",
+    "The Second Night",
+    "28 DECEMBER"
+   ],
+   "img": "ep/img/shot_19.jpg",
+   "start": 6386,
+   "end": 6677,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So at the very start, we already have a real fireball and a real lighthouse, in the right place, at the right time. Keep a tally.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 8.616,
+     "start": 6396,
+     "end": 6655
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6659,
+   "end": 7125,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the tally so far. Real lights, real witnesses, a real memo, a real tape. And on the other side, a lighthouse, a fireball, a star, and rabbit scrapes. Now let's see which side the evidence favours.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 14.448,
+     "start": 6669,
+     "end": 7103
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7107,
+   "end": 7452,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two nights later, Lieutenant Colonel Charles Halt, the deputy base commander, led a patrol into the forest. He carried a small tape recorder and narrated live.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 10.416,
+     "start": 7117,
+     "end": 7430
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7434,
+   "end": 7703,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That tape exists. On it, Halt and his men describe strange lights in the woods, and their excitement is easy to hear.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 7.872,
+     "start": 7444,
+     "end": 7681
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7685,
+   "end": 7960,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Halt describes a red, sun-like light, pulsing and shedding glowing particles. Then it breaks into pieces and disappears.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 8.088,
+     "start": 7695,
+     "end": 7938
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 7942,
+   "end": 8288,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The red flash, he said, repeated about every five seconds. The Orford Ness lighthouse flashes at that rate, from that direction. The match is hard to ignore.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 10.464,
+     "start": 7952,
+     "end": 8266
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8270,
+   "end": 8645,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next, three star-like lights, two to the north and one to the south. Halt said they moved and sent down beams. The brightest star in the south, that night, was Sirius.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 11.424,
+     "start": 8280,
+     "end": 8623
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8627,
+   "end": 8987,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the radiation reading. Halt's team measured point zero seven milliroentgen in the depressions, against point zero three or four in the surrounding forest.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 10.92,
+     "start": 8637,
+     "end": 8965
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 8969,
+   "end": 9366,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It sounds alarming. It isn't. That is a tiny number, far below any danger level, from a simple military meter, and the spread is so small that tree roots and soil could cause it.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 12.144,
+     "start": 8979,
+     "end": 9344
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9348,
+   "end": 9771,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The meter was an ordinary military survey instrument, read by eye from a needle. The reading was barely above the forest's own background, and a similar little bump was found half a mile away.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 13.008,
+     "start": 9358,
+     "end": 9749
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9753,
+   "end": 10107,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even so, the night felt unreal. The lights seemed to dance. And that is the problem with a forest at night. The human eye is a terrible measuring instrument.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 10.728,
+     "start": 9763,
+     "end": 10085
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10089,
+   "end": 10440,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two men followed one light for about two miles across the fields. When they reached it, they found it was just a beacon, still flashing at the same distance as before.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 10.608,
+     "start": 10099,
+     "end": 10418
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10422,
+   "end": 10856,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One of the men, John Burroughs, said they followed it for about two miles before they could see it was coming from a lighthouse. His colleague Ed Cabansag agreed. Only a beacon light, far off in the distance.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.368,
+     "start": 10432,
+     "end": 10834
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 10838,
+   "end": 11202,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A single rule of the night: distant lights in darkness are impossible to judge. Distance, size, speed. Your brain guesses, and your guess feels like a fact.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 11.04,
+     "start": 10848,
+     "end": 11180
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11184,
+   "end": 11641,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is even a name for one trick of the eye. Stare at a single point of light in total darkness, and it seems to drift, even when it is perfectly still. Pilots know it well. So do people standing in forests.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 14.136,
+     "start": 11194,
+     "end": 11619
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "III",
+    "Cross-Examination",
+    "THE CLAIMS"
+   ],
+   "img": "ep/img/shot_34.jpg",
+   "start": 11623,
+   "end": 11775,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the first test. The lights. Did the airmen see something real?",
+     "file": "ep/audio/s34.mp3",
+     "dur": 3.984,
+     "start": 11633,
+     "end": 11753
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 11757,
+   "end": 12122,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Yes, they saw real lights. Nobody doubts that. The question is what the lights were, and we already have three natural candidates that match the times and places.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 11.088,
+     "start": 11767,
+     "end": 12100
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12104,
+   "end": 12594,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One more candidate was local. A former American security policeman later claimed he had modified police vehicle lights to prank the base. It was reported by the BBC. But there is no evidence for those exact nights.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 15.264,
+     "start": 12114,
+     "end": 12572
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 12576,
+   "end": 12981,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then came the stories. Years later, Sergeant Jim Penniston said he touched a craft, a small triangular machine, warm to the touch, covered in symbols he copied into a notebook.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 12.432,
+     "start": 12586,
+     "end": 12959
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 12963,
+   "end": 13314,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the catch. The official notes from that night do not mention it. His first statement doesn't mention touching anything. The account grew over the following years.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 10.632,
+     "start": 12973,
+     "end": 13292
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 13296,
+   "end": 13676,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The notebook with the symbols surfaced years later. No other member of the patrol confirmed he touched anything. A strong claim needs strong support, and this one had none beside it.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 11.592,
+     "start": 13306,
+     "end": 13654
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 13658,
+   "end": 14056,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is how memory behaves in all strange cases. It collects detail, and the detail starts to look like evidence. In the courtroom of facts it counts as testimony, not proof.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.192,
+     "start": 13668,
+     "end": 14034
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14038,
+   "end": 14484,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What about the landing site? The marks were rabbit scrapes, said the foresters. Some accounts mention scorched bark and broken branches. But the police saw rabbit scrapes, and no independent record confirms any burn.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 13.776,
+     "start": 14048,
+     "end": 14462
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14466,
+   "end": 14759,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Physical evidence for a craft: none. Photographs of a craft: none. Radar track of a craft: none. Debris of a craft: none.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 8.688,
+     "start": 14476,
+     "end": 14737
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 14741,
+   "end": 15054,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the Ministry of Defence, which got the memo, concluded that nothing of defence significance had occurred, so it never launched an investigation.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 9.36,
+     "start": 14751,
+     "end": 15032
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 15036,
+   "end": 15511,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In twenty ten, Jenny Randles, who wrote the first book on the case, said it plainly. No unearthly craft were seen. The main events, she said, were misperceptions of everyday things, in far from everyday circumstances.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 14.736,
+     "start": 15046,
+     "end": 15489
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "IV",
+    "How a Legend Grows",
+    "THE RETELLING"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 15493,
+   "end": 15657,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So how did a story of lights become a legend? Follow the retelling.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 4.392,
+     "start": 15503,
+     "end": 15635
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 15639,
+   "end": 15949,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In October nineteen eighty-three, a British Sunday tabloid ran it as a story. They called it Britain's Roswell, and a legend had a name.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 9.24,
+     "start": 15649,
+     "end": 15927
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 15931,
+   "end": 16296,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Books followed, then television. Each retelling made it bigger. A craft became a landing. A landing became a meeting. A meeting became a message in binary code.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 11.088,
+     "start": 15941,
+     "end": 16274
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16278,
+   "end": 16507,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Each stage came from a witness who was sincere, and decades later. No new facts. Just new words.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 6.552,
+     "start": 16288,
+     "end": 16485
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 16489,
+   "end": 16980,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Skeptic Brian Dunning put it neatly. Separate pieces of poor evidence do not add up to one piece of good evidence. A fireball, a lighthouse and a rabbit scrape are three small stories. Told together, they become a spaceship.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 15.288,
+     "start": 16499,
+     "end": 16958
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 16962,
+   "end": 17370,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today the forest even has a marked trail. In two thousand five, the Forestry Commission opened a UFO trail with a sculpture. It is a gentle walk, and a slightly magical one.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 12.528,
+     "start": 16972,
+     "end": 17348
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 17352,
+   "end": 17837,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why does the case still grip us? Cold war bases, a deputy commander on a tape, and a forest just a short drive from a town. It has everything a legend needs. Except the one thing a legend can't borrow, which is proof.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 15.072,
+     "start": 17362,
+     "end": 17815
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 17819,
+   "end": 17999,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the detective's question is simple. Which parts are evidence, which are theory?",
+     "file": "ep/audio/s52.mp3",
+     "dur": 4.92,
+     "start": 17829,
+     "end": 17977
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "V",
+    "The Theories",
+    "THE SUSPECTS"
+   ],
+   "img": "ep/img/shot_53.jpg",
+   "start": 17981,
+   "end": 18184,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First the alien theory. Visitors landed, left marks, and the military covered it up.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 5.688,
+     "start": 17991,
+     "end": 18162
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 18166,
+   "end": 18429,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "To check it, ask what a landing would leave. A craft. Marks. Damage to the ground. Something solid the next morning.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 7.68,
+     "start": 18176,
+     "end": 18407
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 18411,
+   "end": 18723,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There are marks. They look like rabbit scrapes. No debris, no confirmed burn, no radiation worth a mention. The theory needs more than that.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 9.312,
+     "start": 18421,
+     "end": 18701
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 18705,
+   "end": 19005,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Second, the natural theory. The lights were a lighthouse, a star, and a fireball, seen through fog by tired men expecting trouble.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 8.904,
+     "start": 18715,
+     "end": 18983
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 18987,
+   "end": 19315,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Every key detail fits. The five second pulse. The south star. The timing of the fireball. The beacon two men chased, and never reached.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 9.864,
+     "start": 18997,
+     "end": 19293
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 19297,
+   "end": 19592,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But that theory has a gap too, and honesty requires us to say so. It can't explain every claim, and some witnesses still insist.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 8.76,
+     "start": 19307,
+     "end": 19570
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 19574,
+   "end": 19986,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Third, the secret test theory. A hush-hush aircraft or a Soviet satellite. But there is no document, no witness inside the programme, and no sign of either. A theory without evidence.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 12.648,
+     "start": 19584,
+     "end": 19964
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 19968,
+   "end": 20319,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the tape? Listen to it, and you hear men talking over each other, amazed, laughing, quite unsure. It is a record of excitement. It isn't a record of a craft.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 10.608,
+     "start": 19978,
+     "end": 20297
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 20301,
+   "end": 20819,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now stack the three. The fireball explains the descent. The lighthouse explains the pulsing red light. A bright star explains the hovering lights. And rabbits explain the holes. Four ordinary answers for four strange details.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 16.176,
+     "start": 20311,
+     "end": 20797
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 20801,
+   "end": 21249,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What could change the verdict? A photograph. A radar return. A piece of debris. A document from inside a real programme. Any one of them would reopen the case. After forty years, none has appeared.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 13.848,
+     "start": 20811,
+     "end": 21227
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VI",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_63.jpg",
+   "start": 21231,
+   "end": 21389,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score the case. Evidence on one side, theory on the other.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 4.2,
+     "start": 21241,
+     "end": 21367
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 21371,
+   "end": 21763,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Real airmen saw real lights on real nights: evidence. A memo and a tape from Colonel Halt: evidence. A fireball and a lighthouse that match the sightings: evidence.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 12.0,
+     "start": 21381,
+     "end": 21741
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 21745,
+   "end": 22131,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Touching a craft, years later: unverified. Radiation: tiny, partial. Landing marks: rabbit diggings, likely. A craft, a crash, or a cover-up: no evidence.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 11.784,
+     "start": 21755,
+     "end": 22109
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 22113,
+   "end": 22557,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Misperception. Rendlesham is a real event, with real witnesses who saw real lights. But the lights were most likely a lighthouse, a star and a fireball, and the legend grew from there.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 13.728,
+     "start": 22123,
+     "end": 22535
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 22539,
+   "end": 22777,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That doesn't make the men liars. It makes them human, in the dark, in the cold, in a story that kept growing.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 6.864,
+     "start": 22549,
+     "end": 22755
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_68.jpg",
+   "start": 22759,
+   "end": 23056,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What lingers is the mood of that forest, three winter nights and a lot of stars. And a question about how much we should trust what we see.",
+     "file": "ep/audio/s68.mp3",
+     "dur": 8.832,
+     "start": 22769,
+     "end": 23034
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_69.jpg",
+   "start": 23038,
+   "end": 23270,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a signal from space, seventy-two seconds long, and a note written in red pen on a printout.",
+     "file": "ep/audio/s69.mp3",
+     "dur": 6.648,
+     "start": 23048,
+     "end": 23248
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_70.jpg",
+   "start": 23252,
+   "end": 23497,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think the airmen saw? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s70.mp3",
+     "dur": 7.08,
+     "start": 23262,
+     "end": 23475
+    }
+   ]
+  }
+ ]
+}
