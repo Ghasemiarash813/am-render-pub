@@ -1,0 +1,1449 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic night photograph of a horizontal row of four dim yellow-white lights descending at a shallow angle toward dark sea water over a small 1960s Nova Scotia fishing village at night, wooden clapboard houses, spruce trees, a rocky shore, a calm black Atlantic bay, a clear moonless starry sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Wednesday, the fourth of October, nineteen sixty-seven. Shortly after eleven at night, a row of lights falls out of a clear, moonless sky toward a fishing harbour in Nova Scotia, and goes into the sea."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Wednesday, the fourth of October, nineteen sixty-seven. Shortly after eleven at night, a row of lights falls out of a clear, moonless sky toward a fishing harbour in Nova Scotia, and goes into the sea.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A single bright white light floating on black water close to a rocky shore at night, a faint reflection on the waves, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One light stays behind, floating on the water. Police watch it. Then it sinks. The navy sends divers. They search for three days, and they find nothing at all."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One light stays behind, floating on the water. Police watch it. Then it sinks. The navy sends divers. They search for three days, and they find nothing at all.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 11.112
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A Canadian 1960s military teletype machine on a metal desk, a long strip of blank paper curling out, dim office, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Canada's military then files the sighting as an unidentified flying object. That one word is why this is called Canada's Roswell."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Canada's military then files the sighting as an unidentified flying object. That one word is why this is called Canada's Roswell.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 9.36
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A line of five black telephones on a wooden table in a 1960s office, cords tangled, lamp glow, shallow focus, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But here is the problem with every famous mystery. Stories travel. Tonight we follow this one link by link, from a payphone to a government file, and check what each hand added."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But here is the problem with every famous mystery. Stories travel. Tonight we follow this one link by link, from a payphone to a government file, and check what each hand added.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide cinematic view of a calm Nova Scotia bay at dusk with a thin line of orange sky on the horizon, empty, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Facts first, theories labelled. Message received. Link one."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Facts first, theories labelled. Message received. Link one.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 3.912
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Small Nova Scotia fishing village of Shag Harbour in 1967, white wooden houses along a coast road, fishing boats at a wharf, evening, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter one. The call. Shag Harbour is a village of a few hundred people at the southern tip of Nova Scotia, on a coast built for fishing and fog."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "I \u00b7 THE CALL",
+   "The First Link",
+   "SHAG HARBOUR \u00b7 4 OCT 1967"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter one. The call. Shag Harbour is a village of a few hundred people at the southern tip of Nova Scotia, on a coast built for fishing and fog.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 10.176
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A 1960s American sedan driving along a dark coastal highway at night with headlights, five teenagers visible as silhouettes inside, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That night, five young people are driving home from a dance along Highway Three. At the wheel is Laurie Wickens, seventeen years old."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That night, five young people are driving home from a dance along Highway Three. At the wheel is Laurie Wickens, seventeen years old.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 8.808
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "View through a car windshield at night of a horizontal row of four dim yellow-white lights descending at a shallow angle toward dark sea water over a dark bay, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They see lights ahead, low over the water. Accounts differ on the number. Three, or four. Yellow, or white. All agree: a row, tilted, sinking toward the bay."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They see lights ahead, low over the water. Accounts differ on the number. Three, or four. Yellow, or white. All agree: a row, tilted, sinking toward the bay.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dark wooded hill beside a coast road blocking the view of the sea at night, car headlights sweeping across it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then a small hill blocks their view for about ten seconds. When they can see the water again, the row of lights is gone. In its place, one white light, sitting on the surface."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then a small hill blocks their view for about ten seconds. When they can see the water again, the row of lights is gone. In its place, one white light, sitting on the surface.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1960s wooden telephone booth beside a dark country road at night, a lit interior glowing, a teenager inside seen from behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Wickens stops at a phone booth and calls the police. By his own later account, the first question is whether he has been drinking."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Wickens stops at a phone booth and calls the police. By his own later account, the first question is whether he has been drinking.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 8.472
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A pay telephone in a booth at night with the receiver hanging, warm bulb glow, rain-free dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the payphone rings. The police are calling him back. Other people have called too. Something, they now realise, really did come down."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the payphone rings. The police are calling him back. Other people have called too. Something, they now realise, really did come down.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Interior of a small 1960s police detachment office at night, a desk, a rotary telephone and a notepad, one officer in uniform standing, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Note what the first link actually carries. Not a spaceship. Not a crash. Just lights, a descent, and a light on the water. Everyone assumed the same thing: an aeroplane had gone down."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Note what the first link actually carries. Not a spaceship. Not a crash. Just lights, a descent, and a light on the water. Everyone assumed the same thing: an aeroplane had gone down.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 12.6
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An RCMP officer in a 1960s uniform and Stetson-style hat on a dark shore with a flashlight, looking toward the water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Wickens died only this year, aged seventy-six, still the face of the story. Link one is solid. Pass it on."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Wickens died only this year, aged seventy-six, still the face of the story. Link one is solid. Pass it on.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 7.872
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Dark Nova Scotia shoreline with seaweed and rocks, a police car with headlights on parked at the water's edge at night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter two. The shore. A corporal and two constables from the Mounties reach the water within fifteen or twenty minutes. They expect survivors."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 THE SHORE",
+   "The Police Link",
+   "RCMP \u00b7 11:30 PM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter two. The shore. A corporal and two constables from the Mounties reach the water within fifteen or twenty minutes. They expect survivors.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 9.624
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A single bright yellow-white light floating on the surface of a dark bay about two hundred metres from a rocky shore at night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They are in time to see it. A light on the water, about half a mile out, drifting with the ebbing tide. It stays for roughly five minutes. Then it goes out."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They are in time to see it. A light on the water, about half a mile out, drifting with the ebbing tide. It stays for roughly five minutes. Then it goes out.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Silhouette of a police constable with a flashlight on a rocky beach at night, black sea, one faint light fading far out on the water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Constable Ron O'Brien told reporters it was being carried out to sea by the tide, and was gone before a boat could reach it. Trained observers. Same story as the teenagers."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Constable Ron O'Brien told reporters it was being carried out to sea by the tide, and was gone before a boat could reach it. Trained observers. Same story as the teenagers.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wooden fishing boats leaving a small harbour at night with lanterns and running lights, calm black water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Within minutes, a Coast Guard lifeboat from Clark's Harbour and six or more local fishing boats are on the water, hunting for a downed aeroplane."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Within minutes, a Coast Guard lifeboat from Clark's Harbour and six or more local fishing boats are on the water, hunting for a downed aeroplane.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Searchlight beam from a small boat sweeping across a patch of pale foam on black water at night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They find no wreckage and no survivors. They find a patch of foam, thirty to forty yards wide by one account, at least eighty feet by another. Fishermen thought it was not ordinary tide foam."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They find no wreckage and no survivors. They find a patch of foam, thirty to forty yards wide by one account, at least eighty feet by another. Fishermen thought it was not ordinary tide foam.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a weathered fisherman in a yellow oilskin coat leaning on a boat rail at night, thoughtful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later retellings say the foam was yellow, bubbling, and smelled of sulphur, stretching half a mile. The reports from that week do not say that. It grows with each telling."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later retellings say the foam was yellow, bubbling, and smelled of sulphur, stretching half a mile. The reports from that week do not say that. It grows with each telling.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 11.088
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A rowboat with two police officers rowing across black water toward a faint patch of foam at night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the first crack. The Colorado university investigators, who telephoned the police weeks later, wrote a line the legend leaves out: apparently no one actually saw anything enter the water."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the first crack. The Colorado university investigators, who telephoned the police weeks later, wrote a line the legend leaves out: apparently no one actually saw anything enter the water.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Three red-orange lights descending in a line behind a row of dark houses and spruce trees at night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One witness two miles away did see the descent. Three red-orange lights, moving at aircraft speed, with a whistling sound like a falling bomb. Then they dropped behind the houses."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One witness two miles away did see the descent. Three red-orange lights, moving at aircraft speed, with a whistling sound like a falling bomb. Then they dropped behind the houses.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A calm dark harbour at 2 a.m. with a few boats returning to the wharf, the first pale light of a long night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By three in the morning, the boats come home. Link two is strong on the lights and on the light that floated. It is weaker on the object itself."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By three in the morning, the boats come home. Link two is strong on the lights and on the light that floated. It is weaker on the object itself.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1960s Canadian air-sea rescue coordination centre with a large wall map, a plotting table and two officers at desks, dim light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter three. Halifax. At the Rescue Co-ordination Centre, the first job is simple: is any aircraft missing? By morning, the answer is no."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III \u00b7 HALIFAX",
+   "The Rescue Link",
+   "RCC HALIFAX \u00b7 5 OCT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter three. Halifax. At the Rescue Co-ordination Centre, the first job is simple: is any aircraft missing? By morning, the answer is no.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.296
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A military teleprinter typing on yellow paper with a blank page, close-up, black and white tone with warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At ten twenty that morning, a priority telex goes to Ottawa. It carries the police account: a dark object, over sixty feet long, with four white lights, whistling as it came down."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At ten twenty that morning, a priority telex goes to Ottawa. It carries the police account: a dark object, over sixty feet long, with four white lights, whistling as it came down.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 12.624
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Hands tearing off a long strip of telex paper in a dim office, blank, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It adds two things the teenagers never said. A bright flash when it hit the water. And a single light floating on the surface. Already, the story is bigger than the people who saw it."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It adds two things the teenagers never said. A bright flash when it hit the water. And a single light floating on the surface. Already, the story is bigger than the people who saw it.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1960s officer reading a message and frowning at a desk, an ashtray and a coffee cup beside him, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It also contains the phrase that makes history. All conventional explanations, aircraft, flares and the like, are dismissed. The message is therefore headed: UFO report."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It also contains the phrase that makes history. All conventional explanations, aircraft, flares and the like, are dismissed. The message is therefore headed: UFO report.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A map-like top-down photograph of a coastal chart with blank paper and a red pencil, desk lamp, photoreal, no writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The telex gives a position: forty-three degrees thirty and a half minutes north, sixty-five forty-five west. Just outside Lower Woods Harbour, about two hundred and seventy metres offshore."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The telex gives a position: forty-three degrees thirty and a half minutes north, sixty-five forty-five west. Just outside Lower Woods Harbour, about two hundred and seventy metres offshore.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A Coast Guard cutter at sea at dawn, grey hull, calm water, searching, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is what the Coast Guard cutter actually reported: many small boats, nil results. And, quote, all other possible leads, aircraft, flares, et cetera, checked, nil results."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is what the Coast Guard cutter actually reported: many small boats, nil results. And, quote, all other possible leads, aircraft, flares, et cetera, checked, nil results.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 12.24
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Stamped file folder lying on a metal desk, the stamp blurred and unreadable, warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Remember that line. Nil results means they found nothing. It does not mean they proved it was not a flare. That difference will matter in two links."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Remember that line. Nil results means they found nothing. It does not mean they proved it was not a flare. That difference will matter in two links.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Exterior of a 1960s Canadian federal government building in Ottawa, grey stone, flag, overcast morning, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter four. Ottawa and the Navy. The telex lands at the Air Force's air desk, the office that handles every UFO report in Canada."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV \u00b7 OTTAWA",
+   "The Military Link",
+   "AIR DESK \u00b7 NAVY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter four. Ottawa and the Navy. The telex lands at the Air Force's air desk, the office that handles every UFO report in Canada.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 10.2
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1960s Canadian Air Force squadron leader at a desk with a telephone and a stack of folders, serious, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Squadron Leader Bain tells the press the Air Force gets hundreds of reports every week, but this is one of the few where it might get something concrete."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Squadron Leader Bain tells the press the Air Force gets hundreds of reports every week, but this is one of the few where it might get something concrete.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Navy clearance divers in black dry suits and tanks on the deck of a grey naval vessel at sea, early morning, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He recommends an underwater search. The Navy tasks Fleet Diving Unit Atlantic. Two days after the sighting, divers reach Clark's Harbour."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He recommends an underwater search. The Navy tasks Fleet Diving Unit Atlantic. Two days after the sighting, divers reach Clark's Harbour.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 9.672
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Underwater photograph of a diver swimming above a flat sandy seabed in green-blue water with clear visibility, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seven divers eventually search an area about half a mile by a mile and a half, in water nine to twenty metres deep. Flat sand. Good visibility."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seven divers eventually search an area about half a mile by a mile and a half, in water nine to twenty metres deep. Flat sand. Good visibility.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Diver's gloved hand sweeping over empty ripples of sand on the sea floor, shafts of light from above, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They work through the weekend. If a sixty-foot machine, or even a large piece of one, had landed there, this is exactly the search that finds it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They work through the weekend. If a sixty-foot machine, or even a large piece of one, had landed there, this is exactly the search that finds it.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 9.384
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small Navy boat returning to a wharf at dusk with tired divers sitting in the stern, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At six thirty on Sunday, the eighth of October, the search ends. A handwritten note in the file says it in four words: terminated, nil results."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At six thirty on Sunday, the eighth of October, the search ends. A handwritten note in the file says it in four words: terminated, nil results.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Folded newspaper on a table with a bold blank headline area, morning light, a mug beside it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Chronicle Herald reports it: not a trace, not a clue, not a bit of anything. In December, headquarters writes to two universities that the investigation ended without conclusive findings."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Chronicle Herald reports it: not a trace, not a clue, not a bit of anything. In December, headquarters writes to two universities that the investigation ended without conclusive findings.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A Canadian government file cabinet drawer open with dozens of blank folders, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One more detail: in nineteen sixty-seven, about one hundred and ninety UFO reports reached Ottawa. Only nine were judged worth investigating. Shag Harbour was one. So officials did take it seriously."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One more detail: in nineteen sixty-seven, about one hundred and ninety UFO reports reached Ottawa. Only nine were judged worth investigating. Shag Harbour was one. So officials did take it seriously.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 15.048
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Dramatic wide night sky over eastern Canada with a faint glowing streak and several unrelated scattered lights over separate dark towns, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter five. The same night. Believers say that on the fourth of October, the whole region lit up. Other lights were seen. Here is the second place a message gets crowded."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "V \u00b7 THE SAME NIGHT",
+   "Crowded Lines",
+   "OTHER LIGHTS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter five. The same night. Believers say that on the fourth of October, the whole region lit up. Other lights were seen. Here is the second place a message gets crowded.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Interior of a 1960s passenger airliner cockpit at dusk with two pilots seen from behind looking out of the side windows, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At seven fifteen, an Air Canada crew over Quebec reported a bright, rectangular object with trailing lights, and two silent explosions. That is hundreds of kilometres from Nova Scotia."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At seven fifteen, an Air Canada crew over Quebec reported a bright, rectangular object with trailing lights, and two silent explosions. That is hundreds of kilometres from Nova Scotia.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A wooden fishing trawler at night on a calm ocean with a glowing round radar screen visible in the wheelhouse, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Far out at sea, Captain Leo Mersey of the fishing boat Nickerson watched red flashing lights and four radar blips. Colorado's own notes put him about a hundred and seventy-five nautical miles away."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Far out at sea, Captain Leo Mersey of the fishing boat Nickerson watched red flashing lights and four radar blips. Colorado's own notes put him about a hundred and seventy-five nautical miles away.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "City lights of Halifax harbour at night seen from across the water with a single glowing object above, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In Halifax, around ten, someone phoned a newsroom about a glowing object. Fine. Different place, different hour, different light."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In Halifax, around ten, someone phoned a newsroom about a glowing object. Fine. Different place, different hour, different light.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A tangle of coloured string connecting many blank index cards pinned on a wall, investigator board, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Over the years, these reports were stitched into one night of UFOs. That makes the story feel stronger. It actually makes it weaker, because it hides which claim belongs to which witness."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Over the years, these reports were stitched into one night of UFOs. That makes the story feel stronger. It actually makes it weaker, because it hides which claim belongs to which witness.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Fireball meteor streaking across a dark sky at a low angle over the ocean breaking into a line of several bright fragments, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But there is a fair question about the explosions. A bright meteor, a bolide, often breaks into a row of lights as it falls, at a shallow angle, looking slow. That fits the first part of the Shag Harbour lights."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But there is a fair question about the explosions. A bright meteor, a bolide, often breaks into a row of lights as it falls, at a shallow angle, looking slow. That fits the first part of the Shag Harbour lights.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 14.328
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "A bright fireball descending behind distant tree line over dark water with a faint glow, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It does not explain a light that floated on the water for minutes. A meteor is a good match for the fall. It is a poor match for the landing."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It does not explain a light that floated on the water for minutes. A meteor is a good match for the fall. It is a poor match for the landing.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 8.712
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A university office in 1968 with a physicist at a typewriter reading a telephone notepad, shelves of books, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter six. The lost link. Years later, the University of Colorado's UFO project, the Condon Committee, makes telephone calls about Shag Harbour. These notes survive."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VI \u00b7 THE LOST LINK",
+   "What the Telex Left Out",
+   "CONDON \u00b7 CASE 34"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter six. The lost link. Years later, the University of Colorado's UFO project, the Condon Committee, makes telephone calls about Shag Harbour. These notes survive.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A black rotary telephone and an open notebook with blank pages on a desk, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The watch officer reads them a report in which the object, sixty feet long, exploded on hitting the water. The police corporal says no one actually saw anything go in."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The watch officer reads them a report in which the object, sixty feet long, exploded on hitting the water. The police corporal says no one actually saw anything go in.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 11.472
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Two parallel paths of light on a dark surface diverging from one point, abstract photographic, no text, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two accounts from the same chain of command. One says a flash on impact. One says the light went out, and ten minutes later officers were rowing to the site."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two accounts from the same chain of command. One says a flash on impact. One says the light went out, and ten minutes later officers were rowing to the site.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A radar station on a Nova Scotia hilltop at night with a rotating antenna dome, stars, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Colorado notes add another line. The nearby Air Force radar station reported no unusual radar object, and no Canadian or American air operations in the area."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Colorado notes add another line. The nearby Air Force radar station reported no unusual radar object, and no Canadian or American air operations in the area.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A tall dark ship's flare gun and an orange marine distress flare cartridge on a wooden boat deck at night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which brings us to the sceptics' favourite: marine flares. Boats fire them as standard distress signals. They ignite late, fall in a row, and float on the water as they burn out."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which brings us to the sceptics' favourite: marine flares. Boats fire them as standard distress signals. They ignite late, fall in a row, and float on the water as they burn out.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A parachute-style red marine flare burning brightly above a calm black sea and a small boat, long exposure, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Skeptoid's Brian Dunning argues a few flares, perhaps fired by a prankster, fit the descent and the floating light. He cannot prove it, and the file contains no matching boat."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Skeptoid's Brian Dunning argues a few flares, perhaps fired by a prankster, fit the descent and the floating light. He cannot prove it, and the file contains no matching boat.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 11.88
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A slowly burning orange flare floating on dark water with a faint ring of ripple light, macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Honest problem: the light reportedly lasted about five minutes on the water. Whether a single flare could burn that long, and then be carried by the tide, no one has settled."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Honest problem: the light reportedly lasted about five minutes on the water. Whether a single flare could burn that long, and then be carried by the tide, no one has settled.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a typed military memo page lying on a desk with all text blurred beyond reading, red pencil mark, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And now the famous memo. Colonel Turner writes that the search centre had, quote, discounted the possibility of aircraft, flares, floats, or any other known objects. That became: the government ruled out flares."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And now the famous memo. Colonel Turner writes that the search centre had, quote, discounted the possibility of aircraft, flares, floats, or any other known objects. That became: the government ruled out flares.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 14.544
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A magnifying glass held over a blurred typed telex strip, focus on the glass edge, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Read it against the cutter's telex. The chain went from we checked and found nothing, to the government discounted every known object. A shrug became a verdict. That is the relay at work."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Read it against the cutter's telex. The chain went from we checked and found nothing, to the government discounted every known object. A shrug became a verdict. That is the relay at work.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Nova Scotia in 1993, a modern bookshop table with stacks of paperback books with plain blank covers, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter seven. The added link. In nineteen ninety-three, a quarter of a century later, the story takes a turn. A book is published: Dark Object."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VII \u00b7 THE ADDED LINK",
+   "Dark Object",
+   "1993"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter seven. The added link. In nineteen ninety-three, a quarter of a century later, the story takes a turn. A book is published: Dark Object.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A researcher in his fifties with a beard sitting at a desk covered with files, maps and tapes, warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its authors, UFO researchers Chris Styles and Don Ledger, interview old witnesses and promise the world's only government-documented UFO crash."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its authors, UFO researchers Chris Styles and Don Ledger, interview old witnesses and promise the world's only government-documented UFO crash.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Underwater view of a dark disc-shaped silhouette gliding along the sea floor in murky green-blue water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their new claim: the craft did not sink. It moved underwater, seventy kilometres up the coast to the naval base near Shelburne, where it was joined by a second craft before both flew away."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their new claim: the craft did not sink. It moved underwater, seventy kilometres up the coast to the naval base near Shelburne, where it was joined by a second craft before both flew away.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A coastal naval sonar listening station on a Nova Scotia headland at dusk, antennas and grey buildings, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Shelburne was a real US-linked sonar station, and that sounds convincing. But nothing in the 1967 files, no ship's log, no radar record, mentions any of it."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Shelburne was a real US-linked sonar station, and that sounds convincing. But nothing in the 1967 files, no ship's log, no radar record, mentions any of it.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A cassette tape recorder on a kitchen table in front of an elderly man talking, soft window light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The new material comes from witnesses recalled decades later. Memory does what the telex did: it smooths, adds and fills the gaps. Without a record from the time, that is a story, not evidence."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The new material comes from witnesses recalled decades later. Memory does what the telex did: it smooths, adds and fills the gaps. Without a record from the time, that is a story, not evidence.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Dusk shot of a gleaming black experimental aircraft hangar with the doors closed, nobody around, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What about a secret military test? It is a popular fallback. But secret aircraft are tested in remote ranges, not low over a village with a dozen witnesses watching. Skeptoid calls it logically excluded."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What about a secret military test? It is a popular fallback. But secret aircraft are tested in remote ranges, not low over a village with a dozen witnesses watching. Skeptoid calls it logically excluded.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 15.168
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "sand",
+  "motion": "out",
+  "prompt": "A fishing village in the afternoon sun in modern times with a small lookout platform and a small museum building, calm blue sea, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today the village keeps the memory. A lookout over the bay and a small UFO centre. For Shag Harbour, the mystery became a part of its identity."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today the village keeps the memory. A lookout over the bay and a small UFO centre. For Shag Harbour, the mystery became a part of its identity.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark calm sea at night under stars, a few small distant lights low on the right edge of the frame, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score Shag Harbour."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score Shag Harbour.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 2.352
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark calm sea at night under stars, a few small distant lights low on the right edge of the frame, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Several independent witnesses saw lights descend toward the water: evidence. Police officers saw a light floating, then vanish: evidence. The foam as a physical trace: partial, since it was never tested. A craft or wreckage found by the navy: none."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Several independent witnesses saw lights descend toward the water: evidence. Police officers saw a light floating, then vanish: evidence. The foam as a physical trace: partial, since it was never tested. A craft or wreckage found by the navy: none.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 17.184
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark calm sea at night under stars, a few small distant lights low on the right edge of the frame, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The claim that the government ruled out flares: debunked, it came from a loose summary of a nil-results telex. A craft travelling underwater to Shelburne: unsupported. An extraterrestrial craft: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The claim that the government ruled out flares: debunked, it came from a loose summary of a nil-results telex. A craft travelling underwater to Shelburne: unsupported. An extraterrestrial craft: no evidence.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cinematic night photograph of a single faint light floating far away on a calm dark bay beneath stars, serene, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Real event, unidentified, not alien. Honest people saw lights come down, police saw one float, and Canada's military took it seriously enough to search. A fireball or flares remain the likeliest answers."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Real event, unidentified, not alien. Honest people saw lights come down, police saw one float, and Canada's military took it seriously enough to search. A fireball or flares remain the likeliest answers.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 16.008
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A weathered fisherman standing alone on a wooden wharf at dawn looking out over a calm bay, soft golden light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the lesson is the relay. The core of the story survived four links intact. What did not survive was the memo's meaning, the foam's size, and the second craft."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the lesson is the relay. The core of the story survived four links intact. What did not survive was the memo's meaning, the foam's size, and the second craft.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.616
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Quiet Pennsylvania woodland at dusk with a hint of an acorn-shaped metallic object glowing faintly between trees, mysterious, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: December nineteen sixty-five, Kecksburg, Pennsylvania. Witnesses saw a fireball fall into the woods, and reports spoke of something shaped like an acorn. Was anything recovered?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: December nineteen sixty-five, Kecksburg, Pennsylvania. Witnesses saw a fireball fall into the woods, and reports spoke of something shaped like an acorn. Was anything recovered?",
+    "file": "ep/audio/s66.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background with a single faint white light floating on black water in the centre, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think came down at Shag Harbour? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think came down at Shag Harbour? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 7.704
+   }
+  ]
+ }
+]
