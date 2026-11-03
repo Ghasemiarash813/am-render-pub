@@ -1,0 +1,1402 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal a narrow snowy Norwegian valley at night, dark spruce forest, black mountain ridges, cold blue starlight, film grain, a single faint glowing white ball of light hovering above the far ridge, cinematic, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A narrow valley in central Norway, where glowing balls of light have floated over the hills for decades, up to twenty times a week. Scientists arrived with radar, cameras and a laser. In one test, a light seemed to answer back."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A narrow valley in central Norway, where glowing balls of light have floated over the hills for decades, up to twenty times a week. Scientists arrived with radar, cameras and a laser. In one test, a light seemed to answer back.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 15.576
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal long exposure of a warm yellow-orange glowing orb hanging motionless above a snowy pine ridge at night, star trails behind, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The lights are real in the way that matters: they have been filmed, photographed and tracked on instruments for forty years. Some call them alien probes. Others say airplanes."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The lights are real in the way that matters: they have been filmed, photographed and tracked on instruments for forty years. Some call them alien probes. Others say airplanes.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal dark equipment cabin interior at night, shelves of scientific instruments with small green indicator lights, cables, a window showing a snowy valley, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we open the instrument rack and ask each device what it actually recorded. Only measurements count. This is the Hessdalen lights."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we open the instrument rack and ask each device what it actually recorded. Only measurements count. This is the Hessdalen lights.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 9.528
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Title card background: a lone small caravan glowing warm yellow on a dark snowy ridge under a faint distant orb of light, minimal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Hessdalen lights. Evidence against theory. Switch on the first instrument."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Hessdalen lights. Evidence against theory. Switch on the first instrument.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 5.016
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal winter dusk over a remote Norwegian farm valley, red farmhouse with one lit window, a pale white light hanging low above the dark ridge, snow, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "December, nineteen eighty-one. Hessdalen, a valley about twelve kilometers long, north of the town of R\u00f8ros. Farmers see lights hanging over the hills, silent, white, yellow, sometimes red."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I",
+   "WINTER 1981 \u00b7 THE VALLEY",
+   "WHAT PEOPLE SAW"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "December, nineteen eighty-one. Hessdalen, a valley about twelve kilometers long, north of the town of R\u00f8ros. Farmers see lights hanging over the hills, silent, white, yellow, sometimes red.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal multiple exposure of a bright light drifting slowly then jumping sideways over a dark snowy ridge, soft glow trails, night, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some flash for a second. Some hover for more than an hour. Some sway slowly from side to side. And some, witnesses say, shoot away at great speed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some flash for a second. Some hover for more than an hour. Some sway slowly from side to side. And some, witnesses say, shoot away at great speed.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal small group of tourists in winter parkas standing on a snowy hillside at night with a flask and cameras on tripods looking at the sky, headlamps with red light, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the peak, between nineteen eighty-one and nineteen eighty-four, people reported them fifteen to twenty times a week. Tourists came just to stand in the cold and look."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the peak, between nineteen eighty-one and nineteen eighty-four, people reported them fifteen to twenty times a week. Tourists came just to stand in the cold and look.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 10.968
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal old Norwegian farmer, weathered face, wool cap, sitting at a wooden kitchen table with a coffee cup, window behind showing a snowy valley dusk, warm lamp light, cinematic portrait, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Locals had told stories of strange lights in these hills since at least the nineteen thirties. What changed in eighty-one was the number of witnesses, and the arrival of cameras."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Locals had told stories of strange lights in these hills since at least the nineteen thirties. What changed in eighty-one was the number of witnesses, and the arrival of cameras.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal cluttered volunteer office in the 1980s with a typewriter, stacks of mailing envelopes, a wall map of a mountain valley with colored pins, desk lamp, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By then UFO clubs in Norway and Sweden were paying attention. In June nineteen eighty-three, five volunteers formed Project Hessdalen, led by an electrical engineer named Erling Strand."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By then UFO clubs in Norway and Sweden were paying attention. In June nineteen eighty-three, five volunteers formed Project Hessdalen, led by an electrical engineer named Erling Strand.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal 1980s scientist in a tweed jacket in a university office studying photographs under a desk lamp, bookshelves, cigarette-free, warm light, film grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their advisors included J. Allen Hynek, the astronomer who had worked on the US Air Force's Project Blue Book. In January nineteen eighty-four, they mailed report forms to three thousand three hundred households."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their advisors included J. Allen Hynek, the astronomer who had worked on the US Air Force's Project Blue Book. In January nineteen eighty-four, they mailed report forms to three thousand three hundred households.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 14.832
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal white caravan trailer parked on a high snowy ridge at night with a cable running to a radar dish and a camera on a tripod, warm window light, cold stars, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then they hauled a caravan up to a ridge called Asp\u00e5skj\u00f8len, filled it with instruments, and waited. Five weeks, from January twenty-first to February twenty-sixth, with volunteers on watch every night."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then they hauled a caravan up to a ridge called Asp\u00e5skj\u00f8len, filled it with instruments, and waited. Five weeks, from January twenty-first to February twenty-sixth, with volunteers on watch every night.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 13.824
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal close-up of a camera lens with a diffraction grating filter mounted in front, rainbow reflections, a snowy night ridge blurred behind, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Instrument one: a camera with a diffraction grating in front of the lens. It splits light into a spectrum. A glowing gas draws bright separate lines, like a neon sign. A hot solid glows in a smooth rainbow."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II",
+   "THE CAMERA \u00b7 SPECTRUM",
+   "WHAT THE LIGHT IS MADE OF"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Instrument one: a camera with a diffraction grating in front of the lens. It splits light into a spectrum. A glowing gas draws bright separate lines, like a neon sign. A hot solid glows in a smooth rainbow.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal prism splitting a white light beam into a clean smooth rainbow spectrum on a dark table, laboratory, moody lighting, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Strand called this the most important measurement. Lines would mean glowing gas, maybe plasma. A smooth band would mean a thermal glow. Either answer would kill several theories at once."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Strand called this the most important measurement. Lines would mean glowing gas, maybe plasma. A smooth band would mean a thermal glow. Either answer would kill several theories at once.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1980s darkroom with developing trays, film strips hanging to dry, red safelight, a photographer holding a negative to the light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They shot seven films through gratings. Only four pictures were good enough to read: two strong, two weak. And none of them showed the strangest lights."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They shot seven films through gratings. Only four pictures were good enough to read: two strong, two weak. And none of them showed the strangest lights.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal tired man in a parka holding a camera on a tripod on a freezing hill before dawn, breath steam, pale light on the horizon, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Strand was strict about it. The best pictures, taken at eight minutes past three on the last morning, scored right on the borderline of his own scale for strange lights. His verdict: not proof of anything."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Strand was strict about it. The best pictures, taken at eight minutes past three on the last morning, scored right on the borderline of his own scale for strange lights. His verdict: not proof of anything.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal abstract smooth continuous rainbow band of light across a black background like a spectrogram, no lines, subtle noise, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later campaigns did better. The spectrum of the white lights, recorded again and again, is continuous. No bright lines. That points to a hot, dense glow rather than a thin gas, and that is a real clue."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later campaigns did better. The spectrum of the white lights, recorded again and again, is continuous. No bright lines. That points to a hot, dense glow rather than a thin gas, and that is a real clue.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal glowing ball of white-yellow light low over a dark ridge, inner structure of shimmering dust particles, heat shimmer, snow below, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One estimate puts the glow near five thousand degrees, a little cooler than the surface of the Sun. All of that from a ball of light floating over a Norwegian hill."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One estimate puts the glow near five thousand degrees, a little cooler than the surface of the Sun. All of that from a ball of light floating over a Norwegian hill.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 10.776
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal three objects on a dark table lit by different lights: an incandescent bulb, a candle flame and a bright LED lamp, each casting similar warm glow, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What does the camera say about aliens? Nothing directly. A continuous spectrum fits burning dust, hot plasma, or a lamp. It tells us how it glows, not who or what lit it."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What does the camera say about aliens? Nothing directly. A continuous spectrum fits burning dust, hot plasma, or a lamp. It tells us how it glows, not who or what lit it.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 11.976
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal military-style radar dish rotating on a snowy hillside at night, caravan in the background with a green glow in the window, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Instrument two: radar. A set with a three-centimeter wavelength and a range of thirty-three kilometers. If a solid object, or a charged cloud, hung out there, the screen should show it."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III",
+   "THE RADAR \u00b7 ECHOES",
+   "SOMETHING TO BOUNCE OFF"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Instrument two: radar. A set with a three-centimeter wavelength and a range of thirty-three kilometers. If a solid object, or a charged cloud, hung out there, the screen should show it.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.6
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal old round radar screen with a green sweeping line and a few bright blips, in a dark caravan, a hand holding a pencil near it, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Thirty-six echoes were logged. Only three lined up with a light seen by eye. Nine could be followed in nearly straight lines. When the team photographed those spots, the sky looked empty."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Thirty-six echoes were logged. Only three lined up with a light seen by eye. Nine could be followed in nearly straight lines. When the team photographed those spots, the sky looked empty.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal close-up of a green radar screen showing one very bright blip as strong as a ridge of echoes beside it, instrument glow, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two of the echoes were photographed on screen. They were as strong as returns from the nearby mountains. A radar expert at the Norwegian defence research lab said: if it is only gas, it must be strongly ionized."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two of the echoes were photographed on screen. They were as strong as returns from the nearby mountains. A radar expert at the Norwegian defence research lab said: if it is only gas, it must be strongly ionized.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 15.12
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal radar sweep screen with a blip appearing only on every second rotation, a hand-drawn dotted pattern on a paper log beside it, dim lamp, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One odd detail. A light stayed visible the whole time, yet its radar echo appeared only on every second sweep. Strand wondered whether it was reacting to the radar. A question, not a finding."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One odd detail. A light stayed visible the whole time, yet its radar echo appeared only on every second sweep. Strand wondered whether it was reacting to the radar. A question, not a finding.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal weather balloon rising over a winter valley at dawn with layered fog and a warm air inversion visible, soft light, scientific realism, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Radar has a known weak spot. Layers of different temperature and humidity can bounce a beam and make echoes from nothing solid. Strand listed that himself. The echoes are real data, but their source is open."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Radar has a known weak spot. Layers of different temperature and humidity can bounce a beam and make echoes from nothing solid. Strand listed that himself. The echoes are real data, but their source is open.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 14.568
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1980s portable seismograph with a paper drum recorder on a bench in a cabin, a thin stylus line, cold window light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Instrument three: a seismograph, installed in October nineteen eighty-three. One idea said the lights were earthquake lights, squeezed from rock under strain. It recorded no local tremors at all, only distant earthquakes."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Instrument three: a seismograph, installed in October nineteen eighty-three. One idea said the lights were earthquake lights, squeezed from rock under strain. It recorded no local tremors at all, only distant earthquakes.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 15.36
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal Geiger counter held in a gloved hand on a snowy slope at night beside an infrared viewer on a tripod, faint distant light on the ridge, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Geiger counters heard nothing unusual, though no light came within a kilometer of them. The infrared viewer, used twice on far-off lights, saw nothing strong. Neither test settles much."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Geiger counters heard nothing unusual, though no light came within a kilometer of them. The infrared viewer, used twice on far-off lights, saw nothing strong. Neither test settles much.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal fluxgate magnetometer on a small stand in the snow with a cable to a pen chart recorder drawing a wavy line in a cabin, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The magnetometer showed a tantalizing forty percent link: four of ten bright sightings coincided with a magnetic pulsation. But pulsations were frequent that week, so chance is likely. Strand wrote exactly that."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The magnetometer showed a tantalizing forty percent link: four of ten bright sightings coincided with a magnetic pulsation. But pulsations were frequent that week, so chance is likely. Strand wrote exactly that.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 15.384
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal frostbitten broken camera and tangled power cables on a wooden bench in a cold cabin, a frustrated hand reaching in, harsh lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And a detail that rarely reaches documentaries. The cameras failed repeatedly, often at the moments they were needed most. Power connections dropped out. Fieldwork in a Norwegian winter is hard on fragile equipment."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And a detail that rarely reaches documentaries. The cameras failed repeatedly, often at the moments they were needed most. Power connections dropped out. Fieldwork in a Norwegian winter is hard on fragile equipment.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 15.336
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal red laser beam shooting from a hilltop across a dark valley toward a distant faint light, snow, night, atmospheric haze, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Instrument four is the strangest. Locals said a light vanished when a bright beam hit it. So the team brought a red laser, less than one milliwatt, weaker than a common laser pointer, and a rule: no peeking."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV",
+   "THE LASER \u00b7 8 OF 9",
+   "DID THE LIGHT ANSWER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Instrument four is the strangest. Locals said a light vanished when a bright beam hit it. So the team brought a red laser, less than one milliwatt, weaker than a common laser pointer, and a rule: no peeking.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.944
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal silent white-yellow light drifting slowly over a snowy ridge at night, a faint trail, a dark caravan silhouette in the foreground, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Sunday, February twelfth, nineteen eighty-four, seven thirty-five p.m. A light drifts north over the ridge, flashing steadily. One flash, pause, one flash, pause. For fifteen minutes the rhythm never changes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Sunday, February twelfth, nineteen eighty-four, seven thirty-five p.m. A light drifts north over the ridge, flashing steadily. One flash, pause, one flash, pause. For fifteen minutes the rhythm never changes.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 15.288
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal two researchers in parkas on a dark hillside, one holding a laser pointing at the sky, the other with binoculars, a faint light far away, red laser glow, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Strand aims the laser. At once the rhythm changes: flash-flash, pause, flash-flash. He lowers it. Back to single flashes. Ten seconds on, ten seconds off. Four cycles, until the light disappears."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Strand aims the laser. At once the rhythm changes: flash-flash, pause, flash-flash. He lowers it. Back to single flashes. Ten seconds on, ten seconds off. Four cycles, until the light disappears.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 14.496
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal second distant light low in the west over a dark mountain, with a faint red laser beam rising toward it, researchers' silhouettes at the bottom of frame, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "An hour later a second flashing light repeats it. In all they tried nine times. Eight times the light changed. Strand's reaction in the report: very surprising. He had expected a coincidence."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "An hour later a second flashing light repeats it. In all they tried nine times. Eight times the light changed. Strand's reaction in the report: very surprising. He had expected a coincidence.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.536
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal man in a parka with binoculars looking at the night sky with his back turned to a colleague, snow, headlamp off, tense atmosphere, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The test was blind in one way. The man watching through binoculars, Kurt Persson, could not see where the laser was pointing. He simply called out the flashes as he saw them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The test was blind in one way. The man watching through binoculars, Kurt Persson, could not see where the laser was pointing. He simply called out the flashes as he saw them.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal scientist's desk with a handwritten lab notebook, a stopwatch and a small laser pointer, a mug, question marks implied by a crumpled page, warm lamp, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What does it prove? Two lights, one night, no independent repeat that I can find. Strong enough to be intriguing, not strong enough to rest a theory on. It is the best moment for the alien idea, and it is thin."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What does it prove? Two lights, one night, no independent repeat that I can find. Strong enough to be intriguing, not strong enough to rest a theory on. It is the best moment for the alien idea, and it is thin.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal glowing orb hovering over a snowy valley at night with a laser beam touching it and the orb brightening, sci-fi but realistic, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The believer's reading is simple: the lights are probes, and one noticed the laser. It is the only result that fits that story. But the change was a flash pattern. Nobody saw a surface, a hull or an edge."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The believer's reading is simple: the lights are probes, and one noticed the laser. It is the only result that fits that story. But the change was a flash pattern. Nobody saw a surface, a hull or an edge.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal typed final report pages bound with a staple on a wooden desk, a fountain pen, a signature blurred, winter window light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Strand's own conclusion, signed in January nineteen eighty-five, was sober. We have not found out what this phenomenon is. But whatever it is, it can be measured, by light, by radar, and by laser."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Strand's own conclusion, signed in January nineteen eighty-five, was sober. We have not found out what this phenomenon is. But whatever it is, it can be measured, by light, by radar, and by laser.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 13.272
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal large sorting table covered with small paper report slips in two piles, one tall pile and one short pile, a hand placing a slip, warm lamp, top-down, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the most honest number in the report. Of one hundred eighty-eight sightings, Strand ruled that one hundred thirty-five were ordinary known lights. Only fifty-three deserved the name Hessdalen phenomenon."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the most honest number in the report. Of one hundred eighty-eight sightings, Strand ruled that one hundred thirty-five were ordinary known lights. Only fifty-three deserved the name Hessdalen phenomenon.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 14.064
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal vintage wall map of a long narrow valley with a straight pencil line running along its length and a single red pin on a flat area, desk lamp, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Of those fifty-three, about two thirds moved along a north-south line, roughly the line of the valley. Four were rated very strange. The strangest, Strand said, was a red light on the ground."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Of those fifty-three, about two thirds moved along a north-south line, roughly the line of the valley. Four were rated very strange. The strangest, Strand said, was a red light on the ground.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal automatic weather station box with antennas and a camera dome mounted on a snowy hilltop at dusk, looking down a long dark valley, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The mystery did not stop. In nineteen ninety-seven and ninety-eight, volunteers recorded a pyramid-shaped cluster of lights bouncing up and down. And in nineteen ninety-eight, a permanent Automatic Measurement Station was built on the slope."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V",
+   "THE STATION \u00b7 1998",
+   "FORTY YEARS OF LOGS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The mystery did not stop. In nineteen ninety-seven and ninety-eight, volunteers recorded a pyramid-shaped cluster of lights bouncing up and down. And in nineteen ninety-eight, a permanent Automatic Measurement Station was built on the slope.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 15.648
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal rugged weatherproof instrument box with camera lens, radio antenna and small wind sensor on a hill, frost on the metal, northern lights faintly green in the sky, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A box on a hill with cameras, a magnetometer, weather sensors and radio receivers, switched on day and night. It was built to answer plain questions: do the lights keep coming, and what else changes when they do?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A box on a hill with cameras, a magnetometer, weather sensors and radio receivers, switched on day and night. It was built to answer plain questions: do the lights keep coming, and what else changes when they do?",
+    "file": "ep/audio/s39.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal computer monitor in a dark research room showing blurry scatter plot-like dots without any text, a researcher's silhouette, cold light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The logs say the lights usually show between nine p.m. and one a.m., and more often in winter. By twenty-ten, sightings had dwindled to ten or twenty a year. The peak of twenty a week is long gone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The logs say the lights usually show between nine p.m. and one a.m., and more often in winter. By twenty-ten, sightings had dwindled to ten or twenty a year. The peak of twenty a week is long gone.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 14.856
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal Italian and Norwegian scientists in winter jackets setting up optical cameras and a radio antenna on a dark snowy hill, thermos, headlamps, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came an international team. Between two thousand and two thousand two, Italy's national research council and Norway's \u00d8stfold University College ran expeditions under the name EMBLA, watching with cameras, radio and radar."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came an international team. Between two thousand and two thousand two, Italy's national research council and Norway's \u00d8stfold University College ran expeditions under the name EMBLA, watching with cameras, radio and radar.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 16.632
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal astrophysicist in a dark control room staring at a screen with a glowing ball of light photograph, instrument lights reflected on glasses, cinematic portrait, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Astrophysicist Massimo Teodorani, one of the Italians, calculated that a big light ball could radiate up to nineteen kilowatts. Balls ranged from tens of centimeters to some thirty meters across."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Astrophysicist Massimo Teodorani, one of the Italians, calculated that a big light ball could radiate up to nineteen kilowatts. Balls ranged from tens of centimeters to some thirty meters across.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal cluster of small glowing white particles vibrating around a bright center in black space, scientific illustration look but realistic, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "EMBLA's conclusion: the balls are not single solid objects. They look like clusters of small parts vibrating around a center, sometimes throwing off smaller balls, and changing shape all the time."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "EMBLA's conclusion: the balls are not single solid objects. They look like clusters of small parts vibrating around a center, sometimes throwing off smaller balls, and changing shape all the time.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal empty night sky over a Norwegian valley with a soft shapeless glow, no object, no edges, just diffuse light, stars, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is hard to match with a machine. A craft has a hull. These show no hull, no edges, no wings, only glow that shifts and splits. For the alien theory, the best data is also the most awkward."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is hard to match with a machine. A craft has a hull. These show no hull, no edges, no wings, only glow that shifts and splits. For the alien theory, the best data is also the most awkward.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 14.04
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal tall stack of scientific journals and a printed paper on a desk with a highlighter, window light on a snowy mountain, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A scientists' survey in Frontiers in Earth Science, in twenty-sixteen, put it plainly. No model explains every observation, and the energy source behind the lights remains unknown. So who are the suspects?"
+   ]
+  ],
+  "tag": "P",
+  "ch": [
+   "VI",
+   "THE SUSPECTS \u00b7 FIVE THEORIES",
+   "DUST, PLASMA, ROCK, BATTERY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A scientists' survey in Frontiers in Earth Science, in twenty-sixteen, put it plainly. No model explains every observation, and the energy source behind the lights remains unknown. So who are the suspects?",
+    "file": "ep/audio/s45.mp3",
+    "dur": 14.808
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal dusty abandoned mine entrance in a Norwegian hillside with grey rock waste piles and a thin glowing orange haze in the air, dusk, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect one: burning dust. The valley has a mining past. In two thousand seven, engineer Bj\u00f8rn Hauge proposed that scandium-rich dust ignites in air and drifts as a glowing cloud. The press ran a headline: mystery solved."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect one: burning dust. The valley has a mining past. In two thousand seven, engineer Bj\u00f8rn Hauge proposed that scandium-rich dust ignites in air and drifts as a glowing cloud. The press ran a headline: mystery solved.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 16.92
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal old newspaper front page held open by a hand in a cafe, headline area blurred, coffee cup, warm light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It was never proven, and the headline was premature. Its own authors call it a hypothesis. But it fits a hot continuous glow, and the dust is real."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It was never proven, and the headline was premature. Its own authors call it a hypothesis. But it fits a hot continuous glow, and the dust is real.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 10.536
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal glowing hazy ball of ionized gas inside a laboratory vacuum chamber, purple-white plasma with floating dust grains, glass window, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect two: radon. In twenty-ten, physicists Gerson Paiva and Carlton Taft proposed that radioactive radon in the rock ionizes air and dust, forming a dusty plasma whose clumps glow and arrange themselves in patterns."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect two: radon. In twenty-ten, physicists Gerson Paiva and Carlton Taft proposed that radioactive radon in the rock ionizes air and dust, forming a dusty plasma whose clumps glow and arrange themselves in patterns.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 17.184
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal laboratory notebook sketch-like geometric lattice of dots on graph paper next to a model of a glowing plasma ball in a jar, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A neat feature: the model predicts shapes and oscillations that people have photographed. The weakness: it lives on paper. As far as I can find, nobody has measured such a crystal in the valley itself."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A neat feature: the model predicts shapes and oscillations that people have photographed. The weakness: it lives on paper. As far as I can find, nobody has measured such a crystal in the valley itself.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal chunk of grey schist rock with a few white quartz veins held in a geologist's gloved hand on a mountainside, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect three: squeezed rock. Quartz makes charge under strain. But skeptic Brian Dunning notes the valley is mostly schist and sandstone with little quartz, and the lights are seen from a hill at the north end, not rising from the ground."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect three: squeezed rock. Quartz makes charge under strain. But skeptic Brian Dunning notes the valley is mostly schist and sandstone with little quartz, and the lights are seen from a hill at the north end, not rising from the ground.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 15.552
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal river flowing through a dark snowy valley with bubbles rising from the water and faint glow above, electrodes implied by two dark valley walls, night, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect four: a natural battery. In twenty-fourteen, Italian engineer Jader Monari suggested the two sides of the valley act as electrodes and the river Hesja as the electrolyte, so charged gas bubbles rise and glow."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect four: a natural battery. In twenty-fourteen, Italian engineer Jader Monari suggested the two sides of the valley act as electrodes and the river Hesja as the electrolyte, so charged gas bubbles rise and glow.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 15.984
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal passenger jet descending at night with bright landing lights seen head-on over a dark mountain valley, distant, stars, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect five is the simplest and least glamorous: aircraft. Skeptoid's Brian Dunning cites a published warning from researcher Marsha Adams that airplane lights are a common source of false ghost lights."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect five is the simplest and least glamorous: aircraft. Skeptoid's Brian Dunning cites a published warning from researcher Marsha Adams that airplane lights are a common source of false ghost lights.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal cockpit view of a night airliner approach with a straight line of runway-like lights ahead and a long valley below, dim instrument glow, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A flight corridor from the Tolga navigation beacon runs straight up the valley, toward the station, on the bearing its cameras face. Oslo to Trondheim is Norway's busiest air route. Most station images, Dunning argues, look like landing lights."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A flight corridor from the Tolga navigation beacon runs straight up the valley, toward the station, on the bearing its cameras face. Oslo to Trondheim is Norway's busiest air route. Most station images, Dunning argues, look like landing lights.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 16.872
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal vintage black and white style photograph feel of a 1930s Norwegian mountain farm at dusk, no airplanes, a single faint light over the ridge, film grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Aircraft may explain many modern photographs. They do not obviously explain reports from the nineteen thirties, before regular flights, or a flashing light that changed its rhythm under a laser."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Aircraft may explain many modern photographs. They do not obviously explain reports from the nineteen thirties, before regular flights, or a flashing light that changed its rhythm under a laser.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal two different faint lights, one yellow and one white, in the night sky over a snowy valley, with a plane's tiny strobe in the distance, composite look, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the uncomfortable truth. No single theory covers everything: not dust, not plasma, not rock, not aircraft. My reading: ordinary lights mistaken for something strange, plus a rarer natural glow nobody yet understands."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the uncomfortable truth. No single theory covers everything: not dust, not plasma, not rock, not aircraft. My reading: ordinary lights mistaken for something strange, plus a rarer natural glow nobody yet understands.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 16.368
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal suspect line-up wall with five empty framed outlines in a dim room, a sixth outline separate and covered by a cloth, noir lighting, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice who never needed to be named. Four decades of instruments found glow, echoes and a flash rhythm. They did not find a hull, a message, or any technology you could point to."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice who never needed to be named. Four decades of instruments found glow, echoes and a flash rhythm. They did not find a hull, a message, or any technology you could point to.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal glowing sphere hovering near a mountain at night looking like a deliberate probe, rendered realistic, cold blue sky, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "I want to give the alien idea its best case. The lights hover, cluster, travel in lines, and once seemed to react to a laser. If you designed a probe to look like glowing plasma, this is what you would build."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "I want to give the alien idea its best case. The lights hover, cluster, travel in lines, and once seemed to react to a laser. If you designed a probe to look like glowing plasma, this is what you would build.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal single candle flame beside a single stone on a wooden table, simple and calm, soft window light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The trouble is the logic. Everything that fits a probe also fits an unknown natural glow, and the natural glow needs fewer assumptions. When two explanations fit equally, take the simpler one and keep watching."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The trouble is the logic. Everything that fits a probe also fits an unknown natural glow, and the natural glow needs fewer assumptions. When two explanations fit equally, take the simpler one and keep watching.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 14.52
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark observation cabin with a tall window on the right edge showing a distant faint light over a valley, large empty dark space on the left, one desk lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to score the case. Evidence on one side, theory on the other."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VII",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score the case. Evidence on one side, theory on the other.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 4.2
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark observation cabin with a tall window on the right edge showing a distant faint light over a valley, large empty dark space on the left, one desk lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lights over the valley for decades, recorded by instruments: evidence. Radar echoes as strong as mountains: evidence. A continuous spectrum and a laser response: evidence, of something we cannot yet name."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lights over the valley for decades, recorded by instruments: evidence. Radar echoes as strong as mountains: evidence. A continuous spectrum and a laser response: evidence, of something we cannot yet name.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 14.568
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark observation cabin with a tall window on the right edge showing a distant faint light over a valley, large empty dark space on the left, one desk lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Burning dust or natural plasma: plausible, unproven. Aircraft lights: likely for some modern photos, not all. An alien craft: no hull, no message, no technology. No evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Burning dust or natural plasma: plausible, unproven. Aircraft lights: likely for some modern photos, not all. An alien craft: no hull, no message, no technology. No evidence.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 13.824
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark snowy Norwegian valley at night under a clear starry sky, a single small soft light glowing far down the valley, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Not aliens. Hessdalen is a genuine, partly unexplained natural light phenomenon, mixed with ordinary aircraft and car lights. The unexplained part is real science, not a spacecraft."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Not aliens. Hessdalen is a genuine, partly unexplained natural light phenomenon, mixed with ordinary aircraft and car lights. The unexplained part is real science, not a spacecraft.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 14.688
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal instrument-filled research cabin interior at dawn with all screens still running, cups of tea, a window showing the valley in blue morning light, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that is the better story: a valley where physicists still argue about what is glowing, with a station watching every night. The answer, when it comes, will likely be strange plasma physics, not a landing."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that is the better story: a valley where physicists still argue about what is glowing, with a station watching every night. The answer, when it comes, will likely be strange plasma physics, not a landing.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 13.944
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal ancient stepped pyramid in Teotihuacan Mexico at dusk with a dark entrance tunnel at its base and a faint reflective glow inside, warm light, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: beneath a pyramid city in Mexico, archaeologists entered a tunnel sealed for eighteen hundred years, and found liquid mercury inside. Ancient power plant, or sacred underworld?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: beneath a pyramid city in Mexico, archaeologists entered a tunnel sealed for eighteen hundred years, and found liquid mercury inside. Ancient power plant, or sacred underworld?",
+    "file": "ep/audio/s64.mp3",
+    "dur": 13.152
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single small glowing orb floating above a thin pale mountain ridge line on black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which suspect do you trust: dust, plasma, rock or aircraft? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which suspect do you trust: dust, plasma, rock or aircraft? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 9.696
+   }
+  ]
+ }
+]

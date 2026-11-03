@@ -1,0 +1,1336 @@
+{
+ "fps": 30,
+ "total": 27456,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 500,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A narrow valley in central Norway, where glowing balls of light have floated over the hills for decades, up to twenty times a week. Scientists arrived with radar, cameras and a laser. In one test, a light seemed to answer back.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 15.576,
+     "start": 10,
+     "end": 478
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 482,
+   "end": 869,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The lights are real in the way that matters: they have been filmed, photographed and tracked on instruments for forty years. Some call them alien probes. Others say airplanes.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 11.832,
+     "start": 492,
+     "end": 847
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 851,
+   "end": 1169,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we open the instrument rack and ask each device what it actually recorded. Only measurements count. This is the Hessdalen lights.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 9.528,
+     "start": 861,
+     "end": 1147
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1151,
+   "end": 1454,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Hessdalen lights. Evidence against theory. Switch on the first instrument.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 5.016,
+     "start": 1161,
+     "end": 1312
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I",
+    "WINTER 1981 \u00b7 THE VALLEY",
+    "WHAT PEOPLE SAW"
+   ],
+   "img": "ep/img/shot_05.jpg",
+   "start": 1436,
+   "end": 1877,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "December, nineteen eighty-one. Hessdalen, a valley about twelve kilometers long, north of the town of R\u00f8ros. Farmers see lights hanging over the hills, silent, white, yellow, sometimes red.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 13.608,
+     "start": 1446,
+     "end": 1855
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 1859,
+   "end": 2203,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some flash for a second. Some hover for more than an hour. Some sway slowly from side to side. And some, witnesses say, shoot away at great speed.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 10.368,
+     "start": 1869,
+     "end": 2181
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2185,
+   "end": 2547,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the peak, between nineteen eighty-one and nineteen eighty-four, people reported them fifteen to twenty times a week. Tourists came just to stand in the cold and look.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.968,
+     "start": 2195,
+     "end": 2525
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2529,
+   "end": 2914,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Locals had told stories of strange lights in these hills since at least the nineteen thirties. What changed in eighty-one was the number of witnesses, and the arrival of cameras.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 11.76,
+     "start": 2539,
+     "end": 2892
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2896,
+   "end": 3339,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By then UFO clubs in Norway and Sweden were paying attention. In June nineteen eighty-three, five volunteers formed Project Hessdalen, led by an electrical engineer named Erling Strand.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.68,
+     "start": 2906,
+     "end": 3317
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3321,
+   "end": 3798,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their advisors included J. Allen Hynek, the astronomer who had worked on the US Air Force's Project Blue Book. In January nineteen eighty-four, they mailed report forms to three thousand three hundred households.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 14.832,
+     "start": 3331,
+     "end": 3776
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3780,
+   "end": 4227,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then they hauled a caravan up to a ridge called Asp\u00e5skj\u00f8len, filled it with instruments, and waited. Five weeks, from January twenty-first to February twenty-sixth, with volunteers on watch every night.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 13.824,
+     "start": 3790,
+     "end": 4205
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II",
+    "THE CAMERA \u00b7 SPECTRUM",
+    "WHAT THE LIGHT IS MADE OF"
+   ],
+   "img": "ep/img/shot_12.jpg",
+   "start": 4209,
+   "end": 4681,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Instrument one: a camera with a diffraction grating in front of the lens. It splits light into a spectrum. A glowing gas draws bright separate lines, like a neon sign. A hot solid glows in a smooth rainbow.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 14.64,
+     "start": 4219,
+     "end": 4659
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4663,
+   "end": 5082,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Strand called this the most important measurement. Lines would mean glowing gas, maybe plasma. A smooth band would mean a thermal glow. Either answer would kill several theories at once.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.888,
+     "start": 4673,
+     "end": 5060
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 5064,
+   "end": 5397,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They shot seven films through gratings. Only four pictures were good enough to read: two strong, two weak. And none of them showed the strangest lights.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 10.032,
+     "start": 5074,
+     "end": 5375
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5379,
+   "end": 5812,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Strand was strict about it. The best pictures, taken at eight minutes past three on the last morning, scored right on the borderline of his own scale for strange lights. His verdict: not proof of anything.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 13.344,
+     "start": 5389,
+     "end": 5790
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5794,
+   "end": 6242,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Later campaigns did better. The spectrum of the white lights, recorded again and again, is continuous. No bright lines. That points to a hot, dense glow rather than a thin gas, and that is a real clue.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 13.848,
+     "start": 5804,
+     "end": 6220
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6224,
+   "end": 6580,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One estimate puts the glow near five thousand degrees, a little cooler than the surface of the Sun. All of that from a ball of light floating over a Norwegian hill.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 10.776,
+     "start": 6234,
+     "end": 6558
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6562,
+   "end": 6954,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What does the camera say about aliens? Nothing directly. A continuous spectrum fits burning dust, hot plasma, or a lamp. It tells us how it glows, not who or what lit it.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 11.976,
+     "start": 6572,
+     "end": 6932
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III",
+    "THE RADAR \u00b7 ECHOES",
+    "SOMETHING TO BOUNCE OFF"
+   ],
+   "img": "ep/img/shot_19.jpg",
+   "start": 6936,
+   "end": 7346,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Instrument two: radar. A set with a three-centimeter wavelength and a range of thirty-three kilometers. If a solid object, or a charged cloud, hung out there, the screen should show it.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.6,
+     "start": 6946,
+     "end": 7324
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7328,
+   "end": 7748,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Thirty-six echoes were logged. Only three lined up with a light seen by eye. Nine could be followed in nearly straight lines. When the team photographed those spots, the sky looked empty.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 12.912,
+     "start": 7338,
+     "end": 7726
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7730,
+   "end": 8216,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two of the echoes were photographed on screen. They were as strong as returns from the nearby mountains. A radar expert at the Norwegian defence research lab said: if it is only gas, it must be strongly ionized.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 15.12,
+     "start": 7740,
+     "end": 8194
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8198,
+   "end": 8639,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One odd detail. A light stayed visible the whole time, yet its radar echo appeared only on every second sweep. Strand wondered whether it was reacting to the radar. A question, not a finding.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 13.608,
+     "start": 8208,
+     "end": 8617
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8621,
+   "end": 9091,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Radar has a known weak spot. Layers of different temperature and humidity can bounce a beam and make echoes from nothing solid. Strand listed that himself. The echoes are real data, but their source is open.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 14.568,
+     "start": 8631,
+     "end": 9069
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 9073,
+   "end": 9566,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Instrument three: a seismograph, installed in October nineteen eighty-three. One idea said the lights were earthquake lights, squeezed from rock under strain. It recorded no local tremors at all, only distant earthquakes.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 15.36,
+     "start": 9083,
+     "end": 9544
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9548,
+   "end": 9967,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Geiger counters heard nothing unusual, though no light came within a kilometer of them. The infrared viewer, used twice on far-off lights, saw nothing strong. Neither test settles much.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 12.888,
+     "start": 9558,
+     "end": 9945
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9949,
+   "end": 10443,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The magnetometer showed a tantalizing forty percent link: four of ten bright sightings coincided with a magnetic pulsation. But pulsations were frequent that week, so chance is likely. Strand wrote exactly that.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 15.384,
+     "start": 9959,
+     "end": 10421
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10425,
+   "end": 10918,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And a detail that rarely reaches documentaries. The cameras failed repeatedly, often at the moments they were needed most. Power connections dropped out. Fieldwork in a Norwegian winter is hard on fragile equipment.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 15.336,
+     "start": 10435,
+     "end": 10896
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV",
+    "THE LASER \u00b7 8 OF 9",
+    "DID THE LIGHT ANSWER"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 10900,
+   "end": 11351,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Instrument four is the strangest. Locals said a light vanished when a bright beam hit it. So the team brought a red laser, less than one milliwatt, weaker than a common laser pointer, and a rule: no peeking.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 13.944,
+     "start": 10910,
+     "end": 11329
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 11333,
+   "end": 11824,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sunday, February twelfth, nineteen eighty-four, seven thirty-five p.m. A light drifts north over the ridge, flashing steadily. One flash, pause, one flash, pause. For fifteen minutes the rhythm never changes.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 15.288,
+     "start": 11343,
+     "end": 11802
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11806,
+   "end": 12273,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Strand aims the laser. At once the rhythm changes: flash-flash, pause, flash-flash. He lowers it. Back to single flashes. Ten seconds on, ten seconds off. Four cycles, until the light disappears.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 14.496,
+     "start": 11816,
+     "end": 12251
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 12255,
+   "end": 12694,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "An hour later a second flashing light repeats it. In all they tried nine times. Eight times the light changed. Strand's reaction in the report: very surprising. He had expected a coincidence.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.536,
+     "start": 12265,
+     "end": 12672
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12676,
+   "end": 13063,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The test was blind in one way. The man watching through binoculars, Kurt Persson, could not see where the laser was pointing. He simply called out the flashes as he saw them.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 11.832,
+     "start": 12686,
+     "end": 13041
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 13045,
+   "end": 13494,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What does it prove? Two lights, one night, no independent repeat that I can find. Strong enough to be intriguing, not strong enough to rest a theory on. It is the best moment for the alien idea, and it is thin.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 13.896,
+     "start": 13055,
+     "end": 13472
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 13476,
+   "end": 13935,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The believer's reading is simple: the lights are probes, and one noticed the laser. It is the only result that fits that story. But the change was a flash pattern. Nobody saw a surface, a hull or an edge.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 14.232,
+     "start": 13486,
+     "end": 13913
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13917,
+   "end": 14348,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Strand's own conclusion, signed in January nineteen eighty-five, was sober. We have not found out what this phenomenon is. But whatever it is, it can be measured, by light, by radar, and by laser.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 13.272,
+     "start": 13927,
+     "end": 14326
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 14330,
+   "end": 14784,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the most honest number in the report. Of one hundred eighty-eight sightings, Strand ruled that one hundred thirty-five were ordinary known lights. Only fifty-three deserved the name Hessdalen phenomenon.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 14.064,
+     "start": 14340,
+     "end": 14762
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14766,
+   "end": 15202,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Of those fifty-three, about two thirds moved along a north-south line, roughly the line of the valley. Four were rated very strange. The strangest, Strand said, was a red light on the ground.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 13.44,
+     "start": 14776,
+     "end": 15180
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "V",
+    "THE STATION \u00b7 1998",
+    "FORTY YEARS OF LOGS"
+   ],
+   "img": "ep/img/shot_38.jpg",
+   "start": 15184,
+   "end": 15686,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The mystery did not stop. In nineteen ninety-seven and ninety-eight, volunteers recorded a pyramid-shaped cluster of lights bouncing up and down. And in nineteen ninety-eight, a permanent Automatic Measurement Station was built on the slope.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 15.648,
+     "start": 15194,
+     "end": 15664
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 15668,
+   "end": 16112,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A box on a hill with cameras, a magnetometer, weather sensors and radio receivers, switched on day and night. It was built to answer plain questions: do the lights keep coming, and what else changes when they do?",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.704,
+     "start": 15678,
+     "end": 16090
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 16094,
+   "end": 16572,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The logs say the lights usually show between nine p.m. and one a.m., and more often in winter. By twenty-ten, sightings had dwindled to ten or twenty a year. The peak of twenty a week is long gone.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 14.856,
+     "start": 16104,
+     "end": 16550
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 16554,
+   "end": 17085,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then came an international team. Between two thousand and two thousand two, Italy's national research council and Norway's \u00d8stfold University College ran expeditions under the name EMBLA, watching with cameras, radio and radar.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 16.632,
+     "start": 16564,
+     "end": 17063
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 17067,
+   "end": 17539,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Astrophysicist Massimo Teodorani, one of the Italians, calculated that a big light ball could radiate up to nineteen kilowatts. Balls ranged from tens of centimeters to some thirty meters across.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 14.64,
+     "start": 17077,
+     "end": 17517
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 17521,
+   "end": 17969,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "EMBLA's conclusion: the balls are not single solid objects. They look like clusters of small parts vibrating around a center, sometimes throwing off smaller balls, and changing shape all the time.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 13.848,
+     "start": 17531,
+     "end": 17947
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 17951,
+   "end": 18405,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is hard to match with a machine. A craft has a hull. These show no hull, no edges, no wings, only glow that shifts and splits. For the alien theory, the best data is also the most awkward.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 14.04,
+     "start": 17961,
+     "end": 18383
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": [
+    "VI",
+    "THE SUSPECTS \u00b7 FIVE THEORIES",
+    "DUST, PLASMA, ROCK, BATTERY"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 18387,
+   "end": 18864,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A scientists' survey in Frontiers in Earth Science, in twenty-sixteen, put it plainly. No model explains every observation, and the energy source behind the lights remains unknown. So who are the suspects?",
+     "file": "ep/audio/s45.mp3",
+     "dur": 14.808,
+     "start": 18397,
+     "end": 18842
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 18846,
+   "end": 19386,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect one: burning dust. The valley has a mining past. In two thousand seven, engineer Bj\u00f8rn Hauge proposed that scandium-rich dust ignites in air and drifts as a glowing cloud. The press ran a headline: mystery solved.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 16.92,
+     "start": 18856,
+     "end": 19364
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 19368,
+   "end": 19717,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It was never proven, and the headline was premature. Its own authors call it a hypothesis. But it fits a hot continuous glow, and the dust is real.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 10.536,
+     "start": 19378,
+     "end": 19695
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 19699,
+   "end": 20247,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect two: radon. In twenty-ten, physicists Gerson Paiva and Carlton Taft proposed that radioactive radon in the rock ionizes air and dust, forming a dusty plasma whose clumps glow and arrange themselves in patterns.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 17.184,
+     "start": 19709,
+     "end": 20225
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 20229,
+   "end": 20663,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A neat feature: the model predicts shapes and oscillations that people have photographed. The weakness: it lives on paper. As far as I can find, nobody has measured such a crystal in the valley itself.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 13.368,
+     "start": 20239,
+     "end": 20641
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 20645,
+   "end": 21144,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect three: squeezed rock. Quartz makes charge under strain. But skeptic Brian Dunning notes the valley is mostly schist and sandstone with little quartz, and the lights are seen from a hill at the north end, not rising from the ground.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 15.552,
+     "start": 20655,
+     "end": 21122
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 21126,
+   "end": 21638,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect four: a natural battery. In twenty-fourteen, Italian engineer Jader Monari suggested the two sides of the valley act as electrodes and the river Hesja as the electrolyte, so charged gas bubbles rise and glow.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 15.984,
+     "start": 21136,
+     "end": 21616
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 21620,
+   "end": 22063,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect five is the simplest and least glamorous: aircraft. Skeptoid's Brian Dunning cites a published warning from researcher Marsha Adams that airplane lights are a common source of false ghost lights.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 13.68,
+     "start": 21630,
+     "end": 22041
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 22045,
+   "end": 22584,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A flight corridor from the Tolga navigation beacon runs straight up the valley, toward the station, on the bearing its cameras face. Oslo to Trondheim is Norway's busiest air route. Most station images, Dunning argues, look like landing lights.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 16.872,
+     "start": 22055,
+     "end": 22562
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 22566,
+   "end": 22981,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Aircraft may explain many modern photographs. They do not obviously explain reports from the nineteen thirties, before regular flights, or a flashing light that changed its rhythm under a laser.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 12.744,
+     "start": 22576,
+     "end": 22959
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 22963,
+   "end": 23487,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the uncomfortable truth. No single theory covers everything: not dust, not plasma, not rock, not aircraft. My reading: ordinary lights mistaken for something strange, plus a rarer natural glow nobody yet understands.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 16.368,
+     "start": 22973,
+     "end": 23465
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 23469,
+   "end": 23877,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice who never needed to be named. Four decades of instruments found glow, echoes and a flash rhythm. They did not find a hull, a message, or any technology you could point to.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 12.528,
+     "start": 23479,
+     "end": 23855
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 23859,
+   "end": 24308,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "I want to give the alien idea its best case. The lights hover, cluster, travel in lines, and once seemed to react to a laser. If you designed a probe to look like glowing plasma, this is what you would build.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 13.896,
+     "start": 23869,
+     "end": 24286
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 24290,
+   "end": 24758,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The trouble is the logic. Everything that fits a probe also fits an unknown natural glow, and the natural glow needs fewer assumptions. When two explanations fit equally, take the simpler one and keep watching.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 14.52,
+     "start": 24300,
+     "end": 24736
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VII",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 24740,
+   "end": 24898,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score the case. Evidence on one side, theory on the other.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 4.2,
+     "start": 24750,
+     "end": 24876
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 24880,
+   "end": 25350,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lights over the valley for decades, recorded by instruments: evidence. Radar echoes as strong as mountains: evidence. A continuous spectrum and a laser response: evidence, of something we cannot yet name.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 14.568,
+     "start": 24890,
+     "end": 25328
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 25332,
+   "end": 25779,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Burning dust or natural plasma: plausible, unproven. Aircraft lights: likely for some modern photos, not all. An alien craft: no hull, no message, no technology. No evidence.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 13.824,
+     "start": 25342,
+     "end": 25757
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 25761,
+   "end": 26234,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Not aliens. Hessdalen is a genuine, partly unexplained natural light phenomenon, mixed with ordinary aircraft and car lights. The unexplained part is real science, not a spacecraft.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 14.688,
+     "start": 25771,
+     "end": 26212
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 26216,
+   "end": 26667,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And that is the better story: a valley where physicists still argue about what is glowing, with a station watching every night. The answer, when it comes, will likely be strange plasma physics, not a landing.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 13.944,
+     "start": 26226,
+     "end": 26645
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 26649,
+   "end": 27076,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: beneath a pyramid city in Mexico, archaeologists entered a tunnel sealed for eighteen hundred years, and found liquid mercury inside. Ancient power plant, or sacred underworld?",
+     "file": "ep/audio/s64.mp3",
+     "dur": 13.152,
+     "start": 26659,
+     "end": 27054
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 27058,
+   "end": 27381,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which suspect do you trust: dust, plasma, rock or aircraft? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 9.696,
+     "start": 27068,
+     "end": 27359
+    }
+   ]
+  }
+ ]
+}
