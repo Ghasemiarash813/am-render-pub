@@ -1,0 +1,603 @@
+1
+00:00:00,333 --> 00:00:01,446
+Yale University.
+
+2
+00:00:01,446 --> 00:00:07,363
+In a rare book library, a small book sits under strict guard, and nobody can read it.
+
+3
+00:00:07,363 --> 00:00:13,697
+Its pages hold strange plants, women in green baths, and a script that exists nowhere else.
+
+4
+00:00:13,697 --> 00:00:16,133
+Is it a message from another world?
+
+5
+00:00:16,600 --> 00:00:20,339
+Online, its writing is often called an alien alphabet.
+
+6
+00:00:20,339 --> 00:00:25,947
+Others say a lost language, an unbreakable code, or the greatest hoax in history.
+
+7
+00:00:25,947 --> 00:00:30,933
+For more than a century, the best codebreakers have failed to settle it.
+
+8
+00:00:31,399 --> 00:00:37,789
+So today we examine the book itself, one request at a time, the way a researcher would.
+
+9
+00:00:37,789 --> 00:00:40,066
+This is the Voynich manuscript.
+
+10
+00:00:40,533 --> 00:00:42,145
+The Voynich manuscript.
+
+11
+00:00:42,145 --> 00:00:43,827
+Evidence against theory.
+
+12
+00:00:43,827 --> 00:00:46,000
+Fill in the first request slip.
+
+13
+00:00:50,466 --> 00:00:51,279
+Request one.
+
+14
+00:00:51,279 --> 00:00:52,566
+Who held this book?
+
+15
+00:00:52,566 --> 00:00:58,866
+Every real object has a paper trail, and this one has a longer trail than most people expect.
+
+16
+00:00:59,333 --> 00:01:02,733
+The trail begins in Prague in the sixteen-thirties.
+
+17
+00:01:02,733 --> 00:01:12,333
+An alchemist named Georg Baresch owned a book he could not read, and it bothered him so much that he wrote to a famous scholar in Rome for help.
+
+18
+00:01:12,799 --> 00:01:20,381
+That scholar was Athanasius Kircher, a Jesuit with a vast library and a reputation for solving puzzles.
+
+19
+00:01:20,381 --> 00:01:23,400
+He is not known to have cracked this one.
+
+20
+00:01:23,866 --> 00:01:32,880
+In the mid sixteen-sixties, Baresch's friend Johannes Marcus Marci sent the book on to Kircher, with a letter that still survives.
+
+21
+00:01:32,880 --> 00:01:39,466
+The letter repeats a story: Emperor Rudolf the Second once paid six hundred gold ducats for it.
+
+22
+00:01:39,933 --> 00:01:47,474
+The emperor, the letter says, believed the author was Roger Bacon, the thirteenth century English friar.
+
+23
+00:01:47,474 --> 00:01:51,099
+Today, Yale calls the Bacon link pure speculation.
+
+24
+00:01:51,566 --> 00:01:52,744
+The dates break it.
+
+25
+00:01:52,744 --> 00:02:00,433
+Bacon died around twelve ninety-two, and you will see in a moment that the parchment of this book is much younger than that.
+
+26
+00:02:00,900 --> 00:02:10,033
+Then the book vanishes into a Jesuit collection near Rome, and stays there for more than two centuries, until a rare book dealer comes looking.
+
+27
+00:02:10,500 --> 00:02:15,839
+In nineteen-twelve, a Polish-American dealer named Wilfrid Voynich bought it.
+
+28
+00:02:15,839 --> 00:02:18,266
+His name has been on it ever since.
+
+29
+00:02:18,733 --> 00:02:27,466
+After his death it passed to his wife Ethel, then to her friend Anne Nill, who sold it to a New York dealer in nineteen sixty-one.
+
+30
+00:02:27,933 --> 00:02:36,266
+In nineteen sixty-nine the dealer gave it to Yale's Beinecke Library, where it is catalogued as Manuscript four-oh-eight.
+
+31
+00:02:36,733 --> 00:02:45,966
+Since then it has left the building only once, for an exhibition on codes and ciphers at the Folger Shakespeare Library in twenty-fourteen.
+
+32
+00:02:46,433 --> 00:02:48,341
+So the first answer is plain.
+
+33
+00:02:48,341 --> 00:02:53,801
+This is not a relic dropped from the sky, and not a mystery object with no history.
+
+34
+00:02:53,801 --> 00:02:58,866
+It is a physical book with owners named in letters from the sixteen-thirties.
+
+35
+00:02:59,333 --> 00:03:08,599
+A book that Europeans were already puzzling over in the days of horse-drawn carts, centuries before anyone said the words flying saucer.
+
+36
+00:03:09,066 --> 00:03:09,876
+Request two.
+
+37
+00:03:09,876 --> 00:03:11,835
+What is it made of, and when?
+
+38
+00:03:11,835 --> 00:03:14,333
+Here, science can overrule any story.
+
+39
+00:03:14,800 --> 00:03:16,429
+The pages are parchment.
+
+40
+00:03:16,429 --> 00:03:20,300
+Protein testing in twenty-fourteen showed it is calfskin.
+
+41
+00:03:20,766 --> 00:03:29,599
+In two thousand nine, the University of Arizona cut tiny samples from four pages and measured their carbon fourteen.
+
+42
+00:03:30,066 --> 00:03:33,972
+Carbon fourteen decays at a known rate once an animal dies.
+
+43
+00:03:33,972 --> 00:03:39,599
+Measure what is left, correct it against tree rings, and you get a date for the skin.
+
+44
+00:03:40,066 --> 00:03:41,728
+All four samples agreed.
+
+45
+00:03:41,728 --> 00:03:49,066
+With ninety-five percent probability, the animals died between fourteen-oh-four and fourteen thirty-eight.
+
+46
+00:03:49,533 --> 00:03:56,500
+That is the early fifteenth century, the decades of Joan of Arc, when printing had not yet reached Europe.
+
+47
+00:03:56,966 --> 00:03:57,777
+One caution.
+
+48
+00:03:57,777 --> 00:04:00,752
+Carbon dating tells us when the animal died.
+
+49
+00:04:00,752 --> 00:04:04,200
+It does not tell us when someone wrote on the skin.
+
+50
+00:04:04,666 --> 00:04:13,433
+Yale also reports chemical analysis of the inks and pigments, and says they fit materials used in fifteenth century manuscripts.
+
+51
+00:04:13,900 --> 00:04:15,527
+That sinks two stories.
+
+52
+00:04:15,527 --> 00:04:21,471
+A forgery by Wilfrid Voynich would have needed old blank parchment and matching ink.
+
+53
+00:04:21,471 --> 00:04:26,566
+And Roger Bacon died more than a century before these animals were born.
+
+54
+00:04:27,033 --> 00:04:29,466
+Yale's own cataloguers stay cautious.
+
+55
+00:04:29,466 --> 00:04:39,199
+They place the book in central Europe, late fifteenth or sixteenth century, and scholars still debate how long after the parchment the writing came.
+
+56
+00:04:39,666 --> 00:04:42,120
+On dates, then, the case is strong.
+
+57
+00:04:42,120 --> 00:04:46,116
+A real European book, from roughly the fifteenth century.
+
+58
+00:04:46,116 --> 00:04:48,500
+Not ancient, and not otherworldly.
+
+59
+00:04:48,966 --> 00:04:50,533
+Now, the hands that made it.
+
+60
+00:04:51,000 --> 00:04:51,974
+Request three.
+
+61
+00:04:51,974 --> 00:04:52,879
+Who wrote it?
+
+62
+00:04:52,879 --> 00:04:55,942
+For years people pictured one lonely genius.
+
+63
+00:04:55,942 --> 00:04:58,100
+The handwriting says otherwise.
+
+64
+00:04:58,566 --> 00:05:09,435
+In twenty-twenty, the medievalist Lisa Fagin Davis studied individual letter shapes: the angle of strokes, how a pen was lifted, how loops were closed.
+
+65
+00:05:09,435 --> 00:05:11,666
+She found five different hands.
+
+66
+00:05:12,133 --> 00:05:21,227
+Two of those hands had been spotted decades earlier by the codebreaker Prescott Currier, who labelled them scribe one and scribe two.
+
+67
+00:05:21,227 --> 00:05:22,800
+Davis added three more.
+
+68
+00:05:23,266 --> 00:05:26,626
+Five scribes suggests a workshop or a community.
+
+69
+00:05:26,626 --> 00:05:30,826
+It does not look like one eccentric hoaxer scribbling alone.
+
+70
+00:05:30,826 --> 00:05:36,566
+A critical paper has questioned the count of five, so the exact number is debated.
+
+71
+00:05:37,033 --> 00:05:44,559
+Davis also notes that the parchment is soft, the way a book becomes when it has been handled again and again.
+
+72
+00:05:44,559 --> 00:05:47,666
+Someone used this book like a working manual.
+
+73
+00:05:48,133 --> 00:05:52,150
+Now a twist, published in October, twenty-twenty-six.
+
+74
+00:05:52,150 --> 00:06:00,033
+Davis and Colin Layfield argue the book began as loose single folded sheets, each written by one scribe.
+
+75
+00:06:00,500 --> 00:06:06,533
+Then, they say, someone bound the sheets in the wrong order, perhaps without being able to read a word.
+
+76
+00:06:07,000 --> 00:06:16,266
+The clues: pictures that run off one page and reappear on another far away, and a water stain that does not match from page to page.
+
+77
+00:06:16,733 --> 00:06:27,399
+Layfield's computer analysis of about thirty-five thousand words found that some pages share vocabulary and others do not, which fits that idea.
+
+78
+00:06:27,866 --> 00:06:33,651
+If they are right, any study that assumed the current page order must be rethought.
+
+79
+00:06:33,651 --> 00:06:37,066
+Davis is careful: we do not know if it is a code.
+
+80
+00:06:37,533 --> 00:06:38,856
+No alien hand here.
+
+81
+00:06:38,856 --> 00:06:42,966
+Just scribes, quills, and a bookbinder who lost the thread.
+
+82
+00:06:43,433 --> 00:06:44,263
+Request four.
+
+83
+00:06:44,263 --> 00:06:45,922
+What do the pictures show?
+
+84
+00:06:45,922 --> 00:06:50,199
+Because we cannot read the words, the drawings are our only window.
+
+85
+00:06:50,666 --> 00:06:56,861
+First the herbal section, about a hundred and twenty-six pages, each with one or two plants.
+
+86
+00:06:56,861 --> 00:07:04,000
+It looks like a normal medieval herbal, except almost none of the plants can be identified with certainty.
+
+87
+00:07:04,466 --> 00:07:08,016
+That has led some to say they grow on another world.
+
+88
+00:07:08,016 --> 00:07:10,065
+There is no evidence for that.
+
+89
+00:07:10,065 --> 00:07:15,800
+Medieval herbals were copied by hand, and drawings drifted a little with every copy.
+
+90
+00:07:16,266 --> 00:07:27,542
+The astronomical section has circular diagrams with suns, moons and stars, and twelve zodiac signs, including two fish for Pisces and a bull for Taurus.
+
+91
+00:07:27,542 --> 00:07:31,399
+Those are the same signs Europeans used at the time.
+
+92
+00:07:31,866 --> 00:07:36,138
+In the zodiac rings, thirty women hold labelled stars.
+
+93
+00:07:36,138 --> 00:07:37,166
+Strange, yes.
+
+94
+00:07:37,166 --> 00:07:43,100
+But the layout is calendar-like, and the zodiac itself is plainly European.
+
+95
+00:07:43,566 --> 00:07:47,838
+Some see a galaxy in one circular drawing with curved arms.
+
+96
+00:07:47,838 --> 00:07:57,033
+In nineteen-twenty-one, William Newbold read exactly that, a spiral galaxy that he said could only be seen through a telescope.
+
+97
+00:07:57,500 --> 00:08:01,072
+In nineteen thirty-one, John Manly showed the flaw.
+
+98
+00:08:01,072 --> 00:08:08,566
+Newbold's method let letters be rearranged at will until Latin appeared, so it could prove almost anything.
+
+99
+00:08:09,033 --> 00:08:14,119
+The bathing section shows women in green pools linked by pipes and tubes.
+
+100
+00:08:14,119 --> 00:08:18,369
+People have read it as plumbing, medicine, or something else.
+
+101
+00:08:18,369 --> 00:08:23,176
+One twenty-twenty-four paper argued parts concern sex and conception.
+
+102
+00:08:23,176 --> 00:08:26,033
+That is an interpretation, not a reading.
+
+103
+00:08:26,500 --> 00:08:35,633
+Then jars and roots that look like a pharmacy, and finally pages of text with small stars in the margins, perhaps recipes.
+
+104
+00:08:36,100 --> 00:08:45,309
+Put together, the pictures describe medicine, stars and bathing: ordinary medieval subjects, drawn in an unusual way.
+
+105
+00:08:45,309 --> 00:08:46,410
+No spacecraft.
+
+106
+00:08:46,410 --> 00:08:47,355
+No machines.
+
+107
+00:08:47,355 --> 00:08:48,299
+No visitors.
+
+108
+00:08:48,766 --> 00:08:49,593
+Request five.
+
+109
+00:08:49,593 --> 00:08:50,929
+The words themselves.
+
+110
+00:08:50,929 --> 00:08:57,100
+About thirty-eight thousand of them, built from roughly two dozen symbols, written left to right.
+
+111
+00:08:57,566 --> 00:08:59,542
+Here is the strangest part.
+
+112
+00:08:59,542 --> 00:09:01,811
+The text behaves like language.
+
+113
+00:09:01,811 --> 00:09:13,299
+The most common word appears about twice as often as the second, and three times as often as the third, a pattern called Zipf's law, found in real languages.
+
+114
+00:09:13,766 --> 00:09:23,033
+In twenty-thirteen, the physicist Marcelo Montemurro found that words cluster by topic, the way keywords do in real books.
+
+115
+00:09:23,500 --> 00:09:24,870
+But it is also odd.
+
+116
+00:09:24,870 --> 00:09:32,229
+Some words repeat up to five times in a row, and words that differ by one letter appear far too often.
+
+117
+00:09:32,229 --> 00:09:39,299
+The famous codebreaker Elizebeth Friedman called the statistical hunt doomed to utter frustration.
+
+118
+00:09:39,766 --> 00:09:44,318
+Since nineteen twenty-one, claim after claim has appeared.
+
+119
+00:09:44,318 --> 00:09:50,596
+Hebrew anagrams, abbreviated Latin, a lost Near Eastern language, Aztec Nahuatl.
+
+120
+00:09:50,596 --> 00:09:53,500
+None has been independently verified.
+
+121
+00:09:53,966 --> 00:10:04,546
+In twenty-nineteen, a researcher announced he had read it in two weeks: a calligraphic proto-Romance language, written by nuns for a queen of Aragon.
+
+122
+00:10:04,546 --> 00:10:11,433
+Within hours, Lisa Fagin Davis answered that proto-Romance is not a recognised language category.
+
+123
+00:10:11,899 --> 00:10:20,600
+She called such methods circular and aspirational: start with a guess from a picture, then search dictionaries until some word fits.
+
+124
+00:10:21,066 --> 00:10:23,862
+The other camp says there is no message.
+
+125
+00:10:23,862 --> 00:10:34,766
+In two thousand three, Gordon Rugg showed that Voynich-like text can be generated from a table of prefixes, stems and suffixes, read through a paper grille.
+
+126
+00:10:35,233 --> 00:10:43,307
+But five scribes, calfskin parchment and a word pattern with topic clusters make a pure hoax an expensive and odd project.
+
+127
+00:10:43,307 --> 00:10:48,799
+One team of linguists notes a much smaller hoax would have served the same purpose.
+
+128
+00:10:49,266 --> 00:10:50,752
+Time to score the case.
+
+129
+00:10:50,752 --> 00:10:53,466
+Evidence on one side, theory on the other.
+
+130
+00:10:53,933 --> 00:10:58,890
+Parchment from fourteen-oh-four to fourteen thirty-eight: evidence.
+
+131
+00:10:58,890 --> 00:11:03,329
+Owners named in letters from the sixteen-thirties: evidence.
+
+132
+00:11:03,329 --> 00:11:06,510
+About five scribes in one workshop: likely.
+
+133
+00:11:06,510 --> 00:11:09,100
+Language, cipher or hoax: unsolved.
+
+134
+00:11:09,566 --> 00:11:12,483
+Any claimed decipherment: not verified.
+
+135
+00:11:12,483 --> 00:11:16,147
+Plants and stars from another world: no evidence.
+
+136
+00:11:16,147 --> 00:11:18,166
+Alien authors: no evidence.
+
+137
+00:11:18,633 --> 00:11:19,528
+The verdict.
+
+138
+00:11:19,528 --> 00:11:20,349
+Not aliens.
+
+139
+00:11:20,349 --> 00:11:29,228
+The Voynich manuscript is a real European book, made of calfskin in the early fifteenth century, by about five scribes.
+
+140
+00:11:29,228 --> 00:11:31,466
+What it says is still unknown.
+
+141
+00:11:31,933 --> 00:11:33,587
+That is the honest answer.
+
+142
+00:11:33,587 --> 00:11:37,533
+The mystery is not that nobody on Earth could have written it.
+
+143
+00:11:37,533 --> 00:11:41,033
+It is that somebody did, and we have not found the key.
+
+144
+00:11:41,500 --> 00:11:43,096
+And there are new keys.
+
+145
+00:11:43,096 --> 00:11:50,520
+Put the pages back in their original order, and researchers can test whether the text starts to make sense.
+
+146
+00:11:50,520 --> 00:11:52,533
+Davis says it moves the ball.
+
+147
+00:11:53,000 --> 00:12:02,433
+What lingers is a picture of a scribe, six hundred years ago, dipping a quill and writing something that mattered, for readers we cannot imagine.
+
+148
+00:12:02,899 --> 00:12:07,929
+Next case: tiny gold pendants from Colombia that look like airplanes.
+
+149
+00:12:07,929 --> 00:12:10,700
+Ancient aircraft, or stylised animals?
+
+150
+00:12:11,166 --> 00:12:14,277
+What do you think the Voynich scribes were writing?
+
+151
+00:12:14,277 --> 00:12:19,399
+Tell us in the comments, and subscribe for the next ancient mystery put to the test.

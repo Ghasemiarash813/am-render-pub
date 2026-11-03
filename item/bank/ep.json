@@ -1,0 +1,1460 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal close-up of a small medieval manuscript lying open on a foam book cradle under a green library lamp, an aged cream vellum page with faded brown ink lines and delicate painted plants in green, red and blue, the script reduced to blurred illegible marks, cinematic, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Yale University. In a rare book library, a small book sits under strict guard, and nobody can read it. Its pages hold strange plants, women in green baths, and a script that exists nowhere else. Is it a message from another world?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Yale University. In a rare book library, a small book sits under strict guard, and nobody can read it. Its pages hold strange plants, women in green baths, and a script that exists nowhere else. Is it a message from another world?",
+    "file": "ep/audio/s01.mp3",
+    "dur": 15.768
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky over the rooftops of an old central European city, a single bright star above a dark spire, photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Online, its writing is often called an alien alphabet. Others say a lost language, an unbreakable code, or the greatest hoax in history. For more than a century, the best codebreakers have failed to settle it."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Online, its writing is often called an alien alphabet. Others say a lost language, an unbreakable code, or the greatest hoax in history. For more than a century, the best codebreakers have failed to settle it.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 14.328
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal detective's hands in white cotton gloves turning a heavy page of an old manuscript on a reading room desk, green lamp, an aged cream vellum page with faded brown ink lines and delicate painted plants in green, red and blue, the script reduced to blurred illegible marks, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So today we examine the book itself, one request at a time, the way a researcher would. This is the Voynich manuscript."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So today we examine the book itself, one request at a time, the way a researcher would. This is the Voynich manuscript.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 8.64
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Title card background: a lone green shaded library lamp glowing on a dark oak desk beside a closed small old book, minimal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Voynich manuscript. Evidence against theory. Fill in the first request slip."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Voynich manuscript. Evidence against theory. Fill in the first request slip.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 5.448
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal hands filling in a blank paper request slip with a fountain pen at a library desk, a quiet rare book reading room with long oak tables, green shaded lamps and tall arched windows, the slip blank, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Request one. Who held this book? Every real object has a paper trail, and this one has a longer trail than most people expect."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I",
+   "Request One: The Owners",
+   "WHO HELD IT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Request one. Who held this book? Every real object has a paper trail, and this one has a longer trail than most people expect.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 8.4
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal 1630s Prague alchemist's workshop, candles, glass flasks and a bearded man hunched over a small closed book, warm dim light, painterly realism, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The trail begins in Prague in the sixteen-thirties. An alchemist named Georg Baresch owned a book he could not read, and it bothered him so much that he wrote to a famous scholar in Rome for help."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The trail begins in Prague in the sixteen-thirties. An alchemist named Georg Baresch owned a book he could not read, and it bothered him so much that he wrote to a famous scholar in Rome for help.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal seventeenth century Jesuit scholar's study in Rome with globes, brass instruments and shelves of leather books, a robed man at a desk, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That scholar was Athanasius Kircher, a Jesuit with a vast library and a reputation for solving puzzles. He is not known to have cracked this one."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That scholar was Athanasius Kircher, a Jesuit with a vast library and a reputation for solving puzzles. He is not known to have cracked this one.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 10.584
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal seventeenth century desk with a folded letter sealed with red wax beside a small old book and a candle, shallow depth of field, the letter blurred, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the mid sixteen-sixties, Baresch's friend Johannes Marcus Marci sent the book on to Kircher, with a letter that still survives. The letter repeats a story: Emperor Rudolf the Second once paid six hundred gold ducats for it."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the mid sixteen-sixties, Baresch's friend Johannes Marcus Marci sent the book on to Kircher, with a letter that still survives. The letter repeats a story: Emperor Rudolf the Second once paid six hundred gold ducats for it.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 15.6
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal opulent Habsburg court cabinet of curiosities in Prague around 1600, gold, globes, clocks and alchemical glassware, a seated emperor seen from behind, candle glow, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The emperor, the letter says, believed the author was Roger Bacon, the thirteenth century English friar. Today, Yale calls the Bacon link pure speculation."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The emperor, the letter says, believed the author was Roger Bacon, the thirteenth century English friar. Today, Yale calls the Bacon link pure speculation.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.136
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal medieval monk's cell with a stone window, a friar at a wooden desk with a quill, cold daylight, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The dates break it. Bacon died around twelve ninety-two, and you will see in a moment that the parchment of this book is much younger than that."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The dates break it. Bacon died around twelve ninety-two, and you will see in a moment that the parchment of this book is much younger than that.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 8.856
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal view of an old Italian villa library with arched shelves of leather books and a priest's silhouette, dusty sunbeams, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the book vanishes into a Jesuit collection near Rome, and stays there for more than two centuries, until a rare book dealer comes looking."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the book vanishes into a Jesuit collection near Rome, and stays there for more than two centuries, until a rare book dealer comes looking.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.12
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal 1912 antiquarian bookseller in a cluttered shop with a gas lamp, holding a small old book, sepia warm tones, period clothing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen-twelve, a Polish-American dealer named Wilfrid Voynich bought it. His name has been on it ever since."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen-twelve, a Polish-American dealer named Wilfrid Voynich bought it. His name has been on it ever since.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 7.752
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal mid twentieth century New York rare book dealer's office with wooden shelves, a lamp and a small old book in a tray, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "After his death it passed to his wife Ethel, then to her friend Anne Nill, who sold it to a New York dealer in nineteen sixty-one."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "After his death it passed to his wife Ethel, then to her friend Anne Nill, who sold it to a New York dealer in nineteen sixty-one.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 8.712
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal exterior of a modern library building with a glass tower of old books at dusk, warm lights, university campus, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen sixty-nine the dealer gave it to Yale's Beinecke Library, where it is catalogued as Manuscript four-oh-eight."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen sixty-nine the dealer gave it to Yale's Beinecke Library, where it is catalogued as Manuscript four-oh-eight.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal climate controlled archive vault with grey boxes on steel shelves and one white-gloved hand placing a small book into a custom box, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Since then it has left the building only once, for an exhibition on codes and ciphers at the Folger Shakespeare Library in twenty-fourteen."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Since then it has left the building only once, for an exhibition on codes and ciphers at the Folger Shakespeare Library in twenty-fourteen.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Close-up of a detective's desk with a magnifying glass, a folded sheet of notes and a small old book, green lamp, dark library, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the first answer is plain. This is not a relic dropped from the sky, and not a mystery object with no history. It is a physical book with owners named in letters from the sixteen-thirties."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the first answer is plain. This is not a relic dropped from the sky, and not a mystery object with no history. It is a physical book with owners named in letters from the sixteen-thirties.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal wide shot of an old European market square in the seventeenth century with carts and horses and townspeople, soft morning light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A book that Europeans were already puzzling over in the days of horse-drawn carts, centuries before anyone said the words flying saucer."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A book that Europeans were already puzzling over in the days of horse-drawn carts, centuries before anyone said the words flying saucer.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Extreme close-up macro photograph of the cut edge of a sheet of cream parchment with fine fibres, soft light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Request two. What is it made of, and when? Here, science can overrule any story."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II",
+   "Request Two: The Parchment",
+   "WHEN IT WAS MADE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Request two. What is it made of, and when? Here, science can overrule any story.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 5.256
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal medieval parchment workshop with calf skins stretched on wooden frames and a craftsman scraping one with a curved knife, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The pages are parchment. Protein testing in twenty-fourteen showed it is calfskin."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The pages are parchment. Protein testing in twenty-fourteen showed it is calfskin.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 5.472
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal modern radiocarbon dating laboratory with a steel accelerator mass spectrometer and a scientist in a white coat, clean cold light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand nine, the University of Arizona cut tiny samples from four pages and measured their carbon fourteen."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand nine, the University of Arizona cut tiny samples from four pages and measured their carbon fourteen.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 8.808
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Extreme close-up of metal tweezers holding a tiny speck of parchment over a small glass dish in a laboratory, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Carbon fourteen decays at a known rate once an animal dies. Measure what is left, correct it against tree rings, and you get a date for the skin."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Carbon fourteen decays at a known rate once an animal dies. Measure what is left, correct it against tree rings, and you get a date for the skin.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 9.504
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal cross-section of an old oak tree trunk with clear growth rings in a laboratory, soft side light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "All four samples agreed. With ninety-five percent probability, the animals died between fourteen-oh-four and fourteen thirty-eight."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "All four samples agreed. With ninety-five percent probability, the animals died between fourteen-oh-four and fourteen thirty-eight.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 8.976
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal fifteenth century walled European town in morning mist, steeples and timber houses, painterly realism, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the early fifteenth century, the decades of Joan of Arc, when printing had not yet reached Europe."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the early fifteenth century, the decades of Joan of Arc, when printing had not yet reached Europe.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 6.96
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal detective's hand holding a small wooden ruler beside an old parchment page on a dark table, warm lamp, the page blurred, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One caution. Carbon dating tells us when the animal died. It does not tell us when someone wrote on the skin."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One caution. Carbon dating tells us when the animal died. It does not tell us when someone wrote on the skin.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 7.224
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal conservation laboratory with a microscope, small glass vials of pigment and a restorer in gloves examining a manuscript page, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Yale also reports chemical analysis of the inks and pigments, and says they fit materials used in fifteenth century manuscripts."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Yale also reports chemical analysis of the inks and pigments, and says they fit materials used in fifteenth century manuscripts.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 8.76
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal split scene: an old manuscript with a cracked leather cover on the left and a fresh bright modern notebook on the right, on a dark table, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That sinks two stories. A forgery by Wilfrid Voynich would have needed old blank parchment and matching ink. And Roger Bacon died more than a century before these animals were born."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That sinks two stories. A forgery by Wilfrid Voynich would have needed old blank parchment and matching ink. And Roger Bacon died more than a century before these animals were born.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal library catalogue card drawers made of dark wood with brass handles, one drawer open, dim light, cards blurred, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Yale's own cataloguers stay cautious. They place the book in central Europe, late fifteenth or sixteenth century, and scholars still debate how long after the parchment the writing came."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Yale's own cataloguers stay cautious. They place the book in central Europe, late fifteenth or sixteenth century, and scholars still debate how long after the parchment the writing came.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal small thick medieval book on a cushion in warm light beside a window, dust motes, calm, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On dates, then, the case is strong. A real European book, from roughly the fifteenth century. Not ancient, and not otherworldly."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On dates, then, the case is strong. A real European book, from roughly the fifteenth century. Not ancient, and not otherworldly.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 8.808
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal quill pens in an inkwell on an old wooden desk with soft candle glow, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now, the hands that made it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now, the hands that made it.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 1.56
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal medieval scriptorium with several scribes at slanted desks writing with quills, warm window light, painterly realism, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Request three. Who wrote it? For years people pictured one lonely genius. The handwriting says otherwise."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III",
+   "Request Three: The Hands",
+   "WHO WROTE IT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Request three. Who wrote it? For years people pictured one lonely genius. The handwriting says otherwise.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 7.08
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Extreme macro photograph of a quill nib touching cream parchment with a fresh brown ink stroke, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty-twenty, the medievalist Lisa Fagin Davis studied individual letter shapes: the angle of strokes, how a pen was lifted, how loops were closed. She found five different hands."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty-twenty, the medievalist Lisa Fagin Davis studied individual letter shapes: the angle of strokes, how a pen was lifted, how loops were closed. She found five different hands.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.08
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal four small parchment cards on a dark table each with a different pen stroke style blurred, a magnifying glass over one, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two of those hands had been spotted decades earlier by the codebreaker Prescott Currier, who labelled them scribe one and scribe two. Davis added three more."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two of those hands had been spotted decades earlier by the codebreaker Prescott Currier, who labelled them scribe one and scribe two. Davis added three more.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 10.656
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal group of scribes gathered around one large table in a monastery workshop, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Five scribes suggests a workshop or a community. It does not look like one eccentric hoaxer scribbling alone. A critical paper has questioned the count of five, so the exact number is debated."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Five scribes suggests a workshop or a community. It does not look like one eccentric hoaxer scribbling alone. A critical paper has questioned the count of five, so the exact number is debated.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal close-up of a well-worn soft parchment page corner, thumbed and darkened, dust, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Davis also notes that the parchment is soft, the way a book becomes when it has been handled again and again. Someone used this book like a working manual."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Davis also notes that the parchment is soft, the way a book becomes when it has been handled again and again. Someone used this book like a working manual.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal several loose folded sheets of parchment laid side by side on a dark table, not bound, soft overhead light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now a twist, published in October, twenty-twenty-six. Davis and Colin Layfield argue the book began as loose single folded sheets, each written by one scribe."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now a twist, published in October, twenty-twenty-six. Davis and Colin Layfield argue the book began as loose single folded sheets, each written by one scribe.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 11.88
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal medieval bookbinder at a workbench sewing pages with a needle and thread, leather scraps and wooden boards, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, they say, someone bound the sheets in the wrong order, perhaps without being able to read a word."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, they say, someone bound the sheets in the wrong order, perhaps without being able to read a word.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 6.024
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal two open pages of an old manuscript side by side with a water stain crossing the upper margin, stain not matching across the gap, blurred painting, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The clues: pictures that run off one page and reappear on another far away, and a water stain that does not match from page to page."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The clues: pictures that run off one page and reappear on another far away, and a water stain that does not match from page to page.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal researcher's desk with a laptop showing a blurred grid of coloured squares beside printed pages of an old manuscript, green lamp, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layfield's computer analysis of about thirty-five thousand words found that some pages share vocabulary and others do not, which fits that idea."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layfield's computer analysis of about thirty-five thousand words found that some pages share vocabulary and others do not, which fits that idea.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 10.656
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal reading room at night with one lamp on and a small old book on the desk, silent, atmospheric, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If they are right, any study that assumed the current page order must be rethought. Davis is careful: we do not know if it is a code."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If they are right, any study that assumed the current page order must be rethought. Davis is careful: we do not know if it is a code.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 9.192
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal quill resting on the edge of a worn desk beside a scatter of loose parchment sheets, candlelight, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No alien hand here. Just scribes, quills, and a bookbinder who lost the thread."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No alien hand here. Just scribes, quills, and a bookbinder who lost the thread.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 5.424
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal view down a long reading room table with a small open manuscript at the centre and a researcher leaning over it, green lamps, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Request four. What do the pictures show? Because we cannot read the words, the drawings are our only window."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV",
+   "Request Four: The Pictures",
+   "WHAT IT SHOWS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Request four. What do the pictures show? Because we cannot read the words, the drawings are our only window.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 6.744
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal open medieval herbal page with a painted green plant with roots, leaves and flowers in different styles, unreadable blurred ink lines, an aged cream vellum page with faded brown ink lines and delicate painted plants in green, red and blue, the script reduced to blurred illegible marks, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First the herbal section, about a hundred and twenty-six pages, each with one or two plants. It looks like a normal medieval herbal, except almost none of the plants can be identified with certainty."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First the herbal section, about a hundred and twenty-six pages, each with one or two plants. It looks like a normal medieval herbal, except almost none of the plants can be identified with certainty.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 13.32
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal close-up of a strange painted plant with a red root, blue flowers and mismatched leaves on vellum, blurred illegible marks, soft light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That has led some to say they grow on another world. There is no evidence for that. Medieval herbals were copied by hand, and drawings drifted a little with every copy."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That has led some to say they grow on another world. There is no evidence for that. Medieval herbals were copied by hand, and drawings drifted a little with every copy.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 11.328
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal vellum page with a circular diagram of a sun and moon and stars in blue and gold, medieval astronomical style, blurred illegible marks, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The astronomical section has circular diagrams with suns, moons and stars, and twelve zodiac signs, including two fish for Pisces and a bull for Taurus. Those are the same signs Europeans used at the time."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The astronomical section has circular diagrams with suns, moons and stars, and twelve zodiac signs, including two fish for Pisces and a bull for Taurus. Those are the same signs Europeans used at the time.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 15.12
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal vellum page with a circular diagram of nymph-like women arranged in rings each holding a star, medieval style, blurred illegible marks, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the zodiac rings, thirty women hold labelled stars. Strange, yes. But the layout is calendar-like, and the zodiac itself is plainly European."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the zodiac rings, thirty women hold labelled stars. Strange, yes. But the layout is calendar-like, and the zodiac itself is plainly European.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal vellum page with a spiral shaped circular diagram with curved arms resembling a galaxy, medieval ink and paint, blurred illegible marks, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some see a galaxy in one circular drawing with curved arms. In nineteen-twenty-one, William Newbold read exactly that, a spiral galaxy that he said could only be seen through a telescope."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some see a galaxy in one circular drawing with curved arms. In nineteen-twenty-one, William Newbold read exactly that, a spiral galaxy that he said could only be seen through a telescope.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal vintage 1930s university office with an old professor at a desk covered with photographs and papers, skeptical expression, dark wood, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen thirty-one, John Manly showed the flaw. Newbold's method let letters be rearranged at will until Latin appeared, so it could prove almost anything."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen thirty-one, John Manly showed the flaw. Newbold's method let letters be rearranged at will until Latin appeared, so it could prove almost anything.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal vellum page showing small naked women bathing in green pools linked by tubes and pipes, medieval ink and paint, blurred illegible marks, tasteful, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The bathing section shows women in green pools linked by pipes and tubes. People have read it as plumbing, medicine, or something else. One twenty-twenty-four paper argued parts concern sex and conception. That is an interpretation, not a reading."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The bathing section shows women in green pools linked by pipes and tubes. People have read it as plumbing, medicine, or something else. One twenty-twenty-four paper argued parts concern sex and conception. That is an interpretation, not a reading.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 16.968
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal vellum page of small apothecary jars and roots drawn in ink and colour, medieval pharmacy style, blurred illegible marks, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then jars and roots that look like a pharmacy, and finally pages of text with small stars in the margins, perhaps recipes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then jars and roots that look like a pharmacy, and finally pages of text with small stars in the margins, perhaps recipes.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 9.12
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal four small old manuscript pages fanned out on a dark table showing plant, star, bath and jar drawings, warm lamp light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Put together, the pictures describe medicine, stars and bathing: ordinary medieval subjects, drawn in an unusual way. No spacecraft. No machines. No visitors."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Put together, the pictures describe medicine, stars and bathing: ordinary medieval subjects, drawn in an unusual way. No spacecraft. No machines. No visitors.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal close-up of rows of tiny brown handwritten characters on cream vellum, characters reduced to blurred unreadable marks, macro, soft light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Request five. The words themselves. About thirty-eight thousand of them, built from roughly two dozen symbols, written left to right."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V",
+   "Request Five: The Text",
+   "CAN IT BE READ"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Request five. The words themselves. About thirty-eight thousand of them, built from roughly two dozen symbols, written left to right.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal chalkboard in a dim lecture room with a rising and falling curve drawn in white chalk, no numbers, blurred, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the strangest part. The text behaves like language. The most common word appears about twice as often as the second, and three times as often as the third, a pattern called Zipf's law, found in real languages."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the strangest part. The text behaves like language. The most common word appears about twice as often as the second, and three times as often as the third, a pattern called Zipf's law, found in real languages.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 15.72
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal physicist's desk at a university with a printed network diagram of linked dots and a coffee cup, soft daylight, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty-thirteen, the physicist Marcelo Montemurro found that words cluster by topic, the way keywords do in real books."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty-thirteen, the physicist Marcelo Montemurro found that words cluster by topic, the way keywords do in real books.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 9.24
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal wartime codebreakers' office in the nineteen forties with a typewriter, stacks of paper and a woman at a desk, black and white turned to colour, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But it is also odd. Some words repeat up to five times in a row, and words that differ by one letter appear far too often. The famous codebreaker Elizebeth Friedman called the statistical hunt doomed to utter frustration."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But it is also odd. Some words repeat up to five times in a row, and words that differ by one letter appear far too often. The famous codebreaker Elizebeth Friedman called the statistical hunt doomed to utter frustration.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 15.792
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal desk piled with stacks of papers, notebooks and printouts of decoding attempts, dim light, a magnifying glass, pages blurred, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Since nineteen twenty-one, claim after claim has appeared. Hebrew anagrams, abbreviated Latin, a lost Near Eastern language, Aztec Nahuatl. None has been independently verified."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Since nineteen twenty-one, claim after claim has appeared. Hebrew anagrams, abbreviated Latin, a lost Near Eastern language, Aztec Nahuatl. None has been independently verified.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 13.728
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal modern newsroom desk with a laptop showing a blurred headline, a researcher in a university corridor holding printed pages, daylight, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty-nineteen, a researcher announced he had read it in two weeks: a calligraphic proto-Romance language, written by nuns for a queen of Aragon. Within hours, Lisa Fagin Davis answered that proto-Romance is not a recognised language category."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty-nineteen, a researcher announced he had read it in two weeks: a calligraphic proto-Romance language, written by nuns for a queen of Aragon. Within hours, Lisa Fagin Davis answered that proto-Romance is not a recognised language category.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 17.448
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal dictionary pile on a desk with a pencil and a lamp, pages turned, a figure studying a page, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "She called such methods circular and aspirational: start with a guess from a picture, then search dictionaries until some word fits."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "She called such methods circular and aspirational: start with a guess from a picture, then search dictionaries until some word fits.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal sheet of cardboard with square holes laid over a table of word cards, a hand sliding it, renaissance-style cipher grille, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The other camp says there is no message. In two thousand three, Gordon Rugg showed that Voynich-like text can be generated from a table of prefixes, stems and suffixes, read through a paper grille."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The other camp says there is no message. In two thousand three, Gordon Rugg showed that Voynich-like text can be generated from a table of prefixes, stems and suffixes, read through a paper grille.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal exhausted medieval craftsmen at a long table with a large amount of parchment and ink, many sheets, candlelight, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But five scribes, calfskin parchment and a word pattern with topic clusters make a pure hoax an expensive and odd project. One team of linguists notes a much smaller hoax would have served the same purpose."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But five scribes, calfskin parchment and a word pattern with topic clusters make a pure hoax an expensive and odd project. One team of linguists notes a much smaller hoax would have served the same purpose.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 13.536
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark library reading room with a tall window on the right edge and large empty dark space on the left, one green lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to score the case. Evidence on one side, theory on the other."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VI",
+   "Request Six: The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score the case. Evidence on one side, theory on the other.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 4.2
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark library reading room with a tall window on the right edge and large empty dark space on the left, one green lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Parchment from fourteen-oh-four to fourteen thirty-eight: evidence. Owners named in letters from the sixteen-thirties: evidence. About five scribes in one workshop: likely. Language, cipher or hoax: unsolved."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Parchment from fourteen-oh-four to fourteen thirty-eight: evidence. Owners named in letters from the sixteen-thirties: evidence. About five scribes in one workshop: likely. Language, cipher or hoax: unsolved.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 15.144
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark library reading room with a tall window on the right edge and large empty dark space on the left, one green lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Any claimed decipherment: not verified. Plants and stars from another world: no evidence. Alien authors: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Any claimed decipherment: not verified. Plants and stars from another world: no evidence. Alien authors: no evidence.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 8.568
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A closed small old manuscript on a dark oak desk with a single green lamp in a silent library at night, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Not aliens. The Voynich manuscript is a real European book, made of calfskin in the early fifteenth century, by about five scribes. What it says is still unknown."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Not aliens. The Voynich manuscript is a real European book, made of calfskin in the early fifteenth century, by about five scribes. What it says is still unknown.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 12.816
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal view through a library window at dusk with a lamp reflected in the glass, serene, a small book on the sill, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the honest answer. The mystery is not that nobody on Earth could have written it. It is that somebody did, and we have not found the key."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the honest answer. The mystery is not that nobody on Earth could have written it. It is that somebody did, and we have not found the key.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 9.096
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "fog",
+  "motion": "in",
+  "prompt": "Photoreal puzzle pieces being slowly arranged on a dark table by a single hand under a green lamp, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there are new keys. Put the pages back in their original order, and researchers can test whether the text starts to make sense. Davis says it moves the ball."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there are new keys. Put the pages back in their original order, and researchers can test whether the text starts to make sense. Davis says it moves the ball.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Soft golden light from a window falling across an empty scribe's desk with a quill and an inkwell, dust motes, calm and beautiful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What lingers is a picture of a scribe, six hundred years ago, dipping a quill and writing something that mattered, for readers we cannot imagine."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What lingers is a picture of a scribe, six hundred years ago, dipping a quill and writing something that mattered, for readers we cannot imagine.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal ancient gold pendant shaped like a stylised winged animal on black velvet, dramatic light, museum photograph, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: tiny gold pendants from Colombia that look like airplanes. Ancient aircraft, or stylised animals?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: tiny gold pendants from Colombia that look like airplanes. Ancient aircraft, or stylised animals?",
+    "file": "ep/audio/s67.mp3",
+    "dur": 7.776
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single small closed old book silhouette lit by a thin green lamp on black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think the Voynich scribes were writing? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think the Voynich scribes were writing? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s68.mp3",
+    "dur": 8.208
+   }
+  ]
+ }
+]
