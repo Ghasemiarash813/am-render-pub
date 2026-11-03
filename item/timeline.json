@@ -1,0 +1,1340 @@
+{
+ "fps": 30,
+ "total": 23576,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 345,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It fits in the palm of your hand. It is made of gold. It is about a thousand years old. And millions of people have been told it is a model of a fighter jet.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 10.416,
+     "start": 10,
+     "end": 323
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 327,
+   "end": 637,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A jet, in the Colombian jungle, a thousand years ago. Delta wings, a cockpit, a tail fin. You have probably seen the pictures.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 9.24,
+     "start": 337,
+     "end": 615
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 619,
+   "end": 965,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight we do something different. We treat it as a stranger. An unknown specimen, and we try to identify the species, using only what we can measure.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 10.44,
+     "start": 629,
+     "end": 943
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 947,
+   "end": 1275,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Specimen sheet. Witness statements. Field marks. A look at its family. Then a replica that flew, and a laboratory test from this very decade.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 9.84,
+     "start": 957,
+     "end": 1253
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1257,
+   "end": 1601,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Every claim gets a score. At the end, an identification. Aircraft, or animal. Let's begin.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 6.384,
+     "start": 1267,
+     "end": 1459
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 SPECIMEN SHEET",
+    "The Specimen",
+    "SIZE \u00b7 METAL \u00b7 MAKERS \u00b7 DATE"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1583,
+   "end": 2024,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Specimen sheet. Gold pendants of this shape are held by the Gold Museum in Bogot\u00e1, and by the Metropolitan Museum of Art in New York. Most are five to seven and a half centimetres long.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 13.632,
+     "start": 1593,
+     "end": 2002
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2006,
+   "end": 2432,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They were cast in gold-copper alloy, called tumbaga, by the lost-wax method. Carve a model in wax, wrap it in clay, melt the wax out, pour in the metal. Fine work, at tiny scale.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.104,
+     "start": 2016,
+     "end": 2410
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2414,
+   "end": 2926,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Met files them under flying fish pendant, culture Tolima, with a question mark. The Tolima lived in the valley of the Magdalena River. The Quimbaya lived farther west, on the Cauca. The internet mixes up the names.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 15.984,
+     "start": 2424,
+     "end": 2904
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2908,
+   "end": 3393,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the dates wobble. Anywhere from five hundred B C to fifteen hundred A D, depending on who you ask. Why? Because these pieces came from looters. Few were dug by archaeologists, so the grave context is gone.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 15.072,
+     "start": 2918,
+     "end": 3371
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3375,
+   "end": 3795,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Wikipedia warns that a lot of so-called Quimbaya gold has been restored, reshaped, or copied for the collector market. So even before the first theory, our specimen has a thin file.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 12.912,
+     "start": 3385,
+     "end": 3773
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3777,
+   "end": 4082,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Still, enough survive in enough museums to study the type. A real object, a fuzzy birth certificate. Now, who first said plane?",
+     "file": "ep/audio/s11.mp3",
+     "dur": 9.072,
+     "start": 3787,
+     "end": 4060
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 THE WITNESSES",
+    "Who Said Plane?",
+    "SANDERSON \u00b7 ULRICH \u00b7 TELEVISION"
+   ],
+   "img": "ep/img/shot_12.jpg",
+   "start": 4064,
+   "end": 4495,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Witness statements. Ivan Sanderson was a Scottish-born naturalist who hunted for Bigfoot and the Loch Ness monster. He examined one of these pendants and said it looked too mechanical to be a natural creature.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 13.296,
+     "start": 4074,
+     "end": 4473
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4477,
+   "end": 4868,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Another witness, an aviation expert named Ulrich, is quoted as saying it closely resembled a Swedish Saab jet. Notice what these are. Impressions. Not measurements.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 11.952,
+     "start": 4487,
+     "end": 4846
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4850,
+   "end": 5224,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then came television. In two thousand nine, the series Ancient Aliens gave the pieces a catchier name, Tolima fighter jets, and a script that millions repeated.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 11.376,
+     "start": 4860,
+     "end": 5202
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5206,
+   "end": 5656,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Its story: tomb robbers dug up a grave beside the Magdalena River. Hundreds of little gold figures. Most look like insects and fish. But about a dozen, it says, are eerily like modern jets.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 13.92,
+     "start": 5216,
+     "end": 5634
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5638,
+   "end": 5971,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The key argument is one line. There is not a single insect with its wings at the bottom. So if it is not an insect, one thing remains. A plane.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 10.008,
+     "start": 5648,
+     "end": 5949
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5953,
+   "end": 6397,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Pause. That is a false choice. It lists insect and aircraft, and leaves out everything else. Fish. Birds. Frogs. Bats. Lizards. Which, as we are about to see, is most of what the same hands made.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 13.728,
+     "start": 5963,
+     "end": 6375
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6379,
+   "end": 6759,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the numbers do not help the story. Even the believers' own count is about a dozen shapes out of hundreds. A culture that flew jets would surely have drawn more than a handful.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 11.592,
+     "start": 6389,
+     "end": 6737
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6741,
+   "end": 7028,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the witnesses give us a hunch, a catchy nickname, and a logical gap. What does the specimen itself say? To the field marks.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 8.496,
+     "start": 6751,
+     "end": 7006
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7010,
+   "end": 7164,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to look closely, the way a naturalist would. Head first.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 4.056,
+     "start": 7020,
+     "end": 7142
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III \u00b7 FIELD MARKS",
+    "Eyes, Teeth, Fins",
+    "HEAD \u00b7 SPIRALS \u00b7 TAIL \u00b7 WINGS"
+   ],
+   "img": "ep/img/shot_21.jpg",
+   "start": 7146,
+   "end": 7550,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Field mark one. The head. Round, domed, with two clear eyes and a short snout lined with little teeth. The Met catalogue notes these toothy snouts on every example in the type.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.384,
+     "start": 7156,
+     "end": 7528
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7532,
+   "end": 7867,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Is that a cockpit? A cockpit is a smooth bubble, with a pilot behind it. Here, the front is a face. Eyes, and a mouth. Planes do not have teeth.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.08,
+     "start": 7542,
+     "end": 7845
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7849,
+   "end": 8237,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Field mark two. The wings. They carry a delicate grid pattern, and little spiral curls along the edge. Real jet wings carry control surfaces. These carry decoration.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 11.856,
+     "start": 7859,
+     "end": 8215
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8219,
+   "end": 8686,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Field mark three. The tail. One tall upright fin, set behind a round body. That is the feature everyone points at. A vertical stabiliser. And also, the tail of almost every fish that has ever lived.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 14.496,
+     "start": 8229,
+     "end": 8664
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8668,
+   "end": 9045,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look at a real river fish. A single vertical tail. Two side fins, held out like wings. And a rounded body. Take away the scales, and call that a fuselage.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 11.472,
+     "start": 8678,
+     "end": 9023
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9027,
+   "end": 9463,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some fish go further. Flying fish spread their side fins and glide through the air. The Met's catalogue suggests exactly that as a possible model. A flying fish. Hence the museum name.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 13.44,
+     "start": 9037,
+     "end": 9441
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9445,
+   "end": 9859,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Field mark four. The way the maker draws. A frog on a similar pendant is flat and symmetrical, with its legs splayed out. No frog looks like that. Nobody says it is a spacecraft.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 12.72,
+     "start": 9455,
+     "end": 9837
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9841,
+   "end": 10194,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A bat. A bird. A crocodile. All reduced to bold, sharp, symmetrical shapes. This was a style. Pendants were drawn like symbols, not portraits.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 10.68,
+     "start": 9851,
+     "end": 10172
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10176,
+   "end": 10423,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One specimen is a mystery. A whole drawer of related specimens is a family. So let's meet the family.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 7.152,
+     "start": 10186,
+     "end": 10401
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV \u00b7 THE FAMILY",
+    "Lineup of Suspects",
+    "TOLIMA \u00b7 FIGURES \u00b7 CATFISH"
+   ],
+   "img": "ep/img/shot_30.jpg",
+   "start": 10405,
+   "end": 10859,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lineup. In the Gold Museum in Bogot\u00e1 there are over one hundred of these small animal figures on display. Birds, insects, fish, bats, frogs, reptiles. All from the same broad tradition.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 14.04,
+     "start": 10415,
+     "end": 10837
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10841,
+   "end": 11291,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the surprise. The Met describes a Tolima figure pendant of the winged type. A human body with splayed, fringed arms, and a big forked tail. The same hands. The same flat symmetry.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.92,
+     "start": 10851,
+     "end": 11269
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11273,
+   "end": 11679,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Set them side by side. The tail is shared. The sharp outline is shared. The wings are shared. If the fish is a plane, then the winged person is a plane too. That is a lot of planes.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.456,
+     "start": 11283,
+     "end": 11657
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11661,
+   "end": 12140,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debunkers add another candidate. The suckermouth catfish, a common river fish, with a rounded head, large eyes, stiff fins and small bumps on the front of its fins. Wikipedia lists it, along with flying fish.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 14.88,
+     "start": 11671,
+     "end": 12118
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12122,
+   "end": 12517,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "These were farmers, fishermen and goldsmiths of river valleys. Fish were food, and a thing to draw. Nothing in the finds suggests anyone there knew about taking off or landing.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 12.072,
+     "start": 12132,
+     "end": 12495
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12499,
+   "end": 12914,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Skeptoid makes the same point. Fish have one vertical tail fin, and side fins that look like wings. The programme considered insects, and then jumped to aircraft, without ever checking fish.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 12.744,
+     "start": 12509,
+     "end": 12892
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12896,
+   "end": 13213,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So on appearance alone, the type is an animal. But the believers have one more card, and it is a good one. They say: we built it, and it flew.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 9.48,
+     "start": 12906,
+     "end": 13191
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "V \u00b7 THE REPLICA",
+    "The Goldflyer",
+    "1994 \u00b7 PROPELLER \u00b7 FLAPS \u00b7 THRUST"
+   ],
+   "img": "ep/img/shot_37.jpg",
+   "start": 13195,
+   "end": 13638,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Test one. The replica. In nineteen ninety-four, three Germans, Algund Eenboom, Peter Belting and Conrad Lubbers, built a radio-controlled model of one pendant, enlarged sixteen times.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 13.68,
+     "start": 13205,
+     "end": 13616
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 13620,
+   "end": 14030,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "About a metre across, ninety centimetres long, seven hundred and fifty grams. They named it the Goldflyer. And it flew. Stable, controllable, filmed, and then shown on television.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 12.6,
+     "start": 13630,
+     "end": 14008
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14012,
+   "end": 14358,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The claim that went with the film: they did not add an inch or remove an inch. Everything, they said, was done by the native people two thousand years earlier.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 10.44,
+     "start": 14022,
+     "end": 14336
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14340,
+   "end": 14566,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now read the build sheet. A propeller on the nose, and an engine to turn it. That is not in the gold.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 6.456,
+     "start": 14350,
+     "end": 14544
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14548,
+   "end": 14953,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The gold wings are flat. The model's wings were curved on top, with movable flaps added at the back. And the big spirals along the front edge, which would wreck the airflow, were left off.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.432,
+     "start": 14558,
+     "end": 14931
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14935,
+   "end": 15274,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Landing gear, added. Radio control, added. Motor power, trim and balance, all chosen by the builders. Not one of those is written in the pendant.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 10.224,
+     "start": 14945,
+     "end": 15252
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 15256,
+   "end": 15730,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "With enough power and the right trim, almost any compact winged shape can be made to fly. Planks fly. Paper darts fly. A pendant, redesigned into an aircraft, flies. That tells us about the engineers.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 14.712,
+     "start": 15266,
+     "end": 15708
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 15712,
+   "end": 16059,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It proves that the shape is not absurd. And that is all it proves. Whether anyone in ancient Colombia ever wanted it to fly is a different question.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 10.488,
+     "start": 15722,
+     "end": 16037
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 16041,
+   "end": 16271,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For that question, we need a proper test, with no propeller and no engine. Just the pendant, and the air.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 6.576,
+     "start": 16051,
+     "end": 16249
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "VI \u00b7 THE LAB",
+    "The Air Test",
+    "CFD \u00b7 WIND TUNNEL \u00b7 LIFT"
+   ],
+   "img": "ep/img/shot_46.jpg",
+   "start": 16253,
+   "end": 16757,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Test two. The laboratory. In twenty twenty-five, the aerospace engineer Sebastian Valencia and Jaime Orduy scanned a Tolima pendant in three dimensions and rebuilt it, exactly as it is, as a digital twin.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 15.72,
+     "start": 16263,
+     "end": 16735
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 16739,
+   "end": 17119,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They ran computer simulations, and then real wind tunnel tests, at wind speeds from two up to thirty metres a second, tilting the model from zero to fifteen degrees.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 11.568,
+     "start": 16749,
+     "end": 17097
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 17101,
+   "end": 17509,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The result surprised even them. A peak lift coefficient of one point eight seven, comparable to a modern delta wing, with stable vortices streaming along the leading edges.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 12.528,
+     "start": 17111,
+     "end": 17487
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 17491,
+   "end": 17871,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the pendant really is a good lifting shape. Delta wings generate lift with swirling vortices, and this tiny gold fish does it too. Believers saw that, and cheered.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 11.568,
+     "start": 17501,
+     "end": 17849
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 17853,
+   "end": 18287,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But read the conclusion in the Journal of Aircraft. The authors say the flying qualities most likely arose as an incidental by-product of an aesthetic and ritual design, not from a pursuit of flight.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 13.368,
+     "start": 17863,
+     "end": 18265
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 18269,
+   "end": 18693,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Think of a maple seed. It spins down beautifully. Nobody carved the seed to be a helicopter. Shapes that please the eye, and shapes that move well in air, overlap more often than you would think.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 13.056,
+     "start": 18279,
+     "end": 18671
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 18675,
+   "end": 19049,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two tests, one pattern. It could be made to fly. It was never shown to be meant to. And that brings us to the last question. If not a plane, why a gold fish with wings?",
+     "file": "ep/audio/s52.mp3",
+     "dur": 11.376,
+     "start": 18685,
+     "end": 19027
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VII \u00b7 PURPOSE",
+    "Why a Winged Fish?",
+    "GOLD \u00b7 GRAVES \u00b7 MEANING"
+   ],
+   "img": "ep/img/shot_53.jpg",
+   "start": 19031,
+   "end": 19362,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Last item. Purpose. Gold in the ancient Andes was not money. It was a sacred metal, worn by leaders and priests, and buried with the dead.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 9.936,
+     "start": 19041,
+     "end": 19340
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 19344,
+   "end": 19724,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Many of these pendants were worn on cords around the neck, then placed in graves. One reading is that a creature moving between water and air suits a journey between worlds.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 11.568,
+     "start": 19354,
+     "end": 19702
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 19706,
+   "end": 20124,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Met says Tolima pendants mix human and animal references. The exact meaning is not recorded. We do not know the maker's word for it, and anyone claiming to know is guessing too.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 12.864,
+     "start": 19716,
+     "end": 20102
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 20106,
+   "end": 20550,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which is the honest ending. The best fit for the evidence is a stylised fish or animal. The aircraft idea needs a propeller and a tour guide, but it does not need anything from the Tolima themselves.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 13.704,
+     "start": 20116,
+     "end": 20528
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 20532,
+   "end": 20879,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the alien version? It needs visitors who left no craft, no pilot, and no record. Just a dozen pieces of jewellery, in a tradition made of thousands.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 10.488,
+     "start": 20542,
+     "end": 20857
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 20861,
+   "end": 21156,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So here is the strange part. The shape is real. The lift is real. The coincidence is real. Only the aircraft is missing.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 8.736,
+     "start": 20871,
+     "end": 21134
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "IDENTIFICATION",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 21138,
+   "end": 21270,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Identification. Time to score the gold flyer.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 3.312,
+     "start": 21148,
+     "end": 21248
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 21252,
+   "end": 21822,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Real pre-Columbian gold, in major museums: evidence. Animal features, eyes, teeth, grid patterns: evidence. Shares its style with winged figures and animals in the same tradition: evidence. Best model, a flying fish or a catfish: likely.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 17.904,
+     "start": 21262,
+     "end": 21800
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 21804,
+   "end": 22227,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Built as an aircraft: no evidence. Flies as made: debunked. The 1994 model needed engine, flaps and landing gear. Visitors from elsewhere: no evidence at all.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 13.008,
+     "start": 21814,
+     "end": 22205
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 22209,
+   "end": 22617,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The identification. Stylised animal, probably a fish. Not an aircraft. It is a beautiful accident of design that flies well in a lab, and was never built to fly at all.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 12.528,
+     "start": 22219,
+     "end": 22595
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 22599,
+   "end": 22977,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Somewhere, a thousand years ago, a goldsmith shaped a little fish with wings, for someone who was travelling beyond this world. That is wonderful enough. It does not need a runway.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 11.52,
+     "start": 22609,
+     "end": 22955
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 22959,
+   "end": 23292,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: nineteen sixty-seven, a calm night off Nova Scotia, and a glowing object that seemed to fall into the sea. Then the Navy went looking.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 10.032,
+     "start": 22969,
+     "end": 23270
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 23274,
+   "end": 23501,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think they were? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 6.48,
+     "start": 23284,
+     "end": 23479
+    }
+   ]
+  }
+ ]
+}

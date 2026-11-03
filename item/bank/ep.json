@@ -1,0 +1,1407 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro museum photograph of a small ancient Colombian gold pendant about six centimetres wide, a smooth domed head with two small round eyes and a short toothy snout, a smooth loaf-shaped body, two broad triangular swept-back wings fanned out sideways with fine grid patterning and tiny spiral curls along the front edge, and one tall upright triangular tail fin at the back, cast in warm yellow gold with a soft aged patina, no text, resting on a slim dark stand, black background, dramatic warm spotlight, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It fits in the palm of your hand. It is made of gold. It is about a thousand years old. And millions of people have been told it is a model of a fighter jet."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It fits in the palm of your hand. It is made of gold. It is about a thousand years old. And millions of people have been told it is a model of a fighter jet.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a gold supersonic jet fighter with swept wings and an upright tail fin flying low over a green Colombian river valley at sunset, mountains, epic sky, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A jet, in the Colombian jungle, a thousand years ago. Delta wings, a cockpit, a tail fin. You have probably seen the pictures."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A jet, in the Colombian jungle, a thousand years ago. Delta wings, a cockpit, a tail fin. You have probably seen the pictures.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 9.24
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A naturalist's old leather field notebook lying open and blank on a wooden table beside a brass magnifying glass and a pencil, warm lamplight, shallow depth of field, blank pages, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we do something different. We treat it as a stranger. An unknown specimen, and we try to identify the species, using only what we can measure."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we do something different. We treat it as a stranger. An unknown specimen, and we try to identify the species, using only what we can measure.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A field naturalist in a khaki jacket kneeling in a tropical river valley holding a small gold object up to the light, jungle background, warm morning light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Specimen sheet. Witness statements. Field marks. A look at its family. Then a replica that flew, and a laboratory test from this very decade."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Specimen sheet. Witness statements. Field marks. A look at its family. Then a replica that flew, and a laboratory test from this very decade.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of a green Colombian river valley with misty Andean mountains at dawn, a winding brown river, empty, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every claim gets a score. At the end, an identification. Aircraft, or animal. Let's begin."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every claim gets a score. At the end, an identification. Aircraft, or animal. Let's begin.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 6.384
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Museum display photograph of a small ancient Colombian gold pendant about six centimetres wide, a smooth domed head with two small round eyes and a short toothy snout, a smooth loaf-shaped body, two broad triangular swept-back wings fanned out sideways with fine grid patterning and tiny spiral curls along the front edge, and one tall upright triangular tail fin at the back, cast in warm yellow gold with a soft aged patina, no text, on a small stand inside a glass case in a dim hall, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Specimen sheet. Gold pendants of this shape are held by the Gold Museum in Bogot\u00e1, and by the Metropolitan Museum of Art in New York. Most are five to seven and a half centimetres long."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 SPECIMEN SHEET",
+   "The Specimen",
+   "SIZE \u00b7 METAL \u00b7 MAKERS \u00b7 DATE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Specimen sheet. Gold pendants of this shape are held by the Gold Museum in Bogot\u00e1, and by the Metropolitan Museum of Art in New York. Most are five to seven and a half centimetres long.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 13.632
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro photograph of a goldsmith's hands pressing soft wax into a tiny pendant shape in front of a small clay mould, warm workshop light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They were cast in gold-copper alloy, called tumbaga, by the lost-wax method. Carve a model in wax, wrap it in clay, melt the wax out, pour in the metal. Fine work, at tiny scale."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They were cast in gold-copper alloy, called tumbaga, by the lost-wax method. Carve a model in wax, wrap it in clay, melt the wax out, pour in the metal. Fine work, at tiny scale.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Aerial view of the lush Magdalena River valley in Colombia, a wide brown river between green hills, golden light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Met files them under flying fish pendant, culture Tolima, with a question mark. The Tolima lived in the valley of the Magdalena River. The Quimbaya lived farther west, on the Cauca. The internet mixes up the names."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Met files them under flying fish pendant, culture Tolima, with a question mark. The Tolima lived in the valley of the Magdalena River. The Quimbaya lived farther west, on the Cauca. The internet mixes up the names.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 15.984
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Colombian grave robbers at night with shovels and lanterns digging at a hillside burial mound, long shadows, moody cinematic photo, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the dates wobble. Anywhere from five hundred B C to fifteen hundred A D, depending on who you ask. Why? Because these pieces came from looters. Few were dug by archaeologists, so the grave context is gone."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the dates wobble. Anywhere from five hundred B C to fifteen hundred A D, depending on who you ask. Why? Because these pieces came from looters. Few were dug by archaeologists, so the grave context is gone.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 15.072
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Colombian antiques dealer's dim back room with shelves of small gold ornaments under a single lamp, a magnifying glass on the table, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Wikipedia warns that a lot of so-called Quimbaya gold has been restored, reshaped, or copied for the collector market. So even before the first theory, our specimen has a thin file."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Wikipedia warns that a lot of so-called Quimbaya gold has been restored, reshaped, or copied for the collector market. So even before the first theory, our specimen has a thin file.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of the front of a small ancient Colombian gold pendant about six centimetres wide, a smooth domed head with two small round eyes and a short toothy snout, a smooth loaf-shaped body, two broad triangular swept-back wings fanned out sideways with fine grid patterning and tiny spiral curls along the front edge, and one tall upright triangular tail fin at the back, cast in warm yellow gold with a soft aged patina, no text, seen straight on at eye level, dark background, soft rim light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Still, enough survive in enough museums to study the type. A real object, a fuzzy birth certificate. Now, who first said plane?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Still, enough survive in enough museums to study the type. A real object, a fuzzy birth certificate. Now, who first said plane?",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1960s scientist in a tweed jacket studying a small gold ornament under a desk lamp in a cluttered study full of books, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Witness statements. Ivan Sanderson was a Scottish-born naturalist who hunted for Bigfoot and the Loch Ness monster. He examined one of these pendants and said it looked too mechanical to be a natural creature."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 THE WITNESSES",
+   "Who Said Plane?",
+   "SANDERSON \u00b7 ULRICH \u00b7 TELEVISION"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Witness statements. Ivan Sanderson was a Scottish-born naturalist who hunted for Bigfoot and the Loch Ness monster. He examined one of these pendants and said it looked too mechanical to be a natural creature.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vintage 1970s aircraft designer's drawing board with blank blueprint paper and a model fighter jet on the desk, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Another witness, an aviation expert named Ulrich, is quoted as saying it closely resembled a Swedish Saab jet. Notice what these are. Impressions. Not measurements."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Another witness, an aviation expert named Ulrich, is quoted as saying it closely resembled a Swedish Saab jet. Notice what these are. Impressions. Not measurements.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A television documentary studio from 2009 with a host in a dark jacket, cameras and a backdrop of ancient ruins, moody lights, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came television. In two thousand nine, the series Ancient Aliens gave the pieces a catchier name, Tolima fighter jets, and a script that millions repeated."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came television. In two thousand nine, the series Ancient Aliens gave the pieces a catchier name, Tolima fighter jets, and a script that millions repeated.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A dramatic still from a documentary: a gold pendant with swept wings shown beside a modern fighter jet silhouette, dark studio, split composition, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its story: tomb robbers dug up a grave beside the Magdalena River. Hundreds of little gold figures. Most look like insects and fish. But about a dozen, it says, are eerily like modern jets."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its story: tomb robbers dug up a grave beside the Magdalena River. Hundreds of little gold figures. Most look like insects and fish. But about a dozen, it says, are eerily like modern jets.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 13.92
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A tropical insect pinned in a glass display box with its wings spread, macro, dramatic light, museum collection style, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The key argument is one line. There is not a single insect with its wings at the bottom. So if it is not an insect, one thing remains. A plane."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The key argument is one line. There is not a single insect with its wings at the bottom. So if it is not an insect, one thing remains. A plane.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a classroom whiteboard with a hand-drawn blank decision tree of boxes and arrows, no words, chalk marks only, soft light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pause. That is a false choice. It lists insect and aircraft, and leaves out everything else. Fish. Birds. Frogs. Bats. Lizards. Which, as we are about to see, is most of what the same hands made."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pause. That is a false choice. It lists insect and aircraft, and leaves out everything else. Fish. Birds. Frogs. Bats. Lizards. Which, as we are about to see, is most of what the same hands made.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 13.728
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A crowd of tourists in a small town square in Colombia looking at a stall of souvenir model fighter jets and gold replica pendants, warm evening, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the numbers do not help the story. Even the believers' own count is about a dozen shapes out of hundreds. A culture that flew jets would surely have drawn more than a handful."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the numbers do not help the story. Even the believers' own count is about a dozen shapes out of hundreds. A culture that flew jets would surely have drawn more than a handful.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A single gold pendant with swept wings lying on black velvet next to a tiny ruler, studio photo, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the witnesses give us a hunch, a catchy nickname, and a logical gap. What does the specimen itself say? To the field marks."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the witnesses give us a hunch, a catchy nickname, and a logical gap. What does the specimen itself say? To the field marks.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A researcher's gloved hand holding a small ancient Colombian gold pendant about six centimetres wide, a smooth domed head with two small round eyes and a short toothy snout, a smooth loaf-shaped body, two broad triangular swept-back wings fanned out sideways with fine grid patterning and tiny spiral curls along the front edge, and one tall upright triangular tail fin at the back, cast in warm yellow gold with a soft aged patina, no text up toward a window with soft daylight, blurred library background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to look closely, the way a naturalist would. Head first."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to look closely, the way a naturalist would. Head first.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 4.056
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Extreme macro photograph of the head of a small ancient Colombian gold pendant about six centimetres wide, a smooth domed head with two small round eyes and a short toothy snout, a smooth loaf-shaped body, two broad triangular swept-back wings fanned out sideways with fine grid patterning and tiny spiral curls along the front edge, and one tall upright triangular tail fin at the back, cast in warm yellow gold with a soft aged patina, no text, showing two round eyes and a short snout with tiny teeth, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Field mark one. The head. Round, domed, with two clear eyes and a short snout lined with little teeth. The Met catalogue notes these toothy snouts on every example in the type."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 FIELD MARKS",
+   "Eyes, Teeth, Fins",
+   "HEAD \u00b7 SPIRALS \u00b7 TAIL \u00b7 WINGS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Field mark one. The head. Round, domed, with two clear eyes and a short snout lined with little teeth. The Met catalogue notes these toothy snouts on every example in the type.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro photograph of a cockpit canopy of a modern fighter jet seen from the side, smooth glass, grey sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Is that a cockpit? A cockpit is a smooth bubble, with a pilot behind it. Here, the front is a face. Eyes, and a mouth. Planes do not have teeth."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Is that a cockpit? A cockpit is a smooth bubble, with a pilot behind it. Here, the front is a face. Eyes, and a mouth. Planes do not have teeth.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 10.08
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Macro photograph of the fine grid pattern and tiny spiral curls engraved on the wing of a small ancient Colombian gold pendant about six centimetres wide, a smooth domed head with two small round eyes and a short toothy snout, a smooth loaf-shaped body, two broad triangular swept-back wings fanned out sideways with fine grid patterning and tiny spiral curls along the front edge, and one tall upright triangular tail fin at the back, cast in warm yellow gold with a soft aged patina, no text, raking light, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Field mark two. The wings. They carry a delicate grid pattern, and little spiral curls along the edge. Real jet wings carry control surfaces. These carry decoration."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Field mark two. The wings. They carry a delicate grid pattern, and little spiral curls along the edge. Real jet wings carry control surfaces. These carry decoration.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of the upright triangular tail fin of a small ancient Colombian gold pendant about six centimetres wide, a smooth domed head with two small round eyes and a short toothy snout, a smooth loaf-shaped body, two broad triangular swept-back wings fanned out sideways with fine grid patterning and tiny spiral curls along the front edge, and one tall upright triangular tail fin at the back, cast in warm yellow gold with a soft aged patina, no text, with a small notch, studio light, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Field mark three. The tail. One tall upright fin, set behind a round body. That is the feature everyone points at. A vertical stabiliser. And also, the tail of almost every fish that has ever lived."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Field mark three. The tail. One tall upright fin, set behind a round body. That is the feature everyone points at. A vertical stabiliser. And also, the tail of almost every fish that has ever lived.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 14.496
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Underwater photograph of a tropical river fish with a tall vertical tail fin and wide pectoral fins held out like wings, clear green water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look at a real river fish. A single vertical tail. Two side fins, held out like wings. And a rounded body. Take away the scales, and call that a fuselage."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look at a real river fish. A single vertical tail. Two side fins, held out like wings. And a rounded body. Take away the scales, and call that a fuselage.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 11.472
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A South American flying fish leaping out of the water with its wide pectoral fins spread like wings, spray, sunlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some fish go further. Flying fish spread their side fins and glide through the air. The Met's catalogue suggests exactly that as a possible model. A flying fish. Hence the museum name."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some fish go further. Flying fish spread their side fins and glide through the air. The Met's catalogue suggests exactly that as a possible model. A flying fish. Hence the museum name.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of a gold pendant of a stylised frog with big eyes and splayed legs on black velvet, studio light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Field mark four. The way the maker draws. A frog on a similar pendant is flat and symmetrical, with its legs splayed out. No frog looks like that. Nobody says it is a spacecraft."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Field mark four. The way the maker draws. A frog on a similar pendant is flat and symmetrical, with its legs splayed out. No frog looks like that. Nobody says it is a spacecraft.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Gold pendant of a stylised bat with spread wings on black velvet, studio light, macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A bat. A bird. A crocodile. All reduced to bold, sharp, symmetrical shapes. This was a style. Pendants were drawn like symbols, not portraits."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A bat. A bird. A crocodile. All reduced to bold, sharp, symmetrical shapes. This was a style. Pendants were drawn like symbols, not portraits.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 10.68
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A rack of small ancient gold animal pendants in a museum case, frogs, birds and fish, lit from above, dark room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One specimen is a mystery. A whole drawer of related specimens is a family. So let's meet the family."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One specimen is a mystery. A whole drawer of related specimens is a family. So let's meet the family.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 7.152
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A long museum display case with dozens of tiny ancient gold pendants arranged in rows on dark fabric, soft overhead lights, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lineup. In the Gold Museum in Bogot\u00e1 there are over one hundred of these small animal figures on display. Birds, insects, fish, bats, frogs, reptiles. All from the same broad tradition."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV \u00b7 THE FAMILY",
+   "Lineup of Suspects",
+   "TOLIMA \u00b7 FIGURES \u00b7 CATFISH"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lineup. In the Gold Museum in Bogot\u00e1 there are over one hundred of these small animal figures on display. Birds, insects, fish, bats, frogs, reptiles. All from the same broad tradition.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 14.04
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient gold figure pendant of a standing human with outstretched arms like wings and a large forked tail, flat symmetrical design, on black velvet, studio photo, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the surprise. The Met describes a Tolima figure pendant of the winged type. A human body with splayed, fringed arms, and a big forked tail. The same hands. The same flat symmetry."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the surprise. The Met describes a Tolima figure pendant of the winged type. A human body with splayed, fringed arms, and a big forked tail. The same hands. The same flat symmetry.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.92
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Two gold pendants side by side on black velvet, one a winged human figure with a forked tail and one a fish shape with swept wings and a tall tail fin, studio light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Set them side by side. The tail is shared. The sharp outline is shared. The wings are shared. If the fish is a plane, then the winged person is a plane too. That is a lot of planes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Set them side by side. The tail is shared. The sharp outline is shared. The wings are shared. If the fish is a plane, then the winged person is a plane too. That is a lot of planes.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.456
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A river bank in Colombia with a suckermouth catfish lying on wet stones, flat head and big eyes, side fins like small wings, macro photograph, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debunkers add another candidate. The suckermouth catfish, a common river fish, with a rounded head, large eyes, stiff fins and small bumps on the front of its fins. Wikipedia lists it, along with flying fish."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debunkers add another candidate. The suckermouth catfish, a common river fish, with a rounded head, large eyes, stiff fins and small bumps on the front of its fins. Wikipedia lists it, along with flying fish.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 14.88
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A small tropical river in Colombia at dawn with a fisherman casting a net from a wooden canoe, mist on the water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "These were farmers, fishermen and goldsmiths of river valleys. Fish were food, and a thing to draw. Nothing in the finds suggests anyone there knew about taking off or landing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "These were farmers, fishermen and goldsmiths of river valleys. Fish were food, and a thing to draw. Nothing in the finds suggests anyone there knew about taking off or landing.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A Skeptoid-style scientist at a desk comparing a printed photo of a river fish with a gold fish pendant, two images side by side, warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Skeptoid makes the same point. Fish have one vertical tail fin, and side fins that look like wings. The programme considered insects, and then jumped to aircraft, without ever checking fish."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Skeptoid makes the same point. Fish have one vertical tail fin, and side fins that look like wings. The programme considered insects, and then jumped to aircraft, without ever checking fish.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A single gold fish pendant with swept wings on black velvet, with a faint blurred silhouette of a river fish behind it, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So on appearance alone, the type is an animal. But the believers have one more card, and it is a good one. They say: we built it, and it flew."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So on appearance alone, the type is an animal. But the believers have one more card, and it is a good one. They say: we built it, and it flew.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.48
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A hobby workshop in the 1990s in Germany with a large radio controlled model aircraft with swept wings and a propeller on a workbench, tools, warm light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test one. The replica. In nineteen ninety-four, three Germans, Algund Eenboom, Peter Belting and Conrad Lubbers, built a radio-controlled model of one pendant, enlarged sixteen times."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "V \u00b7 THE REPLICA",
+   "The Goldflyer",
+   "1994 \u00b7 PROPELLER \u00b7 FLAPS \u00b7 THRUST"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test one. The replica. In nineteen ninety-four, three Germans, Algund Eenboom, Peter Belting and Conrad Lubbers, built a radio-controlled model of one pendant, enlarged sixteen times.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A radio controlled model aircraft about one metre wide with swept delta wings and an upright tail sitting on green grass in a field, overcast light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "About a metre across, ninety centimetres long, seven hundred and fifty grams. They named it the Goldflyer. And it flew. Stable, controllable, filmed, and then shown on television."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "About a metre across, ninety centimetres long, seven hundred and fifty grams. They named it the Goldflyer. And it flew. Stable, controllable, filmed, and then shown on television.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 12.6
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A model aircraft flying low over a field with a smooth stable glide, motion blur, evening light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The claim that went with the film: they did not add an inch or remove an inch. Everything, they said, was done by the native people two thousand years earlier."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The claim that went with the film: they did not add an inch or remove an inch. Everything, they said, was done by the native people two thousand years earlier.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a model aircraft's small electric motor and plastic propeller mounted on the nose, workshop light, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now read the build sheet. A propeller on the nose, and an engine to turn it. That is not in the gold."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now read the build sheet. A propeller on the nose, and an engine to turn it. That is not in the gold.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 6.456
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of the wing of a radio controlled model with moving flaps hinged along the rear edge and a curved wing profile, workshop light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The gold wings are flat. The model's wings were curved on top, with movable flaps added at the back. And the big spirals along the front edge, which would wreck the airflow, were left off."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The gold wings are flat. The model's wings were curved on top, with movable flaps added at the back. And the big spirals along the front edge, which would wreck the airflow, were left off.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Model aircraft with small wheels and landing gear sitting on a grass airfield, close-up, overcast light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Landing gear, added. Radio control, added. Motor power, trim and balance, all chosen by the builders. Not one of those is written in the pendant."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Landing gear, added. Radio control, added. Motor power, trim and balance, all chosen by the builders. Not one of those is written in the pendant.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A paper dart with swept wings gliding across a bright classroom, motion blur, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "With enough power and the right trim, almost any compact winged shape can be made to fly. Planks fly. Paper darts fly. A pendant, redesigned into an aircraft, flies. That tells us about the engineers."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "With enough power and the right trim, almost any compact winged shape can be made to fly. Planks fly. Paper darts fly. A pendant, redesigned into an aircraft, flies. That tells us about the engineers.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 14.712
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Side by side comparison on a workbench of a small gold pendant and a large model aircraft built from it, studio light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It proves that the shape is not absurd. And that is all it proves. Whether anyone in ancient Colombia ever wanted it to fly is a different question."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It proves that the shape is not absurd. And that is all it proves. Whether anyone in ancient Colombia ever wanted it to fly is a different question.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 10.488
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A modern aeronautical engineering laboratory with a wind tunnel opening and a small 3D printed model on a stand, cool blue light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For that question, we need a proper test, with no propeller and no engine. Just the pendant, and the air."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For that question, we need a proper test, with no propeller and no engine. Just the pendant, and the air.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 6.576
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A high resolution 3D photogrammetry scan rig with many cameras around a small gold object on a turntable, dark room, blue light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test two. The laboratory. In twenty twenty-five, the aerospace engineer Sebastian Valencia and Jaime Orduy scanned a Tolima pendant in three dimensions and rebuilt it, exactly as it is, as a digital twin."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "VI \u00b7 THE LAB",
+   "The Air Test",
+   "CFD \u00b7 WIND TUNNEL \u00b7 LIFT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test two. The laboratory. In twenty twenty-five, the aerospace engineer Sebastian Valencia and Jaime Orduy scanned a Tolima pendant in three dimensions and rebuilt it, exactly as it is, as a digital twin.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 15.72
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Computational fluid dynamics visualization of colourful airflow streamlines and vortices curling over a small swept delta shaped wing, red and blue colours, dark background, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They ran computer simulations, and then real wind tunnel tests, at wind speeds from two up to thirty metres a second, tilting the model from zero to fifteen degrees."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They ran computer simulations, and then real wind tunnel tests, at wind speeds from two up to thirty metres a second, tilting the model from zero to fifteen degrees.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A small 3D printed delta wing model mounted on a sting inside a wind tunnel, smoke streams flowing over it, lab lights, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The result surprised even them. A peak lift coefficient of one point eight seven, comparable to a modern delta wing, with stable vortices streaming along the leading edges."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The result surprised even them. A peak lift coefficient of one point eight seven, comparable to a modern delta wing, with stable vortices streaming along the leading edges.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of white smoke trails forming a tight spiral vortex over the swept edge of a small wing in a wind tunnel, dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the pendant really is a good lifting shape. Delta wings generate lift with swirling vortices, and this tiny gold fish does it too. Believers saw that, and cheered."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the pendant really is a good lifting shape. Delta wings generate lift with swirling vortices, and this tiny gold fish does it too. Believers saw that, and cheered.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A researcher with a laptop and wind tunnel graphs on a screen showing abstract coloured curves only, thoughtful face lit by screen glow, lab at night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But read the conclusion in the Journal of Aircraft. The authors say the flying qualities most likely arose as an incidental by-product of an aesthetic and ritual design, not from a pursuit of flight."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But read the conclusion in the Journal of Aircraft. The authors say the flying qualities most likely arose as an incidental by-product of an aesthetic and ritual design, not from a pursuit of flight.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A tree branch with a seed that has spinning wings falling through still air in a forest, sunlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Think of a maple seed. It spins down beautifully. Nobody carved the seed to be a helicopter. Shapes that please the eye, and shapes that move well in air, overlap more often than you would think."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Think of a maple seed. It spins down beautifully. Nobody carved the seed to be a helicopter. Shapes that please the eye, and shapes that move well in air, overlap more often than you would think.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 13.056
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A pair of hands cradling a small ancient Colombian gold pendant about six centimetres wide, a smooth domed head with two small round eyes and a short toothy snout, a smooth loaf-shaped body, two broad triangular swept-back wings fanned out sideways with fine grid patterning and tiny spiral curls along the front edge, and one tall upright triangular tail fin at the back, cast in warm yellow gold with a soft aged patina, no text gently in warm light, soft focus background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two tests, one pattern. It could be made to fly. It was never shown to be meant to. And that brings us to the last question. If not a plane, why a gold fish with wings?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two tests, one pattern. It could be made to fly. It was never shown to be meant to. And that brings us to the last question. If not a plane, why a gold fish with wings?",
+    "file": "ep/audio/s52.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Sunrise over the Andes with golden light touching a river, a shaman figure silhouetted on a rock in ritual pose, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Last item. Purpose. Gold in the ancient Andes was not money. It was a sacred metal, worn by leaders and priests, and buried with the dead."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VII \u00b7 PURPOSE",
+   "Why a Winged Fish?",
+   "GOLD \u00b7 GRAVES \u00b7 MEANING"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Last item. Purpose. Gold in the ancient Andes was not money. It was a sacred metal, worn by leaders and priests, and buried with the dead.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 9.936
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dim burial chamber in an ancient Colombian tomb with small gold pendants laid around a skeleton on a clay floor, torchlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Many of these pendants were worn on cords around the neck, then placed in graves. One reading is that a creature moving between water and air suits a journey between worlds."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Many of these pendants were worn on cords around the neck, then placed in graves. One reading is that a creature moving between water and air suits a journey between worlds.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A Tolima style gold pendant with human and animal features hanging from a leather cord, lit by warm side light on dark fabric, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Met says Tolima pendants mix human and animal references. The exact meaning is not recorded. We do not know the maker's word for it, and anyone claiming to know is guessing too."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Met says Tolima pendants mix human and animal references. The exact meaning is not recorded. We do not know the maker's word for it, and anyone claiming to know is guessing too.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A modern museum curator in a quiet gallery looking at a small gold pendant in a lit case, reflective glass, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which is the honest ending. The best fit for the evidence is a stylised fish or animal. The aircraft idea needs a propeller and a tour guide, but it does not need anything from the Tolima themselves."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which is the honest ending. The best fit for the evidence is a stylised fish or animal. The aircraft idea needs a propeller and a tour guide, but it does not need anything from the Tolima themselves.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dark Colombian night sky filled with stars above a river valley, one faint line of light from a satellite, wide, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the alien version? It needs visitors who left no craft, no pilot, and no record. Just a dozen pieces of jewellery, in a tradition made of thousands."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the alien version? It needs visitors who left no craft, no pilot, and no record. Just a dozen pieces of jewellery, in a tradition made of thousands.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 10.488
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A silhouette of a person in a forest holding a small glowing gold pendant toward the stars, night, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So here is the strange part. The shape is real. The lift is real. The coincidence is real. Only the aircraft is missing."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So here is the strange part. The shape is real. The lift is real. The coincidence is real. Only the aircraft is missing.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 8.736
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum vault at night, a small ancient gold pendant with swept wings and an upright tail fin on a black stand far on the right edge lit by a warm spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Identification. Time to score the gold flyer."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "IDENTIFICATION",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Identification. Time to score the gold flyer.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 3.312
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum vault at night, a small ancient gold pendant with swept wings and an upright tail fin on a black stand far on the right edge lit by a warm spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Real pre-Columbian gold, in major museums: evidence. Animal features, eyes, teeth, grid patterns: evidence. Shares its style with winged figures and animals in the same tradition: evidence. Best model, a flying fish or a catfish: likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Real pre-Columbian gold, in major museums: evidence. Animal features, eyes, teeth, grid patterns: evidence. Shares its style with winged figures and animals in the same tradition: evidence. Best model, a flying fish or a catfish: likely.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 17.904
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum vault at night, a small ancient gold pendant with swept wings and an upright tail fin on a black stand far on the right edge lit by a warm spotlight, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Built as an aircraft: no evidence. Flies as made: debunked. The 1994 model needed engine, flaps and landing gear. Visitors from elsewhere: no evidence at all."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Built as an aircraft: no evidence. Flies as made: debunked. The 1994 model needed engine, flaps and landing gear. Visitors from elsewhere: no evidence at all.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 13.008
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro museum photograph of a small ancient Colombian gold pendant about six centimetres wide, a smooth domed head with two small round eyes and a short toothy snout, a smooth loaf-shaped body, two broad triangular swept-back wings fanned out sideways with fine grid patterning and tiny spiral curls along the front edge, and one tall upright triangular tail fin at the back, cast in warm yellow gold with a soft aged patina, no text, on its stand, warm golden light, dark background, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The identification. Stylised animal, probably a fish. Not an aircraft. It is a beautiful accident of design that flies well in a lab, and was never built to fly at all."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The identification. Stylised animal, probably a fish. Not an aircraft. It is a beautiful accident of design that flies well in a lab, and was never built to fly at all.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A goldsmith's hands in an ancient workshop shaping a tiny wax fish with a bone tool, warm light, soft focus background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Somewhere, a thousand years ago, a goldsmith shaped a little fish with wings, for someone who was travelling beyond this world. That is wonderful enough. It does not need a runway."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Somewhere, a thousand years ago, a goldsmith shaped a little fish with wings, for someone who was travelling beyond this world. That is wonderful enough. It does not need a runway.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 11.52
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A mysterious calm harbour at night on the Canadian Atlantic coast with a single glowing orange light on the dark water far away, fishing boats, moody, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: nineteen sixty-seven, a calm night off Nova Scotia, and a glowing object that seemed to fall into the sea. Then the Navy went looking."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: nineteen sixty-seven, a calm night off Nova Scotia, and a glowing object that seemed to fall into the sea. Then the Navy went looking.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small gold pendant with swept wings glowing faintly in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think they were? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think they were? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 6.48
+   }
+  ]
+ }
+]
