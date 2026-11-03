@@ -1,0 +1,1356 @@
+{
+ "fps": 30,
+ "total": 26554,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 446,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eighteen metres under a pyramid in Mexico, in a tunnel sealed for eighteen hundred years, archaeologists found pools of liquid silver. Mercury. And some people say it was the fuel for a power plant.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 13.8,
+     "start": 10,
+     "end": 424
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 428,
+   "end": 828,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A power plant, built by the ancient Americas. Shiny mica for insulation, mercury for conduction, and a city that knew something we have forgotten. You have probably seen the headlines.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 12.24,
+     "start": 438,
+     "end": 806
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 810,
+   "end": 1113,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight we do what an engineer would do. We write the parts list for this machine, and check every part against what was actually dug up.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 9.024,
+     "start": 820,
+     "end": 1091
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1095,
+   "end": 1392,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part one, mercury. Part two, mica. Then the wires, the power source, the signs of use. Each part gets a tick, or a cross.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 8.832,
+     "start": 1105,
+     "end": 1370
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1374,
+   "end": 1767,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the end, a verdict. Power plant, or sacred underworld? Let's start where the story starts, with a hole in the ground.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 8.016,
+     "start": 1384,
+     "end": 1625
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 PART 1",
+    "The Sinkhole",
+    "2003 \u00b7 THE TUNNEL \u00b7 2015"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1749,
+   "end": 2257,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part one. Mercury. In the autumn of two thousand three, heavy rain hit the ruins of Teotihuacan, fifty kilometres north-east of Mexico City. In the great courtyard called the Ciudadela, the ground opened up.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 15.84,
+     "start": 1759,
+     "end": 2235
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2239,
+   "end": 2699,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A small hole beside the Temple of the Feathered Serpent. The archaeologist Sergio G\u00f3mez tied a rope round his waist and was lowered in. He found a man-made tunnel, blocked in both directions by huge stones.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 14.256,
+     "start": 2249,
+     "end": 2677
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2681,
+   "end": 3154,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ground radar showed the rest. A tunnel about one hundred and three metres long, running from the courtyard to the very centre of the pyramid. Its entrance had been sealed on purpose, with boulders, nearly eighteen centuries ago.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 14.688,
+     "start": 2691,
+     "end": 3132
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3136,
+   "end": 3495,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "From two thousand nine, his team dug it out by hand, a few feet a month. Spades first, then brushes, then toothbrushes. It took years, and the tunnel kept giving.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 10.896,
+     "start": 3146,
+     "end": 3473
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3477,
+   "end": 3949,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tens of thousands of offerings. Jade figures. Great conch shells from the Caribbean. Rubber balls. Jaguar bones. Wooden objects. Fifteen thousand seeds. Some counts reach seventy thousand objects.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 14.64,
+     "start": 3487,
+     "end": 3927
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3931,
+   "end": 4328,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the walls were dusted with ground pyrite, fool's gold. In torchlight, said G\u00f3mez, it glows like a night sky. Forty feet underground, someone had built a sky.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 12.144,
+     "start": 3941,
+     "end": 4306
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4310,
+   "end": 4701,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the far end the tunnel opened into three chambers, one of them cross-shaped, with two dark stone figures facing the wall. Robots with cameras went in first, to see what waited.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 11.952,
+     "start": 4320,
+     "end": 4679
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4683,
+   "end": 5149,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, in April two thousand fifteen, G\u00f3mez told Reuters he had found large quantities of liquid mercury, in a chamber at the end. Rare in Mesoamerican graves. He called it a complete surprise.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 14.448,
+     "start": 4693,
+     "end": 5127
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 5131,
+   "end": 5472,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The headline went round the world. Mercury under a pyramid. Poisonous, silvery, impossible to explain. And a few years later, the story took a turn.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 10.272,
+     "start": 5141,
+     "end": 5450
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5454,
+   "end": 5741,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But mercury is only part one. The second part of the story lies elsewhere in the same city, in the earth of another century.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 8.496,
+     "start": 5464,
+     "end": 5719
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 PART 2",
+    "The Mica",
+    "1906 \u00b7 1942 \u00b7 2017"
+   ],
+   "img": "ep/img/shot_16.jpg",
+   "start": 5723,
+   "end": 6175,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Part two. Mica. Mica is a mineral that splits into thin, clear, shiny sheets. In nineteen oh six, the architect Leopoldo Batres was restoring the Pyramid of the Sun for the Mexican government.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 13.992,
+     "start": 5733,
+     "end": 6153
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6157,
+   "end": 6562,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He reported a layer of mica on top of the fifth level. And he sold it. The reports say the mica was removed because it had value. So that first discovery can never be checked again.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.432,
+     "start": 6167,
+     "end": 6540
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6544,
+   "end": 7010,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the fifth level is a problem. Later studies suggest the Pyramid of the Sun originally had four. The fifth came from Batres's own restoration. The mica's context is a puzzle with a missing piece.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 14.448,
+     "start": 6554,
+     "end": 6988
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6992,
+   "end": 7507,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The second find is better recorded. In nineteen forty-two and forty-three, the archaeologist Pedro Armillas dug in the Viking Group, a compound south of the Pyramid of the Sun. It was named after the fund that paid for the dig.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 16.08,
+     "start": 7002,
+     "end": 7485
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7489,
+   "end": 7934,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Under a mortar floor and twenty centimetres of gravel, he found two layers of mica sheets, each about six centimetres thick, with a thin layer of earth between them. The mica covered the whole patio.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 13.752,
+     "start": 7499,
+     "end": 7912
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7916,
+   "end": 8309,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Armillas measured that patio at ten point four metres by two point eight. He dug test pits below, found no clue to a purpose, and stopped before he could try everything.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.024,
+     "start": 7926,
+     "end": 8287
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8291,
+   "end": 8863,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Across the city, mica turns up again. Plates, triangles, discs. At the palace of Xalla, north of the pyramid, archaeologists found about thirty-seven kilograms. Together, these two compounds hold more than ninety percent of all the mica in Teotihuacan.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 18.0,
+     "start": 8301,
+     "end": 8841
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8845,
+   "end": 9353,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In neighbourhood centres like Teopancazco, only grams. Mica was a luxury of the elite. It sat as discs on incense burners, as shining eyes in sculptures, as cladding on walls. Mica was jewellery for buildings.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 15.864,
+     "start": 8855,
+     "end": 9331
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 9335,
+   "end": 9683,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So we have two real finds, one century apart. A silver liquid in a tunnel. Shiny sheets under a floor. Now: who first said they were a machine?",
+     "file": "ep/audio/s24.mp3",
+     "dur": 10.512,
+     "start": 9345,
+     "end": 9661
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 THE CLAIM",
+    "How the Story Grew",
+    "1995 \u00b7 2015 \u00b7 2025"
+   ],
+   "img": "ep/img/shot_25.jpg",
+   "start": 9665,
+   "end": 10147,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen ninety-five, Graham Hancock's bestseller Fingerprints of the Gods described the Viking Group mica. He called it a mystery. He noted that mica is a modern insulator, used in capacitors and electronics.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 15.0,
+     "start": 9675,
+     "end": 10125
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 10129,
+   "end": 10545,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He wrote that the mica was a type found only in Brazil, two thousand miles away. That it lay in two sheets, ninety feet square. And he asked why anyone would bury it out of sight.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 12.792,
+     "start": 10139,
+     "end": 10523
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10527,
+   "end": 10970,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then came two thousand fifteen. Mercury was found at Teotihuacan, and the internet put the two together. Insulation, plus a liquid conductor. Mica and mercury. It sounded like a circuit.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 13.68,
+     "start": 10537,
+     "end": 10948
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10952,
+   "end": 11389,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By twenty twenty-five, tabloids were calling the tunnel a gateway to the underworld that hints at an advanced civilisation. Blogs went further: an energy-generating device, an ancient power plant.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 13.488,
+     "start": 10962,
+     "end": 11367
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 11371,
+   "end": 11807,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice what changed. The excavators said ritual. The headlines said machine. And the only link between the two stories is a modern fact: that today, we use mica and mercury in technology.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 13.44,
+     "start": 11381,
+     "end": 11785
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11789,
+   "end": 12150,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is not evidence from Teotihuacan. That is a resemblance. So let's test the three numbers people repeat the most. First: where did the mica come from?",
+     "file": "ep/audio/s30.mp3",
+     "dur": 10.944,
+     "start": 11799,
+     "end": 12128
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 12132,
+   "end": 12293,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tests on the mica itself have been done. The answer is not Brazil.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 4.272,
+     "start": 12142,
+     "end": 12271
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "IV \u00b7 PART 3",
+    "The Parts List",
+    "SOURCE \u00b7 SIZE \u00b7 WIRES \u00b7 POWER"
+   ],
+   "img": "ep/img/shot_32.jpg",
+   "start": 12275,
+   "end": 12860,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand seventeen, a team led by Linda Manzanilla published the analysis. X-ray diffraction, electron microscopy, neutron activation. Teotihuacan's mica matches the Central Valleys of Oaxaca, around four hundred kilometres away.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 18.408,
+     "start": 12285,
+     "end": 12838
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12842,
+   "end": 13382,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Later work matched mica from the Viking Group to a huge stockpile at Monte Alb\u00e1n, the Zapotec capital in Oaxaca. There, a single area of the North Platform held about one hundred and fifty-four kilograms. Brazil: crossed off.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 16.92,
+     "start": 12852,
+     "end": 13360
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 13364,
+   "end": 13848,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next, the size. Ninety feet square would be about seven hundred and fifty square metres of mica. Armillas, who dug it, measured the whole patio at ten point four by two point eight metres. Size: crossed off.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 15.048,
+     "start": 13374,
+     "end": 13826
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13830,
+   "end": 14256,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the real parts list. What does a power plant need? A source of energy. Conductors, usually wires. A circuit that closes. Something that uses the power. And, after years of running, wear.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 13.128,
+     "start": 13840,
+     "end": 14234
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 14238,
+   "end": 14713,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mica does insulate. Early capacitors used it, with metal foil plates and wires to carry the charge. But mica alone is a sheet. It needs metal plates, and leads. Nothing like that was found in the Viking Group.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 14.76,
+     "start": 14248,
+     "end": 14691
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14695,
+   "end": 15155,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the mercury? Reports vary. Fifty grams, which would fit in a teaspoon. About two hundred millilitres, in another account. About four hundred grams, in a third. Not enough to power a city, however you count it.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 14.256,
+     "start": 14705,
+     "end": 15133
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 15137,
+   "end": 15661,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next: any apparatus? No wires, no electrodes, no turbines, no tanks, no pipes, no burn marks, no residue: none reported. The mercury was found as drops, when soil was sieved and washed. It was in the earth, among offerings.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 16.368,
+     "start": 15147,
+     "end": 15639
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 15643,
+   "end": 16084,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A real power plant leaves a footprint. A source of heat or flow, fuel, ash, repairs, a wear pattern. Nothing in the tunnel looks like that. It looks like a place where things were put down and left.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.608,
+     "start": 15653,
+     "end": 16062
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 16066,
+   "end": 16523,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In fact, the tunnel is full of fragile things. Wood. Seeds. Skin. A jar with eighteen-hundred-year-old corn at the bottom. A sealed room designed to hold offerings is a poor place for a machine.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 14.136,
+     "start": 16076,
+     "end": 16501
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 16505,
+   "end": 16891,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the mercury works against the theory. It is toxic, and hard to handle. It was never plugged into anything. It was put in, in small amounts, and then the tunnel was closed for good.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 11.784,
+     "start": 16515,
+     "end": 16869
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 16873,
+   "end": 17208,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two ticks: the materials are real. The rest of the parts list is blank. But if it is not a machine, what is it? Archaeologists have a better answer.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 10.08,
+     "start": 16883,
+     "end": 17186
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": [
+    "V \u00b7 PART 4",
+    "The Ritual Reading",
+    "STARS \u00b7 WATER \u00b7 MIRRORS \u00b7 MAYA"
+   ],
+   "img": "ep/img/shot_43.jpg",
+   "start": 17190,
+   "end": 17647,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The ritual reading. G\u00f3mez's idea: the tunnel is a map of the underworld. A dark cave, a place of creation, where the dead and the gods live. And in Mesoamerican belief, that underworld has water.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 14.136,
+     "start": 17200,
+     "end": 17625
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 17629,
+   "end": 18078,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The pyramid above fits it. The Feathered Serpent temple is covered in snake heads, shells and waves. Scholars like Michael Coe and Clemency Coggins read it as the creation of the world from a watery void.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 13.896,
+     "start": 17639,
+     "end": 18056
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 18060,
+   "end": 18478,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the tunnel below could be that void. Pyrite on the walls for stars. Mercury on the floor for lakes and rivers. In flickering light, the mercury would reflect those stars, like water at night.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 12.84,
+     "start": 18070,
+     "end": 18456
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 18460,
+   "end": 18965,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And Teotihuacan already loved the mercury family of materials. Cinnabar, the red mercury ore, was ground into pigment for murals and sprinkled over graves. Liquid mercury is the same element, in a rarer form.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 15.744,
+     "start": 18470,
+     "end": 18943
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 18947,
+   "end": 19517,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is rare, but not unique. At the Maya city of Lamanai in Belize, a cache held about one hundred and thirty-two grams. At Cop\u00e1n in Honduras, around four to six kilograms in total. At Kaminaljuy\u00fa in Guatemala, a burial had a small pool.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 17.904,
+     "start": 18957,
+     "end": 19495
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 19499,
+   "end": 19909,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even more telling: the elite loved reflective things. Pyrite mirrors. Obsidian mirrors. Mica discs inlaid in sculptures. Shine meant power, and a doorway to the other world.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 12.576,
+     "start": 19509,
+     "end": 19887
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 19891,
+   "end": 20381,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And mica? The Monte Alb\u00e1n stockpile and the pattern at Teotihuacan point to controlled stores of a prized import. A rare, shining raw material moved by the rulers, then laid down in the places that mattered.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 15.264,
+     "start": 19901,
+     "end": 20359
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 20363,
+   "end": 20856,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A floor of mica under a patio is odd. But the Viking Group is an elite compound, and so is the Xalla palace. They are not clues to a hidden machine. They are signs of who held the luxury, and of what they were willing to bury.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 15.36,
+     "start": 20373,
+     "end": 20834
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 20838,
+   "end": 21300,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the ritual reading has a reason for each part: a map of the underworld, water from mercury, stars from pyrite, shine from mica. Not proven. But it explains every piece without inventing a machine.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 14.304,
+     "start": 20848,
+     "end": 21278
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": [
+    "VI \u00b7 PART 5",
+    "What We Still Don\u2019t Know",
+    "GAPS \u00b7 TESTS \u00b7 THE SUB-CHAMBERS"
+   ],
+   "img": "ep/img/shot_52.jpg",
+   "start": 21282,
+   "end": 21677,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But honesty matters. There is plenty we still don't know. Only about ten percent of the tunnel's offerings had been catalogued, when G\u00f3mez spoke to Smithsonian magazine in twenty sixteen.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 12.096,
+     "start": 21292,
+     "end": 21655
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 21659,
+   "end": 22096,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The amount of mercury is unclear. The source is unknown. A proper isotope study could show where it came from. A full inventory could say how it was placed. That is how you settle it, with data.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 13.488,
+     "start": 21669,
+     "end": 22074
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 22078,
+   "end": 22511,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three sub-chambers beneath the end of the tunnel were still waiting to be excavated. Some hope for the tomb of a ruler. Others say the tomb is symbolic. Nobody knows until the last soil is lifted.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 13.344,
+     "start": 22088,
+     "end": 22489
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 22493,
+   "end": 22957,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the Pyramid of the Sun's mica is gone. Reportedly sold. Under the Viking Group, Armillas stopped digging before he finished. If a machine part exists, that is where it would hide. No evidence says it does.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 14.4,
+     "start": 22503,
+     "end": 22935
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 22939,
+   "end": 23424,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is where the believers have a fair point. Not about aliens, or power plants. About the fact that Teotihuacan still hides far more than it has shown. We do not know the language, the rulers, or the real name of the city.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 15.096,
+     "start": 22949,
+     "end": 23402
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 23406,
+   "end": 23794,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But a gap is not a machine. A mystery does not become a power plant just because we lack the paperwork. The question is whether anything points that way. So far, nothing does.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 11.856,
+     "start": 23416,
+     "end": 23772
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 23776,
+   "end": 23857,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is time for the debrief.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 1.608,
+     "start": 23786,
+     "end": 23835
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 23839,
+   "end": 23997,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Parts list complete. One last look at the evidence, and the theory.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 4.176,
+     "start": 23849,
+     "end": 23975
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 23979,
+   "end": 24072,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score the claim.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 2.016,
+     "start": 23989,
+     "end": 24050
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 24054,
+   "end": 24564,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Liquid mercury in a sealed tunnel, around the third century: evidence. Mica layers under the Viking Group floor: evidence. Mica from Brazil: debunked, it came from Oaxaca. Ninety feet square: debunked, ten by three metres.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 15.912,
+     "start": 24064,
+     "end": 24542
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 24546,
+   "end": 24980,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Wires, circuits, any apparatus: none found. A power plant or energy device: no evidence. An underworld ritual offering: likely, though the exact purpose of the mercury is still open.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 13.368,
+     "start": 24556,
+     "end": 24958
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 24962,
+   "end": 25414,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Not a power plant. The mercury and the mica are real, rare, and probably sacred. They were treasures laid in the dark for the underworld, not parts in a circuit. But the tunnel is not finished talking.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 13.968,
+     "start": 24972,
+     "end": 25392
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 25396,
+   "end": 25852,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eighteen centuries ago, someone carried a silver liquid and shiny stone down into the dark. Not to switch something on. To honour the stars, and the water, below the world. That is already a wonderful story.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 14.112,
+     "start": 25406,
+     "end": 25830
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 25834,
+   "end": 26204,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a valley in Norway where mysterious glowing balls have drifted for decades. Are they plasma, UFOs, or something stranger? We put them to the test.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 11.256,
+     "start": 25844,
+     "end": 26182
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 26186,
+   "end": 26479,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Do you think the mercury was water for the underworld? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 8.688,
+     "start": 26196,
+     "end": 26457
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1423 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide cinematic photograph of a shallow pool of bright silver liquid mercury glinting on the floor of a dark ancient stone chamber, lit by a single warm torch, ancient Mesoamerican carved stone walls glittering with tiny golden pyrite points like stars, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eighteen metres under a pyramid in Mexico, in a tunnel sealed for eighteen hundred years, archaeologists found pools of liquid silver. Mercury. And some people say it was the fuel for a power plant."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eighteen metres under a pyramid in Mexico, in a tunnel sealed for eighteen hundred years, archaeologists found pools of liquid silver. Mercury. And some people say it was the fuel for a power plant.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.8
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a glowing ancient pyramid city at night with beams of electric light rising from its pyramids, Teotihuacan Avenue of the Dead, epic sky, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A power plant, built by the ancient Americas. Shiny mica for insulation, mercury for conduction, and a city that knew something we have forgotten. You have probably seen the headlines."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A power plant, built by the ancient Americas. Shiny mica for insulation, mercury for conduction, and a city that knew something we have forgotten. You have probably seen the headlines.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 12.24
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An engineer's bill of materials clipboard with a blank parts checklist and a pencil on a wooden desk in a dim workshop, warm lamp light, blank paper, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we do what an engineer would do. We write the parts list for this machine, and check every part against what was actually dug up."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we do what an engineer would do. We write the parts list for this machine, and check every part against what was actually dug up.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 9.024
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Macro photograph of thin transparent shiny sheets of natural mica stacked on a dark stone slab, glittering, soft studio light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Part one, mercury. Part two, mica. Then the wires, the power source, the signs of use. Each part gets a tick, or a cross."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Part one, mercury. Part two, mica. Then the wires, the power source, the signs of use. Each part gets a tick, or a cross.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 8.832
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of the Teotihuacan Avenue of the Dead and the Pyramid of the Sun at dawn, golden haze, empty ancient city, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the end, a verdict. Power plant, or sacred underworld? Let's start where the story starts, with a hole in the ground."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the end, a verdict. Power plant, or sacred underworld? Let's start where the story starts, with a hole in the ground.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 8.016
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small round sinkhole opened in a stone plaza at the foot of an ancient Mesoamerican stepped pyramid after heavy rain, mud and puddles, cloudy sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Part one. Mercury. In the autumn of two thousand three, heavy rain hit the ruins of Teotihuacan, fifty kilometres north-east of Mexico City. In the great courtyard called the Ciudadela, the ground opened up."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "I \u00b7 PART 1",
+   "The Sinkhole",
+   "2003 \u00b7 THE TUNNEL \u00b7 2015"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Part one. Mercury. In the autumn of two thousand three, heavy rain hit the ruins of Teotihuacan, fifty kilometres north-east of Mexico City. In the great courtyard called the Ciudadela, the ground opened up.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 15.84
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An archaeologist in a hard hat and rope harness being lowered on a rope into a dark narrow sinkhole in a plaza, workers holding the rope, overcast light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A small hole beside the Temple of the Feathered Serpent. The archaeologist Sergio G\u00f3mez tied a rope round his waist and was lowered in. He found a man-made tunnel, blocked in both directions by huge stones."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A small hole beside the Temple of the Feathered Serpent. The archaeologist Sergio G\u00f3mez tied a rope round his waist and was lowered in. He found a man-made tunnel, blocked in both directions by huge stones.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 14.256
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A narrow dark ancient stone tunnel in the earth with a low ceiling, scaffolding and a single work lamp casting warm light, damp air, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ground radar showed the rest. A tunnel about one hundred and three metres long, running from the courtyard to the very centre of the pyramid. Its entrance had been sealed on purpose, with boulders, nearly eighteen centuries ago."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ground radar showed the rest. A tunnel about one hundred and three metres long, running from the courtyard to the very centre of the pyramid. Its entrance had been sealed on purpose, with boulders, nearly eighteen centuries ago.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 14.688
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Archaeologists kneeling and working with small brushes and trowels in a cramped dirt tunnel lit by work lights, careful excavation, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "From two thousand nine, his team dug it out by hand, a few feet a month. Spades first, then brushes, then toothbrushes. It took years, and the tunnel kept giving."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "From two thousand nine, his team dug it out by hand, a few feet a month. Spades first, then brushes, then toothbrushes. It took years, and the tunnel kept giving.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 10.896
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Rows of ancient Mesoamerican offerings laid out on a lab table: jade figures, large conch shells, small rubber balls, a carved jaguar statue, soft museum light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tens of thousands of offerings. Jade figures. Great conch shells from the Caribbean. Rubber balls. Jaguar bones. Wooden objects. Fifteen thousand seeds. Some counts reach seventy thousand objects."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tens of thousands of offerings. Jade figures. Great conch shells from the Caribbean. Rubber balls. Jaguar bones. Wooden objects. Fifteen thousand seeds. Some counts reach seventy thousand objects.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "The ceiling and walls of a dark ancient tunnel studded with thousands of tiny golden pyrite points that glitter like stars in torchlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the walls were dusted with ground pyrite, fool's gold. In torchlight, said G\u00f3mez, it glows like a night sky. Forty feet underground, someone had built a sky."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the walls were dusted with ground pyrite, fool's gold. In torchlight, said G\u00f3mez, it glows like a night sky. Forty feet underground, someone had built a sky.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Overhead view of a cross-shaped ancient stone chamber deep underground filled with offerings, two dark carved stone figures facing the wall, torchlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the far end the tunnel opened into three chambers, one of them cross-shaped, with two dark stone figures facing the wall. Robots with cameras went in first, to see what waited."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the far end the tunnel opened into three chambers, one of them cross-shaped, with two dark stone figures facing the wall. Robots with cameras went in first, to see what waited.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro photograph of tiny silver droplets of liquid mercury scattered on dark soil in a sieve, lab light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, in April two thousand fifteen, G\u00f3mez told Reuters he had found large quantities of liquid mercury, in a chamber at the end. Rare in Mesoamerican graves. He called it a complete surprise."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, in April two thousand fifteen, G\u00f3mez told Reuters he had found large quantities of liquid mercury, in a chamber at the end. Rare in Mesoamerican graves. He called it a complete surprise.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A shallow pool of liquid mercury on a stone floor reflecting torchlight inside an ancient chamber, mysterious, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The headline went round the world. Mercury under a pyramid. Poisonous, silvery, impossible to explain. And a few years later, the story took a turn."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The headline went round the world. Mercury under a pyramid. Poisonous, silvery, impossible to explain. And a few years later, the story took a turn.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a single perfect silver droplet of mercury on black stone, dramatic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But mercury is only part one. The second part of the story lies elsewhere in the same city, in the earth of another century."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But mercury is only part one. The second part of the story lies elsewhere in the same city, in the earth of another century.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A grey view of a huge ancient Mesoamerican stepped pyramid, the Pyramid of the Sun, with scaffolding and workers in 1900s clothing, sepia old photograph look, wide shot, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Part two. Mica. Mica is a mineral that splits into thin, clear, shiny sheets. In nineteen oh six, the architect Leopoldo Batres was restoring the Pyramid of the Sun for the Mexican government."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 PART 2",
+   "The Mica",
+   "1906 \u00b7 1942 \u00b7 2017"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Part two. Mica. Mica is a mineral that splits into thin, clear, shiny sheets. In nineteen oh six, the architect Leopoldo Batres was restoring the Pyramid of the Sun for the Mexican government.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1900s man in a hat and jacket standing on top of a stepped stone pyramid directing workmen, sepia old photograph look, hazy light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He reported a layer of mica on top of the fifth level. And he sold it. The reports say the mica was removed because it had value. So that first discovery can never be checked again."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He reported a layer of mica on top of the fifth level. And he sold it. The reports say the mica was removed because it had value. So that first discovery can never be checked again.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Macro photograph of a large pale golden-brown mica book splitting into thin translucent sheets, held in a gloved hand, soft studio light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the fifth level is a problem. Later studies suggest the Pyramid of the Sun originally had four. The fifth came from Batres's own restoration. The mica's context is a puzzle with a missing piece."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the fifth level is a problem. Later studies suggest the Pyramid of the Sun originally had four. The fifth came from Batres's own restoration. The mica's context is a puzzle with a missing piece.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Archaeological excavation in the 1940s of a stone patio floor in a Mexican ancient compound, workers lifting stone slabs with picks, black and white old photograph look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The second find is better recorded. In nineteen forty-two and forty-three, the archaeologist Pedro Armillas dug in the Viking Group, a compound south of the Pyramid of the Sun. It was named after the fund that paid for the dig."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The second find is better recorded. In nineteen forty-two and forty-three, the archaeologist Pedro Armillas dug in the Viking Group, a compound south of the Pyramid of the Sun. It was named after the fund that paid for the dig.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 16.08
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cutaway concept illustration of a stone patio with a mortar floor, a gravel bed, and below it two thin shining layers of mica sheets separated by a layer of earth, museum diagram style, no labels, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Under a mortar floor and twenty centimetres of gravel, he found two layers of mica sheets, each about six centimetres thick, with a thin layer of earth between them. The mica covered the whole patio."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Under a mortar floor and twenty centimetres of gravel, he found two layers of mica sheets, each about six centimetres thick, with a thin layer of earth between them. The mica covered the whole patio.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 13.752
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a large rectangular patio floor of an ancient stone compound with a measuring tape laid across it, archaeologists' feet visible, overcast, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Armillas measured that patio at ten point four metres by two point eight. He dug test pits below, found no clue to a purpose, and stopped before he could try everything."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Armillas measured that patio at ten point four metres by two point eight. He dug test pits below, found no clue to a purpose, and stopped before he could try everything.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Large pale ancient plates and discs of mica laid on a dark cloth in a museum storeroom, circular and trapezoid shapes, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Across the city, mica turns up again. Plates, triangles, discs. At the palace of Xalla, north of the pyramid, archaeologists found about thirty-seven kilograms. Together, these two compounds hold more than ninety percent of all the mica in Teotihuacan."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Across the city, mica turns up again. Plates, triangles, discs. At the palace of Xalla, north of the pyramid, archaeologists found about thirty-seven kilograms. Together, these two compounds hold more than ninety percent of all the mica in Teotihuacan.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 18.0
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a Teotihuacan clay incense burner with small round shiny mirror-like discs set in its face like eyes, museum display, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In neighbourhood centres like Teopancazco, only grams. Mica was a luxury of the elite. It sat as discs on incense burners, as shining eyes in sculptures, as cladding on walls. Mica was jewellery for buildings."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In neighbourhood centres like Teopancazco, only grams. Mica was a luxury of the elite. It sat as discs on incense burners, as shining eyes in sculptures, as cladding on walls. Mica was jewellery for buildings.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 15.864
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a stack of shining thin mica sheets glowing with warm golden backlight, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So we have two real finds, one century apart. A silver liquid in a tunnel. Shiny sheets under a floor. Now: who first said they were a machine?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So we have two real finds, one century apart. A silver liquid in a tunnel. Shiny sheets under a floor. Now: who first said they were a machine?",
+    "file": "ep/audio/s24.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1990s paperback book with a plain blank cover lying open on a desk beside a lamp and a cup of tea, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen ninety-five, Graham Hancock's bestseller Fingerprints of the Gods described the Viking Group mica. He called it a mystery. He noted that mica is a modern insulator, used in capacitors and electronics."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III \u00b7 THE CLAIM",
+   "How the Story Grew",
+   "1995 \u00b7 2015 \u00b7 2025"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen ninety-five, Graham Hancock's bestseller Fingerprints of the Gods described the Viking Group mica. He called it a mystery. He noted that mica is a modern insulator, used in capacitors and electronics.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 15.0
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a vintage ceramic and metal electrical capacitor and a mica insulator plate on a workbench, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He wrote that the mica was a type found only in Brazil, two thousand miles away. That it lay in two sheets, ninety feet square. And he asked why anyone would bury it out of sight."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He wrote that the mica was a type found only in Brazil, two thousand miles away. That it lay in two sheets, ninety feet square. And he asked why anyone would bury it out of sight.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A crowded web news feed scene on a phone screen showing blurry pyramid photos with no readable text, a hand scrolling, dark room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came two thousand fifteen. Mercury was found at Teotihuacan, and the internet put the two together. Insulation, plus a liquid conductor. Mica and mercury. It sounded like a circuit."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came two thousand fifteen. Mercury was found at Teotihuacan, and the internet put the two together. Insulation, plus a liquid conductor. Mica and mercury. It sounded like a circuit.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A glowing futuristic cutaway concept art of a pyramid with a hidden energy reactor of silver liquid and glowing sheets inside, dramatic, digital art, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By twenty twenty-five, tabloids were calling the tunnel a gateway to the underworld that hints at an advanced civilisation. Blogs went further: an energy-generating device, an ancient power plant."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By twenty twenty-five, tabloids were calling the tunnel a gateway to the underworld that hints at an advanced civilisation. Blogs went further: an energy-generating device, an ancient power plant.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two small piles on a table: one of shiny silver liquid mercury beads and one of mica sheets, a magnifying glass between them, lab light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice what changed. The excavators said ritual. The headlines said machine. And the only link between the two stories is a modern fact: that today, we use mica and mercury in technology."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice what changed. The excavators said ritual. The headlines said machine. And the only link between the two stories is a modern fact: that today, we use mica and mercury in technology.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A calm investigator's desk with two stacks of papers and a pen, one labelled with a red ribbon and one with a blue ribbon, no text, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is not evidence from Teotihuacan. That is a resemblance. So let's test the three numbers people repeat the most. First: where did the mica come from?"
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is not evidence from Teotihuacan. That is a resemblance. So let's test the three numbers people repeat the most. First: where did the mica come from?",
+    "file": "ep/audio/s30.mp3",
+    "dur": 10.944
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a piece of grey-brown mica rock on a geologist's map with coloured pins but no readable text, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tests on the mica itself have been done. The answer is not Brazil."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tests on the mica itself have been done. The answer is not Brazil.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 4.272
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A laboratory scientist in a white coat placing a small mica sample into an X-ray machine, clean lab, blue light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand seventeen, a team led by Linda Manzanilla published the analysis. X-ray diffraction, electron microscopy, neutron activation. Teotihuacan's mica matches the Central Valleys of Oaxaca, around four hundred kilometres away."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "IV \u00b7 PART 3",
+   "The Parts List",
+   "SOURCE \u00b7 SIZE \u00b7 WIRES \u00b7 POWER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand seventeen, a team led by Linda Manzanilla published the analysis. X-ray diffraction, electron microscopy, neutron activation. Teotihuacan's mica matches the Central Valleys of Oaxaca, around four hundred kilometres away.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 18.408
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A wide landscape of the Oaxaca valley in Mexico with dry mountains and ancient stepped ruins of Monte Alb\u00e1n in the distance, golden hour, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later work matched mica from the Viking Group to a huge stockpile at Monte Alb\u00e1n, the Zapotec capital in Oaxaca. There, a single area of the North Platform held about one hundred and fifty-four kilograms. Brazil: crossed off."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later work matched mica from the Viking Group to a huge stockpile at Monte Alb\u00e1n, the Zapotec capital in Oaxaca. There, a single area of the North Platform held about one hundred and fifty-four kilograms. Brazil: crossed off.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 16.92
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A man with a tape measure kneeling on a stone patio floor measuring its width, simple documentary photograph, overcast light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next, the size. Ninety feet square would be about seven hundred and fifty square metres of mica. Armillas, who dug it, measured the whole patio at ten point four by two point eight metres. Size: crossed off."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next, the size. Ninety feet square would be about seven hundred and fifty square metres of mica. Armillas, who dug it, measured the whole patio at ten point four by two point eight metres. Size: crossed off.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 15.048
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A tidy workbench with a wire spool, a copper coil, a battery and a hand-written parts checklist with ticks, no readable text, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the real parts list. What does a power plant need? A source of energy. Conductors, usually wires. A circuit that closes. Something that uses the power. And, after years of running, wear."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the real parts list. What does a power plant need? A source of energy. Conductors, usually wires. A circuit that closes. Something that uses the power. And, after years of running, wear.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro photograph of a mica insulator sheet with a copper foil plate beside it on a workbench, with thin copper wires attached, lab light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mica does insulate. Early capacitors used it, with metal foil plates and wires to carry the charge. But mica alone is a sheet. It needs metal plates, and leads. Nothing like that was found in the Viking Group."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mica does insulate. Early capacitors used it, with metal foil plates and wires to carry the charge. But mica alone is a sheet. It needs metal plates, and leads. Nothing like that was found in the Viking Group.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 14.76
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A tiny silver bead of mercury sitting in the palm of a gloved hand, dramatic macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the mercury? Reports vary. Fifty grams, which would fit in a teaspoon. About two hundred millilitres, in another account. About four hundred grams, in a third. Not enough to power a city, however you count it."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the mercury? Reports vary. Fifty grams, which would fit in a teaspoon. About two hundred millilitres, in another account. About four hundred grams, in a third. Not enough to power a city, however you count it.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 14.256
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A cold empty dark stone chamber with bare walls and no machinery, only a few small offerings on the floor, torchlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next: any apparatus? No wires, no electrodes, no turbines, no tanks, no pipes, no burn marks, no residue: none reported. The mercury was found as drops, when soil was sieved and washed. It was in the earth, among offerings."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next: any apparatus? No wires, no electrodes, no turbines, no tanks, no pipes, no burn marks, no residue: none reported. The mercury was found as drops, when soil was sieved and washed. It was in the earth, among offerings.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 16.368
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide photograph of a modern coal fired power station chimney and cooling towers at dusk, industrial, grey sky, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real power plant leaves a footprint. A source of heat or flow, fuel, ash, repairs, a wear pattern. Nothing in the tunnel looks like that. It looks like a place where things were put down and left."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real power plant leaves a footprint. A source of heat or flow, fuel, ash, repairs, a wear pattern. Nothing in the tunnel looks like that. It looks like a place where things were put down and left.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient preserved wooden objects, dried seeds and a small clay pot of ancient corn laid out in a conservation lab, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In fact, the tunnel is full of fragile things. Wood. Seeds. Skin. A jar with eighteen-hundred-year-old corn at the bottom. A sealed room designed to hold offerings is a poor place for a machine."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In fact, the tunnel is full of fragile things. Wood. Seeds. Skin. A jar with eighteen-hundred-year-old corn at the bottom. A sealed room designed to hold offerings is a poor place for a machine.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 14.136
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A glowing vial of liquid mercury on a lab bench with a hazard safety mask beside it, cold light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the mercury works against the theory. It is toxic, and hard to handle. It was never plugged into anything. It was put in, in small amounts, and then the tunnel was closed for good."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the mercury works against the theory. It is toxic, and hard to handle. It was never plugged into anything. It was put in, in small amounts, and then the tunnel was closed for good.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 11.784
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An engineer's checklist on a clipboard with several red crosses and two green ticks, no readable text, dramatic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two ticks: the materials are real. The rest of the parts list is blank. But if it is not a machine, what is it? Archaeologists have a better answer."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two ticks: the materials are real. The rest of the parts list is blank. But if it is not a machine, what is it? Archaeologists have a better answer.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.08
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A flooded ancient underground cave with glittering water pools and stalactites reflecting torchlight, mystical, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The ritual reading. G\u00f3mez's idea: the tunnel is a map of the underworld. A dark cave, a place of creation, where the dead and the gods live. And in Mesoamerican belief, that underworld has water."
+   ]
+  ],
+  "tag": "P",
+  "ch": [
+   "V \u00b7 PART 4",
+   "The Ritual Reading",
+   "STARS \u00b7 WATER \u00b7 MIRRORS \u00b7 MAYA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The ritual reading. G\u00f3mez's idea: the tunnel is a map of the underworld. A dark cave, a place of creation, where the dead and the gods live. And in Mesoamerican belief, that underworld has water.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 14.136
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient Mesoamerican mural painting style scene of a plumed serpent among waves and shells on a temple wall, warm raking light, painted stone, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The pyramid above fits it. The Feathered Serpent temple is covered in snake heads, shells and waves. Scholars like Michael Coe and Clemency Coggins read it as the creation of the world from a watery void."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The pyramid above fits it. The Feathered Serpent temple is covered in snake heads, shells and waves. Scholars like Michael Coe and Clemency Coggins read it as the creation of the world from a watery void.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Torch-lit ancient tunnel with pyrite-studded ceiling glittering like stars and pools of silver liquid on the floor reflecting them, mysterious, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the tunnel below could be that void. Pyrite on the walls for stars. Mercury on the floor for lakes and rivers. In flickering light, the mercury would reflect those stars, like water at night."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the tunnel below could be that void. Pyrite on the walls for stars. Mercury on the floor for lakes and rivers. In flickering light, the mercury would reflect those stars, like water at night.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A Mesoamerican ceramic bowl with traces of red cinnabar pigment powder on a museum display, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And Teotihuacan already loved the mercury family of materials. Cinnabar, the red mercury ore, was ground into pigment for murals and sprinkled over graves. Liquid mercury is the same element, in a rarer form."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And Teotihuacan already loved the mercury family of materials. Cinnabar, the red mercury ore, was ground into pigment for murals and sprinkled over graves. Liquid mercury is the same element, in a rarer form.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 15.744
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A Maya jade burial mask display with a shimmering silver bowl beside it, museum case lighting, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is rare, but not unique. At the Maya city of Lamanai in Belize, a cache held about one hundred and thirty-two grams. At Cop\u00e1n in Honduras, around four to six kilograms in total. At Kaminaljuy\u00fa in Guatemala, a burial had a small pool."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is rare, but not unique. At the Maya city of Lamanai in Belize, a cache held about one hundred and thirty-two grams. At Cop\u00e1n in Honduras, around four to six kilograms in total. At Kaminaljuy\u00fa in Guatemala, a burial had a small pool.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 17.904
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a round polished mirror disc made of pyrite on a dark cloth in a museum, reflective surface showing warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even more telling: the elite loved reflective things. Pyrite mirrors. Obsidian mirrors. Mica discs inlaid in sculptures. Shine meant power, and a doorway to the other world."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even more telling: the elite loved reflective things. Pyrite mirrors. Obsidian mirrors. Mica discs inlaid in sculptures. Shine meant power, and a doorway to the other world.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A vast quiet Zapotec stone plaza on a hill with stockpiles of stones under tarps, golden hour, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And mica? The Monte Alb\u00e1n stockpile and the pattern at Teotihuacan point to controlled stores of a prized import. A rare, shining raw material moved by the rulers, then laid down in the places that mattered."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And mica? The Monte Alb\u00e1n stockpile and the pattern at Teotihuacan point to controlled stores of a prized import. A rare, shining raw material moved by the rulers, then laid down in the places that mattered.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 15.264
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Overhead photograph of an ancient Mexican elite palace courtyard with painted red walls and mica discs glittering on the lower wall, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A floor of mica under a patio is odd. But the Viking Group is an elite compound, and so is the Xalla palace. They are not clues to a hidden machine. They are signs of who held the luxury, and of what they were willing to bury."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A floor of mica under a patio is odd. But the Viking Group is an elite compound, and so is the Xalla palace. They are not clues to a hidden machine. They are signs of who held the luxury, and of what they were willing to bury.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 15.36
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of the Teotihuacan ruins at twilight with the Pyramid of the Sun and a stream of stars above, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the ritual reading has a reason for each part: a map of the underworld, water from mercury, stars from pyrite, shine from mica. Not proven. But it explains every piece without inventing a machine."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the ritual reading has a reason for each part: a map of the underworld, water from mercury, stars from pyrite, shine from mica. Not proven. But it explains every piece without inventing a machine.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 14.304
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An archaeologist in a dim storeroom looking at a shelf of unopened boxes of artifacts, only a flashlight beam, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But honesty matters. There is plenty we still don't know. Only about ten percent of the tunnel's offerings had been catalogued, when G\u00f3mez spoke to Smithsonian magazine in twenty sixteen."
+   ]
+  ],
+  "tag": "U",
+  "ch": [
+   "VI \u00b7 PART 5",
+   "What We Still Don\u2019t Know",
+   "GAPS \u00b7 TESTS \u00b7 THE SUB-CHAMBERS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But honesty matters. There is plenty we still don't know. Only about ten percent of the tunnel's offerings had been catalogued, when G\u00f3mez spoke to Smithsonian magazine in twenty sixteen.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A lab technician holding a small sealed glass vial of silver liquid up to the light, lab bench with equipment, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The amount of mercury is unclear. The source is unknown. A proper isotope study could show where it came from. A full inventory could say how it was placed. That is how you settle it, with data."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The amount of mercury is unclear. The source is unknown. A proper isotope study could show where it came from. A full inventory could say how it was placed. That is how you settle it, with data.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeologists peering down into a narrow dark shaft at the bottom of a tunnel with lamps, mysterious, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three sub-chambers beneath the end of the tunnel were still waiting to be excavated. Some hope for the tomb of a ruler. Others say the tomb is symbolic. Nobody knows until the last soil is lifted."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three sub-chambers beneath the end of the tunnel were still waiting to be excavated. Some hope for the tomb of a ruler. Others say the tomb is symbolic. Nobody knows until the last soil is lifted.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A weathered stepped stone pyramid top with missing stones and a restoration scaffold, sepia, old photograph look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the Pyramid of the Sun's mica is gone. Reportedly sold. Under the Viking Group, Armillas stopped digging before he finished. If a machine part exists, that is where it would hide. No evidence says it does."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the Pyramid of the Sun's mica is gone. Reportedly sold. Under the Viking Group, Armillas stopped digging before he finished. If a machine part exists, that is where it would hide. No evidence says it does.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A neat row of blank museum archive folders on a shelf with a single open book, soft lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is where the believers have a fair point. Not about aliens, or power plants. About the fact that Teotihuacan still hides far more than it has shown. We do not know the language, the rulers, or the real name of the city."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is where the believers have a fair point. Not about aliens, or power plants. About the fact that Teotihuacan still hides far more than it has shown. We do not know the language, the rulers, or the real name of the city.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 15.096
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A skeptical scientist in a plain room tapping a pen on a notebook while looking at a wall of blurred diagrams, no readable text, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But a gap is not a machine. A mystery does not become a power plant just because we lack the paperwork. The question is whether anything points that way. So far, nothing does."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But a gap is not a machine. A mystery does not become a power plant just because we lack the paperwork. The question is whether anything points that way. So far, nothing does.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Dark chamber with a single beam of light falling on a pool of silver liquid mercury, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is time for the debrief."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is time for the debrief.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 1.608
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Dark ancient underground stone chamber, a small bright silver pool of liquid mercury and a stack of thin shiny mica sheets on the far right edge lit by warm golden light, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Parts list complete. One last look at the evidence, and the theory."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Parts list complete. One last look at the evidence, and the theory.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 4.176
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark ancient underground stone chamber, a small bright silver pool of liquid mercury and a stack of thin shiny mica sheets on the far right edge lit by warm golden light, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the claim."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the claim.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.016
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark ancient underground stone chamber, a small bright silver pool of liquid mercury and a stack of thin shiny mica sheets on the far right edge lit by warm golden light, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Liquid mercury in a sealed tunnel, around the third century: evidence. Mica layers under the Viking Group floor: evidence. Mica from Brazil: debunked, it came from Oaxaca. Ninety feet square: debunked, ten by three metres."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Liquid mercury in a sealed tunnel, around the third century: evidence. Mica layers under the Viking Group floor: evidence. Mica from Brazil: debunked, it came from Oaxaca. Ninety feet square: debunked, ten by three metres.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 15.912
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark ancient underground stone chamber, a small bright silver pool of liquid mercury and a stack of thin shiny mica sheets on the far right edge lit by warm golden light, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Wires, circuits, any apparatus: none found. A power plant or energy device: no evidence. An underworld ritual offering: likely, though the exact purpose of the mercury is still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Wires, circuits, any apparatus: none found. A power plant or energy device: no evidence. An underworld ritual offering: likely, though the exact purpose of the mercury is still open.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a pool of liquid mercury beside a stack of mica sheets on a stone floor, warm golden light, dark background, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Not a power plant. The mercury and the mica are real, rare, and probably sacred. They were treasures laid in the dark for the underworld, not parts in a circuit. But the tunnel is not finished talking."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Not a power plant. The mercury and the mica are real, rare, and probably sacred. They were treasures laid in the dark for the underworld, not parts in a circuit. But the tunnel is not finished talking.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of an ancient craftsman's hands placing a small shining disc of mica into a clay incense burner in a workshop, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eighteen centuries ago, someone carried a silver liquid and shiny stone down into the dark. Not to switch something on. To honour the stars, and the water, below the world. That is already a wonderful story."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eighteen centuries ago, someone carried a silver liquid and shiny stone down into the dark. Not to switch something on. To honour the stars, and the water, below the world. That is already a wonderful story.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 14.112
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A glowing orb of pale light over a dark valley of snow-covered pines at night in Norway with a faint mountain ridge, moody, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a valley in Norway where mysterious glowing balls have drifted for decades. Are they plasma, UFOs, or something stranger? We put them to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a valley in Norway where mysterious glowing balls have drifted for decades. Are they plasma, UFOs, or something stranger? We put them to the test.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small pool of silver liquid mercury glowing faintly in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Do you think the mercury was water for the underworld? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Do you think the mercury was water for the underworld? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 8.688
+   }
+  ]
+ }
+]
