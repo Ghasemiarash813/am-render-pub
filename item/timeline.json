@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 26692,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 449,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a star you can see tonight that hides a secret. Right beside it sits a second star, ten thousand times fainter, lost in the glare. No eye has ever seen it. Not until eighteen sixty-two.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 13.872,
+     "start": 10,
+     "end": 427
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 431,
+   "end": 823,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And yet, a book published in nineteen seventy-six said that a people in Mali, in West Africa, had known about it for centuries. Without a telescope. Without a single instrument.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 12.0,
+     "start": 441,
+     "end": 801
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 805,
+   "end": 1242,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The explanation on offer: amphibious beings from that very star, who came down to teach them. The ancient astronaut world calls it the Sirius Mystery, and it is one of its most famous cases.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 13.488,
+     "start": 815,
+     "end": 1220
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1224,
+   "end": 1632,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we test it in a different way. We follow the claim backwards, the way you would follow a photocopy of a photocopy. Each generation loses a little. And each one adds something new.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 12.504,
+     "start": 1234,
+     "end": 1610
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1614,
+   "end": 2052,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Four generations, one star. By the end, a verdict: is it a message from the sky, or an echo from the Earth? Let's start with the original.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 9.528,
+     "start": 1624,
+     "end": 1910
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "GENERATION 0",
+    "The Original",
+    "SIRIUS A \u00b7 SIRIUS B \u00b7 1844 \u00b7 1862"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 2034,
+   "end": 2436,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Generation zero. The original. Sirius is the brightest star in our night sky, about eight and a half light years away. Every culture that could see it has told stories about it.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 12.312,
+     "start": 2044,
+     "end": 2414
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2418,
+   "end": 2893,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In eighteen forty-four, the German astronomer Friedrich Bessel noticed Sirius was wobbling across the sky. Something unseen was pulling on it. A hidden companion, he reasoned, orbiting every fifty years or so.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 14.76,
+     "start": 2428,
+     "end": 2871
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2875,
+   "end": 3305,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eighteen years later, on the last day of January eighteen sixty-two, the American telescope maker Alvan Graham Clark was testing a brand new eighteen and a half inch lens. And there it was.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 13.248,
+     "start": 2885,
+     "end": 3283
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3287,
+   "end": 3703,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A tiny white spark right beside the glare. Sirius B. It is faint, about ten thousand times dimmer than Sirius A, and it can only be seen through a good telescope, on a clear night.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 12.768,
+     "start": 3297,
+     "end": 3681
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3685,
+   "end": 4138,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What it is was only worked out later. In nineteen fifteen its spectrum showed it was hot but dim, which meant it had to be tiny. A white dwarf: about the mass of our Sun, squeezed into a ball the size of Earth.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 14.016,
+     "start": 3695,
+     "end": 4116
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 4120,
+   "end": 4511,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A teaspoon of it would weigh many tons. By the nineteen twenties, astronomers accepted it. The orbit takes about fifty years. That is the target the Dogon claim has to hit.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 11.952,
+     "start": 4130,
+     "end": 4489
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4493,
+   "end": 4942,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Remember that date. By the nineteen twenties, Sirius B was in textbooks, in magazines, and in lectures. The knowledge was public, in Europe, a quarter of a century before the Dogon story reached print.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 13.872,
+     "start": 4503,
+     "end": 4920
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4924,
+   "end": 5240,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So here is the original. A real, invisible, fifty-year companion. Now the first copy, and the strange thing about how it was made.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 9.456,
+     "start": 4934,
+     "end": 5218
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "GENERATION 1",
+    "The First Copy",
+    "GRIAULE \u00b7 DIETERLEN \u00b7 1950"
+   ],
+   "img": "ep/img/shot_14.jpg",
+   "start": 5222,
+   "end": 5671,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Generation one. A French anthropologist, Marcel Griaule, and his colleague Germaine Dieterlen. Griaule first went to Dogon country in nineteen thirty-one, and kept going back for twenty-five years.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 13.872,
+     "start": 5232,
+     "end": 5649
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5653,
+   "end": 6159,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Dogon live along the Bandiagara Escarpment, a five hundred metre sandstone cliff, about three hundred kilometres south of Timbuktu. Their villages cling to the rock, a thousand years of history and tradition.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 15.768,
+     "start": 5663,
+     "end": 6137
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 6141,
+   "end": 6630,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In late nineteen forty-six, Griaule spent thirty-three days in conversation with a blind elder named Ogotemm\u00eali, who taught him the main symbols of Dogon religion, as he had learned them from his father and grandfather.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 15.216,
+     "start": 6151,
+     "end": 6608
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6612,
+   "end": 7084,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Sirius material comes next. In nineteen fifty, Griaule and Dieterlen published a paper called A Sudanese Sirius System. It describes a star the Dogon call P\u014d tolo, the Digitaria star.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 14.664,
+     "start": 6622,
+     "end": 7062
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 7066,
+   "end": 7448,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Digitaria is a grain, a tiny one, the smallest the Dogon know. And that, the paper says, is what the star is: small, and, in their words, the heaviest thing there is.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 11.664,
+     "start": 7076,
+     "end": 7426
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 7430,
+   "end": 7826,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They said it circles Sirius in an ellipse, with Sirius at one focus. It spins on its axis. And one lap takes fifty years. To an astronomer, that sounds like a bullseye.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.12,
+     "start": 7440,
+     "end": 7804
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7808,
+   "end": 8230,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a ceremony tied to it, the Sigui, held about every sixty years. The last began in nineteen sixty-seven. A second companion, \u0118mm\u0119 Ya, the sorghum star, was named too.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 12.984,
+     "start": 7818,
+     "end": 8208
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 8212,
+   "end": 8687,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice what Griaule and Dieterlen did not claim. They did not say aliens. They did not say it was ancient. Their own words: how, without instruments, men could know this, quote, has not been settled, nor even posed.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 14.76,
+     "start": 8222,
+     "end": 8665
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8669,
+   "end": 8904,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But a scholar's careful puzzle was about to be photocopied into something much bigger. Generation two.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 6.744,
+     "start": 8679,
+     "end": 8882
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "GENERATION 2",
+    "The Bestseller",
+    "TEMPLE \u00b7 1976 \u00b7 NOMMO"
+   ],
+   "img": "ep/img/shot_23.jpg",
+   "start": 8886,
+   "end": 9338,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Generation two. Nineteen seventy-six. Robert Temple, an American writer in London, publishes The Sirius Mystery. He reads Griaule's papers and asks the one question the anthropologists left hanging.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 13.992,
+     "start": 8896,
+     "end": 9316
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 9320,
+   "end": 9761,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His answer, in four hundred pages, is aliens. Beings called the Nommo, amphibious, from the Sirius system, who landed in an ark some five thousand years ago and taught civilisation to the Earth.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 13.632,
+     "start": 9330,
+     "end": 9739
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9743,
+   "end": 10180,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In Dogon tradition, the Nommo are ancestral spirits, water beings, green, with serpent-like bodies below the waist. Temple read them as extraterrestrials, and a descending ark as a rocket.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 13.488,
+     "start": 9753,
+     "end": 10158
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 10162,
+   "end": 10624,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He tied the Dogon to ancient Egypt, to Sumer, to Greek myths. By the second edition, in nineteen ninety-eight, the subtitle promised new scientific evidence of alien contact five thousand years ago.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 14.328,
+     "start": 10172,
+     "end": 10602
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10606,
+   "end": 11020,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The book was reviewed in Time magazine. And it wore famous names: Temple said Isaac Asimov had found no mistakes in it. Asimov later said he had found it too hard to read.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 12.72,
+     "start": 10616,
+     "end": 10998
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 11002,
+   "end": 11323,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That was the second copy. And with it, a people in Mali became famous around the world for a star story that later fieldwork could not find.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 9.624,
+     "start": 11012,
+     "end": 11301
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 11305,
+   "end": 11460,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the third generation. The one most of us actually meet.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 4.08,
+     "start": 11315,
+     "end": 11438
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "M",
+   "ch": [
+    "GENERATION 3",
+    "The Echo",
+    "INTERNET \u00b7 DOCUMENTARIES \u00b7 MEMES"
+   ],
+   "img": "ep/img/shot_30.jpg",
+   "start": 11442,
+   "end": 11945,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Generation three. The internet. Search for the Dogon and you will find the claim stated as flat fact. Sirius B, fifty-year orbit, ancient knowledge. The caveats fall away. Just like a photocopy of a photocopy.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 15.672,
+     "start": 11452,
+     "end": 11923
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "none",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11927,
+   "end": 12441,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Websites and documentaries added their own touches: dates thousands of years old, Egyptian roots, lost knowledge. Those come from Temple and later writers. Griaule himself made no claim about great antiquity, or about Egypt.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 16.056,
+     "start": 11937,
+     "end": 12419
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12423,
+   "end": 12882,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Others said the Dogon could see Sirius B with the naked eye, thanks to special eyesight. There is no evidence for that, and it is physically impossible. Sirius B is far too faint, and too close to the glare.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 14.208,
+     "start": 12433,
+     "end": 12860
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12864,
+   "end": 13247,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is worth pausing on how this happens. Each retelling is clean, confident, and stripped of doubt. The original authors were more careful than almost everyone who quoted them.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 11.688,
+     "start": 12874,
+     "end": 13225
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 13229,
+   "end": 13578,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So let us rebuild the claim from the beginning and see how much is left. Which parts are checkable? Which are hits? And which are just imagination working backwards?",
+     "file": "ep/audio/s34.mp3",
+     "dur": 10.536,
+     "start": 13239,
+     "end": 13556
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13560,
+   "end": 14008,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Dogon claim, strictly, has six parts. A companion exists. It is tiny. It is heavy. It orbits Sirius. The orbit is fifty years. And Sirius has a second companion. One by one.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 13.848,
+     "start": 13570,
+     "end": 13986
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13990,
+   "end": 14457,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On paper, the first five are right. That is why this story has legs. A guess about a tiny, heavy, fifty-year companion would be a lucky guess indeed. If it was a guess. If it was Dogon. If it was old.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 14.472,
+     "start": 14000,
+     "end": 14435
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14439,
+   "end": 14644,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Those are three big ifs. Time to go back to the field, and see whether anyone else heard it.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 5.76,
+     "start": 14449,
+     "end": 14622
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "FIELD CHECK",
+    "The Restudy",
+    "VAN BEEK \u00b7 1991"
+   ],
+   "img": "ep/img/shot_38.jpg",
+   "start": 14626,
+   "end": 15081,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The first big test came in nineteen ninety-one. The Dutch anthropologist Walter van Beek, who had worked in Dogon country for years, published a paper called Dogon Restudied, in Current Anthropology.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 14.088,
+     "start": 14636,
+     "end": 15059
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 15063,
+   "end": 15489,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His question was simple. Do the Dogon of today recognise the cosmology Griaule described? He did fieldwork in the villages of Tireli and Sanga, where Griaule himself had worked.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.104,
+     "start": 15073,
+     "end": 15467
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15471,
+   "end": 15951,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He found that people did talk about a star called Sigu tolo. But they disagreed completely about which star it was. For some it was an invisible star that rises to announce the festival. For another it was Venus.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 14.928,
+     "start": 15481,
+     "end": 15929
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15933,
+   "end": 16359,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "None of his informants described Sirius as a double or triple system. None gave a fifty-year orbit, or a heavy star. Sirius, to some, was simply dana tolo, the hunter's star.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 13.128,
+     "start": 15943,
+     "end": 16337
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 16341,
+   "end": 16712,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He also found that the Sigui is scheduled by counting years, not by watching stars. The star connection was not how the Dogon themselves kept the calendar.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.28,
+     "start": 16351,
+     "end": 16690
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16694,
+   "end": 17092,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then the line that made the field famous. Quote: all agree, however, that they learned about the star from Griaule. End quote. On that account, the star story came from the visitor.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 12.168,
+     "start": 16704,
+     "end": 17070
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 17074,
+   "end": 17562,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The reaction was fierce. Griaule's daughter, the anthropologist Genevi\u00e8ve Calame-Griaule, replied that van Beek had not gone through the proper steps to be told Dogon secrets. Others called his dismissal political.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 15.168,
+     "start": 17084,
+     "end": 17540
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 17544,
+   "end": 17998,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So we have two honest fieldworkers who disagree. One heard a deep secret, once. The other could not find it again. Both cannot be a clean photocopy. So how could a modern fact end up in an old story?",
+     "file": "ep/audio/s45.mp3",
+     "dur": 14.04,
+     "start": 17554,
+     "end": 17976
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "THE LEAK",
+    "How It Got There",
+    "1893 \u00b7 SCHOOLS \u00b7 THE FIELDWORK"
+   ],
+   "img": "ep/img/shot_46.jpg",
+   "start": 17980,
+   "end": 18469,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Route one: people. The Dogon were among the last in West Africa to lose their independence to France. Colonial officers, teachers, missionaries and traders moved through the region. Any of them could have talked about the stars.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 15.216,
+     "start": 17990,
+     "end": 18447
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 18451,
+   "end": 18950,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Route two: an expedition. Astronomer Noah Brosch points to the French eclipse expedition of eighteen ninety-three, led by Henri Deslandres, which spent five weeks in the field. It is reasonable to think there was contact.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 15.552,
+     "start": 18461,
+     "end": 18928
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18932,
+   "end": 19308,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Route three: travellers. James Oberg pointed out that the Dogon were not an isolated people. A single member could have picked up the idea abroad, and carried it home.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 11.448,
+     "start": 18942,
+     "end": 19286
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 19290,
+   "end": 19852,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Route four, and the quietest: the science press. In the nineteen twenties, Sirius B was in the news. Several observers even claimed to see a third star beside it. Oberg noted that the Dogon version looks like what Europe was guessing in the late nineteen twenties.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 17.64,
+     "start": 19300,
+     "end": 19830
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 19834,
+   "end": 20280,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Route five: the interview itself. Critics note that the Sirius account rested on a few elders, a translator, and an investigator who wanted African thought to be taken as seriously as Greek philosophy.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 13.8,
+     "start": 19844,
+     "end": 20258
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 20262,
+   "end": 20726,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Imagine the conversation. A friendly visitor shows interest in the sky. He asks if there is a small star near the big one. An elder, being polite, says yes. And later, in print, that becomes ancient wisdom.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 14.4,
+     "start": 20272,
+     "end": 20704
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 20708,
+   "end": 21150,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Anthropologists call it contamination: when the researcher's questions shape the answers. It is no accusation of fraud. Van Beek proposed a mix of cultures, a bricolage, rather than a lie.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 13.656,
+     "start": 20718,
+     "end": 21128
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "THE TEST",
+    "Sirius C",
+    "EMM\u0118 YA \u00b7 1995 \u00b7 2008"
+   ],
+   "img": "ep/img/shot_53.jpg",
+   "start": 21132,
+   "end": 21545,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Back to the stars. Temple set himself a test. If a Sirius C is ever found, and it is a red dwarf, he wrote, I will conclude that the Dogon information has been fully validated.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 12.696,
+     "start": 21142,
+     "end": 21523
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 21527,
+   "end": 21951,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen ninety-five, two French astronomers studied tiny wobbles in the Sirius pair. A third body orbiting every six years could not be ruled out. A Sirius C was still possible.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 13.056,
+     "start": 21537,
+     "end": 21929
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 21933,
+   "end": 22399,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then in two thousand eight, high-contrast infrared imaging looked closely. The result: the chance of a third star in the Sirius system is now low, though the space near Sirius A could not be fully checked.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 14.448,
+     "start": 21943,
+     "end": 22377
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 22381,
+   "end": 22830,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That study pointed to a faint brown dwarf, not a red dwarf. And astronomer Jay Holberg notes such a body would be far too faint, and too close to Sirius A, to explain the nineteen twenties sightings.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 13.896,
+     "start": 22391,
+     "end": 22808
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 22812,
+   "end": 23334,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "As for the aliens: Ian Ridpath, in nineteen seventy-eight, showed the Sirius system is a hostile address. Sirius B once swelled into a red giant, which would have wrecked any planets. Stable orbits in the habitable zone do not exist.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 16.32,
+     "start": 22822,
+     "end": 23312
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 23316,
+   "end": 23602,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the test came back, and not in the Dogon claim's favour. Time for the debrief. Evidence on one side, theory on the other.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 8.448,
+     "start": 23326,
+     "end": 23580
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 23584,
+   "end": 23773,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The scorecard. We rate every part of the claim, from the star itself to the aliens.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 5.232,
+     "start": 23594,
+     "end": 23751
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 23755,
+   "end": 24313,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A white dwarf companion to Sirius, orbiting every fifty years: evidence, fully confirmed. The Dogon told Griaule about a companion star: partly, a claim reported by one team of researchers. Older than eighteen sixty-two: no evidence.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 17.52,
+     "start": 23765,
+     "end": 24291
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 24295,
+   "end": 24824,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Confirmed by later fieldwork: debunked. European contact as the source: likely, never proven, still the best fit. Amphibious aliens from Sirius: no evidence. A second companion, Sirius C: unverified, and probably not there.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 16.56,
+     "start": 24305,
+     "end": 24802
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 24806,
+   "end": 25109,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three generations of copies, and each one added certainty the original never had. That is what a photocopy of a photocopy does.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 9.024,
+     "start": 24816,
+     "end": 25087
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 25091,
+   "end": 25499,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Contaminated. The star is real. The mystery is not that the Dogon knew it, but that a story about it was recorded, retold, and gradually turned into proof of aliens.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 12.504,
+     "start": 25101,
+     "end": 25477
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 25481,
+   "end": 25980,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the Dogon deserve better than a footnote in someone else's alien story. They are a real people with a rich cosmology, masks, music, and a sixty-year festival. The sky was always important to them. That is enough.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 15.552,
+     "start": 25491,
+     "end": 25958
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 25962,
+   "end": 26325,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: March nineteen ninety-seven. Thousands of people across Arizona see an enormous V of lights glide silently over their cities. What was it?",
+     "file": "ep/audio/s65.mp3",
+     "dur": 11.016,
+     "start": 25972,
+     "end": 26303
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 26307,
+   "end": 26617,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which generation of the story do you think lost the most? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 9.264,
+     "start": 26317,
+     "end": 26595
+    }
+   ]
+  }
+ ]
+}
