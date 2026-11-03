@@ -1,0 +1,1368 @@
+{
+ "fps": 30,
+ "total": 23840,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 212,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look at this cup. It is sixteen hundred years old, and it is green. Dull, milky, jade green.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 6.0,
+     "start": 10,
+     "end": 190
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 194,
+   "end": 355,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now move the light behind it. Same cup. Same glass. Blood red.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 4.296,
+     "start": 204,
+     "end": 333
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 337,
+   "end": 727,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For years, people called it impossible. Some still say the Romans had a lost science, or a gift from somewhere else, because the trick inside this glass is nanotechnology.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 11.904,
+     "start": 347,
+     "end": 705
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 709,
+   "end": 1037,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight we examine it the way the cup asks to be examined. Twice. In front light, the story people tell. In back light, what the evidence shows.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 9.84,
+     "start": 719,
+     "end": 1015
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1019,
+   "end": 1349,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nine questions. A scorecard. And a verdict on the Roman nanotech mystery. Lights on.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 5.928,
+     "start": 1029,
+     "end": 1207
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 THE OBJECT",
+    "Front Light, Back Light",
+    "GREEN \u00b7 RED \u00b7 GLASS \u00b7 4TH CENTURY"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1331,
+   "end": 1675,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question one. What exactly is it? Front light. It sits in the British Museum, in Room forty-one, registered as nineteen fifty-eight, twelve oh two, one.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 10.392,
+     "start": 1341,
+     "end": 1653
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 1657,
+   "end": 2094,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is about sixteen centimetres tall and thirteen wide, and it weighs around seven hundred grams. It was made in the fourth century A D, probably between about two ninety and three twenty-five.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.488,
+     "start": 1667,
+     "end": 2072
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2076,
+   "end": 2535,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is a cage cup, a diatretum. The decoration was not stuck on. It was cut and ground out of one thick block of glass, until the figures stood free, held to the wall by tiny glass bridges.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 14.232,
+     "start": 2086,
+     "end": 2513
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2517,
+   "end": 2942,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Back light. The colour is the real puzzle. In reflected light it looks like jade. With light passing through it, it turns translucent ruby. Glass that does this is called dichroic, two-coloured.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.08,
+     "start": 2527,
+     "end": 2920
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 2924,
+   "end": 3284,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A handful of other Roman glasses change colour, but only as fragments, and none as strongly. This is the only complete Roman object made of this glass.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 10.92,
+     "start": 2934,
+     "end": 3262
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3266,
+   "end": 3561,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One historian called it the most spectacular glass of the period that we know existed. So who made it, and what does its picture say?",
+     "file": "ep/audio/s11.mp3",
+     "dur": 8.76,
+     "start": 3276,
+     "end": 3539
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "L",
+   "ch": [
+    "II \u00b7 THE KING IN THE VINE",
+    "Myth and Owners",
+    "DIONYSUS \u00b7 ROTHSCHILD \u00b7 1958"
+   ],
+   "img": "ep/img/shot_12.jpg",
+   "start": 3543,
+   "end": 4037,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question two. Front light: the story on the surface. This is Lycurgus, a mythical king of Thrace, from a legend already told in Homer's Iliad. He attacked Ambrosia, a follower of the wine god Dionysus.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 15.384,
+     "start": 3553,
+     "end": 4015
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "none",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4019,
+   "end": 4414,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "She called on Mother Earth and became a vine, and the vine coiled around the king and held him. On the cup, Dionysus, his panther, Pan and a satyr with a rock close in on him.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.096,
+     "start": 4029,
+     "end": 4392
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4396,
+   "end": 4867,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here is a detail you only see in back light. The king's body is cut from a patch of glass with a slightly different colour, more violet. The carver used it, so the king's rage glows hotter than everything around him.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 14.616,
+     "start": 4406,
+     "end": 4845
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4849,
+   "end": 5334,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some scholars think the scene was political, a nod to the emperor Constantine defeating his rival Licinius in three twenty-four. Others think green turning red meant grapes ripening, a cup for feasts of the wine god.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 15.096,
+     "start": 4859,
+     "end": 5312
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5316,
+   "end": 5767,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Its early history is blank. It first appears in print in eighteen forty-five. The Rothschild family owned it by eighteen fifty-seven, when a visiting art expert called it barbaric and debased.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 13.944,
+     "start": 5326,
+     "end": 5745
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5749,
+   "end": 6141,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen fifty-eight Victor, Lord Rothschild, sold it to the British Museum for twenty thousand pounds. By then, experts had a stranger question. Was it even glass?",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.0,
+     "start": 5759,
+     "end": 6119
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III \u00b7 GLASS OR JADE?",
+    "A Gem That Isn't",
+    "1950 \u00b7 MINERALOGY \u00b7 X-RAYS"
+   ],
+   "img": "ep/img/shot_18.jpg",
+   "start": 6123,
+   "end": 6455,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question three. Front light: it looks like stone. Until the first full study in nineteen fifty, nobody was certain it was glass and not a gemstone.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.984,
+     "start": 6133,
+     "end": 6433
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6437,
+   "end": 6817,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It really does resemble jade, or opal. Romans prized cups carved from semi-precious stone, and the finest glasscutters borrowed their skills from gem engravers.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 11.568,
+     "start": 6447,
+     "end": 6795
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6799,
+   "end": 7209,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Back light. A mineralogist at the Natural History Museum, F A Claringbull, concluded it was glass, not opal or jade. In nineteen fifty-nine, X-ray diffraction confirmed it.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 12.6,
+     "start": 6809,
+     "end": 7187
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7191,
+   "end": 7527,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The same year, a tiny sample went to the research labs of the General Electric Company in Wembley. The answer came back surprisingly ordinary.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 10.104,
+     "start": 7201,
+     "end": 7505
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7509,
+   "end": 7927,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Soda-lime-silica glass. The same basic recipe as most Roman glass, and as your window or your bottle. So the magic was not in the glass. It was in something hidden inside it.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 12.84,
+     "start": 7519,
+     "end": 7905
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": [
+    "IV \u00b7 GOLD IN THE GLASS",
+    "Parts Per Million",
+    "40 PPM GOLD \u00b7 300 PPM SILVER"
+   ],
+   "img": "ep/img/shot_23.jpg",
+   "start": 7909,
+   "end": 8250,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question four. What is hiding inside? Front light: the popular version says the Romans ground gold and silver into dust and mixed it into the glass.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.272,
+     "start": 7919,
+     "end": 8228
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8232,
+   "end": 8621,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Back light. In the nineteen sixties, Robert Brill of the Corning Museum of Glass, working with the G E C team, analysed the cup and made experimental melts of his own.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 11.88,
+     "start": 8242,
+     "end": 8599
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8603,
+   "end": 8939,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The colour was linked to gold and silver, but in astonishingly tiny amounts. About forty parts per million of gold, and about three hundred of silver.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 10.128,
+     "start": 8613,
+     "end": 8917
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8921,
+   "end": 9421,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is roughly fifteen grams of gold spread through a bathtub full of glass. No Roman could weigh that out directly. More likely, a larger dose was added to a big melt, and then diluted again and again with plain glass.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 15.6,
+     "start": 8931,
+     "end": 9399
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9403,
+   "end": 9767,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And adding the metals was not enough. Brill found the glass also had to be heat treated, under the right chemical conditions, so the metal could gather into tiny particles.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.064,
+     "start": 9413,
+     "end": 9745
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9749,
+   "end": 10031,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Too little heat, no colour. Too much, the wrong colour. The result depends on temperature, time, and even the air in the furnace.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 8.304,
+     "start": 9759,
+     "end": 10009
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10013,
+   "end": 10321,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But nobody had seen the particles yet. Their instruments could not prove they were there. That took another twenty years, and a beam of electrons.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 9.168,
+     "start": 10023,
+     "end": 10299
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "V \u00b7 UNDER THE BEAM",
+    "Seeing the Invisible",
+    "TEM \u00b7 1990 \u00b7 70 NANOMETRES"
+   ],
+   "img": "ep/img/shot_30.jpg",
+   "start": 10303,
+   "end": 10689,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question five. What do the particles look like? In the late nineteen eighties, David Barber and Ian Freestone put a tiny fragment of the cup under a transmission electron microscope.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 11.784,
+     "start": 10313,
+     "end": 10667
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10671,
+   "end": 10961,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And there they were. Specks of metal, typically around seventy nanometres across. Far too small for any ordinary microscope.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 8.568,
+     "start": 10681,
+     "end": 10939
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 10943,
+   "end": 11206,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some reports put them as small as fifty. Either way, less than a thousandth the size of a grain of table salt.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 7.68,
+     "start": 10953,
+     "end": 11184
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11188,
+   "end": 11583,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They are not pure gold. They are an alloy, about seven parts silver to three parts gold, with around ten percent copper. Alongside them, tiny crystals of ordinary salt.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.072,
+     "start": 11198,
+     "end": 11561
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11565,
+   "end": 11907,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At that size, something strange happens. The particles are close to the wavelength of light. Their electrons ripple together, a surface plasmon resonance.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 10.32,
+     "start": 11575,
+     "end": 11885
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 11889,
+   "end": 12281,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Shine light through, and the particles soak up and scatter blue and green, so only red gets out. Bounce light off, and the scattered green comes back to your eye. One cup, two colours.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 12.0,
+     "start": 11899,
+     "end": 12259
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12263,
+   "end": 12618,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the mechanism is solved. Real nanoparticles, in a Roman cup. That is the fact that launched a thousand headlines. But how did the cup itself get made?",
+     "file": "ep/audio/s36.mp3",
+     "dur": 10.752,
+     "start": 12273,
+     "end": 12596
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VI \u00b7 THE CUTTER'S WHEEL",
+    "Made by Hand",
+    "WHEELS \u00b7 ABRASIVE \u00b7 MONTHS"
+   ],
+   "img": "ep/img/shot_37.jpg",
+   "start": 12600,
+   "end": 12901,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question six. Front light: some claim the cup is too perfect for ancient tools. Back light. The British Museum looked for tool marks.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 8.952,
+     "start": 12610,
+     "end": 12879
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 12883,
+   "end": 13287,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "When the metal foot was removed, a loose fragment of the original openwork was found. Under the microscope, it carries faint marks of grinding and polishing everywhere, even underneath.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 12.384,
+     "start": 12893,
+     "end": 13265
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 13269,
+   "end": 13712,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Crescent-shaped cuts point to rotating wheels of copper, bronze or iron, fed with a gritty slurry of quartz or emery. Pliny even mentions slivers of diamond used for cutting hard stones.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.68,
+     "start": 13279,
+     "end": 13690
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 13694,
+   "end": 14056,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It began as a heavy, thick-walled blank. In the nineteen sixties, the Corning Glass Works even made a replica of one. Then a master cutter removed most of it.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 10.968,
+     "start": 13704,
+     "end": 14034
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14038,
+   "end": 14426,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even with modern power tools, a cage cup like this takes a great deal of time. Behind the figures, the inside was hollowed out too, so the light passes through them evenly.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 11.856,
+     "start": 14048,
+     "end": 14404
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14408,
+   "end": 14788,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It may have passed through three workshops. Raw glass from Egypt or Palestine, a specialist who made the coloured blank, and the cutters. Skill, yes. Mystery tools, no.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.592,
+     "start": 14418,
+     "end": 14766
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "VII \u00b7 RECIPE OR JACKPOT?",
+    "Did They Know?",
+    "HIT AND MISS \u00b7 ONE CENTURY"
+   ],
+   "img": "ep/img/shot_43.jpg",
+   "start": 14770,
+   "end": 15069,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question seven. This is the heart of the case. Did the Romans know what they were doing? Front light: they must have, the mixture is too precise.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 8.88,
+     "start": 14780,
+     "end": 15047
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 15051,
+   "end": 15477,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Back light. The few other Roman dichroic pieces are all over the place. One fragment turns from olive green to reddish amber. Another from buff to brown, coloured mostly by silver.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 13.104,
+     "start": 15061,
+     "end": 15455
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 15459,
+   "end": 15915,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Freestone and his colleagues called the process hit and miss. The makers may not even have known gold was the key. It could have come in as a little gold in silver, or from scraps of gold leaf left in the workshop.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 14.112,
+     "start": 15469,
+     "end": 15893
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 15897,
+   "end": 16315,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Sheffield team's new replication found the colour shifts with where the glass sits in the furnace. Freestone's verdict: the Romans could hardly control it. With this cup, they hit the jackpot.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 12.84,
+     "start": 15907,
+     "end": 16293
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 16297,
+   "end": 16695,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Yet they valued it. A letter said to be from the emperor Hadrian mentions parti-coloured cups that change colour, a gift from a temple priest, to be used at banquets on feast days.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 12.192,
+     "start": 16307,
+     "end": 16673
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16677,
+   "end": 17126,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then it stopped. The trick seems to have been used for only about a century. Making red glass with gold did not become routine until the seventeenth century, credited to the German chemist Johann Kunckel.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.872,
+     "start": 16687,
+     "end": 17104
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 17108,
+   "end": 17508,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A recipe nobody understood, controlled by nobody, lost within a few generations. That is not how a secret super-science behaves. It is how a lucky craft behaves.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 12.24,
+     "start": 17118,
+     "end": 17486
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VIII \u00b7 REBIRTH",
+    "Doing It Again",
+    "1856 \u00b7 2013 \u00b7 2026"
+   ],
+   "img": "ep/img/shot_50.jpg",
+   "start": 17490,
+   "end": 17897,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question eight. Has anyone done it again? In eighteen fifty-six, Michael Faraday, in the basement of the Royal Institution, accidentally made a ruby red liquid while thinning gold leaf.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 12.48,
+     "start": 17500,
+     "end": 17875
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 17879,
+   "end": 18304,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He realised it was full of gold particles too small to see. Some of his bottles still survive, and a laser through them still shows his cone of light, more than a hundred and fifty years later.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 13.08,
+     "start": 17889,
+     "end": 18282
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 18286,
+   "end": 18757,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In twenty thirteen, Gang Logan Liu's team at the University of Illinois coated billions of tiny wells on a plastic chip with gold or silver nanoparticles. Billions of miniature Lycurgus cups.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 14.616,
+     "start": 18296,
+     "end": 18735
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 18739,
+   "end": 19139,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Fill them with different liquids and the colour changes. Water, light green. Oil, red. Their prototype was a hundred times more sensitive to salt than similar commercial sensors.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 12.264,
+     "start": 18749,
+     "end": 19117
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 19121,
+   "end": 19483,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In twenty twenty, Dutch researchers made a printable plastic that switches green to red the same way, in what they called the quest for 3D printing the Lycurgus cup.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 10.992,
+     "start": 19131,
+     "end": 19461
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 19465,
+   "end": 19947,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And in October twenty twenty-six, the University of Sheffield announced it had recreated the effect in glass, using a recipe derived from a Roman fragment. A glass artist, Elliot Walker, built a sculpture from it.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 15.0,
+     "start": 19475,
+     "end": 19925
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 19929,
+   "end": 20296,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Freestone called it more ambitious and more precise than the nineteen sixties attempt. The technician who made it, Lisa Hollands, put it simply. To me, it's magic.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 11.16,
+     "start": 19939,
+     "end": 20274
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "IX \u00b7 THE ALIEN QUESTION",
+    "Out of Place?",
+    "CLAIM \u00b7 TEST \u00b7 RESULT"
+   ],
+   "img": "ep/img/shot_57.jpg",
+   "start": 20278,
+   "end": 20704,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question nine. The alien question. The claim: a fourth-century cup using nanotechnology is out of place, so the knowledge must have come from visitors, or a lost advanced civilisation.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 13.104,
+     "start": 20288,
+     "end": 20682
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 20686,
+   "end": 21122,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Online, the story has grown. Viral posts call it Greek, from Sparta, with mysterious powers. A fact check by A F P answered: it is not from Sparta, and the technology has been explained.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 13.44,
+     "start": 20696,
+     "end": 21100
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 21104,
+   "end": 21521,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Test the alien idea against the evidence. Known glass. Known furnaces. Known wheels. Results that varied piece to piece, then vanished. Advanced visitors would not need luck.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 12.816,
+     "start": 21114,
+     "end": 21499
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VERDICT",
+    "The Scorecard",
+    "FRONT LIGHT VS BACK LIGHT"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 21503,
+   "end": 21620,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Time to score the Lycurgus cup.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 2.808,
+     "start": 21513,
+     "end": 21598
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 21602,
+   "end": 22056,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Real Roman glass, fourth century: evidence. Gold and silver nanoparticles inside: evidence. Cut by hand on lapidary wheels: evidence. A deliberate, understood recipe: unlikely.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 14.064,
+     "start": 21612,
+     "end": 22034
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 22038,
+   "end": 22428,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hit-and-miss process, lost after a century: likely. A real Roman nanotechnology, by result: partly true. Alien or lost advanced science: no evidence.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 11.904,
+     "start": 22048,
+     "end": 22406
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 22410,
+   "end": 22919,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Case closed, and the cup keeps its glow. Roman nanotechnology? By result, yes. By understanding, no. Human glassmakers made particles they could never see, and a master cutter turned their lucky batch into a masterpiece.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 15.888,
+     "start": 22420,
+     "end": 22897
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 22901,
+   "end": 23247,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Somewhere, sixteen centuries ago, someone held this glass up to a lamp and watched it turn red. They did not know why. We only found out in nineteen ninety.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 10.44,
+     "start": 22911,
+     "end": 23225
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 23229,
+   "end": 23504,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: an Egyptian temple wall that seems to show a helicopter. Carved three thousand years ago, or carved twice?",
+     "file": "ep/audio/s65.mp3",
+     "dur": 8.088,
+     "start": 23239,
+     "end": 23482
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 23486,
+   "end": 23765,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Green or red, which story do you believe? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 8.208,
+     "start": 23496,
+     "end": 23743
+    }
+   ]
+  }
+ ]
+}

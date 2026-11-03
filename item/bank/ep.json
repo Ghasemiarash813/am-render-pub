@@ -1,0 +1,1438 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Museum photograph of an ancient Roman glass cage cup about sixteen centimetres tall, a deep rounded beaker shape, its outside covered in a carved openwork relief of human figures tangled in twisting grape vines standing slightly off the glass wall, a thin ornate gilded metal rim band and a gilded openwork vine-leaf metal foot, the glass an opaque milky jade green, lit from the front, on a black plinth in a dark gallery, soft spotlight from the front, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look at this cup. It is sixteen hundred years old, and it is green. Dull, milky, jade green."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look at this cup. It is sixteen hundred years old, and it is green. Dull, milky, jade green.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 6.0
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Museum photograph of an ancient Roman glass cage cup about sixteen centimetres tall, a deep rounded beaker shape, its outside covered in a carved openwork relief of human figures tangled in twisting grape vines standing slightly off the glass wall, a thin ornate gilded metal rim band and a gilded openwork vine-leaf metal foot, the glass glowing a translucent deep ruby red, lit from inside and behind, on a black plinth in a dark gallery, the same cup now glowing like an ember, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now move the light behind it. Same cup. Same glass. Blood red."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now move the light behind it. Same cup. Same glass. Blood red.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 4.296
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a mysterious robed figure handing a glowing red glass cup to a Roman emperor in a dark marble hall, beams of light from above, epic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For years, people called it impossible. Some still say the Romans had a lost science, or a gift from somewhere else, because the trick inside this glass is nanotechnology."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For years, people called it impossible. Some still say the Romans had a lost science, or a gift from somewhere else, because the trick inside this glass is nanotechnology.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 11.904
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A desk lamp being switched between two positions in a dark laboratory, one beam green-tinted and one red-tinted, crossing over an empty black table, moody photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we examine it the way the cup asks to be examined. Twice. In front light, the story people tell. In back light, what the evidence shows."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we examine it the way the cup asks to be examined. Twice. In front light, the story people tell. In back light, what the evidence shows.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of glowing ruby red ancient glass with tiny sparkling points deep inside, dark background, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nine questions. A scorecard. And a verdict on the Roman nanotech mystery. Lights on."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nine questions. A scorecard. And a verdict on the Roman nanotech mystery. Lights on.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 5.928
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide photograph of a grand classical museum gallery at night with a single glass display case glowing in the centre, dark marble floor, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question one. What exactly is it? Front light. It sits in the British Museum, in Room forty-one, registered as nineteen fifty-eight, twelve oh two, one."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 THE OBJECT",
+   "Front Light, Back Light",
+   "GREEN \u00b7 RED \u00b7 GLASS \u00b7 4TH CENTURY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question one. What exactly is it? Front light. It sits in the British Museum, in Room forty-one, registered as nineteen fifty-eight, twelve oh two, one.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 10.392
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close museum photograph of an ancient Roman glass cage cup about sixteen centimetres tall, a deep rounded beaker shape, its outside covered in a carved openwork relief of human figures tangled in twisting grape vines standing slightly off the glass wall, a thin ornate gilded metal rim band and a gilded openwork vine-leaf metal foot, the glass an opaque milky jade green, lit from the front, three-quarter view, black background, crisp studio light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is about sixteen centimetres tall and thirteen wide, and it weighs around seven hundred grams. It was made in the fourth century A D, probably between about two ninety and three twenty-five."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is about sixteen centimetres tall and thirteen wide, and it weighs around seven hundred grams. It was made in the fourth century A D, probably between about two ninety and three twenty-five.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Extreme close-up of carved openwork glass relief on an ancient cup, figures and vine stems standing proud of the wall joined by tiny glass bridges, jade green glass, raking light, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is a cage cup, a diatretum. The decoration was not stuck on. It was cut and ground out of one thick block of glass, until the figures stood free, held to the wall by tiny glass bridges."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is a cage cup, a diatretum. The decoration was not stuck on. It was cut and ground out of one thick block of glass, until the figures stood free, held to the wall by tiny glass bridges.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Back-lit close-up of carved figures on an ancient Roman glass cup glowing deep ruby red, vine tendrils glowing orange-red, dark background, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Back light. The colour is the real puzzle. In reflected light it looks like jade. With light passing through it, it turns translucent ruby. Glass that does this is called dichroic, two-coloured."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Back light. The colour is the real puzzle. In reflected light it looks like jade. With light passing through it, it turns translucent ruby. Glass that does this is called dichroic, two-coloured.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.08
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small dark shard of ancient glass on black velvet in a museum storeroom under a magnifying lamp, olive green surface, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A handful of other Roman glasses change colour, but only as fragments, and none as strongly. This is the only complete Roman object made of this glass."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A handful of other Roman glasses change colour, but only as fragments, and none as strongly. This is the only complete Roman object made of this glass.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Museum photograph of an ancient Roman glass cage cup about sixteen centimetres tall, a deep rounded beaker shape, its outside covered in a carved openwork relief of human figures tangled in twisting grape vines standing slightly off the glass wall, a thin ornate gilded metal rim band and a gilded openwork vine-leaf metal foot, the glass glowing a translucent deep ruby red, lit from inside and behind, slowly glowing in darkness, wide shot with deep black space around it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One historian called it the most spectacular glass of the period that we know existed. So who made it, and what does its picture say?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One historian called it the most spectacular glass of the period that we know existed. So who made it, and what does its picture say?",
+    "file": "ep/audio/s11.mp3",
+    "dur": 8.76
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a carved glass relief of a muscular bearded king tangled and bound by thick twisting grapevines, ancient Roman glass art, jade green glass, dramatic raking light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question two. Front light: the story on the surface. This is Lycurgus, a mythical king of Thrace, from a legend already told in Homer's Iliad. He attacked Ambrosia, a follower of the wine god Dionysus."
+   ]
+  ],
+  "tag": "L",
+  "ch": [
+   "II \u00b7 THE KING IN THE VINE",
+   "Myth and Owners",
+   "DIONYSUS \u00b7 ROTHSCHILD \u00b7 1958"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question two. Front light: the story on the surface. This is Lycurgus, a mythical king of Thrace, from a legend already told in Homer's Iliad. He attacked Ambrosia, a follower of the wine god Dionysus.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 15.384
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient Roman style painting of a woman transforming into a twisting green grapevine that wraps around an angry bearded king, a satyr raising a rock, a panther and a young god with a staff watching, fresco style, dramatic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "She called on Mother Earth and became a vine, and the vine coiled around the king and held him. On the cup, Dionysus, his panther, Pan and a satyr with a rock close in on him."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "She called on Mother Earth and became a vine, and the vine coiled around the king and held him. On the cup, Dionysus, his panther, Pan and a satyr with a rock close in on him.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a carved glass figure of a muscular man whose torso glows slightly more violet than the surrounding red glass, back-lit ancient cup relief, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here is a detail you only see in back light. The king's body is cut from a patch of glass with a slightly different colour, more violet. The carver used it, so the king's rage glows hotter than everything around him."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here is a detail you only see in back light. The king's body is cut from a patch of glass with a slightly different colour, more violet. The carver used it, so the king's rage glows hotter than everything around him.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 14.616
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Portrait photograph of a 4th century Roman emperor's marble bust in a dim museum, laurel wreath, stern face, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some scholars think the scene was political, a nod to the emperor Constantine defeating his rival Licinius in three twenty-four. Others think green turning red meant grapes ripening, a cup for feasts of the wine god."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some scholars think the scene was political, a nod to the emperor Constantine defeating his rival Licinius in three twenty-four. Others think green turning red meant grapes ripening, a cup for feasts of the wine god.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 15.096
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A grand 19th century Victorian collector's library at night with glass display cabinets, a small greenish cup glowing on a velvet stand, oil lamps, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its early history is blank. It first appears in print in eighteen forty-five. The Rothschild family owned it by eighteen fifty-seven, when a visiting art expert called it barbaric and debased."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its early history is blank. It first appears in print in eighteen forty-five. The Rothschild family owned it by eighteen fifty-seven, when a visiting art expert called it barbaric and debased.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.944
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Museum photograph of an ancient Roman glass cage cup about sixteen centimetres tall, a deep rounded beaker shape, its outside covered in a carved openwork relief of human figures tangled in twisting grape vines standing slightly off the glass wall, a thin ornate gilded metal rim band and a gilded openwork vine-leaf metal foot, the glass an opaque milky jade green, lit from the front, resting on a velvet cushion inside an old wooden display case, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen fifty-eight Victor, Lord Rothschild, sold it to the British Museum for twenty thousand pounds. By then, experts had a stranger question. Was it even glass?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen fifty-eight Victor, Lord Rothschild, sold it to the British Museum for twenty thousand pounds. By then, experts had a stranger question. Was it even glass?",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.0
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1950s museum scientist in a white coat examining a small green cup with a loupe at a cluttered wooden desk, mineral samples on shelves, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question three. Front light: it looks like stone. Until the first full study in nineteen fifty, nobody was certain it was glass and not a gemstone."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 GLASS OR JADE?",
+   "A Gem That Isn't",
+   "1950 \u00b7 MINERALOGY \u00b7 X-RAYS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question three. Front light: it looks like stone. Until the first full study in nineteen fifty, nobody was certain it was glass and not a gemstone.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.984
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A polished block of green jade and a piece of milky opal side by side on a black velvet tray in a museum mineral room, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It really does resemble jade, or opal. Romans prized cups carved from semi-precious stone, and the finest glasscutters borrowed their skills from gem engravers."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It really does resemble jade, or opal. Romans prized cups carved from semi-precious stone, and the finest glasscutters borrowed their skills from gem engravers.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Vintage 1950s X-ray diffraction laboratory with a bulky metal instrument and a glowing tube, dark room, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Back light. A mineralogist at the Natural History Museum, F A Claringbull, concluded it was glass, not opal or jade. In nineteen fifty-nine, X-ray diffraction confirmed it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Back light. A mineralogist at the Natural History Museum, F A Claringbull, concluded it was glass, not opal or jade. In nineteen fifty-nine, X-ray diffraction confirmed it.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 12.6
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1950s industrial research laboratory with glass furnaces, chemical glassware and a technician in a lab coat, black and white film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The same year, a tiny sample went to the research labs of the General Electric Company in Wembley. The answer came back surprisingly ordinary."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The same year, a tiny sample went to the research labs of the General Electric Company in Wembley. The answer came back surprisingly ordinary.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 10.104
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Ordinary modern clear glass bottles and a window pane lit by soft daylight on a table, simple still life, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Soda-lime-silica glass. The same basic recipe as most Roman glass, and as your window or your bottle. So the magic was not in the glass. It was in something hidden inside it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Soda-lime-silica glass. The same basic recipe as most Roman glass, and as your window or your bottle. So the magic was not in the glass. It was in something hidden inside it.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of fine gold dust and silver flakes on a dark slate surface, glittering, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question four. What is hiding inside? Front light: the popular version says the Romans ground gold and silver into dust and mixed it into the glass."
+   ]
+  ],
+  "tag": "M",
+  "ch": [
+   "IV \u00b7 GOLD IN THE GLASS",
+   "Parts Per Million",
+   "40 PPM GOLD \u00b7 300 PPM SILVER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question four. What is hiding inside? Front light: the popular version says the Romans ground gold and silver into dust and mixed it into the glass.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1960s glass chemist in a lab coat pouring glowing molten glass from a small crucible in a laboratory, sparks, dramatic light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Back light. In the nineteen sixties, Robert Brill of the Corning Museum of Glass, working with the G E C team, analysed the cup and made experimental melts of his own."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Back light. In the nineteen sixties, Robert Brill of the Corning Museum of Glass, working with the G E C team, analysed the cup and made experimental melts of his own.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.88
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Extreme macro photograph of a single tiny gold speck inside a large clear block of glass, black background, dramatic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The colour was linked to gold and silver, but in astonishingly tiny amounts. About forty parts per million of gold, and about three hundred of silver."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The colour was linked to gold and silver, but in astonishingly tiny amounts. About forty parts per million of gold, and about three hundred of silver.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An old empty cast iron bathtub in a dark stone room next to a tiny pile of gold dust on a wooden stool, dramatic still life, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is roughly fifteen grams of gold spread through a bathtub full of glass. No Roman could weigh that out directly. More likely, a larger dose was added to a big melt, and then diluted again and again with plain glass."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is roughly fifteen grams of gold spread through a bathtub full of glass. No Roman could weigh that out directly. More likely, a larger dose was added to a big melt, and then diluted again and again with plain glass.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 15.6
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Molten orange glass glowing inside an ancient clay furnace opening, flames, dark workshop, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And adding the metals was not enough. Brill found the glass also had to be heat treated, under the right chemical conditions, so the metal could gather into tiny particles."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And adding the metals was not enough. Brill found the glass also had to be heat treated, under the right chemical conditions, so the metal could gather into tiny particles.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of molten glass being stirred with an iron rod in an ancient furnace, glowing streaks, sparks, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Too little heat, no colour. Too much, the wrong colour. The result depends on temperature, time, and even the air in the furnace."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Too little heat, no colour. Too much, the wrong colour. The result depends on temperature, time, and even the air in the furnace.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Back-lit ruby red glass with faint swirls of slightly different red and violet, macro, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But nobody had seen the particles yet. Their instruments could not prove they were there. That took another twenty years, and a beam of electrons."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But nobody had seen the particles yet. Their instruments could not prove they were there. That took another twenty years, and a beam of electrons.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A modern transmission electron microscope, a tall column instrument in a dim laboratory lit by blue monitor light, photoreal, screens showing only abstract grey shapes, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question five. What do the particles look like? In the late nineteen eighties, David Barber and Ian Freestone put a tiny fragment of the cup under a transmission electron microscope."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "V \u00b7 UNDER THE BEAM",
+   "Seeing the Invisible",
+   "TEM \u00b7 1990 \u00b7 70 NANOMETRES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question five. What do the particles look like? In the late nineteen eighties, David Barber and Ian Freestone put a tiny fragment of the cup under a transmission electron microscope.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 11.784
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Scientific grayscale electron microscope image of a few tiny dark round metal nanoparticles scattered in a smooth grey glass matrix, no scale bar, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there they were. Specks of metal, typically around seventy nanometres across. Far too small for any ordinary microscope."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there they were. Specks of metal, typically around seventy nanometres across. Far too small for any ordinary microscope.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.568
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Visual comparison concept: a single grain of table salt magnified huge next to an almost invisible tiny golden dot, black background, scientific illustration style, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some reports put them as small as fifty. Either way, less than a thousandth the size of a grain of table salt."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some reports put them as small as fifty. Either way, less than a thousandth the size of a grain of table salt.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 7.68
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Computer graphic of a sphere made of mixed silver and gold atoms with a few copper coloured atoms, glowing, dark background, scientific visualization, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They are not pure gold. They are an alloy, about seven parts silver to three parts gold, with around ten percent copper. Alongside them, tiny crystals of ordinary salt."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They are not pure gold. They are an alloy, about seven parts silver to three parts gold, with around ten percent copper. Alongside them, tiny crystals of ordinary salt.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Scientific visualization of white light waves hitting tiny metal nanoparticles inside glass, red light passing through and green light scattering back, dark background, abstract, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At that size, something strange happens. The particles are close to the wavelength of light. Their electrons ripple together, a surface plasmon resonance."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At that size, something strange happens. The particles are close to the wavelength of light. Their electrons ripple together, a surface plasmon resonance.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 10.32
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Split lighting photograph of an ancient glass cup, the front half lit green by a lamp, the back glowing red from a hidden light, dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Shine light through, and the particles soak up and scatter blue and green, so only red gets out. Bounce light off, and the scattered green comes back to your eye. One cup, two colours."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Shine light through, and the particles soak up and scatter blue and green, so only red gets out. Bounce light off, and the scattered green comes back to your eye. One cup, two colours.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.0
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Museum photograph of an ancient Roman glass cage cup about sixteen centimetres tall, a deep rounded beaker shape, its outside covered in a carved openwork relief of human figures tangled in twisting grape vines standing slightly off the glass wall, a thin ornate gilded metal rim band and a gilded openwork vine-leaf metal foot, the glass glowing a translucent deep ruby red, lit from inside and behind, on a black plinth, rays of red light spilling onto the floor, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the mechanism is solved. Real nanoparticles, in a Roman cup. That is the fact that launched a thousand headlines. But how did the cup itself get made?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the mechanism is solved. Real nanoparticles, in a Roman cup. That is the fact that launched a thousand headlines. But how did the cup itself get made?",
+    "file": "ep/audio/s36.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Roman workshop interior with a craftsman at a bow-driven lathe holding a thick glass vessel against a small spinning metal wheel, oil lamp light, dust, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question six. Front light: some claim the cup is too perfect for ancient tools. Back light. The British Museum looked for tool marks."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI \u00b7 THE CUTTER'S WHEEL",
+   "Made by Hand",
+   "WHEELS \u00b7 ABRASIVE \u00b7 MONTHS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question six. Front light: some claim the cup is too perfect for ancient tools. Back light. The British Museum looked for tool marks.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 8.952
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Scanning electron microscope style grayscale image of curved crescent-shaped grinding marks on a glass surface, abstract texture, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "When the metal foot was removed, a loose fragment of the original openwork was found. Under the microscope, it carries faint marks of grinding and polishing everywhere, even underneath."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "When the metal foot was removed, a loose fragment of the original openwork was found. Under the microscope, it carries faint marks of grinding and polishing everywhere, even underneath.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a small bronze wheel on a spindle with wet grey abrasive paste cutting into thick green glass, ancient workshop, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Crescent-shaped cuts point to rotating wheels of copper, bronze or iron, fed with a gritty slurry of quartz or emery. Pliny even mentions slivers of diamond used for cutting hard stones."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Crescent-shaped cuts point to rotating wheels of copper, bronze or iron, fed with a gritty slurry of quartz or emery. Pliny even mentions slivers of diamond used for cutting hard stones.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A thick-walled plain greenish glass beaker blank, very heavy and solid, on a workbench, ancient workshop light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It began as a heavy, thick-walled blank. In the nineteen sixties, the Corning Glass Works even made a replica of one. Then a master cutter removed most of it."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It began as a heavy, thick-walled blank. In the nineteen sixties, the Corning Glass Works even made a replica of one. Then a master cutter removed most of it.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 10.968
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Hands of an old craftsman carefully polishing a delicate carved glass vine with a small tool, magnifying lens, warm lamp light, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even with modern power tools, a cage cup like this takes a great deal of time. Behind the figures, the inside was hollowed out too, so the light passes through them evenly."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even with modern power tools, a cage cup like this takes a great deal of time. Behind the figures, the inside was hollowed out too, so the light passes through them evenly.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of an ancient Alexandria harbour at dusk with warehouses, ships unloading sacks and glowing furnaces, cinematic historical reconstruction, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It may have passed through three workshops. Raw glass from Egypt or Palestine, a specialist who made the coloured blank, and the cutters. Skill, yes. Mystery tools, no."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It may have passed through three workshops. Raw glass from Egypt or Palestine, a specialist who made the coloured blank, and the cutters. Skill, yes. Mystery tools, no.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Roman glassmaker at a furnace inspecting a glowing red glass lump on an iron rod with a puzzled expression, workshop, warm light, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question seven. This is the heart of the case. Did the Romans know what they were doing? Front light: they must have, the mixture is too precise."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VII \u00b7 RECIPE OR JACKPOT?",
+   "Did They Know?",
+   "HIT AND MISS \u00b7 ONE CENTURY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question seven. This is the heart of the case. Did the Romans know what they were doing? Front light: they must have, the mixture is too precise.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Several small ancient glass fragments of different murky colours, olive, amber, brown and buff, on black velvet in a museum drawer, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Back light. The few other Roman dichroic pieces are all over the place. One fragment turns from olive green to reddish amber. Another from buff to brown, coloured mostly by silver."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Back light. The few other Roman dichroic pieces are all over the place. One fragment turns from olive green to reddish amber. Another from buff to brown, coloured mostly by silver.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ancient workshop shelf with crucibles, scraps of gold leaf, silver coins and tools covered in metallic residue, dusty, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Freestone and his colleagues called the process hit and miss. The makers may not even have known gold was the key. It could have come in as a little gold in silver, or from scraps of gold leaf left in the workshop."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Freestone and his colleagues called the process hit and miss. The makers may not even have known gold was the key. It could have come in as a little gold in silver, or from scraps of gold leaf left in the workshop.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 14.112
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Inside a glowing ancient glass furnace showing several crucibles at different depths, some brighter than others, flames, dramatic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Sheffield team's new replication found the colour shifts with where the glass sits in the furnace. Freestone's verdict: the Romans could hardly control it. With this cup, they hit the jackpot."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Sheffield team's new replication found the colour shifts with where the glass sits in the furnace. Freestone's verdict: the Romans could hardly control it. With this cup, they hit the jackpot.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient Roman letter written on a wax tablet beside a stylus and two small glowing glass cups on a marble table, oil lamp, photoreal, the wax surface smooth and blank, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Yet they valued it. A letter said to be from the emperor Hadrian mentions parti-coloured cups that change colour, a gift from a temple priest, to be used at banquets on feast days."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Yet they valued it. A letter said to be from the emperor Hadrian mentions parti-coloured cups that change colour, a gift from a temple priest, to be used at banquets on feast days.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Ruined ancient Roman glass workshop overgrown with weeds, broken furnace, cold ashes, moody dusk light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then it stopped. The trick seems to have been used for only about a century. Making red glass with gold did not become routine until the seventeenth century, credited to the German chemist Johann Kunckel."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then it stopped. The trick seems to have been used for only about a century. Making red glass with gold did not become routine until the seventeenth century, credited to the German chemist Johann Kunckel.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Back-lit ancient glass cup glowing red in a dark room, a single craftsman's silhouette watching from the shadows, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A recipe nobody understood, controlled by nobody, lost within a few generations. That is not how a secret super-science behaves. It is how a lucky craft behaves."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A recipe nobody understood, controlled by nobody, lost within a few generations. That is not how a secret super-science behaves. It is how a lucky craft behaves.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.24
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A Victorian scientist in a basement laboratory holding up a glass bottle of ruby red liquid to candlelight, 1850s, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question eight. Has anyone done it again? In eighteen fifty-six, Michael Faraday, in the basement of the Royal Institution, accidentally made a ruby red liquid while thinning gold leaf."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VIII \u00b7 REBIRTH",
+   "Doing It Again",
+   "1856 \u00b7 2013 \u00b7 2026"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question eight. Has anyone done it again? In eighteen fifty-six, Michael Faraday, in the basement of the Royal Institution, accidentally made a ruby red liquid while thinning gold leaf.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A thin green laser beam passing through an old glass bottle of ruby red liquid, a visible cone of scattered light inside the liquid, dark room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He realised it was full of gold particles too small to see. Some of his bottles still survive, and a laser through them still shows his cone of light, more than a hundred and fifty years later."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He realised it was full of gold particles too small to see. Some of his bottles still survive, and a laser through them still shows his cone of light, more than a hundred and fifty years later.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 13.08
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A stamp-sized clear plastic chip with a shimmering iridescent surface held in tweezers in a modern laboratory, colourful reflections, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty thirteen, Gang Logan Liu's team at the University of Illinois coated billions of tiny wells on a plastic chip with gold or silver nanoparticles. Billions of miniature Lycurgus cups."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty thirteen, Gang Logan Liu's team at the University of Illinois coated billions of tiny wells on a plastic chip with gold or silver nanoparticles. Billions of miniature Lycurgus cups.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 14.616
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Several small sensor wells glowing different colours, light green and red, under a microscope light in a modern lab, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Fill them with different liquids and the colour changes. Water, light green. Oil, red. Their prototype was a hundred times more sensitive to salt than similar commercial sensors."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fill them with different liquids and the colour changes. Water, light green. Oil, red. Their prototype was a hundred times more sensitive to salt than similar commercial sensors.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A modern 3D printer printing a small translucent greenish cup, laboratory, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty twenty, Dutch researchers made a printable plastic that switches green to red the same way, in what they called the quest for 3D printing the Lycurgus cup."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty twenty, Dutch researchers made a printable plastic that switches green to red the same way, in what they called the quest for 3D printing the Lycurgus cup.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A modern glassblower in a hot workshop lifting a large glowing orange glass gather from a furnace on a blowpipe, sparks, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And in October twenty twenty-six, the University of Sheffield announced it had recreated the effect in glass, using a recipe derived from a Roman fragment. A glass artist, Elliot Walker, built a sculpture from it."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And in October twenty twenty-six, the University of Sheffield announced it had recreated the effect in glass, using a recipe derived from a Roman fragment. A glass artist, Elliot Walker, built a sculpture from it.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 15.0
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A modern glass sculpture of a kneeling titan holding a large glowing red glass cup on his shoulders in a dark gallery, dramatic spotlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Freestone called it more ambitious and more precise than the nineteen sixties attempt. The technician who made it, Lisa Hollands, put it simply. To me, it's magic."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Freestone called it more ambitious and more precise than the nineteen sixties attempt. The technician who made it, Lisa Hollands, put it simply. To me, it's magic.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky over ruins of an ancient Roman city with a faint unexplained light hovering above, mysterious, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Question nine. The alien question. The claim: a fourth-century cup using nanotechnology is out of place, so the knowledge must have come from visitors, or a lost advanced civilisation."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "IX \u00b7 THE ALIEN QUESTION",
+   "Out of Place?",
+   "CLAIM \u00b7 TEST \u00b7 RESULT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Question nine. The alien question. The claim: a fourth-century cup using nanotechnology is out of place, so the knowledge must have come from visitors, or a lost advanced civilisation.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A smartphone lying on a dark table showing a blurred image of a glowing red cup on a social media style feed, moody, photoreal, the screen shows no readable text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Online, the story has grown. Viral posts call it Greek, from Sparta, with mysterious powers. A fact check by A F P answered: it is not from Sparta, and the technology has been explained."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Online, the story has grown. Viral posts call it Greek, from Sparta, with mysterious powers. A fact check by A F P answered: it is not from Sparta, and the technology has been explained.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A lone ancient Roman furnace glowing in a dark empty landscape at night, sparks rising to the stars, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test the alien idea against the evidence. Known glass. Known furnaces. Known wheels. Results that varied piece to piece, then vanished. Advanced visitors would not need luck."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test the alien idea against the evidence. Known glass. Known furnaces. Known wheels. Results that varied piece to piece, then vanished. Advanced visitors would not need luck.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 12.816
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum gallery at night, a small ancient glass cup glowing ruby red on a black plinth far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Time to score the Lycurgus cup."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VERDICT",
+   "The Scorecard",
+   "FRONT LIGHT VS BACK LIGHT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Time to score the Lycurgus cup.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.808
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum gallery at night, a small ancient glass cup glowing ruby red on a black plinth far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Real Roman glass, fourth century: evidence. Gold and silver nanoparticles inside: evidence. Cut by hand on lapidary wheels: evidence. A deliberate, understood recipe: unlikely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Real Roman glass, fourth century: evidence. Gold and silver nanoparticles inside: evidence. Cut by hand on lapidary wheels: evidence. A deliberate, understood recipe: unlikely.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 14.064
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum gallery at night, a small ancient glass cup glowing ruby red on a black plinth far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hit-and-miss process, lost after a century: likely. A real Roman nanotechnology, by result: partly true. Alien or lost advanced science: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hit-and-miss process, lost after a century: likely. A real Roman nanotechnology, by result: partly true. Alien or lost advanced science: no evidence.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.904
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Museum photograph of an ancient Roman glass cage cup about sixteen centimetres tall, a deep rounded beaker shape, its outside covered in a carved openwork relief of human figures tangled in twisting grape vines standing slightly off the glass wall, a thin ornate gilded metal rim band and a gilded openwork vine-leaf metal foot, the glass glowing a translucent deep ruby red, lit from inside and behind, alone in a dark gallery, glowing warmly, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Case closed, and the cup keeps its glow. Roman nanotechnology? By result, yes. By understanding, no. Human glassmakers made particles they could never see, and a master cutter turned their lucky batch into a masterpiece."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Case closed, and the cup keeps its glow. Roman nanotechnology? By result, yes. By understanding, no. Human glassmakers made particles they could never see, and a master cutter turned their lucky batch into a masterpiece.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 15.888
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of an ancient Roman craftsman's weathered hands holding a small glowing red glass cup up to firelight, awe on his face in shadow, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Somewhere, sixteen centuries ago, someone held this glass up to a lamp and watched it turn red. They did not know why. We only found out in nineteen ninety."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Somewhere, sixteen centuries ago, someone held this glass up to a lamp and watched it turn red. They did not know why. We only found out in nineteen ninety.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Ancient Egyptian temple wall at night with deeply carved hieroglyphs that look like a helicopter and aircraft shapes, lit by a torch, mysterious, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: an Egyptian temple wall that seems to show a helicopter. Carved three thousand years ago, or carved twice?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: an Egyptian temple wall that seems to show a helicopter. Carved three thousand years ago, or carved twice?",
+    "file": "ep/audio/s65.mp3",
+    "dur": 8.088
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small ancient glass cup glowing half green and half red in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Green or red, which story do you believe? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Green or red, which story do you believe? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 8.208
+   }
+  ]
+ }
+]
