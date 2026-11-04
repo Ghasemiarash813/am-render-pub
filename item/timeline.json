@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 22281,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 464,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A BBC correspondent who had covered wars once said of this story: I could handle war zones, but I could not handle this. What shook him was not gunfire. It was a playground of children, and what they said they saw.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.376,
+     "start": 10,
+     "end": 442
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 446,
+   "end": 904,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Friday, sixteenth of September, nineteen ninety-four. Ruwa, Zimbabwe. Sixty-two children say a silver disc came down into the brush beside their school, and that small figures in black stepped out of it.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 14.184,
+     "start": 456,
+     "end": 882
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 886,
+   "end": 1338,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No wreckage. No photographs of the craft. No official file. All that exists is testimony, and the testimony was recorded again and again, on tape, in the weeks after. So tonight, we open the archive.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 13.992,
+     "start": 896,
+     "end": 1316
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1320,
+   "end": 1708,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tape zero, the radio. Tape one, the BBC. Tape two, the researcher. Tape three, the Harvard professor. Tape four, a streaming confession. Tape five, thirty years on.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 11.856,
+     "start": 1330,
+     "end": 1686
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1690,
+   "end": 2048,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here is the question. As the tapes go on, does the story get clearer, or does it change? Press play.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 6.84,
+     "start": 1700,
+     "end": 1906
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "TAPE 0 \u00b7 RADIO",
+    "The Fireball",
+    "14 SEPTEMBER 1994"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 2030,
+   "end": 2443,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tape zero. Wednesday, the fourteenth of September. Two days earlier. At night, a fireball crossed the sky over southern Africa. Thousands saw it. Many were sure it was something unearthly.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 12.696,
+     "start": 2040,
+     "end": 2421
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2425,
+   "end": 2763,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The national radio station asked listeners to phone in and describe it. The airwaves filled with strange lights and rumours. A country was primed.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.176,
+     "start": 2435,
+     "end": 2741
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2745,
+   "end": 3154,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The likely culprit was far more ordinary. A booster from a Russian rocket, re-entering the atmosphere and burning up. The BBC's text service reported exactly that the next day.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 12.552,
+     "start": 2755,
+     "end": 3132
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3136,
+   "end": 3487,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But a rocket does not make a headline like a flying saucer. A newspaper gave it a single sentence, and the story that caught people's imagination was the other one.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 10.608,
+     "start": 3146,
+     "end": 3465
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3469,
+   "end": 3853,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ariel School was a private school in Ruwa, about twenty-two kilometres from Harare. Many pupils came from comfortable families. Their parents had heard the radio, too.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 11.712,
+     "start": 3479,
+     "end": 3831
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3835,
+   "end": 4188,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So on that Friday, two mornings after the fireball, the children walked into school with a night sky full of rumours still ringing in their ears. Keep that in mind.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 10.68,
+     "start": 3845,
+     "end": 4166
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4170,
+   "end": 4382,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mid-morning break. The teachers are in a staff meeting. The playground belongs to the children.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 6.0,
+     "start": 4180,
+     "end": 4360
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "THE MORNING",
+    "Mid-morning Break",
+    "ABOUT 10:00 \u00b7 16 SEPTEMBER 1994"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4364,
+   "end": 4757,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "About ten o'clock. The children are outside, and the only adult nearby is a woman running the tuck shop. Then, some of them say, a silvery object slides down out of the sky.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.024,
+     "start": 4374,
+     "end": 4735
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4739,
+   "end": 5114,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their accounts agree on the outline. A disc, silver, silent, coming down into the small trees at the edge of the grounds. Perhaps a hundred metres from where they stood.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 11.424,
+     "start": 4749,
+     "end": 5092
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5096,
+   "end": 5337,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For about fifteen minutes, they say, it stayed there. Some children ran. The older ones, they say, stayed to look.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 6.936,
+     "start": 5106,
+     "end": 5315
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5319,
+   "end": 5740,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then the figures. One to four of them, in the children's words. Small, dressed in black, with very large eyes. Some thought of tikoloshes, spirits from Shona and Ndebele folklore.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 12.936,
+     "start": 5329,
+     "end": 5718
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5722,
+   "end": 5994,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some of the youngest felt only fear. Others said the being looked at them, and that they felt it was sad, and that it meant no harm.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 7.968,
+     "start": 5732,
+     "end": 5972
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5976,
+   "end": 6290,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "When the meeting broke up, the children rushed to their teachers. The first reaction, by many accounts, was to dismiss it. Children and their stories.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.384,
+     "start": 5986,
+     "end": 6268
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6272,
+   "end": 6574,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No one is recorded searching the field that day for a landing mark, or for any physical trace. There is no photograph of any object.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 8.976,
+     "start": 6282,
+     "end": 6552
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6556,
+   "end": 6730,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the story was out. By the weekend, it was in the ears of a journalist.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 4.704,
+     "start": 6566,
+     "end": 6708
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "TAPE 1 \u00b7 BBC",
+    "The Reporter",
+    "19 SEPTEMBER 1994"
+   ],
+   "img": "ep/img/shot_21.jpg",
+   "start": 6712,
+   "end": 7098,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tape one. Monday, the nineteenth of September. A BBC correspondent, Tim Leach, arrives with a camera crew. The children tell him what they saw, plainly, and on film.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 11.784,
+     "start": 6722,
+     "end": 7076
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7080,
+   "end": 7443,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The footage is striking. Children, calm, specific, and not performing for anyone. Many described a silver craft, black-clad figures, and a feeling of fear.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 11.016,
+     "start": 7090,
+     "end": 7421
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7425,
+   "end": 7784,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice what is missing from tape one. No message. Nothing about the environment. No warning about the end of the world. Just a craft, and beings, and fright.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.896,
+     "start": 7435,
+     "end": 7762
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 7766,
+   "end": 8078,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The report ran. The story spread, and Ariel became known across the world, a school of sixty-two children and a mystery with no hardware.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 9.312,
+     "start": 7776,
+     "end": 8056
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8060,
+   "end": 8431,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Leach said later he was moved. He said the children were genuinely shaken. He did not claim to know what they had seen. Neither do we. But he had stood in front of them. That counts.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 11.28,
+     "start": 8070,
+     "end": 8409
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8413,
+   "end": 8612,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tape one, then, gives us children who describe a craft. Hold that. On to tape two.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 5.544,
+     "start": 8423,
+     "end": 8590
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 8594,
+   "end": 8974,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One more thing. Reporters and visiting adults began to collect children's drawings. A hundred little pictures of one afternoon. The drawings, too, became part of the story.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.592,
+     "start": 8604,
+     "end": 8952
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 8956,
+   "end": 9144,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A car comes down the road the next morning. A UFO researcher from Harare.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 5.184,
+     "start": 8966,
+     "end": 9122
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "TAPE 2 \u00b7 THE INVESTIGATOR",
+    "The Drawings",
+    "20 SEPTEMBER 1994"
+   ],
+   "img": "ep/img/shot_29.jpg",
+   "start": 9126,
+   "end": 9608,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tape two. Tuesday, the twentieth. Cynthia Hind, a veteran UFO investigator and the MUFON representative for Africa, visits the school. The children draw. She listens. She is sure they are telling the truth.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 15.0,
+     "start": 9136,
+     "end": 9586
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 9590,
+   "end": 10033,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a catch. The children were interviewed in small groups of two to six, with the others standing close, listening. Skeptics call it cross-contamination: one child says a detail, and the next one adopts it.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 13.68,
+     "start": 9600,
+     "end": 10011
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10015,
+   "end": 10452,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hind said the pupils all told the same story. That was her proof. The skeptic's reply is the same fact, turned around. Of course they told the same story. They had just been telling it to each other.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.488,
+     "start": 10025,
+     "end": 10430
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 10434,
+   "end": 10957,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A recent article asks a deeper question. Hind believed rural children in Africa had no television and no alien pictures to draw from. Yet these were private-school children, in Harare's orbit, with television, films and books.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 16.344,
+     "start": 10444,
+     "end": 10935
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 10939,
+   "end": 11421,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One researcher has even raised touring puppet shows that visited Zimbabwean schools around then, with strange costumed figures. It is an idea, not a finding. But it shows how many ordinary sources there could be.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 14.976,
+     "start": 10949,
+     "end": 11399
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11403,
+   "end": 11842,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The skeptics add something quieter. In the records, an adult suggests a diving suit. Later, a child describes a diving suit. Children are very good at giving adults what they sense the adults want.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 13.536,
+     "start": 11413,
+     "end": 11820
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 11824,
+   "end": 12257,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hind interpreted the whole affair this way: the fireball was a real rocket, and an alien craft had come to watch it. Not a theory every skeptic would accept. But a theory is exactly what it is.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 13.344,
+     "start": 11834,
+     "end": 12235
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12239,
+   "end": 12396,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two months later, a famous American professor lands in Harare.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 4.152,
+     "start": 12249,
+     "end": 12374
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "TAPE 3 \u00b7 THE PROFESSOR",
+    "The Message",
+    "NOVEMBER 1994"
+   ],
+   "img": "ep/img/shot_37.jpg",
+   "start": 12378,
+   "end": 12860,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tape three. November, nineteen ninety-four. John Mack, a Harvard psychiatrist and Pulitzer Prize winner, arrives. He has spent years studying people who say they were abducted by aliens. Hind recommended him.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 14.976,
+     "start": 12388,
+     "end": 12838
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 12842,
+   "end": 13162,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He interviews twelve of the children, one at a time and in depth. The archive will eventually hold more than a hundred pages of transcripts.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 9.576,
+     "start": 12852,
+     "end": 13140
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 13144,
+   "end": 13506,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here, on tape three, something new appears. The beings, some children say, passed on a message. That we are damaging the Earth. That our technology is poisoning it.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 10.992,
+     "start": 13154,
+     "end": 13484
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 13488,
+   "end": 13811,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One girl is quoted as saying that people must not get too technological. It is a quiet, strange, and oddly grown-up sentence for a child.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 9.696,
+     "start": 13498,
+     "end": 13789
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 13793,
+   "end": 14221,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now compare the tapes. Tape one, the BBC, has no message. Tape two, Hind, has no message in the report at the time. The message appears on tape three, and in only some of the clips.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 13.2,
+     "start": 13803,
+     "end": 14199
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14203,
+   "end": 14571,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Of the twelve children Mack interviewed, only seven clips have been made public. Of those, just three mention the message. The rest of the record sits in an archive, closed.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.184,
+     "start": 14213,
+     "end": 14549
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 14553,
+   "end": 15007,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The skeptic's case is plain. Mack was an environmentalist and a believer in the abduction phenomenon. His own book on the subject had been published only months before. Critics say he prompted, and suggested.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 14.064,
+     "start": 14563,
+     "end": 14985
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 14989,
+   "end": 15394,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a wider backdrop, too. The nineteen nineties were thick with alien abduction stories, and in April of that year, a famous abduction hoax had been exposed in the American press.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 12.432,
+     "start": 14999,
+     "end": 15372
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 15376,
+   "end": 15761,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mack never claimed the children were lying. He said they were sincere, and that he could not explain it. He died in two thousand and four. The question he raised did not die with him.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 11.76,
+     "start": 15386,
+     "end": 15739
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 15743,
+   "end": 15899,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The tapes are piling up. And then, nearly thirty years of silence.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 4.128,
+     "start": 15753,
+     "end": 15877
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "TAPE 4 \u00b7 THE CONFESSION",
+    "The Rock",
+    "2023"
+   ],
+   "img": "ep/img/shot_47.jpg",
+   "start": 15881,
+   "end": 16282,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tape four. Two thousand and twenty-three. A streaming documentary series returns to Ariel School. It interviews the witnesses, now grown, and the story gets a surprising twist.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 12.288,
+     "start": 15891,
+     "end": 16260
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16264,
+   "end": 16640,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One former pupil, Dallyn, says he made it up. That the boy he was pointed at a shiny rock, and the rest grew from there. The audience gasps. The case, it seems, is closed.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 11.448,
+     "start": 16274,
+     "end": 16618
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 16622,
+   "end": 16877,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But not so fast. Journalists could not verify the claim independently. And an old interview surfaces.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 7.416,
+     "start": 16632,
+     "end": 16855
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 16859,
+   "end": 17327,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A reporter named Nicky Carter had interviewed the same boy two weeks after the event in nineteen ninety-four. Then, he said nothing about making it up. He described a meteorite-like object seen the night before.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 14.52,
+     "start": 16869,
+     "end": 17305
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 17309,
+   "end": 17668,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Another interview version places him further away, not seeing the craft at all. Three versions, from one person, across thirty years. Memory is not a recording.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 10.872,
+     "start": 17319,
+     "end": 17646
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 17650,
+   "end": 18052,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And remember the numbers. Sixty-two children said they saw it. About one hundred and eighty others, by one count, said they saw nothing. Not everyone on that playground saw the same thing.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 12.312,
+     "start": 17660,
+     "end": 18030
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 18034,
+   "end": 18289,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tape four does not end the case. It adds a doubt about one witness, not all of them. On to the last tape.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 7.416,
+     "start": 18044,
+     "end": 18267
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "TAPE 5 \u00b7 TODAY",
+    "Thirty Years On",
+    "2016 \u2013 PRESENT"
+   ],
+   "img": "ep/img/shot_54.jpg",
+   "start": 18271,
+   "end": 18627,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tape five. Today. The witnesses are in their thirties and forties. Some have scattered across the world. Some, like one who has painted the memory, still go back to it.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 10.8,
+     "start": 18281,
+     "end": 18605
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 18609,
+   "end": 18954,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Many maintain, to this day, that they saw something. They say the experience changed them. They say they have never wavered. That sincerity is not in doubt.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 10.416,
+     "start": 18619,
+     "end": 18932
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 18936,
+   "end": 19303,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But sincerity is not evidence of a craft. It tells us that something happened inside those children's minds that day. What that something was, the tapes cannot say.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 11.136,
+     "start": 18946,
+     "end": 19281
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 19285,
+   "end": 19673,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mack's archive was donated to a university in two thousand and twenty-three. It is not yet open to the public. When it opens, it may settle a great deal. Or nothing.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 11.856,
+     "start": 19295,
+     "end": 19651
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 19655,
+   "end": 19765,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The tapes are in. Time to mark the case.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 2.568,
+     "start": 19665,
+     "end": 19743
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "SCORECARD",
+    "The Marks",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 19747,
+   "end": 19902,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scorecard. Time to mark the Ariel School case, tape by tape.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 4.08,
+     "start": 19757,
+     "end": 19880
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 19884,
+   "end": 20356,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sixty-two children gave sincere accounts: evidence. A rocket re-entry two days earlier: evidence. Accounts that agree: only partly. A telepathic message: appears only on tape three, unverified.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 14.664,
+     "start": 19894,
+     "end": 20334
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 20338,
+   "end": 20711,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A physical landing mark: none. Photographs or hardware: none. Official file: none. The Netflix confession: unverified. Alien craft: no evidence at all.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 11.352,
+     "start": 20348,
+     "end": 20689
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 20693,
+   "end": 21200,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Unproven. The children were real, and so was their fear. But the record is contaminated by group interviews, by a fireball two days before, and by adults who came with a story of their own. Nothing physical remains.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 15.816,
+     "start": 20703,
+     "end": 21178
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 21182,
+   "end": 21531,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And yet something unusual did happen on that playground. Sixty-two children would not forget it. Let that stand, even as the explanation stays open.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 10.56,
+     "start": 21192,
+     "end": 21509
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 21513,
+   "end": 21800,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think those children saw? A rocket, a rumour, a prank, or something we do not yet have a name for? Tell us in the comments.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 8.496,
+     "start": 21523,
+     "end": 21778
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 21782,
+   "end": 22031,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: an ancient mystery in the desert, and a discovery that will not stay quiet. We open that file next.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 7.224,
+     "start": 21792,
+     "end": 22009
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 22013,
+   "end": 22206,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Subscribe for the next ancient mystery put to the test, and come back to the archive.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 5.352,
+     "start": 22023,
+     "end": 22184
+    }
+   ]
+  }
+ ]
+}
