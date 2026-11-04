@@ -1,0 +1,1491 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photograph of a vast open-pit uranium mine in Gabon with terraced red-orange rock walls and yellow mining trucks at dusk, a faint blue glow in a rock layer, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Gabon, West Africa. Deep inside a uranium mine, geologists find rock that has already been through a nuclear reactor. Two billion years ago. Before animals. Before anyone could have built one."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Gabon, West Africa. Deep inside a uranium mine, geologists find rock that has already been through a nuclear reactor. Two billion years ago. Before animals. Before anyone could have built one.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of a Geiger counter held near dark rock in a mine tunnel, dim headlamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So who built the world's first nuclear reactor? Ancient engineers? Visitors from space? Or nobody at all?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So who built the world's first nuclear reactor? Ancient engineers? Visitors from space? Or nobody at all?",
+    "file": "ep/audio/s02.mp3",
+    "dur": 7.512
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Detective desk in a dim lab with a magnifying glass, sample vials and a blank case folder, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight this is a cold case, and the evidence is atoms. We read isotopes like fingerprints, score every claim, and deliver a verdict."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight this is a cold case, and the evidence is atoms. We read isotopes like fingerprints, score every claim, and deliver a verdict.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of a tiny vial of grey powder labelled blank on a steel lab bench, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Facts first. Theories labelled. And the rock does not lie, though it takes some careful reading."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Facts first. Theories labelled. And the rock does not lie, though it takes some careful reading.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 5.64
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide cinematic view of dense green equatorial rainforest and red laterite earth of Gabon, Central Africa at dawn with mist, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Case file open. Location: Oklo, Gabon."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Case file open. Location: Oklo, Gabon.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 3.408
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "French nuclear enrichment plant at Pierrelatte, large industrial buildings and cooling structures under grey sky, 1970s, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter one. The missing uranium. May, nineteen seventy-two, a French plant at Pierrelatte. Technicians are checking a routine sample of uranium ore from Gabon."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "I \u00b7 THE MISSING ATOMS",
+   "The Odd Sample",
+   "PIERRELATTE \u00b7 MAY 1972"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter one. The missing uranium. May, nineteen seventy-two, a French plant at Pierrelatte. Technicians are checking a routine sample of uranium ore from Gabon.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1970s French technician in a white coat and glasses at a mass spectrometer, large beige machine with dials, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Natural uranium is a fixed mix. Almost all of it is uranium two thirty-eight. Just point seven two percent is uranium two thirty-five, the isotope that splits."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Natural uranium is a fixed mix. Almost all of it is uranium two thirty-eight. Just point seven two percent is uranium two thirty-five, the isotope that splits.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Abstract glowing blue spheres of atoms arranged in a grid on dark background, scientific, photoreal render, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That ratio is the same in moon rock, in meteorites, in every mine on Earth. It is practically a constant of nature."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That ratio is the same in moon rock, in meteorites, in every mine on Earth. It is practically a constant of nature.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 8.352
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "1970s scientist staring in disbelief at a printout of blank graph paper in a lab, dramatic lighting, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Gabon sample read point six zero percent. Roughly a sixth of the uranium two thirty-five was simply gone."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Gabon sample read point six zero percent. Roughly a sixth of the uranium two thirty-five was simply gone.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 8.112
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of laboratory scales and sample vials being re-measured on a bench, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They assumed a mistake. They measured again. And again. Some ore from the mine came in as low as point four four percent."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They assumed a mistake. They measured again. And again. Some ore from the mine came in as low as point four four percent.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dark government meeting room in France 1970s with officials in suits around a table looking worried, photoreal, blank papers, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This was not just curiosity. Uranium bookkeeping is how the world tracks nuclear weapons material. Missing uranium means someone might be stealing it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This was not just curiosity. Uranium bookkeeping is how the world tracks nuclear weapons material. Missing uranium means someone might be stealing it.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.896
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Aerial view of dense green equatorial rainforest and red laterite earth of Gabon, Central Africa with a single red dirt mining road, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Investigators followed the ore trail back to a single place. A mine near the town of Oklo, in the Franceville basin of Gabon."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Investigators followed the ore trail back to a single place. A mine near the town of Oklo, in the Franceville basin of Gabon.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 8.976
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "French and African investigators in hard hats and safety vests inspecting a rock face in a uranium mine, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They did not find thieves. They found rock that had been burned. Something had used up that uranium long before any human held a shovel."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They did not find thieves. They found rock that had been burned. Something had used up that uranium long before any human held a shovel.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Close-up of a cut slab of dark grey-black uranium ore with a thin bright yellow-green mineral seam, held under a lab lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The French Atomic Energy Commission made the announcement on the twenty-fifth of September, nineteen seventy-two. The mine contained fossil nuclear reactors."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The French Atomic Energy Commission made the announcement on the twenty-fifth of September, nineteen seventy-two. The mine contained fossil nuclear reactors.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.632
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of a fingerprint on glass under a forensic lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter two. The fingerprints. A claim that big needs proof, and a reactor leaves a signature that is very hard to fake."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 FINGERPRINTS",
+   "Reading The Atoms",
+   "FORENSIC ISOTOPES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter two. The fingerprints. A claim that big needs proof, and a reactor leaves a signature that is very hard to fake.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 7.944
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Diagram-like glowing uranium atom splitting into two smaller atoms with a burst of light, dark background, photoreal render, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "When uranium two thirty-five splits, it breaks into smaller atoms called fission products. Those leftovers are the ash of a nuclear fire."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "When uranium two thirty-five splits, it breaks into smaller atoms called fission products. Those leftovers are the ash of a nuclear fire.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 9.72
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Rows of sample vials in a rack under blue light in a lab, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scientists analysed neodymium in the Oklo rock. Natural neodymium has about twenty-seven percent of the isotope neodymium one forty-two. Oklo had less than six."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scientists analysed neodymium in the Oklo rock. Natural neodymium has about twenty-seven percent of the isotope neodymium one forty-two. Oklo had less than six.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of a mass spectrometer detector glowing amber in a dark lab, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Instead, the neodymium matched the pattern left by fission. It was not the fingerprint of rock. It was the fingerprint of a reactor."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Instead, the neodymium matched the pattern left by fission. It was not the fingerprint of rock. It was the fingerprint of a reactor.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Hands in gloves holding a rock sample in tweezers under a microscope lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ruthenium told the same story. One isotope, ruthenium ninety-nine, is normally about twelve percent. At Oklo it reached nearly thirty, the product of fission and radioactive decay."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ruthenium told the same story. One isotope, ruthenium ninety-nine, is normally about twelve percent. At Oklo it reached nearly thirty, the product of fission and radioactive decay.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Gabon sunset over the mine with silhouettes of drilling rigs, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nobody carries fission ash into a mine by hand. It formed right where it is found, in the same grains, in the same layers."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nobody carries fission ash into a mine by hand. It formed right where it is found, in the same grains, in the same layers.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 8.4
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Close-up of fine dark crystals of uraninite in a rock under a microscope, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there is a second clue. Uranium two thirty-four, which does not come from fission, was perfectly normal. That is exactly what a natural reaction predicts."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there is a second clue. Uranium two thirty-four, which does not come from fission, was perfectly normal. That is exactly what a natural reaction predicts.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A detective hand placing a numbered blank evidence marker beside a rock sample in a lab, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three independent lines of evidence. Depleted uranium, fission ash, and untouched uranium two thirty-four. All point the same way."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three independent lines of evidence. Depleted uranium, fission ash, and untouched uranium two thirty-four. All point the same way.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 9.888
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Close-up of rock cores laid out on a table in a Gabon geology storage shed, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The reactor theory had even been predicted. In nineteen fifty-six, a chemist named Paul Kuroda had argued such a thing could happen in nature."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The reactor theory had even been predicted. In nineteen fifty-six, a chemist named Paul Kuroda had argued such a thing could happen in nature.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cutaway-style photoreal render of a uranium ore seam inside layered sandstone underground with water seeping through, dark, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter three. How a reactor builds itself. A chain reaction needs fuel, and it needs something to slow the neutrons down so they can split more atoms."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III \u00b7 THE MACHINE",
+   "Water As Brake",
+   "HOW IT RAN"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter three. How a reactor builds itself. A chain reaction needs fuel, and it needs something to slow the neutrons down so they can split more atoms.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 10.104
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Glowing neutrons as small blue spheres bouncing through water droplets, photoreal render, dark, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In a modern plant, that slowing is done by water or graphite. At Oklo, it was plain groundwater seeping through cracked rock."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In a modern plant, that slowing is done by water or graphite. At Oklo, it was plain groundwater seeping through cracked rock.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 8.64
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Rain falling heavily on rainforest ground and soaking into red soil, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But that only works if the uranium is rich enough. Today natural uranium is far too weak. Two billion years ago it was not."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But that only works if the uranium is rich enough. Today natural uranium is far too weak. Two billion years ago it was not.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 8.976
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Two glowing spheres on a dark background, one large one tiny, symbolising isotopes decaying, photoreal render, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Uranium two thirty-five decays faster than uranium two thirty-eight. Wind the clock back and it was about three percent, close to the fuel in a modern power station."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Uranium two thirty-five decays faster than uranium two thirty-eight. Wind the clock back and it was about three percent, close to the fuel in a modern power station.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient Earth two billion years ago, a rocky shore beside a green shallow sea under a hazy orange sky, no animals, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There was another requirement. Oxygen. Oxygen in the air and water dissolves uranium and carries it, so it can collect in rich deposits."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There was another requirement. Oxygen. Oxygen in the air and water dissolves uranium and carries it, so it can collect in rich deposits.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Microscopic blue-green cyanobacteria mats on a shallow ancient seabed, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Oxygen had only recently been pumped into the atmosphere by tiny bacteria. A few hundred million years earlier, this could never have happened."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Oxygen had only recently been pumped into the atmosphere by tiny bacteria. A few hundred million years earlier, this could never have happened.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Underground cracks in dark rock filling slowly with clear water, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the timing is perfect. Enough oxygen to concentrate the ore. Enough uranium two thirty-five to fuel it. And water flowing in to start the reaction."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the timing is perfect. Enough oxygen to concentrate the ore. Enough uranium two thirty-five to fuel it. And water flowing in to start the reaction.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 10.944
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Heat shimmer and steam rising from a crack in dark rock underground, glowing faintly orange, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came the genius of nature's design. When the reaction ran, it heated the water. The water boiled away, and without it, the reaction stopped."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came the genius of nature's design. When the reaction ran, it heated the water. The water boiled away, and without it, the reaction stopped.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Cool groundwater slowly returning to a dry underground crack, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Cool down, water returns, the reaction restarts. A self-regulating reactor with no operator, no control rods, and no designer."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Cool down, water returns, the reaction restarts. A self-regulating reactor with no operator, no control rods, and no designer.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An antique brass pocket watch lying on dark uranium ore in a lab light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter four. The heartbeat. How do you know how a reactor behaved two billion years ago? You look for the gas it trapped."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV \u00b7 THE HEARTBEAT",
+   "Reading The Xenon",
+   "THE CYCLE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter four. The heartbeat. How do you know how a reactor behaved two billion years ago? You look for the gas it trapped.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 7.632
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Glowing violet noble gas in a glass tube on a dark lab bench, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Fission produces xenon, a heavy gas. At Oklo, researchers found it locked inside tiny crystals of aluminium phosphate in the rock."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fission produces xenon, a heavy gas. At Oklo, researchers found it locked inside tiny crystals of aluminium phosphate in the rock.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of a gas analyser instrument in a university laboratory, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "All five xenon isotopes were there, in proportions that only fission can make. And their ratios hold a clock."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "All five xenon isotopes were there, in proportions that only fission can make. And their ratios hold a clock.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 7.896
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A long row of small sand-coloured crystals on black cloth under a macro lens, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some xenon forms later than others. By reading what was trapped, scientists worked out the rhythm of the reactor."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some xenon forms later than others. By reading what was trapped, scientists worked out the rhythm of the reactor.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 7.344
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A kitchen timer style clock face with no numbers glowing faintly on a dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Roughly thirty minutes of fission. Then about two and a half hours of cooling while water seeped back. A cycle of about three hours, repeating."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Roughly thirty minutes of fission. Then about two and a half hours of cooling while water seeped back. A cycle of about three hours, repeating.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Dark underground cavern lit by faint pulses of blue light, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Over and over, for hundreds of thousands of years. A natural geyser of nuclear fire, quietly pulsing under the African ground."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Over and over, for hundreds of thousands of years. A natural geyser of nuclear fire, quietly pulsing under the African ground.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Small thermal haze above a modest campfire next to a laptop-sized power meter, photoreal, no screens text, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And it was gentle. The average output stayed under a hundred kilowatts, about what a few dozen kettles would use."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And it was gentle. The average output stayed under a hundred kilowatts, about what a few dozen kettles would use.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 7.344
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial view of dense green equatorial rainforest and red laterite earth of Gabon, Central Africa with a faint heat-shimmer patch, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Across sixteen separate zones the pattern repeated, each a seam of ore only centimetres thick, each reaching criticality on its own."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Across sixteen separate zones the pattern repeated, each a seam of ore only centimetres thick, each reaching criticality on its own.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 9.24
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Time-lapse style night sky over Gabon rainforest with stars turning, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This was no accident of one lucky pocket. It was geology repeating a recipe sixteen times."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This was no accident of one lucky pocket. It was geology repeating a recipe sixteen times.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 6.984
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A suspicious detective in a trench coat studying a rock under a lamp in a lab, silhouette, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter five. The suspects. Now the cold case gets interesting, because online, Oklo has become a favourite of the ancient-technology crowd."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "V \u00b7 THE SUSPECTS",
+   "Who Built It?",
+   "CLAIMS VS FACTS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter five. The suspects. Now the cold case gets interesting, because online, Oklo has become a favourite of the ancient-technology crowd.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 9.888
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Dramatic scene of a glowing alien-like spacecraft hovering over the Gabon rainforest at night, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The first suspect: visitors from space. The claim goes that Oklo was a reactor built by an advanced civilisation, and the waste is their trash."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The first suspect: visitors from space. The claim goes that Oklo was a reactor built by an advanced civilisation, and the waste is their trash.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Futuristic ancient stone temple with pipes and a glowing core in a jungle clearing, artistic, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A second version says a lost human civilisation built it, an ancient nuclear power plant that predates everything we know."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A second version says a lost human civilisation built it, an ancient nuclear power plant that predates everything we know.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 8.04
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Empty clean laboratory table with a single sample vial and a blank notebook, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect one, the engineers, needs a body of evidence. Where are the tools, the buildings, the control systems, the bones?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect one, the engineers, needs a body of evidence. Where are the tools, the buildings, the control systems, the bones?",
+    "file": "ep/audio/s45.mp3",
+    "dur": 8.16
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Plain bare rock layers in a mine wall with nothing built into them, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There are none. At Oklo, there is only natural rock with natural cracks. No metal, no walls, no pipes, nothing manufactured."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There are none. At Oklo, there is only natural rock with natural cracks. No metal, no walls, no pipes, nothing manufactured.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Ancient Earth two billion years ago, empty rocky continent with a purple sky and no life, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And two billion years ago, the Earth had no animals at all. Life meant microbes. No hands, no brains, no tools. Nothing to build with."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And two billion years ago, the Earth had no animals at all. Life meant microbes. No hands, no brains, no tools. Nothing to build with.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 9.984
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Rocky landscape with deep layers of strata showing time, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the oldest human civilisations are only about five thousand years old. Oklo is four hundred thousand times older."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the oldest human civilisations are only about five thousand years old. Oklo is four hundred thousand times older.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 8.76
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Scientists in the field with notebooks at a Gabon mine, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A designed reactor would also be better. It would be steady, and it would carry waste away safely. Oklo is messy, intermittent and low power."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A designed reactor would also be better. It would be steady, and it would carry waste away safely. Oklo is messy, intermittent and low power.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Close-up of a cut slab of dark grey-black uranium ore with a thin bright yellow-green mineral seam, held under a lab lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Everything that makes Oklo special is explained without engineers. The only mystery left is why nobody saw it sooner."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Everything that makes Oklo special is explained without engineers. The only mystery left is why nobody saw it sooner.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 8.088
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "World map style photograph of old globe on a desk lit by lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter six. The strange part is the rest of the world. Why only Gabon? Why has no second Oklo ever been found?"
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VI \u00b7 THE ALIBI",
+   "Why Only Gabon?",
+   "UNIQUE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter six. The strange part is the rest of the world. Why only Gabon? Why has no second Oklo ever been found?",
+    "file": "ep/audio/s51.mp3",
+    "dur": 8.16
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Layered pale sandstone and dark ore cliff in the Franceville basin, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Because it needed everything at once. A rich, thick ore body. Oxygen-carried uranium. Flowing water. And time, during a narrow window of Earth history."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Because it needed everything at once. A rich, thick ore body. Oxygen-carried uranium. Flowing water. And time, during a narrow window of Earth history.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Fading orange sunset over African savannah, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "As uranium two thirty-five decayed away, the window closed. Today, no natural deposit can ever go critical again."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "As uranium two thirty-five decayed away, the window closed. Today, no natural deposit can ever go critical again.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 8.664
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Rows of cracked rock samples being sorted in a Paris lab, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Researchers have checked other very old uranium deposits. Some show hints, but none comes close. Oklo is the one place where the conditions lined up."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Researchers have checked other very old uranium deposits. Some show hints, but none comes close. Oklo is the one place where the conditions lined up.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A lonely gold watch left on a table in a dim room, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In science, rare is not the same as impossible. A natural event with the right ingredients does not need a designer."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In science, rare is not the same as impossible. A natural event with the right ingredients does not need a designer.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 7.8
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Glowing atomic structure and equations hovering above an abstract starfield, photoreal render, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And Oklo has taught us something else. Physicists used the isotope ratios to test whether the laws of nature have changed over time."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And Oklo has taught us something else. Physicists used the isotope ratios to test whether the laws of nature have changed over time.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Dark lab with a physicist writing on a blank chalkboard in silhouette, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So far, the fine-structure constant looks remarkably stable across two billion years. The fossil reactor is also a time capsule for physics."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So far, the fine-structure constant looks remarkably stable across two billion years. The fossil reactor is also a time capsule for physics.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 10.152
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Underground waste storage tunnel with steel drums in a dim light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter seven. The lesson for us. Nuclear waste worries everyone, because it stays dangerous for so long."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VII \u00b7 THE LESSON",
+   "Waste, Buried",
+   "WHAT OKLO TEACHES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter seven. The lesson for us. Nuclear waste worries everyone, because it stays dangerous for so long.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 7.296
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cross-section style photograph of layers of dark rock under a mountain, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At Oklo, plutonium and fission products stayed within metres of where they formed for nearly two billion years, held in the rock."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At Oklo, plutonium and fission products stayed within metres of where they formed for nearly two billion years, held in the rock.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 8.616
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Engineers and geologists studying rock cores on a table, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Engineers study the site to design deep waste storage. Nature already ran the experiment, and the ground held."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Engineers study the site to design deep waste storage. Nature already ran the experiment, and the ground held.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 7.536
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of rock sample next to modern nuclear fuel pellets on a table, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That does not make storage easy. But it shows that stable geology can lock atoms away longer than any human civilisation has lasted."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That does not make storage easy. But it shows that stable geology can lock atoms away longer than any human civilisation has lasted.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Gabon mine at dusk, silent machines and a red sky, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The mine itself is now closed. The reactor zones were largely mined out, but a few were preserved for study."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The mine itself is now closed. The reactor zones were largely mined out, but a few were preserved for study.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 7.392
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark laboratory background with a faint glowing atom diagram on the far right, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time for the forensic report. Let us score the Oklo claims."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time for the forensic report. Let us score the Oklo claims.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 4.08
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark laboratory background with a faint glowing atom diagram on the far right, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Uranium two thirty-five depleted in the ore: evidence, confirmed. Fission ash like neodymium and ruthenium: evidence. Xenon showing a three hour cycle: evidence. Uranium three percent two billion years ago: evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Uranium two thirty-five depleted in the ore: evidence, confirmed. Fission ash like neodymium and ruthenium: evidence. Xenon showing a three hour cycle: evidence. Uranium three percent two billion years ago: evidence.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 17.328
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark laboratory background with a faint glowing atom diagram on the far right, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Any tools, structures or machinery: none found. Designed by ancient humans: no evidence. Built by aliens: no evidence. Natural reactor: strongly supported."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Any tools, structures or machinery: none found. Designed by ancient humans: no evidence. Built by aliens: no evidence. Natural reactor: strongly supported.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.928
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cinematic photograph of a glowing seam of yellow-green ore in a dark mine tunnel, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Natural, but real. Oklo was a genuine nuclear reactor, running two billion years before the first human. It just needed no one to build it."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Natural, but real. Oklo was a genuine nuclear reactor, running two billion years before the first human. It just needed no one to build it.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 10.872
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Lone geologist in a hard hat walking out of a mine into sunset light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the wonder of this case. We did not find proof of lost engineers. We found proof that nature can do something we thought only we could."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the wonder of this case. We did not find proof of lost engineers. We found proof that nature can do something we thought only we could.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 9.408
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Ancient stone monument on a high Andean plateau under a clear blue sky, photoreal, no carvings text, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a monumental gateway in the thin air of the Andes, carved from one block, tied to a city said to be impossibly old. Tiwanaku and the Gate of the Sun."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a monumental gateway in the thin air of the Andes, carved from one block, tied to a city said to be impossibly old. Tiwanaku and the Gate of the Sun.",
+    "file": "ep/audio/s68.mp3",
+    "dur": 11.928
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background with a single glowing yellow-green atom in the centre on black, minimal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s69.mp3",
+    "dur": 6.144
+   }
+  ]
+ }
+]

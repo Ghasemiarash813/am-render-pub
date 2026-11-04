@@ -1,0 +1,1420 @@
+{
+ "fps": 30,
+ "total": 20542,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 459,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Gabon, West Africa. Deep inside a uranium mine, geologists find rock that has already been through a nuclear reactor. Two billion years ago. Before animals. Before anyone could have built one.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.232,
+     "start": 10,
+     "end": 437
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 441,
+   "end": 699,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So who built the world's first nuclear reactor? Ancient engineers? Visitors from space? Or nobody at all?",
+     "file": "ep/audio/s02.mp3",
+     "dur": 7.512,
+     "start": 451,
+     "end": 677
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 681,
+   "end": 988,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight this is a cold case, and the evidence is atoms. We read isotopes like fingerprints, score every claim, and deliver a verdict.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 9.144,
+     "start": 691,
+     "end": 966
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 970,
+   "end": 1172,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Facts first. Theories labelled. And the rock does not lie, though it takes some careful reading.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 5.64,
+     "start": 980,
+     "end": 1150
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1154,
+   "end": 1409,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Case file open. Location: Oklo, Gabon.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 3.408,
+     "start": 1164,
+     "end": 1267
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 THE MISSING ATOMS",
+    "The Odd Sample",
+    "PIERRELATTE \u00b7 MAY 1972"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1391,
+   "end": 1779,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter one. The missing uranium. May, nineteen seventy-two, a French plant at Pierrelatte. Technicians are checking a routine sample of uranium ore from Gabon.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 11.856,
+     "start": 1401,
+     "end": 1757
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 1761,
+   "end": 2171,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Natural uranium is a fixed mix. Almost all of it is uranium two thirty-eight. Just point seven two percent is uranium two thirty-five, the isotope that splits.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 12.576,
+     "start": 1771,
+     "end": 2149
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2153,
+   "end": 2436,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That ratio is the same in moon rock, in meteorites, in every mine on Earth. It is practically a constant of nature.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 8.352,
+     "start": 2163,
+     "end": 2414
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2418,
+   "end": 2694,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Gabon sample read point six zero percent. Roughly a sixth of the uranium two thirty-five was simply gone.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 8.112,
+     "start": 2428,
+     "end": 2672
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 2676,
+   "end": 2958,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They assumed a mistake. They measured again. And again. Some ore from the mine came in as low as point four four percent.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 8.304,
+     "start": 2686,
+     "end": 2936
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 2940,
+   "end": 3299,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This was not just curiosity. Uranium bookkeeping is how the world tracks nuclear weapons material. Missing uranium means someone might be stealing it.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 10.896,
+     "start": 2950,
+     "end": 3277
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3281,
+   "end": 3583,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Investigators followed the ore trail back to a single place. A mine near the town of Oklo, in the Franceville basin of Gabon.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 8.976,
+     "start": 3291,
+     "end": 3561
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 3565,
+   "end": 3873,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They did not find thieves. They found rock that had been burned. Something had used up that uranium long before any human held a shovel.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 9.168,
+     "start": 3575,
+     "end": 3851
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 3855,
+   "end": 4206,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The French Atomic Energy Commission made the announcement on the twenty-fifth of September, nineteen seventy-two. The mine contained fossil nuclear reactors.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 10.632,
+     "start": 3865,
+     "end": 4184
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 FINGERPRINTS",
+    "Reading The Atoms",
+    "FORENSIC ISOTOPES"
+   ],
+   "img": "ep/img/shot_15.jpg",
+   "start": 4188,
+   "end": 4459,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter two. The fingerprints. A claim that big needs proof, and a reactor leaves a signature that is very hard to fake.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 7.944,
+     "start": 4198,
+     "end": 4437
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 4441,
+   "end": 4765,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "When uranium two thirty-five splits, it breaks into smaller atoms called fission products. Those leftovers are the ash of a nuclear fire.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 9.72,
+     "start": 4451,
+     "end": 4743
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 4747,
+   "end": 5167,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scientists analysed neodymium in the Oklo rock. Natural neodymium has about twenty-seven percent of the isotope neodymium one forty-two. Oklo had less than six.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.912,
+     "start": 4757,
+     "end": 5145
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5149,
+   "end": 5448,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Instead, the neodymium matched the pattern left by fission. It was not the fingerprint of rock. It was the fingerprint of a reactor.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 8.88,
+     "start": 5159,
+     "end": 5426
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 5430,
+   "end": 5876,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ruthenium told the same story. One isotope, ruthenium ninety-nine, is normally about twelve percent. At Oklo it reached nearly thirty, the product of fission and radioactive decay.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 13.776,
+     "start": 5440,
+     "end": 5854
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 5858,
+   "end": 6142,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nobody carries fission ash into a mine by hand. It formed right where it is found, in the same grains, in the same layers.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 8.4,
+     "start": 5868,
+     "end": 6120
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6124,
+   "end": 6479,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And there is a second clue. Uranium two thirty-four, which does not come from fission, was perfectly normal. That is exactly what a natural reaction predicts.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 10.752,
+     "start": 6134,
+     "end": 6457
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 6461,
+   "end": 6790,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three independent lines of evidence. Depleted uranium, fission ash, and untouched uranium two thirty-four. All point the same way.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 9.888,
+     "start": 6471,
+     "end": 6768
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 6772,
+   "end": 7102,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The reactor theory had even been predicted. In nineteen fifty-six, a chemist named Paul Kuroda had argued such a thing could happen in nature.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 9.912,
+     "start": 6782,
+     "end": 7080
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 THE MACHINE",
+    "Water As Brake",
+    "HOW IT RAN"
+   ],
+   "img": "ep/img/shot_24.jpg",
+   "start": 7084,
+   "end": 7420,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter three. How a reactor builds itself. A chain reaction needs fuel, and it needs something to slow the neutrons down so they can split more atoms.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 10.104,
+     "start": 7094,
+     "end": 7398
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 7402,
+   "end": 7694,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In a modern plant, that slowing is done by water or graphite. At Oklo, it was plain groundwater seeping through cracked rock.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 8.64,
+     "start": 7412,
+     "end": 7672
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 7676,
+   "end": 7978,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But that only works if the uranium is rich enough. Today natural uranium is far too weak. Two billion years ago it was not.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 8.976,
+     "start": 7686,
+     "end": 7956
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 7960,
+   "end": 8340,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Uranium two thirty-five decays faster than uranium two thirty-eight. Wind the clock back and it was about three percent, close to the fuel in a modern power station.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 11.568,
+     "start": 7970,
+     "end": 8318
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 8322,
+   "end": 8650,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There was another requirement. Oxygen. Oxygen in the air and water dissolves uranium and carries it, so it can collect in rich deposits.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 9.84,
+     "start": 8332,
+     "end": 8628
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 8632,
+   "end": 8940,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Oxygen had only recently been pumped into the atmosphere by tiny bacteria. A few hundred million years earlier, this could never have happened.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 9.168,
+     "start": 8642,
+     "end": 8918
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 8922,
+   "end": 9283,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the timing is perfect. Enough oxygen to concentrate the ore. Enough uranium two thirty-five to fuel it. And water flowing in to start the reaction.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 10.944,
+     "start": 8932,
+     "end": 9261
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 9265,
+   "end": 9595,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then came the genius of nature's design. When the reaction ran, it heated the water. The water boiled away, and without it, the reaction stopped.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 9.912,
+     "start": 9275,
+     "end": 9573
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 9577,
+   "end": 9896,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Cool down, water returns, the reaction restarts. A self-regulating reactor with no operator, no control rods, and no designer.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 9.552,
+     "start": 9587,
+     "end": 9874
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 THE HEARTBEAT",
+    "Reading The Xenon",
+    "THE CYCLE"
+   ],
+   "img": "ep/img/shot_33.jpg",
+   "start": 9878,
+   "end": 10139,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter four. The heartbeat. How do you know how a reactor behaved two billion years ago? You look for the gas it trapped.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 7.632,
+     "start": 9888,
+     "end": 10117
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 10121,
+   "end": 10451,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Fission produces xenon, a heavy gas. At Oklo, researchers found it locked inside tiny crystals of aluminium phosphate in the rock.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 9.912,
+     "start": 10131,
+     "end": 10429
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 10433,
+   "end": 10702,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "All five xenon isotopes were there, in proportions that only fission can make. And their ratios hold a clock.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 7.896,
+     "start": 10443,
+     "end": 10680
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 10684,
+   "end": 10937,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some xenon forms later than others. By reading what was trapped, scientists worked out the rhythm of the reactor.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 7.344,
+     "start": 10694,
+     "end": 10915
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 10919,
+   "end": 11229,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Roughly thirty minutes of fission. Then about two and a half hours of cooling while water seeped back. A cycle of about three hours, repeating.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 9.264,
+     "start": 10929,
+     "end": 11207
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 11211,
+   "end": 11504,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Over and over, for hundreds of thousands of years. A natural geyser of nuclear fire, quietly pulsing under the African ground.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 8.688,
+     "start": 11221,
+     "end": 11482
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 11486,
+   "end": 11739,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And it was gentle. The average output stayed under a hundred kilowatts, about what a few dozen kettles would use.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 7.344,
+     "start": 11496,
+     "end": 11717
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 11721,
+   "end": 12031,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Across sixteen separate zones the pattern repeated, each a seam of ore only centimetres thick, each reaching criticality on its own.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 9.24,
+     "start": 11731,
+     "end": 12009
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 12013,
+   "end": 12255,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This was no accident of one lucky pocket. It was geology repeating a recipe sixteen times.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 6.984,
+     "start": 12023,
+     "end": 12233
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "V \u00b7 THE SUSPECTS",
+    "Who Built It?",
+    "CLAIMS VS FACTS"
+   ],
+   "img": "ep/img/shot_42.jpg",
+   "start": 12237,
+   "end": 12566,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter five. The suspects. Now the cold case gets interesting, because online, Oklo has become a favourite of the ancient-technology crowd.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 9.888,
+     "start": 12247,
+     "end": 12544
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 12548,
+   "end": 12887,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The first suspect: visitors from space. The claim goes that Oklo was a reactor built by an advanced civilisation, and the waste is their trash.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 10.224,
+     "start": 12558,
+     "end": 12865
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 12869,
+   "end": 13143,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A second version says a lost human civilisation built it, an ancient nuclear power plant that predates everything we know.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 8.04,
+     "start": 12879,
+     "end": 13121
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 13125,
+   "end": 13402,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect one, the engineers, needs a body of evidence. Where are the tools, the buildings, the control systems, the bones?",
+     "file": "ep/audio/s45.mp3",
+     "dur": 8.16,
+     "start": 13135,
+     "end": 13380
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 13384,
+   "end": 13683,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There are none. At Oklo, there is only natural rock with natural cracks. No metal, no walls, no pipes, nothing manufactured.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 8.88,
+     "start": 13394,
+     "end": 13661
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 13665,
+   "end": 13997,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And two billion years ago, the Earth had no animals at all. Life meant microbes. No hands, no brains, no tools. Nothing to build with.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 9.984,
+     "start": 13675,
+     "end": 13975
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 13979,
+   "end": 14274,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the oldest human civilisations are only about five thousand years old. Oklo is four hundred thousand times older.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 8.76,
+     "start": 13989,
+     "end": 14252
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 14256,
+   "end": 14587,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A designed reactor would also be better. It would be steady, and it would carry waste away safely. Oklo is messy, intermittent and low power.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 9.96,
+     "start": 14266,
+     "end": 14565
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 14569,
+   "end": 14844,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Everything that makes Oklo special is explained without engineers. The only mystery left is why nobody saw it sooner.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 8.088,
+     "start": 14579,
+     "end": 14822
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VI \u00b7 THE ALIBI",
+    "Why Only Gabon?",
+    "UNIQUE"
+   ],
+   "img": "ep/img/shot_51.jpg",
+   "start": 14826,
+   "end": 15103,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter six. The strange part is the rest of the world. Why only Gabon? Why has no second Oklo ever been found?",
+     "file": "ep/audio/s51.mp3",
+     "dur": 8.16,
+     "start": 14836,
+     "end": 15081
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 15085,
+   "end": 15453,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Because it needed everything at once. A rich, thick ore body. Oxygen-carried uranium. Flowing water. And time, during a narrow window of Earth history.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 11.184,
+     "start": 15095,
+     "end": 15431
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 15435,
+   "end": 15727,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "As uranium two thirty-five decayed away, the window closed. Today, no natural deposit can ever go critical again.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 8.664,
+     "start": 15445,
+     "end": 15705
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 15709,
+   "end": 16071,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Researchers have checked other very old uranium deposits. Some show hints, but none comes close. Oklo is the one place where the conditions lined up.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 10.992,
+     "start": 15719,
+     "end": 16049
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 16053,
+   "end": 16319,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In science, rare is not the same as impossible. A natural event with the right ingredients does not need a designer.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 7.8,
+     "start": 16063,
+     "end": 16297
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 16301,
+   "end": 16611,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And Oklo has taught us something else. Physicists used the isotope ratios to test whether the laws of nature have changed over time.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 9.264,
+     "start": 16311,
+     "end": 16589
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 16593,
+   "end": 16930,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So far, the fine-structure constant looks remarkably stable across two billion years. The fossil reactor is also a time capsule for physics.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 10.152,
+     "start": 16603,
+     "end": 16908
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VII \u00b7 THE LESSON",
+    "Waste, Buried",
+    "WHAT OKLO TEACHES"
+   ],
+   "img": "ep/img/shot_58.jpg",
+   "start": 16912,
+   "end": 17163,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter seven. The lesson for us. Nuclear waste worries everyone, because it stays dangerous for so long.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 7.296,
+     "start": 16922,
+     "end": 17141
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 17145,
+   "end": 17436,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At Oklo, plutonium and fission products stayed within metres of where they formed for nearly two billion years, held in the rock.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 8.616,
+     "start": 17155,
+     "end": 17414
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 17418,
+   "end": 17677,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Engineers study the site to design deep waste storage. Nature already ran the experiment, and the ground held.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 7.536,
+     "start": 17428,
+     "end": 17655
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 17659,
+   "end": 17979,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That does not make storage easy. But it shows that stable geology can lock atoms away longer than any human civilisation has lasted.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 9.576,
+     "start": 17669,
+     "end": 17957
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 17961,
+   "end": 18215,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The mine itself is now closed. The reactor zones were largely mined out, but a few were preserved for study.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 7.392,
+     "start": 17971,
+     "end": 18193
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_63.jpg",
+   "start": 18197,
+   "end": 18352,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time for the forensic report. Let us score the Oklo claims.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 4.08,
+     "start": 18207,
+     "end": 18330
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 18334,
+   "end": 18886,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Uranium two thirty-five depleted in the ore: evidence, confirmed. Fission ash like neodymium and ruthenium: evidence. Xenon showing a three hour cycle: evidence. Uranium three percent two billion years ago: evidence.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 17.328,
+     "start": 18344,
+     "end": 18864
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 18868,
+   "end": 19258,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Any tools, structures or machinery: none found. Designed by ancient humans: no evidence. Built by aliens: no evidence. Natural reactor: strongly supported.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 11.928,
+     "start": 18878,
+     "end": 19236
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 19240,
+   "end": 19599,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Natural, but real. Oklo was a genuine nuclear reactor, running two billion years before the first human. It just needed no one to build it.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 10.872,
+     "start": 19250,
+     "end": 19577
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 19581,
+   "end": 19896,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the wonder of this case. We did not find proof of lost engineers. We found proof that nature can do something we thought only we could.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 9.408,
+     "start": 19591,
+     "end": 19874
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_68.jpg",
+   "start": 19878,
+   "end": 20268,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a monumental gateway in the thin air of the Andes, carved from one block, tied to a city said to be impossibly old. Tiwanaku and the Gate of the Sun.",
+     "file": "ep/audio/s68.mp3",
+     "dur": 11.928,
+     "start": 19888,
+     "end": 20246
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_69.jpg",
+   "start": 20250,
+   "end": 20467,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s69.mp3",
+     "dur": 6.144,
+     "start": 20260,
+     "end": 20445
+    }
+   ]
+  }
+ ]
+}

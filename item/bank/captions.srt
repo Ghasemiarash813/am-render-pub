@@ -1,0 +1,727 @@
+1
+00:00:00,333 --> 00:00:01,771
+Gabon, West Africa.
+
+2
+00:00:01,771 --> 00:00:09,115
+Deep inside a uranium mine, geologists find rock that has already been through a nuclear reactor.
+
+3
+00:00:09,115 --> 00:00:10,781
+Two billion years ago.
+
+4
+00:00:10,781 --> 00:00:11,916
+Before animals.
+
+5
+00:00:11,916 --> 00:00:14,566
+Before anyone could have built one.
+
+6
+00:00:15,033 --> 00:00:18,504
+So who built the world's first nuclear reactor?
+
+7
+00:00:18,504 --> 00:00:19,833
+Ancient engineers?
+
+8
+00:00:19,833 --> 00:00:21,311
+Visitors from space?
+
+9
+00:00:21,311 --> 00:00:22,566
+Or nobody at all?
+
+10
+00:00:23,033 --> 00:00:26,852
+Tonight this is a cold case, and the evidence is atoms.
+
+11
+00:00:26,852 --> 00:00:32,200
+We read isotopes like fingerprints, score every claim, and deliver a verdict.
+
+12
+00:00:32,666 --> 00:00:33,390
+Facts first.
+
+13
+00:00:33,390 --> 00:00:34,475
+Theories labelled.
+
+14
+00:00:34,475 --> 00:00:38,333
+And the rock does not lie, though it takes some careful reading.
+
+15
+00:00:38,799 --> 00:00:40,191
+Case file open.
+
+16
+00:00:40,191 --> 00:00:42,233
+Location: Oklo, Gabon.
+
+17
+00:00:46,700 --> 00:00:47,607
+Chapter one.
+
+18
+00:00:47,607 --> 00:00:49,118
+The missing uranium.
+
+19
+00:00:49,118 --> 00:00:53,426
+May, nineteen seventy-two, a French plant at Pierrelatte.
+
+20
+00:00:53,426 --> 00:00:58,566
+Technicians are checking a routine sample of uranium ore from Gabon.
+
+21
+00:00:59,033 --> 00:01:01,521
+Natural uranium is a fixed mix.
+
+22
+00:01:01,521 --> 00:01:05,132
+Almost all of it is uranium two thirty-eight.
+
+23
+00:01:05,132 --> 00:01:11,633
+Just point seven two percent is uranium two thirty-five, the isotope that splits.
+
+24
+00:01:12,099 --> 00:01:17,604
+That ratio is the same in moon rock, in meteorites, in every mine on Earth.
+
+25
+00:01:17,604 --> 00:01:20,466
+It is practically a constant of nature.
+
+26
+00:01:20,933 --> 00:01:24,322
+The Gabon sample read point six zero percent.
+
+27
+00:01:24,322 --> 00:01:29,066
+Roughly a sixth of the uranium two thirty-five was simply gone.
+
+28
+00:01:29,533 --> 00:01:31,157
+They assumed a mistake.
+
+29
+00:01:31,157 --> 00:01:32,570
+They measured again.
+
+30
+00:01:32,570 --> 00:01:33,276
+And again.
+
+31
+00:01:33,276 --> 00:01:37,866
+Some ore from the mine came in as low as point four four percent.
+
+32
+00:01:38,333 --> 00:01:40,395
+This was not just curiosity.
+
+33
+00:01:40,395 --> 00:01:45,477
+Uranium bookkeeping is how the world tracks nuclear weapons material.
+
+34
+00:01:45,477 --> 00:01:49,233
+Missing uranium means someone might be stealing it.
+
+35
+00:01:49,700 --> 00:01:54,054
+Investigators followed the ore trail back to a single place.
+
+36
+00:01:54,054 --> 00:01:58,700
+A mine near the town of Oklo, in the Franceville basin of Gabon.
+
+37
+00:01:59,166 --> 00:02:00,951
+They did not find thieves.
+
+38
+00:02:00,951 --> 00:02:03,492
+They found rock that had been burned.
+
+39
+00:02:03,492 --> 00:02:08,366
+Something had used up that uranium long before any human held a shovel.
+
+40
+00:02:08,833 --> 00:02:16,535
+The French Atomic Energy Commission made the announcement on the twenty-fifth of September, nineteen seventy-two.
+
+41
+00:02:16,535 --> 00:02:19,466
+The mine contained fossil nuclear reactors.
+
+42
+00:02:19,933 --> 00:02:20,743
+Chapter two.
+
+43
+00:02:20,743 --> 00:02:21,891
+The fingerprints.
+
+44
+00:02:21,891 --> 00:02:27,900
+A claim that big needs proof, and a reactor leaves a signature that is very hard to fake.
+
+45
+00:02:28,366 --> 00:02:34,807
+When uranium two thirty-five splits, it breaks into smaller atoms called fission products.
+
+46
+00:02:34,807 --> 00:02:38,099
+Those leftovers are the ash of a nuclear fire.
+
+47
+00:02:38,566 --> 00:02:42,413
+Scientists analysed neodymium in the Oklo rock.
+
+48
+00:02:42,413 --> 00:02:49,617
+Natural neodymium has about twenty-seven percent of the isotope neodymium one forty-two.
+
+49
+00:02:49,617 --> 00:02:51,500
+Oklo had less than six.
+
+50
+00:02:51,966 --> 00:02:56,005
+Instead, the neodymium matched the pattern left by fission.
+
+51
+00:02:56,005 --> 00:02:58,402
+It was not the fingerprint of rock.
+
+52
+00:02:58,402 --> 00:03:00,866
+It was the fingerprint of a reactor.
+
+53
+00:03:01,333 --> 00:03:03,659
+Ruthenium told the same story.
+
+54
+00:03:03,659 --> 00:03:09,008
+One isotope, ruthenium ninety-nine, is normally about twelve percent.
+
+55
+00:03:09,008 --> 00:03:15,133
+At Oklo it reached nearly thirty, the product of fission and radioactive decay.
+
+56
+00:03:15,599 --> 00:03:18,862
+Nobody carries fission ash into a mine by hand.
+
+57
+00:03:18,862 --> 00:03:24,000
+It formed right where it is found, in the same grains, in the same layers.
+
+58
+00:03:24,466 --> 00:03:26,330
+And there is a second clue.
+
+59
+00:03:26,330 --> 00:03:31,851
+Uranium two thirty-four, which does not come from fission, was perfectly normal.
+
+60
+00:03:31,851 --> 00:03:35,233
+That is exactly what a natural reaction predicts.
+
+61
+00:03:35,699 --> 00:03:38,484
+Three independent lines of evidence.
+
+62
+00:03:38,484 --> 00:03:43,821
+Depleted uranium, fission ash, and untouched uranium two thirty-four.
+
+63
+00:03:43,821 --> 00:03:45,599
+All point the same way.
+
+64
+00:03:46,066 --> 00:03:49,095
+The reactor theory had even been predicted.
+
+65
+00:03:49,095 --> 00:03:56,000
+In nineteen fifty-six, a chemist named Paul Kuroda had argued such a thing could happen in nature.
+
+66
+00:03:56,466 --> 00:03:57,418
+Chapter three.
+
+67
+00:03:57,418 --> 00:03:59,323
+How a reactor builds itself.
+
+68
+00:03:59,323 --> 00:04:06,599
+A chain reaction needs fuel, and it needs something to slow the neutrons down so they can split more atoms.
+
+69
+00:04:07,066 --> 00:04:11,330
+In a modern plant, that slowing is done by water or graphite.
+
+70
+00:04:11,330 --> 00:04:15,733
+At Oklo, it was plain groundwater seeping through cracked rock.
+
+71
+00:04:16,199 --> 00:04:19,919
+But that only works if the uranium is rich enough.
+
+72
+00:04:19,919 --> 00:04:22,745
+Today natural uranium is far too weak.
+
+73
+00:04:22,745 --> 00:04:25,199
+Two billion years ago it was not.
+
+74
+00:04:25,666 --> 00:04:30,476
+Uranium two thirty-five decays faster than uranium two thirty-eight.
+
+75
+00:04:30,476 --> 00:04:37,266
+Wind the clock back and it was about three percent, close to the fuel in a modern power station.
+
+76
+00:04:37,733 --> 00:04:39,942
+There was another requirement.
+
+77
+00:04:39,942 --> 00:04:40,457
+Oxygen.
+
+78
+00:04:40,457 --> 00:04:47,600
+Oxygen in the air and water dissolves uranium and carries it, so it can collect in rich deposits.
+
+79
+00:04:48,066 --> 00:04:52,861
+Oxygen had only recently been pumped into the atmosphere by tiny bacteria.
+
+80
+00:04:52,861 --> 00:04:57,266
+A few hundred million years earlier, this could never have happened.
+
+81
+00:04:57,733 --> 00:04:59,598
+So the timing is perfect.
+
+82
+00:04:59,598 --> 00:05:02,358
+Enough oxygen to concentrate the ore.
+
+83
+00:05:02,358 --> 00:05:05,492
+Enough uranium two thirty-five to fuel it.
+
+84
+00:05:05,492 --> 00:05:08,699
+And water flowing in to start the reaction.
+
+85
+00:05:09,166 --> 00:05:11,945
+Then came the genius of nature's design.
+
+86
+00:05:11,945 --> 00:05:14,932
+When the reaction ran, it heated the water.
+
+87
+00:05:14,932 --> 00:05:19,100
+The water boiled away, and without it, the reaction stopped.
+
+88
+00:05:19,566 --> 00:05:23,240
+Cool down, water returns, the reaction restarts.
+
+89
+00:05:23,240 --> 00:05:29,133
+A self-regulating reactor with no operator, no control rods, and no designer.
+
+90
+00:05:29,600 --> 00:05:30,433
+Chapter four.
+
+91
+00:05:30,433 --> 00:05:31,331
+The heartbeat.
+
+92
+00:05:31,331 --> 00:05:35,180
+How do you know how a reactor behaved two billion years ago?
+
+93
+00:05:35,180 --> 00:05:37,233
+You look for the gas it trapped.
+
+94
+00:05:37,699 --> 00:05:40,472
+Fission produces xenon, a heavy gas.
+
+95
+00:05:40,472 --> 00:05:47,633
+At Oklo, researchers found it locked inside tiny crystals of aluminium phosphate in the rock.
+
+96
+00:05:48,100 --> 00:05:53,805
+All five xenon isotopes were there, in proportions that only fission can make.
+
+97
+00:05:53,805 --> 00:05:56,000
+And their ratios hold a clock.
+
+98
+00:05:56,466 --> 00:05:58,768
+Some xenon forms later than others.
+
+99
+00:05:58,768 --> 00:06:03,833
+By reading what was trapped, scientists worked out the rhythm of the reactor.
+
+100
+00:06:04,300 --> 00:06:06,534
+Roughly thirty minutes of fission.
+
+101
+00:06:06,534 --> 00:06:10,937
+Then about two and a half hours of cooling while water seeped back.
+
+102
+00:06:10,937 --> 00:06:13,566
+A cycle of about three hours, repeating.
+
+103
+00:06:14,033 --> 00:06:17,513
+Over and over, for hundreds of thousands of years.
+
+104
+00:06:17,513 --> 00:06:22,733
+A natural geyser of nuclear fire, quietly pulsing under the African ground.
+
+105
+00:06:23,199 --> 00:06:24,383
+And it was gentle.
+
+106
+00:06:24,383 --> 00:06:30,566
+The average output stayed under a hundred kilowatts, about what a few dozen kettles would use.
+
+107
+00:06:31,033 --> 00:06:40,300
+Across sixteen separate zones the pattern repeated, each a seam of ore only centimetres thick, each reaching criticality on its own.
+
+108
+00:06:40,766 --> 00:06:43,991
+This was no accident of one lucky pocket.
+
+109
+00:06:43,991 --> 00:06:47,766
+It was geology repeating a recipe sixteen times.
+
+110
+00:06:48,233 --> 00:06:49,165
+Chapter five.
+
+111
+00:06:49,165 --> 00:06:50,098
+The suspects.
+
+112
+00:06:50,098 --> 00:06:58,133
+Now the cold case gets interesting, because online, Oklo has become a favourite of the ancient-technology crowd.
+
+113
+00:06:58,600 --> 00:07:01,410
+The first suspect: visitors from space.
+
+114
+00:07:01,410 --> 00:07:08,833
+The claim goes that Oklo was a reactor built by an advanced civilisation, and the waste is their trash.
+
+115
+00:07:09,300 --> 00:07:17,366
+A second version says a lost human civilisation built it, an ancient nuclear power plant that predates everything we know.
+
+116
+00:07:17,833 --> 00:07:21,440
+Suspect one, the engineers, needs a body of evidence.
+
+117
+00:07:21,440 --> 00:07:26,000
+Where are the tools, the buildings, the control systems, the bones?
+
+118
+00:07:26,466 --> 00:07:27,560
+There are none.
+
+119
+00:07:27,560 --> 00:07:31,646
+At Oklo, there is only natural rock with natural cracks.
+
+120
+00:07:31,646 --> 00:07:35,366
+No metal, no walls, no pipes, nothing manufactured.
+
+121
+00:07:35,833 --> 00:07:40,337
+And two billion years ago, the Earth had no animals at all.
+
+122
+00:07:40,337 --> 00:07:41,863
+Life meant microbes.
+
+123
+00:07:41,863 --> 00:07:44,153
+No hands, no brains, no tools.
+
+124
+00:07:44,153 --> 00:07:45,833
+Nothing to build with.
+
+125
+00:07:46,300 --> 00:07:51,919
+Even the oldest human civilisations are only about five thousand years old.
+
+126
+00:07:51,919 --> 00:07:55,066
+Oklo is four hundred thousand times older.
+
+127
+00:07:55,533 --> 00:07:58,401
+A designed reactor would also be better.
+
+128
+00:07:58,401 --> 00:08:02,488
+It would be steady, and it would carry waste away safely.
+
+129
+00:08:02,488 --> 00:08:05,500
+Oklo is messy, intermittent and low power.
+
+130
+00:08:05,966 --> 00:08:10,575
+Everything that makes Oklo special is explained without engineers.
+
+131
+00:08:10,575 --> 00:08:14,066
+The only mystery left is why nobody saw it sooner.
+
+132
+00:08:14,533 --> 00:08:15,440
+Chapter six.
+
+133
+00:08:15,440 --> 00:08:18,616
+The strange part is the rest of the world.
+
+134
+00:08:18,616 --> 00:08:19,750
+Why only Gabon?
+
+135
+00:08:19,750 --> 00:08:22,699
+Why has no second Oklo ever been found?
+
+136
+00:08:23,166 --> 00:08:25,985
+Because it needed everything at once.
+
+137
+00:08:25,985 --> 00:08:27,738
+A rich, thick ore body.
+
+138
+00:08:27,738 --> 00:08:29,490
+Oxygen-carried uranium.
+
+139
+00:08:29,490 --> 00:08:30,557
+Flowing water.
+
+140
+00:08:30,557 --> 00:08:34,366
+And time, during a narrow window of Earth history.
+
+141
+00:08:34,833 --> 00:08:39,398
+As uranium two thirty-five decayed away, the window closed.
+
+142
+00:08:39,398 --> 00:08:43,500
+Today, no natural deposit can ever go critical again.
+
+143
+00:08:43,966 --> 00:08:48,231
+Researchers have checked other very old uranium deposits.
+
+144
+00:08:48,231 --> 00:08:51,075
+Some show hints, but none comes close.
+
+145
+00:08:51,075 --> 00:08:54,966
+Oklo is the one place where the conditions lined up.
+
+146
+00:08:55,433 --> 00:08:58,621
+In science, rare is not the same as impossible.
+
+147
+00:08:58,621 --> 00:09:03,233
+A natural event with the right ingredients does not need a designer.
+
+148
+00:09:03,700 --> 00:09:06,388
+And Oklo has taught us something else.
+
+149
+00:09:06,388 --> 00:09:12,966
+Physicists used the isotope ratios to test whether the laws of nature have changed over time.
+
+150
+00:09:13,433 --> 00:09:19,650
+So far, the fine-structure constant looks remarkably stable across two billion years.
+
+151
+00:09:19,650 --> 00:09:23,600
+The fossil reactor is also a time capsule for physics.
+
+152
+00:09:24,066 --> 00:09:25,058
+Chapter seven.
+
+153
+00:09:25,058 --> 00:09:26,334
+The lesson for us.
+
+154
+00:09:26,334 --> 00:09:31,366
+Nuclear waste worries everyone, because it stays dangerous for so long.
+
+155
+00:09:31,833 --> 00:09:40,466
+At Oklo, plutonium and fission products stayed within metres of where they formed for nearly two billion years, held in the rock.
+
+156
+00:09:40,933 --> 00:09:44,681
+Engineers study the site to design deep waste storage.
+
+157
+00:09:44,681 --> 00:09:48,500
+Nature already ran the experiment, and the ground held.
+
+158
+00:09:48,966 --> 00:09:51,311
+That does not make storage easy.
+
+159
+00:09:51,311 --> 00:09:58,566
+But it shows that stable geology can lock atoms away longer than any human civilisation has lasted.
+
+160
+00:09:59,033 --> 00:10:01,108
+The mine itself is now closed.
+
+161
+00:10:01,108 --> 00:10:06,433
+The reactor zones were largely mined out, but a few were preserved for study.
+
+162
+00:10:06,899 --> 00:10:08,950
+Time for the forensic report.
+
+163
+00:10:08,950 --> 00:10:11,000
+Let us score the Oklo claims.
+
+164
+00:10:11,466 --> 00:10:16,756
+Uranium two thirty-five depleted in the ore: evidence, confirmed.
+
+165
+00:10:16,756 --> 00:10:20,906
+Fission ash like neodymium and ruthenium: evidence.
+
+166
+00:10:20,906 --> 00:10:24,405
+Xenon showing a three hour cycle: evidence.
+
+167
+00:10:24,405 --> 00:10:28,799
+Uranium three percent two billion years ago: evidence.
+
+168
+00:10:29,266 --> 00:10:32,956
+Any tools, structures or machinery: none found.
+
+169
+00:10:32,956 --> 00:10:36,096
+Designed by ancient humans: no evidence.
+
+170
+00:10:36,096 --> 00:10:38,373
+Built by aliens: no evidence.
+
+171
+00:10:38,373 --> 00:10:41,200
+Natural reactor: strongly supported.
+
+172
+00:10:41,666 --> 00:10:42,544
+The verdict.
+
+173
+00:10:42,544 --> 00:10:43,861
+Natural, but real.
+
+174
+00:10:43,861 --> 00:10:50,079
+Oklo was a genuine nuclear reactor, running two billion years before the first human.
+
+175
+00:10:50,079 --> 00:10:52,566
+It just needed no one to build it.
+
+176
+00:10:53,033 --> 00:10:55,174
+That is the wonder of this case.
+
+177
+00:10:55,174 --> 00:10:57,850
+We did not find proof of lost engineers.
+
+178
+00:10:57,850 --> 00:11:02,466
+We found proof that nature can do something we thought only we could.
+
+179
+00:11:02,933 --> 00:11:12,389
+Next case: a monumental gateway in the thin air of the Andes, carved from one block, tied to a city said to be impossibly old.
+
+180
+00:11:12,389 --> 00:11:14,866
+Tiwanaku and the Gate of the Sun.
+
+181
+00:11:15,333 --> 00:11:16,421
+What do you think?
+
+182
+00:11:16,421 --> 00:11:21,500
+Tell us in the comments, and subscribe for the next ancient mystery put to the test.
