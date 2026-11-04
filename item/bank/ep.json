@@ -1,0 +1,1512 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photograph of a Bronze Age mudbrick city with flat roofs, seen from a hill, engulfed by a blinding white fireball in the sky and a dark shockwave of dust, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Imagine a bright white light, brighter than the sun, over a city of tens of thousands. Seconds later, a wall of heat and wind. Nothing is left standing."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Imagine a bright white light, brighter than the sun, over a city of tens of thousands. Seconds later, a wall of heat and wind. Nothing is left standing.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial view of a vast ancient mudbrick tell mound rising from the dry Jordan Valley, Dead Sea haze and brown mountains behind, harsh sunlight, archaeological trenches, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the story told about this hill in Jordan, called Tall el-Hammam. A comet blast, three and a half thousand years ago. A real Bronze Age city, wiped out. Possibly even Sodom."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the story told about this hill in Jordan, called Tall el-Hammam. A comet blast, three and a half thousand years ago. A real Bronze Age city, wiped out. Possibly even Sodom.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.2
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A scientific journal article page lying on a desk under a lamp, blank unreadable text blocks, a red stamp-shaped mark blurred, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And in two thousand twenty-one, a respected journal published a paper that said it was proven. Then, in two thousand twenty-five, that same journal pulled it back."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And in two thousand twenty-one, a respected journal published a paper that said it was proven. Then, in two thousand twenty-five, that same journal pulled it back.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a pair of hands holding a red editor's pen over a printed page in a dim office, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we sit at the retraction desk. We take the claim apart line by line, and we mark every line: evidence, theory, or debunked."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we sit at the retraction desk. We take the claim apart line by line, and we mark every line: evidence, theory, or debunked.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide shot of a vast ancient mudbrick tell mound rising from the dry Jordan Valley, Dead Sea haze and brown mountains behind, harsh sunlight, archaeological trenches at golden hour, calm, empty, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First, the site itself. Because the real story is stranger than the headline. Case open."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First, the site itself. Because the real story is stranger than the headline. Case open.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 6.024
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial of the lower Jordan Valley, green river ribbon, pale Dead Sea in the distance, desert hills, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter one. The site. Tall el-Hammam lies in the Jordan Valley, east of the river, about thirteen kilometres northeast of the Dead Sea."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 THE SITE",
+   "A Hill Called Hot Baths",
+   "JORDAN VALLEY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter one. The site. Tall el-Hammam lies in the Jordan Valley, east of the river, about thirteen kilometres northeast of the Dead Sea.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Archaeologists in hats mapping a dig trench on a large ancient tell, orange dust, measuring poles, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The mound is huge. The fortified city covered about twenty-six hectares, and the upper part of the hill stands roughly thirty metres high."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The mound is huge. The fortified city covered about twenty-six hectares, and the upper part of the hill stands roughly thirty metres high.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Layered section of an ancient excavation wall showing stripes of brown, grey and black soil, a scale bar without markings, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "People lived here for thousands of years. From the Chalcolithic, about four thousand BC, through the Iron Age, and into Roman and Byzantine times."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "People lived here for thousands of years. From the Chalcolithic, about four thousand BC, through the Iron Age, and into Roman and Byzantine times.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 10.32
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An ancient Bronze Age walled city with gate towers on a hill, mudbrick, evening light, reconstruction painting style photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the city was biggest during the Middle Bronze Age, around two thousand to sixteen hundred BC. At that time it was one of the largest settlements in the whole region."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the city was biggest during the Middle Bronze Age, around two thousand to sixteen hundred BC. At that time it was one of the largest settlements in the whole region.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.736
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A shallow Byzantine mosaic floor bath chamber excavated in sand, tiles in geometric patterns, sunlight, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The name means Hill of the Hot Baths. In twenty eleven, diggers found a Byzantine bath, which fits the name beautifully."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The name means Hill of the Hot Baths. In twenty eleven, diggers found a Byzantine bath, which fits the name beautifully.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 8.064
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1940s explorer in a pith helmet studying a hand-drawn map spread on a camp table in the desert, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The American scholar Nelson Glueck surveyed the valley in nineteen forty-one. He tied this area to a biblical place called Abel Shittim."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The American scholar Nelson Glueck surveyed the valley in nineteen forty-one. He tied this area to a biblical place called Abel Shittim.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.408
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Excavators working in a trench with brushes at the top of a tell, shade tents, wide shot, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Real excavation began in the nineteen seventies. Then from two thousand five to two thousand sixteen, a team led by Steven Collins dug here every season."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Real excavation began in the nineteen seventies. Then from two thousand five to two thousand sixteen, a team led by Steven Collins dug here every season.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 11.136
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A large old Bible lying open on a wooden desk beside a trowel and potsherds, warm lamp, blank pages, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And Collins argued something bold. This was not just any city. It was Sodom, the city destroyed in the book of Genesis."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And Collins argued something bold. This was not just any city. It was Sodom, the city destroyed in the book of Genesis.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Aerial of a vast ancient mudbrick tell mound rising from the dry Jordan Valley, Dead Sea haze and brown mountains behind, harsh sunlight, archaeological trenches, long shadows, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mainstream archaeologists rejected that. So did many other biblical scholars. But a theory needs a destroyed city, so let us look at the destruction."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mainstream archaeologists rejected that. So did many other biblical scholars. But a theory needs a destroyed city, so let us look at the destruction.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeologists pointing at a dark burnt layer in a trench wall, ash and charcoal, harsh sun, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter two. The destruction layer. In the trenches, the diggers found a dark band of burnt material, with broken pottery and collapsed mudbrick."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 THE LAYER",
+   "What They Found",
+   "TRENCH \u00b7 BRONZE AGE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter two. The destruction layer. In the trenches, the diggers found a dark band of burnt material, with broken pottery and collapsed mudbrick.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 9.36
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Fragments of ancient broken pottery with glassy melted surfaces laid on a lab table with a ruler, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some of the pottery looked glassy on the outside, as if it had been heated far beyond a normal fire."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some of the pottery looked glassy on the outside, as if it had been heated far beyond a normal fire.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 6.528
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Collapsed mudbrick walls in an excavation, tumbled stones, dust in sunlight, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some walls had collapsed in a single direction. And, the team said, the upper part of the settlement had been stripped away."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some walls had collapsed in a single direction. And, the team said, the upper part of the settlement had been stripped away.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 7.56
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Ancient city abandoned for centuries, empty dry valley with ruins and a lone wild bush, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "After that, the area seems to have been abandoned for hundreds of years. A real gap in the story, which happens to matter later."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "After that, the area seems to have been abandoned for hundreds of years. A real gap in the story, which happens to matter later.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 8.088
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A scientist in a clean laboratory examining a tiny grain under a microscope, blue light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand twenty-one, the team published their explanation in Scientific Reports. The title spoke of a Bronze Age city destroyed by a cosmic airburst."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand twenty-one, the team published their explanation in Scientific Reports. The title spoke of a Bronze Age city destroyed by a cosmic airburst.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 11.4
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Microscope view of tiny glassy beads and melted mineral grains on a dark background, abstract, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The evidence they listed was microscopic. Tiny melted grains, called spherules. Shocked quartz. Zircon crystals that looked heated to extreme temperatures."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The evidence they listed was microscopic. Tiny melted grains, called spherules. Shocked quartz. Zircon crystals that looked heated to extreme temperatures.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Diagram-like cinematic illustration without writing of a fireball exploding above a landscape, white shockwave rings, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their picture: a small comet fragment explodes in the air, like Tunguska, nineteen oh eight, and the blast and heat destroy everything below."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their picture: a small comet fragment explodes in the air, like Tunguska, nineteen oh eight, and the blast and heat destroy everything below.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 9.672
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A glowing orange furnace core with melting rock, intense heat shimmering, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They claimed temperatures above two thousand degrees Celsius. Hot enough to melt rock, and to turn ordinary pottery to glass."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They claimed temperatures above two thousand degrees Celsius. Hot enough to melt rock, and to turn ordinary pottery to glass.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 8.472
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "sand",
+  "motion": "out",
+  "prompt": "Wide cinematic shot of the Dead Sea shore with white salt crust and calm water, hazy mountains, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is a gripping story. A one-off, instant, city-killing blast, ending in a salt-crusted wasteland. So who checked it?"
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is a gripping story. A one-off, instant, city-killing blast, ending in a salt-crusted wasteland. So who checked it?",
+    "file": "ep/audio/s23.mp3",
+    "dur": 8.184
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A stack of review reports on a desk with two coffee cups and a red pen, newsroom feel, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter three. The review. Because science is not what a paper says. It is what survives afterwards."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 THE REVIEW",
+   "Who Checked",
+   "PEER SCRUTINY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter three. The review. Because science is not what a paper says. It is what survives afterwards.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 6.288
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Three grey-suited experts reading papers in a bright university meeting room, serious faces, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Start with who wrote it. A large share of the authors belonged to the Comet Research Group, a body which sponsors the idea that comets repeatedly struck Earth."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Start with who wrote it. A large share of the authors belonged to the Comet Research Group, a body which sponsors the idea that comets repeatedly struck Earth.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 10.584
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A single lamp lighting a researcher's face while reading a screen in a dark office, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That does not make them wrong. But it does mean the airburst was a thesis they had been defending long before this dig."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That does not make them wrong. But it does mean the airburst was a thesis they had been defending long before this dig.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 7.536
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A physicist in an office with whiteboard covered in abstract curves and blast circles, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next, the outside experts. The physicist Mark Boslough, whose own work is cited in the paper, said the paper's reading of his models was wrong."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next, the outside experts. The physicist Mark Boslough, whose own work is cited in the paper, said the paper's reading of his models was wrong.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A close-up of a computer screen showing two nearly identical microscope images side by side, blurry, no text, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came the images. The scientific-integrity researcher Elisabeth Bik showed that some figures in the paper had been altered."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came the images. The scientific-integrity researcher Elisabeth Bik showed that some figures in the paper had been altered.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 8.76
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An expert in white coat marking a checklist at a lab bench, tidy samples in trays, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In March twenty twenty-two, an independent review concluded that the criteria for an airburst were simply not met."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In March twenty twenty-two, an independent review concluded that the criteria for an airburst were simply not met.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 7.512
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A weathered excavation notebook open on a desk, blank pages, pencil, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Questions piled up. Were the melted grains from the destruction layer, or just from ordinary fires and dirt? Were the temperatures real, or estimated from an assumption?"
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Questions piled up. Were the melted grains from the destruction layer, or just from ordinary fires and dirt? Were the temperatures real, or estimated from an assumption?",
+    "file": "ep/audio/s30.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Editorial desk with a printed note card with a red border, lamp light, photoreal, blank, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In February twenty twenty-three, the journal added an editor's note, warning readers that the conclusions were under question."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In February twenty twenty-three, the journal added an editor's note, warning readers that the conclusions were under question.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 7.992
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark desk with a large red stamp mark on a manuscript, dramatic lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And on the twenty-fourth of April, twenty twenty-five, Scientific Reports retracted the paper. Reason: concerns about methodology, analysis and data interpretation."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And on the twenty-fourth of April, twenty twenty-five, Scientific Reports retracted the paper. Reason: concerns about methodology, analysis and data interpretation.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Archaeologist's hand holding a worn Middle Bronze Age clay pot rim in a trench, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter four. What the ground really says. Strip away the airburst, and what is left? Quite a lot."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV \u00b7 THE GROUND",
+   "What Is Left",
+   "SOLID FINDS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter four. What the ground really says. Strip away the airburst, and what is left? Quite a lot.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 6.0
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Massive mudbrick rampart walls of an ancient city seen from below, steep glacis slope, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tall el-Hammam was a major walled city, with huge ramparts and a large population. That is fact, dug out of the earth."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tall el-Hammam was a major walled city, with huge ramparts and a large population. That is fact, dug out of the earth.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 8.592
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Archaeologists sieving soil on a hot dry day, workers in the trench, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Something did end that city, or at least reduced it. Burnt layers are real. Many ancient cities were burned by war, earthquake or accident."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Something did end that city, or at least reduced it. Burnt layers are real. Many ancient cities were burned by war, earthquake or accident.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient mudbrick houses on fire in a night scene, soldiers with torches in the distance, painterly photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mudbrick cities burn easily. Roofs held timber and reeds. A siege, or a single bad night, can fill a trench with black ash."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mudbrick cities burn easily. Roofs held timber and reeds. A siege, or a single bad night, can fill a trench with black ash.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Map-like aerial of the Jordan valley with scattered tells, hazy, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The valley also sits on the Dead Sea Transform, a major fault line. Earthquakes here are not a theory, they are a certainty."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The valley also sits on the Dead Sea Transform, a major fault line. Earthquakes here are not a theory, they are a certainty.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 8.352
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of cracked collapsed ancient wall layers with tilted stones, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tilted walls and collapsed bricks are what you would expect after an earthquake, with fire after it. No comet needed."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tilted walls and collapsed bricks are what you would expect after an earthquake, with fire after it. No comet needed.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 7.56
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A tidy lab table of tiny labelled sample bags, no writing, tweezers, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the abandonment? Many sites in the valley show gaps. Drought, shifting trade routes and conquest can all empty a city."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the abandonment? Many sites in the valley show gaps. Drought, shifting trade routes and conquest can all empty a city.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A farmer's lonely field beside a tell at dawn, grass and small flowers, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the humbling part of archaeology. A gap tells us something happened. It never tells us what."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the humbling part of archaeology. A gap tells us something happened. It never tells us what.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 6.72
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Archaeologist alone at dusk on the edge of a huge tell, small figure, huge sky, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the ground supports a great city and a burnt end. It does not, by itself, support a bomb from the sky."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the ground supports a great city and a burnt end. It does not, by itself, support a bomb from the sky.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 7.128
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Old illuminated-style painting of fire raining on an ancient city, painterly, no text, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter five. The Sodom problem. The airburst claim was never just about science. It was about a story."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "V \u00b7 SODOM",
+   "The Story Behind It",
+   "GENESIS 19"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter five. The Sodom problem. The airburst claim was never just about science. It was about a story.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 7.032
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Salt formations at the Dead Sea shore, white crystalline towers in turquoise water, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Genesis tells of cities destroyed by fire and brimstone, and the Dead Sea region is where tradition places them."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Genesis tells of cities destroyed by fire and brimstone, and the Dead Sea region is where tradition places them.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 7.632
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An ancient scroll rolled on a table beside a clay lamp, warm light, blank, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Plenty of places have been proposed. Some scholars say the cities lie beneath the southern Dead Sea. Others say Bab edh-Dhra. Collins says Hammam."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Plenty of places have been proposed. Some scholars say the cities lie beneath the southern Dead Sea. Others say Bab edh-Dhra. Collins says Hammam.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 10.104
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A group of scholars arguing around a table covered with maps, hands raised, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The dates are one problem. Collins matched the destruction to the Middle Bronze Age, but the Genesis story is told, in tradition, about a different era."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The dates are one problem. Collins matched the destruction to the Middle Bronze Age, but the Genesis story is told, in tradition, about a different era.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 10.392
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A narrow desert wadi with steep rock walls and long shadows, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The geography is another. Texts place Sodom near the Dead Sea's plain, with the plain being called a circle, or kikkar, of the Jordan."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The geography is another. Texts place Sodom near the Dead Sea's plain, with the plain being called a circle, or kikkar, of the Jordan.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 8.928
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Broken ancient stone tablets half buried in sand, no writing, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But nothing found at Hammam names it Sodom. No inscription, no seal, no text. The identification is an interpretation of a legend."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But nothing found at Hammam names it Sodom. No inscription, no seal, no text. The identification is an interpretation of a legend.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 9.864
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Looters' holes dug at an ancient mound at night, flashlight beams, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is a modern cost, too. After the claim went viral, sites like this attract attention, and in the Middle East, attention can bring looters."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is a modern cost, too. After the claim went viral, sites like this attract attention, and in the Middle East, attention can bring looters.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 9.48
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Overhead shot of two hands holding the thread of a rope between two cliffs, symbolic, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Faith and archaeology can sit side by side. But when a dig is led by a conclusion, the data tends to bend toward it."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Faith and archaeology can sit side by side. But when a dig is led by a conclusion, the data tends to bend toward it.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide empty valley with dust haze at sunset, no figures, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So can a real catastrophe still hide in the sand? Let us test the airburst idea on its own terms."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So can a real catastrophe still hide in the sand? Let us test the airburst idea on its own terms.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 7.128
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Large forest flattened in radial pattern from above, trees pointing outward, Siberian taiga, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter six. The physics. Airbursts are real. In nineteen oh eight, a blast flattened eighty million trees in Tunguska, Siberia."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI \u00b7 THE PHYSICS",
+   "Can Air Burn Cities",
+   "TUNGUSKA TEST"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter six. The physics. Airbursts are real. In nineteen oh eight, a blast flattened eighty million trees in Tunguska, Siberia.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Chelyabinsk-style bright meteor trail in a winter sky over a city, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty thirteen, a smaller one burst over Chelyabinsk, Russia. The shockwave broke thousands of windows and injured over a thousand people."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty thirteen, a smaller one burst over Chelyabinsk, Russia. The shockwave broke thousands of windows and injured over a thousand people.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A tall mudbrick city wall beside a small plain, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But notice what those blasts did not do. They did not melt cities into glass, and they did not stay hot enough to bake pottery."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But notice what those blasts did not do. They did not melt cities into glass, and they did not stay hot enough to bake pottery.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 8.064
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A scientist drawing temperature curves on a whiteboard with no readable writing, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Heat from an airburst lasts seconds. Melting thick mudbrick or sand takes time. The numbers in the paper needed a hotter, longer fire than physics allows."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Heat from an airburst lasts seconds. Melting thick mudbrick or sand takes time. The numbers in the paper needed a hotter, longer fire than physics allows.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 10.896
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic shot of ordinary wood fire in an ancient hearth with glowing embers, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And ordinary fires, with timber roofs and olive oil, can reach surprisingly high heat. Some glassy slag is common in burnt cities."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And ordinary fires, with timber roofs and olive oil, can reach surprisingly high heat. Some glassy slag is common in burnt cities.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 9.624
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Tiny round metallic spherules magnified on a dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Spherules sound dramatic. But they rain constantly from space, and form from welding, volcanoes and lightning. Their presence alone proves little."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Spherules sound dramatic. But they rain constantly from space, and form from welding, volcanoes and lightning. Their presence alone proves little.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Empty ancient doorway with a skeleton-free dusty floor, quiet, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the human story is thin. The paper described human remains, but critics said the evidence for a blast, rather than a collapse, is not clear."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the human story is thin. The paper described human remains, but critics said the evidence for a blast, rather than a collapse, is not clear.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Dark landscape with a single bright star above hills, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No crater. No meteorite. No clear shocked rock. An airburst leaves clues, and these clues are missing or contested."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No crater. No meteorite. No clear shocked rock. An airburst leaves clues, and these clues are missing or contested.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An editor reading a final report in a quiet office at night, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter seven. The lessons. What does a retraction mean? It does not prove the opposite. It means the claim was not shown."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII \u00b7 THE LESSON",
+   "What A Retraction Means",
+   "AFTER 2025"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter seven. The lessons. What does a retraction mean? It does not prove the opposite. It means the claim was not shown.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 7.944
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Archaeologists packing finds into crates at dusk, tents, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The dig itself stands. The pottery, the walls, the ramparts: those are still real data that anyone can study."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The dig itself stands. The pottery, the walls, the ramparts: those are still real data that anyone can study.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 7.44
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Young students working with brushes in a trench, mentors nearby, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the story is a warning. When we love a dramatic answer, we quietly lower the bar for proof."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the story is a warning. When we love a dramatic answer, we quietly lower the bar for proof.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 6.456
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A hand placing the final red mark on a long checklist, close-up, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which brings us to the scorecard. One at a time, claim by claim."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which brings us to the scorecard. One at a time, claim by claim.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 4.2
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark hall with a single lit desk at the end, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Retraction desk, closing the file."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Retraction desk, closing the file.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 2.088
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark desk with a single lamp, an old paper manuscript in soft focus on the left side, large empty dark space on the right, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The scorecard. Evidence against theory."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VERDICT",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The scorecard. Evidence against theory.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 2.376
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark desk with a single lamp, an old paper manuscript in soft focus on the left side, large empty dark space on the right, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A large Middle Bronze Age city at Hammam: evidence. A burnt end layer: partial. Earthquake and fire as explanation: plausible. Heat above two thousand degrees: doubtful."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A large Middle Bronze Age city at Hammam: evidence. A burnt end layer: partial. Earthquake and fire as explanation: plausible. Heat above two thousand degrees: doubtful.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark desk with a single lamp, an old paper manuscript in soft focus on the left side, large empty dark space on the right, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Genesis city of Sodom identified: unproven. The paper's airburst claim: retracted. A comet blast as alien disguise: no evidence at all."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Genesis city of Sodom identified: unproven. The paper's airburst claim: retracted. A comet blast as alien disguise: no evidence at all.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 10.944
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cinematic aerial of a vast ancient mudbrick tell mound rising from the dry Jordan Valley, Dead Sea haze and brown mountains behind, harsh sunlight, archaeological trenches under a stormy sky, a single ray of light, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. A real city, a real mystery, but not a proven airburst. The most dramatic explanation turned out to be the weakest one."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. A real city, a real mystery, but not a proven airburst. The most dramatic explanation turned out to be the weakest one.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A quiet Jordan Valley road at dawn, a small sign-free gate leading to an excavation, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the better story is that science worked. A bold claim was made, tested, challenged, and withdrawn. That is how the machine is supposed to run."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the better story is that science worked. A bold claim was made, tested, challenged, and withdrawn. That is how the machine is supposed to run.",
+    "file": "ep/audio/s68.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A dark mountain top with a mysterious glowing hovering orb of light above hills at night, photoreal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: the Hessdalen lights, a valley in Norway where strange glowing balls have been drifting over the hills for decades. Plasma, or something stranger?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: the Hessdalen lights, a valley in Norway where strange glowing balls have been drifting over the hills for decades. Plasma, or something stranger?",
+    "file": "ep/audio/s69.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card with a single small red pen resting on a dark desk, minimal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Do you think a catastrophe from the sky is still possible here? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Do you think a catastrophe from the sky is still possible here? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s70.mp3",
+    "dur": 9.312
+   }
+  ]
+ }
+]
