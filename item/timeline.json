@@ -1,0 +1,1336 @@
+{
+ "fps": 30,
+ "total": 26837,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 543,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A man cuts a rock to find crystals, and ruins a diamond saw blade. Inside the stone is a white ceramic cylinder with a thin metal rod down its middle. It looks like a spark plug. The rock, he is told, is five hundred thousand years old.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 17.016,
+     "start": 10,
+     "end": 521
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 525,
+   "end": 979,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For sixty years, the Coso artifact has been sold as proof of a lost civilization, ancient astronauts, even time travelers. One lab-style test finally answered it. It took a single X-ray.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 14.064,
+     "start": 535,
+     "end": 957
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 961,
+   "end": 1346,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we read the scan like a radiologist. History, findings, differential, impression. Facts first, then theories, then a verdict. This is the Coso artifact.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 11.76,
+     "start": 971,
+     "end": 1324
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1328,
+   "end": 1639,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Coso artifact. Evidence against theory. Dim the lights and read the film.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 5.28,
+     "start": 1338,
+     "end": 1497
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I",
+    "PATIENT HISTORY \u00b7 OLANCHA 1961",
+    "THREE ROCKHOUNDS"
+   ],
+   "img": "ep/img/shot_05.jpg",
+   "start": 1621,
+   "end": 2163,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "History. February thirteenth, nineteen sixty-one. Three rockhounds, Wallace Lane, Virginia Maxey and Mike Mikesell, are hunting for geodes on a peak near Olancha, California, about three hundred forty feet above the dry bed of Owens Lake.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 16.968,
+     "start": 1631,
+     "end": 2141
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 2145,
+   "end": 2652,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They run a little rock shop, the LM and V Rockhounds Gem and Gift Shop, and they need stock. They fill their sacks all morning, then tip everything together at lunch. That detail matters later: nobody can say which rock came from where.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 15.816,
+     "start": 2155,
+     "end": 2630
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2634,
+   "end": 2997,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The next day, in the shop workroom, Mikesell picks up one lumpy nodule and slices it with a nearly new diamond saw. It looks like any geode he has cut open before.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 11.016,
+     "start": 2644,
+     "end": 2975
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2979,
+   "end": 3454,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is no cavity, and no crystals. Instead the blade has cut across a perfectly round section of hard white material, like porcelain, with a two-millimeter shaft of bright metal at its center. The shaft sticks to a magnet.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 14.736,
+     "start": 2989,
+     "end": 3432
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3436,
+   "end": 3844,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "More oddities. Around the ceramic is a hexagonal layer, and a ring of decaying copper. The outer crust holds bits of shell, and two small metal lumps that look like a nail and a washer.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 12.528,
+     "start": 3446,
+     "end": 3822
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3826,
+   "end": 4221,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Maxey wrote about it to Desert Magazine. In her letter, she said a geologist had examined the shells and judged that the stone needed at least five hundred thousand years to form.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 12.072,
+     "start": 3836,
+     "end": 4199
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 4203,
+   "end": 4629,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice what she did not say. No name for the geologist. No report. No method. And in nineteen sixty-one, there was no way to date a rock like this. Hold that thought. We will come back to it.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 13.104,
+     "start": 4213,
+     "end": 4607
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4611,
+   "end": 4849,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The claim traveled fast. A rock, a spark plug, half a million years. It was too good not to repeat.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 6.864,
+     "start": 4621,
+     "end": 4827
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II",
+    "THE CLAIM \u00b7 500,000 YEARS",
+    "WHERE THE NUMBER CAME FROM"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4831,
+   "end": 5136,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So here is what we have before any scan. A stone, a cylinder, a rod. And one very big number: five hundred thousand years.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 9.072,
+     "start": 4841,
+     "end": 5114
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 5118,
+   "end": 5567,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Start with the number. A real geologist cannot date a lump of stone by looking at it. Radiocarbon needs organic material. Other methods need volcanic minerals. This nodule offered neither.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 13.872,
+     "start": 5128,
+     "end": 5545
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5549,
+   "end": 5926,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The geologist was never named. No paper appeared in any journal. Today, the age is not a finding at all. It is a rumor, repeated until it sounded like a fact.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 11.472,
+     "start": 5559,
+     "end": 5904
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5908,
+   "end": 6236,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The one detail that gave the age any weight was the shells in the crust. Shells suggest an ancient sea floor, and that is why the story took off.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 9.84,
+     "start": 5918,
+     "end": 6214
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6218,
+   "end": 6598,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the word geode did a lot of work. Real geodes take a very long time to grow, so a plug inside one sounds impossible. But is the stone a geode at all?",
+     "file": "ep/audio/s17.mp3",
+     "dur": 11.592,
+     "start": 6228,
+     "end": 6576
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6580,
+   "end": 7090,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A real geode has a thin hard shell of silica and a lining of crystals. This stone had neither. Maxey herself called the coating hardened clay. Its hardness is about three on the Mohs scale. Silica shell is far harder.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 15.912,
+     "start": 6590,
+     "end": 7068
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 7072,
+   "end": 7523,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And remember the nail and the washer stuck in the crust. If a modern nail is glued into the same coating as the shells, the shells cannot tell you the plug is ancient. Nothing in that crust was sealed in time.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 13.944,
+     "start": 7082,
+     "end": 7501
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III",
+    "THE X-RAY \u00b7 THE FIRST READINGS",
+    "WHAT THE FILM SHOWED"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 7505,
+   "end": 8003,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which brings up a simpler question. Who was in these hills with engines? Mining operations worked this very mountain range early in the twentieth century, and mines in those years ran on brand new internal combustion engines.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 15.504,
+     "start": 7515,
+     "end": 7981
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7985,
+   "end": 8377,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The first person to X-ray the nodule was Ron Calais, a creationist who collected strange finds. His film showed the white cylinder and a pale, spring-like shape at the top.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.0,
+     "start": 7995,
+     "end": 8355
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8359,
+   "end": 8816,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That spring was a gift to the legend. It did not look like a plug of the nineteen sixties, so writers called it a coil, a helix, even a capacitor. One suggested superconductors. Another, an antenna.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 14.136,
+     "start": 8369,
+     "end": 8794
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8798,
+   "end": 9300,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen sixty-nine, the magazine of the Fort Society, INFO Journal, suggested it was a corroded spark plug. The editor's brother said he was thunderstruck, because all the parts seemed to fit. Then they got stuck on that spring.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 15.648,
+     "start": 8808,
+     "end": 9278
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 9282,
+   "end": 9725,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Meanwhile Wallace Lane kept the stone at home. He refused to let anyone study it, and kept a standing offer to sell it for twenty-five thousand dollars. The scan was the only evidence anyone had.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 13.68,
+     "start": 9292,
+     "end": 9703
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9707,
+   "end": 10129,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It reached television. A nineteen seventies documentary series hosted by Leonard Nimoy showed it for a few seconds at the end of an episode. Books followed, and every retelling added a little more.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 12.984,
+     "start": 9717,
+     "end": 10107
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 10111,
+   "end": 10531,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One book, Secrets of the Lost Races, helped make the stone a classic. A researcher later claimed he ghost-wrote most of it. Later authors cited that book, and each other, but never the stone itself.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 12.912,
+     "start": 10121,
+     "end": 10509
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10513,
+   "end": 10988,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which brings us to nineteen ninety-nine. Two geologists, Pierre Stromberg and Paul Heinrich, wanted to know what that X-ray really showed. They did what nobody had done. They asked an expert on spark plugs.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 14.76,
+     "start": 10523,
+     "end": 10966
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10970,
+   "end": 11315,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Not an engineer. A collector. The Spark Plug Collectors of America, a club of people who can name a plug from its shape the way birdwatchers name a sparrow.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 10.416,
+     "start": 10980,
+     "end": 11293
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 11297,
+   "end": 11723,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On September ninth, nineteen ninety-nine, the club's president, Chad Windham, called Stromberg. He thought the letter must be a prank. In his words, he knew what it was the moment he saw the X-ray.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 13.104,
+     "start": 11307,
+     "end": 11701
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV",
+    "THE FINDINGS \u00b7 CHAMPION, 1920s",
+    "WHAT THE FILM REALLY SHOWS"
+   ],
+   "img": "ep/img/shot_30.jpg",
+   "start": 11705,
+   "end": 12144,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His reading: a Champion spark plug, nineteen twenties. Ten days later, the club's founder, Bill Bond, who keeps more than two thousand plugs in his private museum, called and said exactly the same.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 13.536,
+     "start": 11715,
+     "end": 12122
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 12126,
+   "end": 12542,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Windham mailed two real plugs of that era for comparison. He had chipped the brass cap off one, to show what lies underneath. Compare that to the film, and every strange part has a name.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 12.792,
+     "start": 12136,
+     "end": 12520
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12524,
+   "end": 13008,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The white cylinder is the ceramic insulator. The metal rod down the center is the electrode, made of iron alloy, which is why it sticks to a magnet. The hexagon is the steel body that holds it, shaped to fit a wrench.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 15.048,
+     "start": 12534,
+     "end": 12986
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12990,
+   "end": 13385,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The copper that looked so exotic is a pair of copper rings with a gasket between them. Porcelain and steel expand at different rates when the engine heats, so the plug needed that cushion.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.072,
+     "start": 13000,
+     "end": 13363
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 13367,
+   "end": 13914,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the famous spring? Champion plugs of that era often wore a brass top hat with a nut screwed in place. On a film, that stack of threads and a nut looks like a tiny coil. The very thing that fooled the believers is a detail of the original design.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 17.136,
+     "start": 13377,
+     "end": 13892
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 13896,
+   "end": 14359,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Plugs of that design lived in Ford Model T and Model A engines, millions of cars. Dropped by a prospector, a truck driver, or a mine worker, one lost plug is the most ordinary thing in the world.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 14.352,
+     "start": 13906,
+     "end": 14337
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 14341,
+   "end": 14791,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The film also shows what time did. The iron parts have rotted away almost completely. The brass top hat is nearly perfect. That is how brass and iron behave when they sit in damp salty ground.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 13.92,
+     "start": 14351,
+     "end": 14769
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14773,
+   "end": 15270,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Rust is a swelling mineral. As iron corrodes, it grows an orange-brown crust that glues sand, clay and pebbles to itself. Conservators see this all the time on old metal from the ground. They call it a concretion.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 15.48,
+     "start": 14783,
+     "end": 15248
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 15252,
+   "end": 15681,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And this was the perfect place to grow one. The dry bed of Owens Lake throws salty dust onto the hills in every storm. Salt speeds up rusting. Years, not millennia, would be enough.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 13.224,
+     "start": 15262,
+     "end": 15659
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 15663,
+   "end": 16079,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A conservation handbook even shows X-rays of modern objects rotted completely to oxide lumps, leaving empty cavities where the metal used to be. The Coso stone looks just like them.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 12.792,
+     "start": 15673,
+     "end": 16057
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 16061,
+   "end": 16500,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the stone is not a geode. It is an iron oxide concretion, a rusty crust that built up around a spark plug someone lost on that mountain, a few decades before the rockhounds found it.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 13.536,
+     "start": 16071,
+     "end": 16478
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "V",
+    "THE DIFFERENTIAL \u00b7 WHAT ELSE?",
+    "FIVE ALTERNATIVES"
+   ],
+   "img": "ep/img/shot_41.jpg",
+   "start": 16482,
+   "end": 16919,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Differential diagnosis. Every good report lists the alternatives and rules them out one at a time. Let us do the same for the lost civilization, the visitors from space, and the time traveler.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 13.488,
+     "start": 16492,
+     "end": 16897
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 16901,
+   "end": 17446,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alternative one: an ancient civilization. Maxey herself mentioned Atlantis and Mu, imagined worlds with no known ruins. But if a lost people had built engines, we would find their forges, their ruins, their garbage. Not one porcelain plug.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 17.088,
+     "start": 16911,
+     "end": 17424
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 17428,
+   "end": 17855,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What we do find in the ground, wherever people lived, is dozens of broken pots, post holes and ash. A technology that mass-produces porcelain insulators would have left a mountain of them.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 13.152,
+     "start": 17438,
+     "end": 17833
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 17837,
+   "end": 18342,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alternative two: ancient astronauts. A visitor crossing the stars with an engine that needs spark plugs is a strange idea. These are the plugs of a Model T. They burn gasoline in a fixed pattern, nothing like a starship.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 15.744,
+     "start": 17847,
+     "end": 18320
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 18324,
+   "end": 18707,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alternative three: a time traveler dropped it. That is fun, and impossible to disprove, which is the problem. An idea that nothing can test explains nothing at all.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 11.688,
+     "start": 18334,
+     "end": 18685
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 18689,
+   "end": 19191,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alternative four: a hoax. Spark plug collectors say they love pranks. But the club did not exist until nineteen seventy-five, and none of the three finders ever joined. Researchers found no sign that anyone planned a trick.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 15.648,
+     "start": 18699,
+     "end": 19169
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 19173,
+   "end": 19541,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What probably happened is more human. Three sincere people found something odd. One person guessed a big number. The guess became a fact, and nobody went back and checked.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 11.184,
+     "start": 19183,
+     "end": 19519
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 19523,
+   "end": 20018,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alternative five: that the X-ray is hiding something. In 2018 that was settled too. Stromberg was contacted by the family of one of the finders and finally got to inspect the real stone, not just the film.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 15.408,
+     "start": 19533,
+     "end": 19996
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 20000,
+   "end": 20473,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He brought along a geologist from the University of Washington. They confirmed it again, a nineteen twenties Champion plug. And the geologist could find no sign of the fossil shells that had made the stone famous.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 14.688,
+     "start": 20010,
+     "end": 20451
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 20455,
+   "end": 20877,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today the stone sits in a glass case at the Pacific Science Center in Seattle, in an exhibit called What Is Reality. The most honest label it could have is a spark plug that rusted into a rock.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 12.984,
+     "start": 20465,
+     "end": 20855
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 20859,
+   "end": 21265,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And that fits what the film said all along. Miners worked those hills. Cars and trucks bounced along those roads. One plug fell out, or was thrown away, and the desert did the rest.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 12.456,
+     "start": 20869,
+     "end": 21243
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": [
+    "VI",
+    "THE LEGEND \u00b7 HOW IT SPREAD",
+    "A RUMOR WITH A LIFE OF ITS OWN"
+   ],
+   "img": "ep/img/shot_52.jpg",
+   "start": 21247,
+   "end": 21665,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The legend still circulates. Writers repeat the age without the source, and several creationist authors kept presenting it even after the identification was sent to them, without a correction.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 12.864,
+     "start": 21257,
+     "end": 21643
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 21647,
+   "end": 22088,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is how an out-of-place artifact is made. A real object, a missing detail, a confident guess, and a chain of retellings. Each link cites the one before, and none of them goes back to the rock.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 13.632,
+     "start": 21657,
+     "end": 22066
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 22070,
+   "end": 22518,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why does it work? Because the first impression is irresistible. A perfect ceramic cylinder in a stone looks designed. Our brains are trained to see design, and a rusty crust hides the story that ended it.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 13.848,
+     "start": 22080,
+     "end": 22496
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 22500,
+   "end": 22931,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a famous cousin, the London Hammer, an iron hammer in a lump of rock. Same pattern: ordinary human tool, plus mineral crust, plus a missing date, plus a long chain of retellings.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 13.272,
+     "start": 22510,
+     "end": 22909
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 22913,
+   "end": 23442,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Real mysteries do exist in archaeology. But they hold up under measurement. When an anomaly dissolves with a single X-ray and a phone call, the interesting question is not what it is. It is why we wanted so badly for it to be something else.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 16.536,
+     "start": 22923,
+     "end": 23420
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 23424,
+   "end": 23800,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And to be fair to the finders, the legend was not their invention. They found something odd, and said so. The pages after that were written by people who never saw the stone.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 11.448,
+     "start": 23434,
+     "end": 23778
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 23782,
+   "end": 24167,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a quiet irony. Half a million years of history was claimed for a thing that has a factory, a brand name and a year. The truth is a lot more specific than the legend.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 11.736,
+     "start": 23792,
+     "end": 24145
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VII",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 24149,
+   "end": 24307,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score the case. Evidence on one side, theory on the other.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 4.2,
+     "start": 24159,
+     "end": 24285
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 24289,
+   "end": 24835,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A stone cut open in nineteen sixty-one: evidence. A porcelain and metal object inside it: evidence. A film that matches a nineteen twenties Champion plug part for part: evidence. A rusty crust that grows in years: evidence.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 17.112,
+     "start": 24299,
+     "end": 24813
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 24817,
+   "end": 25284,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A five hundred thousand year age: no source, no method. A geode: no. Fossil shells: not found. A lost civilization, a starship engine, a time traveler: no evidence. A hoax: no sign of one.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 14.496,
+     "start": 24827,
+     "end": 25262
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 25266,
+   "end": 25743,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Not aliens, not Atlantis, and not half a million years old. The Coso artifact is a nineteen twenties Champion spark plug that rusted into a lump, and the only thing that was ancient about it was the story.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 14.808,
+     "start": 25276,
+     "end": 25721
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 25725,
+   "end": 26095,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And that is the better story. One X-ray, one phone call to a hobbyist, and sixty years of myth collapsed. Curiosity beat the legend, the way it usually does.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 11.256,
+     "start": 25735,
+     "end": 26073
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 26077,
+   "end": 26504,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: in Peru, small mummified bodies with long skulls and three fingers were shown to the world as aliens. Then labs ran the DNA. What they found was stranger than a spark plug.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 13.152,
+     "start": 26087,
+     "end": 26482
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 26486,
+   "end": 26762,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Spark plug, geode, or something else? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 8.112,
+     "start": 26496,
+     "end": 26740
+    }
+   ]
+  }
+ ]
+}

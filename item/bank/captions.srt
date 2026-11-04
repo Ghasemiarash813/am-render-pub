@@ -1,0 +1,827 @@
+1
+00:00:00,333 --> 00:00:05,158
+A man cuts a rock to find crystals, and ruins a diamond saw blade.
+
+2
+00:00:05,158 --> 00:00:11,225
+Inside the stone is a white ceramic cylinder with a thin metal rod down its middle.
+
+3
+00:00:11,225 --> 00:00:13,199
+It looks like a spark plug.
+
+4
+00:00:13,199 --> 00:00:17,366
+The rock, he is told, is five hundred thousand years old.
+
+5
+00:00:17,833 --> 00:00:27,160
+For sixty years, the Coso artifact has been sold as proof of a lost civilization, ancient astronauts, even time travelers.
+
+6
+00:00:27,160 --> 00:00:30,141
+One lab-style test finally answered it.
+
+7
+00:00:30,141 --> 00:00:31,899
+It took a single X-ray.
+
+8
+00:00:32,366 --> 00:00:35,664
+Tonight we read the scan like a radiologist.
+
+9
+00:00:35,664 --> 00:00:38,961
+History, findings, differential, impression.
+
+10
+00:00:38,961 --> 00:00:42,184
+Facts first, then theories, then a verdict.
+
+11
+00:00:42,184 --> 00:00:44,133
+This is the Coso artifact.
+
+12
+00:00:44,600 --> 00:00:45,871
+The Coso artifact.
+
+13
+00:00:45,871 --> 00:00:47,568
+Evidence against theory.
+
+14
+00:00:47,568 --> 00:00:49,900
+Dim the lights and read the film.
+
+15
+00:00:54,366 --> 00:00:54,942
+History.
+
+16
+00:00:54,942 --> 00:00:57,824
+February thirteenth, nineteen sixty-one.
+
+17
+00:00:57,824 --> 00:01:11,366
+Three rockhounds, Wallace Lane, Virginia Maxey and Mike Mikesell, are hunting for geodes on a peak near Olancha, California, about three hundred forty feet above the dry bed of Owens Lake.
+
+18
+00:01:11,833 --> 00:01:18,058
+They run a little rock shop, the LM and V Rockhounds Gem and Gift Shop, and they need stock.
+
+19
+00:01:18,058 --> 00:01:22,997
+They fill their sacks all morning, then tip everything together at lunch.
+
+20
+00:01:22,997 --> 00:01:27,666
+That detail matters later: nobody can say which rock came from where.
+
+21
+00:01:28,133 --> 00:01:35,965
+The next day, in the shop workroom, Mikesell picks up one lumpy nodule and slices it with a nearly new diamond saw.
+
+22
+00:01:35,965 --> 00:01:39,166
+It looks like any geode he has cut open before.
+
+23
+00:01:39,633 --> 00:01:42,027
+There is no cavity, and no crystals.
+
+24
+00:01:42,027 --> 00:01:52,471
+Instead the blade has cut across a perfectly round section of hard white material, like porcelain, with a two-millimeter shaft of bright metal at its center.
+
+25
+00:01:52,471 --> 00:01:54,400
+The shaft sticks to a magnet.
+
+26
+00:01:54,866 --> 00:01:55,825
+More oddities.
+
+27
+00:01:55,825 --> 00:02:00,688
+Around the ceramic is a hexagonal layer, and a ring of decaying copper.
+
+28
+00:02:00,688 --> 00:02:07,400
+The outer crust holds bits of shell, and two small metal lumps that look like a nail and a washer.
+
+29
+00:02:07,866 --> 00:02:10,585
+Maxey wrote about it to Desert Magazine.
+
+30
+00:02:10,585 --> 00:02:19,966
+In her letter, she said a geologist had examined the shells and judged that the stone needed at least five hundred thousand years to form.
+
+31
+00:02:20,433 --> 00:02:22,421
+Notice what she did not say.
+
+32
+00:02:22,421 --> 00:02:24,266
+No name for the geologist.
+
+33
+00:02:24,266 --> 00:02:24,976
+No report.
+
+34
+00:02:24,976 --> 00:02:25,686
+No method.
+
+35
+00:02:25,686 --> 00:02:30,585
+And in nineteen sixty-one, there was no way to date a rock like this.
+
+36
+00:02:30,585 --> 00:02:31,862
+Hold that thought.
+
+37
+00:02:31,862 --> 00:02:33,566
+We will come back to it.
+
+38
+00:02:34,033 --> 00:02:35,732
+The claim traveled fast.
+
+39
+00:02:35,732 --> 00:02:38,776
+A rock, a spark plug, half a million years.
+
+40
+00:02:38,776 --> 00:02:40,900
+It was too good not to repeat.
+
+41
+00:02:41,366 --> 00:02:44,400
+So here is what we have before any scan.
+
+42
+00:02:44,400 --> 00:02:46,447
+A stone, a cylinder, a rod.
+
+43
+00:02:46,447 --> 00:02:50,466
+And one very big number: five hundred thousand years.
+
+44
+00:02:50,933 --> 00:02:52,595
+Start with the number.
+
+45
+00:02:52,595 --> 00:02:57,278
+A real geologist cannot date a lump of stone by looking at it.
+
+46
+00:02:57,278 --> 00:02:59,923
+Radiocarbon needs organic material.
+
+47
+00:02:59,923 --> 00:03:02,718
+Other methods need volcanic minerals.
+
+48
+00:03:02,718 --> 00:03:04,833
+This nodule offered neither.
+
+49
+00:03:05,300 --> 00:03:07,525
+The geologist was never named.
+
+50
+00:03:07,525 --> 00:03:09,974
+No paper appeared in any journal.
+
+51
+00:03:09,974 --> 00:03:12,867
+Today, the age is not a finding at all.
+
+52
+00:03:12,867 --> 00:03:16,800
+It is a rumor, repeated until it sounded like a fact.
+
+53
+00:03:17,266 --> 00:03:22,199
+The one detail that gave the age any weight was the shells in the crust.
+
+54
+00:03:22,199 --> 00:03:27,133
+Shells suggest an ancient sea floor, and that is why the story took off.
+
+55
+00:03:27,599 --> 00:03:30,442
+And the word geode did a lot of work.
+
+56
+00:03:30,442 --> 00:03:36,741
+Real geodes take a very long time to grow, so a plug inside one sounds impossible.
+
+57
+00:03:36,741 --> 00:03:39,199
+But is the stone a geode at all?
+
+58
+00:03:39,666 --> 00:03:44,902
+A real geode has a thin hard shell of silica and a lining of crystals.
+
+59
+00:03:44,902 --> 00:03:46,623
+This stone had neither.
+
+60
+00:03:46,623 --> 00:03:50,139
+Maxey herself called the coating hardened clay.
+
+61
+00:03:50,139 --> 00:03:53,580
+Its hardness is about three on the Mohs scale.
+
+62
+00:03:53,580 --> 00:03:55,599
+Silica shell is far harder.
+
+63
+00:03:56,066 --> 00:03:59,845
+And remember the nail and the washer stuck in the crust.
+
+64
+00:03:59,845 --> 00:04:07,266
+If a modern nail is glued into the same coating as the shells, the shells cannot tell you the plug is ancient.
+
+65
+00:04:07,266 --> 00:04:10,033
+Nothing in that crust was sealed in time.
+
+66
+00:04:10,500 --> 00:04:12,937
+Which brings up a simpler question.
+
+67
+00:04:12,937 --> 00:04:15,445
+Who was in these hills with engines?
+
+68
+00:04:15,445 --> 00:04:26,033
+Mining operations worked this very mountain range early in the twentieth century, and mines in those years ran on brand new internal combustion engines.
+
+69
+00:04:26,500 --> 00:04:33,166
+The first person to X-ray the nodule was Ron Calais, a creationist who collected strange finds.
+
+70
+00:04:33,166 --> 00:04:38,500
+His film showed the white cylinder and a pale, spring-like shape at the top.
+
+71
+00:04:38,966 --> 00:04:41,654
+That spring was a gift to the legend.
+
+72
+00:04:41,654 --> 00:04:49,500
+It did not look like a plug of the nineteen sixties, so writers called it a coil, a helix, even a capacitor.
+
+73
+00:04:49,500 --> 00:04:51,680
+One suggested superconductors.
+
+74
+00:04:51,680 --> 00:04:53,133
+Another, an antenna.
+
+75
+00:04:53,600 --> 00:05:01,160
+In nineteen sixty-nine, the magazine of the Fort Society, INFO Journal, suggested it was a corroded spark plug.
+
+76
+00:05:01,160 --> 00:05:06,882
+The editor's brother said he was thunderstruck, because all the parts seemed to fit.
+
+77
+00:05:06,882 --> 00:05:09,266
+Then they got stuck on that spring.
+
+78
+00:05:09,733 --> 00:05:12,998
+Meanwhile Wallace Lane kept the stone at home.
+
+79
+00:05:12,998 --> 00:05:20,451
+He refused to let anyone study it, and kept a standing offer to sell it for twenty-five thousand dollars.
+
+80
+00:05:20,451 --> 00:05:23,433
+The scan was the only evidence anyone had.
+
+81
+00:05:23,899 --> 00:05:25,366
+It reached television.
+
+82
+00:05:25,366 --> 00:05:33,166
+A nineteen seventies documentary series hosted by Leonard Nimoy showed it for a few seconds at the end of an episode.
+
+83
+00:05:33,166 --> 00:05:36,899
+Books followed, and every retelling added a little more.
+
+84
+00:05:37,366 --> 00:05:41,919
+One book, Secrets of the Lost Races, helped make the stone a classic.
+
+85
+00:05:41,919 --> 00:05:45,417
+A researcher later claimed he ghost-wrote most of it.
+
+86
+00:05:45,417 --> 00:05:50,299
+Later authors cited that book, and each other, but never the stone itself.
+
+87
+00:05:50,766 --> 00:05:53,676
+Which brings us to nineteen ninety-nine.
+
+88
+00:05:53,676 --> 00:06:00,732
+Two geologists, Pierre Stromberg and Paul Heinrich, wanted to know what that X-ray really showed.
+
+89
+00:06:00,732 --> 00:06:02,914
+They did what nobody had done.
+
+90
+00:06:02,914 --> 00:06:05,533
+They asked an expert on spark plugs.
+
+91
+00:06:06,000 --> 00:06:07,083
+Not an engineer.
+
+92
+00:06:07,083 --> 00:06:07,896
+A collector.
+
+93
+00:06:07,896 --> 00:06:16,433
+The Spark Plug Collectors of America, a club of people who can name a plug from its shape the way birdwatchers name a sparrow.
+
+94
+00:06:16,899 --> 00:06:23,298
+On September ninth, nineteen ninety-nine, the club's president, Chad Windham, called Stromberg.
+
+95
+00:06:23,298 --> 00:06:25,857
+He thought the letter must be a prank.
+
+96
+00:06:25,857 --> 00:06:30,033
+In his words, he knew what it was the moment he saw the X-ray.
+
+97
+00:06:30,500 --> 00:06:34,237
+His reading: a Champion spark plug, nineteen twenties.
+
+98
+00:06:34,237 --> 00:06:44,066
+Ten days later, the club's founder, Bill Bond, who keeps more than two thousand plugs in his private museum, called and said exactly the same.
+
+99
+00:06:44,533 --> 00:06:48,498
+Windham mailed two real plugs of that era for comparison.
+
+100
+00:06:48,498 --> 00:06:53,159
+He had chipped the brass cap off one, to show what lies underneath.
+
+101
+00:06:53,159 --> 00:06:57,333
+Compare that to the film, and every strange part has a name.
+
+102
+00:06:57,800 --> 00:07:00,883
+The white cylinder is the ceramic insulator.
+
+103
+00:07:00,883 --> 00:07:08,101
+The metal rod down the center is the electrode, made of iron alloy, which is why it sticks to a magnet.
+
+104
+00:07:08,101 --> 00:07:12,866
+The hexagon is the steel body that holds it, shaped to fit a wrench.
+
+105
+00:07:13,333 --> 00:07:18,898
+The copper that looked so exotic is a pair of copper rings with a gasket between them.
+
+106
+00:07:18,898 --> 00:07:25,433
+Porcelain and steel expand at different rates when the engine heats, so the plug needed that cushion.
+
+107
+00:07:25,899 --> 00:07:27,435
+And the famous spring?
+
+108
+00:07:27,435 --> 00:07:33,157
+Champion plugs of that era often wore a brass top hat with a nut screwed in place.
+
+109
+00:07:33,157 --> 00:07:37,763
+On a film, that stack of threads and a nut looks like a tiny coil.
+
+110
+00:07:37,763 --> 00:07:43,066
+The very thing that fooled the believers is a detail of the original design.
+
+111
+00:07:43,533 --> 00:07:49,531
+Plugs of that design lived in Ford Model T and Model A engines, millions of cars.
+
+112
+00:07:49,531 --> 00:07:57,899
+Dropped by a prospector, a truck driver, or a mine worker, one lost plug is the most ordinary thing in the world.
+
+113
+00:07:58,366 --> 00:08:00,873
+The film also shows what time did.
+
+114
+00:08:00,873 --> 00:08:04,559
+The iron parts have rotted away almost completely.
+
+115
+00:08:04,559 --> 00:08:07,213
+The brass top hat is nearly perfect.
+
+116
+00:08:07,213 --> 00:08:12,300
+That is how brass and iron behave when they sit in damp salty ground.
+
+117
+00:08:12,766 --> 00:08:14,759
+Rust is a swelling mineral.
+
+118
+00:08:14,759 --> 00:08:21,623
+As iron corrodes, it grows an orange-brown crust that glues sand, clay and pebbles to itself.
+
+119
+00:08:21,623 --> 00:08:26,347
+Conservators see this all the time on old metal from the ground.
+
+120
+00:08:26,347 --> 00:08:28,266
+They call it a concretion.
+
+121
+00:08:28,733 --> 00:08:31,930
+And this was the perfect place to grow one.
+
+122
+00:08:31,930 --> 00:08:37,431
+The dry bed of Owens Lake throws salty dust onto the hills in every storm.
+
+123
+00:08:37,431 --> 00:08:39,141
+Salt speeds up rusting.
+
+124
+00:08:39,141 --> 00:08:41,966
+Years, not millennia, would be enough.
+
+125
+00:08:42,433 --> 00:08:52,673
+A conservation handbook even shows X-rays of modern objects rotted completely to oxide lumps, leaving empty cavities where the metal used to be.
+
+126
+00:08:52,673 --> 00:08:55,233
+The Coso stone looks just like them.
+
+127
+00:08:55,700 --> 00:08:57,764
+So the stone is not a geode.
+
+128
+00:08:57,764 --> 00:09:09,266
+It is an iron oxide concretion, a rusty crust that built up around a spark plug someone lost on that mountain, a few decades before the rockhounds found it.
+
+129
+00:09:09,733 --> 00:09:11,367
+Differential diagnosis.
+
+130
+00:09:11,367 --> 00:09:16,625
+Every good report lists the alternatives and rules them out one at a time.
+
+131
+00:09:16,625 --> 00:09:23,233
+Let us do the same for the lost civilization, the visitors from space, and the time traveler.
+
+132
+00:09:23,700 --> 00:09:26,670
+Alternative one: an ancient civilization.
+
+133
+00:09:26,670 --> 00:09:32,250
+Maxey herself mentioned Atlantis and Mu, imagined worlds with no known ruins.
+
+134
+00:09:32,250 --> 00:09:39,133
+But if a lost people had built engines, we would find their forges, their ruins, their garbage.
+
+135
+00:09:39,133 --> 00:09:40,799
+Not one porcelain plug.
+
+136
+00:09:41,266 --> 00:09:48,237
+What we do find in the ground, wherever people lived, is dozens of broken pots, post holes and ash.
+
+137
+00:09:48,237 --> 00:09:54,433
+A technology that mass-produces porcelain insulators would have left a mountain of them.
+
+138
+00:09:54,899 --> 00:09:57,515
+Alternative two: ancient astronauts.
+
+139
+00:09:57,515 --> 00:10:03,691
+A visitor crossing the stars with an engine that needs spark plugs is a strange idea.
+
+140
+00:10:03,691 --> 00:10:06,089
+These are the plugs of a Model T.
+
+141
+00:10:06,089 --> 00:10:10,666
+They burn gasoline in a fixed pattern, nothing like a starship.
+
+142
+00:10:11,133 --> 00:10:14,455
+Alternative three: a time traveler dropped it.
+
+143
+00:10:14,455 --> 00:10:18,933
+That is fun, and impossible to disprove, which is the problem.
+
+144
+00:10:18,933 --> 00:10:22,833
+An idea that nothing can test explains nothing at all.
+
+145
+00:10:23,299 --> 00:10:25,080
+Alternative four: a hoax.
+
+146
+00:10:25,080 --> 00:10:28,142
+Spark plug collectors say they love pranks.
+
+147
+00:10:28,142 --> 00:10:35,121
+But the club did not exist until nineteen seventy-five, and none of the three finders ever joined.
+
+148
+00:10:35,121 --> 00:10:38,966
+Researchers found no sign that anyone planned a trick.
+
+149
+00:10:39,433 --> 00:10:41,899
+What probably happened is more human.
+
+150
+00:10:41,899 --> 00:10:44,633
+Three sincere people found something odd.
+
+151
+00:10:44,633 --> 00:10:46,766
+One person guessed a big number.
+
+152
+00:10:46,766 --> 00:10:50,633
+The guess became a fact, and nobody went back and checked.
+
+153
+00:10:51,100 --> 00:10:55,129
+Alternative five: that the X-ray is hiding something.
+
+154
+00:10:55,129 --> 00:10:57,334
+In 2018 that was settled too.
+
+155
+00:10:57,334 --> 00:11:06,533
+Stromberg was contacted by the family of one of the finders and finally got to inspect the real stone, not just the film.
+
+156
+00:11:07,000 --> 00:11:11,389
+He brought along a geologist from the University of Washington.
+
+157
+00:11:11,389 --> 00:11:15,499
+They confirmed it again, a nineteen twenties Champion plug.
+
+158
+00:11:15,499 --> 00:11:21,700
+And the geologist could find no sign of the fossil shells that had made the stone famous.
+
+159
+00:11:22,166 --> 00:11:30,020
+Today the stone sits in a glass case at the Pacific Science Center in Seattle, in an exhibit called What Is Reality.
+
+160
+00:11:30,020 --> 00:11:35,166
+The most honest label it could have is a spark plug that rusted into a rock.
+
+161
+00:11:35,633 --> 00:11:38,644
+And that fits what the film said all along.
+
+162
+00:11:38,644 --> 00:11:40,465
+Miners worked those hills.
+
+163
+00:11:40,465 --> 00:11:43,407
+Cars and trucks bounced along those roads.
+
+164
+00:11:43,407 --> 00:11:48,100
+One plug fell out, or was thrown away, and the desert did the rest.
+
+165
+00:11:48,566 --> 00:11:50,452
+The legend still circulates.
+
+166
+00:11:50,452 --> 00:12:01,433
+Writers repeat the age without the source, and several creationist authors kept presenting it even after the identification was sent to them, without a correction.
+
+167
+00:12:01,899 --> 00:12:05,062
+This is how an out-of-place artifact is made.
+
+168
+00:12:05,062 --> 00:12:10,543
+A real object, a missing detail, a confident guess, and a chain of retellings.
+
+169
+00:12:10,543 --> 00:12:15,533
+Each link cites the one before, and none of them goes back to the rock.
+
+170
+00:12:16,000 --> 00:12:17,172
+Why does it work?
+
+171
+00:12:17,172 --> 00:12:20,277
+Because the first impression is irresistible.
+
+172
+00:12:20,277 --> 00:12:23,933
+A perfect ceramic cylinder in a stone looks designed.
+
+173
+00:12:23,933 --> 00:12:29,866
+Our brains are trained to see design, and a rusty crust hides the story that ended it.
+
+174
+00:12:30,333 --> 00:12:35,910
+There is a famous cousin, the London Hammer, an iron hammer in a lump of rock.
+
+175
+00:12:35,910 --> 00:12:43,633
+Same pattern: ordinary human tool, plus mineral crust, plus a missing date, plus a long chain of retellings.
+
+176
+00:12:44,100 --> 00:12:46,814
+Real mysteries do exist in archaeology.
+
+177
+00:12:46,814 --> 00:12:49,250
+But they hold up under measurement.
+
+178
+00:12:49,250 --> 00:12:56,699
+When an anomaly dissolves with a single X-ray and a phone call, the interesting question is not what it is.
+
+179
+00:12:56,699 --> 00:13:00,666
+It is why we wanted so badly for it to be something else.
+
+180
+00:13:01,133 --> 00:13:05,533
+And to be fair to the finders, the legend was not their invention.
+
+181
+00:13:05,533 --> 00:13:08,066
+They found something odd, and said so.
+
+182
+00:13:08,066 --> 00:13:12,600
+The pages after that were written by people who never saw the stone.
+
+183
+00:13:13,066 --> 00:13:14,640
+There is a quiet irony.
+
+184
+00:13:14,640 --> 00:13:21,481
+Half a million years of history was claimed for a thing that has a factory, a brand name and a year.
+
+185
+00:13:21,481 --> 00:13:24,833
+The truth is a lot more specific than the legend.
+
+186
+00:13:25,299 --> 00:13:26,786
+Time to score the case.
+
+187
+00:13:26,786 --> 00:13:29,500
+Evidence on one side, theory on the other.
+
+188
+00:13:29,966 --> 00:13:33,782
+A stone cut open in nineteen sixty-one: evidence.
+
+189
+00:13:33,782 --> 00:13:37,598
+A porcelain and metal object inside it: evidence.
+
+190
+00:13:37,598 --> 00:13:43,673
+A film that matches a nineteen twenties Champion plug part for part: evidence.
+
+191
+00:13:43,673 --> 00:13:47,100
+A rusty crust that grows in years: evidence.
+
+192
+00:13:47,566 --> 00:13:51,900
+A five hundred thousand year age: no source, no method.
+
+193
+00:13:51,900 --> 00:13:52,846
+A geode: no.
+
+194
+00:13:52,846 --> 00:13:54,816
+Fossil shells: not found.
+
+195
+00:13:54,816 --> 00:14:00,254
+A lost civilization, a starship engine, a time traveler: no evidence.
+
+196
+00:14:00,254 --> 00:14:02,066
+A hoax: no sign of one.
+
+197
+00:14:02,533 --> 00:14:03,357
+The verdict.
+
+198
+00:14:03,357 --> 00:14:07,409
+Not aliens, not Atlantis, and not half a million years old.
+
+199
+00:14:07,409 --> 00:14:17,366
+The Coso artifact is a nineteen twenties Champion spark plug that rusted into a lump, and the only thing that was ancient about it was the story.
+
+200
+00:14:17,833 --> 00:14:19,941
+And that is the better story.
+
+201
+00:14:19,941 --> 00:14:25,392
+One X-ray, one phone call to a hobbyist, and sixty years of myth collapsed.
+
+202
+00:14:25,392 --> 00:14:29,099
+Curiosity beat the legend, the way it usually does.
+
+203
+00:14:29,566 --> 00:14:37,713
+Next case: in Peru, small mummified bodies with long skulls and three fingers were shown to the world as aliens.
+
+204
+00:14:37,713 --> 00:14:39,314
+Then labs ran the DNA.
+
+205
+00:14:39,314 --> 00:14:42,733
+What they found was stranger than a spark plug.
+
+206
+00:14:43,200 --> 00:14:45,687
+Spark plug, geode, or something else?
+
+207
+00:14:45,687 --> 00:14:51,333
+Tell us in the comments, and subscribe for the next ancient mystery put to the test.
