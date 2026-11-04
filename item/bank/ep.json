@@ -1,0 +1,1449 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Black and white style 1940s press photograph look, a young smiling US Army Air Forces captain in a leather flying helmet and goggles pushed up on his forehead standing beside a fighter plane, soft grain, photoreal portrait, face fully visible, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "January seventh, nineteen forty-eight. Captain Thomas Mantell, twenty-five years old, a decorated war hero, climbs into a fighter plane to chase something in the sky. Within the hour, he is dead."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "January seventh, nineteen forty-eight. Captain Thomas Mantell, twenty-five years old, a decorated war hero, climbs into a fighter plane to chase something in the sky. Within the hour, he is dead.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide shot of a huge strange pale metallic disc hovering above a snowy Kentucky farm field at winter afternoon, tiny fighter plane silhouette climbing toward it, dramatic sky, concept art, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The newspapers said he died chasing a flying saucer. It was the first time anyone had lost their life, so it seemed, to a UFO."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The newspapers said he died chasing a flying saucer. It was the first time anyone had lost their life, so it seemed, to a UFO.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A pilot's worn leather-bound flight logbook lying open and blank on a wooden desk beside a pair of goggles and a pencil, warm lamp light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight, we climb. We follow the flight rung by rung, from the ground to the last altitude he ever reached. Every claim gets checked against the record."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight, we climb. We follow the flight rung by rung, from the ground to the last altitude he ever reached. Every claim gets checked against the record.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A tall vintage brass-and-steel aircraft altimeter instrument with a blank dial face resting on dark cloth, dramatic side light, macro photograph, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At each height, we ask what is evidence, and what is rumor. Then we look at the suspects: a planet, a reflection, a secret balloon, and a spaceship."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At each height, we ask what is evidence, and what is rumor. Then we look at the suspects: a planet, a reflection, a secret balloon, and a spaceship.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of a lonely winter Kentucky farm field under a pale afternoon sky with thin high cirrus clouds, bare trees, soft haze, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the end, a verdict. Let's start on the ground, at one fifteen in the afternoon."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the end, a verdict. Let's start on the ground, at one fifteen in the afternoon.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 5.28
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "a 1940s US Army airfield control tower with a glass-walled cab on top of a plain white building, winter, bare trees, Kentucky, late afternoon haze, wide establishing photograph, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One fifteen in the afternoon. In the control tower at Godman Field, beside Fort Knox, Kentucky, the phone rings. It is the state highway patrol. People near Maysville are reporting a strange aircraft."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 GROUND",
+   "1:15 PM",
+   "THE CALLS \u00b7 GODMAN FIELD"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One fifteen in the afternoon. In the control tower at Godman Field, beside Fort Knox, Kentucky, the phone rings. It is the state highway patrol. People near Maysville are reporting a strange aircraft.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 14.472
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1940s wall-mounted black telephone in a wooden control tower office, a uniformed sergeant's hand holding the receiver, soft window light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Godman checks with flight service at Wright Field in Ohio. No traffic. About twenty minutes later, the police call again. Now it is Owensboro and Irvington, far to the west."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Godman checks with flight service at Wright Field in Ohio. No traffic. About twenty minutes later, the police call again. Now it is Owensboro and Irvington, far to the west.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Rural Kentucky townspeople on a sunlit street in 1948 clothes all pointing up at the sky, seen from behind, a pale shape tiny in the distance above, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Those towns describe something circular, about two hundred and fifty to three hundred feet across, moving west at, quote, a pretty good clip. The report is passed to Fort Knox."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Those towns describe something circular, about two hundred and fifty to three hundred feet across, moving west at, quote, a pretty good clip. The report is passed to Fort Knox.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Interior of a 1940s airfield control tower cab with three uniformed men looking out of large windows at the sky, one lifts binoculars, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At one forty-five, the tower sees it too. The assistant operator watches it for several minutes before he says a word. He does not want to, quote, make a flying saucer report."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At one forty-five, the tower sees it too. The assistant operator watches it for several minutes before he says a word. He does not want to, quote, make a flying saucer report.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a pair of heavy military 6x50 binoculars held in a gloved hand against a bright winter sky, photoreal, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The chief is called. Then the operations officer. Then the intelligence officer. Then the base commander, Colonel Guy Hix. Each looks through the tower's big binoculars. Nobody can name it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The chief is called. Then the operations officer. Then the intelligence officer. Then the base commander, Colonel Guy Hix. Each looks through the tower's big binoculars. Nobody can name it.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Mid-air view of a white parachute-shaped object high in a pale winter sky, hazy, seen through binocular vignette, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They say it is not an airplane. They say it is not a weather balloon. One calls it a parachute. Another says an ice cream cone tipped with red."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They say it is not an airplane. They say it is not a weather balloon. One calls it a parachute. Another says an ice cream cone tipped with red.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.72
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal winter sky over Kentucky with a small bright white round object high and hazy among thin cirrus clouds, empty horizon, calm, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Others say round and white. Huge and silver. One fourth the size of the full moon. A small white thing. The descriptions disagree. But almost all of them describe something big."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Others say round and white. Huge and silver. One fourth the size of the full moon. A small white thing. The descriptions disagree. But almost all of them describe something big.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 13.2
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "The airfield tower cab at golden hour with a quiet runway beneath, four tiny dots of aircraft approaching low from the south on the horizon, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Around two thirty, four fighter planes come into view from the south. The National Guard, flying home from Georgia. The tower calls the leader, Captain Mantell."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around two thirty, four fighter planes come into view from the south. The National Guard, flying home from Georgia. The tower calls the leader, Captain Mantell.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "a North American F-51D Mustang fighter of 1948, bare polished natural-metal skin, bubble canopy, four-bladed propeller, long nose, no markings, no numbers, no insignia, flying low over winter farmland in a flight of four, photoreal aerial photograph, golden light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mantell is twenty-five. In the war, he flew a transport plane on D-Day and towed gliders under heavy fire. He earned the Distinguished Flying Cross. He has a wife, Peggy, and two small sons."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 10,000 FT",
+   "The Scramble",
+   "THE FLIGHT OF FOUR"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mantell is twenty-five. In the war, he flew a transport plane on D-Day and towed gliders under heavy fire. He earned the Distinguished Flying Cross. He has a wife, Peggy, and two small sons.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 13.728
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Four 1948 fighter planes in loose formation climbing against a bright winter sky, the lead plane slightly ahead, seen from below, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One of the four is low on fuel and flies on home. Mantell takes his two wingmen, turns, and heads toward the object. The tower directs them. At first, none of the pilots can even see it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One of the four is low on fuel and flies on home. Mantell takes his two wingmen, turns, and heads toward the object. The tower directs them. At first, none of the pilots can even see it.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 13.536
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "View from inside a 1948 fighter cockpit, gloved hand on the control stick, bright haze beyond the canopy, instrument panel dim, photoreal, no readable gauges, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They climb. The fighter is a North American F-51, the same plane the world knows as the P-51 Mustang. It is fast, and it is powerful, but it is built for low and middle altitude."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They climb. The fighter is a North American F-51, the same plane the world knows as the P-51 Mustang. It is fast, and it is powerful, but it is built for low and middle altitude.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.56
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Mantell-style pilot in a leather helmet, oxygen mask absent, face tense, seen through a cockpit canopy, bright sky behind, photoreal portrait, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By ten thousand feet, the two wingmen see Mantell pulling away. He is ahead, climbing hard, and just barely in sight."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By ten thousand feet, the two wingmen see Mantell pulling away. He is ahead, climbing hard, and just barely in sight.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 8.064
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "High-altitude view from a cockpit of a faint pale shape ahead and above in a bright blue-white sky, wing tip of the fighter in frame, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, around two forty-five, his voice on the radio. Quote, I see something above and ahead of me, and I'm still climbing. Everyone in the tower hears it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, around two forty-five, his voice on the radio. Quote, I see something above and ahead of me, and I'm still climbing. Everyone in the tower hears it.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1940s radio set with large dials and a microphone on a desk in a tower operations room, a man's silhouette leaning toward it, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One of the wingmen answers with a question that survives in the record. What the hell are we looking for? They cannot see a thing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One of the wingmen answers with a question that survives in the record. What the hell are we looking for? They cannot see a thing.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 8.112
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of an old reel-to-reel tape recorder switched off and dusty on a shelf in a military office, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The tower asks Mantell for a description. And here the story starts to bend. Nobody in the tower can later remember his exact words. And, despite the rumors, there is no recording."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The tower asks Mantell for a description. And here the story starts to bend. Nobody in the tower can later remember his exact words. And, despite the rumors, there is no recording.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Vintage newspaper presses printing a front page, black and white, motion blur, headlines illegible and blurred, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Saucer writers later credited him with a famous line. Quote, it looks metallic, and it's tremendous in size. The line was repeated everywhere. But the tower never agreed he said it."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Saucer writers later credited him with a famous line. Quote, it looks metallic, and it's tremendous in size. The line was repeated everywhere. But the tower never agreed he said it.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Mantell's fighter plane tiny and bright climbing steeply toward a pale glowing object in a vast pale sky, cinematic wide, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What the tower did hear, all of them, was the last clear sentence. Quote, I'm going to twenty thousand feet."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What the tower did hear, all of them, was the last clear sentence. Quote, I'm going to twenty thousand feet.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 7.128
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of a vintage military oxygen mask with its hose hanging on a hook inside a dim aircraft cockpit, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the rule that matters most. Every pilot in those days was taught the same thing. Do not go above fifteen thousand feet without oxygen."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 15,000 FT",
+   "The Last Oxygen",
+   "HYPOXIA \u00b7 THE RULE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the rule that matters most. Every pilot in those days was taught the same thing. Do not go above fifteen thousand feet without oxygen.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Interior of an old high-altitude pressure chamber with riveted steel walls and small round windows, two airmen in 1940s uniform seated inside, dim light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Captain Edward Ruppelt, who later ran the Air Force's UFO project, took the training himself, in a pressure chamber. A few tough men reached fifteen thousand feet without a mask. Nobody got past seventeen."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Captain Edward Ruppelt, who later ran the Air Force's UFO project, took the training himself, in a pressure chamber. A few tough men reached fifteen thousand feet without a mask. Nobody got past seventeen.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a pilot's gloved hands slipping slowly off the control stick of a 1948 fighter, dim cockpit, soft focus, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lack of oxygen is called hypoxia. It is quiet. First you feel fine, even happy. Then your judgment goes. Then your vision. Then you black out, and you never notice it coming."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lack of oxygen is called hypoxia. It is quiet. First you feel fine, even happy. Then your judgment goes. Then your vision. Then you black out, and you never notice it coming.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Three F-51 fighters level in a pale sky, two of them breaking off into a gentle turn back toward the ground while one plane keeps climbing alone far above, photoreal F-51D Mustang fighter of 1948, bare polished natural-metal skin, bubble canopy, four-bladed propeller, long nose, no markings, no numbers, no insignia, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The wingmen carry no oxygen either. At fifteen thousand feet, they stop. They call Mantell. No answer. They start to come back down."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The wingmen carry no oxygen either. At fifteen thousand feet, they stop. They call Mantell. No answer. They start to come back down.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A tense pilot in a leather helmet glancing sideways at his canopy glass with a reflection of sun on it, closeup, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One of them says something on the way home. All he had seen, he says, was a reflection on his canopy. We will come back to that."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One of them says something on the way home. All he had seen, he says, was a reflection on his canopy. We will come back to that.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 8.112
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A small lone fighter plane climbing far above the clouds at high altitude with a thin dark blue sky beyond, tiny and isolated, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mantell goes on alone. Fifteen thousand. Sixteen. Eighteen. Twenty. He is chasing something above him that, as he flies, seems to climb away."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mantell goes on alone. Fifteen thousand. Sixteen. Eighteen. Twenty. He is chasing something above him that, as he flies, seems to climb away.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1948 airfield tower radio room with an operator in headphones staring silently at a quiet radio speaker, tense, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Back at Godman, the radio goes quiet. Calls to Mantell get no answer. He will never speak to anyone again."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Back at Godman, the radio goes quiet. Calls to Mantell get no answer. He will never speak to anyone again.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 7.632
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal view looking up at a very high pale sky with a faint contrail-free empty blue gradient and one tiny fighter plane speck, calm and silent, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why would a careful pilot do it? A friend who flew with him for years said Mantell was one of the most cautious men he knew. His guess was that he was after something he believed more important than his life."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why would a careful pilot do it? A friend who flew with him for years said Mantell was one of the most cautious men he knew. His guess was that he was after something he believed more important than his life.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 13.008
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Close-up of a flight surgeon's hand holding a vintage wooden-case wristwatch, clinical office light, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Or maybe the plan was simple. Climb fast to twenty thousand, take a look, drop back down before the oxygen runs out. In a fighter this strong, it might have felt safe. It was a bet he could not win."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Or maybe the plan was simple. Climb fast to twenty thousand, take a look, drop back down before the oxygen runs out. In a fighter this strong, it might have felt safe. It was a bet he could not win.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A lone fighter plane seen in a very high thin atmosphere with the curve of dark-blue sky above, a faint shape ahead, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Investigators later reconstructed it from the wreck. The throttle setting, the debris, the way the plane fell. Somewhere near twenty-five thousand feet, Mantell passed out."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV \u00b7 25,000 FT",
+   "The Blackout",
+   "WHAT THE WRECK SAYS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Investigators later reconstructed it from the wreck. The throttle setting, the debris, the way the plane fell. Somewhere near twenty-five thousand feet, Mantell passed out.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cockpit view of a fighter plane pitch rising slowly with the nose lifting and the sky bright, a hand limp on a throttle, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "With a hand off the controls, the plane kept climbing for a while, up to around thirty thousand feet, before it fell off and started to turn."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "With a hand off the controls, the plane kept climbing for a while, up to around thirty thousand feet, before it fell off and started to turn.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A fighter plane in a tightening steep spiral dive high above clouds, seen from the side, motion lines of air, tiny, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came the spiral. Witnesses on the ground saw it circling down. The speed built and built."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came the spiral. Witnesses on the ground saw it circling down. The speed built and built.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 6.336
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A Kentucky farm field in winter with a column of dark smoke rising far away and a distant plane falling, farmer on a tractor looking up, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Near Franklin, Kentucky, on a farm, about four miles southwest of town, the fighter hit the ground. Mantell's watch had stopped at three eighteen."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Near Franklin, Kentucky, on a farm, about four miles southwest of town, the fighter hit the ground. Mantell's watch had stopped at three eighteen.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A broken 1940s fighter wing lying in a muddy winter field with scattered metal debris and torn grass, overcast light, photoreal, no markings, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The accident report is plain. The plane had lost a wing in a dive, from too much speed, after the pilot blacked out from lack of oxygen."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The accident report is plain. The plane had lost a wing in a dive, from too much speed, after the pilot blacked out from lack of oxygen.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A close-up of a torn military seat belt harness hanging from a wrecked fighter seat, gritty, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His seat belt was shredded. Word reached the tower within minutes. It was a terrible, ordinary crash."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His seat belt was shredded. Word reached the tower within minutes. It was a terrible, ordinary crash.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 6.792
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small wooden family photo frame turned face down on a mantel in a quiet 1940s Kentucky home, window light, photoreal, no faces visible, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A young man was dead. A wife lost her husband. Two boys lost their father. And by dark, the newspapers had a headline."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A young man was dead. A wife lost her husband. Two boys lost their father. And by dark, the newspapers had a headline.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Stack of 1948 newspapers on a table, bold blurred headlines illegible, sepia photograph look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Quote, F-51 and Captain Mantell destroyed chasing flying saucer. The Louisville Courier printed it that same day. Not a theory. A headline."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Quote, F-51 and Captain Mantell destroyed chasing flying saucer. The Louisville Courier printed it that same day. Not a theory. A headline.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 10.632
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Dark newsroom at night with a typewriter and rumor-covered papers scattered, a desk lamp, moody, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What happened next is a lesson in how a rumor grows. Within days, the crash was a legend."
+   ]
+  ],
+  "tag": "M",
+  "ch": [
+   "V \u00b7 IMPACT",
+   "The Wreck, and the Rumors",
+   "WHAT THE REPORT ACTUALLY FOUND"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What happened next is a lesson in how a rumor grows. Within days, the crash was a legend.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 6.168
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A cinematic concept art image of a fighter plane struck by a beam of light from a hovering disc at night above a field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The rumors said a spacecraft shot him down. That a ray hit him. That small holes were found in the plane."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The rumors said a spacecraft shot him down. That a ray hit him. That small holes were found in the plane.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 6.888
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Dark scene of a closed wooden coffin in a quiet funeral hall, soft light, empty chairs, photoreal, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They said his body was riddled with bullets. They said it was missing. That the plane came apart in mid-air. That the wreck was radioactive. Historian Curtis Peebles collected them all."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They said his body was riddled with bullets. They said it was missing. That the plane came apart in mid-air. That the wreck was radioactive. Historian Curtis Peebles collected them all.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a military investigator's hands holding a clipboard with a blank form next to a field of crash wreckage, overcast, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ruppelt wired for the real accident report. His summary is short. The body was not burned. It was not disintegrated. It was not full of holes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ruppelt wired for the real accident report. His summary is short. The body was not burned. It was not disintegrated. It was not full of holes.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vintage Geiger counter with a blank dial on a workbench beside a magnet and a compass, clinical lab light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The wreck was not radioactive. It was not magnetized. A wing was gone because the plane dived too fast. There was no ray, and no gunfire."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The wreck was not radioactive. It was not magnetized. A wing was gone because the plane dived too fast. There was no ray, and no gunfire.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Pale winter evening sky over Kentucky with a bright steady star-like point low in the southwest above bare trees, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the crash itself is explained. The mystery is the other question. What was he chasing? Three suspects. We start with the cheapest."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the crash itself is explained. The mystery is the other question. What was he chasing? Three suspects. We start with the cheapest.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 8.808
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dim airfield tower window at dusk with a single lamp lit and a tilted chair, quiet, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time for the first suspect: a planet, and a reflection."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time for the first suspect: a planet, and a reflection.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 3.456
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal night sky with the planet Venus as a brilliant bright point over a dark horizon with bare trees, clear and sharp, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect one: Venus. Project Sign, the Air Force's first UFO study, said so almost before the rescue crews reached the crash."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI \u00b7 SUSPECT 1",
+   "Venus and the Reflection",
+   "PLANET \u00b7 CANOPY \u00b7 SUNDOG"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect one: Venus. Project Sign, the Air Force's first UFO study, said so almost before the rescue crews reached the crash.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 9.48
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An astronomer's wooden desk with a paper star chart, a brass compass and a pencil, lamp light, shallow depth of field, photoreal, chart blank, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There was a reason. Weeks earlier, a fighter pilot had chased Venus. And at three o'clock that afternoon, Venus was in the southwest, in nearly the right place, at about thirty-three degrees high."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There was a reason. Weeks earlier, a fighter pilot had chased Venus. And at three o'clock that afternoon, Venus was in the southwest, in nearly the right place, at about thirty-three degrees high.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A bright empty blue afternoon sky with extremely faint tiny speck barely visible near the center, high haze, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The tower guessed forty-five degrees. Close enough, with human error. But there was a problem. Venus was only about six times brighter than the daytime sky. Almost impossible to see."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The tower guessed forty-five degrees. Close enough, with human error. But there was a problem. Venus was only about six times brighter than the daytime sky. Almost impossible to see.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 13.152
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Portrait style photograph of a mid-century astronomer in a tweed jacket at a university office window, quiet, soft light, face turned away, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The astronomer J. Allen Hynek did the math himself. He had helped write the Venus answer. Then he took it back. Venus, he told Ruppelt, was not bright enough, and the day was hazy."
+   ]
+  ],
+  "tag": "R",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The astronomer J. Allen Hynek did the math himself. He had helped write the Venus answer. Then he took it back. Venus, he told Ruppelt, was not bright enough, and the day was hazy.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Two glowing planets in a deep blue evening sky above a quiet Kentucky treeline, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That evening, at seven twenty, about a dozen towers did report a light low in the southwest. The Air Force says that one was Venus. Fine. But that was hours after Mantell."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That evening, at seven twenty, about a dozen towers did report a light low in the southwest. The Air Force says that one was Venus. Fine. But that was hours after Mantell.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A fighter pilot's canopy glass with a hot spot of sun glare and lens flare across it, interior view, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect one and a half: a reflection on the canopy. A wingman said it, as he flew home. But Ruppelt asked a dozen pilots. A canopy flare fools you for a second or two."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect one and a half: a reflection on the canopy. A wingman said it, as he flew home. But Ruppelt asked a dozen pilots. A canopy flare fools you for a second or two.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 11.928
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A wide pale sky with a faint ring halo and bright side spot around the sun, high thin ice cloud, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mantell chased his object for something like fifteen to twenty minutes, while it was seen from the ground, with binoculars, at the same time. A reflection does not do that. A sundog has fuzzy edges and fades when you climb."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mantell chased his object for something like fifteen to twenty minutes, while it was seen from the ground, with binoculars, at the same time. A reflection does not do that. A sundog has fuzzy edges and fades when you climb.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 14.784
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark airfield tower silhouette at sunset, quiet, a single small pale balloon-like speck very high in a clear sky, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So Venus is out as a full explanation, and the canopy and the sundog too. That leaves a stranger answer, and a secret."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So Venus is out as a full explanation, and the canopy and the sundog too. That leaves a stranger answer, and a secret.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 8.208
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "a gigantic pale translucent high-altitude research balloon shaped like an inverted teardrop or ice-cream cone with a small gondola hanging far beneath it, glowing white in low winter sunlight, rising over a snowy Ohio airfield at dawn with ground crew tiny beneath, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect two: a Skyhook balloon. In nineteen forty-eight, the Navy and the Air Force were launching enormous research balloons. One hundred feet across, and rising to sixty thousand feet or higher."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII \u00b7 SUSPECT 2",
+   "The Secret Balloon",
+   "SKYHOOK \u00b7 RUPPELT \u00b7 THE GAP"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect two: a Skyhook balloon. In nineteen forty-eight, the Navy and the Air Force were launching enormous research balloons. One hundred feet across, and rising to sixty thousand feet or higher.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "a gigantic pale translucent high-altitude research balloon shaped like an inverted teardrop or ice-cream cone with a small gondola hanging far beneath it, glowing white in low winter sunlight, high in a pale blue winter sky seen from the ground at a distance, tiny rural rooftops below, hazy, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They were highly classified. Mantell had never heard of one. The men in the tower had not either. Seen from far away, in low winter sun, it would look like a parachute, or an ice cream cone with a red tip."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They were highly classified. Mantell had never heard of one. The men in the tower had not either. Seen from far away, in low winter sun, it would look like a parachute, or an ice cream cone with a red tip.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 14.112
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A vintage map-like desk scene with a pencil, ruler and a hand-drawn blank winter wind arrow diagram on a plain paper, no text, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen fifty-two, Ruppelt had the winds reconstructed. A balloon launched from Clinton County in Ohio could drift west, be seen at Maysville, then Owensboro, then slide south past Godman, at the height Mantell could never reach."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen fifty-two, Ruppelt had the winds reconstructed. A balloon launched from Clinton County in Ohio could drift west, be seen at Maysville, then Owensboro, then slide south past Godman, at the height Mantell could never reach.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 17.04
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A telescope on a tripod pointed at a bright winter afternoon sky at a university observatory dome window, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And buried in the file were two forgotten reports. A man at Madisonville, looking through a telescope: a balloon. And an astronomer near Nashville that afternoon: a balloon, pear-shaped, with cables and a basket."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And buried in the file were two forgotten reports. A man at Madisonville, looking through a telescope: a balloon. And an astronomer near Nashville that afternoon: a balloon, pear-shaped, with cables and a basket.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 14.688
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Two narrow, nearly empty paper archive folders on a shelf with a dusty empty slot between them, dim archive light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But here is the gap. Nobody has ever found a launch record for January seventh. Ruppelt looked. Veterans remembered flying from Clinton County. They would not be pinned to that day."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But here is the gap. Nobody has ever found a launch record for January seventh. Ruppelt looked. Veterans remembered flying from Clinton County. They would not be pinned to that day.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A skeptical researcher at a desk with a pencil and a blank map, thinking, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Critics add a second problem. That Nashville balloon was perhaps a hundred and fifty miles away. The balloon fits the descriptions very well. It does not, however, come with a paper trail."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Critics add a second problem. That Nashville balloon was perhaps a hundred and fifty miles away. The balloon fits the descriptions very well. It does not, however, come with a paper trail.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark vintage 1940s fighter cockpit at night, a softly glowing round altimeter dial with a blank face far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the Mantell case."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the Mantell case.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 2.52
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark vintage 1940s fighter cockpit at night, a softly glowing round altimeter dial with a blank face far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real chase and a real crash: evidence. Many witnesses on the ground saw a large object: evidence. Mantell died from lack of oxygen: evidence, from the accident report. Venus alone: unlikely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real chase and a real crash: evidence. Many witnesses on the ground saw a large object: evidence. Mantell died from lack of oxygen: evidence, from the accident report. Venus alone: unlikely.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 14.736
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark vintage 1940s fighter cockpit at night, a softly glowing round altimeter dial with a blank face far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A Skyhook balloon: the best fit, but still unproven. A ray, bullets, or a shoot-down: debunked. A spacecraft: no evidence at all."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A Skyhook balloon: the best fit, but still unproven. A ray, bullets, or a shoot-down: debunked. A spacecraft: no evidence at all.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A single small weathered historical marker beside a road in a Kentucky field at dusk, blank plaque, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Case closed on the death. Open on the object, but narrowing. Mantell died of hypoxia, chasing what was most likely a secret balloon he had no way of knowing about."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Case closed on the death. Open on the object, but narrowing. Mantell died of hypoxia, chasing what was most likely a secret balloon he had no way of knowing about.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A father figure silhouette standing with a young boy beside a fighter plane in a quiet field at sunset, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The saddest part is that nothing alien is needed. A brave pilot, in a hurry to see something no one could name, went one rung too high. We still remember him by the thing he chased."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The saddest part is that nothing alien is needed. A brave pilot, in a hurry to see something no one could name, went one rung too high. We still remember him by the thing he chased.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A dark Midwestern night sky over a flat North Dakota airfield with a small glowing light darting above a lone small plane silhouette, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: that same year, over Fargo, a young pilot, a light that danced, and a dogfight that nobody could explain. Was it real?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: that same year, over Fargo, a young pilot, a light that danced, and a dogfight that nobody could explain. Was it real?",
+    "file": "ep/audio/s66.mp3",
+    "dur": 8.856
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small pale fighter plane silhouette climbing toward a faint glowing point in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think Mantell saw? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think Mantell saw? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 7.08
+   }
+  ]
+ }
+]
