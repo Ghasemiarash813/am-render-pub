@@ -1,0 +1,1140 @@
+{
+ "fps": 30,
+ "total": 21004,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 467,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nearly four thousand metres up in the Bolivian Andes, a stone lies in the grass. It is an H. Its corners are so sharp, and its faces so flat, that people ask a simple question. Could hands do this?",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.496,
+     "start": 10,
+     "end": 445
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 449,
+   "end": 904,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some say lost technology. Some say ancient astronauts. Others say patient stoneworkers with sand, stone hammers, and time. Tonight we audit the stones, clause by clause, and see what survives.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 14.088,
+     "start": 459,
+     "end": 882
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 886,
+   "end": 1211,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The rules are simple. Evidence counts. Theories are labelled as theories. And at the end, every claim gets a stamp: pass, fail, or still open.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 9.744,
+     "start": 896,
+     "end": 1189
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1193,
+   "end": 1419,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is Ancient Machines. The Puma Punku masonry audit. Clause one: where exactly are we?",
+     "file": "ep/audio/s04.mp3",
+     "dur": 6.456,
+     "start": 1203,
+     "end": 1397
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 THE SITE",
+    "Gate of the Puma",
+    "3,850 M \u00b7 TIWANAKU \u00b7 BOLIVIA"
+   ],
+   "img": "ep/img/shot_05.jpg",
+   "start": 1401,
+   "end": 1973,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause one. The site. Puma Punku is part of Tiwanaku, in Bolivia, at about three thousand eight hundred and fifty metres. The air is thin, the winters are cold, and almost nothing grows tall.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 13.968,
+     "start": 1411,
+     "end": 1831
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "pan",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 1955,
+   "end": 2427,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The name is usually translated as the Gate of the Puma. The platform is T-shaped, about one hundred and sixty-seven metres by one hundred and seventeen. A grand ceremonial stage, built for crowds.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 14.64,
+     "start": 1965,
+     "end": 2405
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2409,
+   "end": 2839,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The first European to write about Tiwanaku was the Spanish soldier Pedro Cieza de Le\u00f3n, in fifteen forty-nine. By then, the city had already been a ruin for about five centuries.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.248,
+     "start": 2419,
+     "end": 2817
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2821,
+   "end": 3270,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So when was it built? Radiocarbon work led by Alexei Vranich puts the start of construction at about five thirty-six to six hundred A D. That is the early Middle Ages, not the deep ice age.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 13.872,
+     "start": 2831,
+     "end": 3248
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3252,
+   "end": 3727,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tiwanaku peaked between seven hundred and a thousand A D, with perhaps ten to twenty thousand people. Then, around the year one thousand, it collapsed, probably in a long drought. Puma Punku was left unfinished.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 14.736,
+     "start": 3262,
+     "end": 3705
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3709,
+   "end": 3992,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Remember that: unfinished. A site that was still being built when it died is not a site left by gods. Clause two: the weight.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 8.352,
+     "start": 3719,
+     "end": 3970
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II \u00b7 THE WEIGHT",
+    "One Hundred Thirty-One Tonnes",
+    "SANDSTONE \u00b7 7.8 M \u00b7 QUARRY 10 KM"
+   ],
+   "img": "ep/img/shot_11.jpg",
+   "start": 3974,
+   "end": 4430,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause two. The big slab. The largest sandstone block on the platform is seven point eight metres long, five point two wide, and just over a metre thick. That is roughly one hundred and thirty-one tonnes.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 14.112,
+     "start": 3984,
+     "end": 4408
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "pan",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4412,
+   "end": 4820,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A second slab is about eighty-five tonnes. Heavy, yes. But this is red sandstone, a soft stone, and the quarry was only about ten kilometres away, near Lake Titicaca.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 12.528,
+     "start": 4422,
+     "end": 4798
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4802,
+   "end": 5217,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Moving a huge stone ten kilometres is a logistics problem, not a magic trick. Ropes, sledges, wooden rollers, ramps, and thousands of workers. The method is slow, but it works.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.744,
+     "start": 4812,
+     "end": 5195
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 5199,
+   "end": 5608,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the harder stone is the real puzzle. The H blocks and fine pieces are andesite, and that came from the Copacabana Peninsula, about ninety kilometres away, across the lake.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 12.552,
+     "start": 5209,
+     "end": 5586
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5590,
+   "end": 6039,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ninety kilometres, including water. Experiments with large reed boats suggest that is possible. Not easy. Possible. And the Tiwanaku people were lake people, with centuries of boat knowledge.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 13.872,
+     "start": 5600,
+     "end": 6017
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 6021,
+   "end": 6381,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Weight and distance: a hard job, but humans did hard jobs. Stamp: open, leaning to pass. Clause three is the one everyone came for. The H.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 10.92,
+     "start": 6031,
+     "end": 6359
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III \u00b7 THE H-BLOCK",
+    "Interlocking Precision",
+    "ANDESITE \u00b7 90\u00b0 \u00b7 MODULAR"
+   ],
+   "img": "ep/img/shot_17.jpg",
+   "start": 6363,
+   "end": 6799,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause three. The H block. Interlocking andesite pieces, with sharp inner corners and flat faces. Many of them form tiny blind gateways, like miniature doorways that open onto nothing.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 13.464,
+     "start": 6373,
+     "end": 6777
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "pan",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6781,
+   "end": 7240,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They look identical, but they are not. Researchers found that the blocks are interchangeable in style, yet their dimensions differ. Close, but never machine-perfect. That detail matters, and we will come back to it.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 14.232,
+     "start": 6791,
+     "end": 7218
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 7222,
+   "end": 7733,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Archaeologists Jean-Pierre Protzen and Stella Nair studied the corners in the nineteen nineties. Their key point: Inca stonework has rounded inner angles. Here, the inside angles are crisp, and that is odd for hammered stone.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 15.936,
+     "start": 7232,
+     "end": 7711
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7715,
+   "end": 8091,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So how do you get a sharp inside corner in a stone harder than steel chisels? Not with a hammerstone alone. That was the real argument, and it deserves a real test.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 11.448,
+     "start": 7725,
+     "end": 8069
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 8073,
+   "end": 8440,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which brings us to the sceptic's problem. If the stone cannot be cut by hammering, and nobody here had steel, something else must have been used. Or something else must exist.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 11.16,
+     "start": 8083,
+     "end": 8418
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8422,
+   "end": 8741,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First evidence on the table: sharp corners, flat faces, a modular system. It is real, and it is beautiful. Clause four: the theory.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 9.552,
+     "start": 8432,
+     "end": 8719
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "IV \u00b7 THE THEORY",
+    "Machined Stone?",
+    "LOST TECH \u00b7 ANCIENT ASTRONAUTS \u00b7 ATLANTIS"
+   ],
+   "img": "ep/img/shot_23.jpg",
+   "start": 8723,
+   "end": 9135,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause four. The machine theory. The claim is that only advanced tools, perhaps a lost civilisation or visitors from the stars, could cut stone this cleanly. You have seen the videos.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 12.648,
+     "start": 8733,
+     "end": 9113
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "pan",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 9117,
+   "end": 9512,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It spread through books, forums, and television. Atlantis. Ancient astronauts. A world before the ice. The pitch is simple: it looks too perfect, so humans could not have done it.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 12.096,
+     "start": 9127,
+     "end": 9490
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9494,
+   "end": 9994,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But notice what the claim leaves out. The people who built Tiwanaku were the ancestors of the Aymara and Quechua. A 2019 paper in Public Archaeology pointed out that this theory treats them as if they were incapable.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 15.576,
+     "start": 9504,
+     "end": 9972
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9976,
+   "end": 10415,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the hidden assumption: that people with no iron cannot do fine work. Yet we have fine work from people with no iron everywhere: Egyptian granite, Maya jade, Neolithic stone axes.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 13.536,
+     "start": 9986,
+     "end": 10393
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 10397,
+   "end": 10805,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And there is a second problem. An alien explanation is a story with no data. No alien tool, no metal, no spare part. Every claim on the list is a feeling, not a measurement.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 12.528,
+     "start": 10407,
+     "end": 10783
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10787,
+   "end": 11089,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Stamp for the machine theory: unsupported. But we owe it a fair test. Can anyone reproduce those corners by hand? Clause five.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 9.0,
+     "start": 10797,
+     "end": 11067
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "V \u00b7 THE EXPERIMENT",
+    "Hands vs Andesite",
+    "FLINT \u00b7 OBSIDIAN \u00b7 HEMATITE \u00b7 40 HOURS"
+   ],
+   "img": "ep/img/shot_29.jpg",
+   "start": 11071,
+   "end": 11559,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause five. The experiment. Stella Nair and a team tried to answer the question directly. They carved a small half-cross shape, about eight inches wide, in andesite, using only tools the Tiwanaku people had.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 15.192,
+     "start": 11081,
+     "end": 11537
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "pan",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 11541,
+   "end": 12038,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Flint, obsidian, hematite and other hard stones. They struck, abraded, and polished. And the result was precise. Sharp edges. Right angles. About forty hours of work for a first pass, around twenty-five for an expert.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 15.48,
+     "start": 11551,
+     "end": 12016
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 12020,
+   "end": 12456,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Bronze tools, by the way, did not work on andesite. The team found that stone tools are the ones that bite. So the sceptic's problem has a stone-age answer: harder stone cuts softer stone.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.44,
+     "start": 12030,
+     "end": 12434
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 12438,
+   "end": 12840,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But we should be honest about what the test did not do. One of the large flat inner surfaces was not fully replicated. A small block in a lab is not a thousand blocks on a mountain.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.312,
+     "start": 12448,
+     "end": 12818
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12822,
+   "end": 13231,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which is why the best clue is the blocks themselves. Close, but not identical. That suggests templates and patient copying, a prefabrication system, not a machine stamping out clones.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.552,
+     "start": 12832,
+     "end": 13209
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 13213,
+   "end": 13387,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So far: hands can do it, slowly. Clause six: the metal in the joints.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 4.728,
+     "start": 13223,
+     "end": 13365
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VI \u00b7 THE CRAMPS",
+    "Metal in the Stone",
+    "COPPER \u00b7 ARSENIC \u00b7 NICKEL"
+   ],
+   "img": "ep/img/shot_35.jpg",
+   "start": 13369,
+   "end": 13754,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause six. The cramps. Some blocks have sockets for metal clamps, shaped like an I. These were cast in place from a copper, arsenic and nickel bronze, then hammered cold.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 11.76,
+     "start": 13379,
+     "end": 13732
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "pan",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13736,
+   "end": 14154,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The sockets come in different shapes, L, T, U, Y and Z. Metallurgist Heather Lechtman's work showed this bronze is a local Andean recipe, not an import and not a mystery metal.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 12.864,
+     "start": 13746,
+     "end": 14132
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 14136,
+   "end": 14500,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A cramp found in the south canal shows it was cast right there, in a mould cut into the stone. Pour the metal in, let it cool, and the blocks are locked. Clever and practical.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 11.04,
+     "start": 14146,
+     "end": 14478
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 14482,
+   "end": 14939,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here is a nice twist. Similar metal cramps are used in Egypt, Greece, and Delphi. Different people, same engineering idea. Humans keep solving problems the same way, without talking to each other.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 14.136,
+     "start": 14492,
+     "end": 14917
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14921,
+   "end": 15305,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One more clue: the roof stones were carved to look like totora reeds, a plant of the lake. That is a very human choice. A builder copying the world around him in stone.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 11.712,
+     "start": 14931,
+     "end": 15283
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 15287,
+   "end": 15538,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Metal: local, cast, understood. Stamp: pass. Clause seven. What did this place look like when it was new?",
+     "file": "ep/audio/s40.mp3",
+     "dur": 7.272,
+     "start": 15297,
+     "end": 15516
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VII \u00b7 THE LOST LOOK",
+    "A Painted Gateway",
+    "METAL \u00b7 CERAMICS \u00b7 FABRIC"
+   ],
+   "img": "ep/img/shot_41.jpg",
+   "start": 15520,
+   "end": 15963,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Clause seven. The lost colours. Today the stones are grey and bare. But reports describe them once decorated with polished metal plaques, coloured ceramics and fabrics. A bright ceremonial palace.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 13.68,
+     "start": 15530,
+     "end": 15941
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "pan",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15945,
+   "end": 16257,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If so, the sharp corners were not for show. They were for fitting plaques and panels, which need straight edges. The precision had a job to do.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 9.312,
+     "start": 15955,
+     "end": 16235
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16239,
+   "end": 16684,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And there is more to find. A drone survey in 2016 mapped about seventeen hectares. Only two have been excavated. Ground penetrating radar shows more structures buried underneath.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 13.752,
+     "start": 16249,
+     "end": 16662
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16666,
+   "end": 17022,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So any verdict is provisional. Two out of seventeen hectares is like judging a book from its first two pages. The best discoveries here may still be underground.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 10.776,
+     "start": 16676,
+     "end": 17000
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 17004,
+   "end": 17442,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Vranich also points to older, simpler sites nearby, Pukara and Chiripa. Early stone traditions in the same region, which show the skills grew slowly, step by step, over centuries.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 13.512,
+     "start": 17014,
+     "end": 17420
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17424,
+   "end": 17643,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No sudden leap from nowhere. That is the strongest evidence of all. Clause eight: the scorecard.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 6.216,
+     "start": 17434,
+     "end": 17621
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VIII \u00b7 DEBRIEF",
+    "The Scorecard",
+    "STAMPS \u00b7 VERDICT"
+   ],
+   "img": "ep/img/shot_47.jpg",
+   "start": 17625,
+   "end": 17961,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. The scorecard. Seven clauses, three possible stamps. Let me read them one by one, the way an inspector would, with no drama and no mercy.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 10.128,
+     "start": 17635,
+     "end": 17939
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 17943,
+   "end": 18382,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The site and the date: pass. Built after five thirty-six A D by Tiwanaku, a documented culture, and abandoned unfinished. The weight and the quarry: pass. Heavy, but human logistics.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 13.56,
+     "start": 17953,
+     "end": 18360
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18364,
+   "end": 18785,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The sharp corners: pass, with a note. A hand-carving experiment reproduced the angles, though not every surface. The cramps: pass. A local bronze, cast in place. The lost look: pass.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 12.96,
+     "start": 18374,
+     "end": 18763
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18767,
+   "end": 19183,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The machine theory: fail. No tool, no metal, no data. The ancient astronaut story: fail. It depends on assuming that Andean people could not do fine work, and they plainly did.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 12.792,
+     "start": 18777,
+     "end": 19161
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19165,
+   "end": 19564,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One stamp stays open: how exactly were the largest flat inner surfaces made, and how many blocks were there in total? Honest archaeology. With a lot of it still underground.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 12.216,
+     "start": 19175,
+     "end": 19542
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19546,
+   "end": 20006,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Verdict. Machined stone? No. Patient masons? Almost certainly. Hard stone, hard tools, templates, time, and an ambitious state. The mystery is not that it was impossible. The mystery is how good they were.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 14.256,
+     "start": 19556,
+     "end": 19984
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 19988,
+   "end": 20377,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is a stranger story than aliens. A culture with no iron, no writing, no wheel, built these gates at four thousand metres. That is not less amazing. It is more.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 11.88,
+     "start": 19998,
+     "end": 20355
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 20359,
+   "end": 20730,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a bright light, a long radio signal, and a number scribbled in red ink. A message from deep space, or just a good coincidence? That is the Wow signal.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 11.28,
+     "start": 20369,
+     "end": 20708
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 20712,
+   "end": 20929,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 6.144,
+     "start": 20722,
+     "end": 20907
+    }
+   ]
+  }
+ ]
+}

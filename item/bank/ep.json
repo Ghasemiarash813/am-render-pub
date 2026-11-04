@@ -1,0 +1,1197 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of an interlocking H-shaped block of grey andesite stone with crisp right-angle inner corners, perfectly flat faces and a clean shallow groove, sharp edges lying in dry highland grass at golden hour, snow-capped Andes far behind, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nearly four thousand metres up in the Bolivian Andes, a stone lies in the grass. It is an H. Its corners are so sharp, and its faces so flat, that people ask a simple question. Could hands do this?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nearly four thousand metres up in the Bolivian Andes, a stone lies in the grass. It is an H. Its corners are so sharp, and its faces so flat, that people ask a simple question. Could hands do this?",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.496
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide aerial view of an ancient ruined stone platform scattered with huge fallen blocks on a barren high Andean plateau at dawn, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some say lost technology. Some say ancient astronauts. Others say patient stoneworkers with sand, stone hammers, and time. Tonight we audit the stones, clause by clause, and see what survives."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some say lost technology. Some say ancient astronauts. Others say patient stoneworkers with sand, stone hammers, and time. Tonight we audit the stones, clause by clause, and see what survives.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 14.088
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of weathered grey andesite block corners, sharp inside angle catching low sunlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The rules are simple. Evidence counts. Theories are labelled as theories. And at the end, every claim gets a stamp: pass, fail, or still open."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The rules are simple. Evidence counts. Theories are labelled as theories. And at the end, every claim gets a stamp: pass, fail, or still open.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 9.744
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Title card background: dark Andean night sky with the Milky Way over a silhouette of scattered stone blocks, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is Ancient Machines. The Puma Punku masonry audit. Clause one: where exactly are we?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is Ancient Machines. The Puma Punku masonry audit. Clause one: where exactly are we?",
+    "file": "ep/audio/s04.mp3",
+    "dur": 6.456
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial drone view of the Tiwanaku archaeological zone in Bolivia, a flat altiplano with a stone temple platform and distant mountains, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Clause one. The site. Puma Punku is part of Tiwanaku, in Bolivia, at about three thousand eight hundred and fifty metres. The air is thin, the winters are cold, and almost nothing grows tall."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 THE SITE",
+   "Gate of the Puma",
+   "3,850 M \u00b7 TIWANAKU \u00b7 BOLIVIA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Clause one. The site. Puma Punku is part of Tiwanaku, in Bolivia, at about three thousand eight hundred and fifty metres. The air is thin, the winters are cold, and almost nothing grows tall.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "pan",
+  "motion": "in",
+  "prompt": "Wide shot of a T-shaped stepped earthen platform mound on a high plateau with scattered stone blocks, dry grass, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The name is usually translated as the Gate of the Puma. The platform is T-shaped, about one hundred and sixty-seven metres by one hundred and seventeen. A grand ceremonial stage, built for crowds."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The name is usually translated as the Gate of the Puma. The platform is T-shaped, about one hundred and sixty-seven metres by one hundred and seventeen. A grand ceremonial stage, built for crowds.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A sixteenth-century Spanish chronicler in dark clothes with a feathered quill writing at a wooden desk by candlelight, oil painting look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The first European to write about Tiwanaku was the Spanish soldier Pedro Cieza de Le\u00f3n, in fifteen forty-nine. By then, the city had already been a ruin for about five centuries."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The first European to write about Tiwanaku was the Spanish soldier Pedro Cieza de Le\u00f3n, in fifteen forty-nine. By then, the city had already been a ruin for about five centuries.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Archaeologist's hands brushing soil from a dark charcoal sample in an excavation trench, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So when was it built? Radiocarbon work led by Alexei Vranich puts the start of construction at about five thirty-six to six hundred A D. That is the early Middle Ages, not the deep ice age."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So when was it built? Radiocarbon work led by Alexei Vranich puts the start of construction at about five thirty-six to six hundred A D. That is the early Middle Ages, not the deep ice age.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Dusty illuminated map-like landscape of Lake Titicaca at sunrise with reed boats and mountains, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tiwanaku peaked between seven hundred and a thousand A D, with perhaps ten to twenty thousand people. Then, around the year one thousand, it collapsed, probably in a long drought. Puma Punku was left unfinished."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tiwanaku peaked between seven hundred and a thousand A D, with perhaps ten to twenty thousand people. Then, around the year one thousand, it collapsed, probably in a long drought. Puma Punku was left unfinished.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 14.736
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Close-up of a half-finished stone block with chisel marks lying in grass, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Remember that: unfinished. A site that was still being built when it died is not a site left by gods. Clause two: the weight."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Remember that: unfinished. A site that was still being built when it died is not a site left by gods. Clause two: the weight.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 8.352
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A huge flat slab of red sandstone lying on the ground at Puma Punku with a person standing beside for scale, wide shot, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Clause two. The big slab. The largest sandstone block on the platform is seven point eight metres long, five point two wide, and just over a metre thick. That is roughly one hundred and thirty-one tonnes."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 THE WEIGHT",
+   "One Hundred Thirty-One Tonnes",
+   "SANDSTONE \u00b7 7.8 M \u00b7 QUARRY 10 KM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Clause two. The big slab. The largest sandstone block on the platform is seven point eight metres long, five point two wide, and just over a metre thick. That is roughly one hundred and thirty-one tonnes.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 14.112
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "pan",
+  "motion": "in",
+  "prompt": "Close-up of a huge red sandstone slab surface with natural bedding lines and a rough edge, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A second slab is about eighty-five tonnes. Heavy, yes. But this is red sandstone, a soft stone, and the quarry was only about ten kilometres away, near Lake Titicaca."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A second slab is about eighty-five tonnes. Heavy, yes. But this is red sandstone, a soft stone, and the quarry was only about ten kilometres away, near Lake Titicaca.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Ancient people dragging a massive stone block on a sled over wooden logs with ropes across a dry highland plain, painterly realistic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Moving a huge stone ten kilometres is a logistics problem, not a magic trick. Ropes, sledges, wooden rollers, ramps, and thousands of workers. The method is slow, but it works."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Moving a huge stone ten kilometres is a logistics problem, not a magic trick. Ropes, sledges, wooden rollers, ramps, and thousands of workers. The method is slow, but it works.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide landscape of a vast hard rock quarry hillside in the Andes with pale cut surfaces, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the harder stone is the real puzzle. The H blocks and fine pieces are andesite, and that came from the Copacabana Peninsula, about ninety kilometres away, across the lake."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the harder stone is the real puzzle. The H blocks and fine pieces are andesite, and that came from the Copacabana Peninsula, about ninety kilometres away, across the lake.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 12.552
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A traditional totora reed boat with several people carrying a grey stone block across calm Lake Titicaca at dawn, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ninety kilometres, including water. Experiments with large reed boats suggest that is possible. Not easy. Possible. And the Tiwanaku people were lake people, with centuries of boat knowledge."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ninety kilometres, including water. Experiments with large reed boats suggest that is possible. Not easy. Possible. And the Tiwanaku people were lake people, with centuries of boat knowledge.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 13.872
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Score board background: dark slate surface with three blank inspection stamp pads, dramatic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Weight and distance: a hard job, but humans did hard jobs. Stamp: open, leaning to pass. Clause three is the one everyone came for. The H."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Weight and distance: a hard job, but humans did hard jobs. Stamp: open, leaning to pass. Clause three is the one everyone came for. The H.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Studio photograph of an interlocking H-shaped block of grey andesite stone with crisp right-angle inner corners, perfectly flat faces and a clean shallow groove, sharp edges on a grey inspection table under even light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Clause three. The H block. Interlocking andesite pieces, with sharp inner corners and flat faces. Many of them form tiny blind gateways, like miniature doorways that open onto nothing."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 THE H-BLOCK",
+   "Interlocking Precision",
+   "ANDESITE \u00b7 90\u00b0 \u00b7 MODULAR"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Clause three. The H block. Interlocking andesite pieces, with sharp inner corners and flat faces. Many of them form tiny blind gateways, like miniature doorways that open onto nothing.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 13.464
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "pan",
+  "motion": "in",
+  "prompt": "Several matching grey andesite H-blocks laid side by side on a yard of dry grass, slight differences visible, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They look identical, but they are not. Researchers found that the blocks are interchangeable in style, yet their dimensions differ. Close, but never machine-perfect. That detail matters, and we will come back to it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They look identical, but they are not. Researchers found that the blocks are interchangeable in style, yet their dimensions differ. Close, but never machine-perfect. That detail matters, and we will come back to it.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a sharp ninety degree internal corner of carved grey andesite stone with fine tool texture, macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Archaeologists Jean-Pierre Protzen and Stella Nair studied the corners in the nineteen nineties. Their key point: Inca stonework has rounded inner angles. Here, the inside angles are crisp, and that is odd for hammered stone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Archaeologists Jean-Pierre Protzen and Stella Nair studied the corners in the nineteen nineties. Their key point: Inca stonework has rounded inner angles. Here, the inside angles are crisp, and that is odd for hammered stone.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 15.936
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Overhead view of a stone mason's workshop floor with grey stone dust, hammers and a half-carved block, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So how do you get a sharp inside corner in a stone harder than steel chisels? Not with a hammerstone alone. That was the real argument, and it deserves a real test."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So how do you get a sharp inside corner in a stone harder than steel chisels? Not with a hammerstone alone. That was the real argument, and it deserves a real test.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A modern scholar's desk with sketches of stone blocks, a calliper and photographs under lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which brings us to the sceptic's problem. If the stone cannot be cut by hammering, and nobody here had steel, something else must have been used. Or something else must exist."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which brings us to the sceptic's problem. If the stone cannot be cut by hammering, and nobody here had steel, something else must have been used. Or something else must exist.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Dark vault background with a spotlit grey andesite H-block on a pedestal, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First evidence on the table: sharp corners, flat faces, a modular system. It is real, and it is beautiful. Clause four: the theory."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First evidence on the table: sharp corners, flat faces, a modular system. It is real, and it is beautiful. Clause four: the theory.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A dramatic futuristic laser cutter beam cutting a grey stone block in a dark industrial hall, sparks, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Clause four. The machine theory. The claim is that only advanced tools, perhaps a lost civilisation or visitors from the stars, could cut stone this cleanly. You have seen the videos."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "IV \u00b7 THE THEORY",
+   "Machined Stone?",
+   "LOST TECH \u00b7 ANCIENT ASTRONAUTS \u00b7 ATLANTIS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Clause four. The machine theory. The claim is that only advanced tools, perhaps a lost civilisation or visitors from the stars, could cut stone this cleanly. You have seen the videos.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "pan",
+  "motion": "in",
+  "prompt": "A dark room with a man at a desk covered in printouts of stone blocks and a pinboard with red string, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It spread through books, forums, and television. Atlantis. Ancient astronauts. A world before the ice. The pitch is simple: it looks too perfect, so humans could not have done it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It spread through books, forums, and television. Atlantis. Ancient astronauts. A world before the ice. The pitch is simple: it looks too perfect, so humans could not have done it.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Sunlit Andean highland village with Aymara people in colourful traditional clothing walking past old stone walls, documentary photography, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But notice what the claim leaves out. The people who built Tiwanaku were the ancestors of the Aymara and Quechua. A 2019 paper in Public Archaeology pointed out that this theory treats them as if they were incapable."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But notice what the claim leaves out. The people who built Tiwanaku were the ancestors of the Aymara and Quechua. A 2019 paper in Public Archaeology pointed out that this theory treats them as if they were incapable.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 15.576
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Stone-age tools: hammerstones, flint blades and obsidian flakes laid on a cloth, museum photograph, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the hidden assumption: that people with no iron cannot do fine work. Yet we have fine work from people with no iron everywhere: Egyptian granite, Maya jade, Neolithic stone axes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the hidden assumption: that people with no iron cannot do fine work. Yet we have fine work from people with no iron everywhere: Egyptian granite, Maya jade, Neolithic stone axes.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 13.536
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Dim alien-looking spacecraft hovering above a ruined stone platform at night, cinematic matte painting look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there is a second problem. An alien explanation is a story with no data. No alien tool, no metal, no spare part. Every claim on the list is a feeling, not a measurement."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there is a second problem. An alien explanation is a story with no data. No alien tool, no metal, no spare part. Every claim on the list is a feeling, not a measurement.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Dark slate background with a red stamp pad and a pencil, dramatic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stamp for the machine theory: unsupported. But we owe it a fair test. Can anyone reproduce those corners by hand? Clause five."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stamp for the machine theory: unsupported. But we owe it a fair test. Can anyone reproduce those corners by hand? Clause five.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 9.0
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A researcher in a Peruvian open-air lab holding a small half-finished andesite block with a hammer and flint chisel, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Clause five. The experiment. Stella Nair and a team tried to answer the question directly. They carved a small half-cross shape, about eight inches wide, in andesite, using only tools the Tiwanaku people had."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "V \u00b7 THE EXPERIMENT",
+   "Hands vs Andesite",
+   "FLINT \u00b7 OBSIDIAN \u00b7 HEMATITE \u00b7 40 HOURS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Clause five. The experiment. Stella Nair and a team tried to answer the question directly. They carved a small half-cross shape, about eight inches wide, in andesite, using only tools the Tiwanaku people had.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 15.192
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "pan",
+  "motion": "in",
+  "prompt": "Close-up of hands holding a dark hard hammerstone against grey andesite with sparks and stone dust, workshop, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Flint, obsidian, hematite and other hard stones. They struck, abraded, and polished. And the result was precise. Sharp edges. Right angles. About forty hours of work for a first pass, around twenty-five for an expert."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Flint, obsidian, hematite and other hard stones. They struck, abraded, and polished. And the result was precise. Sharp edges. Right angles. About forty hours of work for a first pass, around twenty-five for an expert.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 15.48
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a small carved grey stone half-cross with crisp edges lying on a work table, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Bronze tools, by the way, did not work on andesite. The team found that stone tools are the ones that bite. So the sceptic's problem has a stone-age answer: harder stone cuts softer stone."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Bronze tools, by the way, did not work on andesite. The team found that stone tools are the ones that bite. So the sceptic's problem has a stone-age answer: harder stone cuts softer stone.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Hands polishing a flat grey stone surface with sand and water on a wooden bench, macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But we should be honest about what the test did not do. One of the large flat inner surfaces was not fully replicated. A small block in a lab is not a thousand blocks on a mountain."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But we should be honest about what the test did not do. One of the large flat inner surfaces was not fully replicated. A small block in a lab is not a thousand blocks on a mountain.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.312
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A long stone workshop yard with dozens of identical stone blocks being carved by workers, historic reconstruction, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which is why the best clue is the blocks themselves. Close, but not identical. That suggests templates and patient copying, a prefabrication system, not a machine stamping out clones."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which is why the best clue is the blocks themselves. Close, but not identical. That suggests templates and patient copying, a prefabrication system, not a machine stamping out clones.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 12.552
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A grey andesite block with carved grooves lit by a single warm spotlight, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So far: hands can do it, slowly. Clause six: the metal in the joints."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So far: hands can do it, slowly. Clause six: the metal in the joints.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 4.728
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of an I-shaped copper bronze cramp set in a groove of grey stone, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Clause six. The cramps. Some blocks have sockets for metal clamps, shaped like an I. These were cast in place from a copper, arsenic and nickel bronze, then hammered cold."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI \u00b7 THE CRAMPS",
+   "Metal in the Stone",
+   "COPPER \u00b7 ARSENIC \u00b7 NICKEL"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Clause six. The cramps. Some blocks have sockets for metal clamps, shaped like an I. These were cast in place from a copper, arsenic and nickel bronze, then hammered cold.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "pan",
+  "motion": "in",
+  "prompt": "Close-up of carved sockets in a grey stone block with shapes like L T U and Y, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The sockets come in different shapes, L, T, U, Y and Z. Metallurgist Heather Lechtman's work showed this bronze is a local Andean recipe, not an import and not a mystery metal."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The sockets come in different shapes, L, T, U, Y and Z. Metallurgist Heather Lechtman's work showed this bronze is a local Andean recipe, not an import and not a mystery metal.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A traditional metalworker pouring molten bronze into a stone mould in a small workshop, glowing orange, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A cramp found in the south canal shows it was cast right there, in a mould cut into the stone. Pour the metal in, let it cool, and the blocks are locked. Clever and practical."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A cramp found in the south canal shows it was cast right there, in a mould cut into the stone. Pour the metal in, let it cool, and the blocks are locked. Clever and practical.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 11.04
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Ancient stone cramp holding two blocks together at a Greek temple, sunlit marble, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here is a nice twist. Similar metal cramps are used in Egypt, Greece, and Delphi. Different people, same engineering idea. Humans keep solving problems the same way, without talking to each other."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here is a nice twist. Similar metal cramps are used in Egypt, Greece, and Delphi. Different people, same engineering idea. Humans keep solving problems the same way, without talking to each other.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 14.136
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Stone relief carving of a doubly curved roof lintel with carved reed pattern, museum lighting, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One more clue: the roof stones were carved to look like totora reeds, a plant of the lake. That is a very human choice. A builder copying the world around him in stone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One more clue: the roof stones were carved to look like totora reeds, a plant of the lake. That is a very human choice. A builder copying the world around him in stone.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A carved reed-pattern stone fragment lit by warm lamp, black background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Metal: local, cast, understood. Stamp: pass. Clause seven. What did this place look like when it was new?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Metal: local, cast, understood. Stamp: pass. Clause seven. What did this place look like when it was new?",
+    "file": "ep/audio/s40.mp3",
+    "dur": 7.272
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Computer-style reconstruction of Puma Punku restored with polished metal plaques and colourful ceramic tiles on stone walls under blue sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Clause seven. The lost colours. Today the stones are grey and bare. But reports describe them once decorated with polished metal plaques, coloured ceramics and fabrics. A bright ceremonial palace."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII \u00b7 THE LOST LOOK",
+   "A Painted Gateway",
+   "METAL \u00b7 CERAMICS \u00b7 FABRIC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Clause seven. The lost colours. Today the stones are grey and bare. But reports describe them once decorated with polished metal plaques, coloured ceramics and fabrics. A bright ceremonial palace.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "pan",
+  "motion": "in",
+  "prompt": "Close-up of a stone block with traces of faded red pigment and small drilled holes for plaques, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If so, the sharp corners were not for show. They were for fitting plaques and panels, which need straight edges. The precision had a job to do."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If so, the sharp corners were not for show. They were for fitting plaques and panels, which need straight edges. The precision had a job to do.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide aerial drone photograph of a archaeological dig grid at Tiwanaku with blue tarps and trenches, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there is more to find. A drone survey in 2016 mapped about seventeen hectares. Only two have been excavated. Ground penetrating radar shows more structures buried underneath."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there is more to find. A drone survey in 2016 mapped about seventeen hectares. Only two have been excavated. Ground penetrating radar shows more structures buried underneath.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 13.752
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Ground penetrating radar scan display with blurred shapes of buried walls on a dark screen, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So any verdict is provisional. Two out of seventeen hectares is like judging a book from its first two pages. The best discoveries here may still be underground."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So any verdict is provisional. Two out of seventeen hectares is like judging a book from its first two pages. The best discoveries here may still be underground.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 10.776
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Archaeologist Alexei Vranich style: a researcher in a field hat looking at a laptop in the sun next to stone ruins, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Vranich also points to older, simpler sites nearby, Pukara and Chiripa. Early stone traditions in the same region, which show the skills grew slowly, step by step, over centuries."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Vranich also points to older, simpler sites nearby, Pukara and Chiripa. Early stone traditions in the same region, which show the skills grew slowly, step by step, over centuries.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Dark vault background with a spotlit pair of tiny stone gateway miniatures, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No sudden leap from nowhere. That is the strongest evidence of all. Clause eight: the scorecard."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No sudden leap from nowhere. That is the strongest evidence of all. Clause eight: the scorecard.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 6.216
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "A stone inspector's desk with a clipboard, a calliper and a red stamp, dim warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. The scorecard. Seven clauses, three possible stamps. Let me read them one by one, the way an inspector would, with no drama and no mercy."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VIII \u00b7 DEBRIEF",
+   "The Scorecard",
+   "STAMPS \u00b7 VERDICT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. The scorecard. Seven clauses, three possible stamps. Let me read them one by one, the way an inspector would, with no drama and no mercy.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Photograph of a red PASS stamp pressed on blank paper beside a grey stone, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The site and the date: pass. Built after five thirty-six A D by Tiwanaku, a documented culture, and abandoned unfinished. The weight and the quarry: pass. Heavy, but human logistics."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The site and the date: pass. Built after five thirty-six A D by Tiwanaku, a documented culture, and abandoned unfinished. The weight and the quarry: pass. Heavy, but human logistics.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 13.56
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Photograph of a red PASS stamp beside a hammerstone on a wooden table, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The sharp corners: pass, with a note. A hand-carving experiment reproduced the angles, though not every surface. The cramps: pass. A local bronze, cast in place. The lost look: pass."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The sharp corners: pass, with a note. A hand-carving experiment reproduced the angles, though not every surface. The cramps: pass. A local bronze, cast in place. The lost look: pass.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of a red FAILED stamp beside a model alien head toy on a dark table, no text, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The machine theory: fail. No tool, no metal, no data. The ancient astronaut story: fail. It depends on assuming that Andean people could not do fine work, and they plainly did."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The machine theory: fail. No tool, no metal, no data. The ancient astronaut story: fail. It depends on assuming that Andean people could not do fine work, and they plainly did.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of an open question mark shaped shadow over a half-finished stone block in grass, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One stamp stays open: how exactly were the largest flat inner surfaces made, and how many blocks were there in total? Honest archaeology. With a lot of it still underground."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One stamp stays open: how exactly were the largest flat inner surfaces made, and how many blocks were there in total? Honest archaeology. With a lot of it still underground.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 12.216
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide cinematic shot of Puma Punku at sunrise with scattered H-blocks glowing orange, snowy mountains, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Verdict. Machined stone? No. Patient masons? Almost certainly. Hard stone, hard tools, templates, time, and an ambitious state. The mystery is not that it was impossible. The mystery is how good they were."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Verdict. Machined stone? No. Patient masons? Almost certainly. Hard stone, hard tools, templates, time, and an ambitious state. The mystery is not that it was impossible. The mystery is how good they were.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 14.256
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of an Aymara craftsperson's weathered hands holding a small stone carving, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is a stranger story than aliens. A culture with no iron, no writing, no wheel, built these gates at four thousand metres. That is not less amazing. It is more."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is a stranger story than aliens. A culture with no iron, no writing, no wheel, built these gates at four thousand metres. That is not less amazing. It is more.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 11.88
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky over Tiwanaku with the Milky Way and a silhouette of a stone gateway, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a bright light, a long radio signal, and a number scribbled in red ink. A message from deep space, or just a good coincidence? That is the Wow signal."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a bright light, a long radio signal, and a number scribbled in red ink. A message from deep space, or just a good coincidence? That is the Wow signal.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a grey andesite H-block glowing faintly in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 6.144
+   }
+  ]
+ }
+]
