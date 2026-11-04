@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph from inside a small aircraft cockpit at dusk, a young pilot's silhouette, glowing instrument panel, headset, dark ocean below, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nineteen seventy-eight. A twenty-year-old pilot is alone over the sea at night. He tells the controller there is a huge shape above him, and that it is not an aircraft."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nineteen seventy-eight. A twenty-year-old pilot is alone over the sea at night. He tells the controller there is a huge shape above him, and that it is not an aircraft.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 11.52
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old air traffic control room at night, one empty chair, a reel-to-reel tape recorder with spinning reels, dim green light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The controller records everything. Then comes seventeen seconds of a strange metallic scraping noise. And then, silence. The pilot and his plane were never found."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The controller records everything. Then comes seventeen seconds of a strange metallic scraping noise. And then, silence. The pilot and his plane were never found.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small white single-engine high-wing Cessna light aircraft with a red stripe along the fuselage flying low over dark ocean at last light, a faint green glow in the sky behind it, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Was it a visitor from another world? A pilot lost in the dark? Or something stranger than both? Tonight, we replay the flight recorder."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Was it a visitor from another world? A pilot lost in the dark? Or something stranger than both? Tonight, we replay the flight recorder.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 8.976
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an aviation investigator's desk with a thick folder, a vintage tape recorder, a paper map of a coast and a pencil, warm lamp, blank pages, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "We follow the minutes as they happened. We set the evidence beside each explanation. And at the end, we give a verdict."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "We follow the minutes as they happened. We set the evidence beside each explanation. And at the end, we give a verdict.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 7.92
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of Bass Strait at dusk, grey sea, low cloud on the horizon, a lonely coastline, moody, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The place is Bass Strait, off southern Australia. The date is the twenty-first of October. Let's begin."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The place is Bass Strait, off southern Australia. The date is the twenty-first of October. Let's begin.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 6.888
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a young man in his twenties in a white shirt standing beside a small light aircraft on an airfield at sunset, back turned to the camera, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test one. The pilot. Frederick Valentich was twenty years old, from Melbourne. He loved flying, and he wanted to fly for a living."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 THE PILOT",
+   "Frederick Valentich",
+   "AGE 20 \u00b7 MELBOURNE \u00b7 LICENCE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test one. The pilot. Frederick Valentich was twenty years old, from Melbourne. He loved flying, and he wanted to fly for a living.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 8.784
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a pilot's logbook lying open on a wooden desk beside a headset and a flight computer dial, warm light, blurred pages, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He held a private licence, and in May of that year he gained a night rating. He had not yet passed all the exams for a commercial licence. He had failed some of them, twice."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He held a private licence, and in May of that year he gained a night rating. He had not yet passed all the exams for a commercial licence. He had failed some of them, twice.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a teenage bedroom wall with model aeroplanes hanging from the ceiling and books on shelves, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Friends described a careful, keen young man. He was also interested in unidentified flying objects, and had read about them. Investigators later noted that interest in their report."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Friends described a careful, keen young man. He was also interested in unidentified flying objects, and had read about them. Investigators later noted that interest in their report.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a flying club office with a wall map of Victoria coast and a key rack, afternoon light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This matters, and it cuts both ways. It does not mean he invented a story. But it may have shaped how he read what he saw."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This matters, and it cuts both ways. It does not mean he invented a story. But it may have shaped how he read what he saw.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 8.016
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a flight instructor and a student leaning over a paper chart on the wing of a small aircraft, golden hour, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He was low on night experience, and the sea at night has no horizon. Keep that in mind. It will return."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He was low on night experience, and the sea at night has no horizon. Keep that in mind. It will return.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 7.2
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a small airport apron at dusk with a single light aircraft and runway lights coming on, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That evening, he planned a short training flight across the strait."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That evening, he planned a short training flight across the strait.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 3.696
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small white single-engine high-wing Cessna light aircraft with a red stripe along the fuselage parked on an airfield apron in the evening, soft sunset light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test two. The departure. A Cessna one eighty-two, rented from a flying school, filled with fuel for about five hours in the air."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 DEPARTURE",
+   "Moorabbin, 18:19",
+   "CESSNA 182 \u00b7 FUEL \u00b7 ROUTE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test two. The departure. A Cessna one eighty-two, rented from a flying school, filled with fuel for about five hours in the air.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a paper aviation map of southern Australia with a pencil line from the mainland coast across a strait to an island, warm light, no writing on the map, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The plan: from Moorabbin airport in Melbourne, to King Island, about two hundred thirty kilometres away. He took off a little after six in the evening."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The plan: from Moorabbin airport in Melbourne, to King Island, about two hundred thirty kilometres away. He took off a little after six in the evening.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a Cessna light aircraft taking off at sunset from a runway, long shadows, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Strangely, he gave different reasons for the trip. Some said he was going to collect friends. Others, that he wanted to buy crayfish."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Strangely, he gave different reasons for the trip. Some said he was going to collect friends. Others, that he wanted to buy crayfish.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 8.376
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small island coastline with a lighthouse and green farmland under evening cloud, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is a small thing. But it is the first loose thread, and we will mark it as unverified."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is a small thing. But it is the first loose thread, and we will mark it as unverified.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 5.88
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old light aircraft cockpit panel with round dials glowing in the dusk, hands on the control yoke, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At seven, he reported over Cape Otway. The weather was good, with excellent visibility and light winds. Daylight would end within twenty minutes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At seven, he reported over Cape Otway. The weather was good, with excellent visibility and light winds. Daylight would end within twenty minutes.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of Cape Otway coastal cliffs and lighthouse at dusk seen from the air, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Everything is normal. Now the clock reaches six minutes past seven."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Everything is normal. Now the clock reaches six minutes past seven.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 4.392
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an air traffic controller's headset and microphone on a dark console, green radar glow, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test three. The transmission. At six minutes past seven, Valentich calls Melbourne flight service. He asks if there is any known traffic below five thousand feet."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 TRANSMISSION",
+   "Nineteen Oh Six",
+   "THE LAST SIX MINUTES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test three. The transmission. At six minutes past seven, Valentich calls Melbourne flight service. He asks if there is any known traffic below five thousand feet.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a flight service officer at a desk with a headset and a paper flight strip board, dim room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The controller checks. There is no known traffic. Nothing is expected near him."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The controller checks. There is no known traffic. Nothing is expected near him.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 4.92
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph from a cockpit looking out at four bright lights in the dark sky ahead above the sea, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Valentich says a large aircraft is there, with four bright lights that look like landing lights. It has passed over him, about a thousand feet above."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Valentich says a large aircraft is there, with four bright lights that look like landing lights. It has passed over him, about a thousand feet above.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 9.984
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dark sky over a night sea with one bright elongated glowing shape far away, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He says it is moving at high speed, and it seems to be playing with him. He guesses it could be going one hundred miles an hour, then tries again to describe it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He says it is moving at high speed, and it seems to be playing with him. He guesses it could be going one hundred miles an hour, then tries again to describe it.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a reel-to-reel tape recorder close up, reels turning, a pencil and notepad beside it, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The controller asks him to identify the aircraft type. Valentich says he cannot. It is a long shape, he says, shiny, and metallic-looking."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The controller asks him to identify the aircraft type. Valentich says he cannot. It is a long shape, he says, shiny, and metallic-looking.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a cockpit at night with a green glow washing over the windscreen and instrument panel, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then he reports a green light, and something like a mist, and a pulsing, as it comes closer. This is the detail that puzzles pilots most."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then he reports a green light, and something like a mist, and a pulsing, as it comes closer. This is the detail that puzzles pilots most.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a cockpit instrument panel at night with an engine gauge and a hand on the throttle, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, his engine begins to run rough. He is flying at about four thousand five hundred feet, and he reports the strange craft overhead."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, his engine begins to run rough. He is flying at about four thousand five hundred feet, and he reports the strange craft overhead.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dark ocean at night with a faint pale glow on the clouds and a lone small aircraft silhouette, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He says it is hovering, and that it is not an aircraft. Those words are among the most famous in the history of unexplained sightings."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He says it is hovering, and that it is not an aircraft. Those words are among the most famous in the history of unexplained sightings.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 8.904
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a controller's hand hovering over a microphone button in a dark room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The controller replies calmly, asking his intentions. Valentich says he plans to carry on to King Island, and that the object is above him again."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The controller replies calmly, asking his intentions. Valentich says he plans to carry on to King Island, and that the object is above him again.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a Cessna silhouetted against a bright flare of light low over the sea at night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His last intelligible words are something like: it is not an aircraft, it is. And then the microphone stays open."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His last intelligible words are something like: it is not an aircraft, it is. And then the microphone stays open.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 7.824
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old audio reel and a sound waveform printed on paper, abstract grey bars and lines, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For seventeen seconds, the tape records a harsh metallic scraping sound. Then nothing. That is the last evidence we have of Frederick Valentich."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For seventeen seconds, the tape records a harsh metallic scraping sound. Then nothing. That is the last evidence we have of Frederick Valentich.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a quiet air traffic control room at night with the clock showing a late hour, no readable numbers, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The controller calls him again. There is no answer. Within minutes, the alert phase begins, and at half past seven, a full distress phase."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The controller calls him again. There is no answer. Within minutes, the alert phase begins, and at half past seven, a full distress phase.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 9.12
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a search aircraft crew in a hangar at dawn briefing over a chart table, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Search aircraft take off through the night and the following days, including an air force Orion and civilian planes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Search aircraft take off through the night and the following days, including an air force Orion and civilian planes.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 7.536
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of an empty grey sea with sunbeams breaking through cloud, wide aerial view, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test three complete. A voice, a sound, and an empty sea."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test three complete. A voice, a sound, and an empty sea.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 3.816
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a large four-engined maritime patrol aircraft flying low over rough grey sea, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test four. The search. For four days, aircraft and ships cover more than two thousand six hundred square kilometres of Bass Strait."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV \u00b7 THE SEARCH",
+   "Four Days, Nothing",
+   "2,600 KM\u00b2 \u00b7 ORION \u00b7 NO WRECKAGE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test four. The search. For four days, aircraft and ships cover more than two thousand six hundred square kilometres of Bass Strait.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 8.424
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of fishing boats and a rescue vessel on rough grey sea under low cloud, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They find no wreckage. No oil slick that can be linked to him. No life raft. No body."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They find no wreckage. No oil slick that can be linked to him. No life raft. No body.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 6.048
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a rocky shoreline on a remote island with seaweed and driftwood, overcast, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is odd, but not impossible. Cold, deep water and strong currents can swallow a small aircraft, and the strait is known for its storms."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is odd, but not impossible. Cold, deep water and strong currents can swallow a small aircraft, and the strait is known for its storms.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small piece of battered aircraft metal lying on a beach among pebbles, close-up, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen eighty-three, a piece of engine cowling washes ashore on Flinders Island. It might be from a Cessna one eighty-two. It was never proven to be from his plane."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen eighty-three, a piece of engine cowling washes ashore on Flinders Island. It might be from a Cessna one eighty-two. It was never proven to be from his plane.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an investigator holding a piece of aircraft metal in a laboratory, gloved hands, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A naval laboratory said drift from the crash area was plausible. But a possible fragment is not a confirmed one."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A naval laboratory said drift from the crash area was plausible. But a possible fragment is not a confirmed one.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 7.536
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a quiet coastal night with a lighthouse beam sweeping over dark water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The sea kept its secret. So the official investigators had to decide what to write."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The sea kept its secret. So the official investigators had to decide what to write.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 5.424
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a stack of government report folders on a wooden desk in an archive, warm light, blank covers, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test five. The official report. Australian aviation authorities finish a summary after the search, released publicly in nineteen eighty-two."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V \u00b7 OFFICIAL REPORT",
+   "Cause Undetermined",
+   "1982 \u00b7 DEPT OF TRANSPORT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test five. The official report. Australian aviation authorities finish a summary after the search, released publicly in nineteen eighty-two.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an official reading a thick report at a desk with a window and city light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its conclusion is short. The reason for the disappearance could not be determined. The pilot is presumed to have died."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its conclusion is short. The reason for the disappearance could not be determined. The pilot is presumed to have died.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 7.728
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an aviation safety investigator pointing at a chart of a flight path in a briefing room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The report notes his limited night experience, his unusual route planning, and his stated interest in unidentified objects. It does not say a craft was there, and it does not say there was not."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The report notes his limited night experience, his unusual route planning, and his stated interest in unidentified objects. It does not say a craft was there, and it does not say there was not.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a mouth of a dark archive corridor with metal shelves of boxes, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That honest phrase, cause undetermined, is the most important fact in this case. It is not a cover-up, and it is not a confirmation."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That honest phrase, cause undetermined, is the most important fact in this case. It is not a cover-up, and it is not a confirmation.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 8.832
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a magazine article clipping on a desk beside a coffee cup, blurred abstract grey bars instead of words, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Newspapers did not wait for it. They ran with the strange words from the tape, and the story spread worldwide within days."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Newspapers did not wait for it. They ran with the strange words from the tape, and the story spread worldwide within days.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 8.112
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a dim study with a framed map and a desk lamp, quiet mood, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now we weigh the explanations, one at a time."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now we weigh the explanations, one at a time.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 3.024
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a cockpit at night in turbulence with a tilted artificial horizon and a pilot's gloved hand, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test six. The pilot's explanation. Spatial disorientation. Over open water on a dark night, with no horizon, the inner ear cannot be trusted."
+   ]
+  ],
+  "tag": "P",
+  "ch": [
+   "VI \u00b7 THEORY 1",
+   "Spatial Disorientation",
+   "NO HORIZON \u00b7 INNER EAR \u00b7 LIGHTS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test six. The pilot's explanation. Spatial disorientation. Over open water on a dark night, with no horizon, the inner ear cannot be trusted.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 10.824
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dark ocean and a dark sky merging into one at night, no horizon at all, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pilots call it a black hole effect. The sea and the sky merge, and bright lights can seem to be anywhere."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pilots call it a black hole effect. The sea and the sky merge, and bright lights can seem to be anywhere.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 6.72
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small aircraft banked steeply in a descending spiral over dark water, long exposure light trails, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two researchers, Richard Haines and Gregory Norman, studied the recording. They suggested he may have turned inverted without noticing, and mistaken ground or sky lights for another aircraft."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two researchers, Richard Haines and Gregory Norman, studied the recording. They suggested he may have turned inverted without noticing, and mistaken ground or sky lights for another aircraft.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a bright planet low in a twilight sky over the sea, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Others noted that bright planets and stars were low in the sky that evening, and can look like moving lights when you are tilted and tired."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Others noted that bright planets and stars were low in the sky that evening, and can look like moving lights when you are tilted and tired.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 8.736
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a meteor trail streaking across a night sky over the ocean, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Another idea is rocket debris or a meteor, but that cannot explain a craft that appears to follow a small aircraft for several minutes."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Another idea is rocket debris or a meteor, but that cannot explain a craft that appears to follow a small aircraft for several minutes.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a cockpit with dim red instrument lighting and a pilot's hands gripping the control yoke, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A rough engine could also be fuel contamination or a mechanical fault, which would add stress to a young pilot. But a mechanical fault does not produce a long metallic shape."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A rough engine could also be fuel contamination or a mechanical fault, which would add stress to a young pilot. But a mechanical fault does not produce a long metallic shape.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a quiet analysis desk with a notepad and a calculator and diagram sketches of a flight path, blank paper, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The disorientation theory explains a lot. It fits his low night experience, and the missing horizon. But it must also explain the green light, and the seventeen seconds of scraping."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The disorientation theory explains a lot. It fits his low night experience, and the missing horizon. But it must also explain the green light, and the seventeen seconds of scraping.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a diagram-like chalkboard with blank arrows and curved lines in a dark classroom, abstract, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So we score it as partial. A strong candidate, but not a proven one."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So we score it as partial. A strong candidate, but not a proven one.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 4.464
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an enormous dark elongated shape with a green glow hanging in the night sky over a calm sea, mysterious, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Test seven. The extraterrestrial explanation. A craft, intelligent, controlled, that played with the plane, then took it away."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VII \u00b7 THEORY 2",
+   "The Visitor",
+   "UFO \u00b7 STAGED \u00b7 UNVERIFIED"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Test seven. The extraterrestrial explanation. A craft, intelligent, controlled, that played with the plane, then took it away.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 8.232
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old file box labeled with blank cover and a stack of paper reports about sightings, an archive desk, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Researchers have catalogued many reports of unusual lights over Victoria around that time. But a crowd of reports is not a physical craft, and none was ever recovered."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Researchers have catalogued many reports of unusual lights over Victoria around that time. But a crowd of reports is not a physical craft, and none was ever recovered.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 11.88
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an aircraft wing tip and engine seen from the cockpit in dark sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nobody else on the ground or in the air reported the object near him. There is no radar track of it, and no photographs."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nobody else on the ground or in the air reported the object near him. There is no radar track of it, and no photographs.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 7.992
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a sealed vintage envelope lying on a table beside an old map, dim light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And there is another thought, a darker and much more human one: that he chose to disappear. No evidence supports it, and his family always rejected it."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And there is another thought, a darker and much more human one: that he chose to disappear. No evidence supports it, and his family always rejected it.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a calm empty seaside road at dusk with a lone parked car, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No sign of him was ever reported ashore. No sighting. No contact. The staged disappearance idea, we score as unverified, and unlikely."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No sign of him was ever reported ashore. No sighting. No contact. The staged disappearance idea, we score as unverified, and unlikely.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an unidentified light high in a night sky above a dark sea, mysterious, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The alien idea has one real piece of evidence: the words on the tape. But words are testimony, not proof, and a frightened pilot is an unreliable instrument."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The alien idea has one real piece of evidence: the words on the tape. But words are testimony, not proof, and a frightened pilot is an unreliable instrument.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 11.616
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a broad empty beach at night with low waves and a faint horizon glow, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to bring the findings together."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to bring the findings together.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 1.944
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a pilot alone in a dark cockpit looking out at the black night sky, face hidden, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One more thing before the scorecard. Every report we have comes from one voice on one tape. That is why the transcript, and the seventeen seconds after it, carry so much weight."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One more thing before the scorecard. Every report we have comes from one voice on one tape. That is why the transcript, and the seventeen seconds after it, carry so much weight.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 11.64
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dark room with a lit wall chart screen showing blank checkboxes, minimal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the Valentich case."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the Valentich case.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.76
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dark room with a lit wall chart screen showing blank checkboxes, minimal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real pilot, a real flight, a real recording, a real search: evidence. A report that could not find a cause: evidence. Low night experience and no horizon: real, and relevant."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real pilot, a real flight, a real recording, a real search: evidence. A report that could not find a cause: evidence. Low night experience and no horizon: real, and relevant.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dark room with a lit wall chart screen showing blank checkboxes, minimal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Spatial disorientation: partial. A craft with a green light that followed him: no physical evidence. A staged disappearance: no evidence. Alien abduction: unproven."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Spatial disorientation: partial. A craft with a green light that followed him: no physical evidence. A staged disappearance: no evidence. Alien abduction: unproven.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a small white single-engine high-wing Cessna light aircraft with a red stripe along the fuselage silhouetted flying away over a dark sea toward a faint glow on the horizon, calm, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Unresolved. The most likely story is that a skilled but inexperienced young pilot lost his orientation over a black sea. But that does not explain everything, and nobody should pretend it does."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Unresolved. The most likely story is that a skilled but inexperienced young pilot lost his orientation over a black sea. But that does not explain everything, and nobody should pretend it does.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.256
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a quiet memorial plaque shape on a coastal rock with sea behind, abstract, no writing, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Behind the mystery, there was a young man, with a family who never stopped wondering. Whatever happened out there, they lost a son."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Behind the mystery, there was a young man, with a family who never stopped wondering. Whatever happened out there, they lost a son.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 7.776
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an ancient dark stone reactor-like cavity in a rock face deep underground in a jungle mine in Africa, mysterious, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a place in Africa where nature seems to have switched on a nuclear reactor two billion years before we did. Natural, or ancient technology?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a place in Africa where nature seems to have switched on a nuclear reactor two billion years before we did. Natural, or ancient technology?",
+    "file": "ep/audio/s65.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single faint green glow over a black sea, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think happened in those last seventeen seconds? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think happened in those last seventeen seconds? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 8.856
+   }
+  ]
+ }
+]
