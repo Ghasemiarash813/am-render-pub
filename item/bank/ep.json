@@ -1,0 +1,1407 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide night photograph of a lonely two-lane mountain highway in New Hampshire in 1961, a single old sedan with headlights on driving through pine forest, a bright light hanging above the dark ridge, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "September nineteen sixty-one. A dark mountain road in New Hampshire. A couple in an old car, heading home. And above them, a light that will not go away."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "September nineteen sixty-one. A dark mountain road in New Hampshire. A couple in an old car, heading home. And above them, a light that will not go away.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a wall clock in a dim 1960s kitchen showing five o'clock in the early morning, a woman's hands resting on a table beside a torn blue dress, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They arrive hours late. They cannot say where the time went. Their dress is torn, their watches have stopped, and they are afraid."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They arrive hours late. They cannot say where the time went. Their dress is torn, their watches have stopped, and they are afraid.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 8.352
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A hand-drawn pencil sketch of a handful of dots joined by thin lines on aged cream paper lying on a dark desk, abstract dots only, no writing, soft lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three years later, in a doctor's office, under hypnosis, the woman draws a map of the stars. A teacher later says it points to a real star system, thirty-nine light years away."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three years later, in a doctor's office, under hypnosis, the woman draws a map of the stars. A teacher later says it points to a real star system, thirty-nine light years away.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Macro photograph of a vintage 1960s reel-to-reel tape recorder with a cream and black metal case, two silver reels loaded with brown magnetic tape, a few plain round knobs and a small microphone beside it, warm spotlight, dark background, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight, we play the tapes. Seven reels. Each one is a piece of the case. Each one gets a score, evidence, or theory."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight, we play the tapes. Seven reels. Each one is a piece of the case. Each one gets a score, evidence, or theory.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 8.088
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A dark empty New Hampshire road at night with fog drifting between tall pines, a faint glow far away, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is the story of Betty and Barney Hill, the first famous alien abduction in the world. Reel one. The drive."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is the story of Betty and Barney Hill, the first famous alien abduction in the world. Reel one. The drive.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 8.112
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1960s couple seen from behind walking arm in arm along a rocky waterfall viewing path at dusk, mist and rainbow light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reel one. The drive. Betty and Barney Hill live in Portsmouth, New Hampshire. Betty is a social worker. Barney works for the post office, and is active in the civil rights movement. In nineteen sixty-one, a mixed-race marriage is still rare, and risky."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "I \u00b7 REEL ONE",
+   "The Drive",
+   "NIAGARA \u00b7 ROUTE 3 \u00b7 INDIAN HEAD"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reel one. The drive. Betty and Barney Hill live in Portsmouth, New Hampshire. Betty is a social worker. Barney works for the post office, and is active in the civil rights movement. In nineteen sixty-one, a mixed-race marriage is still rare, and risky.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 16.8
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A 1960s pale sedan parked at a roadside Canadian motel at dawn with suitcases beside it, soft warm light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They take a short holiday, to Niagara Falls and Montreal. On the night of September nineteenth, they start the long drive home down Route Three, through the White Mountains. It is late, the road is empty."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They take a short holiday, to Niagara Falls and Montreal. On the night of September nineteenth, they start the long drive home down Route Three, through the White Mountains. It is late, the road is empty.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 14.16
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "View through a car windshield at night of a mountain road, a single bright star-like light low in the sky beside a thin crescent moon, dashboard silhouette, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Near Lancaster, Betty notices a bright light near the moon. She thinks it is a star, or a satellite. But it seems to follow them, growing as the road bends through Franconia Notch."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Near Lancaster, Betty notices a bright light near the moon. She thinks it is a star, or a satellite. But it seems to follow them, growing as the road bends through Franconia Notch.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A man standing beside a 1960s sedan on a dark roadside at night holding binoculars up to his eyes, looking toward a field, backlit by the headlights, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Near a place called Indian Head, Barney stops and takes out his binoculars. He sees something crossing the road toward a field. In his account, a row of windows, and figures looking back at him."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Near a place called Indian Head, Barney stops and takes out his binoculars. He sees something crossing the road toward a field. In his account, a row of windows, and figures looking back at him.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A 1960s car racing down a dark mountain road at night with wide headlights, motion blur, a faint pale light glowing in the rear window, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He runs back to the car and shouts that they are about to be captured. He floors the accelerator. Then, Betty says, there was a strange buzzing, and a drowsy tingle."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He runs back to the car and shouts that they are about to be captured. He floors the accelerator. Then, Betty says, there was a strange buzzing, and a drowsy tingle.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark wooded roadside at night with a road sign blurred beyond recognition and pine trees, long exposure, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then a road sign. They are about thirty-five miles further south, near Ashland. They do not remember driving it. This is the first thing on the tape."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then a road sign. They are about thirty-five miles further south, near Ashland. They do not remember driving it. This is the first thing on the tape.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1960s wooden dashboard clock and a men's wristwatch both stopped, lying on a kitchen table in early morning light, macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reel two. The missing miles. The trip should have taken about four hours. They get home to Portsmouth around five in the morning, nearly two hours later than they expected."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 REEL TWO",
+   "The Missing Miles",
+   "TIME \u00b7 DRESS \u00b7 PEASE AFB"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reel two. The missing miles. The trip should have taken about four hours. They get home to Portsmouth around five in the morning, nearly two hours later than they expected.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 10.872
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A faded blue 1960s woman's dress with a torn lining and a dirty stained hem laid flat on a white table, museum conservation photograph, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Betty's dress is torn, and stained. Barney's shoes are scuffed, the strap of his binoculars is broken. And the trunk of the car shows strange shiny circles. Betty's sister later says a compass needle spun near them."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Betty's dress is torn, and stained. Barney's shoes are scuffed, the strap of his binoculars is broken. And the trunk of the car shows strange shiny circles. Betty's sister later says a compass needle spun near them.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 15.048
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An empty highway rest area at night with a lone picnic table and a distant mountain silhouette, moonless, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So how much of the gap is real? The two hours are estimated from memory, since neither of them noted the time. But investigators later made one odd point: the moon, which they thought was the strange orb, had already set."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So how much of the gap is real? The two hours are estimated from memory, since neither of them noted the time. But investigators later made one odd point: the moon, which they thought was the strange orb, had already set.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 15.024
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1960s US Air Force base office with a wooden desk, a black rotary telephone and a typewriter, a stack of blank folders, warm lamp, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The next day, Betty picks up the phone and calls Pease Air Force Base, a few miles from home. An officer takes their story, and a report is sent on to the Air Force's Project Blue Book."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The next day, Betty picks up the phone and calls Pease Air Force Base, a few miles from home. An officer takes their story, and a report is sent on to the Air Force's Project Blue Book.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 12.816
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1960s filing cabinet drawer half open showing plain manila folders in a dim government archive, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice the order. This report was filed before any hypnosis, before any book, before any fame. It is the oldest solid evidence in the case. A real couple, reporting a real fright."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice the order. This report was filed before any hypnosis, before any book, before any fame. It is the oldest solid evidence in the case. A real couple, reporting a real fright.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.008
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A civilian UFO research group meeting in a 1960s living room, four men and women in plain clothes with notepads listening to a couple on a sofa, film photo look, faces turned away, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In October, a civilian group called NICAP sends investigators. They interview the couple for hours. They find them sincere, intelligent, and shaken. They do not find a hoax."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In October, a civilian group called NICAP sends investigators. They interview the couple for hours. They find them sincere, intelligent, and shaken. They do not find a hoax.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 12.048
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A tired man in a suit holding a hand to his stomach in a 1960s doctor's waiting room, a nurse's desk behind, muted colours, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But Barney is not sleeping. He has stomach pains. His blood pressure rises. His doctor sees real stress. Betty tells a friend she keeps having terrible dreams."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But Barney is not sleeping. He has stomach pains. His blood pressure rises. His doctor sees real stress. Betty tells a friend she keeps having terrible dreams.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A woman's hands writing in a notebook on a bedside table at night under a small lamp, the page blurred with no readable words, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Honest question: is a long drive at night, a bright planet, and a fright enough to explain a gap of two hours? Skeptics say yes. Believers say no. The tape alone cannot decide."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Honest question: is a long drive at night, a bright planet, and a fright enough to explain a gap of two hours? Skeptics say yes. Believers say no. The tape alone cannot decide.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky in the White Mountains with Jupiter and Saturn as two bright points above a dark ridge, long exposure, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some skeptics point out that Jupiter and Saturn were both very bright that month. Fine. But Jupiter does not cross a highway, and it does not explain two hours of lost time."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some skeptics point out that Jupiter and Saturn were both very bright that month. Fine. But Jupiter does not cross a highway, and it does not explain two hours of lost time.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a vintage 1960s reel-to-reel tape recorder with a cream and black metal case, two silver reels loaded with brown magnetic tape, a few plain round knobs and a small microphone beside it, the reels beginning to turn, dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So at the end of reel two we have a frightened couple, a strange sighting, and a gap. Next, the part that made them famous. The dreams, and the doctor."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So at the end of reel two we have a frightened couple, a strange sighting, and a gap. Next, the part that made them famous. The dreams, and the doctor.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 9.72
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A woman asleep in a 1960s bedroom, restless, moonlight through a curtain, hand on the pillow, film photo look, face hidden, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reel three. The dreams, and the doctor. In the weeks after the drive, Betty dreams of the missing night. She dreams of men stopping the car, and walking them into the woods, toward a bright craft."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III \u00b7 REEL THREE",
+   "The Dreams and the Doctor",
+   "BETTY \u00b7 DR SIMON \u00b7 1964"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reel three. The dreams, and the doctor. In the weeks after the drive, Betty dreams of the missing night. She dreams of men stopping the car, and walking them into the woods, toward a bright craft.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A stack of 1960s paperback books on UFOs on a nightstand, plain covers, a lamp beside it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "She writes the dreams down. She also reads about flying saucers, and writes to a well-known UFO author, Donald Keyhoe. That detail will matter later."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "She writes the dreams down. She also reads about flying saucers, and writes to a well-known UFO author, Donald Keyhoe. That detail will matter later.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.536
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A distinguished 1960s psychiatrist in a tweed suit seated in a leather chair in a Boston office with shelves of books behind him, seen from behind, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Barney's troubles lead to a psychiatrist, and then to a Boston specialist: Doctor Benjamin Simon, who spent the Second World War treating soldiers with memory loss, using hypnosis."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Barney's troubles lead to a psychiatrist, and then to a Boston specialist: Doctor Benjamin Simon, who spent the Second World War treating soldiers with memory loss, using hypnosis.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A leather couch in a quiet 1960s psychiatrist's office with a reel-to-reel tape recorder on a side table, venetian blind light stripes, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "From January to June nineteen sixty-four, the Hills visit his office, again and again. He hypnotizes them separately, so that neither can influence the other. Every session is recorded on tape."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "From January to June nineteen sixty-four, the Hills visit his office, again and again. He hypnotizes them separately, so that neither can influence the other. Every session is recorded on tape.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Macro photograph of a vintage 1960s reel-to-reel tape recorder with a cream and black metal case, two silver reels loaded with brown magnetic tape, a few plain round knobs and a small microphone beside it, a microphone in front of it, dark room, one warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Those recordings still exist. The story that comes out of them is the story the world knows. It begins on a dark road, with a group of men standing in front of the car."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Those recordings still exist. The story that comes out of them is the story the world knows. It begins on a dark road, with a group of men standing in front of the car.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 11.112
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Concept art of a smooth silver disc-shaped craft resting in a forest clearing at night with a soft light glowing from underneath, pine trees, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Under hypnosis, Betty describes being led to a craft. Inside, small beings examine her. They take hair, skin and nails. A needle goes into her navel. She is told it is a pregnancy test."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Under hypnosis, Betty describes being led to a craft. Inside, small beings examine her. They take hair, skin and nails. A needle goes into her navel. She is told it is a pregnancy test.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 13.776
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A pale clean medical examination table in a plain white room with soft diffuse light, concept art, empty, no people, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Barney's account is shorter and more frightened. He remembers his eyes shut tight, and a cup placed against him. He tells the doctor the beings had eyes that wrapped around the sides of their heads."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Barney's account is shorter and more frightened. He remembers his eyes shut tight, and a cup placed against him. He tells the doctor the beings had eyes that wrapped around the sides of their heads.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A 1960s psychiatrist's hands holding a stopwatch and a clipboard with a blank sheet, desk lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What did Doctor Simon make of it? He believed that the Hills were sincere. But he did not believe in a literal abduction. He thought it was a powerful fantasy that began with Betty's dreams."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What did Doctor Simon make of it? He believed that the Hills were sincere. But he did not believe in a literal abduction. He thought it was a powerful fantasy that began with Betty's dreams.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 12.384
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a reel of brown magnetic tape unspooling slowly in dim light, dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then, near the end of the sessions, comes the moment that turned a local story into a legend. Betty is asked to draw something she saw on the ship."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then, near the end of the sessions, comes the moment that turned a local story into a legend. Betty is asked to draw something she saw on the ship.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A woman's hand drawing dots on a sheet of paper with a pencil on a 1960s desk, soft lamp, the paper shows only abstract dots and thin lines, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reel four. The star map. Betty says she saw a map on the wall of the craft. A leader showed it to her, when she asked where they came from. She draws it from memory: a handful of dots, joined by lines."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "IV \u00b7 REEL FOUR",
+   "The Star Map",
+   "BETTY'S SKETCH \u00b7 MARJORIE FISH"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reel four. The star map. Betty says she saw a map on the wall of the craft. A leader showed it to her, when she asked where they came from. She draws it from memory: a handful of dots, joined by lines.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.752
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An elementary school classroom in Ohio in 1968, a woman teacher at a desk covered with star charts and a long string of coloured beads, warm light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Four years later, a schoolteacher in Ohio reads the book about the case. Marjorie Fish is an amateur astronomer. She wonders: could the map be real? Could she find those stars?"
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Four years later, a schoolteacher in Ohio reads the book about the case. Marjorie Fish is an amateur astronomer. She wonders: could the map be real? Could she find those stars?",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A woman at a table copying columns of numbers by hand from a thick astronomy catalogue in a university library, stacks of paper, warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The library will not lend its star catalogues. So she copies the positions of more than a thousand nearby stars, by hand, and turns them into a three-dimensional model, with beads on strings."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The library will not lend its star catalogues. So she copies the positions of more than a thousand nearby stars, by hand, and turns them into a three-dimensional model, with beads on strings.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A three-dimensional model of small coloured beads hanging on thin threads inside a wooden frame, dark room, spotlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "She turns it. She tries again. After years, she says she finds a view where the pattern clicks. A double star in the southern sky, called Zeta Reticuli, about thirty-nine light years away."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "She turns it. She tries again. After years, she says she finds a view where the pattern clicks. A double star in the southern sky, called Zeta Reticuli, about thirty-nine light years away.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A glossy 1970s astronomy magazine lying on a desk with a plain blue cover and a pencil, soft window light, no text, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the mid nineteen seventies, a leading astronomy magazine publishes her work. Suddenly the case is not just a ghost story. It looks like a prediction that came true."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the mid nineteen seventies, a leading astronomy magazine publishes her work. Suddenly the case is not just a ghost story. It looks like a prediction that came true.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An astronomer in a 1970s observatory office with a chalkboard covered in abstract scribbles and star charts, skeptical expression, film photo look, no readable writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Other astronomers push back. With a thousand stars to choose from, you can find a pattern anywhere. Fish chose which stars to link, and which to skip, after seeing the sketch."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Other astronomers push back. With a thousand stars to choose from, you can find a pattern anywhere. Fish chose which stars to link, and which to skip, after seeing the sketch.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A modern night sky full of stars over a desert horizon with the southern sky glowing, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Newer measurements also shift some of those stars. The neat pattern no longer holds up well. Zeta Reticuli is real, and it is a fine star. But it is an interpretation, not proof."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Newer measurements also shift some of those stars. The neat pattern no longer holds up well. Zeta Reticuli is real, and it is a fine star. But it is an interpretation, not proof.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 13.224
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A candle flame and a pocket watch swinging on a chain in a dark room, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reel five. The hypnosis question. Everything dramatic in the case comes from hypnosis. So how good is hypnosis at finding true memories?"
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V \u00b7 REEL FIVE",
+   "The Hypnosis Question",
+   "MEMORY \u00b7 SUGGESTION \u00b7 CONFIDENCE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reel five. The hypnosis question. Everything dramatic in the case comes from hypnosis. So how good is hypnosis at finding true memories?",
+    "file": "ep/audio/s38.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A neuroscience laboratory with a researcher looking at a brain scan on a monitor, abstract blue shapes only, dim room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Researchers have studied this for decades, and the answer is not kind. Hypnosis can make you feel sure about a memory. It does not make the memory more accurate. It can plant new ones."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Researchers have studied this for decades, and the answer is not kind. Hypnosis can make you feel sure about a memory. It does not make the memory more accurate. It can plant new ones.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 12.552
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A foggy scene of two people in a car at night on a quiet road, one turning toward the other as if telling a story, seen through the rear window, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Memory itself is fragile. Each retelling reshapes it. And in this case, the Hills had lived with the story for more than two years before the sessions began. They had talked it over many times."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Memory itself is fragile. Each retelling reshapes it. And in this case, the Hills had lived with the story for more than two years before the sessions began. They had talked it over many times.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1960s living room with a television showing static, a couple sitting on a sofa seen from behind, evening, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is also what the culture was feeding them. In the early sixties, flying saucers were on television and in books. A frightened mind can build a story from anything it has heard."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is also what the culture was feeding them. In the early sixties, flying saucers were on television and in books. A frightened mind can build a story from anything it has heard.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.168
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A neat row of white plain books on a shelf in an archive, each spine blank, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But here is the fairness test. The Hills told the story only to small local groups. When a newspaper learned of it, in October nineteen sixty-five, they asked for it not to run."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But here is the fairness test. The Hills told the story only to small local groups. When a newspaper learned of it, in October nineteen sixty-five, they asked for it not to run.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A front-page newspaper from the 1960s lying on a wooden table, the headline replaced with abstract grey bars, black and white photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Five days of headlines followed, and a bestselling book by John Fuller, The Interrupted Journey. Honest people, then, who really believed in what they said. Belief is not proof, but it matters."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Five days of headlines followed, and a bestselling book by John Fuller, The Interrupted Journey. Honest people, then, who really believed in what they said. Belief is not proof, but it matters.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 12.312
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a vintage 1960s reel-to-reel tape recorder with a cream and black metal case, two silver reels loaded with brown magnetic tape, a few plain round knobs and a small microphone beside it, viewed from above, dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the hypnosis tapes are real documents of what the Hills believed in nineteen sixty-four. They are not a window onto what happened in nineteen sixty-one. One more reel to go."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the hypnosis tapes are real documents of what the Hills believed in nineteen sixty-four. They are not a window onto what happened in nineteen sixty-one. One more reel to go.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1960s television set glowing in a dark living room, showing a blurred science-fiction monster with large wraparound dark eyes, no text, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reel six. The skeptic's file. In February nineteen sixty-four, weeks into the sessions, a television drama called The Outer Limits aired an episode featuring an alien with wraparound eyes."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI \u00b7 REEL SIX",
+   "The Skeptic's File",
+   "OUTER LIMITS \u00b7 JUPITER \u00b7 FANTASY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reel six. The skeptic's file. In February nineteen sixty-four, weeks into the sessions, a television drama called The Outer Limits aired an episode featuring an alien with wraparound eyes.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 13.32
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A close-up of a pale humanoid alien mask with large black wraparound eyes lying on a prop table in a film studio, dramatic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Barney's later description of the beings' eyes has the same shape. That is the sharpest coincidence skeptics point to. But Betty said she had described similar eyes in her dreams of nineteen sixty-one."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Barney's later description of the beings' eyes has the same shape. That is the sharpest coincidence skeptics point to. But Betty said she had described similar eyes in her dreams of nineteen sixty-one.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Two people sitting in a tidy 1960s kitchen across the table from each other with coffee cups, calm morning light, film photo look, seen from behind, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the pair did not match perfectly. Barney recalled the aliens one way, Betty another. Doctor Simon thought Barney's version looked absorbed from his wife's dreams. Skeptics call that contamination."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the pair did not match perfectly. Barney recalled the aliens one way, Betty another. Doctor Simon thought Barney's version looked absorbed from his wife's dreams. Skeptics call that contamination.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A researcher with a calm face at a desk piled with thick folders and letters, an old typewriter beside him, warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Writers like Philip Klass and Robert Sheaffer also dug through the files. They pointed to the bright planets, to hypnosis, and to a mind already primed. They argued it was a vivid dream, shared."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Writers like Philip Klass and Robert Sheaffer also dug through the files. They pointed to the bright planets, to hypnosis, and to a mind already primed. They argued it was a vivid dream, shared.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Sleep paralysis concept art of a person lying in bed at night seeing shadowy figures at the foot of the bed, dark blue tones, cinematic, no faces, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There are other human explanations. Sleep paralysis, which brings visions of figures in the room. Highway hypnosis, after hours of night driving. Stress, in a mixed-race couple on a lonely road in nineteen sixty-one."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There are other human explanations. Sleep paralysis, which brings visions of figures in the room. Highway hypnosis, after hours of night driving. Stress, in a mixed-race couple on a lonely road in nineteen sixty-one.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 15.192
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A tall white hospital or lab door slightly open on an empty bright corridor, minimal, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "None of these can be tested, so the verdict stays open. But notice: no one has found a hoax, no lie, no paid script. That is why the case still unsettles people."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "None of these can be tested, so the verdict stays open. But notice: no one has found a hoax, no lie, no paid script. That is why the case still unsettles people.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 11.136
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A reel-to-reel tape recorder with the reels stopped and the tape running out, dark room, single lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One reel left. It follows the Hills after the tapes stop, and what happens when a private fright becomes the world's first alien abduction story."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One reel left. It follows the Hills after the tapes stop, and what happens when a private fright becomes the world's first alien abduction story.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A vintage paperback book lying on a dark wooden desk with a plain blank cover and a pair of reading glasses beside it, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reel seven. After the tapes. The Interrupted Journey comes out in nineteen sixty-six. A magazine prints extracts. It sells in the millions, and it sets the template: grey beings, a medical exam, missing time."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VII \u00b7 REEL SEVEN",
+   "After the Tapes",
+   "BOOK \u00b7 FILM \u00b7 LEGACY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reel seven. After the tapes. The Interrupted Journey comes out in nineteen sixty-six. A magazine prints extracts. It sells in the millions, and it sets the template: grey beings, a medical exam, missing time.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 14.808
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1970s television film set with a camera crew shooting a night road scene with a vintage sedan, behind the scenes photo, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen seventy-five, NBC turns it into a television film, The UFO Incident, with James Earl Jones as Barney. Millions watch. In the years that follow, abduction reports multiply, and they look more and more like this one."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen seventy-five, NBC turns it into a television film, The UFO Incident, with James Earl Jones as Barney. Millions watch. In the years that follow, abduction reports multiply, and they look more and more like this one.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 16.872
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A quiet New England church hall with folding chairs set in rows and a small podium, soft morning light through windows, empty, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Barney does not live to see it. He dies of a stroke in nineteen sixty-nine, aged forty-six. Betty carries on. She gives talks, writes to researchers, and keeps saying she sees lights in the sky, until her death in two thousand four."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Barney does not live to see it. He dies of a stroke in nineteen sixty-nine, aged forty-six. Betty carries on. She gives talks, writes to researchers, and keeps saying she sees lights in the sky, until her death in two thousand four.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 16.128
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A university archive reading room with white gloves, acid-free boxes, and a pale blue dress lying flat in a protective box, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today the Hills' papers, tapes, and that blue dress rest in the archive at the University of New Hampshire. A real, quiet collection of an extraordinary story."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today the Hills' papers, tapes, and that blue dress rest in the archive at the University of New Hampshire. A real, quiet collection of an extraordinary story.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 10.848
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A small blue and silver toy flying saucer on a wooden shelf beside an old paperback, plain background, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the strangest result. A couple who never wanted fame gave the world a script. Grey beings, bright craft, missing time. Whether true or not, it entered our dreams."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the strangest result. A couple who never wanted fame gave the world a script. Grey beings, bright craft, missing time. Whether true or not, it entered our dreams.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A starry night sky over a dark New Hampshire mountain road with a thin ribbon of fog, serene, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now, the court. Seven reels, seven pieces of evidence. Let's score them."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now, the court. Seven reels, seven pieces of evidence. Let's score them.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 4.584
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a vintage 1960s reel-to-reel tape recorder with a cream and black metal case, two silver reels loaded with brown magnetic tape, a few plain round knobs and a small microphone beside it, warm golden light, dark background, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. The tapes are played. Time for the scorecard."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. The tapes are played. Time for the scorecard.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 3.312
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark vintage recording studio at night, a reel-to-reel tape recorder with two silver reels on a wooden desk far on the right edge lit by a warm golden lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the Hill case."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the Hill case.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 2.256
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark vintage recording studio at night, a reel-to-reel tape recorder with two silver reels on a wooden desk far on the right edge lit by a warm golden lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real couple, a real drive, and a real fright on September nineteenth: evidence. A report to the Air Force within a day, before hypnosis: evidence. Two hours missing: partial, because it rests on memory and rough timing."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real couple, a real drive, and a real fright on September nineteenth: evidence. A report to the Air Force within a day, before hypnosis: evidence. Two hours missing: partial, because it rests on memory and rough timing.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 16.056
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark vintage recording studio at night, a reel-to-reel tape recorder with two silver reels on a wooden desk far on the right edge lit by a warm golden lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Torn dress, shiny marks, stopped watches: unverified. Hypnosis memories as fact: debunked as a method. The Zeta Reticuli star map: contested. A literal alien abduction: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Torn dress, shiny marks, stopped watches: unverified. Hypnosis memories as fact: debunked as a method. The Zeta Reticuli star map: contested. A literal alien abduction: no evidence.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 15.024
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Macro photograph of a vintage 1960s reel-to-reel tape recorder with a cream and black metal case, two silver reels loaded with brown magnetic tape, a few plain round knobs and a small microphone beside it, on its stand, warm golden light, dark background, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Sincere, not proven. Betty and Barney Hill most likely told the truth about their fear, and about the light. But what happened in those two hours, no tape can tell us."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Sincere, not proven. Betty and Barney Hill most likely told the truth about their fear, and about the light. But what happened in those two hours, no tape can tell us.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A reel of magnetic tape resting on a windowsill in the morning light, a quiet mountain view outside, warm photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Maybe it was a dream, shared and shaped. Maybe a mystery we still cannot explain. What it was not, is a hoax. And that is why, sixty years on, the tapes are still playing."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Maybe it was a dream, shared and shaped. Maybe a mystery we still cannot explain. What it was not, is a hoax. And that is why, sixty years on, the tapes are still playing.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 11.736
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A desert road in New Mexico at dusk with a lone police patrol car of the nineteen sixties parked on the shoulder and a plume of dust on a distant hill, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a policeman chasing a speeding car on a New Mexico road in nineteen sixty-four hears a roar, sees a flash, and walks toward an egg-shaped craft. And leaves burned brush behind."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a policeman chasing a speeding car on a New Mexico road in nineteen sixty-four hears a roar, sees a flash, and walks toward an egg-shaped craft. And leaves burned brush behind.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 13.176
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a reel-to-reel tape recorder with glowing reels in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think happened on that road? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think happened on that road? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 7.488
+   }
+  ]
+ }
+]

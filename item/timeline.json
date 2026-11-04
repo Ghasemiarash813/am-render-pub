@@ -1,0 +1,1340 @@
+{
+ "fps": 30,
+ "total": 24447,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 345,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "September nineteen sixty-one. A dark mountain road in New Hampshire. A couple in an old car, heading home. And above them, a light that will not go away.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 10.416,
+     "start": 10,
+     "end": 323
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 327,
+   "end": 610,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They arrive hours late. They cannot say where the time went. Their dress is torn, their watches have stopped, and they are afraid.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 8.352,
+     "start": 337,
+     "end": 588
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 592,
+   "end": 985,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three years later, in a doctor's office, under hypnosis, the woman draws a map of the stars. A teacher later says it points to a real star system, thirty-nine light years away.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 12.024,
+     "start": 602,
+     "end": 963
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 967,
+   "end": 1242,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight, we play the tapes. Seven reels. Each one is a piece of the case. Each one gets a score, evidence, or theory.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 8.088,
+     "start": 977,
+     "end": 1220
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1224,
+   "end": 1620,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is the story of Betty and Barney Hill, the first famous alien abduction in the world. Reel one. The drive.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 8.112,
+     "start": 1234,
+     "end": 1478
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 REEL ONE",
+    "The Drive",
+    "NIAGARA \u00b7 ROUTE 3 \u00b7 INDIAN HEAD"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1602,
+   "end": 2138,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reel one. The drive. Betty and Barney Hill live in Portsmouth, New Hampshire. Betty is a social worker. Barney works for the post office, and is active in the civil rights movement. In nineteen sixty-one, a mixed-race marriage is still rare, and risky.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 16.8,
+     "start": 1612,
+     "end": 2116
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2120,
+   "end": 2577,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They take a short holiday, to Niagara Falls and Montreal. On the night of September nineteenth, they start the long drive home down Route Three, through the White Mountains. It is late, the road is empty.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 14.16,
+     "start": 2130,
+     "end": 2555
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2559,
+   "end": 2977,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Near Lancaster, Betty notices a bright light near the moon. She thinks it is a star, or a satellite. But it seems to follow them, growing as the road bends through Franconia Notch.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 12.84,
+     "start": 2569,
+     "end": 2955
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2959,
+   "end": 3390,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Near a place called Indian Head, Barney stops and takes out his binoculars. He sees something crossing the road toward a field. In his account, a row of windows, and figures looking back at him.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.296,
+     "start": 2969,
+     "end": 3368
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3372,
+   "end": 3734,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He runs back to the car and shouts that they are about to be captured. He floors the accelerator. Then, Betty says, there was a strange buzzing, and a drowsy tingle.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 10.992,
+     "start": 3382,
+     "end": 3712
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3716,
+   "end": 4043,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then a road sign. They are about thirty-five miles further south, near Ashland. They do not remember driving it. This is the first thing on the tape.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 9.816,
+     "start": 3726,
+     "end": 4021
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II \u00b7 REEL TWO",
+    "The Missing Miles",
+    "TIME \u00b7 DRESS \u00b7 PEASE AFB"
+   ],
+   "img": "ep/img/shot_12.jpg",
+   "start": 4025,
+   "end": 4384,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reel two. The missing miles. The trip should have taken about four hours. They get home to Portsmouth around five in the morning, nearly two hours later than they expected.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 10.872,
+     "start": 4035,
+     "end": 4362
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4366,
+   "end": 4850,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Betty's dress is torn, and stained. Barney's shoes are scuffed, the strap of his binoculars is broken. And the trunk of the car shows strange shiny circles. Betty's sister later says a compass needle spun near them.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 15.048,
+     "start": 4376,
+     "end": 4828
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4832,
+   "end": 5315,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So how much of the gap is real? The two hours are estimated from memory, since neither of them noted the time. But investigators later made one odd point: the moon, which they thought was the strange orb, had already set.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 15.024,
+     "start": 4842,
+     "end": 5293
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5297,
+   "end": 5714,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The next day, Betty picks up the phone and calls Pease Air Force Base, a few miles from home. An officer takes their story, and a report is sent on to the Air Force's Project Blue Book.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 12.816,
+     "start": 5307,
+     "end": 5692
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5696,
+   "end": 6119,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice the order. This report was filed before any hypnosis, before any book, before any fame. It is the oldest solid evidence in the case. A real couple, reporting a real fright.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 13.008,
+     "start": 5706,
+     "end": 6097
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6101,
+   "end": 6495,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In October, a civilian group called NICAP sends investigators. They interview the couple for hours. They find them sincere, intelligent, and shaken. They do not find a hoax.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.048,
+     "start": 6111,
+     "end": 6473
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6477,
+   "end": 6851,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But Barney is not sleeping. He has stomach pains. His blood pressure rises. His doctor sees real stress. Betty tells a friend she keeps having terrible dreams.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 11.376,
+     "start": 6487,
+     "end": 6829
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6833,
+   "end": 7247,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Honest question: is a long drive at night, a bright planet, and a fright enough to explain a gap of two hours? Skeptics say yes. Believers say no. The tape alone cannot decide.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.72,
+     "start": 6843,
+     "end": 7225
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7229,
+   "end": 7611,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some skeptics point out that Jupiter and Saturn were both very bright that month. Fine. But Jupiter does not cross a highway, and it does not explain two hours of lost time.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 11.664,
+     "start": 7239,
+     "end": 7589
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7593,
+   "end": 7917,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So at the end of reel two we have a frightened couple, a strange sighting, and a gap. Next, the part that made them famous. The dreams, and the doctor.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 9.72,
+     "start": 7603,
+     "end": 7895
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 REEL THREE",
+    "The Dreams and the Doctor",
+    "BETTY \u00b7 DR SIMON \u00b7 1964"
+   ],
+   "img": "ep/img/shot_22.jpg",
+   "start": 7899,
+   "end": 8313,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reel three. The dreams, and the doctor. In the weeks after the drive, Betty dreams of the missing night. She dreams of men stopping the car, and walking them into the woods, toward a bright craft.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 12.72,
+     "start": 7909,
+     "end": 8291
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8295,
+   "end": 8644,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "She writes the dreams down. She also reads about flying saucers, and writes to a well-known UFO author, Donald Keyhoe. That detail will matter later.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.536,
+     "start": 8305,
+     "end": 8622
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8626,
+   "end": 9047,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Barney's troubles lead to a psychiatrist, and then to a Boston specialist: Doctor Benjamin Simon, who spent the Second World War treating soldiers with memory loss, using hypnosis.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 12.936,
+     "start": 8636,
+     "end": 9025
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9029,
+   "end": 9459,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "From January to June nineteen sixty-four, the Hills visit his office, again and again. He hypnotizes them separately, so that neither can influence the other. Every session is recorded on tape.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 13.248,
+     "start": 9039,
+     "end": 9437
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9441,
+   "end": 9807,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Those recordings still exist. The story that comes out of them is the story the world knows. It begins on a dark road, with a group of men standing in front of the car.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.112,
+     "start": 9451,
+     "end": 9785
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9789,
+   "end": 10235,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Under hypnosis, Betty describes being led to a craft. Inside, small beings examine her. They take hair, skin and nails. A needle goes into her navel. She is told it is a pregnancy test.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 13.776,
+     "start": 9799,
+     "end": 10213
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10217,
+   "end": 10624,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Barney's account is shorter and more frightened. He remembers his eyes shut tight, and a cup placed against him. He tells the doctor the beings had eyes that wrapped around the sides of their heads.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 12.48,
+     "start": 10227,
+     "end": 10602
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10606,
+   "end": 11010,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What did Doctor Simon make of it? He believed that the Hills were sincere. But he did not believe in a literal abduction. He thought it was a powerful fantasy that began with Betty's dreams.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 12.384,
+     "start": 10616,
+     "end": 10988
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10992,
+   "end": 11323,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then, near the end of the sessions, comes the moment that turned a local story into a legend. Betty is asked to draw something she saw on the ship.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 9.96,
+     "start": 11002,
+     "end": 11301
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "IV \u00b7 REEL FOUR",
+    "The Star Map",
+    "BETTY'S SKETCH \u00b7 MARJORIE FISH"
+   ],
+   "img": "ep/img/shot_31.jpg",
+   "start": 11305,
+   "end": 11750,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reel four. The star map. Betty says she saw a map on the wall of the craft. A leader showed it to her, when she asked where they came from. She draws it from memory: a handful of dots, joined by lines.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.752,
+     "start": 11315,
+     "end": 11728
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11732,
+   "end": 12146,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Four years later, a schoolteacher in Ohio reads the book about the case. Marjorie Fish is an amateur astronomer. She wonders: could the map be real? Could she find those stars?",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.72,
+     "start": 11742,
+     "end": 12124
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12128,
+   "end": 12548,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The library will not lend its star catalogues. So she copies the positions of more than a thousand nearby stars, by hand, and turns them into a three-dimensional model, with beads on strings.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.912,
+     "start": 12138,
+     "end": 12526
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12530,
+   "end": 12956,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "She turns it. She tries again. After years, she says she finds a view where the pattern clicks. A double star in the southern sky, called Zeta Reticuli, about thirty-nine light years away.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 13.104,
+     "start": 12540,
+     "end": 12934
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12938,
+   "end": 13307,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the mid nineteen seventies, a leading astronomy magazine publishes her work. Suddenly the case is not just a ghost story. It looks like a prediction that came true.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 11.208,
+     "start": 12948,
+     "end": 13285
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13289,
+   "end": 13658,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Other astronomers push back. With a thousand stars to choose from, you can find a pattern anywhere. Fish chose which stars to link, and which to skip, after seeing the sketch.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 11.208,
+     "start": 13299,
+     "end": 13636
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13640,
+   "end": 14069,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Newer measurements also shift some of those stars. The neat pattern no longer holds up well. Zeta Reticuli is real, and it is a fine star. But it is an interpretation, not proof.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 13.224,
+     "start": 13650,
+     "end": 14047
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "V \u00b7 REEL FIVE",
+    "The Hypnosis Question",
+    "MEMORY \u00b7 SUGGESTION \u00b7 CONFIDENCE"
+   ],
+   "img": "ep/img/shot_38.jpg",
+   "start": 14051,
+   "end": 14379,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reel five. The hypnosis question. Everything dramatic in the case comes from hypnosis. So how good is hypnosis at finding true memories?",
+     "file": "ep/audio/s38.mp3",
+     "dur": 9.84,
+     "start": 14061,
+     "end": 14357
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14361,
+   "end": 14770,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Researchers have studied this for decades, and the answer is not kind. Hypnosis can make you feel sure about a memory. It does not make the memory more accurate. It can plant new ones.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 12.552,
+     "start": 14371,
+     "end": 14748
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14752,
+   "end": 15167,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Memory itself is fragile. Each retelling reshapes it. And in this case, the Hills had lived with the story for more than two years before the sessions began. They had talked it over many times.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.744,
+     "start": 14762,
+     "end": 15145
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15149,
+   "end": 15547,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is also what the culture was feeding them. In the early sixties, flying saucers were on television and in books. A frightened mind can build a story from anything it has heard.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.168,
+     "start": 15159,
+     "end": 15525
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15529,
+   "end": 15926,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But here is the fairness test. The Hills told the story only to small local groups. When a newspaper learned of it, in October nineteen sixty-five, they asked for it not to run.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 12.144,
+     "start": 15539,
+     "end": 15904
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 15908,
+   "end": 16310,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Five days of headlines followed, and a bestselling book by John Fuller, The Interrupted Journey. Honest people, then, who really believed in what they said. Belief is not proof, but it matters.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 12.312,
+     "start": 15918,
+     "end": 16288
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16292,
+   "end": 16699,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the hypnosis tapes are real documents of what the Hills believed in nineteen sixty-four. They are not a window onto what happened in nineteen sixty-one. One more reel to go.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 12.48,
+     "start": 16302,
+     "end": 16677
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VI \u00b7 REEL SIX",
+    "The Skeptic's File",
+    "OUTER LIMITS \u00b7 JUPITER \u00b7 FANTASY"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 16681,
+   "end": 17113,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reel six. The skeptic's file. In February nineteen sixty-four, weeks into the sessions, a television drama called The Outer Limits aired an episode featuring an alien with wraparound eyes.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 13.32,
+     "start": 16691,
+     "end": 17091
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17095,
+   "end": 17538,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Barney's later description of the beings' eyes has the same shape. That is the sharpest coincidence skeptics point to. But Betty said she had described similar eyes in her dreams of nineteen sixty-one.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 13.68,
+     "start": 17105,
+     "end": 17516
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17520,
+   "end": 17963,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the pair did not match perfectly. Barney recalled the aliens one way, Betty another. Doctor Simon thought Barney's version looked absorbed from his wife's dreams. Skeptics call that contamination.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 13.68,
+     "start": 17530,
+     "end": 17941
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 17945,
+   "end": 18367,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Writers like Philip Klass and Robert Sheaffer also dug through the files. They pointed to the bright planets, to hypnosis, and to a mind already primed. They argued it was a vivid dream, shared.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 12.984,
+     "start": 17955,
+     "end": 18345
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18349,
+   "end": 18837,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There are other human explanations. Sleep paralysis, which brings visions of figures in the room. Highway hypnosis, after hours of night driving. Stress, in a mixed-race couple on a lonely road in nineteen sixty-one.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 15.192,
+     "start": 18359,
+     "end": 18815
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18819,
+   "end": 19186,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "None of these can be tested, so the verdict stays open. But notice: no one has found a hoax, no lie, no paid script. That is why the case still unsettles people.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 11.136,
+     "start": 18829,
+     "end": 19164
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19168,
+   "end": 19494,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One reel left. It follows the Hills after the tapes stop, and what happens when a private fright becomes the world's first alien abduction story.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 9.792,
+     "start": 19178,
+     "end": 19472
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VII \u00b7 REEL SEVEN",
+    "After the Tapes",
+    "BOOK \u00b7 FILM \u00b7 LEGACY"
+   ],
+   "img": "ep/img/shot_52.jpg",
+   "start": 19476,
+   "end": 19953,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Reel seven. After the tapes. The Interrupted Journey comes out in nineteen sixty-six. A magazine prints extracts. It sells in the millions, and it sets the template: grey beings, a medical exam, missing time.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 14.808,
+     "start": 19486,
+     "end": 19931
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 19935,
+   "end": 20474,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen seventy-five, NBC turns it into a television film, The UFO Incident, with James Earl Jones as Barney. Millions watch. In the years that follow, abduction reports multiply, and they look more and more like this one.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 16.872,
+     "start": 19945,
+     "end": 20452
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 20456,
+   "end": 20972,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Barney does not live to see it. He dies of a stroke in nineteen sixty-nine, aged forty-six. Betty carries on. She gives talks, writes to researchers, and keeps saying she sees lights in the sky, until her death in two thousand four.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 16.128,
+     "start": 20466,
+     "end": 20950
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 20954,
+   "end": 21312,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today the Hills' papers, tapes, and that blue dress rest in the archive at the University of New Hampshire. A real, quiet collection of an extraordinary story.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 10.848,
+     "start": 20964,
+     "end": 21290
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21294,
+   "end": 21678,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the strangest result. A couple who never wanted fame gave the world a script. Grey beings, bright craft, missing time. Whether true or not, it entered our dreams.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 11.712,
+     "start": 21304,
+     "end": 21656
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21660,
+   "end": 21830,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now, the court. Seven reels, seven pieces of evidence. Let's score them.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 4.584,
+     "start": 21670,
+     "end": 21808
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 21812,
+   "end": 21944,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. The tapes are played. Time for the scorecard.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 3.312,
+     "start": 21822,
+     "end": 21922
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 21926,
+   "end": 22026,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score the Hill case.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 2.256,
+     "start": 21936,
+     "end": 22004
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 22008,
+   "end": 22522,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A real couple, a real drive, and a real fright on September nineteenth: evidence. A report to the Air Force within a day, before hypnosis: evidence. Two hours missing: partial, because it rests on memory and rough timing.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 16.056,
+     "start": 22018,
+     "end": 22500
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 22504,
+   "end": 22987,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Torn dress, shiny marks, stopped watches: unverified. Hypnosis memories as fact: debunked as a method. The Zeta Reticuli star map: contested. A literal alien abduction: no evidence.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 15.024,
+     "start": 22514,
+     "end": 22965
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 22969,
+   "end": 23356,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Sincere, not proven. Betty and Barney Hill most likely told the truth about their fear, and about the light. But what happened in those two hours, no tape can tell us.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 11.832,
+     "start": 22979,
+     "end": 23334
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 23338,
+   "end": 23723,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Maybe it was a dream, shared and shaped. Maybe a mystery we still cannot explain. What it was not, is a hoax. And that is why, sixty years on, the tapes are still playing.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 11.736,
+     "start": 23348,
+     "end": 23701
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 23705,
+   "end": 24133,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a policeman chasing a speeding car on a New Mexico road in nineteen sixty-four hears a roar, sees a flash, and walks toward an egg-shaped craft. And leaves burned brush behind.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 13.176,
+     "start": 23715,
+     "end": 24111
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 24115,
+   "end": 24372,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think happened on that road? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 7.488,
+     "start": 24125,
+     "end": 24350
+    }
+   ]
+  }
+ ]
+}
