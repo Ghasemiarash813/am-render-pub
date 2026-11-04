@@ -1,0 +1,1400 @@
+{
+ "fps": 30,
+ "total": 17996,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 478,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two thousand two hundred years in the ground. And this bronze sword came out still sharp, still bright, barely touched by rust. For decades, people said the reason was a secret chemical coating, a lost technology.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.856,
+     "start": 10,
+     "end": 456
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 460,
+   "end": 842,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The story went that Qin craftsmen coated their weapons in chromium, a method the modern world only patented in the twentieth century. Proof of something nobody should have known.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 11.664,
+     "start": 470,
+     "end": 820
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 824,
+   "end": 1096,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alien engineers? A vanished super-civilisation? Or just a very good story that nobody checked for forty years?",
+     "file": "ep/audio/s03.mp3",
+     "dur": 7.992,
+     "start": 834,
+     "end": 1074
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1078,
+   "end": 1469,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we run the case like a conservation lab. Sample intake. Microscope. Chemical analysis. Soil test. And a final report, where every claim gets a score.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 11.952,
+     "start": 1088,
+     "end": 1447
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1451,
+   "end": 1710,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Facts first, theories labelled. Open the sample bag.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 3.552,
+     "start": 1461,
+     "end": 1568
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 INTAKE",
+    "Sample Received",
+    "LINTONG \u00b7 29 MARCH 1974"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1692,
+   "end": 2040,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter one. Sample intake. The date is the twenty-ninth of March, nineteen seventy-four. Farmland near Lintong, outside Xi'an, in a dry year.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 10.512,
+     "start": 1702,
+     "end": 2018
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2022,
+   "end": 2371,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Farmers are digging a well. One of them, Yang Zhifa, with his brothers and a neighbour, hits something hard. Not rock. Fired clay, and then a clay head, staring up.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.536,
+     "start": 2032,
+     "end": 2349
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2353,
+   "end": 2643,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They had found the army of the first emperor of China, Qin Shi Huang, buried near his tomb in the late third century BCE.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 8.568,
+     "start": 2363,
+     "end": 2621
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2625,
+   "end": 3012,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The largest pit is about two hundred thirty metres long and sixty-two wide. More than three thousand figures stand in it, and the four main pits lie roughly seven metres down.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 11.808,
+     "start": 2635,
+     "end": 2990
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 2994,
+   "end": 3316,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Every face is different, though they were built from moulds, with details added by hand. An industrial army, made like a modern production line.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 9.648,
+     "start": 3004,
+     "end": 3294
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3298,
+   "end": 3626,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the weapons. More than forty thousand bronze items have been recovered: swords, spears, halberds, crossbow triggers, and arrowheads in bundles.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 9.84,
+     "start": 3308,
+     "end": 3604
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3608,
+   "end": 3840,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Most weapons were looted or rotted long ago. The ones that survived are the samples on our bench.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 6.648,
+     "start": 3618,
+     "end": 3818
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 3822,
+   "end": 4063,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One sword in particular became famous. Bright, sharp, and in a condition that made people ask how.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 6.96,
+     "start": 3832,
+     "end": 4041
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4045,
+   "end": 4279,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Intake complete. Question for the lab: why did these weapons survive when others turn to green crust?",
+     "file": "ep/audio/s14.mp3",
+     "dur": 6.72,
+     "start": 4055,
+     "end": 4257
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 THE CLAIM",
+    "A Forty Year Belief",
+    "THE CHROMIUM LEGEND"
+   ],
+   "img": "ep/img/shot_15.jpg",
+   "start": 4261,
+   "end": 4411,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter two. The claim. Where did the chromium story come from?",
+     "file": "ep/audio/s15.mp3",
+     "dur": 3.912,
+     "start": 4271,
+     "end": 4389
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 4393,
+   "end": 4698,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Analysis of some of the swords found chromium on the surface. A thin layer, a few micrometres thick, was reported on the blades.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 9.096,
+     "start": 4403,
+     "end": 4676
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 4680,
+   "end": 4987,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chromium resists corrosion. That is why modern steel and car parts are chrome plated. So the idea seemed to explain everything.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 9.144,
+     "start": 4690,
+     "end": 4965
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 4969,
+   "end": 5390,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Popular versions added that the Qin had used chromate treatment, a process people link to the nineteen thirties in Germany. I could not verify that patent claim, so we mark it as popular lore.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 12.96,
+     "start": 4979,
+     "end": 5368
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 5372,
+   "end": 5663,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then the leap. If ancient China had chromate coating, who taught them? Cue the lost civilisation and the visitors from the sky.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 8.616,
+     "start": 5382,
+     "end": 5641
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "none",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 5645,
+   "end": 5919,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The claim spread because it is so easy to believe. A museum case, a shining blade, a number with the word chromium in it.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 8.04,
+     "start": 5655,
+     "end": 5897
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 5901,
+   "end": 6165,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But a coating is a claim about intention. It says someone applied the chromium on purpose. Science can test that.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 7.728,
+     "start": 5911,
+     "end": 6143
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 6147,
+   "end": 6361,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So in this lab, we do not ask whether chromium is there. We ask where, how much, and why.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 6.048,
+     "start": 6157,
+     "end": 6339
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 6343,
+   "end": 6480,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Question one logged. Next station: the microscope.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 3.48,
+     "start": 6353,
+     "end": 6458
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 MICROSCOPE",
+    "Looking Closer",
+    "UCL \u00b7 QIN MAUSOLEUM MUSEUM"
+   ],
+   "img": "ep/img/shot_24.jpg",
+   "start": 6462,
+   "end": 6830,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter three. The microscope. Researchers from University College London and the Emperor Qin Shihuang's Mausoleum Site Museum looked at the weapons themselves.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 11.184,
+     "start": 6472,
+     "end": 6808
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 6812,
+   "end": 7134,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They studied hundreds of pieces. In total, four hundred sixty-four weapon parts were analysed, a very large sample for this kind of question.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 9.648,
+     "start": 6822,
+     "end": 7112
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 7116,
+   "end": 7416,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Under magnification, the surface of the metal is not the mirror we imagine. Corrosion exists. Some of it is thin, some patchy.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 8.904,
+     "start": 7126,
+     "end": 7394
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 7398,
+   "end": 7702,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here is a clue. Many of these weapons had wooden or bamboo shafts, and the shafts were covered with lacquer, a black resin coating.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 9.048,
+     "start": 7408,
+     "end": 7680
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 7684,
+   "end": 7935,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lacquer was a high-status material in Qin China. And it was part of the weapon wherever the blade met the handle.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 7.272,
+     "start": 7694,
+     "end": 7913
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 7917,
+   "end": 8135,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the team did something simple. They mapped where the chromium appeared on each weapon, part by part.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 6.192,
+     "start": 7927,
+     "end": 8113
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 8117,
+   "end": 8323,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The pattern is not random. Chromium was strongest where the metal had touched the lacquered wood.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 5.784,
+     "start": 8127,
+     "end": 8301
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 8305,
+   "end": 8551,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A coating you apply on purpose goes everywhere. A smear you pick up from lacquer goes only where the lacquer was.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 7.128,
+     "start": 8315,
+     "end": 8529
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 SPECTROMETER",
+    "Reading The Elements",
+    "SURFACE CHEMISTRY"
+   ],
+   "img": "ep/img/shot_32.jpg",
+   "start": 8533,
+   "end": 8750,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter four. The spectrometer. A machine that reads the elements on a surface, point by point.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 6.144,
+     "start": 8543,
+     "end": 8728
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 8732,
+   "end": 9039,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The result, in the numbers: chromium was found on fewer than ten percent of the weapons tested. Thirty-seven weapons, not the whole army.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 9.144,
+     "start": 8742,
+     "end": 9017
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 9021,
+   "end": 9268,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If the Qin had chromium plated their weapons as a standard process, almost all should have shown it. They do not.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 7.152,
+     "start": 9031,
+     "end": 9246
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 9250,
+   "end": 9635,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The chromium also followed the type of artefact, not the state of preservation. Well-preserved swords without chromium exist. Corroded ones with chromium exist too.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 11.736,
+     "start": 9260,
+     "end": 9613
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 9617,
+   "end": 9842,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If the chromium were the shield, the protected pieces would carry it. They do not. The link is missing.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 6.408,
+     "start": 9627,
+     "end": 9820
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 9824,
+   "end": 10000,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the team measured the lacquer itself. And the lacquer is rich in chromium.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 4.8,
+     "start": 9834,
+     "end": 9978
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 9982,
+   "end": 10378,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A later study found Qin lacquer contains about zero point zero seven six micrograms of chromium per milligram, and the soil around about zero point zero six six.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 12.12,
+     "start": 9992,
+     "end": 10356
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 10360,
+   "end": 10582,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The lab's own conclusion in plain words: the lacquer is the unintended source of the chromium.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 6.312,
+     "start": 10370,
+     "end": 10560
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "V \u00b7 REPLICATION",
+    "Can It Be Made To Work?",
+    "ACCELERATED AGEING"
+   ],
+   "img": "ep/img/shot_40.jpg",
+   "start": 10564,
+   "end": 10787,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter five. The replication. If chromate coating really protected bronze, you can test that.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 6.36,
+     "start": 10574,
+     "end": 10765
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 10769,
+   "end": 11028,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The team made bronze test pieces with modern chromate conversion coatings, and left others plain, as controls.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 7.536,
+     "start": 10779,
+     "end": 11006
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 11010,
+   "end": 11228,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then they buried them in soils and aged them in accelerated conditions, to see which survive.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 6.168,
+     "start": 11020,
+     "end": 11206
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 11210,
+   "end": 11440,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The coating was not the star. The soil was. In the acidic soil, even the treated pieces corroded.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 6.6,
+     "start": 11220,
+     "end": 11418
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 11422,
+   "end": 11675,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A piece left in low-pH, low-quality soil corroded no matter what it wore. Chemistry beats ornament.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 7.344,
+     "start": 11432,
+     "end": 11653
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 11657,
+   "end": 11923,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Meanwhile, alkaline fine-grained soil kept bronze in surprisingly good shape, even without a magic coating.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 7.776,
+     "start": 11667,
+     "end": 11901
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 11905,
+   "end": 12226,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the claimed coating was ten to fifteen micrometres thick. That is thinner than a human hair, far thinner than anyone could verify by eye.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 9.624,
+     "start": 11915,
+     "end": 12204
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 12208,
+   "end": 12385,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The replication did not support an ancient chrome coating as the preservative.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 4.824,
+     "start": 12218,
+     "end": 12363
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VI \u00b7 SOIL TEST",
+    "The Real Preservative",
+    "PH AND PARTICLE SIZE"
+   ],
+   "img": "ep/img/shot_48.jpg",
+   "start": 12367,
+   "end": 12529,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter six. The soil test. So why did so many weapons survive?",
+     "file": "ep/audio/s48.mp3",
+     "dur": 4.32,
+     "start": 12377,
+     "end": 12507
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 12511,
+   "end": 12775,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Qin pits were filled with very fine soil, packed tightly. Fine particles keep air and water moving slowly.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 7.728,
+     "start": 12521,
+     "end": 12753
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 12757,
+   "end": 13013,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The soil was also moderately alkaline. Alkaline conditions slow the corrosion of copper-tin bronze.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 7.464,
+     "start": 12767,
+     "end": 12991
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 12995,
+   "end": 13323,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The bronze itself was a high-quality copper and tin alloy, with traces of nickel, magnesium and cobalt, and it was cast with real control.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 9.864,
+     "start": 13005,
+     "end": 13301
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 13305,
+   "end": 13557,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The pits were built as sealed halls: wooden roofs, mats and packed earth, made to protect the army in the afterlife.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 7.32,
+     "start": 13315,
+     "end": 13535
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 13539,
+   "end": 13849,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The same roofs later burned and fell, as armies and looters came. Fire, collapse and decay are why many figures were found in pieces.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 9.24,
+     "start": 13549,
+     "end": 13827
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 13831,
+   "end": 14074,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What survived intact did so by geography, luck and clean soil chemistry. No visitors required.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 7.008,
+     "start": 13841,
+     "end": 14052
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 14056,
+   "end": 14202,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Soil test complete. The environment preserved the weapons.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 3.792,
+     "start": 14066,
+     "end": 14180
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VII \u00b7 THE CRAFT",
+    "An Industrial Army",
+    "STATE PRODUCTION"
+   ],
+   "img": "ep/img/shot_56.jpg",
+   "start": 14184,
+   "end": 14435,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter seven. The craft. If there is no secret chemical, what is left? Something more impressive: organisation.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 7.272,
+     "start": 14194,
+     "end": 14413
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 14417,
+   "end": 14740,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Arrowheads were made in standardised batches. The chemistry of bundles of about a hundred points matches closely, a sign of batch production.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 9.672,
+     "start": 14427,
+     "end": 14718
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 14722,
+   "end": 15042,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The paint tells the same story. Cinnabar red, malachite green, azurite blue, and Han purple, a synthetic pigment, were all in use.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 9.576,
+     "start": 14732,
+     "end": 15020
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 15024,
+   "end": 15276,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Han purple is barium copper silicate, a manufactured pigment. Real chemistry. Not alien chemistry.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 7.32,
+     "start": 15034,
+     "end": 15254
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 15258,
+   "end": 15626,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And when the paint was first exposed to Xi'an's dry air, the lacquer underneath curled in about fifteen seconds and flaked within minutes. Fragile, brilliant, gone.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 11.184,
+     "start": 15268,
+     "end": 15604
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 15608,
+   "end": 15846,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The real wonder is a state that could mould, fire, paint and arm thousands of soldiers to a standard.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 6.864,
+     "start": 15618,
+     "end": 15824
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "LAB REPORT",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_62.jpg",
+   "start": 15828,
+   "end": 15950,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lab report. Time to score the chromium claim.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 2.976,
+     "start": 15838,
+     "end": 15928
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 15932,
+   "end": 16292,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chromium exists on some weapons: evidence. A deliberate protective coating: debunked. Chromium on over ninety percent of weapons: false, under ten percent had it.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 10.92,
+     "start": 15942,
+     "end": 16270
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 16274,
+   "end": 16644,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lacquer as the chromium source: strong evidence. Soil chemistry as the preservative: evidence. Lost technology or alien help: no evidence at all.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 11.256,
+     "start": 16284,
+     "end": 16622
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 16626,
+   "end": 16919,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. The chromium was real, but the coating was a myth. It was contamination from lacquer, and the real hero was the soil.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 8.688,
+     "start": 16636,
+     "end": 16897
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 16901,
+   "end": 17283,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The correction came from a joint team including the museum itself, published in Scientific Reports in twenty nineteen. Science corrected a forty-year belief in public.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 11.664,
+     "start": 16911,
+     "end": 17261
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 17265,
+   "end": 17685,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: sixty-two schoolchildren in Zimbabwe in nineteen ninety-four, and what they said came down onto their playground. The story is very different, and the evidence is not a lab report.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 12.912,
+     "start": 17275,
+     "end": 17663
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_68.jpg",
+   "start": 17667,
+   "end": 17921,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Did you believe the chrome story? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s68.mp3",
+     "dur": 7.392,
+     "start": 17677,
+     "end": 17899
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,615 @@
+1
+00:00:00,333 --> 00:00:03,503
+Two thousand two hundred years in the ground.
+
+2
+00:00:03,503 --> 00:00:09,211
+And this bronze sword came out still sharp, still bright, barely touched by rust.
+
+3
+00:00:09,211 --> 00:00:15,199
+For decades, people said the reason was a secret chemical coating, a lost technology.
+
+4
+00:00:15,666 --> 00:00:24,433
+The story went that Qin craftsmen coated their weapons in chromium, a method the modern world only patented in the twentieth century.
+
+5
+00:00:24,433 --> 00:00:27,333
+Proof of something nobody should have known.
+
+6
+00:00:27,800 --> 00:00:28,985
+Alien engineers?
+
+7
+00:00:28,985 --> 00:00:31,207
+A vanished super-civilisation?
+
+8
+00:00:31,207 --> 00:00:35,799
+Or just a very good story that nobody checked for forty years?
+
+9
+00:00:36,266 --> 00:00:40,045
+Tonight we run the case like a conservation lab.
+
+10
+00:00:40,045 --> 00:00:41,147
+Sample intake.
+
+11
+00:00:41,147 --> 00:00:42,013
+Microscope.
+
+12
+00:00:42,013 --> 00:00:43,430
+Chemical analysis.
+
+13
+00:00:43,430 --> 00:00:44,218
+Soil test.
+
+14
+00:00:44,218 --> 00:00:48,233
+And a final report, where every claim gets a score.
+
+15
+00:00:48,700 --> 00:00:50,867
+Facts first, theories labelled.
+
+16
+00:00:50,867 --> 00:00:52,266
+Open the sample bag.
+
+17
+00:00:56,733 --> 00:00:57,642
+Chapter one.
+
+18
+00:00:57,642 --> 00:00:58,703
+Sample intake.
+
+19
+00:00:58,703 --> 00:01:03,326
+The date is the twenty-ninth of March, nineteen seventy-four.
+
+20
+00:01:03,326 --> 00:01:07,266
+Farmland near Lintong, outside Xi'an, in a dry year.
+
+21
+00:01:07,733 --> 00:01:09,505
+Farmers are digging a well.
+
+22
+00:01:09,505 --> 00:01:14,755
+One of them, Yang Zhifa, with his brothers and a neighbour, hits something hard.
+
+23
+00:01:14,755 --> 00:01:15,346
+Not rock.
+
+24
+00:01:15,346 --> 00:01:18,299
+Fired clay, and then a clay head, staring up.
+
+25
+00:01:18,766 --> 00:01:27,366
+They had found the army of the first emperor of China, Qin Shi Huang, buried near his tomb in the late third century BCE.
+
+26
+00:01:27,833 --> 00:01:32,933
+The largest pit is about two hundred thirty metres long and sixty-two wide.
+
+27
+00:01:32,933 --> 00:01:39,666
+More than three thousand figures stand in it, and the four main pits lie roughly seven metres down.
+
+28
+00:01:40,133 --> 00:01:46,082
+Every face is different, though they were built from moulds, with details added by hand.
+
+29
+00:01:46,082 --> 00:01:49,799
+An industrial army, made like a modern production line.
+
+30
+00:01:50,266 --> 00:01:51,347
+And the weapons.
+
+31
+00:01:51,347 --> 00:02:00,133
+More than forty thousand bronze items have been recovered: swords, spears, halberds, crossbow triggers, and arrowheads in bundles.
+
+32
+00:02:00,599 --> 00:02:03,655
+Most weapons were looted or rotted long ago.
+
+33
+00:02:03,655 --> 00:02:07,266
+The ones that survived are the samples on our bench.
+
+34
+00:02:07,733 --> 00:02:10,462
+One sword in particular became famous.
+
+35
+00:02:10,462 --> 00:02:14,699
+Bright, sharp, and in a condition that made people ask how.
+
+36
+00:02:15,166 --> 00:02:16,243
+Intake complete.
+
+37
+00:02:16,243 --> 00:02:21,900
+Question for the lab: why did these weapons survive when others turn to green crust?
+
+38
+00:02:22,366 --> 00:02:23,140
+Chapter two.
+
+39
+00:02:23,140 --> 00:02:23,785
+The claim.
+
+40
+00:02:23,785 --> 00:02:26,300
+Where did the chromium story come from?
+
+41
+00:02:26,766 --> 00:02:31,137
+Analysis of some of the swords found chromium on the surface.
+
+42
+00:02:31,137 --> 00:02:35,866
+A thin layer, a few micrometres thick, was reported on the blades.
+
+43
+00:02:36,333 --> 00:02:38,313
+Chromium resists corrosion.
+
+44
+00:02:38,313 --> 00:02:42,493
+That is why modern steel and car parts are chrome plated.
+
+45
+00:02:42,493 --> 00:02:45,499
+So the idea seemed to explain everything.
+
+46
+00:02:45,966 --> 00:02:54,316
+Popular versions added that the Qin had used chromate treatment, a process people link to the nineteen thirties in Germany.
+
+47
+00:02:54,316 --> 00:02:58,933
+I could not verify that patent claim, so we mark it as popular lore.
+
+48
+00:02:59,400 --> 00:03:00,604
+And then the leap.
+
+49
+00:03:00,604 --> 00:03:04,285
+If ancient China had chromate coating, who taught them?
+
+50
+00:03:04,285 --> 00:03:08,033
+Cue the lost civilisation and the visitors from the sky.
+
+51
+00:03:08,500 --> 00:03:11,861
+The claim spread because it is so easy to believe.
+
+52
+00:03:11,861 --> 00:03:16,566
+A museum case, a shining blade, a number with the word chromium in it.
+
+53
+00:03:17,033 --> 00:03:19,889
+But a coating is a claim about intention.
+
+54
+00:03:19,889 --> 00:03:23,233
+It says someone applied the chromium on purpose.
+
+55
+00:03:23,233 --> 00:03:24,766
+Science can test that.
+
+56
+00:03:25,233 --> 00:03:29,093
+So in this lab, we do not ask whether chromium is there.
+
+57
+00:03:29,093 --> 00:03:31,300
+We ask where, how much, and why.
+
+58
+00:03:31,766 --> 00:03:33,195
+Question one logged.
+
+59
+00:03:33,195 --> 00:03:35,266
+Next station: the microscope.
+
+60
+00:03:35,733 --> 00:03:36,725
+Chapter three.
+
+61
+00:03:36,725 --> 00:03:37,789
+The microscope.
+
+62
+00:03:37,789 --> 00:03:46,933
+Researchers from University College London and the Emperor Qin Shihuang's Mausoleum Site Museum looked at the weapons themselves.
+
+63
+00:03:47,400 --> 00:03:49,609
+They studied hundreds of pieces.
+
+64
+00:03:49,609 --> 00:03:57,066
+In total, four hundred sixty-four weapon parts were analysed, a very large sample for this kind of question.
+
+65
+00:03:57,533 --> 00:04:02,936
+Under magnification, the surface of the metal is not the mirror we imagine.
+
+66
+00:04:02,936 --> 00:04:04,161
+Corrosion exists.
+
+67
+00:04:04,161 --> 00:04:06,466
+Some of it is thin, some patchy.
+
+68
+00:04:06,933 --> 00:04:08,218
+And here is a clue.
+
+69
+00:04:08,218 --> 00:04:16,000
+Many of these weapons had wooden or bamboo shafts, and the shafts were covered with lacquer, a black resin coating.
+
+70
+00:04:16,466 --> 00:04:19,595
+Lacquer was a high-status material in Qin China.
+
+71
+00:04:19,595 --> 00:04:23,766
+And it was part of the weapon wherever the blade met the handle.
+
+72
+00:04:24,233 --> 00:04:26,239
+So the team did something simple.
+
+73
+00:04:26,239 --> 00:04:30,433
+They mapped where the chromium appeared on each weapon, part by part.
+
+74
+00:04:30,899 --> 00:04:32,470
+The pattern is not random.
+
+75
+00:04:32,470 --> 00:04:36,699
+Chromium was strongest where the metal had touched the lacquered wood.
+
+76
+00:04:37,166 --> 00:04:40,160
+A coating you apply on purpose goes everywhere.
+
+77
+00:04:40,160 --> 00:04:44,300
+A smear you pick up from lacquer goes only where the lacquer was.
+
+78
+00:04:44,766 --> 00:04:45,628
+Chapter four.
+
+79
+00:04:45,628 --> 00:04:46,755
+The spectrometer.
+
+80
+00:04:46,755 --> 00:04:50,933
+A machine that reads the elements on a surface, point by point.
+
+81
+00:04:51,399 --> 00:04:57,803
+The result, in the numbers: chromium was found on fewer than ten percent of the weapons tested.
+
+82
+00:04:57,803 --> 00:05:00,566
+Thirty-seven weapons, not the whole army.
+
+83
+00:05:01,033 --> 00:05:07,432
+If the Qin had chromium plated their weapons as a standard process, almost all should have shown it.
+
+84
+00:05:07,432 --> 00:05:08,199
+They do not.
+
+85
+00:05:08,666 --> 00:05:14,404
+The chromium also followed the type of artefact, not the state of preservation.
+
+86
+00:05:14,404 --> 00:05:17,673
+Well-preserved swords without chromium exist.
+
+87
+00:05:17,673 --> 00:05:20,433
+Corroded ones with chromium exist too.
+
+88
+00:05:20,899 --> 00:05:25,295
+If the chromium were the shield, the protected pieces would carry it.
+
+89
+00:05:25,295 --> 00:05:26,059
+They do not.
+
+90
+00:05:26,059 --> 00:05:27,333
+The link is missing.
+
+91
+00:05:27,800 --> 00:05:30,384
+Then the team measured the lacquer itself.
+
+92
+00:05:30,384 --> 00:05:32,600
+And the lacquer is rich in chromium.
+
+93
+00:05:33,066 --> 00:05:45,199
+A later study found Qin lacquer contains about zero point zero seven six micrograms of chromium per milligram, and the soil around about zero point zero six six.
+
+94
+00:05:45,666 --> 00:05:52,000
+The lab's own conclusion in plain words: the lacquer is the unintended source of the chromium.
+
+95
+00:05:52,466 --> 00:05:53,366
+Chapter five.
+
+96
+00:05:53,366 --> 00:05:54,473
+The replication.
+
+97
+00:05:54,473 --> 00:05:58,833
+If chromate coating really protected bronze, you can test that.
+
+98
+00:05:59,300 --> 00:06:06,866
+The team made bronze test pieces with modern chromate conversion coatings, and left others plain, as controls.
+
+99
+00:06:07,333 --> 00:06:13,533
+Then they buried them in soils and aged them in accelerated conditions, to see which survive.
+
+100
+00:06:14,000 --> 00:06:16,014
+The coating was not the star.
+
+101
+00:06:16,014 --> 00:06:16,917
+The soil was.
+
+102
+00:06:16,917 --> 00:06:20,600
+In the acidic soil, even the treated pieces corroded.
+
+103
+00:06:21,066 --> 00:06:26,554
+A piece left in low-pH, low-quality soil corroded no matter what it wore.
+
+104
+00:06:26,554 --> 00:06:28,433
+Chemistry beats ornament.
+
+105
+00:06:28,899 --> 00:06:36,699
+Meanwhile, alkaline fine-grained soil kept bronze in surprisingly good shape, even without a magic coating.
+
+106
+00:06:37,166 --> 00:06:41,364
+And the claimed coating was ten to fifteen micrometres thick.
+
+107
+00:06:41,364 --> 00:06:46,800
+That is thinner than a human hair, far thinner than anyone could verify by eye.
+
+108
+00:06:47,266 --> 00:06:52,100
+The replication did not support an ancient chrome coating as the preservative.
+
+109
+00:06:52,566 --> 00:06:53,419
+Chapter six.
+
+110
+00:06:53,419 --> 00:06:54,413
+The soil test.
+
+111
+00:06:54,413 --> 00:06:56,899
+So why did so many weapons survive?
+
+112
+00:06:57,366 --> 00:07:01,694
+The Qin pits were filled with very fine soil, packed tightly.
+
+113
+00:07:01,694 --> 00:07:05,100
+Fine particles keep air and water moving slowly.
+
+114
+00:07:05,566 --> 00:07:08,461
+The soil was also moderately alkaline.
+
+115
+00:07:08,461 --> 00:07:13,033
+Alkaline conditions slow the corrosion of copper-tin bronze.
+
+116
+00:07:13,500 --> 00:07:23,366
+The bronze itself was a high-quality copper and tin alloy, with traces of nickel, magnesium and cobalt, and it was cast with real control.
+
+117
+00:07:23,833 --> 00:07:31,166
+The pits were built as sealed halls: wooden roofs, mats and packed earth, made to protect the army in the afterlife.
+
+118
+00:07:31,633 --> 00:07:36,196
+The same roofs later burned and fell, as armies and looters came.
+
+119
+00:07:36,196 --> 00:07:40,899
+Fire, collapse and decay are why many figures were found in pieces.
+
+120
+00:07:41,366 --> 00:07:46,811
+What survived intact did so by geography, luck and clean soil chemistry.
+
+121
+00:07:46,811 --> 00:07:48,399
+No visitors required.
+
+122
+00:07:48,866 --> 00:07:50,133
+Soil test complete.
+
+123
+00:07:50,133 --> 00:07:52,666
+The environment preserved the weapons.
+
+124
+00:07:53,133 --> 00:07:54,070
+Chapter seven.
+
+125
+00:07:54,070 --> 00:07:54,740
+The craft.
+
+126
+00:07:54,740 --> 00:07:57,754
+If there is no secret chemical, what is left?
+
+127
+00:07:57,754 --> 00:08:00,433
+Something more impressive: organisation.
+
+128
+00:08:00,899 --> 00:08:04,017
+Arrowheads were made in standardised batches.
+
+129
+00:08:04,017 --> 00:08:10,600
+The chemistry of bundles of about a hundred points matches closely, a sign of batch production.
+
+130
+00:08:11,066 --> 00:08:13,373
+The paint tells the same story.
+
+131
+00:08:13,373 --> 00:08:20,666
+Cinnabar red, malachite green, azurite blue, and Han purple, a synthetic pigment, were all in use.
+
+132
+00:08:21,133 --> 00:08:25,793
+Han purple is barium copper silicate, a manufactured pigment.
+
+133
+00:08:25,793 --> 00:08:26,938
+Real chemistry.
+
+134
+00:08:26,938 --> 00:08:28,466
+Not alien chemistry.
+
+135
+00:08:28,933 --> 00:08:38,415
+And when the paint was first exposed to Xi'an's dry air, the lacquer underneath curled in about fifteen seconds and flaked within minutes.
+
+136
+00:08:38,415 --> 00:08:40,133
+Fragile, brilliant, gone.
+
+137
+00:08:40,600 --> 00:08:47,466
+The real wonder is a state that could mould, fire, paint and arm thousands of soldiers to a standard.
+
+138
+00:08:47,933 --> 00:08:48,683
+Lab report.
+
+139
+00:08:48,683 --> 00:08:50,933
+Time to score the chromium claim.
+
+140
+00:08:51,399 --> 00:08:54,269
+Chromium exists on some weapons: evidence.
+
+141
+00:08:54,269 --> 00:08:57,139
+A deliberate protective coating: debunked.
+
+142
+00:08:57,139 --> 00:09:02,333
+Chromium on over ninety percent of weapons: false, under ten percent had it.
+
+143
+00:09:02,799 --> 00:09:06,581
+Lacquer as the chromium source: strong evidence.
+
+144
+00:09:06,581 --> 00:09:10,127
+Soil chemistry as the preservative: evidence.
+
+145
+00:09:10,127 --> 00:09:14,066
+Lost technology or alien help: no evidence at all.
+
+146
+00:09:14,533 --> 00:09:15,348
+The verdict.
+
+147
+00:09:15,348 --> 00:09:18,747
+The chromium was real, but the coating was a myth.
+
+148
+00:09:18,747 --> 00:09:23,233
+It was contamination from lacquer, and the real hero was the soil.
+
+149
+00:09:23,700 --> 00:09:31,993
+The correction came from a joint team including the museum itself, published in Scientific Reports in twenty nineteen.
+
+150
+00:09:31,993 --> 00:09:35,366
+Science corrected a forty-year belief in public.
+
+151
+00:09:35,833 --> 00:09:44,274
+Next case: sixty-two schoolchildren in Zimbabwe in nineteen ninety-four, and what they said came down onto their playground.
+
+152
+00:09:44,274 --> 00:09:48,766
+The story is very different, and the evidence is not a lab report.
+
+153
+00:09:49,233 --> 00:09:51,320
+Did you believe the chrome story?
+
+154
+00:09:51,320 --> 00:09:56,633
+Tell us in the comments, and subscribe for the next ancient mystery put to the test.
