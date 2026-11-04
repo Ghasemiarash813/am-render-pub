@@ -1,0 +1,1402 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a lone Appaloosa horse standing in a high mountain valley pasture at dawn, mist, Colorado, San Luis Valley, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "September 1967. A three year old Appaloosa mare walks out into a pasture in southern Colorado. Two days later she is found dead, and her head is picked clean to the bone."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "September 1967. A three year old Appaloosa mare walks out into a pasture in southern Colorado. Two days later she is found dead, and her head is picked clean to the bone.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a night sky over a dark ranch pasture with a faint glowing disc far above the mountains, rural Colorado, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Newspapers across America said she was killed by a flying saucer. A pathologist said the cuts were too clean for any animal. A sheriff said it was lightning."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Newspapers across America said she was killed by a flying saucer. A pathologist said the cuts were too clean for any animal. A sheriff said it was lightning.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 11.04
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a worn wooden county courthouse desk with a blank folder, a pencil and an old brass lamp, warm light, shallow depth of field, blank paper, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we open this as an inquest. Six exhibits. Every claim called as a witness, and cross examined."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we open this as an inquest. Six exhibits. Every claim called as a witness, and cross examined.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 7.584
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a vast flat high desert valley ringed by snowy mountains under heavy clouds, empty ranch land, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Who was the horse? What exactly was found? What do the experts say? And why did a few hundred cattle in the years after seem to die the same way?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Who was the horse? What exactly was found? What do the experts say? And why did a few hundred cattle in the years after seem to die the same way?",
+    "file": "ep/audio/s04.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 cinematic photograph of a rustic barbed wire fence at sunrise across empty Colorado ranchland, golden haze, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the end, a verdict. Unexplained, explained, or a legend that grew faster than the facts. Court is in session."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the end, a verdict. Unexplained, explained, or a legend that grew faster than the facts. Court is in session.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 7.752
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a three year old spotted Appaloosa mare grazing peacefully on a ranch, Colorado, afternoon light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Exhibit A. The victim. Her name was Lady. A young Appaloosa mare, owned by Nellie Lewis, and pastured on her brother Harry King's ranch near Alamosa."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 EXHIBIT A",
+   "The Victim",
+   "LADY \u00b7 ALAMOSA \u00b7 1967"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Exhibit A. The victim. Her name was Lady. A young Appaloosa mare, owned by Nellie Lewis, and pastured on her brother Harry King's ranch near Alamosa.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a small family ranch house with a barn and corrals in the San Luis Valley, Colorado, 1960s feel, late sun, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The King ranch sits in the San Luis Valley, a high flat basin more than seven thousand feet up, ringed by the Sangre de Cristo mountains."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The King ranch sits in the San Luis Valley, a high flat basin more than seven thousand feet up, ringed by the Sangre de Cristo mountains.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an old American ranch family of three adults standing by a barbed wire fence looking at a pasture, 1960s clothing, distance shot, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Harry King and his wife Agnes ran cattle there. In early September the mare did not come in. On the seventh, she was simply gone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Harry King and his wife Agnes ran cattle there. In early September the mare did not come in. On the seventh, she was simply gone.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 8.784
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of two ranchers searching a wide dry pasture on foot in the morning, long shadows, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They searched the pasture. Nothing. The grass was dry, the ground firm. Two days later, on September ninth, Agnes and Harry walked out and found her."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They searched the pasture. Nothing. The grass was dry, the ground firm. Two days later, on September ninth, Agnes and Harry walked out and found her.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a ranch pasture with a distant dark shape lying in grass and sage brush, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "She lay on her side in a patch of flattened brush. And from a distance, Harry said later, it looked like something was wrong with her head."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "She lay on her side in a patch of flattened brush. And from a distance, Harry said later, it looked like something was wrong with her head.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of old black and white style photograph feel of a small town newspaper office with typewriters and stacked papers, 1960s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Pueblo Chieftain ran the story. The wire services picked it up. And somewhere along the way the horse got a different name."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Pueblo Chieftain ran the story. The wire services picked it up. And somewhere along the way the horse got a different name.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 7.992
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a stack of vintage newspapers on a desk beside a coffee cup, 1960s, warm light, abstract grey bars instead of words, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Reporters called her Snippy. That was actually the name of her sire, a horse owned by Berle Lewis. The wrong name stuck, and so did the mystery."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Reporters called her Snippy. That was actually the name of her sire, a horse owned by Berle Lewis. The wrong name stuck, and so did the mystery.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a close view of a horse skull and neck bones bleached clean lying in dry grass, no gore, forensic stillness, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Exhibit B. The body. The head and neck were stripped of flesh, down to clean white bone, as if cut away along a line at the shoulder."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 EXHIBIT B",
+   "The Body",
+   "BONE \u00b7 CLEAN CUT \u00b7 NO BLOOD"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Exhibit B. The body. The head and neck were stripped of flesh, down to clean white bone, as if cut away along a line at the shoulder.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 8.808
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a horse's dark body lying on dry brush with the long neck ending in pale clean bone, wide shot, overcast, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The rest of the body was intact. No blood on the ground. No drag marks. No tracks of people or vehicles, according to the family."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The rest of the body was intact. No blood on the ground. No drag marks. No tracks of people or vehicles, according to the family.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 9.024
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a circle of six small round dents pressed into dry dirt around flattened sagebrush, overhead view, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Around her, six round marks in the ground, about two inches across and four inches deep, set in a circle roughly three feet wide. The brush around her was pressed flat."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around her, six round marks in the ground, about two inches across and four inches deep, set in a circle roughly three feet wide. The brush around her was pressed flat.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a vintage Geiger counter with a needle and wooden handle held over dry grass, close, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A forest service man, Duane Martin, reportedly passed a Geiger counter over the spot. The needle, he said, read higher near the body than elsewhere."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A forest service man, Duane Martin, reportedly passed a Geiger counter over the spot. The needle, he said, read higher near the body than elsewhere.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 10.392
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a worried rancher in a cowboy hat standing alone in an open pasture looking down at the ground, rear view, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That detail would be repeated for decades. It also came from a handheld instrument, a single reading, and no record of calibration."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That detail would be repeated for decades. It also came from a handheld instrument, a single reading, and no record of calibration.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a curious crowd of visitors in cars and on foot arriving at a rural ranch gate in the 1960s, dust cloud, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then people came. Carloads of them. Reporters, sightseers, ufo fans. By the time anyone competent looked, the ground had been trampled flat."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then people came. Carloads of them. Reporters, sightseers, ufo fans. By the time anyone competent looked, the ground had been trampled flat.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a night sky full of stars over a silent horse pasture, a faint glow above the horizon, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Locals also talked of strange lights over the valley that autumn. The flying saucer story had arrived, and it fit the shape of the times."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Locals also talked of strange lights over the valley that autumn. The flying saucer story had arrived, and it fit the shape of the times.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 9.48
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an old county sheriff in a tan hat and uniform standing beside a patrol car on a dirt road, 1960s, distant, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Exhibit C. The sheriff. Ben Phillips of Alamosa County looked at the case and gave a flat answer. The mare, he said, was struck by lightning."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 EXHIBIT C",
+   "The Witnesses",
+   "SHERIFF \u00b7 PATHOLOGIST \u00b7 VET"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Exhibit C. The sheriff. Ben Phillips of Alamosa County looked at the case and gave a flat answer. The mare, he said, was struck by lightning.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a lightning storm over the mountains of the San Luis Valley at dusk, bolt hitting the far ridge, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lightning does kill horses. It leaves burns on the skin and sometimes singes the ground. It does not strip a head to the bone. And he never visited the site."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lightning does kill horses. It leaves burns on the skin and sometimes singes the ground. It does not strip a head to the bone. And he never visited the site.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a doctor in a white coat looking at slides under a microscope in a 1960s laboratory, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came Doctor John Altshuler, a Denver pathologist. He looked at the remains years later, and his account became the centre of the legend."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came Doctor John Altshuler, a Denver pathologist. He looked at the remains years later, and his account became the centre of the legend.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 9.36
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a surgical steel scalpel and a ceramic tray on a green cloth in a dim laboratory, macro, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He said the cut at the neck was clean, almost cauterized, like a surgical incision. He said the heart, lungs and thyroid were gone, and the brain looked unusually clean."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He said the cut at the neck was clean, almost cauterized, like a surgical incision. He said the heart, lungs and thyroid were gone, and the brain looked unusually clean.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 11.64
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a man in a suit being interviewed by two reporters with microphones and notepads, black and white feel, 1960s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In 1967 the Associated Press quoted him saying organs were missing, and that it was definitely not lightning. His later, bigger claims came decades after."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In 1967 the Associated Press quoted him saying organs were missing, and that it was definitely not lightning. His later, bigger claims came decades after.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 12.216
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a veterinarian in coveralls examining an old horse's hind leg in a barn, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the other side. An independent veterinary pathologist for the University of Colorado, working for the Air Force project, saw the same horse differently."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the other side. An independent veterinary pathologist for the University of Colorado, working for the Air Force project, saw the same horse differently.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 11.352
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a stack of declassified government folders beneath an old reading lamp in a government archive, blank covers, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The government project was run by physicist Edward Condon at the University of Colorado. Snippy is Case thirty two in its final report, written in 1968."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The government project was run by physicist Edward Condon at the University of Colorado. Snippy is Case thirty two in its final report, written in 1968.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a worn government report bound in beige card on a table with a magnifying glass, abstract grey bars instead of words, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Let's hear what the Condon team's own investigators actually found. Because it is not what the flying saucer version leaves out."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Let's hear what the Condon team's own investigators actually found. Because it is not what the flying saucer version leaves out.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 8.784
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an investigator in a field jacket kneeling next to a tall dry pasture notebook in hand, Colorado, overcast, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Exhibit D. The cross examination. Investigator Wadsworth Ayer reached the case after the crowds. First fact: hundreds of visitors had trampled the site."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV \u00b7 EXHIBIT D",
+   "Cross Examination",
+   "CONDON \u00b7 INFECTION \u00b7 MAGPIES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Exhibit D. The cross examination. Investigator Wadsworth Ayer reached the case after the crowds. First fact: hundreds of visitors had trampled the site.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a veterinarian's gloved hands pointing to the hind leg of a horse skeleton, soft studio light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Second fact. The vet found a severe infection in one hind leg. The mare may have been lame, sick and in pain for some time before she died."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second fact. The vet found a severe infection in one hind leg. The mare may have been lame, sick and in pain for some time before she died.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 9.768
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a farmer with a rifle held low at his side standing in a field beside an old horse, dusk, sad mood, distance, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Third fact. A knife cut in the neck. His working idea: someone may have found her suffering and put her down, which is legal on a ranch."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Third fact. A knife cut in the neck. His working idea: someone may have found her suffering and put her down, which is legal on a ranch.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 8.928
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of black and white magpies perched on a fence post in an open ranch field at dawn, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Fourth fact, and the strangest one. Magpies. Those birds will strip soft flesh from a carcass in days, and they favour an opened neck or wound."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fourth fact, and the strangest one. Magpies. Those birds will strip soft flesh from a carcass in days, and they favour an opened neck or wound.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 10.152
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a magpie pulling at a carcass in dry grass, shallow depth of field, no gore, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The skin and muscle go first from the head. What you are left with is a clean, pale skull that can look cut from a distance."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The skin and muscle go first from the head. What you are left with is a clean, pale skull that can look cut from a distance.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 7.824
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of old dry grass and bleached ribs of an animal carcass, decaying slowly in the sun, wide shot, no gore, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "As for the missing organs: the investigators said that in a body found days after death, the soft organs are often gone or rotted. That is normal."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "As for the missing organs: the investigators said that in a body found days after death, the soft organs are often gone or rotted. That is normal.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 10.392
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a hot sun beating on a dry brush field with heat haze, flattened vegetation circle, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The pressed brush and six round marks? The team noted that the horse's body, and its struggles, could flatten brush, and the marks were not specific."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The pressed brush and six round marks? The team noted that the horse's body, and its struggles, could flatten brush, and the marks were not specific.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a scale of justice made of brass on a desk in a dim courtroom, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their conclusion in the Condon report was blunt. No evidence of abnormal causes. No evidence of anything beyond predators, decay, and a sick horse."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their conclusion in the Condon report was blunt. No evidence of abnormal causes. No evidence of anything beyond predators, decay, and a sick horse.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.824
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a skeptical scientist in a lab coat leaning on a desk with folded arms, soft light, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Does that settle it? Not quite. Doctor Altshuler's own account still disagrees with the report. Two honest accounts, decades apart, of the same remains."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Does that settle it? Not quite. Doctor Altshuler's own account still disagrees with the report. Two honest accounts, decades apart, of the same remains.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 10.632
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an empty dirt road leading across a prairie towards snowy mountains at sunset, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that, says every honest researcher, is the problem. The one body that really mattered was gone, buried, and never tested to modern standards."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that, says every honest researcher, is the problem. The one body that really mattered was gone, buried, and never tested to modern standards.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a herd of black cattle on a green hillside in Colorado, a farmer's truck in distance, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Exhibit E. The panic. Within weeks, ranchers across Colorado, Kansas, Nebraska and the Dakotas began to report cattle found dead, oddly stripped."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "V \u00b7 EXHIBIT E",
+   "The Panic",
+   "1967 \u00b7 1975 \u00b7 FBI \u00b7 NEWSPAPERS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Exhibit E. The panic. Within weeks, ranchers across Colorado, Kansas, Nebraska and the Dakotas began to report cattle found dead, oddly stripped.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a rural American town diner in the late 1960s with ranchers talking over coffee, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some said ears, tongues, udders and sex organs were removed, with no blood and no tracks. Whole towns started watching the sky at night."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some said ears, tongues, udders and sex organs were removed, with no blood and no tracks. Whole towns started watching the sky at night.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 9.696
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a night time field with a farmer holding a flashlight and a rifle looking up at stars, silhouette, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Farmers sat up with rifles. Sheriffs formed patrols. A Colorado state official called the cases a wave of unexplained mutilations."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Farmers sat up with rifles. Sheriffs formed patrols. A Colorado state official called the cases a wave of unexplained mutilations.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an old black and white style helicopter flying low over a ranch field, no marks, no numbers, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Black helicopters were reported. Strange lights. Unmarked vans. The story grew a government villain, and then an alien one."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Black helicopters were reported. Strange lights. Unmarked vans. The story grew a government villain, and then an alien one.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 8.544
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a lawman in a cowboy hat taking notes beside a dead cow in a field, wide shot, no gore, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By the nineteen seventies the Federal Bureau of Investigation and state police had hundreds of reports on their desks."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By the nineteen seventies the Federal Bureau of Investigation and state police had hundreds of reports on their desks.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 7.92
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a drab federal office with filing cabinets and a typewriter, warm light, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen seventy nine the FBI's Kenneth Rommel investigated New Mexico cases for the Senate. His team put the cause as predators and decay."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen seventy nine the FBI's Kenneth Rommel investigated New Mexico cases for the Senate. His team put the cause as predators and decay.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 10.656
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of coyotes trotting across a snowy prairie at dusk, wide, cold light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scavengers can take eyes, tongues, lips and soft parts first. And blowflies soften skin edges, so the cuts can look like a scalpel did them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scavengers can take eyes, tongues, lips and soft parts first. And blowflies soften skin edges, so the cuts can look like a scalpel did them.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 9.768
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a researcher in a field jacket at a farm gate beside a notebook with abstract grey bars instead of words, wide, dusk, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Researchers who studied the cases, including a dedicated Colorado investigation, found no pattern that predators and ordinary decay could not explain."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Researchers who studied the cases, including a dedicated Colorado investigation, found no pattern that predators and ordinary decay could not explain.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a giant silver disc spacecraft hovering above a dark ranch field at night with a thin beam, cinematic concept art, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Exhibit F. The theories. Theory one, the popular one: extraterrestrials harvesting tissue from Earth animals, for study, or for food."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VI \u00b7 EXHIBIT F",
+   "The Theories",
+   "ALIENS \u00b7 CULTS \u00b7 SECRET LABS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Exhibit F. The theories. Theory one, the popular one: extraterrestrials harvesting tissue from Earth animals, for study, or for food.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a hooded group of silhouettes around a campfire in a dark field at night, mysterious, no symbols, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Theory two: satanic cults, performing rituals on animals. A real panic of the era. Investigators found no cult, no evidence, no arrests tied to the cases."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Theory two: satanic cults, performing rituals on animals. A real panic of the era. Investigators found no cult, no evidence, no arrests tied to the cases.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a modern secret laboratory with glass and metal in a desert, white light, empty room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Theory three: a secret government programme testing something on cattle, from germ warfare to radiation. Rumours only. No documents have ever shown it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Theory three: a secret government programme testing something on cattle, from germ warfare to radiation. Rumours only. No documents have ever shown it.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 10.632
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a massive vintage radar dish on a mountain at dawn, golden light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Theory four: fallout. Cold war nuclear testing worried farmers everywhere, and a Geiger counter in a story felt like proof. It was not."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Theory four: fallout. Cold war nuclear testing worried farmers everywhere, and a Geiger counter in a story felt like proof. It was not.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a lone farmer looking at a field of cows under a dramatic sunset, back view, reflective, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Theory five, the quiet one: nothing happened. Normal deaths, normal predators, and an alarmed public primed by the saucer craze to read patterns into them."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Theory five, the quiet one: nothing happened. Normal deaths, normal predators, and an alarmed public primed by the saucer craze to read patterns into them.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a hand-drawn style map of the American Midwest on a wooden desk with pins, blank pins, no labels, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Social scientists call it a moral panic. Reports surge after a famous story, then fade. The mutilation wave rose and fell with newspaper coverage."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Social scientists call it a moral panic. Reports surge after a famous story, then fade. The mutilation wave rose and fell with newspaper coverage.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a modern roadside attraction in a desert valley with a tall tower and a parked camper at sunset, small, no signs, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the legend never died. In the San Luis Valley a roadside tourist attraction still draws visitors, and the story was revived in the news in twenty twenty two."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the legend never died. In the San Luis Valley a roadside tourist attraction still draws visitors, and the story was revived in the news in twenty twenty two.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a worn wooden gavel on a desk in a dim courtroom, golden light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The court has heard everything. Time to weigh the evidence, exhibit by exhibit, and give the case its score."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The court has heard everything. Time to weigh the evidence, exhibit by exhibit, and give the case its score.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 6.768
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an old jury box with empty wooden seats in a dim courtroom, golden light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The inquest asks the same three questions about each claim. Is it documented? Is it independent? And does the simpler explanation fit?"
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The inquest asks the same three questions about each claim. Is it documented? Is it independent? And does the simpler explanation fit?",
+    "file": "ep/audio/s54.mp3",
+    "dur": 9.696
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a vintage microscope on a dark laboratory bench, warm spotlight, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First, the part we cannot answer. We never saw the original data from Altshuler's examination. The remains were buried. No tissue was ever stored."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First, the part we cannot answer. We never saw the original data from Altshuler's examination. The remains were buried. No tissue was ever stored.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 10.536
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a ranch gate with an open dirt road and a distant mountain, golden hour, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Second, the fact that matters. The one place where the legend started, Lady, has a plain explanation that fits every observation we can check."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second, the fact that matters. The one place where the legend started, Lady, has a plain explanation that fits every observation we can check.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 9.36
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a calm Appaloosa horse head in profile against a soft sunrise sky, warm light, respectful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Remember what she was. A sick young horse, in pain, on a ranch where someone may have ended her suffering, and nature did the rest."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Remember what she was. A sick young horse, in pain, on a ranch where someone may have ended her suffering, and nature did the rest.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 8.472
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a silent mountain valley at blue hour with the first stars, peaceful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why does it feel so unsatisfying? Because a plain explanation arrives long after the exciting one, and never gets the headlines."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why does it feel so unsatisfying? Because a plain explanation arrives long after the exciting one, and never gets the headlines.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark empty wooden courtroom at night, a single brass desk lamp on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the case of Snippy the horse."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VERDICT",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the case of Snippy the horse.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 3.192
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark empty wooden courtroom at night, a single brass desk lamp on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real horse, found dead in September nineteen sixty seven, her head stripped to bone: evidence. Magpies, infection, and a knife cut: documented in the Condon report. Trampled site and one early Geiger reading: weak."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real horse, found dead in September nineteen sixty seven, her head stripped to bone: evidence. Magpies, infection, and a knife cut: documented in the Condon report. Trampled site and one early Geiger reading: weak.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 15.696
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark empty wooden courtroom at night, a single brass desk lamp on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Alien surgery: no evidence. A cult or secret government lab: no evidence. A national wave of mutilations as a news driven panic: well supported. One honest unknown, the lost original remains."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Alien surgery: no evidence. A cult or secret government lab: no evidence. A national wave of mutilations as a news driven panic: well supported. One honest unknown, the lost original remains.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 15.168
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 cinematic photograph of a lone Appaloosa horse silhouette on a ridge at sunset, peaceful, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Explained, as far as the evidence reaches. A sick horse, scavengers and a panic. The saucers were never needed. But the buried truth keeps the legend alive."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Explained, as far as the evidence reaches. A sick horse, scavengers and a panic. The saucers were never needed. But the buried truth keeps the legend alive.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an old rancher's weathered hands resting on a wooden fence rail at dusk, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Somewhere in Colorado, a family lost a horse and woke up the next day in the middle of a national story. They never asked for any of it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Somewhere in Colorado, a family lost a horse and woke up the next day in the middle of a national story. They never asked for any of it.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 8.904
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a bright green streak across a dark night sky above a quiet silent field, wide, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: one night, one radio telescope, and a signal so strong the astronomer wrote one word beside it. Was it the first message from another world?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: one night, one radio telescope, and a signal so strong the astronomer wrote one word beside it. Was it the first message from another world?",
+    "file": "ep/audio/s64.mp3",
+    "dur": 10.344
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide 16:9 cinematic photograph of a dark end card background with a single glowing Appaloosa horse silhouette centred against black, minimal, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think happened to Lady? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think happened to Lady? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 7.032
+   }
+  ]
+ }
+]
