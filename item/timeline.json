@@ -1,0 +1,1176 @@
+{
+ "fps": 30,
+ "total": 19771,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 400,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eleven thousand six hundred years ago, hunters with stone tools raised a ring of pillars on this hill. No farms. No pottery. No metal. And then, deliberately, they buried it.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 12.24,
+     "start": 10,
+     "end": 378
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 382,
+   "end": 697,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Each pillar weighs up to fifteen tons. They were carved six thousand years before Stonehenge, by people the textbooks said could not do this.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 9.408,
+     "start": 392,
+     "end": 675
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 679,
+   "end": 963,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So who were they? Did a lost civilization teach them? Did visitors from the sky? Or is the truth stranger, because it is human?",
+     "file": "ep/audio/s03.mp3",
+     "dur": 8.4,
+     "start": 689,
+     "end": 941
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 945,
+   "end": 1186,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we read it as a dig diary. One season at a time. And at the end, every claim gets a score.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 6.96,
+     "start": 955,
+     "end": 1164
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1168,
+   "end": 1414,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Facts first, theories labelled. Open the diary.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 3.12,
+     "start": 1178,
+     "end": 1272
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 THE HILL",
+    "Survey Notes",
+    "1963 \u00b7 1994"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1396,
+   "end": 1841,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter one. The hill. Nineteen sixty-three. An American and Turkish survey team notes a hill near Sanliurfa covered in broken flint. They decide it is a medieval cemetery, and move on.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 13.752,
+     "start": 1406,
+     "end": 1819
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 1823,
+   "end": 2177,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The flint is the clue they miss. Thousands of tiny blades and scrapers, thousands of years older than any cemetery. The hill is quiet for three decades.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.728,
+     "start": 1833,
+     "end": 2155
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2159,
+   "end": 2627,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nineteen ninety-four. German archaeologist Klaus Schmidt is searching for sites in the region. He reads the old survey, drives out, and sees a limestone slab the size of a table sticking from the ground.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 14.52,
+     "start": 2169,
+     "end": 2605
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2609,
+   "end": 2927,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Most people see a natural rock. Schmidt sees the top of a pillar. He later said he realised within minutes that this was something extraordinary.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 9.504,
+     "start": 2619,
+     "end": 2905
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 2909,
+   "end": 3335,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nineteen ninety-five. Excavations begin. Schmidt expects a little Neolithic village. Instead, the first trench reveals the heads of giant T-shaped pillars, packed in a circle.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 13.104,
+     "start": 2919,
+     "end": 3313
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3317,
+   "end": 3709,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Radiocarbon dates come back. Around nine thousand five hundred BCE. That is the Pre-Pottery Neolithic. Humans were not supposed to be building monuments yet.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 12.0,
+     "start": 3327,
+     "end": 3687
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3691,
+   "end": 4105,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The dates come from charcoal and other organic material in the fill. Later studies keep refining them, but the picture holds: this is the oldest known monumental architecture on Earth.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 12.72,
+     "start": 3701,
+     "end": 4083
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4087,
+   "end": 4461,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Diary entry. The hill is not natural. It is a tell, an artificial mound, made of the rubble of the enclosures themselves, rebuilt again and again over centuries.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 11.376,
+     "start": 4097,
+     "end": 4439
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4443,
+   "end": 4887,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Over the following years the team finds more circles. Enclosures A, B, C and D. Each one is a ring of pillars joined by low stone walls, with two taller pillars standing in the middle.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 13.704,
+     "start": 4453,
+     "end": 4865
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 THE PILLARS",
+    "Twelve Giants",
+    "ENCLOSURES A\u2013D"
+   ],
+   "img": "ep/img/shot_15.jpg",
+   "start": 4869,
+   "end": 5145,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter two. The pillars. Each is a T. Some scholars see the T as a head with a flat top, and the pillar as a body.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 8.112,
+     "start": 4879,
+     "end": 5123
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5127,
+   "end": 5609,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look closer and the pillars wear things. Carved arms reach round the sides. Hands meet over the belly. Belts and loincloths of fox pelt are carved in relief. These are not columns. They are people, made of stone.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 15.0,
+     "start": 5137,
+     "end": 5587
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5591,
+   "end": 5911,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "How were they moved? The quarries are only a few hundred metres away, and an unfinished pillar still lies in the rock, nearly seven metres long.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 9.6,
+     "start": 5601,
+     "end": 5889
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5893,
+   "end": 6273,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That unfinished giant weighs an estimated fifty tons. Nobody knows how they would have moved it. But the quarry itself, with its tool marks, proves they cut it by hand.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 11.568,
+     "start": 5903,
+     "end": 6251
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6255,
+   "end": 6654,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The tools are flint chisels and hard stone pounders. No metal. Cutting limestone is not hard, because fresh limestone is soft. The work is huge, but not impossible.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.216,
+     "start": 6265,
+     "end": 6632
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6636,
+   "end": 6994,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Experimental teams have moved multi-ton blocks with ropes, wooden sledges and a few dozen people. A work force of hundreds could raise a whole circle in a season.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 10.848,
+     "start": 6646,
+     "end": 6972
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6976,
+   "end": 7363,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter three. The two central pillars of each enclosure face the same way, southeast. Some researchers argue the layout tracks the sky. That is a theory, and a debated one.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 11.808,
+     "start": 6986,
+     "end": 7341
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7345,
+   "end": 7682,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Claims of precise astronomical alignment depend on which pillars you count and when they stood. Many archaeologists say the evidence is not strong enough.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.152,
+     "start": 7355,
+     "end": 7660
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 THE ZOO",
+    "Stone Animals",
+    "PILLARS \u00b7 RELIEFS"
+   ],
+   "img": "ep/img/shot_23.jpg",
+   "start": 7664,
+   "end": 8012,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter four. The zoo. The carvings are the real shock. Foxes, boars, snakes, scorpions, wild cattle, cranes and vultures, crowding the pillars.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.512,
+     "start": 7674,
+     "end": 7990
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 7994,
+   "end": 8252,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Almost all of them are dangerous. Not food, but predators and venom. It is a world of fear, carved large.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 7.512,
+     "start": 8004,
+     "end": 8230
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8234,
+   "end": 8639,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At Enclosure D, Pillar forty-three, nicknamed the Vulture Stone, shows a vulture, a scorpion and a disc. People have read it as a funeral scene, a calendar, even a star map.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 12.432,
+     "start": 8244,
+     "end": 8617
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8621,
+   "end": 8997,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the careful reading. Some of the symbols may be pictographs. But there is no evidence of writing, and nothing like a proper script exists for another six thousand years.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.448,
+     "start": 8631,
+     "end": 8975
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 8979,
+   "end": 9391,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So what happened inside these rings? There are no graves, no houses in the enclosures, no temple floor with offerings. Archaeologists call it a gathering place, ritual or feasting.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 12.648,
+     "start": 8989,
+     "end": 9369
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9373,
+   "end": 9742,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the bones are telling. Tens of thousands of gazelle, wild cattle, and boar bones, butchered here. Feasting was a major activity. Big meals for big crowds.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 11.208,
+     "start": 9383,
+     "end": 9720
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9724,
+   "end": 10132,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Giant stone vats were found too, which may have held a fermented drink. Some researchers think beer came before bread. It is a fun idea, supported only by indirect evidence.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 12.528,
+     "start": 9734,
+     "end": 10110
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10114,
+   "end": 10492,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It fits a simple idea: a community of hunters, meeting across the region, building a monument together. And that idea, in turn, changes the story of civilisation.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 11.52,
+     "start": 10124,
+     "end": 10470
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 THE SKULLS",
+    "Carved Bone",
+    "SKULL CULT \u00b7 2017"
+   ],
+   "img": "ep/img/shot_31.jpg",
+   "start": 10474,
+   "end": 10882,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter five. The burial. A twenty seventeen study reports skull fragments with carved grooves and drilled holes. Evidence of a skull cult, in which heads were prepared and displayed.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 12.528,
+     "start": 10484,
+     "end": 10860
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 10864,
+   "end": 11160,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The marks are cut with flint. They look deliberate. It suggests people honoured the dead with the same attention as the animals on the pillars.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 8.784,
+     "start": 10874,
+     "end": 11138
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11142,
+   "end": 11513,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then, around eight thousand BCE, the site is closed. Not abandoned in a rush. Backfilled. Tons of rubble were carried in and poured over the enclosures.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 11.28,
+     "start": 11152,
+     "end": 11491
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11495,
+   "end": 11814,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Why bury a masterpiece? Maybe to end its power. Maybe to preserve it. Maybe the community simply moved on. Honestly, no one knows.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 9.552,
+     "start": 11505,
+     "end": 11792
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 11796,
+   "end": 12101,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A geophysical survey shows at least twenty enclosures under the mound. And only about ten percent of the site has ever been excavated.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 9.072,
+     "start": 11806,
+     "end": 12079
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "V \u00b7 THE VILLAGE",
+    "Houses and Water",
+    "DOMESTIC FINDS \u00b7 2019"
+   ],
+   "img": "ep/img/shot_36.jpg",
+   "start": 12083,
+   "end": 12379,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter six. The village. For years the story was simple: a temple with no town, built by nomads. Then the evidence changed.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 8.784,
+     "start": 12093,
+     "end": 12357
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 12361,
+   "end": 12752,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Findings published in twenty nineteen show houses, grinding stones, cereal processing and a water supply of rock-cut cisterns. People lived here, at least part of the time.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 11.952,
+     "start": 12371,
+     "end": 12730
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 12734,
+   "end": 13121,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sickle flints and grinding stones mean wild grain was being harvested and milled. The old question, which came first, farming or temples, is now far more tangled.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 11.832,
+     "start": 12744,
+     "end": 13099
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 13103,
+   "end": 13526,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Genetic studies place the origin of domesticated einkorn wheat on mountains just thirty kilometres away. G\u00f6bekli Tepe sits at the birth of agriculture, not outside it.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 13.032,
+     "start": 13113,
+     "end": 13504
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 13508,
+   "end": 13908,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the monument may have come with the first settled communities, not after them. Building together may even have pushed people to farm, to feed the builders. That is a hypothesis, and a clever one.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.264,
+     "start": 13518,
+     "end": 13886
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VI \u00b7 THE CLAIMS",
+    "Comets and Aliens",
+    "THEORY VS EVIDENCE"
+   ],
+   "img": "ep/img/shot_41.jpg",
+   "start": 13890,
+   "end": 14297,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter seven. The claims. First, a comet. A twenty seventeen paper reads the Vulture Stone as a date marker for a comet strike, around ten thousand eight hundred BCE.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.48,
+     "start": 13900,
+     "end": 14275
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14279,
+   "end": 14716,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The idea links to the Younger Dryas impact hypothesis, which says a cosmic impact triggered a cold snap. Most specialists dispute both the dating of the carvings and the impact itself.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 13.488,
+     "start": 14289,
+     "end": 14694
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 14698,
+   "end": 15054,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Younger Dryas cold period is real. A comet as its cause is not established. And reading a carved animal as a calendar is a reading, not a fact.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 10.776,
+     "start": 14708,
+     "end": 15032
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 15036,
+   "end": 15357,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Second claim: aliens. Ancient astronaut shows say pillars like these must have come from beyond the Earth. They call it too advanced for hunters.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 9.624,
+     "start": 15046,
+     "end": 15335
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 15339,
+   "end": 15793,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the evidence is on the ground. Quarries with unfinished pillars. Flint tools. Tool marks. Animal bones from feasts. Nothing here is out of reach of people. It was just out of reach of our assumptions.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 14.064,
+     "start": 15349,
+     "end": 15771
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 15775,
+   "end": 16147,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is also a quiet insult in the alien claim. It says hunter-gatherers could not have planned, organised and carved this. The dig says they absolutely did.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 11.328,
+     "start": 15785,
+     "end": 16125
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 16129,
+   "end": 16543,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Third claim: a lost advanced civilization, that taught them and then vanished. This one is harder to test, but there is no trace of it. No tools, no remains, no trade goods, no writing.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 12.72,
+     "start": 16139,
+     "end": 16521
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16525,
+   "end": 16863,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Archaeologists look for evidence of absence at every level. The layers below the oldest pillars show hunters, not engineers from a lost world.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 10.176,
+     "start": 16535,
+     "end": 16841
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_49.jpg",
+   "start": 16845,
+   "end": 16942,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score the diary.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 2.136,
+     "start": 16855,
+     "end": 16920
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 16924,
+   "end": 17430,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Date about eleven thousand six hundred years old: evidence. Pillars carved with flint by hunter-gatherers: evidence. Quarry with unfinished pillar: evidence. Deliberate backfill: evidence. Houses and cisterns found: evidence.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 15.768,
+     "start": 16934,
+     "end": 17408
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 17412,
+   "end": 17739,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Astronomical alignment: partial. Younger Dryas comet marker: doubtful. Lost civilization: no evidence. Alien builders: debunked.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 9.816,
+     "start": 17422,
+     "end": 17717
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 17721,
+   "end": 18113,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the verdict. G\u00f6bekli Tepe is real, it is ancient, and it is human. And that is the mystery that matters, because it forces us to rewrite when people started building together.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 12.0,
+     "start": 17731,
+     "end": 18091
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 18095,
+   "end": 18461,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Klaus Schmidt died in twenty fourteen. His team still digs, under Turkish direction. With ninety percent still buried, the biggest chapters may not be written yet.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 11.112,
+     "start": 18105,
+     "end": 18439
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 18443,
+   "end": 18772,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nearby Karahan Tepe shows the same T-shaped pillars, carved human heads and a rock-cut hall. The network is bigger than anyone guessed.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 9.888,
+     "start": 18453,
+     "end": 18750
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 18754,
+   "end": 19087,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "UNESCO listed G\u00f6bekli Tepe in twenty eighteen. Visitors can now walk above the pillars and see what the hunters built before anything else.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 10.032,
+     "start": 18764,
+     "end": 19065
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 19069,
+   "end": 19452,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: Puma Punku, in the Andes, where stone blocks with razor straight angles have sparked claims of machined stone. Was it lost technology or patient masons?",
+     "file": "ep/audio/s56.mp3",
+     "dur": 11.688,
+     "start": 19079,
+     "end": 19430
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 19434,
+   "end": 19696,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think the hunters built this for? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 7.656,
+     "start": 19444,
+     "end": 19674
+    }
+   ]
+  }
+ ]
+}
