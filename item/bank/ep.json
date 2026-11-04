@@ -1,0 +1,1449 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide cinematic photograph of a flat 1960s Australian suburban high school with low cream-brick single-storey classroom blocks, a wide grass sports oval, a wooden paling fence and two tall steel electricity pylons at the edges of the grounds, mid-morning, 1960s Australian schoolchildren in plain grey and navy school uniforms and gym clothes standing in groups on the oval looking up at a clear blue autumn sky, film photo look, 1966, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Wednesday, the sixth of April, nineteen sixty-six. A school oval in the south-east of Melbourne. Two physical education classes are outside, and the bell for morning recess is minutes away. Then somebody looks up."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Wednesday, the sixth of April, nineteen sixty-six. A school oval in the south-east of Melbourne. Two physical education classes are outside, and the bell for morning recess is minutes away. Then somebody looks up.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.856
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal image of a silent silver-grey metallic flying disc shaped like an upside-down bowl sitting on a shallow saucer, smooth seamless surface, no windows, no lights, no markings, about the size of two cars hovering low above a row of dark pine trees beside a suburban school oval on a bright morning, children small in the foreground, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some call it the biggest mass sighting in Australian history. Hundreds of children. Teachers. A silver disc, they say, that came down in a paddock, and men in suits who told everyone to keep quiet."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some call it the biggest mass sighting in Australian history. Hundreds of children. Teachers. A silver disc, they say, that came down in a paddock, and men in suits who told everyone to keep quiet.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An old wooden school desk with a blank school roll book, an inkwell, a wooden ruler and a brass hand bell in warm window light, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But a school day is a wonderful thing to investigate. It has a timetable, a roll, a staff room, and a local paper that wrote things down. So tonight we run this case like a school day, bell by bell."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But a school day is a wonderful thing to investigate. It has a timetable, a roll, a staff room, and a local paper that wrote things down. So tonight we run this case like a school day, bell by bell.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 13.56
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A brass school hand bell on a wooden desk beside a blank wall clock face with no numbers, warm light, dust in the air, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Roll call. First period on the oval. Recess in the paddock. The staff room. The press. Detention for the weather balloon. And a final lesson on memory. Then the case gets a report card."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Roll call. First period on the oval. Recess in the paddock. The staff room. The press. Detention for the weather balloon. And a final lesson on memory. Then the case gets a report card.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of a quiet Melbourne suburban school oval at dawn with long shadows, pine trees in the distance and empty sky, golden haze, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every claim will be marked: evidence, unverified, or failed. And one question stays on the board. What did hundreds of schoolchildren actually see over Westall? Take your seats."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every claim will be marked: evidence, unverified, or failed. And one question stays on the board. What did hundreds of schoolchildren actually see over Westall? Take your seats.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide photograph of a flat 1960s Australian suburban high school with low cream-brick single-storey classroom blocks, a wide grass sports oval, a wooden paling fence and two tall steel electricity pylons at the edges of the grounds, seen from the road on a clear autumn morning, 1960s cars parked outside, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Roll call. Westall High School, in Clayton South, about twenty-one kilometres from the centre of Melbourne. Flat country. Low brick classrooms, a big sports oval, and two huge electricity pylons at the edges of the grounds."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 ROLL CALL",
+   "The School",
+   "WESTALL \u00b7 CLAYTON SOUTH \u00b7 1966"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Roll call. Westall High School, in Clayton South, about twenty-one kilometres from the centre of Melbourne. Flat country. Low brick classrooms, a big sports oval, and two huge electricity pylons at the edges of the grounds.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 15.552
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1960s Australian schoolboy and schoolgirl walking along a suburban footpath in uniform on a bright autumn morning, gum trees, warm nostalgic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It was the Wednesday before Easter. The first term finished the next afternoon, and then came two weeks of holidays. Students and teachers alike had their minds somewhere else."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It was the Wednesday before Easter. The first term finished the next afternoon, and then came two weeks of holidays. Students and teachers alike had their minds somewhere else.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A small single-engine Cessna light aircraft flying low in a clear blue sky over a suburban Melbourne street in the 1960s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the sky above that school was never empty. Moorabbin Airport lay about four kilometres away, one of the busiest little airports in the country. Every student knew what a light aircraft looked and sounded like."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the sky above that school was never empty. Moorabbin Airport lay about four kilometres away, one of the busiest little airports in the country. Every student knew what a light aircraft looked and sounded like.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 14.328
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A scrubby patch of bushland ringed by tall dark pine trees beside open paddocks and a dirt track, mid-morning, wide shot, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "To the south lay The Grange, a patch of scrub, paddocks and pine trees. Farmers grazed cattle there. The school ran its cross-country races through it. Remember this place. It matters in a few minutes."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To the south lay The Grange, a patch of scrub, paddocks and pine trees. Farmers grazed cattle there. The school ran its cross-country races through it. Remember this place. It matters in a few minutes.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A 1960s Australian living room with a television set, a newspaper and a model rocket on a shelf, warm lamp light, nostalgic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This was also the age of the space race, the Cold War, and flying saucers in the headlines. Everyone in nineteen sixty-six knew exactly what a flying saucer was supposed to look like. Keep that in mind too."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This was also the age of the space race, the Cold War, and flying saucers in the headlines. Everyone in nineteen sixty-six knew exactly what a flying saucer was supposed to look like. Keep that in mind too.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 14.376
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a school oval from a classroom window with rows of wooden desks in the foreground, bright morning, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the stage. Now, what happened on the oval? The bell goes. First period begins."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the stage. Now, what happened on the oval? The bell goes. First period begins.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 5.832
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of 1960s Australian schoolchildren in plain grey and navy school uniforms and gym clothes playing sport on a school oval, a young woman teacher in a skirt and cardigan watching them, bright morning, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First period. At about a quarter past ten, by one careful account, two groups of Form One and Form Three students were out on the oval for sport, with their teachers, among them Miss Jeanette Muir."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 FIRST PERIOD",
+   "The Oval",
+   "10:15 \u2013 11:00 \u00b7 6 APRIL 1966"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First period. At about a quarter past ten, by one careful account, two groups of Form One and Form Three students were out on the oval for sport, with their teachers, among them Miss Jeanette Muir.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 13.32
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Group of 1960s Australian schoolchildren in plain grey and navy school uniforms and gym clothes on a school oval, all looking up at the sky with shocked expressions, hands over their mouths, bright blue sky, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came shouting. A few students saw it first. Silent, silver or grey, domed on top, like an upside-down bowl. About the size of one car, or two. And no sound at all."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came shouting. A few students saw it first. Silent, silver or grey, domed on top, like an upside-down bowl. About the size of one car, or two. And no sound at all.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photoreal image of a silent silver-grey metallic flying disc shaped like an upside-down bowl sitting on a shallow saucer, smooth seamless surface, no windows, no lights, no markings, about the size of two cars flying low above the top of a row of gum trees beside a school oval, children watching from the grass below, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some say it passed low over the oval, as low as the gum trees and the goalposts. Others say it stayed far off, beyond the pines. Already, two different versions of the same morning."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some say it passed low over the oval, as low as the gum trees and the goalposts. Others say it stayed far off, beyond the pines. Already, two different versions of the same morning.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1960s school science laboratory with wooden benches, glass beakers and a blackboard, a teacher in a white coat looking toward a window, a student running in, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A girl ran into a science lesson shouting that there were flying saucers outside. Her teacher, Andrew Greenwood, was not pleased. But when the recess bell rang, he took his class out to see for himself."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A girl ran into a science lesson shouting that there were flying saucers outside. Her teacher, Andrew Greenwood, was not pleased. But when the recess bell rang, he took his class out to see for himself.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 13.728
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of a 1960s science teacher in a short-sleeved shirt and tie standing on a school oval shading his eyes and looking at a distant bright silver streak low over pine trees, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Greenwood gave a detailed account to the local paper. He saw a silvery streak, like a thin beam of light, about half the length of a light aircraft. It moved from side to side, and its size seemed to change."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Greenwood gave a detailed account to the local paper. He saw a silvery streak, like a thin beam of light, about half the length of a light aircraft. It moved from side to side, and its size seemed to change.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 13.8
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal image of five small white and red Cessna light aircraft flying low in a loose formation over suburban Melbourne towards a bright silver streak in the sky, blue sky, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then the planes. Five light aircraft, he said, chasing it in a game of cat and mouse that lasted twenty minutes. On twenty-first of April the paper asked on its front page: who were the five pilots?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then the planes. Five light aircraft, he said, chasing it in a game of cat and mouse that lasted twenty minutes. On twenty-first of April the paper asked on its front page: who were the five pilots?",
+    "file": "ep/audio/s17.mp3",
+    "dur": 13.2
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An old typewriter and a folded newspaper seen from the back on a cluttered newsroom desk, black and white film look, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Age asked around. No commercial, private or Air Force pilot had reported anything unusual that morning. If five aircraft had been chasing something, nobody has ever said it was them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Age asked around. No commercial, private or Air Force pilot had reported anything unusual that morning. If five aircraft had been chasing something, nobody has ever said it was them.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photoreal image of two small silver discs high in a blue sky above a school roof with a third larger disc lower down, tiny figures of children on the oval below, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later retellings add more. Some witnesses saw one object. Some saw two. Some, three. It rose, they say, and vanished in a blink, leaving the five planes behind as if standing still."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later retellings add more. Some witnesses saw one object. Some saw two. Some, three. It rose, they say, and vanished in a blink, leaving the five planes behind as if standing still.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A pile of old school exercise books and a student magazine with a blank cover beside a desk lamp, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One account survives from that April, an anonymous report in a student magazine from a nearby primary school. It guessed the craft might be military aircraft from Moorabbin. It was reprinted that June in a saucer-society review."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One account survives from that April, an anonymous report in a student magazine from a nearby primary school. It guessed the craft might be military aircraft from Moorabbin. It was reprinted that June in a saucer-society review.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 16.272
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide photograph of dozens of schoolchildren climbing over a low wire fence at the edge of a school oval and starting to run across open paddocks toward distant pine trees, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And now the craft, they said, dropped down behind the pine trees. The recess bell had rung. Dozens of students jumped the fence and ran for The Grange."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And now the craft, they said, dropped down behind the pine trees. The recess bell had rung. Dozens of students jumped the fence and ran for The Grange.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a crowd of 1960s Australian schoolchildren in plain grey and navy school uniforms and gym clothes running through long dry grass in an open paddock toward a line of dark pine trees, dust and motion, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Recess. Across a dirt road, over paddocks, toward the pines. Teachers shouted for them to come back. Many did not hear, or did not listen. It was the most exciting morning of their lives."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III \u00b7 RECESS",
+   "The Grange",
+   "THE RUN \u00b7 THE CIRCLE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Recess. Across a dirt road, over paddocks, toward the pines. Teachers shouted for them to come back. Many did not hear, or did not listen. It was the most exciting morning of their lives.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of two teenage schoolgirls sitting in dry grass looking pale and shaken, others standing nearby at a distance, bushland and pine trees, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A few witnesses remember girls who fainted, and an ambulance on the school oval. Some remember a shape lifting off as they arrived. Others arrived just after, and saw only grass."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A few witnesses remember girls who fainted, and an ambulance on the school oval. Some remember a shape lifting off as they arrived. Others arrived just after, and saw only grass.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 12.312
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Aerial photograph of a perfect circle of flattened swirled yellow grass in a green paddock beside pine trees, bright daylight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What they found, many say, was a circle. Flattened grass, swirled in one direction. Some called it burnt. Some said boiled. Some said three circles, not one. The details never agreed."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What they found, many say, was a circle. Flattened grass, swirled in one direction. Some called it burnt. Some said boiled. Some said three circles, not one. The details never agreed.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of dry yellow grass pressed flat in a gentle sweeping curve by wind in a paddock, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One student, interviewed by the local paper at the time, thought it looked like the wind had flattened it. In nineteen sixty-six, that was one of the very few records of the circle itself."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One student, interviewed by the local paper at the time, thought it looked like the wind had flattened it. In nineteen sixty-six, that was one of the very few records of the circle itself.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1960s Australian woodwork teacher in a brown dust coat standing in a paddock looking down at the ground with a thoughtful expression, pine trees behind, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The woodwork teacher, Gerry Shepherd, had not seen a saucer. But he knew The Grange well. In twenty years he never saw a circle like that one, he later said, before or since."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The woodwork teacher, Gerry Shepherd, had not seen a saucer. But he knew The Grange well. In twenty years he never saw a circle like that one, he later said, before or since.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "1960s Australian red fire engine driving along a dirt track through scrub and pine trees past a group of children, dust cloud, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Decades later, a firefighter and a civil defence officer told researchers their crews were sent to The Grange that day, to something reported coming down. No call log has been shown to the public."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Decades later, a firefighter and a civil defence officer told researchers their crews were sent to The Grange that day, to something reported coming down. No call log has been shown to the public.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An old 1960s Kodak Instamatic camera lying on a wooden desk beside an empty black and white photo album page, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the first strange thing. Hundreds of children, in an age of cheap cameras. And yet no authenticated photograph or film of the object, or the circle, has ever been made public."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the first strange thing. Hundreds of children, in an age of cheap cameras. And yet no authenticated photograph or film of the object, or the circle, has ever been made public.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 12.672
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of four men in 1960s military khaki shirts and caps walking through a paddock of flattened grass beside pine trees, cloudy light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three days later, on the ninth of April, Air Force personnel and saucer enthusiasts visited the field. They reported nothing of interest. The landowner then burned the paddock, to keep people off his property."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three days later, on the ninth of April, Air Force personnel and saucer enthusiasts visited the field. They reported nothing of interest. The landowner then burned the paddock, to keep people off his property.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a burned black paddock with scorched stubble and a smoke haze under a grey sky, a wire fence in the foreground, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some versions say the military burned the evidence. The farmer's own explanation was simpler. Either way, the one place that could have held a physical clue was gone."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some versions say the military burned the evidence. The farmer's own explanation was simpler. Either way, the one place that could have held a physical clue was gone.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide photograph of schoolchildren walking slowly back across a paddock toward a school in the distance, long shadows, dusty light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So by the end of recess: lights or discs in the sky, a vague circle, and nothing anyone could pick up. But the school day was not over. Next, the staff room."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So by the end of recess: lights or discs in the sky, a vague circle, and nothing anyone could pick up. But the school day was not over. Next, the staff room.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 10.824
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1960s school headmaster in a dark suit and tie standing at a lectern in front of rows of assembled schoolchildren in a school hall, stern expression, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The staff room. The headmaster, Frank Samblebe, called the students together. According to many witnesses, he told them that flying saucers did not exist, and that they were not to talk about this morning."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV \u00b7 STAFF ROOM",
+   "The Headmaster and the Suits",
+   "SILENCE \u00b7 COVER-UP?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The staff room. The headmaster, Frank Samblebe, called the students together. According to many witnesses, he told them that flying saucers did not exist, and that they were not to talk about this morning.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 13.08
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of two men in dark suits and hats standing at the back of a school hall behind rows of seated children, their faces turned away, moody light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some recall strangers standing beside him. Dark suits, say some. Dark blue uniforms, say others. All agree, they were from the Government. Some students say they were questioned in the headmaster's office."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some recall strangers standing beside him. Dark suits, say some. Dark blue uniforms, say others. All agree, they were from the Government. Some students say they were questioned in the headmaster's office.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 13.632
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A closed wooden office door in a 1960s school corridor with frosted glass and a single bright light behind, no writing, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice what kind of evidence this is. Every word of it comes from memory, decades later. So we go back to what was printed in nineteen sixty-six."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice what kind of evidence this is. Every word of it comes from memory, decades later. So we go back to what was printed in nineteen sixty-six.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a folded 1960s local newspaper held in two hands, seen from behind so no text is visible, black and white, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Dandenong Journal, fourteenth of April. Front page: Flying Saucer Mystery, School Silent. The school, it reported, would allow no further interviews, and had asked students and staff not to talk to reporters."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Dandenong Journal, fourteenth of April. Front page: Flying Saucer Mystery, School Silent. The school, it reported, would allow no further interviews, and had asked students and staff not to talk to reporters.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 14.592
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "1960s school headmaster in a dark suit seated at a large wooden desk with a ringing black telephone, stacks of papers, rain on the window, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three weeks later, the same paper printed the headmaster's own explanation. The flood of callers, he said, from the Air Force down to the Flying Saucer Association, was interrupting the children's studies."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three weeks later, the same paper printed the headmaster's own explanation. The flood of callers, he said, from the Air Force down to the Flying Saucer Association, was interrupting the children's studies.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Split mood image: a school corridor with two figures in the distance, one looking worried, one calm, cool tones, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Read that twice. A headmaster protecting his school, say the skeptics. A silencing, say the believers. And the very same newspaper line supports both stories. That is how this case behaves."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Read that twice. A headmaster protecting his school, say the skeptics. A silencing, say the believers. And the very same newspaper line supports both stories. That is how this case behaves.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of soldiers in 1960s olive-drab uniforms and a jeep parked at a paddock gate with a rope barrier, pine trees, dusty light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later accounts go much further. Twenty-four witnesses have told researchers of police or soldiers at the school or the paddock, of cordons, of Geiger counters. None of this appears in the papers of that April."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later accounts go much further. Twenty-four witnesses have told researchers of police or soldiers at the school or the paddock, of cordons, of Geiger counters. None of this appears in the papers of that April.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A long row of empty grey steel filing cabinets in a dim government archive room with one drawer open and empty, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the official files? No Air Force, police or government file about Westall has been publicly found. Either nothing was written, or what was written is missing. Silence can mean both."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the official files? No Air Force, police or government file about Westall has been publicly found. Either nothing was written, or what was written is missing. Silence can mean both.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1960s newspaper printing press room with rolls of paper and an operator in an apron, warm industrial light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The press. Two newspapers matter. The first is the big Melbourne daily, The Age, and its short item on the seventh of April, with a very plain headline: Object, Perhaps Balloon."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V \u00b7 THE PRESS",
+   "What 1966 Wrote Down",
+   "THE AGE \u00b7 DANDENONG JOURNAL"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The press. Two newspapers matter. The first is the big Melbourne daily, The Age, and its short item on the seventh of April, with a very plain headline: Object, Perhaps Balloon.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A white weather balloon with a small instrument box rising from a flat grassy airfield at dawn under a pale sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Weather Bureau, it said, had released a balloon from Laverton at half past eight that morning, and the westerly wind could have carried it into the area where the object was seen."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Weather Bureau, it said, had released a balloon from Laverton at half past eight that morning, and the westerly wind could have carried it into the area where the object was seen.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a small-town newspaper office in the 1960s, a reporter on the telephone and another typing, cluttered desks, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The second paper is the local Dandenong Journal, the only one to dig in. Brian Dunning, a skeptic, notes that in its first reports it named one teacher and several students, not hundreds."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The second paper is the local Dandenong Journal, the only one to dig in. Brian Dunning, a skeptic, notes that in its first reports it named one teacher and several students, not hundreds.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of two men in 1960s suits and one woman with notebooks interviewing a teenage student on a school path, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A saucer society, the Victorian Flying Saucer Research Society, inspected the scene and interviewed witnesses that April. But no full account was published then. The thick files came much later."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A saucer society, the Victorian Flying Saucer Research Society, inspected the scene and interviewed witnesses that April. But no full account was published then. The thick files came much later.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 13.512
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a researcher in his sixties at a table covered with handwritten interview notes, folders and cassette tapes, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Researcher Shane Ryan began collecting testimony in the two thousands. By the sixtieth anniversary, his count stood at one hundred and forty-two who saw the objects, one hundred and ninety-seven who saw marks on the ground, and seventy-seven who saw both."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Researcher Shane Ryan began collecting testimony in the two thousands. By the sixtieth anniversary, his count stood at one hundred and forty-two who saw the objects, one hundred and ninety-seven who saw marks on the ground, and seventy-seven who saw both.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 17.04
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a modern high school classroom with a projector screen showing a blurred dark film still, students at desks, calm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His work fed a two thousand and ten documentary, Westall sixty-six. Remarkably, it was later used in Australian classrooms as a lesson in critical analysis: how do we judge a popular story about the past?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His work fed a two thousand and ten documentary, Westall sixty-six. Remarkably, it was later used in Australian classrooms as a lesson in critical analysis: how do we judge a popular story about the past?",
+    "file": "ep/audio/s45.mp3",
+    "dur": 15.408
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Dark school detention room at dusk with a single empty chair and a bare desk under a hanging lamp, long shadows, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Detention. Time to put the ordinary explanations on trial. There are two main ones, and they are each stronger than most believers admit, and weaker than most skeptics claim. First, the balloon."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VI \u00b7 DETENTION",
+   "The Balloon Case",
+   "HIBAL \u00b7 DROGUE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Detention. Time to put the ordinary explanations on trial. There are two main ones, and they are each stronger than most believers admit, and weaker than most skeptics claim. First, the balloon.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A giant silver high-altitude research balloon with a parachute and a small instrument gondola rising from a desert launch site at sunrise, 1960s, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Between nineteen sixty and sixty-nine, Australia and the United States flew HIBAL balloons, large silver research balloons carrying instruments to sample the air for radiation after the British nuclear tests at Maralinga."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Between nineteen sixty and sixty-nine, Australia and the United States flew HIBAL balloons, large silver research balloons carrying instruments to sample the air for radiation after the British nuclear tests at Maralinga.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 15.432
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a faded typed government memo page and a rubber stamp on a desk, only abstract blurred lines, no readable text, dim light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Researcher Keith Basterfield found papers pointing to a HIBAL flight planned from Mildura on the fifth of April, the day before Westall. But the report on that launch, and where it landed, has not been found."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Researcher Keith Basterfield found papers pointing to a HIBAL flight planned from Mildura on the fifth of April, the day before Westall. But the report on that launch, and where it landed, has not been found.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 14.136
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A large silver balloon with a white parachute and a heavy box hanging beneath it drifting low over suburban rooftops and gum trees, aircraft following behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The theory fits some details. A silver shape, a parachute, a metal payload, and, in this programme, a light aircraft following to track it. The trouble is, no document ties any HIBAL to Westall."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The theory fits some details. A silver shape, a parachute, a metal payload, and, in this programme, a light aircraft following to track it. The trouble is, no document ties any HIBAL to Westall.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 13.656
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a weather map on a wall with arrows and pins, a researcher's hand pointing at it, soft light, no readable text, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Critics add two more problems. A heavy payload at low level would hardly dart about faster than aircraft. And a recent review of the weather data, reported for the sixtieth anniversary, says the weather data does not stack up."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Critics add two more problems. A heavy payload at low level would hardly dart about faster than aircraft. And a recent review of the weather data, reported for the sixtieth anniversary, says the weather data does not stack up.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 14.904
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal image of a small aeroplane towing a long white nylon windsock-shaped target drogue on a long cable across a blue sky, another small aircraft following it, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The second explanation came from a letter in the Dandenong Journal, signed only by a former Air Force navigator. Greenwood's chase, he wrote, matched a trainer towing a nylon target drogue while other pilots practised following it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The second explanation came from a letter in the Dandenong Journal, signed only by a former Air Force navigator. Greenwood's chase, he wrote, matched a trainer towing a nylon target drogue while other pilots practised following it.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 15.744
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of a 1960s RAAF flight training airfield with small training aircraft parked on grass and instructors in flight suits, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A target drogue would explain a silvery streak, a cat-and-mouse chase, and why pilots saw nothing odd in a routine exercise. But no record shows such an exercise took place that morning. It remains a possibility only."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A target drogue would explain a silvery streak, a cat-and-mouse chase, and why pilots saw nothing odd in a routine exercise. But no record shows such an exercise took place that morning. It remains a possibility only.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 15.576
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A cartoon-free photoreal image of a lone flying saucer toy model on a dusty shelf in a dim room, cobwebs, nostalgic, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the alien version? It needs a craft that landed, left a circle, and left again. No craft, no sample, no radar, no photograph. Not one piece of hardware. Everything it relies on is memory."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the alien version? It needs a craft that landed, left a circle, and left again. No craft, no sample, no radar, no photograph. Not one piece of hardware. Everything it relies on is memory.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a courtroom-style scene with a wooden bench and two empty chairs facing each other under soft light, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So maybe the answer is not one thing. Dunning suggests a balloon for the first half of the sighting and aircraft for the second. Possible. But it is a guess built on two guesses."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So maybe the answer is not one thing. Dunning suggests a balloon for the first half of the sighting and aircraft for the second. Possible. But it is a guess built on two guesses.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 12.0
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A grey-haired woman in her sixties holding an old black and white school class photograph and looking at it, warm light, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Final lesson: memory. In nineteen sixty-six these witnesses were twelve to sixteen years old. The first systematic interviews came in the early two thousands. Four decades of retelling lay between the oval and the notebook."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VII \u00b7 MEMORY",
+   "Sixty Years Later",
+   "FALSE MEMORY \u00b7 CONTAGION"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Final lesson: memory. In nineteen sixty-six these witnesses were twelve to sixteen years old. The first systematic interviews came in the early two thousands. Four decades of retelling lay between the oval and the notebook.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 15.528
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Abstract photograph of many overlapping translucent photographic prints of the same school oval, each slightly different, on a dark table, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Skeptic Richard Saunders, reviewing the case in twenty twenty-six, calls it memory fragility, false memory and memory contagion. Yet he also says he believes something happened. He just thinks the details grew in the telling."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Skeptic Richard Saunders, reviewing the case in twenty twenty-six, calls it memory fragility, false memory and memory contagion. Yet he also says he believes something happened. He just thinks the details grew in the telling.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 15.24
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of two old hand-drawn pencil sketches of different flying saucer shapes lying side by side on a wooden desk, no writing, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The reports from the time do differ. A weather balloon. A humped silver disc. One object, or five. One circle, or many. Every group of honest witnesses ends up with a slightly different story."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The reports from the time do differ. A weather balloon. A humped silver disc. One object, or five. One circle, or many. Every group of honest witnesses ends up with a slightly different story.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of four older men and women in their sixties holding up pencil drawings of flying saucers and smiling gently, bright garden light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And yet, listen to them at sixty years on. These are not people selling a story. Many have carried it quietly all their lives, and say only that they would like an answer from the government."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And yet, listen to them at sixty years on. These are not people selling a story. Many have carried it quietly all their lives, and say only that they would like an answer from the government.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 12.216
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a lone schoolboy's silhouette standing on a dusty oval looking up at a bright empty sky at midday, long shadow, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What survives every filter? A silent, silvery object, seen by many people from a school in broad daylight. Light aircraft in the area. The rest is thin, contradictory, or missing."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What survives every filter? A silent, silvery object, seen by many people from a school in broad daylight. Light aircraft in the area. The rest is thin, contradictory, or missing.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of a stack of sealed archive boxes on a shelf in a national archives reading room, soft light, a single researcher's hands, no readable text, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Calls for a fresh inquiry are growing, with researchers pointing to Department of Supply files they say are still unopened. If those papers exist, they could end this argument. Until then, it stays open."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Calls for a fresh inquiry are growing, with researchers pointing to Department of Supply files they say are still unopened. If those papers exist, they could end this argument. Until then, it stays open.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 14.136
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark school classroom at night, an old wooden teacher's desk and a blackboard wiped clean and blank on the far right side lit by one warm lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Report card. Time to mark the Westall case."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "REPORT CARD",
+   "The Marks",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Report card. Time to mark the Westall case.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 2.952
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark school classroom at night, an old wooden teacher's desk and a blackboard wiped clean and blank on the far right side lit by one warm lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Many people saw something odd that morning: evidence. Reported in print within days: evidence. Accounts that agree on details: only partly. A burned landing circle: unverified, no photo, no sample."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Many people saw something odd that morning: evidence. Reported in print within days: evidence. Accounts that agree on details: only partly. A burned landing circle: unverified, no photo, no sample.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 14.736
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark school classroom at night, an old wooden teacher's desk and a blackboard wiped clean and blank on the far right side lit by one warm lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Military cordon and men in suits: nothing in the 1966 record. Balloon or drogue: plausible but unproven. Alien craft: no evidence at all."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Military cordon and men in suits: nothing in the 1966 record. Balloon or drogue: plausible but unproven. Alien craft: no evidence at all.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a school exercise book on a desk with a red pen lying across a blank report page, warm lamp, quiet, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Incomplete. Something unusual really was seen over Westall, by real people, and the story was told at once. But nothing in the record shows a craft from elsewhere. Most likely a mix of balloon and aircraft. See me after class."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Incomplete. Something unusual really was seen over Westall, by real people, and the story was told at once. But nothing in the record shows a craft from elsewhere. Most likely a mix of balloon and aircraft. See me after class.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 16.56
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a modern children's playground in a park at sunset with a large silver flying-saucer-shaped climbing frame and red slides, empty, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today, The Grange has a children's playground shaped like a silver flying saucer, with red slides. A small joke from the people of Westall. And a reminder that this story is, above all, theirs."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today, The Grange has a children's playground shaped like a silver flying saucer, with red slides. A small joke from the people of Westall. And a reminder that this story is, above all, theirs.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photograph of a dark desert road at night in New Mexico with a police patrol car's headlights and a faint glow in the sky beyond a dry gully, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a policeman on a lonely New Mexico road, an egg-shaped craft in a gully, and a burned bush. Was it real, or a hoax? We open that file next."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a policeman on a lonely New Mexico road, an egg-shaped craft in a gully, and a burned bush. Was it real, or a hoax? We open that file next.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 10.896
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single faint silver disc glowing softly above a school oval silhouette against a black sky, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think the children saw? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think the children saw? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 7.08
+   }
+  ]
+ }
+]
