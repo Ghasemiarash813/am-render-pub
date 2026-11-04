@@ -1,0 +1,1108 @@
+{
+ "fps": 30,
+ "total": 18909,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 499,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the green hills of West Java, there is a mountain that some say hides the oldest pyramid on Earth. Older than Egypt. Older than G\u00f6bekli Tepe. Twenty-seven thousand years old. Then the paper that said so was pulled.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 15.552,
+     "start": 10,
+     "end": 477
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 481,
+   "end": 760,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today we do not argue. We dig. One layer at a time, we ask the stone what it can prove. This is Gunung Padang.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 8.208,
+     "start": 491,
+     "end": 738
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 742,
+   "end": 885,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Gunung Padang. Evidence against theory. Start the drill.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 3.672,
+     "start": 752,
+     "end": 863
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I",
+    "THE SURFACE",
+    "WHAT YOU CAN SEE"
+   ],
+   "img": "ep/img/shot_04.jpg",
+   "start": 867,
+   "end": 1419,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Karyamukti village, near Cianjur, West Java. A hill about eight hundred and eighty-five meters high, with five terraces climbing its summit, and a stair of three hundred and seventy stone steps.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 13.32,
+     "start": 877,
+     "end": 1277
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1401,
+   "end": 1812,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The stair is steep, around forty-five degrees, about a hundred meters long. At the top, rows of dark stone columns line the terraces, laid flat, like a giant's woodpile.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 12.624,
+     "start": 1411,
+     "end": 1790
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 1794,
+   "end": 2140,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The columns are andesite, one to three meters long, many with five or six sides. Whoever arranged them did not have to carve them. They came ready-made.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 10.464,
+     "start": 1804,
+     "end": 2118
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2122,
+   "end": 2554,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Local legend says King Siliwangi tried to build a palace here in a single night, and the sunrise caught him unfinished. A folktale, not evidence. But it shows people have known this hill for centuries.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.32,
+     "start": 2132,
+     "end": 2532
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II",
+    "THE FIRST REPORTS",
+    "1890 TO 1998"
+   ],
+   "img": "ep/img/shot_08.jpg",
+   "start": 2536,
+   "end": 2964,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In eighteen ninety, a Dutch official named De Corte visited. A year later, the scholar Verbeek wrote it up: four terraces, with mounds probably graves. A site for the ancestors, nothing more.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 13.176,
+     "start": 2546,
+     "end": 2942
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2946,
+   "end": 3390,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the jungle took it back. A report in nineteen fourteen, and silence. Local farmers rediscovered the stones in nineteen seventy-nine, and by nineteen ninety-eight it was protected as local heritage.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 13.728,
+     "start": 2956,
+     "end": 3368
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3372,
+   "end": 3693,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So far, a megalithic temple, probably a few hundred years old or more. Nobody was talking about pyramids. That changed in the twenty-tens.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 9.624,
+     "start": 3382,
+     "end": 3671
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "III",
+    "THE PYRAMID THEORY",
+    "THE BIG CLAIM"
+   ],
+   "img": "ep/img/shot_11.jpg",
+   "start": 3675,
+   "end": 4109,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Enter geologist Danny Hilman Natawidjaja. He saw something under the terraces: a buried structure. Not a hill with a temple on it, he argued, but a pyramid with the hill built into it.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 13.392,
+     "start": 3685,
+     "end": 4087
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4091,
+   "end": 4512,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His team used ground-penetrating radar, electrical resistivity and seismic tomography. The scans showed layers, chambers, maybe a hollow. A pyramid buried inside the hill.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 12.936,
+     "start": 4101,
+     "end": 4490
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4494,
+   "end": 4778,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Pyramid claim number one: an interior with man-made layers, descending for dozens of meters. A giant, hidden structure.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 8.376,
+     "start": 4504,
+     "end": 4756
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4760,
+   "end": 5234,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The idea grew. A presidential task force backed excavation. Thirty-four scholars signed a petition. Volunteers streamed to the site. For a moment, it felt like Indonesia might rewrite world history.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 14.712,
+     "start": 4770,
+     "end": 5212
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5216,
+   "end": 5451,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But archaeology moves by trenches and by dates, so we follow the dates. This is where it gets sharp.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 6.744,
+     "start": 5226,
+     "end": 5429
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV",
+    "LAYER ONE",
+    "THE TOP, THE TEMPLE"
+   ],
+   "img": "ep/img/shot_16.jpg",
+   "start": 5433,
+   "end": 5576,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer one: the mainstream date. The stone that you can see.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 3.696,
+     "start": 5443,
+     "end": 5554
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5558,
+   "end": 6076,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Archaeologist Lutfi Yondri dates the visible structure to the second to fifth century of our era. Harry Truman Simanjuntak says sixth to eighth. Pottery found there ranges from about forty-five B.C.E. to twenty-two C.E.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 16.176,
+     "start": 5568,
+     "end": 6054
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6058,
+   "end": 6475,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the visible temple belongs to a society that built stone terraces for ancestor worship, like other megalithic sites in Indonesia. Impressive, yes. Ancient pyramid, no.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 12.816,
+     "start": 6068,
+     "end": 6453
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6457,
+   "end": 6826,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand fourteen, the site became a national heritage area of twenty-nine hectares. Excavation halted that October after critics called the digging improper.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 11.208,
+     "start": 6467,
+     "end": 6804
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "V",
+    "LAYER TWO",
+    "WHAT THE ROCK SAYS"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 6808,
+   "end": 7013,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer two: the rock itself. And here the pyramid story meets a different kind of expert.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 5.76,
+     "start": 6818,
+     "end": 6991
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6995,
+   "end": 7478,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Geologists Sutikno Bronto and Mohammad Langi studied the hill in twenty-seventeen. The top is an andesite porphyry intrusion, with natural columnar jointing, the way cooling lava cracks into columns.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 15.024,
+     "start": 7005,
+     "end": 7456
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7460,
+   "end": 7886,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "You have seen this at Giant's Causeway in Ireland. Nobody builds those. Cooling rock does, and it splits into pillars one to three meters long. Which is exactly what lies on the terraces.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 13.104,
+     "start": 7470,
+     "end": 7864
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7868,
+   "end": 8189,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The intrusion itself was dated by potassium-argon: about thirty-two million years old. That is the age of the rock, not of any building.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 9.624,
+     "start": 7878,
+     "end": 8167
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8171,
+   "end": 8475,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What about the glue between the stones, the so-called mortar? Bronto and Langi found clay crusts. Natural weathering rinds, not cement.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 9.048,
+     "start": 8181,
+     "end": 8453
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8457,
+   "end": 8922,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their picture: the neck of an ancient volcano, hydrothermally altered at the base, with a summit that collapsed in landslides in the late Pleistocene. A broken volcano with a temple placed on its best columns.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 14.424,
+     "start": 8467,
+     "end": 8900
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8904,
+   "end": 9216,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the rock explains the columns, the terraces' shape and the weak interior. It does not explain a pyramid. Not yet. Time for the core.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 9.312,
+     "start": 8914,
+     "end": 9194
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VI",
+    "LAYER THREE",
+    "THE DRILL CORES"
+   ],
+   "img": "ep/img/shot_27.jpg",
+   "start": 9198,
+   "end": 9317,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer three: the cores that changed the headlines.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 2.88,
+     "start": 9208,
+     "end": 9295
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9299,
+   "end": 9706,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Hilman team drilled into the hill and sent organic samples to be dated by radiocarbon. The results were dramatic: soil from deep layers dating to thousands of years old.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 12.48,
+     "start": 9309,
+     "end": 9684
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9688,
+   "end": 10131,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They said the layers were laid by humans: a first stage nine thousand years ago, a layer at sixteen thousand, and the deepest stage up to twenty-seven thousand years ago. During the last ice age.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 13.68,
+     "start": 9698,
+     "end": 10109
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10113,
+   "end": 10536,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In October twenty-twenty-three, the claim appeared in the journal Archaeological Prospection. Headlines went global: Indonesia's pyramid, the world's oldest. Social media agreed.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 13.008,
+     "start": 10123,
+     "end": 10514
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10518,
+   "end": 10818,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the specialists read the methods. Critics asked: were the dated samples from the pyramid, or just from soil that happened to be there?",
+     "file": "ep/audio/s31.mp3",
+     "dur": 8.928,
+     "start": 10528,
+     "end": 10796
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 10800,
+   "end": 11274,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the key. Radiocarbon dates a piece of carbon, not an act of building. Soil on a volcano gets burned by fires, mixed by roots, moved by slides. Old carbon does not prove old construction.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 14.712,
+     "start": 10810,
+     "end": 11252
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11256,
+   "end": 11751,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the eighteenth of March, twenty-twenty-four, publisher Wiley retracted the paper. Reason: the radiocarbon samples were from soil not reliably linked to artifacts or features, so a human origin could not be assumed.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 15.408,
+     "start": 11266,
+     "end": 11729
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11733,
+   "end": 12131,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The retraction notice said the interpretation of the data, that these were man-made layers, was incorrect. The twenty-seven-thousand-year headline lost its footing in one paragraph.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 12.192,
+     "start": 11743,
+     "end": 12109
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "VII",
+    "LAYER FOUR",
+    "THE COUNTERCLAIM"
+   ],
+   "img": "ep/img/shot_35.jpg",
+   "start": 12113,
+   "end": 12514,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hilman did not back down. He argued that the layers were still structured, that the cores sat inside the buried body, and that the retraction was about method, not the existence of a structure.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 12.288,
+     "start": 12123,
+     "end": 12492
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12496,
+   "end": 12922,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Radar does show layers. Nobody disputes that. The dispute is what the layers are: stacked human work, or natural bands of lava, ash and weathered rock that volcanoes make for free.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 13.104,
+     "start": 12506,
+     "end": 12900
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 12904,
+   "end": 13245,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Volcanic hills are layered by nature. Every eruption leaves a stripe. A radar picture of stripes cannot, alone, tell a pyramid from a volcano.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 10.272,
+     "start": 12914,
+     "end": 13223
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 13227,
+   "end": 13576,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here is the awkward part for the pyramid. The ancient dates came from soil. No tool, no pottery, no worked stone has been tied to those deep layers.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 10.56,
+     "start": 13237,
+     "end": 13554
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VIII",
+    "LAYER FIVE",
+    "THE COMPARISON"
+   ],
+   "img": "ep/img/shot_39.jpg",
+   "start": 13558,
+   "end": 14018,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "People compare it with G\u00f6bekli Tepe, the real twelve-thousand-year-old temple in Turkey. But that site has carved pillars, animal reliefs and tools, all excavated and dated from the stone itself.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 14.256,
+     "start": 13568,
+     "end": 13996
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14000,
+   "end": 14485,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Indonesia does have real megalithic terraces: Pugung Raharja in Sumatra, Leuwiliang and Cibedug in West Java. Built by Austronesian-era communities, a few thousand years old at most.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 15.072,
+     "start": 14010,
+     "end": 14463
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14467,
+   "end": 14879,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That fits Gunung Padang better: builders picked ready-made columns off the hill and stacked them into walls. Smart, effective, sacred. But not a lost ice-age civilization.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.648,
+     "start": 14477,
+     "end": 14857
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14861,
+   "end": 15235,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Twenty-seven thousand years ago was the peak of the last ice age. Humans were hunting in small bands. No farms, no cities, no known way to stack a hill of stone.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.4,
+     "start": 14871,
+     "end": 15213
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 15217,
+   "end": 15608,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which is why most archaeologists say the same thing: a real, remarkable temple, built over centuries, with sacred meaning, on top of a volcano that made its own stone.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 11.952,
+     "start": 15227,
+     "end": 15586
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "M",
+   "ch": [
+    "IX",
+    "LAYER SIX",
+    "THE ALIEN LAYER"
+   ],
+   "img": "ep/img/shot_44.jpg",
+   "start": 15590,
+   "end": 16044,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What about the alien version? Some online claims say a lost advanced race, even visitors from space, built it. There is nothing at the site to support that: no machinery, no unknown metal, no inscription.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 14.064,
+     "start": 15600,
+     "end": 16022
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 16026,
+   "end": 16435,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The truth is more interesting. A natural wonder was shaped by people who understood its columns. We do not need aliens to explain it, and we do not need a lie about its age to admire it.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 12.552,
+     "start": 16036,
+     "end": 16413
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 16417,
+   "end": 16734,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Could something be buried deeper? Possibly. A new, properly documented dig could test it. Until that happens, deep claims stay unproven.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 9.48,
+     "start": 16427,
+     "end": 16712
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "X",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_47.jpg",
+   "start": 16716,
+   "end": 16871,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score the core. Evidence on one side, theory on the other.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 4.08,
+     "start": 16726,
+     "end": 16849
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16853,
+   "end": 17359,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A real terraced temple, five levels, three hundred and seventy steps: evidence. Natural columnar jointing of a thirty-two-million-year-old intrusion: evidence. Pottery and mainstream dates in the early centuries: evidence.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 15.792,
+     "start": 16863,
+     "end": 17337
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 17341,
+   "end": 17752,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A buried pyramid with chambers: not demonstrated. Man-made layers twenty-seven thousand years old: the paper was retracted. Aliens or a lost civilization: no evidence.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 12.624,
+     "start": 17351,
+     "end": 17730
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 17734,
+   "end": 18094,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Gunung Padang is a genuine megalithic temple on a natural volcanic hill. The world's oldest pyramid? Not on the evidence we have today.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 10.92,
+     "start": 17744,
+     "end": 18072
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 18076,
+   "end": 18438,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But one thing stays true: a retraction is not a final answer, it is a challenge. Better evidence could change it. Good detectives stay open, and follow the proof.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 10.992,
+     "start": 18086,
+     "end": 18416
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 18420,
+   "end": 18711,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next time, we cross the ocean to another stone mystery that seems too old to be true. Subscribe so you do not miss the case.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 8.616,
+     "start": 18430,
+     "end": 18689
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 18693,
+   "end": 18834,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So, what do you think the hill is hiding? Tell us in the comments.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 3.624,
+     "start": 18703,
+     "end": 18812
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1165 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal aerial of a forested green volcanic hill in West Java Indonesia with stepped stone terraces near the summit, tropical mist, soft morning light, cinematic, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the green hills of West Java, there is a mountain that some say hides the oldest pyramid on Earth. Older than Egypt. Older than G\u00f6bekli Tepe. Twenty-seven thousand years old. Then the paper that said so was pulled."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the green hills of West Java, there is a mountain that some say hides the oldest pyramid on Earth. Older than Egypt. Older than G\u00f6bekli Tepe. Twenty-seven thousand years old. Then the paper that said so was pulled.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 15.552
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal dense columns of dark grey andesite lying in rows on a jungle hillside, moss and ferns, soft light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today we do not argue. We dig. One layer at a time, we ask the stone what it can prove. This is Gunung Padang."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today we do not argue. We dig. One layer at a time, we ask the stone what it can prove. This is Gunung Padang.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 8.208
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Title card background: a drill core of dark rock and soil lying on a stone terrace with misty jungle hill behind, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Gunung Padang. Evidence against theory. Start the drill."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Gunung Padang. Evidence against theory. Start the drill.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 3.672
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal five stone terraces climbing a forested hill in Indonesia, steep stone staircase of dark andesite steps, tropical haze, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Karyamukti village, near Cianjur, West Java. A hill about eight hundred and eighty-five meters high, with five terraces climbing its summit, and a stair of three hundred and seventy stone steps."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I",
+   "THE SURFACE",
+   "WHAT YOU CAN SEE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Karyamukti village, near Cianjur, West Java. A hill about eight hundred and eighty-five meters high, with five terraces climbing its summit, and a stair of three hundred and seventy stone steps.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 13.32
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal long stone staircase of dark andesite steps rising steeply through green jungle, dawn mist, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The stair is steep, around forty-five degrees, about a hundred meters long. At the top, rows of dark stone columns line the terraces, laid flat, like a giant's woodpile."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The stair is steep, around forty-five degrees, about a hundred meters long. At the top, rows of dark stone columns line the terraces, laid flat, like a giant's woodpile.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 12.624
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal close-up of hexagonal dark grey andesite columns stacked on a terrace, moss and lichen, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The columns are andesite, one to three meters long, many with five or six sides. Whoever arranged them did not have to carve them. They came ready-made."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The columns are andesite, one to three meters long, many with five or six sides. Whoever arranged them did not have to carve them. They came ready-made.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal ancient Sundanese king in royal robes standing at a stone hilltop at night with torches, folklore painting style realism, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Local legend says King Siliwangi tried to build a palace here in a single night, and the sunrise caught him unfinished. A folktale, not evidence. But it shows people have known this hill for centuries."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Local legend says King Siliwangi tried to build a palace here in a single night, and the sunrise caught him unfinished. A folktale, not evidence. But it shows people have known this hill for centuries.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.32
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal 1890s colonial Dutch explorer in white suit with local guides on a jungle hill path, sepia warm tones, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In eighteen ninety, a Dutch official named De Corte visited. A year later, the scholar Verbeek wrote it up: four terraces, with mounds probably graves. A site for the ancestors, nothing more."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II",
+   "THE FIRST REPORTS",
+   "1890 TO 1998"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In eighteen ninety, a Dutch official named De Corte visited. A year later, the scholar Verbeek wrote it up: four terraces, with mounds probably graves. A site for the ancestors, nothing more.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 13.176
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal overgrown jungle with moss-covered stone terraces nearly hidden by trees and vines, dim green light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the jungle took it back. A report in nineteen fourteen, and silence. Local farmers rediscovered the stones in nineteen seventy-nine, and by nineteen ninety-eight it was protected as local heritage."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the jungle took it back. A report in nineteen fourteen, and silence. Local farmers rediscovered the stones in nineteen seventy-nine, and by nineteen ninety-eight it was protected as local heritage.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 13.728
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal Indonesian farmers walking a rice terrace path beneath a green volcanic hill at dawn, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So far, a megalithic temple, probably a few hundred years old or more. Nobody was talking about pyramids. That changed in the twenty-tens."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So far, a megalithic temple, probably a few hundred years old or more. Nobody was talking about pyramids. That changed in the twenty-tens.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 9.624
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal Indonesian geologist in field vest holding a hammer beside layered rock on a hillside, jungle behind, documentary style, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Enter geologist Danny Hilman Natawidjaja. He saw something under the terraces: a buried structure. Not a hill with a temple on it, he argued, but a pyramid with the hill built into it."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "III",
+   "THE PYRAMID THEORY",
+   "THE BIG CLAIM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Enter geologist Danny Hilman Natawidjaja. He saw something under the terraces: a buried structure. Not a hill with a temple on it, he argued, but a pyramid with the hill built into it.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal ground penetrating radar equipment being pulled across a grassy terrace on a jungle hill, researchers in distance, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His team used ground-penetrating radar, electrical resistivity and seismic tomography. The scans showed layers, chambers, maybe a hollow. A pyramid buried inside the hill."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His team used ground-penetrating radar, electrical resistivity and seismic tomography. The scans showed layers, chambers, maybe a hollow. A pyramid buried inside the hill.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal cross-section illustration style 3D render of a hill with colorful radar layers revealing hidden chambers beneath, dark background, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pyramid claim number one: an interior with man-made layers, descending for dozens of meters. A giant, hidden structure."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pyramid claim number one: an interior with man-made layers, descending for dozens of meters. A giant, hidden structure.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 8.376
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal Indonesian presidential palace hall with officials seated at a long table with a scale model of a hill, formal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The idea grew. A presidential task force backed excavation. Thirty-four scholars signed a petition. Volunteers streamed to the site. For a moment, it felt like Indonesia might rewrite world history."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The idea grew. A presidential task force backed excavation. Thirty-four scholars signed a petition. Volunteers streamed to the site. For a moment, it felt like Indonesia might rewrite world history.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 14.712
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal archaeologists excavating a small test trench on a jungle hill terrace, plastic tarps, buckets, soft light, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But archaeology moves by trenches and by dates, so we follow the dates. This is where it gets sharp."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But archaeology moves by trenches and by dates, so we follow the dates. This is where it gets sharp.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 6.744
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal core drill rig on a jungle hillside terrace with a long cylindrical core of soil laid in a wooden tray, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer one: the mainstream date. The stone that you can see."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV",
+   "LAYER ONE",
+   "THE TOP, THE TEMPLE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer one: the mainstream date. The stone that you can see.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 3.696
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal ancient pottery shards laid on a table with a small measuring tape beside, soft light, archaeological documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Archaeologist Lutfi Yondri dates the visible structure to the second to fifth century of our era. Harry Truman Simanjuntak says sixth to eighth. Pottery found there ranges from about forty-five B.C.E. to twenty-two C.E."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Archaeologist Lutfi Yondri dates the visible structure to the second to fifth century of our era. Harry Truman Simanjuntak says sixth to eighth. Pottery found there ranges from about forty-five B.C.E. to twenty-two C.E.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 16.176
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal weathered dark stone columns in a quiet jungle clearing, a wooden offering shrine with incense smoke, mist, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the visible temple belongs to a society that built stone terraces for ancestor worship, like other megalithic sites in Indonesia. Impressive, yes. Ancient pyramid, no."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the visible temple belongs to a society that built stone terraces for ancestor worship, like other megalithic sites in Indonesia. Impressive, yes. Ancient pyramid, no.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 12.816
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal Indonesian soldiers and heritage officials at a locked gate on a jungle hill at dusk, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand fourteen, the site became a national heritage area of twenty-nine hectares. Excavation halted that October after critics called the digging improper."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand fourteen, the site became a national heritage area of twenty-nine hectares. Excavation halted that October after critics called the digging improper.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal geologist standing on a volcanic hill looking at distant green volcano peaks, golden hour, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer two: the rock itself. And here the pyramid story meets a different kind of expert."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V",
+   "LAYER TWO",
+   "WHAT THE ROCK SAYS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer two: the rock itself. And here the pyramid story meets a different kind of expert.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 5.76
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal close-up of hexagonal columnar basalt-like andesite jointing in a quarry wall, natural vertical columns, dramatic light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Geologists Sutikno Bronto and Mohammad Langi studied the hill in twenty-seventeen. The top is an andesite porphyry intrusion, with natural columnar jointing, the way cooling lava cracks into columns."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Geologists Sutikno Bronto and Mohammad Langi studied the hill in twenty-seventeen. The top is an andesite porphyry intrusion, with natural columnar jointing, the way cooling lava cracks into columns.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 15.024
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal natural columns of rock cooling cracks hexagonal pattern like Giants Causeway, wet dark stone, ocean mist, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "You have seen this at Giant's Causeway in Ireland. Nobody builds those. Cooling rock does, and it splits into pillars one to three meters long. Which is exactly what lies on the terraces."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "You have seen this at Giant's Causeway in Ireland. Nobody builds those. Cooling rock does, and it splits into pillars one to three meters long. Which is exactly what lies on the terraces.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal laboratory with rock samples and a mass spectrometer, a scientist in a lab coat, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The intrusion itself was dated by potassium-argon: about thirty-two million years old. That is the age of the rock, not of any building."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The intrusion itself was dated by potassium-argon: about thirty-two million years old. That is the age of the rock, not of any building.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 9.624
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal close-up of rock crust and weathered clay on stone surface, orange-brown clay rind, macro, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What about the glue between the stones, the so-called mortar? Bronto and Langi found clay crusts. Natural weathering rinds, not cement."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What about the glue between the stones, the so-called mortar? Bronto and Langi found clay crusts. Natural weathering rinds, not cement.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 9.048
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal volcanic hill cross-section style landscape showing a hill collapsed on one side with a landslide scar, jungle, aerial, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their picture: the neck of an ancient volcano, hydrothermally altered at the base, with a summit that collapsed in landslides in the late Pleistocene. A broken volcano with a temple placed on its best columns."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their picture: the neck of an ancient volcano, hydrothermally altered at the base, with a summit that collapsed in landslides in the late Pleistocene. A broken volcano with a temple placed on its best columns.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 14.424
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal tropical storm clouds over a green volcano in Indonesia, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the rock explains the columns, the terraces' shape and the weak interior. It does not explain a pyramid. Not yet. Time for the core."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the rock explains the columns, the terraces' shape and the weak interior. It does not explain a pyramid. Not yet. Time for the core.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal hand-drawn style field notebook beside a soil core and a sample bag labeled with no text, jungle terrace, macro, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer three: the cores that changed the headlines."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI",
+   "LAYER THREE",
+   "THE DRILL CORES"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer three: the cores that changed the headlines.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 2.88
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal soil core samples in a wooden tray showing distinct dark and light layers, field lab, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Hilman team drilled into the hill and sent organic samples to be dated by radiocarbon. The results were dramatic: soil from deep layers dating to thousands of years old."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Hilman team drilled into the hill and sent organic samples to be dated by radiocarbon. The results were dramatic: soil from deep layers dating to thousands of years old.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal timeline concept: stacked stone layers receding downward into darkness under a jungle hill, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They said the layers were laid by humans: a first stage nine thousand years ago, a layer at sixteen thousand, and the deepest stage up to twenty-seven thousand years ago. During the last ice age."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They said the layers were laid by humans: a first stage nine thousand years ago, a layer at sixteen thousand, and the deepest stage up to twenty-seven thousand years ago. During the last ice age.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal peer review meeting in a university room, academics reading printed papers around a table, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In October twenty-twenty-three, the claim appeared in the journal Archaeological Prospection. Headlines went global: Indonesia's pyramid, the world's oldest. Social media agreed."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In October twenty-twenty-three, the claim appeared in the journal Archaeological Prospection. Headlines went global: Indonesia's pyramid, the world's oldest. Social media agreed.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 13.008
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal skeptical archaeologist with a notebook in front of a large screen showing stone terraces, no text on screen, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the specialists read the methods. Critics asked: were the dated samples from the pyramid, or just from soil that happened to be there?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the specialists read the methods. Critics asked: were the dated samples from the pyramid, or just from soil that happened to be there?",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.928
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal ancient layered soil horizon in a trench wall showing natural bands of volcanic ash and clay, scientific, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the key. Radiocarbon dates a piece of carbon, not an act of building. Soil on a volcano gets burned by fires, mixed by roots, moved by slides. Old carbon does not prove old construction."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the key. Radiocarbon dates a piece of carbon, not an act of building. Soil on a volcano gets burned by fires, mixed by roots, moved by slides. Old carbon does not prove old construction.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 14.712
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal laptop with a retracted journal article on a desk in a dim room, no readable text, shallow depth, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the eighteenth of March, twenty-twenty-four, publisher Wiley retracted the paper. Reason: the radiocarbon samples were from soil not reliably linked to artifacts or features, so a human origin could not be assumed."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the eighteenth of March, twenty-twenty-four, publisher Wiley retracted the paper. Reason: the radiocarbon samples were from soil not reliably linked to artifacts or features, so a human origin could not be assumed.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 15.408
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal desk with a stamped warning paper without text and a magnifying glass, moody lighting, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The retraction notice said the interpretation of the data, that these were man-made layers, was incorrect. The twenty-seven-thousand-year headline lost its footing in one paragraph."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The retraction notice said the interpretation of the data, that these were man-made layers, was incorrect. The twenty-seven-thousand-year headline lost its footing in one paragraph.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal Indonesian researcher at a podium defending a theory before a crowd, jungle backdrop, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hilman did not back down. He argued that the layers were still structured, that the cores sat inside the buried body, and that the retraction was about method, not the existence of a structure."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VII",
+   "LAYER FOUR",
+   "THE COUNTERCLAIM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hilman did not back down. He argued that the layers were still structured, that the cores sat inside the buried body, and that the retraction was about method, not the existence of a structure.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.288
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal ground penetrating radar printout style visual of a hillside with faint horizontal bands, dark screen glow, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Radar does show layers. Nobody disputes that. The dispute is what the layers are: stacked human work, or natural bands of lava, ash and weathered rock that volcanoes make for free."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Radar does show layers. Nobody disputes that. The dispute is what the layers are: stacked human work, or natural bands of lava, ash and weathered rock that volcanoes make for free.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal natural volcanic strata in a road cut near a jungle, bands of ash and lava tilted, scientific lighting, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Volcanic hills are layered by nature. Every eruption leaves a stripe. A radar picture of stripes cannot, alone, tell a pyramid from a volcano."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Volcanic hills are layered by nature. Every eruption leaves a stripe. A radar picture of stripes cannot, alone, tell a pyramid from a volcano.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal team of archaeologists comparing two rock samples at a field table, jungle, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here is the awkward part for the pyramid. The ancient dates came from soil. No tool, no pottery, no worked stone has been tied to those deep layers."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here is the awkward part for the pyramid. The ancient dates came from soil. No tool, no pottery, no worked stone has been tied to those deep layers.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal aerial of G\u00f6bekli Tepe style stone circles with T-shaped pillars in a dry hill landscape at sunrise, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "People compare it with G\u00f6bekli Tepe, the real twelve-thousand-year-old temple in Turkey. But that site has carved pillars, animal reliefs and tools, all excavated and dated from the stone itself."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VIII",
+   "LAYER FIVE",
+   "THE COMPARISON"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "People compare it with G\u00f6bekli Tepe, the real twelve-thousand-year-old temple in Turkey. But that site has carved pillars, animal reliefs and tools, all excavated and dated from the stone itself.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 14.256
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal Indonesian megalithic terraced sanctuary with stone steps in lush jungle, ancient, moss, soft light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Indonesia does have real megalithic terraces: Pugung Raharja in Sumatra, Leuwiliang and Cibedug in West Java. Built by Austronesian-era communities, a few thousand years old at most."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Indonesia does have real megalithic terraces: Pugung Raharja in Sumatra, Leuwiliang and Cibedug in West Java. Built by Austronesian-era communities, a few thousand years old at most.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 15.072
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal human hands placing a hexagonal stone column onto a stone wall, ancient workers, torchlight, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That fits Gunung Padang better: builders picked ready-made columns off the hill and stacked them into walls. Smart, effective, sacred. But not a lost ice-age civilization."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That fits Gunung Padang better: builders picked ready-made columns off the hill and stacked them into walls. Smart, effective, sacred. But not a lost ice-age civilization.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal ice age landscape with glaciers and mammoth-like animals under a pale sky, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Twenty-seven thousand years ago was the peak of the last ice age. Humans were hunting in small bands. No farms, no cities, no known way to stack a hill of stone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Twenty-seven thousand years ago was the peak of the last ice age. Humans were hunting in small bands. No farms, no cities, no known way to stack a hill of stone.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.4
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal quiet jungle path leading up to a stone terrace at dusk, lanterns, villagers walking, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which is why most archaeologists say the same thing: a real, remarkable temple, built over centuries, with sacred meaning, on top of a volcano that made its own stone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which is why most archaeologists say the same thing: a real, remarkable temple, built over centuries, with sacred meaning, on top of a volcano that made its own stone.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal alien flying saucer silhouette in a cloudy sky over a green volcanic jungle hill, dramatic, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What about the alien version? Some online claims say a lost advanced race, even visitors from space, built it. There is nothing at the site to support that: no machinery, no unknown metal, no inscription."
+   ]
+  ],
+  "tag": "M",
+  "ch": [
+   "IX",
+   "LAYER SIX",
+   "THE ALIEN LAYER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What about the alien version? Some online claims say a lost advanced race, even visitors from space, built it. There is nothing at the site to support that: no machinery, no unknown metal, no inscription.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 14.064
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal skeptical scientist holding a stone sample under a lamp, documentary, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The truth is more interesting. A natural wonder was shaped by people who understood its columns. We do not need aliens to explain it, and we do not need a lie about its age to admire it."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The truth is more interesting. A natural wonder was shaped by people who understood its columns. We do not need aliens to explain it, and we do not need a lie about its age to admire it.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 12.552
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal empty excavation trench on a jungle hill terrace at golden hour, tools resting, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Could something be buried deeper? Possibly. A new, properly documented dig could test it. Until that happens, deep claims stay unproven."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Could something be buried deeper? Possibly. A new, properly documented dig could test it. Until that happens, deep claims stay unproven.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 9.48
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archive room with a tall window on the right edge showing a misty green hill with stone terraces, large empty dark space on the left, one desk lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to score the core. Evidence on one side, theory on the other."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "X",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score the core. Evidence on one side, theory on the other.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 4.08
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archive room with a tall window on the right edge showing a misty green hill with stone terraces, large empty dark space on the left, one desk lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real terraced temple, five levels, three hundred and seventy steps: evidence. Natural columnar jointing of a thirty-two-million-year-old intrusion: evidence. Pottery and mainstream dates in the early centuries: evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real terraced temple, five levels, three hundred and seventy steps: evidence. Natural columnar jointing of a thirty-two-million-year-old intrusion: evidence. Pottery and mainstream dates in the early centuries: evidence.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 15.792
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archive room with a tall window on the right edge showing a misty green hill with stone terraces, large empty dark space on the left, one desk lamp, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A buried pyramid with chambers: not demonstrated. Man-made layers twenty-seven thousand years old: the paper was retracted. Aliens or a lost civilization: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A buried pyramid with chambers: not demonstrated. Man-made layers twenty-seven thousand years old: the paper was retracted. Aliens or a lost civilization: no evidence.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.624
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photoreal sunrise over Gunung Padang terraces with mist in the valleys and green volcanic hills, golden light, epic cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Gunung Padang is a genuine megalithic temple on a natural volcanic hill. The world's oldest pyramid? Not on the evidence we have today."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Gunung Padang is a genuine megalithic temple on a natural volcanic hill. The world's oldest pyramid? Not on the evidence we have today.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Photoreal lone researcher walking down a stone stair at dusk, jungle, soft rim light, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But one thing stays true: a retraction is not a final answer, it is a challenge. Better evidence could change it. Good detectives stay open, and follow the proof."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But one thing stays true: a retraction is not a final answer, it is a challenge. Better evidence could change it. Good detectives stay open, and follow the proof.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photoreal ancient stone stair rising to a glowing dawn horizon over jungle, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next time, we cross the ocean to another stone mystery that seems too old to be true. Subscribe so you do not miss the case."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next time, we cross the ocean to another stone mystery that seems too old to be true. Subscribe so you do not miss the case.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 8.616
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photoreal mist rolling over dark andesite columns on a terrace at twilight, cinematic, shallow depth, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So, what do you think the hill is hiding? Tell us in the comments."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So, what do you think the hill is hiding? Tell us in the comments.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 3.624
+   }
+  ]
+ }
+]
