@@ -1,0 +1,1356 @@
+{
+ "fps": 30,
+ "total": 25741,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 527,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "April twenty-fourth, nineteen sixty-four. A police officer in a small New Mexico town drives over a hill and sees a shiny white egg on legs in a gully, and two figures in white beside it. Minutes later, the bushes are still smoldering.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 16.488,
+     "start": 10,
+     "end": 505
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 509,
+   "end": 1015,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Air Force looked into it and filed it as unknown. The FBI looked into it. A famous scientist who came to doubt it left convinced the witness was honest. And yet, sixty years later, a handwritten note says it was a student prank.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 15.792,
+     "start": 519,
+     "end": 993
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 997,
+   "end": 1428,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we measure the case the way he lived it, in distance. One mile. Eight hundred feet. A hundred feet. Zero. At each range we ask what he saw, what can be proved, and what is only a story.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 13.296,
+     "start": 1007,
+     "end": 1406
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1410,
+   "end": 1706,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Socorro landing. Evidence against theory. Let us start a mile out.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 4.8,
+     "start": 1420,
+     "end": 1564
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I",
+    "ONE MILE \u00b7 THE FLAME",
+    "FRIDAY 24 APRIL 1964"
+   ],
+   "img": "ep/img/shot_05.jpg",
+   "start": 1688,
+   "end": 2114,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One mile out. Socorro, New Mexico, a Friday afternoon. Fewer than ten thousand people live here, along the Rio Grande, beside a small college that teaches mining and engineering.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 13.104,
+     "start": 1698,
+     "end": 2092
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_06.jpg",
+   "start": 2096,
+   "end": 2532,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Patrolman Lonnie Zamora is local. Before he joined the police, he worked on that college campus. Colleagues call him sober, steady, a man who follows the rules. Tonight, that will count for a lot.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 13.464,
+     "start": 2106,
+     "end": 2510
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2514,
+   "end": 2860,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At about a quarter to six, he is chasing a speeding car south of town when he hears a roar, and sees a bluish-orange flame sinking in the sky to the southwest.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.464,
+     "start": 2524,
+     "end": 2838
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2842,
+   "end": 3205,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a dynamite shack out that way, used by local miners. Zamora thinks it has exploded. He drops the chase, and turns up a rough gravel road to see.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 11.016,
+     "start": 2852,
+     "end": 3183
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3187,
+   "end": 3589,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The hill is steep and the gravel is loose. It takes him three tries to get the patrol car to the top. Hold on to that. It is a mundane detail, and it will matter for the timeline.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 12.312,
+     "start": 3197,
+     "end": 3567
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3571,
+   "end": 4015,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At a mile, there is only Zamora's word. He is alone. No one else sees the flame. A few tourists would later say they saw something low in the sky, but those stories are patchy, and they came afterward.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 13.728,
+     "start": 3581,
+     "end": 3993
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II",
+    "800 FEET \u00b7 THE OBJECT",
+    "TWO SECONDS AT THE CREST"
+   ],
+   "img": "ep/img/shot_11.jpg",
+   "start": 3997,
+   "end": 4237,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eight hundred feet. He reaches the crest, and looks down into an arroyo. Something shiny is lying there.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 6.912,
+     "start": 4007,
+     "end": 4215
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4219,
+   "end": 4663,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His first thought is a car turned on its roof. It is whitish, he will say, like aluminum, but not chrome. He estimates it is a hundred and fifty to two hundred yards away, and twelve to fifteen feet tall.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 13.728,
+     "start": 4229,
+     "end": 4641
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4645,
+   "end": 4996,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then it looks wrong for a car. It is oval, like an egg, or a football. It seems to stand on two legs that slant outward, and it has no windows or doors.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 10.608,
+     "start": 4655,
+     "end": 4974
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4978,
+   "end": 5415,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And beside it, two figures in white coveralls. Small, he says, maybe small adults or large kids. One turns toward his car, seems startled, and jumps. All of this lasts about two seconds.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 13.488,
+     "start": 4988,
+     "end": 5393
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5397,
+   "end": 5810,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He loses sight of it, drives on a little, and radios the dispatcher, Nep Lopez, that he is checking a possible wreck. Then he asks Lopez to look out the window and see if anything is there.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 12.696,
+     "start": 5407,
+     "end": 5788
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5792,
+   "end": 6148,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "When Lopez asks what it looks like, Zamora answers with five words. It looks like a balloon. Notice the choice. A balloon. Not a ship. Not a monster.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 10.8,
+     "start": 5802,
+     "end": 6126
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6130,
+   "end": 6569,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two days later he sits for a radio interview. The reporter asks whether the figures were people. Zamora says no sir, he would not say that. He saw something white, white coveralls, that is all he can say.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 13.56,
+     "start": 6140,
+     "end": 6547
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6551,
+   "end": 6807,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Remember that. The man at the center of this story never claimed to meet a spaceman. Later retellings did that for him.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 7.464,
+     "start": 6561,
+     "end": 6785
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III",
+    "100 FEET \u00b7 THE ROAR",
+    "FROM THE RIDGE TO THE FLAME"
+   ],
+   "img": "ep/img/shot_19.jpg",
+   "start": 6789,
+   "end": 7025,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A hundred feet. He stops the car on the ridge, about a hundred and three feet from the gully, and gets out.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 6.768,
+     "start": 6799,
+     "end": 7003
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7007,
+   "end": 7240,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He hears two or three loud thumps, like someone slamming a car door. He walks a few steps toward the edge.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 6.672,
+     "start": 7017,
+     "end": 7218
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7222,
+   "end": 7529,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then a roar begins, low and rising. A flame appears under the object, blue and orange, with no smoke. And the thing starts to lift.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 9.144,
+     "start": 7232,
+     "end": 7507
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7511,
+   "end": 7941,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On its side, he sees a red mark about two feet high. He will draw it for investigators. An inverted V, with three lines under it. It looks less like a star symbol and more like a company logo.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 13.248,
+     "start": 7521,
+     "end": 7919
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7923,
+   "end": 8261,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He thinks it is about to explode. He runs, puts the car between himself and the craft, loses his sunglasses, and throws himself down behind the crest.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.2,
+     "start": 7933,
+     "end": 8239
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8243,
+   "end": 8559,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the roar stops. He hears a short high whine. He looks up, and the object is moving away, low and very fast, with no flame at all.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 9.456,
+     "start": 8253,
+     "end": 8537
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8541,
+   "end": 8879,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It clears the dynamite shack by about three feet. It climbs slowly over the desert, and shrinks toward mountains six miles away. Then it is gone.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 10.2,
+     "start": 8551,
+     "end": 8857
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8861,
+   "end": 9241,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He races to the radio. By the time Sergeant Sam Chavez of the State Police arrives, he finds a man who is visibly shaken, and a hillside that is still smoking.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.592,
+     "start": 8871,
+     "end": 9219
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV",
+    "ZERO FEET \u00b7 THE GROUND",
+    "WHAT WAS LEFT BEHIND"
+   ],
+   "img": "ep/img/shot_27.jpg",
+   "start": 9223,
+   "end": 9619,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Zero feet. Chavez and Zamora walk down into the arroyo. Greasewood bushes are scorched. Undersheriff Jim Luckie arrives and says the brush is still hot to the touch.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 12.12,
+     "start": 9233,
+     "end": 9597
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9601,
+   "end": 9996,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the ground, four rectangular dents in a rough square. The FBI will measure them at about sixteen inches long, six wide, and two deep, each pushing dirt to the far side.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 12.096,
+     "start": 9611,
+     "end": 9974
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9978,
+   "end": 10275,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside the dents, burned clumps of grass. A further burned patch lies outside them. And there are three circular marks nearby.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 8.808,
+     "start": 9988,
+     "end": 10253
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10257,
+   "end": 10787,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "An FBI agent named Arthur Byrnes happens to be in Socorro on other business. He drives to the site that evening and measures everything. His memo calls Zamora sober, industrious, conscientious, and not given to fantasy.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 16.584,
+     "start": 10267,
+     "end": 10765
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10769,
+   "end": 11218,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The next morning, the local newspaper editor photographs the holes and the burned bushes, before crowds trample them. So the marks are documented. No one photographs the object. It left before anyone could.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.896,
+     "start": 10779,
+     "end": 11196
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11200,
+   "end": 11649,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then the crowds arrive. Within days, cars line the road and the site is trampled. When Air Force consultant J. Allen Hynek arrives, he finds that little of scientific value can be obtained.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 13.896,
+     "start": 11210,
+     "end": 11627
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11631,
+   "end": 12080,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hynek is an astronomer who has spent years explaining UFO reports away. He interviews Zamora, and comes away sure of one thing. This man is not lying, and this is not a hoax by Zamora.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 13.872,
+     "start": 11641,
+     "end": 12058
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12062,
+   "end": 12640,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Air Force goes wide. A Geiger counter finds no radiation. Soil and burned brush are analyzed, with no foreign material and no rocket residue. Radar at Holloman and Albuquerque saw nothing. Balloon, helicopter and aircraft records, nothing.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 18.192,
+     "start": 12072,
+     "end": 12618
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12622,
+   "end": 12909,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They even write to companies building lunar vehicles, asking if any test craft was loose in New Mexico. Every answer is no.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 8.496,
+     "start": 12632,
+     "end": 12887
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12891,
+   "end": 13306,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Blue Book director Hector Quintanilla sums it up in one line. About Zamora, he writes, he is puzzled by what he saw, and frankly, so are we. The case goes into the files as unknown.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 12.744,
+     "start": 12901,
+     "end": 13284
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13288,
+   "end": 13685,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is what the ground proves. Something burned those bushes and pressed those four marks, within minutes, while a trained officer watched. Here is what it does not prove. What that something was.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 12.144,
+     "start": 13298,
+     "end": 13663
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "V",
+    "WIDE ANGLE \u00b7 FIVE SUSPECTS",
+    "WHO OR WHAT WAS IT"
+   ],
+   "img": "ep/img/shot_38.jpg",
+   "start": 13667,
+   "end": 14020,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Wide angle. When a case sits in the files as unknown, five suspects come forward. Let us line up the conventional ones first, and then the one you came for.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 10.68,
+     "start": 13677,
+     "end": 13998
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14002,
+   "end": 14483,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect one: a lunar lander. In nineteen sixty-four, NASA was testing a model of Surveyor, the moon probe, in this part of New Mexico, and a helicopter carried it the same day. Some writers saw a match.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 14.952,
+     "start": 14012,
+     "end": 14461
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14465,
+   "end": 14987,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It does not fit. The test range is about a hundred and fifty kilometers from Socorro. Surveyor was a tripod of aluminum trusses, not an egg, and was never built to take off. Blue Book also asked the lunar firms. They said no.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 16.32,
+     "start": 14475,
+     "end": 14965
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14969,
+   "end": 15516,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect two: a mirage. One skeptic suggested that Zamora and his fellow witnesses saw the star Canopus warped by the air. At a quarter to six on an April afternoon, in broad daylight. And a mirage cannot press four dents into the ground.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 17.136,
+     "start": 14979,
+     "end": 15494
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15498,
+   "end": 16033,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect three: a publicity stunt. In nineteen sixty-eight, the skeptic Philip Klass argued that Socorro invented the landing to attract tourists. But a local historian checked one of his claims, that the mayor owned the land, and found it was wrong.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 16.752,
+     "start": 15508,
+     "end": 16011
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 16015,
+   "end": 16521,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect four is more serious. In nineteen sixty-eight, the chemist Linus Pauling wrote to Stirling Colgate, president of New Mexico Tech, and asked what the college thought about Zamora. Colgate scribbled a reply at the bottom.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 15.792,
+     "start": 16025,
+     "end": 16499
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16503,
+   "end": 16903,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "I have good indication of a student who engineered the hoax, he wrote. The student has left. Decades later, he told a researcher the craft was a candle in a balloon. Not sophisticated.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 12.264,
+     "start": 16513,
+     "end": 16881
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 16885,
+   "end": 17344,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The details seem to fit. The college stocked fireworks and chemicals, lab coats were everywhere, and Zamora, who had worked on campus, was said to be strict with students. And his first word on the radio was balloon.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 14.232,
+     "start": 16895,
+     "end": 17322
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 17326,
+   "end": 17784,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But look at the gaps. No student has ever been named. No method has been shown. A prank would have to burn bushes, dent hard ground, make a thunderous roar, and vanish before Sergeant Chavez arrived minutes later.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 14.184,
+     "start": 17336,
+     "end": 17762
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17766,
+   "end": 18207,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the skeptic who revived the theory, Robert Sheaffer, admits it is hard to see how they got away. It is the most complete ordinary explanation on the table, and it is still a theory without a name.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 13.632,
+     "start": 17776,
+     "end": 18185
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 18189,
+   "end": 18597,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect five, the one you came for: a visitor from another world. Egg-shaped ship, landing legs, a flame, a quick exit. If it was real, it explains every strange thing in the story at once.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 12.504,
+     "start": 18199,
+     "end": 18575
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18579,
+   "end": 19018,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But look at the details. The occupants wore white coveralls. The ship carried a red mark that looks like a company logo. If those are visitors, they dress like human technicians, and brand their ships like us.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 13.56,
+     "start": 18589,
+     "end": 18996
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 19000,
+   "end": 19457,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No other witness could be found by Blue Book. A local paper mentions a tourist who saw a low craft. The city now says five. Those stories came years later, and they are the kind that grow with every telling.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 14.16,
+     "start": 19010,
+     "end": 19435
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 19439,
+   "end": 19896,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the alien theory needs one more thing. It needs a single piece of evidence that only an alien could produce. After sixty years, there is the sincerity of the witness, and four dents in the ground. Nothing else.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 14.16,
+     "start": 19449,
+     "end": 19874
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VI",
+    "SIXTY YEARS LATER",
+    "THE MAN AND THE MYTH"
+   ],
+   "img": "ep/img/shot_52.jpg",
+   "start": 19878,
+   "end": 20384,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sixty years later. What happened to the man? Zamora stayed in Socorro. He served as a police officer for eight more years, then ran the town landfill. He hated the attention. He died in two thousand nine, at seventy-six.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 15.792,
+     "start": 19888,
+     "end": 20362
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 20366,
+   "end": 20742,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He never changed his account. He never sold the story. He simply did not want to talk about it any more. Not one person who knew him has ever doubted that he believed what he said.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 11.448,
+     "start": 20376,
+     "end": 20720
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 20724,
+   "end": 21200,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The town did embrace it. In nineteen sixty-six, the Chamber of Commerce built stone walkways and benches around the spot. They put them a quarter mile from the real site, because of rumors the ground was radioactive.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 14.784,
+     "start": 20734,
+     "end": 21178
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 21182,
+   "end": 21496,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a mural, a festival and a tourist trail. A legend, in other words, with a gift shop. The legend is not the evidence. It grew around it.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 9.384,
+     "start": 21192,
+     "end": 21474
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 21478,
+   "end": 21958,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the lesson. There are two kinds of evidence in this story. The first is testimony: a sincere, consistent witness, believed by the FBI and the Air Force. The second is physical: burned brush and four dents.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 14.928,
+     "start": 21488,
+     "end": 21936
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21940,
+   "end": 22332,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Neither identifies the thing. A truthful man can be fooled by a prank. A burned bush can be lit by anything that burns. Sincerity measures the witness, not the object.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 11.976,
+     "start": 21950,
+     "end": 22310
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 22314,
+   "end": 22711,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the label unknown does not mean alien. It means the Air Force could not put a name on it in nineteen sixty-four. That is a statement about their paperwork, not about the sky.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 12.144,
+     "start": 22324,
+     "end": 22689
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "fog",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 22693,
+   "end": 23088,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What could settle it? A named hoaxer, a confession, a photograph, a lab result. Sixty years of searching have produced none. The case sits exactly where the Air Force left it.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 12.096,
+     "start": 22703,
+     "end": 23066
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VII",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 23070,
+   "end": 23228,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score the case. Evidence on one side, theory on the other.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 4.2,
+     "start": 23080,
+     "end": 23206
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 23210,
+   "end": 23789,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A sincere, consistent officer, backed by the FBI and Hynek: evidence. Four dents and burned brush, seen within minutes by several officers: evidence. A long list of Air Force checks that found no match: evidence. And what the object was: unverified.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 18.216,
+     "start": 23220,
+     "end": 23767
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 23771,
+   "end": 24140,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alien occupants: no evidence. The lunar lander: debunked. The student prank: plausible, never proved. Which leaves the honest answer on the board in plain sight.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 11.232,
+     "start": 23781,
+     "end": 24118
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 24122,
+   "end": 24615,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. A real event, in the sense that an honest officer saw something, and the ground carries the marks. A mystery, in the sense that no one has named what it was. But not aliens. Nothing in the file points to visitors.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 15.336,
+     "start": 24132,
+     "end": 24593
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 24597,
+   "end": 24997,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If you want the likeliest answer, it is a staged event that got out of hand. If you want the honest answer, it is that we do not know. Both are better than the story that grew up around it.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 12.264,
+     "start": 24607,
+     "end": 24975
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 24979,
+   "end": 25407,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: Melbourne, nineteen sixty-six. Two hundred students and teachers watch a silver disc land in a paddock beside their school. Then the strangest part begins, and it is not the sky.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 13.176,
+     "start": 24989,
+     "end": 25385
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 25389,
+   "end": 25666,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Honest witness, hoax, or something else? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 8.136,
+     "start": 25399,
+     "end": 25644
+    }
+   ]
+  }
+ ]
+}
