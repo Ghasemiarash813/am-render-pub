@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 24436,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 423,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This gateway stands almost four thousand metres up in the Andes. It is carved from a single block of stone, heavier than ten elephants. And some people say that no human hands could have made it.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 13.032,
+     "start": 10,
+     "end": 401
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 405,
+   "end": 741,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A lost civilisation older than the ice age. A city of the gods. A landing site for visitors from the stars. You have probably heard all of it.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 10.104,
+     "start": 415,
+     "end": 719
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 723,
+   "end": 1050,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight we dig. Layer by layer, from the surface down to the bedrock of the claim, keeping a log of what is evidence, and what is only a story.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 9.816,
+     "start": 733,
+     "end": 1028
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1032,
+   "end": 1461,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Welcome to Tiwanaku, in Bolivia. Three thousand eight hundred and fifty metres above the sea, close to Lake Titicaca. The air is thin, the winters are bitter, and nothing much grows here.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 13.224,
+     "start": 1042,
+     "end": 1439
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1443,
+   "end": 1989,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Our question is simple. Is Tiwanaku the work of an advanced lost civilisation, or visitors from space? Or is the truth stranger, because it was made by people, with stone and patience?",
+     "file": "ep/audio/s05.mp3",
+     "dur": 13.128,
+     "start": 1453,
+     "end": 1847
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 1 \u00b7 SURFACE",
+    "What Is Actually There",
+    "SITE \u00b7 SIZE \u00b7 DATE"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1971,
+   "end": 2192,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer one. The surface. Let us see what is actually lying on the ground, before anyone explains it.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 6.288,
+     "start": 1981,
+     "end": 2170
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2174,
+   "end": 2622,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A stepped mound, called the Akapana, about sixteen metres tall and as wide as two football pitches. A sunken temple. A big walled platform called the Kalasasaya. And the Gate of the Sun.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.848,
+     "start": 2184,
+     "end": 2600
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2604,
+   "end": 3000,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Spanish soldier Pedro Cieza de Leon wrote about the place in fifteen forty-nine. The locals told him it was already ancient, and that nobody remembered who built it.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 12.12,
+     "start": 2614,
+     "end": 2978
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2982,
+   "end": 3350,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That matters. The people of Tiwanaku had no writing. There is no inscription and no book. So everything we know has to come from the stones, the soil and the science.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 11.184,
+     "start": 2992,
+     "end": 3328
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3332,
+   "end": 3706,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today it is a UNESCO World Heritage Site, listed in the year two thousand. About four square kilometres of ruins, though what we see is only a part of what was here.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 11.376,
+     "start": 3342,
+     "end": 3684
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 2 \u00b7 THE GATE",
+    "Gate of the Sun",
+    "SIZE \u00b7 STONE \u00b7 MOVED"
+   ],
+   "img": "ep/img/shot_11.jpg",
+   "start": 3688,
+   "end": 3818,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer two. The Gate of the Sun. Our star object.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 3.24,
+     "start": 3698,
+     "end": 3796
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3800,
+   "end": 4187,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Almost three metres high, nearly four metres wide, cut from one piece of andesite, and weighing more than ten tonnes. A doorway, with no door, and a crack running down one side.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 11.808,
+     "start": 3810,
+     "end": 4165
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4169,
+   "end": 4602,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Above the doorway is a carved figure, holding a staff in each hand. Archaeologists call him the Staff God. Some link him to Viracocha, a creator figure of later Andean stories.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 13.344,
+     "start": 4179,
+     "end": 4580
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4584,
+   "end": 4917,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Around him run rows of small winged attendants, some with the heads of birds. It is a crowded, ordered design. A lot of people see a message in it.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 10.032,
+     "start": 4594,
+     "end": 4895
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4899,
+   "end": 5262,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is a first surprise. The Gate was not found standing here. It was moved. Early visitors saw it lying broken, and it was later set upright in the place we see now.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 11.016,
+     "start": 4909,
+     "end": 5240
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5244,
+   "end": 5577,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So any claim based on exactly where the Gate points, or exactly how it lines up, begins on shaky ground. Its original place is not known.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 10.032,
+     "start": 5254,
+     "end": 5555
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5559,
+   "end": 5924,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scorecard note one. A single block of andesite, carved and cracked: evidence. Moved from its first position: evidence. What the carvings mean: still open.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 11.088,
+     "start": 5569,
+     "end": 5902
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "LAYER 3 \u00b7 CALENDAR",
+    "The Man Who Aged It",
+    "POSNANSKY \u00b7 ANGLE \u00b7 15,000 BC"
+   ],
+   "img": "ep/img/shot_18.jpg",
+   "start": 5906,
+   "end": 6287,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer three. The calendar claim. And it begins with one man, an Austrian engineer named Arthur Posnansky, who came to Bolivia and stayed for almost forty years.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 11.616,
+     "start": 5916,
+     "end": 6265
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6269,
+   "end": 6645,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Between nineteen ten and nineteen forty-five Posnansky measured the site. He believed that its main platform was a giant observatory, built to follow the sun.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 11.448,
+     "start": 6279,
+     "end": 6623
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6627,
+   "end": 7068,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His idea was clever. The tilt of the Earth's axis changes very slowly over thousands of years. If the platform was lined up to an old angle, then the platform was built when the sky looked that way.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 13.632,
+     "start": 6637,
+     "end": 7046
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 7050,
+   "end": 7452,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He worked it out to an angle of twenty-three degrees, eight minutes, forty-eight seconds. And from that he concluded that Tiwanaku was between eleven and seventeen thousand years old.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 12.312,
+     "start": 7060,
+     "end": 7430
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7434,
+   "end": 7829,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Seventeen thousand years. That would put it in the last ice age, before farming, before pottery, and long before any known city on Earth. If it were true, it would rewrite history.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 12.072,
+     "start": 7444,
+     "end": 7807
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7811,
+   "end": 8317,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is not true. When archaeologists dated charcoal and organic remains from the site, using radiocarbon, they found that Tiwanaku began around the year one hundred and ten, with an uncertainty of about sixty years.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 15.792,
+     "start": 7821,
+     "end": 8295
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8299,
+   "end": 8612,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The big stone monuments came much later, from about the fourth to the sixth century, and the city peaked between five hundred and a thousand A D.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 9.336,
+     "start": 8309,
+     "end": 8590
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8594,
+   "end": 8968,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the astronomical angle? Surveys have found no definite evidence that the Gate's carvings, or the platform, work as a precise calendar. The numbers do not hold up.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 11.376,
+     "start": 8604,
+     "end": 8946
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8950,
+   "end": 9448,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a fair caveat. Some of the site does seem to line up with solstice and equinox sunrises, and the Akapana points at a sacred mountain. Farmers watched the sky. That is not a lost science, it is agriculture.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 15.504,
+     "start": 8960,
+     "end": 9426
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9430,
+   "end": 9882,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scorecard note two. Posnansky's date of fifteen thousand B C: debunked by radiocarbon. A calendar function for the Gate: unproven. Sky-watching by Andean farmers: likely.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 13.992,
+     "start": 9440,
+     "end": 9860
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 4 \u00b7 STONE",
+    "How Do You Cut Andesite?",
+    "QUARRY \u00b7 TOOLS \u00b7 WEIGHT"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 9864,
+   "end": 10159,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer four. The stone. If this is a task for the gods, we should look at what the stone was, where it came from, and what tools could cut it.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 8.736,
+     "start": 9874,
+     "end": 10137
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10141,
+   "end": 10539,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The sandstone came from quarries on the Copacabana peninsula, about ninety kilometres of mountain and lake away. The harder andesite came from volcanic hills near the lake.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 12.192,
+     "start": 10151,
+     "end": 10517
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10521,
+   "end": 10928,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Andesite is hard. It is harder than most iron tools. But the builders had a plan, hammer stones of an even harder rock, sand as an abrasive, and time. A great deal of time.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 12.48,
+     "start": 10531,
+     "end": 10906
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 10910,
+   "end": 11387,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is not guesswork. Two researchers, Jean-Pierre Protzen and Stella Nair, spent years cutting the same stone with the same kind of tools. Their book, The Stones of Tiahuanaco, shows exactly how it works.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 14.832,
+     "start": 10920,
+     "end": 11365
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11369,
+   "end": 11780,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hammer, grind, rub, check the angle, repeat. It is slow. A skilled worker can do it. It leaves tool marks and chips, and it leaves a lot of broken stone, which is exactly what we find.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.624,
+     "start": 11379,
+     "end": 11758
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 11762,
+   "end": 12224,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And moving it? Ropes, ramps, wooden rollers, and hundreds of people pulling together. It is exactly how ancient builders moved stone all over the world, and Bolivian communities still move heavy loads this way.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 14.304,
+     "start": 11772,
+     "end": 12202
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12206,
+   "end": 12613,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Andes had a skill that matters here. Fibre rope. Their Inca successors built suspension bridges from grass that held for centuries. Rope is a technology, and they had plenty of it.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 12.48,
+     "start": 12216,
+     "end": 12591
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12595,
+   "end": 13070,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the stone is real, the tools are known, and the method has been tested. Scorecard note three. Cut by stone tools: evidence, replicated. Moved by rope and labour: likely. Needs a machine: no sign of one.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 14.736,
+     "start": 12605,
+     "end": 13048
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 5 \u00b7 PUMAPUNKU",
+    "The Machine-Cut Blocks",
+    "H-BLOCKS \u00b7 131 TONNES \u00b7 PRECISION"
+   ],
+   "img": "ep/img/shot_36.jpg",
+   "start": 13052,
+   "end": 13347,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer five. Pumapunku. This is the site that the ancient astronaut shows love best. The blocks look cut by a machine.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 8.736,
+     "start": 13062,
+     "end": 13325
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13329,
+   "end": 13749,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Pumapunku means the gate of the puma. A platform about one hundred and sixty-seven metres by one hundred and seventeen, with the largest block weighing around one hundred and thirty tonnes.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 12.912,
+     "start": 13339,
+     "end": 13727
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 13731,
+   "end": 14153,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What gets attention are the H shaped blocks. Many are almost identical, with sharp edges, flat faces and neat inner corners. Online, people call it proof of a computer controlled saw.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 12.984,
+     "start": 13741,
+     "end": 14131
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14135,
+   "end": 14508,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Take that seriously. If a machine had cut these, we would expect identical copies, with the same dimensions on every block, and traces of machine tools. Do we find them?",
+     "file": "ep/audio/s39.mp3",
+     "dur": 11.352,
+     "start": 14145,
+     "end": 14486
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14490,
+   "end": 14900,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No. Researchers who measured the blocks found that they are not identical. Dimensions vary, edges differ and the work shows signs of hand dressing. There is no standardised module.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.576,
+     "start": 14500,
+     "end": 14878
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14882,
+   "end": 15296,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then came a clever test. In twenty eighteen, a team including the archaeologist Alexei Vranich made a 3D printed model to see how the blocks fit together, like a giant kit.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.72,
+     "start": 14892,
+     "end": 15274
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15278,
+   "end": 15714,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The result is a surprise. The pieces were meant to slot together, in a few repeating types. Not a mystery of lost machines, but a smart system for building a big platform from carved stone elements.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 13.44,
+     "start": 15288,
+     "end": 15692
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 15696,
+   "end": 16106,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Many blocks have small, I shaped sockets. They held metal clamps, poured in as molten copper alloy, to lock stone to stone. Pre Inca Andean smiths were skilled at exactly that.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 12.6,
+     "start": 15706,
+     "end": 16084
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16088,
+   "end": 16560,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And why does Pumapunku look like a pile of rubble? An earthquake, many say. But the real story is worse. After the Spanish arrived, the stones were looted, burned for lime, and used to build churches, and a railway.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 14.64,
+     "start": 16098,
+     "end": 16538
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 16542,
+   "end": 17001,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Whole walls at Tiwanaku went into the cathedral at La Paz and the nearby villages. Soldiers even used the monuments for target practice. What we see is the survivor of five centuries of damage.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 14.232,
+     "start": 16552,
+     "end": 16979
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 16983,
+   "end": 17411,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Later, in the nineteen sixties and again recently, parts were rebuilt, sometimes badly, with cement and adobe. So some of the strange looks of the place come from restoration, not from the builders.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 13.2,
+     "start": 16993,
+     "end": 17389
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17393,
+   "end": 17830,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scorecard note four. Pumapunku blocks very precise: partly true. Machine made: no evidence. Identical modules: not found. Interlocking system and metal clamps: documented.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 13.488,
+     "start": 17403,
+     "end": 17808
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 6 \u00b7 BUILDERS",
+    "Who Were They?",
+    "AYMARA \u00b7 CITY \u00b7 FARMERS"
+   ],
+   "img": "ep/img/shot_48.jpg",
+   "start": 17812,
+   "end": 18046,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer six. The builders. If not aliens, then who? The answer is unglamorous, and rather impressive.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 6.72,
+     "start": 17822,
+     "end": 18024
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18028,
+   "end": 18424,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They farmed raised fields, on ridges and ditches around Lake Titicaca, that kept crops alive through frost. They herded llamas, and traded across the Andes, in caravans.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 12.12,
+     "start": 18038,
+     "end": 18402
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18406,
+   "end": 18777,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At its peak, between ten and forty thousand people lived in and around the city, according to different estimates. A capital, with temples, workshops and a ruling class.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 11.28,
+     "start": 18416,
+     "end": 18755
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 18759,
+   "end": 19168,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They left pottery, textiles, jewellery and ritual cups, with the same Staff God figure again and again. Pieces from Tiwanaku have been found as far away as Chile and Peru.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 12.552,
+     "start": 18769,
+     "end": 19146
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19150,
+   "end": 19594,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And they left giants. The Bennett Monolith, about seven metres tall, is a carved stone figure that was moved to La Paz, and returned in two thousand and two. Its style is pure Tiwanaku.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 13.704,
+     "start": 19160,
+     "end": 19572
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 19576,
+   "end": 20051,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even now, the picture grows. A two thousand sixteen drone survey mapped about four hundred hectares, and found new buildings, including a large temple area. Lidar scans also show buried structures nearby.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 14.736,
+     "start": 19586,
+     "end": 20029
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 20033,
+   "end": 20505,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scorecard note five. A native Andean state, named Tiwanaku, with farmers, artisans and rulers: strongly evidenced. Outside engineers or visitors: nothing in the ground, nothing in the pottery.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 14.64,
+     "start": 20043,
+     "end": 20483
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "LAYER 7 \u00b7 COLLAPSE",
+    "What Ended It",
+    "DROUGHT \u00b7 ABANDONMENT \u00b7 AD 1000"
+   ],
+   "img": "ep/img/shot_55.jpg",
+   "start": 20487,
+   "end": 20784,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer seven. The end of the city. Around the year one thousand, Tiwanaku fell, and the cause may be the saddest part of the log.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 8.832,
+     "start": 20497,
+     "end": 20762
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 20766,
+   "end": 21137,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lake and soil records show long dry spells. Raised fields failed, and food ran short. By about ten fifty, the great ceremonial centre was abandoned.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 11.28,
+     "start": 20776,
+     "end": 21115
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21119,
+   "end": 21515,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No fire from the sky, no sudden departure, no ship in the clouds. A society that could not feed itself. It is a lesson that is a lot more modern than any alien story.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 12.12,
+     "start": 21129,
+     "end": 21493
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 21497,
+   "end": 21725,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which brings us back to the Gate. A beautiful, moved, cracked block. And a question we can answer now.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 6.528,
+     "start": 21507,
+     "end": 21703
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 21707,
+   "end": 21881,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to close the log, and score the claims. First the evidence.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 4.728,
+     "start": 21717,
+     "end": 21859
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 21863,
+   "end": 22162,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Seven claims go on the board. Each one is scored as evidence, likely, unproven, or debunked. Here is the verdict on the dig.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 8.88,
+     "start": 21873,
+     "end": 22140
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 22144,
+   "end": 22698,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A gate carved by people, then moved: evidence. A city of tens of thousands, from about one hundred and ten A D: evidence. Stone cut by hand, with blocks locked by copper clamps, and tested: evidence. A drought collapse around ten fifty: likely.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 17.4,
+     "start": 22154,
+     "end": 22676
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 22680,
+   "end": 22963,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Machine cutting: no trace. Fifteen thousand B C: debunked. Ancient astronauts: entirely unsubstantiated.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 8.352,
+     "start": 22690,
+     "end": 22941
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 22945,
+   "end": 23438,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Grounded. Tiwanaku was built by the Tiwanaku people, in the early centuries after Christ, with stone tools, rope, copper and organised labour. The Gate of the Sun is a masterpiece, not a mystery.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 15.36,
+     "start": 22955,
+     "end": 23416
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 23420,
+   "end": 23761,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But there is still a puzzle that no one has solved. What did the carvings on the Gate mean to the people who made it? The Staff God stares back, and has not told us.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 10.296,
+     "start": 23430,
+     "end": 23739
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 23743,
+   "end": 24107,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a wall of enormous stones, fitted so closely you cannot slide a blade between them. Inca, or something older? Next time on Ancient Machines.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 11.064,
+     "start": 23753,
+     "end": 24085
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 24089,
+   "end": 24361,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think the Staff God was telling us? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 7.968,
+     "start": 24099,
+     "end": 24339
+    }
+   ]
+  }
+ ]
+}

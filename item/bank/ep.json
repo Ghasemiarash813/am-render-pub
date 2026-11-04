@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Dawn photograph of a monolithic grey andesite stone gateway about three metres tall with a single rectangular doorway, a worn carved relief of a front-facing figure holding two staffs above the doorway surrounded by rows of small winged attendants, a diagonal crack across the right side, weathered stone, standing in a grassy courtyard, golden low sun, high Andean altiplano, snow mountains far behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This gateway stands almost four thousand metres up in the Andes. It is carved from a single block of stone, heavier than ten elephants. And some people say that no human hands could have made it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This gateway stands almost four thousand metres up in the Andes. It is carved from a single block of stone, heavier than ten elephants. And some people say that no human hands could have made it.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a glowing alien spacecraft hovering above an ancient stone city on a high mountain plateau near a huge blue lake at dusk, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A lost civilisation older than the ice age. A city of the gods. A landing site for visitors from the stars. You have probably heard all of it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A lost civilisation older than the ice age. A city of the gods. A landing site for visitors from the stars. You have probably heard all of it.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 10.104
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A weathered field archaeologist's logbook open on a wooden table with a trowel, brushes and a brass lantern, warm light, shallow depth of field, blank pages, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we dig. Layer by layer, from the surface down to the bedrock of the claim, keeping a log of what is evidence, and what is only a story."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we dig. Layer by layer, from the surface down to the bedrock of the claim, keeping a log of what is evidence, and what is only a story.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide aerial photograph of the high Andean plateau with a vast deep blue lake and the ruins of a stone city in the foreground, thin clear air, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Welcome to Tiwanaku, in Bolivia. Three thousand eight hundred and fifty metres above the sea, close to Lake Titicaca. The air is thin, the winters are bitter, and nothing much grows here."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Welcome to Tiwanaku, in Bolivia. Three thousand eight hundred and fifty metres above the sea, close to Lake Titicaca. The air is thin, the winters are bitter, and nothing much grows here.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 13.224
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a worn andesite block with a crack in a grassy field at golden hour, high Andes, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Our question is simple. Is Tiwanaku the work of an advanced lost civilisation, or visitors from space? Or is the truth stranger, because it was made by people, with stone and patience?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Our question is simple. Is Tiwanaku the work of an advanced lost civilisation, or visitors from space? Or is the truth stranger, because it was made by people, with stone and patience?",
+    "file": "ep/audio/s05.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a stone archaeological site on a high plateau with a long low platform and standing stone pillars in a row, dry grass, clear blue sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer one. The surface. Let us see what is actually lying on the ground, before anyone explains it."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LAYER 1 \u00b7 SURFACE",
+   "What Is Actually There",
+   "SITE \u00b7 SIZE \u00b7 DATE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer one. The surface. Let us see what is actually lying on the ground, before anyone explains it.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 6.288
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Aerial photograph of a large stepped earth pyramid mound with a rectangular stone-faced terrace on a high plateau, grass and ruins, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A stepped mound, called the Akapana, about sixteen metres tall and as wide as two football pitches. A sunken temple. A big walled platform called the Kalasasaya. And the Gate of the Sun."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A stepped mound, called the Akapana, about sixteen metres tall and as wide as two football pitches. A sunken temple. A big walled platform called the Kalasasaya. And the Gate of the Sun.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.848
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a sunken stone temple courtyard with rows of carved stone heads set into the walls below ground level, andean ruins, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Spanish soldier Pedro Cieza de Leon wrote about the place in fifteen forty-nine. The locals told him it was already ancient, and that nobody remembered who built it."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Spanish soldier Pedro Cieza de Leon wrote about the place in fifteen forty-nine. The locals told him it was already ancient, and that nobody remembered who built it.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 12.12
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Old sixteenth century Spanish chronicle manuscript page lying on a dark table, hand-written brown ink lines illegible, candlelight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That matters. The people of Tiwanaku had no writing. There is no inscription and no book. So everything we know has to come from the stones, the soil and the science."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That matters. The people of Tiwanaku had no writing. There is no inscription and no book. So everything we know has to come from the stones, the soil and the science.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a UNESCO World Heritage archaeological site in Bolivia at midday, tourists as tiny distant figures, ruins and grass, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today it is a UNESCO World Heritage Site, listed in the year two thousand. About four square kilometres of ruins, though what we see is only a part of what was here."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today it is a UNESCO World Heritage Site, listed in the year two thousand. About four square kilometres of ruins, though what we see is only a part of what was here.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of a lone andesite gateway at blue hour with a warm light, mountains behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer two. The Gate of the Sun. Our star object."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LAYER 2 \u00b7 THE GATE",
+   "Gate of the Sun",
+   "SIZE \u00b7 STONE \u00b7 MOVED"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer two. The Gate of the Sun. Our star object.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 3.24
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Low angle photograph of a monolithic grey andesite stone gateway about three metres tall with a single rectangular doorway, a worn carved relief of a front-facing figure holding two staffs above the doorway surrounded by rows of small winged attendants, a diagonal crack across the right side, weathered stone, standing in a grassy courtyard, clear blue sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Almost three metres high, nearly four metres wide, cut from one piece of andesite, and weighing more than ten tonnes. A doorway, with no door, and a crack running down one side."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Almost three metres high, nearly four metres wide, cut from one piece of andesite, and weighing more than ten tonnes. A doorway, with no door, and a crack running down one side.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of weathered carved andesite relief of a front facing figure holding two staffs, worn stone texture, raking light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Above the doorway is a carved figure, holding a staff in each hand. Archaeologists call him the Staff God. Some link him to Viracocha, a creator figure of later Andean stories."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Above the doorway is a carved figure, holding a staff in each hand. Archaeologists call him the Staff God. Some link him to Viracocha, a creator figure of later Andean stories.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Macro photograph of rows of small carved winged figures with bird heads on weathered stone, raking sunlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Around him run rows of small winged attendants, some with the heads of birds. It is a crowded, ordered design. A lot of people see a message in it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around him run rows of small winged attendants, some with the heads of birds. It is a crowded, ordered design. A lot of people see a message in it.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Old black and white style archival photograph of a gateway standing alone in a field with a few men in hats beside it, nineteenth century expedition look, grainy, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is a first surprise. The Gate was not found standing here. It was moved. Early visitors saw it lying broken, and it was later set upright in the place we see now."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is a first surprise. The Gate was not found standing here. It was moved. Early visitors saw it lying broken, and it was later set upright in the place we see now.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A flat grassy ancient courtyard with stone foundation outlines and a single standing gateway in the distance, dawn mist, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So any claim based on exactly where the Gate points, or exactly how it lines up, begins on shaky ground. Its original place is not known."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So any claim based on exactly where the Gate points, or exactly how it lines up, begins on shaky ground. Its original place is not known.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of a worn stone carving with a diagonal crack and moss, golden light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scorecard note one. A single block of andesite, carved and cracked: evidence. Moved from its first position: evidence. What the carvings mean: still open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scorecard note one. A single block of andesite, carved and cracked: evidence. Moved from its first position: evidence. What the carvings mean: still open.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 11.088
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Vintage photograph look of a stern European engineer in a pith helmet standing in an Andean ruin with surveying tools, 1920s, grainy, seen from behind, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer three. The calendar claim. And it begins with one man, an Austrian engineer named Arthur Posnansky, who came to Bolivia and stayed for almost forty years."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "LAYER 3 \u00b7 CALENDAR",
+   "The Man Who Aged It",
+   "POSNANSKY \u00b7 ANGLE \u00b7 15,000 BC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer three. The calendar claim. And it begins with one man, an Austrian engineer named Arthur Posnansky, who came to Bolivia and stayed for almost forty years.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 11.616
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A vintage 1920s surveying theodolite on a tripod on a high Andean ruin at sunrise, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Between nineteen ten and nineteen forty-five Posnansky measured the site. He believed that its main platform was a giant observatory, built to follow the sun."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Between nineteen ten and nineteen forty-five Posnansky measured the site. He believed that its main platform was a giant observatory, built to follow the sun.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Diagram-like cinematic photograph of the sun rising exactly between two stone pillars at a platform on an Andean plain, golden rays, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His idea was clever. The tilt of the Earth's axis changes very slowly over thousands of years. If the platform was lined up to an old angle, then the platform was built when the sky looked that way."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His idea was clever. The tilt of the Earth's axis changes very slowly over thousands of years. If the platform was lined up to an old angle, then the platform was built when the sky looked that way.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 13.632
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vintage astronomy chart with circles and arcs on aged paper on a desk with brass dividers, no writing, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He worked it out to an angle of twenty-three degrees, eight minutes, forty-eight seconds. And from that he concluded that Tiwanaku was between eleven and seventeen thousand years old."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He worked it out to an angle of twenty-three degrees, eight minutes, forty-eight seconds. And from that he concluded that Tiwanaku was between eleven and seventeen thousand years old.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.312
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic image of an ice age landscape with a glacier and a mammoth near a stone city on the Andes, dramatic sky, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seventeen thousand years. That would put it in the last ice age, before farming, before pottery, and long before any known city on Earth. If it were true, it would rewrite history."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seventeen thousand years. That would put it in the last ice age, before farming, before pottery, and long before any known city on Earth. If it were true, it would rewrite history.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Archaeologist's hands holding a small piece of charcoal over a labelled bag in a trench, soil layers, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is not true. When archaeologists dated charcoal and organic remains from the site, using radiocarbon, they found that Tiwanaku began around the year one hundred and ten, with an uncertainty of about sixty years."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is not true. When archaeologists dated charcoal and organic remains from the site, using radiocarbon, they found that Tiwanaku began around the year one hundred and ten, with an uncertainty of about sixty years.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 15.792
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of archaeologists with brushes and trowels excavating a trench in an Andean ruin, layered soil, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The big stone monuments came much later, from about the fourth to the sixth century, and the city peaked between five hundred and a thousand A D."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The big stone monuments came much later, from about the fourth to the sixth century, and the city peaked between five hundred and a thousand A D.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 9.336
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A deep soil profile cut showing layered brown and orange earth with a measuring stick, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the astronomical angle? Surveys have found no definite evidence that the Gate's carvings, or the platform, work as a precise calendar. The numbers do not hold up."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the astronomical angle? Surveys have found no definite evidence that the Gate's carvings, or the platform, work as a precise calendar. The numbers do not hold up.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of sunrise over the stone platform with a line of upright stone pillars silhouetted, Andean sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is a fair caveat. Some of the site does seem to line up with solstice and equinox sunrises, and the Akapana points at a sacred mountain. Farmers watched the sky. That is not a lost science, it is agriculture."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is a fair caveat. Some of the site does seem to line up with solstice and equinox sunrises, and the Akapana points at a sacred mountain. Farmers watched the sky. That is not a lost science, it is agriculture.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 15.504
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Photograph of a Bolivian farmer woman in colourful clothes walking among terraced fields at high altitude, mountains behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scorecard note two. Posnansky's date of fifteen thousand B C: debunked by radiocarbon. A calendar function for the Gate: unproven. Sky-watching by Andean farmers: likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scorecard note two. Posnansky's date of fifteen thousand B C: debunked by radiocarbon. A calendar function for the Gate: unproven. Sky-watching by Andean farmers: likely.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A massive rough-cut sandstone and andesite block lying on grass beside a small excavation tent, high Andes, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer four. The stone. If this is a task for the gods, we should look at what the stone was, where it came from, and what tools could cut it."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LAYER 4 \u00b7 STONE",
+   "How Do You Cut Andesite?",
+   "QUARRY \u00b7 TOOLS \u00b7 WEIGHT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer four. The stone. If this is a task for the gods, we should look at what the stone was, where it came from, and what tools could cut it.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 8.736
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Aerial photograph of a distant green mountain range and a deep blue lake with a ancient reed boat on the water, Andes, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The sandstone came from quarries on the Copacabana peninsula, about ninety kilometres of mountain and lake away. The harder andesite came from volcanic hills near the lake."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The sandstone came from quarries on the Copacabana peninsula, about ninety kilometres of mountain and lake away. The harder andesite came from volcanic hills near the lake.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a worn andesite quarry face with fine tool marks and a pile of stone chips, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Andesite is hard. It is harder than most iron tools. But the builders had a plan, hammer stones of an even harder rock, sand as an abrasive, and time. A great deal of time."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Andesite is hard. It is harder than most iron tools. But the builders had a plan, hammer stones of an even harder rock, sand as an abrasive, and time. A great deal of time.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Macro photograph of a stone hammer and a pile of fine quartz sand on a flat stone slab, workshop light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is not guesswork. Two researchers, Jean-Pierre Protzen and Stella Nair, spent years cutting the same stone with the same kind of tools. Their book, The Stones of Tiahuanaco, shows exactly how it works."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is not guesswork. Two researchers, Jean-Pierre Protzen and Stella Nair, spent years cutting the same stone with the same kind of tools. Their book, The Stones of Tiahuanaco, shows exactly how it works.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 14.832
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A man using a hammerstone to dress an andesite block in an open field, tiny with a mountain behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hammer, grind, rub, check the angle, repeat. It is slow. A skilled worker can do it. It leaves tool marks and chips, and it leaves a lot of broken stone, which is exactly what we find."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hammer, grind, rub, check the angle, repeat. It is slow. A skilled worker can do it. It leaves tool marks and chips, and it leaves a lot of broken stone, which is exactly what we find.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.624
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Painting-like photograph of many workers dragging a huge stone block on wooden logs and ropes across a plain, ancient Andes, hazy, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And moving it? Ropes, ramps, wooden rollers, and hundreds of people pulling together. It is exactly how ancient builders moved stone all over the world, and Bolivian communities still move heavy loads this way."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And moving it? Ropes, ramps, wooden rollers, and hundreds of people pulling together. It is exactly how ancient builders moved stone all over the world, and Bolivian communities still move heavy loads this way.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 14.304
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a traditional woven grass rope bridge detail with hands holding it, high Andes, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Andes had a skill that matters here. Fibre rope. Their Inca successors built suspension bridges from grass that held for centuries. Rope is a technology, and they had plenty of it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Andes had a skill that matters here. Fibre rope. Their Inca successors built suspension bridges from grass that held for centuries. Rope is a technology, and they had plenty of it.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide shot of a partially reconstructed stone terrace wall with large tightly-fitted blocks, Andean ruin, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the stone is real, the tools are known, and the method has been tested. Scorecard note three. Cut by stone tools: evidence, replicated. Moved by rope and labour: likely. Needs a machine: no sign of one."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the stone is real, the tools are known, and the method has been tested. Scorecard note three. Cut by stone tools: evidence, replicated. Moved by rope and labour: likely. Needs a machine: no sign of one.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 14.736
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a field of huge fallen red sandstone blocks with sharp precise right-angle cuts, flat faces and shallow notches, scattered on dry grass on a high Andean plain, golden hour, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer five. Pumapunku. This is the site that the ancient astronaut shows love best. The blocks look cut by a machine."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LAYER 5 \u00b7 PUMAPUNKU",
+   "The Machine-Cut Blocks",
+   "H-BLOCKS \u00b7 131 TONNES \u00b7 PRECISION"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer five. Pumapunku. This is the site that the ancient astronaut shows love best. The blocks look cut by a machine.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 8.736
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Overhead photograph of a field of huge fallen red sandstone blocks with sharp precise right-angle cuts, flat faces and shallow notches, scattered on dry grass on a high Andean plain, clear light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pumapunku means the gate of the puma. A platform about one hundred and sixty-seven metres by one hundred and seventeen, with the largest block weighing around one hundred and thirty tonnes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pumapunku means the gate of the puma. A platform about one hundred and sixty-seven metres by one hundred and seventeen, with the largest block weighing around one hundred and thirty tonnes.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Macro photograph of a red sandstone block with a precise H shaped notch and flat cut faces, studio-like sunlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What gets attention are the H shaped blocks. Many are almost identical, with sharp edges, flat faces and neat inner corners. Online, people call it proof of a computer controlled saw."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What gets attention are the H shaped blocks. Many are almost identical, with sharp edges, flat faces and neat inner corners. Online, people call it proof of a computer controlled saw.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A modern CNC milling machine cutting metal in a clean factory with sparks, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Take that seriously. If a machine had cut these, we would expect identical copies, with the same dimensions on every block, and traces of machine tools. Do we find them?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Take that seriously. If a machine had cut these, we would expect identical copies, with the same dimensions on every block, and traces of machine tools. Do we find them?",
+    "file": "ep/audio/s39.mp3",
+    "dur": 11.352
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a worn sandstone block with slightly uneven edges and hand-chiselled marks, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No. Researchers who measured the blocks found that they are not identical. Dimensions vary, edges differ and the work shows signs of hand dressing. There is no standardised module."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No. Researchers who measured the blocks found that they are not identical. Dimensions vary, edges differ and the work shows signs of hand dressing. There is no standardised module.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A computer 3D-printed scale reconstruction of a stone temple platform on a workshop table, white plastic model, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came a clever test. In twenty eighteen, a team including the archaeologist Alexei Vranich made a 3D printed model to see how the blocks fit together, like a giant kit."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came a clever test. In twenty eighteen, a team including the archaeologist Alexei Vranich made a 3D printed model to see how the blocks fit together, like a giant kit.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of small white 3D printed interlocking H-shaped blocks assembled on a table, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The result is a surprise. The pieces were meant to slot together, in a few repeating types. Not a mystery of lost machines, but a smart system for building a big platform from carved stone elements."
+   ]
+  ],
+  "tag": "X",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The result is a surprise. The pieces were meant to slot together, in a few repeating types. Not a mystery of lost machines, but a smart system for building a big platform from carved stone elements.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a stone block with small rectangular sockets where metal clamps once sat, weathered andesite, raking light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Many blocks have small, I shaped sockets. They held metal clamps, poured in as molten copper alloy, to lock stone to stone. Pre Inca Andean smiths were skilled at exactly that."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Many blocks have small, I shaped sockets. They held metal clamps, poured in as molten copper alloy, to lock stone to stone. Pre Inca Andean smiths were skilled at exactly that.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 12.6
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide image of a strong earthquake shaking an ancient stone platform with blocks tumbling, dust clouds, andean plateau, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And why does Pumapunku look like a pile of rubble? An earthquake, many say. But the real story is worse. After the Spanish arrived, the stones were looted, burned for lime, and used to build churches, and a railway."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And why does Pumapunku look like a pile of rubble? An earthquake, many say. But the real story is worse. After the Spanish arrived, the stones were looted, burned for lime, and used to build churches, and a railway.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of colonial stone church wall built from reused massive carved blocks in a Bolivian village, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Whole walls at Tiwanaku went into the cathedral at La Paz and the nearby villages. Soldiers even used the monuments for target practice. What we see is the survivor of five centuries of damage."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Whole walls at Tiwanaku went into the cathedral at La Paz and the nearby villages. Soldiers even used the monuments for target practice. What we see is the survivor of five centuries of damage.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A 1960s archival-style photograph of a partly reconstructed stone wall with workers and cement, film grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later, in the nineteen sixties and again recently, parts were rebuilt, sometimes badly, with cement and adobe. So some of the strange looks of the place come from restoration, not from the builders."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later, in the nineteen sixties and again recently, parts were rebuilt, sometimes badly, with cement and adobe. So some of the strange looks of the place come from restoration, not from the builders.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.2
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Scorecard-like photograph of fallen H shaped stone blocks on grass in evening light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scorecard note four. Pumapunku blocks very precise: partly true. Machine made: no evidence. Identical modules: not found. Interlocking system and metal clamps: documented."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scorecard note four. Pumapunku blocks very precise: partly true. Machine made: no evidence. Identical modules: not found. Interlocking system and metal clamps: documented.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of an ancient Andean weaver's hands holding colourful textile on a loom, woven patterns, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer six. The builders. If not aliens, then who? The answer is unglamorous, and rather impressive."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LAYER 6 \u00b7 BUILDERS",
+   "Who Were They?",
+   "AYMARA \u00b7 CITY \u00b7 FARMERS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer six. The builders. If not aliens, then who? The answer is unglamorous, and rather impressive.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 6.72
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Aerial photograph of ancient raised field agriculture ridges and canals near a lake on the Andean plain, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They farmed raised fields, on ridges and ditches around Lake Titicaca, that kept crops alive through frost. They herded llamas, and traded across the Andes, in caravans."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They farmed raised fields, on ridges and ditches around Lake Titicaca, that kept crops alive through frost. They herded llamas, and traded across the Andes, in caravans.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.12
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a line of llamas carrying loads along a mountain trail in the Andes, golden light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At its peak, between ten and forty thousand people lived in and around the city, according to different estimates. A capital, with temples, workshops and a ruling class."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At its peak, between ten and forty thousand people lived in and around the city, according to different estimates. A capital, with temples, workshops and a ruling class.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of an ancient ceramic drinking cup with a painted pattern of a figure and a feline on a dark cloth, museum light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They left pottery, textiles, jewellery and ritual cups, with the same Staff God figure again and again. Pieces from Tiwanaku have been found as far away as Chile and Peru."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They left pottery, textiles, jewellery and ritual cups, with the same Staff God figure again and again. Pieces from Tiwanaku have been found as far away as Chile and Peru.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 12.552
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A tall carved stone monolith figure holding objects in both hands standing in a sunken courtyard, andean ruin, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And they left giants. The Bennett Monolith, about seven metres tall, is a carved stone figure that was moved to La Paz, and returned in two thousand and two. Its style is pure Tiwanaku."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And they left giants. The Bennett Monolith, about seven metres tall, is a carved stone figure that was moved to La Paz, and returned in two thousand and two. Its style is pure Tiwanaku.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A modern lidar visualisation style aerial view of a ruined city grid with unseen structures beneath fields, subtle hillshade, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even now, the picture grows. A two thousand sixteen drone survey mapped about four hundred hectares, and found new buildings, including a large temple area. Lidar scans also show buried structures nearby."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even now, the picture grows. A two thousand sixteen drone survey mapped about four hundred hectares, and found new buildings, including a large temple area. Lidar scans also show buried structures nearby.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 14.736
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A stone worn pillar in a ruin with a small altar-like platform and faint offerings of coca leaves and flowers, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scorecard note five. A native Andean state, named Tiwanaku, with farmers, artisans and rulers: strongly evidenced. Outside engineers or visitors: nothing in the ground, nothing in the pottery."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scorecard note five. A native Andean state, named Tiwanaku, with farmers, artisans and rulers: strongly evidenced. Outside engineers or visitors: nothing in the ground, nothing in the pottery.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic image of a dry cracked lake bed and dying crops under a pale sun on the Andean plateau, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer seven. The end of the city. Around the year one thousand, Tiwanaku fell, and the cause may be the saddest part of the log."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "LAYER 7 \u00b7 COLLAPSE",
+   "What Ended It",
+   "DROUGHT \u00b7 ABANDONMENT \u00b7 AD 1000"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer seven. The end of the city. Around the year one thousand, Tiwanaku fell, and the cause may be the saddest part of the log.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 8.832
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Photograph of a dry Andean landscape with cracked earth and a few withered crops, harsh sunlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lake and soil records show long dry spells. Raised fields failed, and food ran short. By about ten fifty, the great ceremonial centre was abandoned."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lake and soil records show long dry spells. Raised fields failed, and food ran short. By about ten fifty, the great ceremonial centre was abandoned.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of an empty stone courtyard at dusk with long shadows and wind-blown grass, no people, moody, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No fire from the sky, no sudden departure, no ship in the clouds. A society that could not feed itself. It is a lesson that is a lot more modern than any alien story."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No fire from the sky, no sudden departure, no ship in the clouds. A society that could not feed itself. It is a lesson that is a lot more modern than any alien story.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 12.12
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Photograph of a monolithic grey andesite stone gateway about three metres tall with a single rectangular doorway, a worn carved relief of a front-facing figure holding two staffs above the doorway surrounded by rows of small winged attendants, a diagonal crack across the right side, weathered stone, standing in a grassy courtyard, amber sunset sky behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which brings us back to the Gate. A beautiful, moved, cracked block. And a question we can answer now."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which brings us back to the Gate. A beautiful, moved, cracked block. And a question we can answer now.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 6.528
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Photograph of a dark archaeologist's tent with a logbook, ink pen and lantern, warm light, shallow depth of field, blank pages, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to close the log, and score the claims. First the evidence."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to close the log, and score the claims. First the evidence.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 4.728
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archaeologist field-tent at night, an old logbook and brass lantern on a wooden table at the right edge, large empty dark space on the left, warm lantern glow, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seven claims go on the board. Each one is scored as evidence, likely, unproven, or debunked. Here is the verdict on the dig."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seven claims go on the board. Each one is scored as evidence, likely, unproven, or debunked. Here is the verdict on the dig.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archaeologist field-tent at night, an old logbook and brass lantern on a wooden table at the right edge, large empty dark space on the left, warm lantern glow, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A gate carved by people, then moved: evidence. A city of tens of thousands, from about one hundred and ten A D: evidence. Stone cut by hand, with blocks locked by copper clamps, and tested: evidence. A drought collapse around ten fifty: likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A gate carved by people, then moved: evidence. A city of tens of thousands, from about one hundred and ten A D: evidence. Stone cut by hand, with blocks locked by copper clamps, and tested: evidence. A drought collapse around ten fifty: likely.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 17.4
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark archaeologist field-tent at night, an old logbook and brass lantern on a wooden table at the right edge, large empty dark space on the left, warm lantern glow, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Machine cutting: no trace. Fifteen thousand B C: debunked. Ancient astronauts: entirely unsubstantiated."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Machine cutting: no trace. Fifteen thousand B C: debunked. Ancient astronauts: entirely unsubstantiated.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 8.352
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Photograph of a monolithic grey andesite stone gateway about three metres tall with a single rectangular doorway, a worn carved relief of a front-facing figure holding two staffs above the doorway surrounded by rows of small winged attendants, a diagonal crack across the right side, weathered stone, standing in a grassy courtyard, warm golden light, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Grounded. Tiwanaku was built by the Tiwanaku people, in the early centuries after Christ, with stone tools, rope, copper and organised labour. The Gate of the Sun is a masterpiece, not a mystery."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Grounded. Tiwanaku was built by the Tiwanaku people, in the early centuries after Christ, with stone tools, rope, copper and organised labour. The Gate of the Sun is a masterpiece, not a mystery.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 15.36
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A carver's hands working a hammerstone on a block of grey andesite in the sun, close-up, Andean workshop, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But there is still a puzzle that no one has solved. What did the carvings on the Gate mean to the people who made it? The Staff God stares back, and has not told us."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But there is still a puzzle that no one has solved. What did the carvings on the Gate mean to the people who made it? The Staff God stares back, and has not told us.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 10.296
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A mysterious ancient stone citadel with a huge fortification wall at night under stars, Andes, moody, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a wall of enormous stones, fitted so closely you cannot slide a blade between them. Inca, or something older? Next time on Ancient Machines."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a wall of enormous stones, fitted so closely you cannot slide a blade between them. Inca, or something older? Next time on Ancient Machines.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a lone stone gateway glowing faintly in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think the Staff God was telling us? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think the Staff God was telling us? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 7.968
+   }
+  ]
+ }
+]
