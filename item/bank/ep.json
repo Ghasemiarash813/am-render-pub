@@ -1,0 +1,1307 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1952 Washington D.C. at night seen from above, the lit white Capitol dome and Washington Monument, strange glowing orange lights hovering over the city, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "July nineteen fifty-two. The night sky over Washington, D.C. Over the White House, the Capitol, and the most heavily defended airspace on Earth, something is showing up on the radar."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "July nineteen fifty-two. The night sky over Washington, D.C. Over the White House, the Capitol, and the most heavily defended airspace on Earth, something is showing up on the radar.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 12.696
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Dark 1950s air traffic radar room, a round green radar scope glowing with several bright blips, a controller's silhouette leaning close, film noir photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Not one blip. Seven. Hovering, drifting, then jumping away faster than any aircraft of the day. Controllers swear the scopes are working perfectly."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Not one blip. Seven. Hovering, drifting, then jumping away faster than any aircraft of the day. Controllers swear the scopes are working perfectly.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 10.176
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Fighter jet pilot in a 1950s cockpit at night looking out at strange white glowing lights all around the canopy, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Jets are scrambled. One pilot radios that the lights are all around him. A week later, the Air Force holds the biggest press conference since the Second World War."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Jets are scrambled. One pilot radios that the lights are all around him. A week later, the Air Force holds the biggest press conference since the Second World War.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1950s newspaper stacks on a city sidewalk with blank unreadable pages and bold dark headline blocks, morning light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Newspapers across America print the story. Then the Pentagon gives an answer. Hot air. A temperature inversion. Case closed. But was it?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Newspapers across America print the story. Then the Pentagon gives an answer. Hot air. A temperature inversion. Case closed. But was it?",
+    "file": "ep/audio/s04.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Detective's desk at night with a green radar printout, a magnifying glass, folders and a desk lamp, film noir photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "I'm your investigator. Tonight we open the radar room tapes, weigh the evidence against the alien theory, and deliver a verdict. Let's start at the beginning."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "I'm your investigator. Tonight we open the radar room tapes, weigh the evidence against the alien theory, and deliver a verdict. Let's start at the beginning.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Washington D.C. in 1952, a hot humid summer evening, people on porches fanning themselves, the Capitol in the distance, vintage film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Summer, nineteen fifty-two. A heat wave grips the capital. America is deep in the Cold War, and the country is jumpy about the sky."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Summer, nineteen fifty-two. A heat wave grips the capital. America is deep in the Cold War, and the country is jumpy about the sky.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 9.528
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A vintage 1950s magazine lying on a table beside a coffee cup with a plain blank cover showing a glowing disc in a night sky, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Flying saucers are already a national obsession. In April, Life magazine asks if we have visitors from space. By July, reports are pouring in at a record pace."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Flying saucers are already a national obsession. In April, Life magazine asks if we have visitors from space. By July, reports are pouring in at a record pace.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.168
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A cluttered 1950s Air Force office with filing cabinets full of folders and a single desk lamp, an officer in uniform reading a report, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the first half of the year, the Air Force logs more new reports than in the previous four years combined. Project Blue Book is overwhelmed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the first half of the year, the Air Force logs more new reports than in the previous four years combined. Project Blue Book is overwhelmed.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1950s Air Route Traffic Control center at night, rows of men in short sleeves watching radar scopes, cigarette smoke, film noir photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the capital's air traffic control center is about to have the strangest shift of its career."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the capital's air traffic control center is about to have the strangest shift of its career.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 5.808
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A 1950s radar controller in a dark room staring at a round scope with a cluster of seven bright blips, green glow on his face, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item one. Saturday night, July nineteenth. Just before midnight, controller Edward Nugent sees seven unidentified targets about fifteen miles south-southwest of the city."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item one. Saturday night, July nineteenth. Just before midnight, controller Edward Nugent sees seven unidentified targets about fifteen miles south-southwest of the city.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 12.36
+   }
+  ],
+  "ch": [
+   "I \u00b7 NIGHT ONE",
+   "The First Night",
+   "JULY 19 \u00b7 1952"
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a green radar sweep with a cluster of slow-moving blips drifting across a scope, macro photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They drift slowly, then lurch ahead at speeds that seem impossible. His senior controller checks the set. It's working normally."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They drift slowly, then lurch ahead at speeds that seem impossible. His senior controller checks the set. It's working normally.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 8.568
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A second radar room at a 1950s airport with an operator pointing at his scope, an amber desk lamp, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Radar at the national airport sees them too. And radar at Andrews Air Force Base. Three separate sets, three separate rooms, the same unknown objects."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Radar at the national airport sees them too. And radar at Andrews Air Force Base. Three separate sets, three separate rooms, the same unknown objects.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A lone orange glowing ball with a faint tail hanging in a night sky above a dark airfield, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At Andrews, an airman looks up and sees an orange ball with a tail, streaking across the sky. This is no longer just a blip on a screen."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At Andrews, an airman looks up and sees an orange ball with a tail, streaking across the sky. This is no longer just a blip on a screen.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "View from a 1950s airliner cockpit at night, a pilot watching six white lights drifting in the dark sky outside, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A Capital Airlines pilot reports six white lights shooting past his plane over fourteen minutes. Tower controllers see a hovering light, too."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A Capital Airlines pilot reports six white lights shooting past his plane over fourteen minutes. Tower controllers see a hovering light, too.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 9.6
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Night sky above a radio beacon tower, a bright light vanishing instantly, long exposure photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the moment that chills the controllers. An object sits right over a radio beacon, and on all three radars it vanishes at the same instant."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the moment that chills the controllers. An object sits right over a radio beacon, and on all three radars it vanishes at the same instant.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two 1950s F-94 jet interceptors taking off at dawn from a dark runway, afterburners glowing, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Around three in the morning, two F-94 jets arrive from Delaware. As they approach, the blips disappear. When the jets run low on fuel and leave, the targets come back."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around three in the morning, two F-94 jets arrive from Delaware. As they approach, the blips disappear. When the jets run low on fuel and leave, the targets come back.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.24
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "First pale light of dawn over the Potomac river and Washington monuments, empty sky, quiet, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The last target fades around five-thirty, with the sunrise. Nobody in the radar room has any doubt something strange has happened."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The last target fades around five-thirty, with the sunrise. Nobody in the radar room has any doubt something strange has happened.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 9.048
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A 1950s Air Force captain at an airport gate reading a folded newspaper in shock, vintage film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item two. The man in charge of Project Blue Book, Captain Edward Ruppelt, learns about all of it from the Monday headlines."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item two. The man in charge of Project Blue Book, Captain Edward Ruppelt, learns about all of it from the Monday headlines.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 8.64
+   }
+  ],
+  "ch": [
+   "II \u00b7 THE PENTAGON",
+   "Ruppelt Hears",
+   "JULY 20 \u00b7 1952"
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A military staff car parked at the Pentagon, a young officer standing helplessly beside a payphone, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He tries to get a staff car and fly back. He can't. For the next week, the official investigation is a phone call away from the story."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He tries to get a staff car and fly back. He can't. For the next week, the official investigation is a phone call away from the story.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A 1950s Air Force weather officer pointing at a chart of atmospheric layers with a pencil, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One officer already suggests the answer. Weather can bend radar beams and create false targets. Remember that idea. It becomes the official line."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One officer already suggests the answer. Weather can bend radar beams and create false targets. Remember that idea. It becomes the official line.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A second summer night over Washington, the Capitol dome lit, a group of pale glowing lights in a dark sky, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item three. Saturday, July twenty-sixth. A second Saturday. A second flap. This time, the whole city is watching."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item three. Saturday, July twenty-sixth. A second Saturday. A second flap. This time, the whole city is watching.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 8.208
+   }
+  ],
+  "ch": [
+   "III \u00b7 NIGHT TWO",
+   "The Second Saturday",
+   "JULY 26 \u00b7 1952"
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A National Airlines airliner at night in the sky with a bright light pacing outside the window, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At eight-fifteen in the evening, a National Airlines crew sees lights. Radar picks the same targets up almost at once."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At eight-fifteen in the evening, a National Airlines crew sees lights. Radar picks the same targets up almost at once.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 8.28
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A Blue Book press officer in a suit at an airport terminal standing before a radar display, other men crowding behind him, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Blue Book's press officer is at the airport. Reporters are crowding the radar rooms. Some of the targets are said to move at seven thousand miles an hour."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Blue Book's press officer is at the airport. Reporters are crowding the radar rooms. Some of the targets are said to move at seven thousand miles an hour.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.248
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An F-94 jet pilot's gloved hands on controls in a night cockpit, a faint white glow beyond the canopy, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At eleven-thirty, jets are scrambled again. Captain John McHugo sees nothing. But Lieutenant William Patterson sees four white glows, and gives chase."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At eleven-thirty, jets are scrambled again. Captain John McHugo sees nothing. But Lieutenant William Patterson sees four white glows, and gives chase.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Four soft white glows hovering at night over dark countryside, a jet silhouette banking away, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His words, as reported: I see them now, and they're all around me. He turns, they slip away. He calls off the chase when the lights seem to surround him."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His words, as reported: I see them now, and they're all around me. He turns, they slip away. He calls off the chase when the lights seem to surround him.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two uniformed officers, an Air Force major and a Navy lieutenant, standing behind a radar operator in a dim room, film noir photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two experienced officers, Major Dewey Fournet and Navy Lieutenant John Holcomb, watch the scopes. They judge the returns good and solid. A weak inversion, they say, can't explain them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two experienced officers, Major Dewey Fournet and Navy Lieutenant John Holcomb, watch the scopes. They judge the returns good and solid. A weak inversion, they say, can't explain them.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Dawn over Washington D.C., a quiet sky and a faint green radar glow reflected in a window, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The lights end at sunrise. Again."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The lights end at sunrise. Again.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 2.352
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "The White House exterior in 1952 on a hot day, a black sedan parked outside, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item four. The White House is paying attention. President Truman's air aide asks the Air Force what on Earth is going on."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item four. The White House is paying attention. President Truman's air aide asks the Air Force what on Earth is going on.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 8.424
+   }
+  ],
+  "ch": [
+   "IV \u00b7 THE PRESS",
+   "The Press Conference",
+   "JULY 29 \u00b7 1952"
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A packed 1950s Pentagon press conference room, rows of reporters with notebooks and flashbulbs, two generals at a table, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On July twenty-ninth, two generals face the press. The largest Pentagon press conference since the Second World War."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On July twenty-ninth, two generals face the press. The largest Pentagon press conference since the Second World War.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 8.016
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A 1950s Air Force general at a microphone speaking firmly, camera flashbulbs flaring, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "General John Samford says the Air Force has had credible observers report relatively incredible things. Then he says the answer is probably temperature inversions."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "General John Samford says the Air Force has had credible observers report relatively incredible things. Then he says the answer is probably temperature inversions.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 11.544
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A cross-section diagram style illustration of a warm air layer above cool air bending a radar beam back down to the ground, clean photoreal render, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "An inversion is a layer of warm air over cool air. It can bend a radar beam back to the ground and show a ghost target. It's a real effect. The question is whether it fits."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "An inversion is a layer of warm air over cool air. It can bend a radar beam back to the ground and show a ghost target. It's a real effect. The question is whether it fits.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A courtroom-style evidence table in a dark room with three folders labelled by blank tags, a green radar printout and a desk lamp, film noir photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item five. The cross-examination. Let's weigh the evidence for each explanation, starting with the inversion."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item five. The cross-examination. Let's weigh the evidence for each explanation, starting with the inversion.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 7.392
+   }
+  ],
+  "ch": [
+   "V \u00b7 CROSS-EXAMINATION",
+   "Weather or Not?",
+   "EVIDENCE TABLE"
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "An investigator in a dark room holding a radar printout up to a lamp, scrutinising it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For the inversion: a government weather study finds one in almost every one of the nights in question. A famous astronomer, Donald Menzel, and sceptic Philip Klass back it."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For the inversion: a government weather study finds one in almost every one of the nights in question. A famous astronomer, Donald Menzel, and sceptic Philip Klass back it.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An old Mississippi-style riverboat steamer on the Potomac at dusk with a small bright lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For the sceptics, one radar target was traced to a steamboat on the Potomac, heading for Mount Vernon. Many of the visual sightings were stars, meteors, and aircraft lights."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For the sceptics, one radar target was traced to a steamboat on the Potomac, heading for Mount Vernon. Many of the visual sightings were stars, meteors, and aircraft lights.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A radar operator's hand on the dial of a 1950s scope next to a modern digital screen, split composition, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Klass adds that early radar was prone to false targets, and that later digital filters wiped many of them away. He called the controllers two dumb operators. That's a harsh take."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Klass adds that early radar was prone to false targets, and that later digital filters wiped many of them away. He called the controllers two dumb operators. That's a harsh take.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of the face of an experienced air traffic controller in 1952 squinting at a scope, dim light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Against it: the controllers were not new. Some had years of experience, and they said these returns were hard and sharp. Not the fuzzy clutter they knew."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Against it: the controllers were not new. Some had years of experience, and they said these returns were hard and sharp. Not the fuzzy clutter they knew.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A tower controller at an airport window looking up at a glowing light in the dark sky, then back at a radar scope, split composition, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the radar matched what people saw with their eyes. Howard Cocklin, decades later: I saw it on the screen and out the window."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the radar matched what people saw with their eyes. Howard Cocklin, decades later: I saw it on the screen and out the window.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Two radar screens side by side in the dark, both showing the same cluster of blips, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three independent radars. Pilots in the air. Witnesses on the ground. An inversion can fool one set. Fooling everything at once is a harder sell."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three independent radars. Pilots in the air. Witnesses on the ground. An inversion can fool one set. Fooling everything at once is a harder sell.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 10.584
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A scientist's chalkboard filled with arrows and cloud shapes but no readable text, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even a later university study could not settle it. A physicist said witnesses still disputed the weather explanation. Jacques Vall\u00e9e called the case rather poor."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even a later university study could not settle it. A physicist said witnesses still disputed the weather explanation. Jacques Vall\u00e9e called the case rather poor.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A tiny flying saucer hovering over the Washington Monument at night, retro science fiction illustration style, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item six. The alien theory. Visitors from another world, scouting the capital of the most powerful nation on Earth."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item six. The alien theory. Visitors from another world, scouting the capital of the most powerful nation on Earth.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 8.088
+   }
+  ],
+  "ch": [
+   "VI \u00b7 THE THEORY",
+   "The Alien Theory",
+   "TESTED"
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Large astronomical star field with a huge distant planet and a tiny spacecraft silhouette, cinematic space photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why would they come two weeks in a row, then vanish? Why show up only as lights and radar blips, never land, never speak?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why would they come two weeks in a row, then vanish? Why show up only as lights and radar blips, never land, never speak?",
+    "file": "ep/audio/s41.mp3",
+    "dur": 7.848
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A chaotic newspaper office in 1952, men on phones, stacks of copy paper with blank pages, cigarette smoke, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What the evidence does show is a loop. Headlines drove sightings. Sightings drove headlines. Sixteen thousand newspaper items ran in about a hundred and fifty papers that year."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What the evidence does show is a loop. Headlines drove sightings. Sightings drove headlines. Sixteen thousand newspaper items ran in about a hundred and fifty papers that year.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 12.504
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A crowded rooftop in 1950s Washington at night, people pointing at the sky, vintage film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Once the story was in every paper, every star became a saucer, and every controller was watching for one."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Once the story was in every paper, every star became a saucer, and every controller was watching for one.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 7.152
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A shadowy military conference room with a long table and a dim projector beam, file folders, film noir photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that's where the story takes a darker turn. Because the government was just as worried about the panic as the lights."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that's where the story takes a darker turn. Because the government was just as worried about the panic as the lights.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 7.488
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A grey 1950s CIA office with a single man reading a typed memo under a lamp, noir photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item seven. September, nineteen fifty-two. A CIA memo warns that floods of saucer reports could jam military channels, and might even spark mass hysteria."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item seven. September, nineteen fifty-two. A CIA memo warns that floods of saucer reports could jam military channels, and might even spark mass hysteria.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 12.096
+   }
+  ],
+  "ch": [
+   "VII \u00b7 THE COVER-UP",
+   "The CIA Steps In",
+   "SEP 1952 \u2013 JAN 1953"
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Five serious scientists in 1950s suits around a table in a dim conference room reviewing photographs, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In January nineteen fifty-three, a panel of scientists meets for four days. They review the best cases, and watch the famous films."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In January nineteen fifty-three, a panel of scientists meets for four days. They review the best cases, and watch the famous films.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 9.192
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A shredder-like image of a stack of papers marked with blank stamps being fed into a metal tray, noir photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their conclusion: nothing threatens national security, but the public interest does. The cure? Debunk the sightings, and strip the aura of mystery."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their conclusion: nothing threatens national security, but the public interest does. The cure? Debunk the sightings, and strip the aura of mystery.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A 1950s Blue Book office, an officer closing a heavy filing drawer, shadows, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Blue Book shifts. It starts explaining cases away, and it stops publicising the ones it can't. The Washington flap changed how the government talks about UFOs."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Blue Book shifts. It starts explaining cases away, and it stops publicising the ones it can't. The Washington flap changed how the government talks about UFOs.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 11.232
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "A detective's corkboard with three blank folder tags and strings, a green radar printout, dramatic lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item eight. The scorecard. Three claims, tested against what we can actually verify."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item eight. The scorecard. Three claims, tested against what we can actually verify.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 5.688
+   }
+  ],
+  "ch": [
+   "VIII \u00b7 SCORECARD",
+   "Four Claims",
+   "SCORED"
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A glowing radar scope displaying a cluster of blips with a calm dark room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim one. Radar saw unknown targets. Verified. Multiple operators, multiple radars, multiple nights, in official records."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim one. Radar saw unknown targets. Verified. Multiple operators, multiple radars, multiple nights, in official records.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Pilots in a dim cockpit with a bright light outside, tense faces, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim two. Pilots and controllers saw lights in the same places. Partly verified. Real reports exist, but many lights match stars, meteors and planes."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim two. Pilots and controllers saw lights in the same places. Partly verified. Real reports exist, but many lights match stars, meteors and planes.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A weather chart's warm and cool air layers visualised over a city, soft glowing bands, photoreal render, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim three. An inversion explains everything. Not proven. It likely explains many targets, but no study ever matched every sighting."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim three. An inversion explains everything. Not proven. It likely explains many targets, but no study ever matched every sighting.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 9.288
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "A shadowy figure silhouette of an alien in a dark hallway, retro cinematic, no face visible, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim four. Aliens did it. Unsupported. There is no physical evidence, no photo, no wreckage. Only lights, scopes, and stories."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim four. Aliens did it. Unsupported. There is no physical evidence, no photo, no wreckage. Only lights, scopes, and stories.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A gavel resting on a desk beside a green radar printout, dark room, a single spotlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Unresolved, but leaning weather. The inversion is a strong candidate, but the people in the room never accepted it, and nobody can prove it."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Unresolved, but leaning weather. The inversion is a strong candidate, but the people in the room never accepted it, and nobody can prove it.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 9.84
+   }
+  ],
+  "ch": [
+   "IX \u00b7 VERDICT",
+   "Unresolved",
+   "THE FINDING"
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "An empty Washington sky at dusk with a single faint light far above the Capitol, quiet, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What we can say for certain: the Air Force and the CIA took the sky seriously, the press took it more seriously, and the public never forgot."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What we can say for certain: the Air Force and the CIA took the sky seriously, the press took it more seriously, and the public never forgot.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 9.36
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Modern air traffic radar room with a controller looking at a screen, calm blue light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today, radar is digital and filtered. And the odd thing is, nobody has reported a night like July nineteen fifty-two since."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today, radar is digital and filtered. And the odd thing is, nobody has reported a night like July nineteen fifty-two since.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A hand holding a small radio compass over a map of Washington D.C. at night, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If the lights were weather, the weather has never repeated it. If they were something else, they haven't returned either."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If the lights were weather, the weather has never repeated it. If they were something else, they haven't returned either.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 6.384
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A calm night sky over the Washington Monument with a few stars, golden warm light, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So what do you think was in the sky over Washington? Weather, or something we still can't name? Tell us in the comments."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So what do you think was in the sky over Washington? Weather, or something we still can't name? Tell us in the comments.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 7.32
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Dark desert at night with a lone road and a distant glowing light on the horizon, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a night in Iran, nineteen seventy-six, when two jets chased a light, and one of them lost every system."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a night in Iran, nineteen seventy-six, when two jets chased a light, and one of them lost every system.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 7.584
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Dark end card background, a single small green radar blip glowing in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Subscribe for the next case file."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Subscribe for the next case file.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 1.968
+   }
+  ]
+ }
+]
