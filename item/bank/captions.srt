@@ -1,0 +1,779 @@
+1
+00:00:00,333 --> 00:00:02,307
+It is smaller than a matchbox.
+
+2
+00:00:02,307 --> 00:00:08,230
+A disc of rock crystal, three thousand years old, sitting in a case in the British Museum.
+
+3
+00:00:08,230 --> 00:00:12,178
+And some people say it proves the Assyrians had a telescope.
+
+4
+00:00:12,178 --> 00:00:20,733
+The label calls it the Nimrud lens, or the Layard lens, and people have argued about it for well over a hundred and seventy years.
+
+5
+00:00:21,199 --> 00:00:27,682
+If that were true, the history of astronomy would need rewriting by nearly twenty-five centuries.
+
+6
+00:00:27,682 --> 00:00:31,893
+Every school textbook on optics would need a new first chapter.
+
+7
+00:00:31,893 --> 00:00:34,700
+So today, we put the crystal on the bench.
+
+8
+00:00:35,166 --> 00:00:35,901
+Four tests.
+
+9
+00:00:35,901 --> 00:00:36,904
+Can it magnify?
+
+10
+00:00:36,904 --> 00:00:37,706
+Can it burn?
+
+11
+00:00:37,706 --> 00:00:38,908
+Can it see Saturn?
+
+12
+00:00:38,908 --> 00:00:41,715
+Or is it just a pretty piece of jewellery?
+
+13
+00:00:41,715 --> 00:00:45,791
+I'll tell you now, the answer is not what the headlines said.
+
+14
+00:00:45,791 --> 00:00:49,200
+But it is more interesting than the boring version.
+
+15
+00:00:49,666 --> 00:00:54,096
+Facts first, theories labelled, and no claim gets a free pass.
+
+16
+00:00:54,096 --> 00:00:59,241
+Every test earns one mark: evidence, possible, doubtful, or no evidence.
+
+17
+00:00:59,241 --> 00:01:01,099
+We add them up at the end.
+
+18
+00:01:01,099 --> 00:01:02,100
+Bench is open.
+
+19
+00:01:06,566 --> 00:01:10,400
+Let's begin where the object itself begins: in the ground.
+
+20
+00:01:10,866 --> 00:01:11,763
+Chapter one.
+
+21
+00:01:11,763 --> 00:01:12,435
+The find.
+
+22
+00:01:12,435 --> 00:01:19,457
+Nimrud, in what is now northern Iraq, was an Assyrian capital nearly three thousand years ago.
+
+23
+00:01:19,457 --> 00:01:29,766
+King Ashurnasirpal the Second moved his court there around eight seventy-nine BC, and built a vast palace lined with carved stone reliefs.
+
+24
+00:01:30,233 --> 00:01:38,410
+In eighteen fifty, the British explorer Austen Henry Layard was digging there, uncovering palaces for the British Museum.
+
+25
+00:01:38,410 --> 00:01:47,466
+He was a diplomat and adventurer with no formal training, and his books on Nimrud and Nineveh became bestsellers in Victorian Britain.
+
+26
+00:01:47,933 --> 00:01:59,766
+He later wrote that among glass bowls in one room he found a rock crystal lens, buried beneath fragments of glass that looked like the enamel of an object that had rotted away.
+
+27
+00:02:00,233 --> 00:02:01,672
+That detail matters.
+
+28
+00:02:01,672 --> 00:02:09,586
+The lens was lying with decayed material, perhaps wood or ivory, and not on a shelf of scientific instruments.
+
+29
+00:02:09,586 --> 00:02:10,594
+Remember that.
+
+30
+00:02:10,594 --> 00:02:17,933
+A lens in a pile of rotted furniture tells a very different story from a lens in a box of instruments.
+
+31
+00:02:18,400 --> 00:02:27,401
+The palace belonged to the age of the great Assyrian kings, and the lens is dated to roughly seven fifty to seven ten BC.
+
+32
+00:02:27,401 --> 00:02:34,766
+That is the age of Sargon the Second and his son Sennacherib, who turned Nineveh into a giant city.
+
+33
+00:02:35,233 --> 00:02:41,393
+It travelled to London with the rest of the finds, and it was entered into the museum's collection.
+
+34
+00:02:41,393 --> 00:02:48,300
+Today it is registered in the British Museum database under the number ninety thousand nine hundred fifty-nine.
+
+35
+00:02:48,766 --> 00:02:56,231
+In eighteen fifty-two, the Scottish scientist David Brewster examined it and presented a report on the crystal.
+
+36
+00:02:56,231 --> 00:03:01,342
+Brewster was famous for his work on light, and he invented the kaleidoscope.
+
+37
+00:03:01,342 --> 00:03:04,099
+If anyone could judge a lens, it was him.
+
+38
+00:03:04,566 --> 00:03:06,359
+Brewster measured what he could.
+
+39
+00:03:06,359 --> 00:03:08,599
+And that is where our numbers come from.
+
+40
+00:03:09,066 --> 00:03:09,896
+Chapter two.
+
+41
+00:03:09,896 --> 00:03:11,073
+The measurements.
+
+42
+00:03:11,073 --> 00:03:15,916
+The disc is about thirty-eight millimetres long and twenty-three wide.
+
+43
+00:03:15,916 --> 00:03:18,199
+Roughly the size of a large coin.
+
+44
+00:03:18,666 --> 00:03:24,182
+One side is flat and the other is curved, which makes it a plano-convex lens.
+
+45
+00:03:24,182 --> 00:03:28,766
+In physics terms, that is the basic shape of a magnifying glass.
+
+46
+00:03:29,233 --> 00:03:32,382
+Its focal length is about twelve centimetres.
+
+47
+00:03:32,382 --> 00:03:35,741
+That makes it a magnifier of around three times.
+
+48
+00:03:35,741 --> 00:03:39,101
+Enough to read small writing, but not much more.
+
+49
+00:03:39,101 --> 00:03:44,000
+For comparison, a cheap modern reading glass has about the same power.
+
+50
+00:03:44,466 --> 00:03:45,893
+The surface is rough.
+
+51
+00:03:45,893 --> 00:03:51,533
+It was ground by hand, probably with abrasive, and not polished to a perfect curve.
+
+52
+00:03:52,000 --> 00:03:54,943
+Inside there are small cavities and flaws.
+
+53
+00:03:54,943 --> 00:03:59,708
+Natural rock crystal almost always has them, and they blur an image.
+
+54
+00:03:59,708 --> 00:04:01,810
+Those flaws are not bad craft.
+
+55
+00:04:01,810 --> 00:04:07,766
+They are what natural crystal looks like when it is ground by hand, without machines.
+
+56
+00:04:08,233 --> 00:04:11,111
+So the best description is an honest one.
+
+57
+00:04:11,111 --> 00:04:13,146
+A real lens, but a rough one.
+
+58
+00:04:13,146 --> 00:04:15,533
+It focuses light, though not well.
+
+59
+00:04:16,000 --> 00:04:18,382
+Which brings us to the first test.
+
+60
+00:04:18,382 --> 00:04:19,433
+Can it magnify?
+
+61
+00:04:19,899 --> 00:04:20,944
+Chapter three.
+
+62
+00:04:20,944 --> 00:04:21,989
+The magnifier.
+
+63
+00:04:21,989 --> 00:04:29,974
+Assyrian craftsmen carved cylinder seals with astonishing tiny detail, some of it only a millimetre across.
+
+64
+00:04:29,974 --> 00:04:36,466
+Whole scenes of kings, gods, and animals were packed into a space smaller than a thumb.
+
+65
+00:04:36,933 --> 00:04:45,266
+Layard himself suspected that very small inscriptions on Assyrian objects must have been made with help from a lens.
+
+66
+00:04:45,733 --> 00:04:46,957
+And it does work.
+
+67
+00:04:46,957 --> 00:04:52,000
+Hold the crystal close and tiny details do enlarge, about three times.
+
+68
+00:04:52,466 --> 00:04:55,032
+Picture a newspaper under the lens.
+
+69
+00:04:55,032 --> 00:05:01,115
+The letters swell to three times their size, but the edges blur and the lines bend.
+
+70
+00:05:01,115 --> 00:05:03,314
+Useful to a jeweller, perhaps.
+
+71
+00:05:03,314 --> 00:05:05,366
+Not much use to a stargazer.
+
+72
+00:05:05,833 --> 00:05:08,618
+But does that prove it was used that way?
+
+73
+00:05:08,618 --> 00:05:09,636
+Not on its own.
+
+74
+00:05:09,636 --> 00:05:14,866
+Fine work can also be done by trained eyes, and by simply looking very close.
+
+75
+00:05:15,333 --> 00:05:20,675
+Craftspeople without any lens have carved fine detail in many cultures.
+
+76
+00:05:20,675 --> 00:05:24,587
+So we mark this test: possible, plausible, unproven.
+
+77
+00:05:24,587 --> 00:05:28,500
+And that is the key distinction in this entire case.
+
+78
+00:05:28,500 --> 00:05:31,133
+Possible is not the same as proven.
+
+79
+00:05:31,600 --> 00:05:33,220
+Now to the second test.
+
+80
+00:05:33,220 --> 00:05:33,854
+Sunlight.
+
+81
+00:05:33,854 --> 00:05:34,699
+Can it burn?
+
+82
+00:05:35,166 --> 00:05:36,102
+Chapter four.
+
+83
+00:05:36,102 --> 00:05:37,398
+The burning glass.
+
+84
+00:05:37,398 --> 00:05:44,600
+A lens that focuses light can start a fire, and this is an old explanation for lenses like this one.
+
+85
+00:05:45,066 --> 00:05:46,741
+Rock crystal does that.
+
+86
+00:05:46,741 --> 00:05:55,624
+The Greek writer Aristophanes mentions a burning glass in the fifth century BC, and later authors describe the same trick.
+
+87
+00:05:55,624 --> 00:06:02,833
+In the first century AD, Pliny the Elder wrote that crystal balls held in the sun can scorch cloth.
+
+88
+00:06:03,300 --> 00:06:05,437
+So the idea is not far-fetched.
+
+89
+00:06:05,437 --> 00:06:10,538
+People in the ancient world knew that a clear crystal could light a flame.
+
+90
+00:06:10,538 --> 00:06:14,950
+But those texts come centuries after the Nimrud lens was buried.
+
+91
+00:06:14,950 --> 00:06:18,466
+We cannot simply assume the Assyrians did the same.
+
+92
+00:06:18,933 --> 00:06:25,020
+With a twelve centimetre focus, the Nimrud lens can concentrate light into a bright spot.
+
+93
+00:06:25,020 --> 00:06:28,166
+Whether it was meant for that, nobody can say.
+
+94
+00:06:28,633 --> 00:06:30,521
+There is a practical catch.
+
+95
+00:06:30,521 --> 00:06:38,283
+The lens must be held about twelve centimetres from the tinder, in strong direct sun, and kept perfectly still.
+
+96
+00:06:38,283 --> 00:06:38,912
+It works.
+
+97
+00:06:38,912 --> 00:06:41,500
+But a fire drill needs no sun at all.
+
+98
+00:06:41,966 --> 00:06:44,837
+The Assyrians certainly knew how to make fire.
+
+99
+00:06:44,837 --> 00:06:47,833
+There is no text saying they used a lens for it.
+
+100
+00:06:48,300 --> 00:06:50,056
+Which leaves the big claim.
+
+101
+00:06:50,056 --> 00:06:50,966
+The telescope.
+
+102
+00:06:51,433 --> 00:06:52,414
+Chapter five.
+
+103
+00:06:52,414 --> 00:06:53,470
+The telescope.
+
+104
+00:06:53,470 --> 00:07:01,466
+In nineteen ninety-nine, an Italian scholar, Giovanni Pettinato of the University of Rome, made headlines.
+
+105
+00:07:01,933 --> 00:07:10,339
+The BBC ran the story in July nineteen ninety-nine under the headline, World's oldest telescope, with a question mark.
+
+106
+00:07:10,339 --> 00:07:14,399
+That question mark turned out to be the most honest part.
+
+107
+00:07:14,866 --> 00:07:22,899
+He suggested that the Assyrians used the crystal as part of a telescope, and that this explains their knowledge of astronomy.
+
+108
+00:07:23,366 --> 00:07:25,516
+His strongest hint was Saturn.
+
+109
+00:07:25,516 --> 00:07:30,746
+Assyrians described the planet as a god surrounded by a ring of serpents.
+
+110
+00:07:30,746 --> 00:07:32,466
+Could that be the rings?
+
+111
+00:07:32,933 --> 00:07:35,158
+Saturn's rings are hard to see.
+
+112
+00:07:35,158 --> 00:07:40,755
+Galileo's first telescope, in sixteen ten, only showed odd bumps on the sides.
+
+113
+00:07:40,755 --> 00:07:44,415
+Galileo even wrote that Saturn seemed to have ears.
+
+114
+00:07:44,415 --> 00:07:51,233
+It took until sixteen fifty-nine for Christiaan Huygens to work out that the bumps were a ring.
+
+115
+00:07:51,699 --> 00:07:57,279
+And Galileo's telescope had two lenses and a magnification of around twenty.
+
+116
+00:07:57,279 --> 00:07:59,482
+One small crystal gives three.
+
+117
+00:07:59,482 --> 00:08:02,933
+That is less than a seventh of Galileo's power.
+
+118
+00:08:03,399 --> 00:08:08,935
+To make a telescope you need at least two lenses, and a way to hold them in line.
+
+119
+00:08:08,935 --> 00:08:12,899
+No tube, no second lens, and no mount has ever been found.
+
+120
+00:08:13,366 --> 00:08:14,807
+So let us be generous.
+
+121
+00:08:14,807 --> 00:08:18,473
+Suppose the Assyrians did have a second lens and a tube.
+
+122
+00:08:18,473 --> 00:08:24,366
+They would still need a steady mount, and a much clearer image than this crystal can give.
+
+123
+00:08:24,833 --> 00:08:28,187
+Assyrian astronomers left thousands of tablets.
+
+124
+00:08:28,187 --> 00:08:32,184
+They track planets, eclipses, and omens in great detail.
+
+125
+00:08:32,184 --> 00:08:34,611
+None of them mentions a telescope.
+
+126
+00:08:34,611 --> 00:08:41,392
+Babylonian astronomical diaries, kept night after night for centuries, record where Saturn was.
+
+127
+00:08:41,392 --> 00:08:43,533
+They never describe its shape.
+
+128
+00:08:44,000 --> 00:08:47,401
+And serpents turn up everywhere in Assyrian myth.
+
+129
+00:08:47,401 --> 00:08:52,399
+Reading them as Saturn's rings is a coincidence searching for a meaning.
+
+130
+00:08:52,866 --> 00:08:55,507
+Optical experts add one more problem.
+
+131
+00:08:55,507 --> 00:08:59,860
+The lens is rough and flawed, and the image it makes is poor.
+
+132
+00:08:59,860 --> 00:09:02,999
+Even a good second lens would not rescue it.
+
+133
+00:09:03,466 --> 00:09:05,362
+So the telescope test fails.
+
+134
+00:09:05,362 --> 00:09:07,866
+Which leaves the dullest explanation.
+
+135
+00:09:08,333 --> 00:09:09,161
+Chapter six.
+
+136
+00:09:09,161 --> 00:09:09,852
+The inlay.
+
+137
+00:09:09,852 --> 00:09:17,033
+The British Museum curators say the lens may simply have been a decorative inlay, perhaps for furniture.
+
+138
+00:09:17,500 --> 00:09:19,403
+That fits how it was found.
+
+139
+00:09:19,403 --> 00:09:26,666
+Assyrian palaces held rich ivory furniture, inlaid with glass and crystal that shimmered in lamp light.
+
+140
+00:09:27,133 --> 00:09:30,340
+Layard noted the decayed material around it.
+
+141
+00:09:30,340 --> 00:09:36,100
+Wood or ivory objects often rot, and leave their inlays scattered in the earth.
+
+142
+00:09:36,566 --> 00:09:39,365
+There is a rule of thumb in archaeology.
+
+143
+00:09:39,365 --> 00:09:46,782
+When a find has no label and no text, experts reach for the explanation that needs the fewest assumptions.
+
+144
+00:09:46,782 --> 00:09:50,351
+For a lens inside decayed furniture, that is inlay.
+
+145
+00:09:50,351 --> 00:09:53,500
+Less thrilling than a telescope, but it fits.
+
+146
+00:09:53,966 --> 00:09:58,072
+A rounded crystal makes a perfect eye for a carved figure.
+
+147
+00:09:58,072 --> 00:10:00,266
+Shiny, domed, and eye-catching.
+
+148
+00:10:00,733 --> 00:10:03,479
+This is not a guess made up from nothing.
+
+149
+00:10:03,479 --> 00:10:08,033
+Domed crystal eyes are known across the ancient Near East and Egypt.
+
+150
+00:10:08,500 --> 00:10:11,086
+Still, the curators admit one thing.
+
+151
+00:10:11,086 --> 00:10:13,530
+No evidence shows what it was for.
+
+152
+00:10:13,530 --> 00:10:17,266
+Inlay is the simplest explanation, not a proven one.
+
+153
+00:10:17,733 --> 00:10:19,545
+Time to weigh the evidence.
+
+154
+00:10:19,545 --> 00:10:22,633
+Not just for this lens, but for similar finds.
+
+155
+00:10:23,100 --> 00:10:24,110
+Chapter seven.
+
+156
+00:10:24,110 --> 00:10:25,409
+The wider picture.
+
+157
+00:10:25,409 --> 00:10:27,214
+Lenses turn up elsewhere.
+
+158
+00:10:27,214 --> 00:10:32,266
+The Visby lenses, from a Viking site in Sweden, are far better shaped.
+
+159
+00:10:32,733 --> 00:10:39,100
+But Visby lenses date to around a thousand years ago, and nobody claims they were telescopes either.
+
+160
+00:10:39,566 --> 00:10:41,761
+The ancient world loved crystal.
+
+161
+00:10:41,761 --> 00:10:45,876
+It carved it, polished it, and set it in eyes and jewellery.
+
+162
+00:10:45,876 --> 00:10:49,579
+Most of it was jewellery, seals, and eyes for statues.
+
+163
+00:10:49,579 --> 00:10:53,899
+A few pieces happen to be curved, so they happen to bend light.
+
+164
+00:10:54,366 --> 00:10:57,977
+Real lens use is only well documented much later.
+
+165
+00:10:57,977 --> 00:11:01,661
+Reading stones appear around the eleventh century.
+
+166
+00:11:01,661 --> 00:11:04,166
+Spectacles come in the thirteenth.
+
+167
+00:11:04,633 --> 00:11:10,401
+The first true telescope is credited to Dutch spectacle makers in sixteen oh eight.
+
+168
+00:11:10,401 --> 00:11:15,266
+That gap is large, and nothing in between suggests a hidden tradition.
+
+169
+00:11:15,733 --> 00:11:18,907
+So why does the telescope idea refuse to die?
+
+170
+00:11:18,907 --> 00:11:20,811
+Because it is a good story.
+
+171
+00:11:20,811 --> 00:11:25,185
+A small object, a famous planet, and a hint of lost knowledge.
+
+172
+00:11:25,185 --> 00:11:31,533
+But stories need only a gap, while science needs a chain, and here the chain has no links.
+
+173
+00:11:32,000 --> 00:11:33,408
+All four tests are done.
+
+174
+00:11:33,408 --> 00:11:34,700
+Let's score the bench.
+
+175
+00:11:35,166 --> 00:11:36,408
+The bench report.
+
+176
+00:11:36,408 --> 00:11:38,600
+Time to score the Nimrud lens.
+
+177
+00:11:39,066 --> 00:11:43,001
+A genuine rock crystal lens from Nimrud: evidence.
+
+178
+00:11:43,001 --> 00:11:46,463
+Roughly three times magnification: evidence.
+
+179
+00:11:46,463 --> 00:11:50,792
+Use as a magnifier for fine work: possible, not proven.
+
+180
+00:11:50,792 --> 00:11:54,333
+Use as a burning glass: possible, not proven.
+
+181
+00:11:54,799 --> 00:11:58,774
+Use as a decorative inlay: the leading explanation.
+
+182
+00:11:58,774 --> 00:12:01,502
+An Assyrian telescope: no evidence.
+
+183
+00:12:01,502 --> 00:12:05,866
+Saturn's rings in serpent myth: doubtful, a coincidence.
+
+184
+00:12:06,333 --> 00:12:07,215
+The verdict.
+
+185
+00:12:07,215 --> 00:12:09,199
+Real lens, not a telescope.
+
+186
+00:12:09,199 --> 00:12:18,090
+The Nimrud crystal is a genuine optical object, but the telescope idea needs a second lens, a tube, and a written record.
+
+187
+00:12:18,090 --> 00:12:19,633
+We have none of them.
+
+188
+00:12:20,100 --> 00:12:22,577
+And that is still a wonderful thing.
+
+189
+00:12:22,577 --> 00:12:29,666
+A piece of crystal, shaped by hand three thousand years ago, can still bend light on a workbench today.
+
+190
+00:12:30,133 --> 00:12:36,913
+Next case: a man in nineteen forty-eight chased a UFO in his fighter plane and never came home.
+
+191
+00:12:36,913 --> 00:12:39,483
+What did Captain Mantell really see?
+
+192
+00:12:39,483 --> 00:12:42,195
+January seventh, nineteen forty-eight.
+
+193
+00:12:42,195 --> 00:12:48,833
+A Kentucky Air National Guard pilot, a P-51 Mustang, and something shining over Godman Field.
+
+194
+00:12:49,299 --> 00:12:53,013
+Do you think the Assyrians were hiding a secret instrument?
+
+195
+00:12:53,013 --> 00:12:58,299
+Tell us in the comments, and subscribe for the next ancient mystery put to the test.

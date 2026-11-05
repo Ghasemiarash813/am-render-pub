@@ -1,0 +1,1470 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a small oval disc of clear rock crystal, thick, slightly yellowed, with a rough ground surface resting on black velvet, lit by a warm lamp, macro, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is smaller than a matchbox. A disc of rock crystal, three thousand years old, sitting in a case in the British Museum. And some people say it proves the Assyrians had a telescope. The label calls it the Nimrud lens, or the Layard lens, and people have argued about it for well over a hundred and seventy years."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is smaller than a matchbox. A disc of rock crystal, three thousand years old, sitting in a case in the British Museum. And some people say it proves the Assyrians had a telescope. The label calls it the Nimrud lens, or the Layard lens, and people have argued about it for well over a hundred and seventy years.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 20.4
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal Assyrian carved stone relief of a winged guardian in a museum, dramatic side light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If that were true, the history of astronomy would need rewriting by nearly twenty-five centuries. Every school textbook on optics would need a new first chapter. So today, we put the crystal on the bench."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If that were true, the history of astronomy would need rewriting by nearly twenty-five centuries. Every school textbook on optics would need a new first chapter. So today, we put the crystal on the bench.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.488
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a hand holding a small oval disc of clear rock crystal, thick, slightly yellowed, with a rough ground surface over a page of tiny ancient cuneiform-like marks, blank, macro, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Four tests. Can it magnify? Can it burn? Can it see Saturn? Or is it just a pretty piece of jewellery? I'll tell you now, the answer is not what the headlines said. But it is more interesting than the boring version."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Four tests. Can it magnify? Can it burn? Can it see Saturn? Or is it just a pretty piece of jewellery? I'll tell you now, the answer is not what the headlines said. But it is more interesting than the boring version.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 14.016
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal close-up of a clay tablet covered in wedge-shaped marks under lamp light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Facts first, theories labelled, and no claim gets a free pass. Every test earns one mark: evidence, possible, doubtful, or no evidence. We add them up at the end. Bench is open."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Facts first, theories labelled, and no claim gets a free pass. Every test earns one mark: evidence, possible, doubtful, or no evidence. We add them up at the end. Bench is open.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cinematic photoreal a dark workbench under a single warm lamp with a rock crystal lens, a ruler, a notebook with blank pages and a small brass lamp, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Let's begin where the object itself begins: in the ground."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Let's begin where the object itself begins: in the ground.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 3.816
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal the ruins of an ancient Assyrian palace at Nimrud in Iraq, mud-brick walls and carved stone relief slabs, dusty desert light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter one. The find. Nimrud, in what is now northern Iraq, was an Assyrian capital nearly three thousand years ago. King Ashurnasirpal the Second moved his court there around eight seventy-nine BC, and built a vast palace lined with carved stone reliefs."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "I \u00b7 THE FIND",
+   "Dug Out of Nimrud",
+   "NIMRUD \u00b7 1850"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter one. The find. Nimrud, in what is now northern Iraq, was an Assyrian capital nearly three thousand years ago. King Ashurnasirpal the Second moved his court there around eight seventy-nine BC, and built a vast palace lined with carved stone reliefs.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 18.888
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a Victorian English archaeologist in a frock coat and hat directing Arab workmen with baskets at an excavation trench, 1850, sepia desert light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In eighteen fifty, the British explorer Austen Henry Layard was digging there, uncovering palaces for the British Museum. He was a diplomat and adventurer with no formal training, and his books on Nimrud and Nineveh became bestsellers in Victorian Britain."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In eighteen fifty, the British explorer Austen Henry Layard was digging there, uncovering palaces for the British Museum. He was a diplomat and adventurer with no formal training, and his books on Nimrud and Nineveh became bestsellers in Victorian Britain.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 17.232
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal old brown leather-bound Victorian book lying open on a desk, blank pages, ink bottle and quill, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He later wrote that among glass bowls in one room he found a rock crystal lens, buried beneath fragments of glass that looked like the enamel of an object that had rotted away."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He later wrote that among glass bowls in one room he found a rock crystal lens, buried beneath fragments of glass that looked like the enamel of an object that had rotted away.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a pile of small fragments of ancient glass and crystal in dusty earth, trowel beside them, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That detail matters. The lens was lying with decayed material, perhaps wood or ivory, and not on a shelf of scientific instruments. Remember that. A lens in a pile of rotted furniture tells a very different story from a lens in a box of instruments."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That detail matters. The lens was lying with decayed material, perhaps wood or ivory, and not on a shelf of scientific instruments. Remember that. A lens in a pile of rotted furniture tells a very different story from a lens in a box of instruments.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 17.688
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal Assyrian king in profile carved in stone relief, bearded, with a tall headdress, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The palace belonged to the age of the great Assyrian kings, and the lens is dated to roughly seven fifty to seven ten BC. That is the age of Sargon the Second and his son Sennacherib, who turned Nineveh into a giant city."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The palace belonged to the age of the great Assyrian kings, and the lens is dated to roughly seven fifty to seven ten BC. That is the age of Sargon the Second and his son Sennacherib, who turned Nineveh into a giant city.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 16.344
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a wooden crate being packed with straw in a Victorian warehouse, ancient artifacts shipping to England, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It travelled to London with the rest of the finds, and it was entered into the museum's collection. Today it is registered in the British Museum database under the number ninety thousand nine hundred fifty-nine."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It travelled to London with the rest of the finds, and it was entered into the museum's collection. Today it is registered in the British Museum database under the number ninety thousand nine hundred fifty-nine.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 13.056
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a Victorian Scottish physicist, elderly, in a study with prisms and lenses, portrait, candlelight, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In eighteen fifty-two, the Scottish scientist David Brewster examined it and presented a report on the crystal. Brewster was famous for his work on light, and he invented the kaleidoscope. If anyone could judge a lens, it was him."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In eighteen fifty-two, the Scottish scientist David Brewster examined it and presented a report on the crystal. Brewster was famous for his work on light, and he invented the kaleidoscope. If anyone could judge a lens, it was him.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 15.312
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cinematic photoreal a rock crystal lens on a Victorian wooden table beside a brass microscope, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Brewster measured what he could. And that is where our numbers come from."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Brewster measured what he could. And that is where our numbers come from.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 4.032
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a brass vernier calliper measuring a small crystal disc on a workbench, macro, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter two. The measurements. The disc is about thirty-eight millimetres long and twenty-three wide. Roughly the size of a large coin."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 THE SPECS",
+   "What It Really Is",
+   "38 MM \u00b7 ROCK CRYSTAL"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter two. The measurements. The disc is about thirty-eight millimetres long and twenty-three wide. Roughly the size of a large coin.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 9.12
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a thick plano-convex crystal lens seen from the side, one face flat and one curved, on black, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One side is flat and the other is curved, which makes it a plano-convex lens. In physics terms, that is the basic shape of a magnifying glass."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One side is flat and the other is curved, which makes it a plano-convex lens. In physics terms, that is the basic shape of a magnifying glass.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 10.08
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a ray diagram sketched in pencil on blank paper with a ruler, no writing, lamp light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its focal length is about twelve centimetres. That makes it a magnifier of around three times. Enough to read small writing, but not much more. For comparison, a cheap modern reading glass has about the same power."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its focal length is about twelve centimetres. That makes it a magnifier of around three times. Enough to read small writing, but not much more. For comparison, a cheap modern reading glass has about the same power.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 14.76
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal macro of the rough ground surface of a rock crystal with tiny scratches and cloudy bubbles, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The surface is rough. It was ground by hand, probably with abrasive, and not polished to a perfect curve."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The surface is rough. It was ground by hand, probably with abrasive, and not polished to a perfect curve.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 7.056
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal close-up of tiny cloudy cavities inside natural quartz crystal, light passing through, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inside there are small cavities and flaws. Natural rock crystal almost always has them, and they blur an image. Those flaws are not bad craft. They are what natural crystal looks like when it is ground by hand, without machines."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inside there are small cavities and flaws. Natural rock crystal almost always has them, and they blur an image. Those flaws are not bad craft. They are what natural crystal looks like when it is ground by hand, without machines.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 15.744
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a perfectly clear modern glass lens beside the old yellowed crystal lens for comparison, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the best description is an honest one. A real lens, but a rough one. It focuses light, though not well."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the best description is an honest one. A real lens, but a rough one. It focuses light, though not well.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 7.296
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Cinematic photoreal hand lifting the crystal lens up toward a window light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which brings us to the first test. Can it magnify?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which brings us to the first test. Can it magnify?",
+    "file": "ep/audio/s20.mp3",
+    "dur": 3.408
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a Neo-Assyrian cylinder seal being rolled into soft clay, tiny detailed carved figures, macro, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter three. The magnifier. Assyrian craftsmen carved cylinder seals with astonishing tiny detail, some of it only a millimetre across. Whole scenes of kings, gods, and animals were packed into a space smaller than a thumb."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 TEST ONE",
+   "Can It Magnify?",
+   "MAGNIFIER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter three. The magnifier. Assyrian craftsmen carved cylinder seals with astonishing tiny detail, some of it only a millimetre across. Whole scenes of kings, gods, and animals were packed into a space smaller than a thumb.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 16.536
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal an ancient craftsman's hands carving a tiny seal by lamplight in a workshop, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layard himself suspected that very small inscriptions on Assyrian objects must have been made with help from a lens."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layard himself suspected that very small inscriptions on Assyrian objects must have been made with help from a lens.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a man looking at a tiny carved stone seal through a crystal disc, macro, warm light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And it does work. Hold the crystal close and tiny details do enlarge, about three times."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And it does work. Hold the crystal close and tiny details do enlarge, about three times.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 6.24
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a folded newspaper page seen through a crystal disc, the blank grey lines of text swelling and bending at the edges, macro, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Picture a newspaper under the lens. The letters swell to three times their size, but the edges blur and the lines bend. Useful to a jeweller, perhaps. Not much use to a stargazer."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Picture a newspaper under the lens. The letters swell to three times their size, but the edges blur and the lines bend. Useful to a jeweller, perhaps. Not much use to a stargazer.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a bench setup with the crystal lens held above a blank page of fine marks, soft lamp, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But does that prove it was used that way? Not on its own. Fine work can also be done by trained eyes, and by simply looking very close."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But does that prove it was used that way? Not on its own. Fine work can also be done by trained eyes, and by simply looking very close.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 9.024
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal an elderly craftsman squinting at a tiny carving by oil lamp, ancient Near East, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Craftspeople without any lens have carved fine detail in many cultures. So we mark this test: possible, plausible, unproven. And that is the key distinction in this entire case. Possible is not the same as proven."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Craftspeople without any lens have carved fine detail in many cultures. So we mark this test: possible, plausible, unproven. And that is the key distinction in this entire case. Possible is not the same as proven.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 15.792
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cinematic photoreal sunlight streaming through a small window onto a workbench with a crystal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now to the second test. Sunlight. Can it burn?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now to the second test. Sunlight. Can it burn?",
+    "file": "ep/audio/s27.mp3",
+    "dur": 3.096
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a beam of desert sunlight focusing through a crystal onto a dry twig, tiny smoke curl, macro, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter four. The burning glass. A lens that focuses light can start a fire, and this is an old explanation for lenses like this one."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "IV \u00b7 TEST TWO",
+   "Can It Burn?",
+   "BURNING GLASS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter four. The burning glass. A lens that focuses light can start a fire, and this is an old explanation for lenses like this one.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a bright small spot of focused sunlight on a piece of dark wood, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Rock crystal does that. The Greek writer Aristophanes mentions a burning glass in the fifth century BC, and later authors describe the same trick. In the first century AD, Pliny the Elder wrote that crystal balls held in the sun can scorch cloth."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Rock crystal does that. The Greek writer Aristophanes mentions a burning glass in the fifth century BC, and later authors describe the same trick. In the first century AD, Pliny the Elder wrote that crystal balls held in the sun can scorch cloth.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 17.736
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal ancient Roman writer's scroll lying on a stone table, blank, with a glass sphere, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the idea is not far-fetched. People in the ancient world knew that a clear crystal could light a flame. But those texts come centuries after the Nimrud lens was buried. We cannot simply assume the Assyrians did the same."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the idea is not far-fetched. People in the ancient world knew that a clear crystal could light a flame. But those texts come centuries after the Nimrud lens was buried. We cannot simply assume the Assyrians did the same.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 15.144
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a focused spot of sunlight on tinder at the focal distance, twelve centimetres from a crystal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "With a twelve centimetre focus, the Nimrud lens can concentrate light into a bright spot. Whether it was meant for that, nobody can say."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "With a twelve centimetre focus, the Nimrud lens can concentrate light into a bright spot. Whether it was meant for that, nobody can say.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 9.216
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a bright desert courtyard at noon with a man holding a crystal disc steady over a pile of dry grass, shadows sharp, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is a practical catch. The lens must be held about twelve centimetres from the tinder, in strong direct sun, and kept perfectly still. It works. But a fire drill needs no sun at all."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is a practical catch. The lens must be held about twelve centimetres from the tinder, in strong direct sun, and kept perfectly still. It works. But a fire drill needs no sun at all.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.84
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a cold fire pit in an ancient palace courtyard with a clay lamp beside it, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Assyrians certainly knew how to make fire. There is no text saying they used a lens for it."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Assyrians certainly knew how to make fire. There is no text saying they used a lens for it.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 5.856
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Cinematic photoreal a night sky full of stars above ancient ruins, Saturn bright, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which leaves the big claim. The telescope."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which leaves the big claim. The telescope.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 2.64
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a night sky over a desert with the ringed planet Saturn bright, ancient ruins in silhouette, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter five. The telescope. In nineteen ninety-nine, an Italian scholar, Giovanni Pettinato of the University of Rome, made headlines."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "V \u00b7 TEST THREE",
+   "Can It See Saturn?",
+   "TELESCOPE CLAIM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter five. The telescope. In nineteen ninety-nine, an Italian scholar, Giovanni Pettinato of the University of Rome, made headlines.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a late nineteen nineties television newsroom with blank monitors and a presenter desk, cool light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The BBC ran the story in July nineteen ninety-nine under the headline, World's oldest telescope, with a question mark. That question mark turned out to be the most honest part."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The BBC ran the story in July nineteen ninety-nine under the headline, World's oldest telescope, with a question mark. That question mark turned out to be the most honest part.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 12.456
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a professor in an office in Rome with ancient tablet photographs on the wall, thoughtful, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He suggested that the Assyrians used the crystal as part of a telescope, and that this explains their knowledge of astronomy."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He suggested that the Assyrians used the crystal as part of a telescope, and that this explains their knowledge of astronomy.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 8.016
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a carved Assyrian relief of a god surrounded by serpents, museum light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His strongest hint was Saturn. Assyrians described the planet as a god surrounded by a ring of serpents. Could that be the rings?"
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His strongest hint was Saturn. Assyrians described the planet as a god surrounded by a ring of serpents. Could that be the rings?",
+    "file": "ep/audio/s38.mp3",
+    "dur": 9.096
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a modern telescope view of Saturn with sharp rings, black space, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Saturn's rings are hard to see. Galileo's first telescope, in sixteen ten, only showed odd bumps on the sides. Galileo even wrote that Saturn seemed to have ears. It took until sixteen fifty-nine for Christiaan Huygens to work out that the bumps were a ring."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Saturn's rings are hard to see. Galileo's first telescope, in sixteen ten, only showed odd bumps on the sides. Galileo even wrote that Saturn seemed to have ears. It took until sixteen fifty-nine for Christiaan Huygens to work out that the bumps were a ring.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 18.288
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a seventeenth century Italian astronomer with a small brass telescope on a rooftop at dusk, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And Galileo's telescope had two lenses and a magnification of around twenty. One small crystal gives three. That is less than a seventh of Galileo's power."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And Galileo's telescope had two lenses and a magnification of around twenty. One small crystal gives three. That is less than a seventh of Galileo's power.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a single crystal lens held in the air, a distant star behind it blurred, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "To make a telescope you need at least two lenses, and a way to hold them in line. No tube, no second lens, and no mount has ever been found."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To make a telescope you need at least two lenses, and a way to hold them in line. No tube, no second lens, and no mount has ever been found.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 9.48
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a long brass tube on a workbench next to two separate glass lenses and a wooden stand, lamp light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So let us be generous. Suppose the Assyrians did have a second lens and a tube. They would still need a steady mount, and a much clearer image than this crystal can give."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So let us be generous. Suppose the Assyrians did have a second lens and a tube. They would still need a steady mount, and a much clearer image than this crystal can give.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a flat clay tablet with astronomical observations in wedge writing, museum shelf, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Assyrian astronomers left thousands of tablets. They track planets, eclipses, and omens in great detail. None of them mentions a telescope. Babylonian astronomical diaries, kept night after night for centuries, record where Saturn was. They never describe its shape."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Assyrian astronomers left thousands of tablets. They track planets, eclipses, and omens in great detail. None of them mentions a telescope. Babylonian astronomical diaries, kept night after night for centuries, record where Saturn was. They never describe its shape.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 18.672
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a dark Assyrian relief of serpents coiled in a pattern, stone, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And serpents turn up everywhere in Assyrian myth. Reading them as Saturn's rings is a coincidence searching for a meaning."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And serpents turn up everywhere in Assyrian myth. Reading them as Saturn's rings is a coincidence searching for a meaning.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 8.376
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a blurry smear of light seen through a rough old crystal lens, abstract soft focus, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Optical experts add one more problem. The lens is rough and flawed, and the image it makes is poor. Even a good second lens would not rescue it."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Optical experts add one more problem. The lens is rough and flawed, and the image it makes is poor. Even a good second lens would not rescue it.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Cinematic photoreal a quiet museum gallery at night with a glass case lit from within, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the telescope test fails. Which leaves the dullest explanation."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the telescope test fails. Which leaves the dullest explanation.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 4.392
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a museum curator in white gloves holding a small velvet tray with the crystal, close-up of hands, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter six. The inlay. The British Museum curators say the lens may simply have been a decorative inlay, perhaps for furniture."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI \u00b7 TEST FOUR",
+   "Was It Jewellery?",
+   "INLAY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter six. The inlay. The British Museum curators say the lens may simply have been a decorative inlay, perhaps for furniture.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal an ancient ivory panel inlaid with coloured glass and crystal pieces, Near Eastern style, museum, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That fits how it was found. Assyrian palaces held rich ivory furniture, inlaid with glass and crystal that shimmered in lamp light."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That fits how it was found. Assyrian palaces held rich ivory furniture, inlaid with glass and crystal that shimmered in lamp light.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a fine Assyrian ivory carving fragment with gold leaf, museum lighting, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layard noted the decayed material around it. Wood or ivory objects often rot, and leave their inlays scattered in the earth."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layard noted the decayed material around it. Wood or ivory objects often rot, and leave their inlays scattered in the earth.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 8.952
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal an archaeologist's hands brushing dust from a tiny find in a trench, trowel and brush, sunlight, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is a rule of thumb in archaeology. When a find has no label and no text, experts reach for the explanation that needs the fewest assumptions. For a lens inside decayed furniture, that is inlay. Less thrilling than a telescope, but it fits."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is a rule of thumb in archaeology. When a find has no label and no text, experts reach for the explanation that needs the fewest assumptions. For a lens inside decayed furniture, that is inlay. Less thrilling than a telescope, but it fits.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 16.92
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal an ancient wooden throne with bright inlay, reconstructed, soft light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A rounded crystal makes a perfect eye for a carved figure. Shiny, domed, and eye-catching."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A rounded crystal makes a perfect eye for a carved figure. Shiny, domed, and eye-catching.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 6.288
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal small domed crystal eyes set in an ancient statue face, close-up, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is not a guess made up from nothing. Domed crystal eyes are known across the ancient Near East and Egypt."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is not a guess made up from nothing. Domed crystal eyes are known across the ancient Near East and Egypt.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 7.296
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal the same crystal disc under a lamp with a faint warm halo, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Still, the curators admit one thing. No evidence shows what it was for. Inlay is the simplest explanation, not a proven one."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Still, the curators admit one thing. No evidence shows what it was for. Inlay is the simplest explanation, not a proven one.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 8.76
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Cinematic photoreal a pair of old brass scales on a table balancing a crystal against a small stone, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to weigh the evidence. Not just for this lens, but for similar finds."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to weigh the evidence. Not just for this lens, but for similar finds.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 4.872
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal the Mediterranean sea with a Viking era trading ship at sunset, ancient trade route, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter seven. The wider picture. Lenses turn up elsewhere. The Visby lenses, from a Viking site in Sweden, are far better shaped."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII \u00b7 THE CONTEXT",
+   "Other Ancient Lenses",
+   "VISBY \u00b7 CRETE \u00b7 EGYPT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter seven. The wider picture. Lenses turn up elsewhere. The Visby lenses, from a Viking site in Sweden, are far better shaped.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a small polished rock crystal lens with a smooth curve in a museum tray, Viking era, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But Visby lenses date to around a thousand years ago, and nobody claims they were telescopes either."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But Visby lenses date to around a thousand years ago, and nobody claims they were telescopes either.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 6.336
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a hieroglyph-carved Egyptian statue with bright crystal eyes in a museum, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The ancient world loved crystal. It carved it, polished it, and set it in eyes and jewellery. Most of it was jewellery, seals, and eyes for statues. A few pieces happen to be curved, so they happen to bend light."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The ancient world loved crystal. It carved it, polished it, and set it in eyes and jewellery. Most of it was jewellery, seals, and eyes for statues. A few pieces happen to be curved, so they happen to bend light.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 14.328
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a medieval monk reading with a reading stone on a manuscript, candle light, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Real lens use is only well documented much later. Reading stones appear around the eleventh century. Spectacles come in the thirteenth."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Real lens use is only well documented much later. Reading stones appear around the eleventh century. Spectacles come in the thirteenth.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a pair of early medieval iron-framed spectacles on a wooden table, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The first true telescope is credited to Dutch spectacle makers in sixteen oh eight. That gap is large, and nothing in between suggests a hidden tradition."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The first true telescope is credited to Dutch spectacle makers in sixteen oh eight. That gap is large, and nothing in between suggests a hidden tradition.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal an old astronomy book lying open on a desk with a hand-drawn ringed planet, candle light, blank captions, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So why does the telescope idea refuse to die? Because it is a good story. A small object, a famous planet, and a hint of lost knowledge. But stories need only a gap, while science needs a chain, and here the chain has no links."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So why does the telescope idea refuse to die? Because it is a good story. A small object, a famous planet, and a hint of lost knowledge. But stories need only a gap, while science needs a chain, and here the chain has no links.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 15.768
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Cinematic photoreal a detective-style bench with the crystal lens, a notebook, and four small cards laid out, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "All four tests are done. Let's score the bench."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "All four tests are done. Let's score the bench.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 2.688
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum background with a single glowing rock crystal lens far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The bench report. Time to score the Nimrud lens."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "BENCH REPORT",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The bench report. Time to score the Nimrud lens.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 3.432
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum background with a single glowing rock crystal lens far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A genuine rock crystal lens from Nimrud: evidence. Roughly three times magnification: evidence. Use as a magnifier for fine work: possible, not proven. Use as a burning glass: possible, not proven."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A genuine rock crystal lens from Nimrud: evidence. Roughly three times magnification: evidence. Use as a magnifier for fine work: possible, not proven. Use as a burning glass: possible, not proven.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 15.264
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark museum background with a single glowing rock crystal lens far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Use as a decorative inlay: the leading explanation. An Assyrian telescope: no evidence. Saturn's rings in serpent myth: doubtful, a coincidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Use as a decorative inlay: the leading explanation. An Assyrian telescope: no evidence. Saturn's rings in serpent myth: doubtful, a coincidence.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 11.04
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cinematic photoreal a small oval disc of clear rock crystal, thick, slightly yellowed, with a rough ground surface in a dark museum case with a single beam of warm light, calm, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Real lens, not a telescope. The Nimrud crystal is a genuine optical object, but the telescope idea needs a second lens, a tube, and a written record. We have none of them."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Real lens, not a telescope. The Nimrud crystal is a genuine optical object, but the telescope idea needs a second lens, a tube, and a written record. We have none of them.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a quiet Assyrian palace relief hall with soft golden light and a visitor looking at a small glass case, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that is still a wonderful thing. A piece of crystal, shaped by hand three thousand years ago, can still bend light on a workbench today."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that is still a wonderful thing. A piece of crystal, shaped by hand three thousand years ago, can still bend light on a workbench today.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic photoreal a World War Two P-51 Mustang fighter climbing into a bright winter sky toward a distant glowing object, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a man in nineteen forty-eight chased a UFO in his fighter plane and never came home. What did Captain Mantell really see? January seventh, nineteen forty-eight. A Kentucky Air National Guard pilot, a P-51 Mustang, and something shining over Godman Field."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a man in nineteen forty-eight chased a UFO in his fighter plane and never came home. What did Captain Mantell really see? January seventh, nineteen forty-eight. A Kentucky Air National Guard pilot, a P-51 Mustang, and something shining over Godman Field.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 18.672
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Cinematic photoreal dark end card background with one small glowing crystal disc in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Do you think the Assyrians were hiding a secret instrument? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Do you think the Assyrians were hiding a secret instrument? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s68.mp3",
+    "dur": 8.976
+   }
+  ]
+ }
+]

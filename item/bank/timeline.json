@@ -1,0 +1,1400 @@
+{
+ "fps": 30,
+ "total": 23446,
+ "xf": 18,
+ "titleAfter": 4,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 644,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is smaller than a matchbox. A disc of rock crystal, three thousand years old, sitting in a case in the British Museum. And some people say it proves the Assyrians had a telescope. The label calls it the Nimrud lens, or the Layard lens, and people have argued about it for well over a hundred and seventy years.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 20.4,
+     "start": 10,
+     "end": 622
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 626,
+   "end": 1063,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If that were true, the history of astronomy would need rewriting by nearly twenty-five centuries. Every school textbook on optics would need a new first chapter. So today, we put the crystal on the bench.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 13.488,
+     "start": 636,
+     "end": 1041
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 1045,
+   "end": 1498,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Four tests. Can it magnify? Can it burn? Can it see Saturn? Or is it just a pretty piece of jewellery? I'll tell you now, the answer is not what the headlines said. But it is more interesting than the boring version.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 14.016,
+     "start": 1055,
+     "end": 1476
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1480,
+   "end": 2005,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Facts first, theories labelled, and no claim gets a free pass. Every test earns one mark: evidence, possible, doubtful, or no evidence. We add them up at the end. Bench is open.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 12.408,
+     "start": 1490,
+     "end": 1863
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1987,
+   "end": 2134,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Let's begin where the object itself begins: in the ground.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 3.816,
+     "start": 1997,
+     "end": 2112
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 THE FIND",
+    "Dug Out of Nimrud",
+    "NIMRUD \u00b7 1850"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 2116,
+   "end": 2715,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter one. The find. Nimrud, in what is now northern Iraq, was an Assyrian capital nearly three thousand years ago. King Ashurnasirpal the Second moved his court there around eight seventy-nine BC, and built a vast palace lined with carved stone reliefs.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 18.888,
+     "start": 2126,
+     "end": 2693
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2697,
+   "end": 3246,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In eighteen fifty, the British explorer Austen Henry Layard was digging there, uncovering palaces for the British Museum. He was a diplomat and adventurer with no formal training, and his books on Nimrud and Nineveh became bestsellers in Victorian Britain.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 17.232,
+     "start": 2707,
+     "end": 3224
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 3228,
+   "end": 3615,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He later wrote that among glass bowls in one room he found a rock crystal lens, buried beneath fragments of glass that looked like the enamel of an object that had rotted away.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 11.832,
+     "start": 3238,
+     "end": 3593
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3597,
+   "end": 4160,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That detail matters. The lens was lying with decayed material, perhaps wood or ivory, and not on a shelf of scientific instruments. Remember that. A lens in a pile of rotted furniture tells a very different story from a lens in a box of instruments.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 17.688,
+     "start": 3607,
+     "end": 4138
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 4142,
+   "end": 4665,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The palace belonged to the age of the great Assyrian kings, and the lens is dated to roughly seven fifty to seven ten BC. That is the age of Sargon the Second and his son Sennacherib, who turned Nineveh into a giant city.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 16.344,
+     "start": 4152,
+     "end": 4643
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 4647,
+   "end": 5071,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It travelled to London with the rest of the finds, and it was entered into the museum's collection. Today it is registered in the British Museum database under the number ninety thousand nine hundred fifty-nine.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 13.056,
+     "start": 4657,
+     "end": 5049
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 5053,
+   "end": 5545,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In eighteen fifty-two, the Scottish scientist David Brewster examined it and presented a report on the crystal. Brewster was famous for his work on light, and he invented the kaleidoscope. If anyone could judge a lens, it was him.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 15.312,
+     "start": 5063,
+     "end": 5523
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 5527,
+   "end": 5680,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Brewster measured what he could. And that is where our numbers come from.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 4.032,
+     "start": 5537,
+     "end": 5658
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II \u00b7 THE SPECS",
+    "What It Really Is",
+    "38 MM \u00b7 ROCK CRYSTAL"
+   ],
+   "img": "ep/img/shot_14.jpg",
+   "start": 5662,
+   "end": 5968,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter two. The measurements. The disc is about thirty-eight millimetres long and twenty-three wide. Roughly the size of a large coin.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 9.12,
+     "start": 5672,
+     "end": 5946
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5950,
+   "end": 6285,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One side is flat and the other is curved, which makes it a plano-convex lens. In physics terms, that is the basic shape of a magnifying glass.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 10.08,
+     "start": 5960,
+     "end": 6263
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 6267,
+   "end": 6742,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Its focal length is about twelve centimetres. That makes it a magnifier of around three times. Enough to read small writing, but not much more. For comparison, a cheap modern reading glass has about the same power.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 14.76,
+     "start": 6277,
+     "end": 6720
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 6724,
+   "end": 6968,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The surface is rough. It was ground by hand, probably with abrasive, and not polished to a perfect curve.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 7.056,
+     "start": 6734,
+     "end": 6946
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6950,
+   "end": 7455,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside there are small cavities and flaws. Natural rock crystal almost always has them, and they blur an image. Those flaws are not bad craft. They are what natural crystal looks like when it is ground by hand, without machines.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 15.744,
+     "start": 6960,
+     "end": 7433
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 7437,
+   "end": 7688,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the best description is an honest one. A real lens, but a rough one. It focuses light, though not well.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 7.296,
+     "start": 7447,
+     "end": 7666
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7670,
+   "end": 7805,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which brings us to the first test. Can it magnify?",
+     "file": "ep/audio/s20.mp3",
+     "dur": 3.408,
+     "start": 7680,
+     "end": 7783
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III \u00b7 TEST ONE",
+    "Can It Magnify?",
+    "MAGNIFIER"
+   ],
+   "img": "ep/img/shot_21.jpg",
+   "start": 7787,
+   "end": 8316,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter three. The magnifier. Assyrian craftsmen carved cylinder seals with astonishing tiny detail, some of it only a millimetre across. Whole scenes of kings, gods, and animals were packed into a space smaller than a thumb.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 16.536,
+     "start": 7797,
+     "end": 8294
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 8298,
+   "end": 8580,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layard himself suspected that very small inscriptions on Assyrian objects must have been made with help from a lens.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 8.304,
+     "start": 8308,
+     "end": 8558
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8562,
+   "end": 8782,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And it does work. Hold the crystal close and tiny details do enlarge, about three times.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 6.24,
+     "start": 8572,
+     "end": 8760
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8764,
+   "end": 9183,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Picture a newspaper under the lens. The letters swell to three times their size, but the edges blur and the lines bend. Useful to a jeweller, perhaps. Not much use to a stargazer.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 12.888,
+     "start": 8774,
+     "end": 9161
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9165,
+   "end": 9468,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But does that prove it was used that way? Not on its own. Fine work can also be done by trained eyes, and by simply looking very close.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 9.024,
+     "start": 9175,
+     "end": 9446
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9450,
+   "end": 9956,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Craftspeople without any lens have carved fine detail in many cultures. So we mark this test: possible, plausible, unproven. And that is the key distinction in this entire case. Possible is not the same as proven.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 15.792,
+     "start": 9460,
+     "end": 9934
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9938,
+   "end": 10063,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now to the second test. Sunlight. Can it burn?",
+     "file": "ep/audio/s27.mp3",
+     "dur": 3.096,
+     "start": 9948,
+     "end": 10041
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "IV \u00b7 TEST TWO",
+    "Can It Burn?",
+    "BURNING GLASS"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 10045,
+   "end": 10360,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter four. The burning glass. A lens that focuses light can start a fire, and this is an old explanation for lenses like this one.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 9.432,
+     "start": 10055,
+     "end": 10338
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 10342,
+   "end": 10907,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Rock crystal does that. The Greek writer Aristophanes mentions a burning glass in the fifth century BC, and later authors describe the same trick. In the first century AD, Pliny the Elder wrote that crystal balls held in the sun can scorch cloth.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 17.736,
+     "start": 10352,
+     "end": 10885
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10889,
+   "end": 11376,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the idea is not far-fetched. People in the ancient world knew that a clear crystal could light a flame. But those texts come centuries after the Nimrud lens was buried. We cannot simply assume the Assyrians did the same.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 15.144,
+     "start": 10899,
+     "end": 11354
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11358,
+   "end": 11667,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "With a twelve centimetre focus, the Nimrud lens can concentrate light into a bright spot. Whether it was meant for that, nobody can say.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 9.216,
+     "start": 11368,
+     "end": 11645
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11649,
+   "end": 12067,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a practical catch. The lens must be held about twelve centimetres from the tinder, in strong direct sun, and kept perfectly still. It works. But a fire drill needs no sun at all.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.84,
+     "start": 11659,
+     "end": 12045
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12049,
+   "end": 12257,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Assyrians certainly knew how to make fire. There is no text saying they used a lens for it.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 5.856,
+     "start": 12059,
+     "end": 12235
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12239,
+   "end": 12351,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which leaves the big claim. The telescope.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 2.64,
+     "start": 12249,
+     "end": 12329
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "V \u00b7 TEST THREE",
+    "Can It See Saturn?",
+    "TELESCOPE CLAIM"
+   ],
+   "img": "ep/img/shot_35.jpg",
+   "start": 12333,
+   "end": 12666,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter five. The telescope. In nineteen ninety-nine, an Italian scholar, Giovanni Pettinato of the University of Rome, made headlines.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 10.032,
+     "start": 12343,
+     "end": 12644
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 12648,
+   "end": 13054,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The BBC ran the story in July nineteen ninety-nine under the headline, World's oldest telescope, with a question mark. That question mark turned out to be the most honest part.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 12.456,
+     "start": 12658,
+     "end": 13032
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 13036,
+   "end": 13309,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He suggested that the Assyrians used the crystal as part of a telescope, and that this explains their knowledge of astronomy.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 8.016,
+     "start": 13046,
+     "end": 13287
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 13291,
+   "end": 13596,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His strongest hint was Saturn. Assyrians described the planet as a god surrounded by a ring of serpents. Could that be the rings?",
+     "file": "ep/audio/s38.mp3",
+     "dur": 9.096,
+     "start": 13301,
+     "end": 13574
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 13578,
+   "end": 14159,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Saturn's rings are hard to see. Galileo's first telescope, in sixteen ten, only showed odd bumps on the sides. Galileo even wrote that Saturn seemed to have ears. It took until sixteen fifty-nine for Christiaan Huygens to work out that the bumps were a ring.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 18.288,
+     "start": 13588,
+     "end": 14137
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14141,
+   "end": 14510,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And Galileo's telescope had two lenses and a magnification of around twenty. One small crystal gives three. That is less than a seventh of Galileo's power.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 11.208,
+     "start": 14151,
+     "end": 14488
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 14492,
+   "end": 14809,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "To make a telescope you need at least two lenses, and a way to hold them in line. No tube, no second lens, and no mount has ever been found.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 9.48,
+     "start": 14502,
+     "end": 14787
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14791,
+   "end": 15153,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So let us be generous. Suppose the Assyrians did have a second lens and a tube. They would still need a steady mount, and a much clearer image than this crystal can give.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 10.992,
+     "start": 14801,
+     "end": 15131
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 15135,
+   "end": 15728,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Assyrian astronomers left thousands of tablets. They track planets, eclipses, and omens in great detail. None of them mentions a telescope. Babylonian astronomical diaries, kept night after night for centuries, record where Saturn was. They never describe its shape.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 18.672,
+     "start": 15145,
+     "end": 15706
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 15710,
+   "end": 15994,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And serpents turn up everywhere in Assyrian myth. Reading them as Saturn's rings is a coincidence searching for a meaning.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 8.376,
+     "start": 15720,
+     "end": 15972
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 15976,
+   "end": 16312,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Optical experts add one more problem. The lens is rough and flawed, and the image it makes is poor. Even a good second lens would not rescue it.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 10.128,
+     "start": 15986,
+     "end": 16290
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 16294,
+   "end": 16458,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the telescope test fails. Which leaves the dullest explanation.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 4.392,
+     "start": 16304,
+     "end": 16436
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VI \u00b7 TEST FOUR",
+    "Was It Jewellery?",
+    "INLAY"
+   ],
+   "img": "ep/img/shot_47.jpg",
+   "start": 16440,
+   "end": 16733,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter six. The inlay. The British Museum curators say the lens may simply have been a decorative inlay, perhaps for furniture.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 8.688,
+     "start": 16450,
+     "end": 16711
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16715,
+   "end": 17022,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That fits how it was found. Assyrian palaces held rich ivory furniture, inlaid with glass and crystal that shimmered in lamp light.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 9.144,
+     "start": 16725,
+     "end": 17000
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 17004,
+   "end": 17305,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layard noted the decayed material around it. Wood or ivory objects often rot, and leave their inlays scattered in the earth.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 8.952,
+     "start": 17014,
+     "end": 17283
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 17287,
+   "end": 17827,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a rule of thumb in archaeology. When a find has no label and no text, experts reach for the explanation that needs the fewest assumptions. For a lens inside decayed furniture, that is inlay. Less thrilling than a telescope, but it fits.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 16.92,
+     "start": 17297,
+     "end": 17805
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 17809,
+   "end": 18030,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A rounded crystal makes a perfect eye for a carved figure. Shiny, domed, and eye-catching.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 6.288,
+     "start": 17819,
+     "end": 18008
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 18012,
+   "end": 18263,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is not a guess made up from nothing. Domed crystal eyes are known across the ancient Near East and Egypt.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 7.296,
+     "start": 18022,
+     "end": 18241
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 18245,
+   "end": 18540,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Still, the curators admit one thing. No evidence shows what it was for. Inlay is the simplest explanation, not a proven one.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 8.76,
+     "start": 18255,
+     "end": 18518
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 18522,
+   "end": 18701,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to weigh the evidence. Not just for this lens, but for similar finds.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 4.872,
+     "start": 18532,
+     "end": 18679
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VII \u00b7 THE CONTEXT",
+    "Other Ancient Lenses",
+    "VISBY \u00b7 CRETE \u00b7 EGYPT"
+   ],
+   "img": "ep/img/shot_55.jpg",
+   "start": 18683,
+   "end": 18990,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter seven. The wider picture. Lenses turn up elsewhere. The Visby lenses, from a Viking site in Sweden, are far better shaped.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 9.144,
+     "start": 18693,
+     "end": 18968
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 18972,
+   "end": 19195,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But Visby lenses date to around a thousand years ago, and nobody claims they were telescopes either.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 6.336,
+     "start": 18982,
+     "end": 19173
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 19177,
+   "end": 19639,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The ancient world loved crystal. It carved it, polished it, and set it in eyes and jewellery. Most of it was jewellery, seals, and eyes for statues. A few pieces happen to be curved, so they happen to bend light.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 14.328,
+     "start": 19187,
+     "end": 19617
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 19621,
+   "end": 19947,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Real lens use is only well documented much later. Reading stones appear around the eleventh century. Spectacles come in the thirteenth.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 9.792,
+     "start": 19631,
+     "end": 19925
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 19929,
+   "end": 20280,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The first true telescope is credited to Dutch spectacle makers in sixteen oh eight. That gap is large, and nothing in between suggests a hidden tradition.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 10.608,
+     "start": 19939,
+     "end": 20258
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 20262,
+   "end": 20768,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So why does the telescope idea refuse to die? Because it is a good story. A small object, a famous planet, and a hint of lost knowledge. But stories need only a gap, while science needs a chain, and here the chain has no links.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 15.768,
+     "start": 20272,
+     "end": 20746
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 20750,
+   "end": 20863,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "All four tests are done. Let's score the bench.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 2.688,
+     "start": 20760,
+     "end": 20841
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "BENCH REPORT",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_62.jpg",
+   "start": 20845,
+   "end": 20980,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The bench report. Time to score the Nimrud lens.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 3.432,
+     "start": 20855,
+     "end": 20958
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 20962,
+   "end": 21452,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A genuine rock crystal lens from Nimrud: evidence. Roughly three times magnification: evidence. Use as a magnifier for fine work: possible, not proven. Use as a burning glass: possible, not proven.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 15.264,
+     "start": 20972,
+     "end": 21430
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 21434,
+   "end": 21798,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Use as a decorative inlay: the leading explanation. An Assyrian telescope: no evidence. Saturn's rings in serpent myth: doubtful, a coincidence.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 11.04,
+     "start": 21444,
+     "end": 21776
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 21780,
+   "end": 22211,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Real lens, not a telescope. The Nimrud crystal is a genuine optical object, but the telescope idea needs a second lens, a tube, and a written record. We have none of them.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 13.296,
+     "start": 21790,
+     "end": 22189
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 22193,
+   "end": 22512,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And that is still a wonderful thing. A piece of crystal, shaped by hand three thousand years ago, can still bend light on a workbench today.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 9.552,
+     "start": 22203,
+     "end": 22490
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 22494,
+   "end": 23087,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a man in nineteen forty-eight chased a UFO in his fighter plane and never came home. What did Captain Mantell really see? January seventh, nineteen forty-eight. A Kentucky Air National Guard pilot, a P-51 Mustang, and something shining over Godman Field.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 18.672,
+     "start": 22504,
+     "end": 23065
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_68.jpg",
+   "start": 23069,
+   "end": 23371,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Do you think the Assyrians were hiding a secret instrument? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s68.mp3",
+     "dur": 8.976,
+     "start": 23079,
+     "end": 23349
+    }
+   ]
+  }
+ ]
+}
