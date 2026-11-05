@@ -1,0 +1,1423 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of the endless white Antarctic ice sheet under a deep blue twilight sky, a tiny orange drilling tower far in the distance, harsh cold light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Under this ice, almost four kilometres down, there is a lake. It has been sealed in darkness for millions of years. And in twenty twelve, humans finally touched it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Under this ice, almost four kilometres down, there is a lake. It has been sealed in darkness for millions of years. And in twenty twelve, humans finally touched it.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 10.896
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal cutaway cinematic illustration of the Antarctic ice sheet in cross section, a dark hidden lake of water deep under miles of ice, a thin drill line reaching down, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some people say it hides a lost ecosystem. Others whisper about secret bases, and creatures from another age. So what is actually down there? And what did the drill really find?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some people say it hides a lost ecosystem. Others whisper about secret bases, and creatures from another age. So what is actually down there? And what did the drill really find?",
+    "file": "ep/audio/s02.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a field expedition logbook open on a metal table beside a thermos and a pencil in a cold hut, frost on the window, blank pages, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we keep a drill log. We start on the surface and go down, metre by metre, and every claim gets weighed."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we keep a drill log. We start on the surface and go down, metre by metre, and every claim gets weighed.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 7.248
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a long steel drill pipe being lowered into a deep hole in the snow, steam rising, cold blue light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Surface. The ice. The drill. The breakthrough. The life. And finally, the myths. Then a verdict."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Surface. The ice. The drill. The breakthrough. The life. And finally, the myths. Then a verdict.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 5.592
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photoreal photograph of a lone figure in a heavy red polar parka standing on a vast white ice plain at dawn, seen from behind, long shadow, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Evidence on one side, theory on the other. Let's go down."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Evidence on one side, theory on the other. Let's go down.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 3.696
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a remote Antarctic research station of low buildings on stilts in blowing snow, extreme cold, pale sky, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Depth zero. The surface. The place is Vostok Station, a Russian base deep in East Antarctica, built in nineteen fifty-seven."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 SURFACE",
+   "The Coldest Place",
+   "STATION \u00b7 COLD \u00b7 LAKE \u00b7 RADAR"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Depth zero. The surface. The place is Vostok Station, a Russian base deep in East Antarctica, built in nineteen fifty-seven.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a thermometer frozen in thick frost on a metal pole in a snowstorm, bleak polar landscape, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is one of the coldest places on Earth. The lowest air temperature ever measured at ground level was recorded here, about minus eighty-nine degrees Celsius, in nineteen eighty-three."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is one of the coldest places on Earth. The lowest air temperature ever measured at ground level was recorded here, about minus eighty-nine degrees Celsius, in nineteen eighty-three.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a Soviet-era scientist in a fur hat in the nineteen sixties looking at a map of ice and mountains in a wooden hut, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the nineteen sixties, a Russian scientist, Andrei Kapitsa, looked at flight survey data and spotted something odd. Flat, smooth ground under the ice. He suggested there was a lake."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the nineteen sixties, a Russian scientist, Andrei Kapitsa, looked at flight survey data and spotted something odd. Flat, smooth ground under the ice. He suggested there was a lake.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of an old propeller aircraft with skis parked on an Antarctic ice plain, crew in parkas, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pilots had already noticed flat, mirror-like radar echoes. The idea sounded absurd. Water, at four kilometres deep, in a land of minus fifty? Most scientists were doubtful."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pilots had already noticed flat, mirror-like radar echoes. The idea sounded absurd. Water, at four kilometres deep, in a land of minus fifty? Most scientists were doubtful.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a satellite in orbit above the white curve of Antarctica, dark space, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, in nineteen ninety-three, satellite radar altimetry showed a huge, perfectly flat patch on the ice surface above it. That is how a floating ice sheet looks over a lake. The lake was real."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, in nineteen ninety-three, satellite radar altimetry showed a huge, perfectly flat patch on the ice surface above it. That is how a floating ice sheet looks over a lake. The lake was real.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal cross-section illustration of a subglacial lake showing thick ice above, liquid water, and bedrock below, soft blue tones, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pressure and the heat of the Earth keep the water liquid. Under that much ice, the melting point drops, and warmth rising from below does the rest."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pressure and the heat of the Earth keep the water liquid. Under that much ice, the melting point drops, and warmth rising from below does the rest.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photoreal photograph of a dark blue aerial view of ice sheet cracks stretching to the horizon, cold sunrise, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So we have a real station, a real lake, and a real puzzle. How big is it, and how deep? Next on the log, the ice itself."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So we have a real station, a real lake, and a real puzzle. How big is it, and how deep? Next on the log, the ice itself.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 8.424
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a cylindrical glacier ice core sample held in gloved hands, crystal clear ice with tiny bubbles, lab light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Depth, one kilometre and down. The ice. Every layer is a year of snow, pressed into glass. Inside it, tiny bubbles of ancient air."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 THE ICE",
+   "Four Kilometres of Time",
+   "CORE \u00b7 AIR \u00b7 PRESSURE \u00b7 SIZE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Depth, one kilometre and down. The ice. Every layer is a year of snow, pressed into glass. Inside it, tiny bubbles of ancient air.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 9.696
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a row of long ice core tubes stored in a freezer vault, blue cold light, shelves of ice, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scientists drilled one of the deepest ice cores ever made right here, and read the climate of hundreds of thousands of years in it. Ice ages. Warm periods. All recorded in frozen air."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scientists drilled one of the deepest ice cores ever made right here, and read the climate of hundreds of thousands of years in it. Ice ages. Warm periods. All recorded in frozen air.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 13.32
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a huge spreading ice sheet seen from a plane window over Antarctica, mountains peeking out, bright light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The ice sheet above the lake is about four kilometres thick. The pressure at the bottom is roughly three hundred and fifty times the air pressure at your feet right now."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The ice sheet above the lake is about four kilometres thick. The pressure at the bottom is roughly three hundred and fifty times the air pressure at your feet right now.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal cinematic illustration of a deep lake under ice, long and narrow, a map-like top-down view with dark water and glowing blue edges, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The lake is long and narrow, about two hundred and fifty kilometres end to end. It is the largest of Antarctica's subglacial lakes, and among the biggest lakes on Earth by volume."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The lake is long and narrow, about two hundred and fifty kilometres end to end. It is the largest of Antarctica's subglacial lakes, and among the biggest lakes on Earth by volume.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of hundreds of tiny ice crystals in a polarised light microscope slide, colourful abstract patterns, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And it is not alone. Radar has now found about four hundred lakes hiding under Antarctic ice. Vostok is simply the giant, and the first we really studied."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And it is not alone. Radar has now found about four hundred lakes hiding under Antarctic ice. Vostok is simply the giant, and the first we really studied.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal cinematic illustration of a slow glacier river of ice sliding over a hidden lake, arrows of motion implied, deep blue, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The ice slowly slides over the lake, at roughly three metres a year. At the base, lake water freezes onto the ice from below. Scientists call it accretion ice."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The ice slowly slides over the lake, at roughly three metres a year. At the base, lake water freezes onto the ice from below. Scientists call it accretion ice.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal macro photograph of a clear blue ice core with dark mineral specks inside, studio lighting, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That frozen lake water carries tiny traces of what lives or floats below. It is a free sample, delivered from the dark, long before any drill touched the water."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That frozen lake water carries tiny traces of what lives or floats below. It is a free sample, delivered from the dark, long before any drill touched the water.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a Russian scientist examining an ice core under a microscope in a cold lab, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen ninety-nine, researchers examined that accretion ice and counted microbes. Thousands of cells per millilitre in one study, a few hundred in another. Small numbers, but real ones."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen ninety-nine, researchers examined that accretion ice and counted microbes. Thousands of cells per millilitre in one study, a few hundred in another. Small numbers, but real ones.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 13.032
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a laboratory bench with sterile sample tubes, a pipette and a microscope, clean white light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Yet contamination is the great enemy here. A single stray cell from a glove or a drill can ruin everything. That is why this story is full of caution, and full of arguments."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Yet contamination is the great enemy here. A single stray cell from a glove or a drill can ruin everything. That is why this story is full of caution, and full of arguments.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photoreal photograph of a dark vertical borehole in white ice, seen from above, deep blue shadows, a drill rope hanging in it, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the ice already gives us hints. But to know the truth, someone had to go through it. Depth next: the drill."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the ice already gives us hints. But to know the truth, someone had to go through it. Depth next: the drill.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 6.816
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a tall drilling tower rig in blowing snow at an Antarctic base, workers in orange, floodlights at dusk, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Depth, zero again, but now with a rig. Russian engineers began drilling here in nineteen ninety, through the borehole they called five G."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 THE DRILL",
+   "Twenty Years Down",
+   "BOREHOLE \u00b7 FLUID \u00b7 DELAYS \u00b7 RISK"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Depth, zero again, but now with a rig. Russian engineers began drilling here in nineteen ninety, through the borehole they called five G.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of heavy industrial drill barrel sections laid out on the snow, steel, frost, cold light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They used a thermal drill, a hot head that melts ice, and electric cutting heads. Each metre needed pulling the whole string up and down. It took years, with long pauses."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They used a thermal drill, a hot head that melts ice, and electric cutting heads. Each metre needed pulling the whole string up and down. It took years, with long pauses.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.352
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of large barrels of clear drilling fluid stacked in the snow beside a rig, no labels, cold light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "To keep the hole from closing under the pressure, they filled it with a liquid. A kerosene-based fluid, mixed with a freon. Without it, the ice would squeeze the hole shut."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "To keep the hole from closing under the pressure, they filled it with a liquid. A kerosene-based fluid, mixed with a freon. Without it, the ice would squeeze the hole shut.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of an environmental scientist in a polar parka holding a clipboard facing a drilling rig, worried, cold light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That choice caused real alarm. A hole of oil and chemicals, heading toward a pristine lake. Environmental groups and scientists feared poisoning a world that had never been touched."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That choice caused real alarm. A hole of oil and chemicals, heading toward a pristine lake. Environmental groups and scientists feared poisoning a world that had never been touched.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a meeting table in a conference room with maps of Antarctica and papers, no readable text, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Under the Antarctic Treaty, the plan faced scrutiny. Russia argued that the lake water would rise into the hole and push the fluid back, so the lake would stay clean."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Under the Antarctic Treaty, the plan faced scrutiny. Russia argued that the lake water would rise into the hole and push the fluid back, so the lake would stay clean.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a drill head with a conical tip hanging in a dark shaft, sparkling frost, industrial light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They also stopped well above the water, in earlier years. At about three thousand seven hundred metres they paused, to make sure no one cut through blind."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They also stopped well above the water, in earlier years. At about three thousand seven hundred metres they paused, to make sure no one cut through blind.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a frostbitten engineer in a heavy hood adjusting a winch cable at an Antarctic rig, harsh light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The work was only possible in the short Antarctic summer. In winter, the station is cut off, and temperatures drop so low that planes cannot land. Each season, a few weeks."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The work was only possible in the short Antarctic summer. In winter, the station is cut off, and temperatures drop so low that planes cannot land. Each season, a few weeks.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 12.048
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a long calendar-like wall of marks scratched on a wooden plank in a cold hut, abstract tally lines, no numbers, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Twenty-two years of effort, from the first hole to the last metres. Setbacks. A stuck drill. Funding gaps and political storms. Delay after delay, until the final season."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Twenty-two years of effort, from the first hole to the last metres. Setbacks. A stuck drill. Funding gaps and political storms. Delay after delay, until the final season.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 11.856
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal cinematic illustration of a long drill line plunging through layers of blue ice toward a dark glow below, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By early twenty twelve the drill stood just metres above the water. The team knew what could happen. Nobody had done this before."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By early twenty twelve the drill stood just metres above the water. The team knew what could happen. Nobody had done this before.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photoreal photograph of a dark night sky over a lit drilling tower in Antarctica, aurora faintly green on the horizon, calm, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Depth: almost there. Next on the log: the breakthrough."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Depth: almost there. Next on the log: the breakthrough.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 3.312
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a control cabin with monitors showing abstract graphs glowing green, a team of scientists in parkas watching, tense mood, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The fifth of February, twenty twelve. Late in the Antarctic summer. The crew watched their instruments in the control cabin as the drill went down the final metres."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV \u00b7 BREAKTHROUGH",
+   "The Moment of Contact",
+   "DEPTH \u00b7 WATER \u00b7 FREEZE \u00b7 SAMPLE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The fifth of February, twenty twelve. Late in the Antarctic summer. The crew watched their instruments in the control cabin as the drill went down the final metres.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 10.704
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a drill cable going down into a hole in the snow, a bright red warning light glowing nearby, night, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At three thousand seven hundred and sixty-nine metres, the drill broke through. Reports give about ten twenty-five in the evening, local time. Pressure dropped, and a surge began."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At three thousand seven hundred and sixty-nine metres, the drill broke through. Reports give about ten twenty-five in the evening, local time. Pressure dropped, and a surge began.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 12.312
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal cinematic illustration of liquid water rushing up a narrow borehole through ice, blue light, flowing upwards, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Just as predicted, lake water rushed up the hole. It rose by tens of metres, pushing the drilling fluid ahead of it, and then it froze solid in the cold."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Just as predicted, lake water rushed up the hole. It rose by tens of metres, pushing the drilling fluid ahead of it, and then it froze solid in the cold.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of exhausted scientists in parkas shaking hands inside a cramped cabin, relieved smiles, warm lamp light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There was relief. Valery Lukin and his team had done it. After more than twenty years, a human hole had reached a lake sealed for perhaps fifteen million years."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There was relief. Valery Lukin and his team had done it. After more than twenty years, a human hole had reached a lake sealed for perhaps fifteen million years.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a thin cylinder of milky frozen water pulled out of a drilled hole, held in gloves, cold light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But there was no water sample yet. The lake water had frozen in the hole. The team had to wait a full year, then drill again to cut out the frozen plug, in January twenty-thirteen."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But there was no water sample yet. The lake water had frozen in the hole. The team had to wait a full year, then drill again to cut out the frozen plug, in January twenty-thirteen.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a single sealed sample tube of frozen ice with tiny bubbles on a steel table, blue light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That frozen lake water, a few metres of it, is what they brought up. It was mixed with the fluid, so the first job was to figure out what was lake, and what was not."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That frozen lake water, a few metres of it, is what they brought up. It was mixed with the fluid, so the first job was to figure out what was lake, and what was not.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 10.32
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a second drill tower at a snow station with a drill string rising, workers around it, dawn light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They returned on the twenty-fifth of January, twenty fifteen, and entered the lake a second time, at about three thousand seven hundred and sixty-nine metres, with a sampling tool."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They returned on the twenty-fifth of January, twenty fifteen, and entered the lake a second time, at about three thousand seven hundred and sixty-nine metres, with a sampling tool.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of an old Russian scientist with a grey beard at a station desk, thoughtful, warm lamp light, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The head of the expedition promised an honest account. The data would go to peer review. Not every claim would survive that process, and he admitted that."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The head of the expedition promised an honest account. The data would go to peer review. Not every claim would survive that process, and he admitted that.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal cinematic illustration of a tiny glowing drill hole in black ice leading to a hidden sea of water far below, awe-inspiring, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "For the first time in history, humans were in contact with a lake that had been isolated for an unimaginable time. The hole was tiny. The meaning was not."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "For the first time in history, humans were in contact with a lake that had been isolated for an unimaginable time. The hole was tiny. The meaning was not.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 10.728
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photoreal photograph of a vial of ice-cold clear water held in a gloved hand against a dark blue background, macro, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The water was real. Now the big question. Is anything alive in it? Next on the log."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The water was real. Now the big question. Is anything alive in it? Next on the log.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 5.64
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal macro photograph of a clear glass dish with a pale smear of bacteria colonies and a microscope nearby, lab light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What lives in a dark lake under four kilometres of ice? The answer, so far, is: very little, and nothing we can prove is new."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V \u00b7 LIFE",
+   "Is Anything Down There?",
+   "CELLS \u00b7 DNA \u00b7 DOUBT \u00b7 AIR"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What lives in a dark lake under four kilometres of ice? The answer, so far, is: very little, and nothing we can prove is new.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 8.784
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a researcher in a clean room suit loading DNA samples into a sequencing machine, blue light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In twenty twelve, Russian teams ran DNA tests on the drill-bit water. They found only about ten cells per millilitre. Very few, and four types of bacteria. Three of them came from the drilling fluid itself."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In twenty twelve, Russian teams ran DNA tests on the drill-bit water. They found only about ten cells per millilitre. Very few, and four types of bacteria. Three of them came from the drilling fluid itself.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal macro photograph of rod-shaped bacteria on a microscope slide, scientific style, deep green tint, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the first result was disappointing. Mostly contamination. That is science working properly: reporting what looks like life, and then showing it came in with the equipment."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the first result was disappointing. Mostly contamination. That is science working properly: reporting what looks like life, and then showing it came in with the equipment.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 11.256
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of two scientists arguing over a computer screen showing coloured abstract charts in a lab, no readable text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later work was more interesting. A few years on, a research paper reported DNA of unknown groups, close to families of bacteria such as Burkholderia and Janthinobacterium. Real hints, but not proof of a Vostok ecosystem."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later work was more interesting. A few years on, a research paper reported DNA of unknown groups, close to families of bacteria such as Burkholderia and Janthinobacterium. Real hints, but not proof of a Vostok ecosystem.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 16.872
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a laboratory freezer with racks of sample tubes frosted over, cold white light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Why not proof? Samples were tiny, mixed with fluid, and handled by many hands. Skeptics said it could all be stray DNA. The lake had not been shown to be a living world, yet."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Why not proof? Samples were tiny, mixed with fluid, and handled by many hands. Skeptics said it could all be stray DNA. The lake had not been shown to be a living world, yet.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 11.976
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal cinematic illustration of oxygen bubbles trapped inside blue ice dissolving into dark lake water, microscopic scale, glowing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is another clue. Studies of the ice suggest the lake could hold a lot of oxygen, released as air bubbles in melting ice slowly dissolve into the water. That is good news for any life."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is another clue. Studies of the ice suggest the lake could hold a lot of oxygen, released as air bubbles in melting ice slowly dissolve into the water. That is good news for any life.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 13.008
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a scientist in a cold polar lab holding a petri dish up to the light, thoughtful, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Extreme conditions. No light. Cold, just below freezing. Huge pressure. Little food. Yet life has been found in places almost like it, from deep ocean vents to other buried lakes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Extreme conditions. No light. Cold, just below freezing. Huge pressure. Little food. Yet life has been found in places almost like it, from deep ocean vents to other buried lakes.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.984
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of the deep seafloor with a black smoker hydrothermal vent and tube worms, dark water, submersible light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the real excitement. If life can live in a lake like this on Earth, it could live in ice-covered oceans on other worlds, like Jupiter's moon Europa. Vostok is a rehearsal."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the real excitement. If life can live in a lake like this on Earth, it could live in ice-covered oceans on other worlds, like Jupiter's moon Europa. Vostok is a rehearsal.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal cinematic illustration of the icy moon Europa with cracks in its ice shell and a dark ocean beneath, deep space, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the honest alien angle. Not creatures in Antarctica, but a test run for how to explore hidden oceans without contaminating them. Space agencies study Vostok for exactly that reason."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the honest alien angle. Not creatures in Antarctica, but a test run for how to explore hidden oceans without contaminating them. Space agencies study Vostok for exactly that reason.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photoreal photograph of a dim Antarctic horizon with a thin beam of light from a research station, deep blue dusk, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So life? Maybe tiny. Maybe nothing. The evidence is thin. And then there are the myths. Next on the log."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So life? Maybe tiny. Maybe nothing. The evidence is thin. And then there are the myths. Next on the log.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 6.576
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a dark snowy Antarctic base entrance half buried in drift, a lit doorway, mysterious mood, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the stories. Hidden Nazi base. Alien bunker. A lost world of dinosaurs. They all say the same thing: something is being hidden at Vostok."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VI \u00b7 THE MYTHS",
+   "Secret Bases and Monsters",
+   "BASE \u00b7 ALIENS \u00b7 MONSTERS \u00b7 COVER-UP"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the stories. Hidden Nazi base. Alien bunker. A lost world of dinosaurs. They all say the same thing: something is being hidden at Vostok.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 10.176
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a World War Two era expedition ship in polar waters with ice floes, black and white film look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Nazi base story grows from a real German expedition to Antarctica in nineteen thirty-eight and thirty-nine. It claimed a patch of land. It did not build a secret city under four kilometres of ice."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Nazi base story grows from a real German expedition to Antarctica in nineteen thirty-eight and thirty-nine. It claimed a patch of land. It did not build a secret city under four kilometres of ice.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal cinematic photograph of a dark mysterious cave of ice with strange blue glow, imaginative, no creatures, epic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The monster version says a creature lives in the lake, left from an earlier age. No evidence. A lake of near-freezing water, under that pressure, offers no food for large animals."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The monster version says a creature lives in the lake, left from an earlier age. No evidence. A lake of near-freezing water, under that pressure, offers no food for large animals.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 12.72
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a vintage conspiracy-style corkboard with blank photos and red string in a dim room, no text, moody, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The cover-up version says officials stopped science from looking. In reality, the opposite happened. Teams from several countries studied it, published papers, and argued in public for decades."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The cover-up version says officials stopped science from looking. In reality, the opposite happened. Teams from several countries studied it, published papers, and argued in public for decades.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a UFO-like round shape drawn in the snow seen from a cliff, moody twilight, faint outline only, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the alien story? It draws on the lake's strangeness and a few bad satellite pictures of ice formations. There is no craft, no signal, no object. Only a very remote scientific site."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the alien story? It draws on the lake's strangeness and a few bad satellite pictures of ice formations. There is no craft, no signal, no object. Only a very remote scientific site.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photoreal photograph of a vast quiet Antarctic landscape at midnight sun, golden light on endless ice, calm, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The truth is stranger in a quieter way. A hidden lake, real water, real pressure, almost no life. Time to score the lake."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The truth is stranger in a quieter way. A hidden lake, real water, real pressure, almost no life. Time to score the lake.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 8.736
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a scientific briefing room at night with a long table and a glowing screen showing only abstract blue shapes, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The drill is back on the surface. The log is closed. Let us look at what we have."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The drill is back on the surface. The log is closed. Let us look at what we have.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 5.04
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark polar research station control room at night, a single glowing blue ice-core sample tube on a steel table far on the right edge lit by cold light, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score Lake Vostok."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score Lake Vostok.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 2.544
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark polar research station control room at night, a single glowing blue ice-core sample tube on a steel table far on the right edge lit by cold light, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A huge liquid lake under four kilometres of ice: evidence. Reached by drilling in twenty twelve, and again in twenty fifteen: evidence. Oxygen-rich, dark, cold: likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A huge liquid lake under four kilometres of ice: evidence. Reached by drilling in twenty twelve, and again in twenty fifteen: evidence. Oxygen-rich, dark, cold: likely.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark polar research station control room at night, a single glowing blue ice-core sample tube on a steel table far on the right edge lit by cold light, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A thriving hidden ecosystem: unproven. A Nazi or alien base: no evidence. A monster in the lake: debunked. A cover-up: contradicted by the open record."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A thriving hidden ecosystem: unproven. A Nazi or alien base: no evidence. A monster in the lake: debunked. A cover-up: contradicted by the open record.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photoreal photograph of a single frozen drill-hole opening in blue ice, glowing faintly from below, calm and awe-inspiring, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The lake is real and the discovery is real. The aliens, bases and monsters are not. But the real question, whether anything lives there, is still open, and that is more thrilling than any myth."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The lake is real and the discovery is real. The aliens, bases and monsters are not. But the real question, whether anything lives there, is still open, and that is more thrilling than any myth.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.136
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a lone scientist in a parka looking at the night sky over Antarctica with stars and aurora, silhouette, wonder, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Somewhere under that ice, dark water is moving, slowly, in a place no light has ever reached. We keep hunting for strange worlds out in space. This one is right here on Earth."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Somewhere under that ice, dark water is moving, slowly, in a place no light has ever reached. We keep hunting for strange worlds out in space. This one is right here on Earth.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 11.736
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photoreal photograph of a small oval lens of polished rock crystal lying on a dark velvet cloth in a museum case, dramatic light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a lump of polished crystal, three thousand years old, found in an Assyrian palace. Was it a telescope?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a lump of polished crystal, three thousand years old, found in an Assyrian palace. Was it a telescope?",
+    "file": "ep/audio/s65.mp3",
+    "dur": 7.656
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a single glowing blue drop of water falling into black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Do you think anything lives in Lake Vostok? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Do you think anything lives in Lake Vostok? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 8.328
+   }
+  ]
+ }
+]

@@ -1,0 +1,811 @@
+1
+00:00:00,333 --> 00:00:04,437
+Under this ice, almost four kilometres down, there is a lake.
+
+2
+00:00:04,437 --> 00:00:08,003
+It has been sealed in darkness for millions of years.
+
+3
+00:00:08,003 --> 00:00:11,233
+And in twenty twelve, humans finally touched it.
+
+4
+00:00:11,699 --> 00:00:14,660
+Some people say it hides a lost ecosystem.
+
+5
+00:00:14,660 --> 00:00:19,313
+Others whisper about secret bases, and creatures from another age.
+
+6
+00:00:19,313 --> 00:00:21,499
+So what is actually down there?
+
+7
+00:00:21,499 --> 00:00:23,966
+And what did the drill really find?
+
+8
+00:00:24,433 --> 00:00:26,283
+Tonight we keep a drill log.
+
+9
+00:00:26,283 --> 00:00:31,699
+We start on the surface and go down, metre by metre, and every claim gets weighed.
+
+10
+00:00:32,166 --> 00:00:32,664
+Surface.
+
+11
+00:00:32,664 --> 00:00:33,162
+The ice.
+
+12
+00:00:33,162 --> 00:00:33,784
+The drill.
+
+13
+00:00:33,784 --> 00:00:34,842
+The breakthrough.
+
+14
+00:00:34,842 --> 00:00:35,402
+The life.
+
+15
+00:00:35,402 --> 00:00:36,833
+And finally, the myths.
+
+16
+00:00:36,833 --> 00:00:37,766
+Then a verdict.
+
+17
+00:00:38,233 --> 00:00:41,008
+Evidence on one side, theory on the other.
+
+18
+00:00:41,008 --> 00:00:41,933
+Let's go down.
+
+19
+00:00:46,399 --> 00:00:47,271
+Depth zero.
+
+20
+00:00:47,271 --> 00:00:48,222
+The surface.
+
+21
+00:00:48,222 --> 00:00:56,066
+The place is Vostok Station, a Russian base deep in East Antarctica, built in nineteen fifty-seven.
+
+22
+00:00:56,533 --> 00:00:59,333
+It is one of the coldest places on Earth.
+
+23
+00:00:59,333 --> 00:01:09,033
+The lowest air temperature ever measured at ground level was recorded here, about minus eighty-nine degrees Celsius, in nineteen eighty-three.
+
+24
+00:01:09,500 --> 00:01:17,817
+In the nineteen sixties, a Russian scientist, Andrei Kapitsa, looked at flight survey data and spotted something odd.
+
+25
+00:01:17,817 --> 00:01:20,234
+Flat, smooth ground under the ice.
+
+26
+00:01:20,234 --> 00:01:22,366
+He suggested there was a lake.
+
+27
+00:01:22,833 --> 00:01:27,180
+Pilots had already noticed flat, mirror-like radar echoes.
+
+28
+00:01:27,180 --> 00:01:28,979
+The idea sounded absurd.
+
+29
+00:01:28,979 --> 00:01:33,251
+Water, at four kilometres deep, in a land of minus fifty?
+
+30
+00:01:33,251 --> 00:01:35,500
+Most scientists were doubtful.
+
+31
+00:01:35,966 --> 00:01:44,440
+Then, in nineteen ninety-three, satellite radar altimetry showed a huge, perfectly flat patch on the ice surface above it.
+
+32
+00:01:44,440 --> 00:01:47,983
+That is how a floating ice sheet looks over a lake.
+
+33
+00:01:47,983 --> 00:01:49,233
+The lake was real.
+
+34
+00:01:49,700 --> 00:01:53,395
+Pressure and the heat of the Earth keep the water liquid.
+
+35
+00:01:53,395 --> 00:01:59,166
+Under that much ice, the melting point drops, and warmth rising from below does the rest.
+
+36
+00:01:59,633 --> 00:02:03,778
+So we have a real station, a real lake, and a real puzzle.
+
+37
+00:02:03,778 --> 00:02:05,779
+How big is it, and how deep?
+
+38
+00:02:05,779 --> 00:02:08,066
+Next on the log, the ice itself.
+
+39
+00:02:08,533 --> 00:02:10,824
+Depth, one kilometre and down.
+
+40
+00:02:10,824 --> 00:02:11,435
+The ice.
+
+41
+00:02:11,435 --> 00:02:15,254
+Every layer is a year of snow, pressed into glass.
+
+42
+00:02:15,254 --> 00:02:18,233
+Inside it, tiny bubbles of ancient air.
+
+43
+00:02:18,699 --> 00:02:28,403
+Scientists drilled one of the deepest ice cores ever made right here, and read the climate of hundreds of thousands of years in it.
+
+44
+00:02:28,403 --> 00:02:29,070
+Ice ages.
+
+45
+00:02:29,070 --> 00:02:30,033
+Warm periods.
+
+46
+00:02:30,033 --> 00:02:32,033
+All recorded in frozen air.
+
+47
+00:02:32,500 --> 00:02:36,297
+The ice sheet above the lake is about four kilometres thick.
+
+48
+00:02:36,297 --> 00:02:43,133
+The pressure at the bottom is roughly three hundred and fifty times the air pressure at your feet right now.
+
+49
+00:02:43,599 --> 00:02:49,088
+The lake is long and narrow, about two hundred and fifty kilometres end to end.
+
+50
+00:02:49,088 --> 00:02:55,966
+It is the largest of Antarctica's subglacial lakes, and among the biggest lakes on Earth by volume.
+
+51
+00:02:56,433 --> 00:02:57,907
+And it is not alone.
+
+52
+00:02:57,907 --> 00:03:03,212
+Radar has now found about four hundred lakes hiding under Antarctic ice.
+
+53
+00:03:03,212 --> 00:03:07,633
+Vostok is simply the giant, and the first we really studied.
+
+54
+00:03:08,099 --> 00:03:13,037
+The ice slowly slides over the lake, at roughly three metres a year.
+
+55
+00:03:13,037 --> 00:03:17,103
+At the base, lake water freezes onto the ice from below.
+
+56
+00:03:17,103 --> 00:03:19,500
+Scientists call it accretion ice.
+
+57
+00:03:19,966 --> 00:03:25,093
+That frozen lake water carries tiny traces of what lives or floats below.
+
+58
+00:03:25,093 --> 00:03:31,133
+It is a free sample, delivered from the dark, long before any drill touched the water.
+
+59
+00:03:31,599 --> 00:03:37,562
+In nineteen ninety-nine, researchers examined that accretion ice and counted microbes.
+
+60
+00:03:37,562 --> 00:03:42,622
+Thousands of cells per millilitre in one study, a few hundred in another.
+
+61
+00:03:42,622 --> 00:03:44,633
+Small numbers, but real ones.
+
+62
+00:03:45,099 --> 00:03:48,071
+Yet contamination is the great enemy here.
+
+63
+00:03:48,071 --> 00:03:52,600
+A single stray cell from a glove or a drill can ruin everything.
+
+64
+00:03:52,600 --> 00:03:57,200
+That is why this story is full of caution, and full of arguments.
+
+65
+00:03:57,666 --> 00:03:59,817
+So the ice already gives us hints.
+
+66
+00:03:59,817 --> 00:04:03,108
+But to know the truth, someone had to go through it.
+
+67
+00:04:03,108 --> 00:04:04,500
+Depth next: the drill.
+
+68
+00:04:04,966 --> 00:04:07,667
+Depth, zero again, but now with a rig.
+
+69
+00:04:07,667 --> 00:04:14,633
+Russian engineers began drilling here in nineteen ninety, through the borehole they called five G.
+
+70
+00:04:15,099 --> 00:04:20,580
+They used a thermal drill, a hot head that melts ice, and electric cutting heads.
+
+71
+00:04:20,580 --> 00:04:24,301
+Each metre needed pulling the whole string up and down.
+
+72
+00:04:24,301 --> 00:04:26,466
+It took years, with long pauses.
+
+73
+00:04:26,933 --> 00:04:32,060
+To keep the hole from closing under the pressure, they filled it with a liquid.
+
+74
+00:04:32,060 --> 00:04:34,851
+A kerosene-based fluid, mixed with a freon.
+
+75
+00:04:34,851 --> 00:04:37,966
+Without it, the ice would squeeze the hole shut.
+
+76
+00:04:38,433 --> 00:04:40,505
+That choice caused real alarm.
+
+77
+00:04:40,505 --> 00:04:44,651
+A hole of oil and chemicals, heading toward a pristine lake.
+
+78
+00:04:44,651 --> 00:04:50,799
+Environmental groups and scientists feared poisoning a world that had never been touched.
+
+79
+00:04:51,266 --> 00:04:54,806
+Under the Antarctic Treaty, the plan faced scrutiny.
+
+80
+00:04:54,806 --> 00:05:02,500
+Russia argued that the lake water would rise into the hole and push the fluid back, so the lake would stay clean.
+
+81
+00:05:02,966 --> 00:05:06,716
+They also stopped well above the water, in earlier years.
+
+82
+00:05:06,716 --> 00:05:13,033
+At about three thousand seven hundred metres they paused, to make sure no one cut through blind.
+
+83
+00:05:13,500 --> 00:05:17,545
+The work was only possible in the short Antarctic summer.
+
+84
+00:05:17,545 --> 00:05:23,792
+In winter, the station is cut off, and temperatures drop so low that planes cannot land.
+
+85
+00:05:23,792 --> 00:05:25,566
+Each season, a few weeks.
+
+86
+00:05:26,033 --> 00:05:30,822
+Twenty-two years of effort, from the first hole to the last metres.
+
+87
+00:05:30,822 --> 00:05:31,466
+Setbacks.
+
+88
+00:05:31,466 --> 00:05:32,467
+A stuck drill.
+
+89
+00:05:32,467 --> 00:05:34,897
+Funding gaps and political storms.
+
+90
+00:05:34,897 --> 00:05:37,899
+Delay after delay, until the final season.
+
+91
+00:05:38,366 --> 00:05:42,762
+By early twenty twelve the drill stood just metres above the water.
+
+92
+00:05:42,762 --> 00:05:44,862
+The team knew what could happen.
+
+93
+00:05:44,862 --> 00:05:46,699
+Nobody had done this before.
+
+94
+00:05:47,166 --> 00:05:48,401
+Depth: almost there.
+
+95
+00:05:48,401 --> 00:05:50,500
+Next on the log: the breakthrough.
+
+96
+00:05:50,966 --> 00:05:53,418
+The fifth of February, twenty twelve.
+
+97
+00:05:53,418 --> 00:05:55,339
+Late in the Antarctic summer.
+
+98
+00:05:55,339 --> 00:06:01,699
+The crew watched their instruments in the control cabin as the drill went down the final metres.
+
+99
+00:06:02,166 --> 00:06:07,671
+At three thousand seven hundred and sixty-nine metres, the drill broke through.
+
+100
+00:06:07,671 --> 00:06:11,991
+Reports give about ten twenty-five in the evening, local time.
+
+101
+00:06:11,991 --> 00:06:14,500
+Pressure dropped, and a surge began.
+
+102
+00:06:14,966 --> 00:06:18,201
+Just as predicted, lake water rushed up the hole.
+
+103
+00:06:18,201 --> 00:06:25,000
+It rose by tens of metres, pushing the drilling fluid ahead of it, and then it froze solid in the cold.
+
+104
+00:06:25,466 --> 00:06:26,625
+There was relief.
+
+105
+00:06:26,625 --> 00:06:29,214
+Valery Lukin and his team had done it.
+
+106
+00:06:29,214 --> 00:06:36,233
+After more than twenty years, a human hole had reached a lake sealed for perhaps fifteen million years.
+
+107
+00:06:36,699 --> 00:06:39,074
+But there was no water sample yet.
+
+108
+00:06:39,074 --> 00:06:41,729
+The lake water had frozen in the hole.
+
+109
+00:06:41,729 --> 00:06:49,133
+The team had to wait a full year, then drill again to cut out the frozen plug, in January twenty-thirteen.
+
+110
+00:06:49,600 --> 00:06:53,884
+That frozen lake water, a few metres of it, is what they brought up.
+
+111
+00:06:53,884 --> 00:06:59,933
+It was mixed with the fluid, so the first job was to figure out what was lake, and what was not.
+
+112
+00:07:00,399 --> 00:07:11,866
+They returned on the twenty-fifth of January, twenty fifteen, and entered the lake a second time, at about three thousand seven hundred and sixty-nine metres, with a sampling tool.
+
+113
+00:07:12,333 --> 00:07:15,968
+The head of the expedition promised an honest account.
+
+114
+00:07:15,968 --> 00:07:18,190
+The data would go to peer review.
+
+115
+00:07:18,190 --> 00:07:22,566
+Not every claim would survive that process, and he admitted that.
+
+116
+00:07:23,033 --> 00:07:31,083
+For the first time in history, humans were in contact with a lake that had been isolated for an unimaginable time.
+
+117
+00:07:31,083 --> 00:07:32,354
+The hole was tiny.
+
+118
+00:07:32,354 --> 00:07:33,766
+The meaning was not.
+
+119
+00:07:34,233 --> 00:07:35,579
+The water was real.
+
+120
+00:07:35,579 --> 00:07:37,066
+Now the big question.
+
+121
+00:07:37,066 --> 00:07:38,766
+Is anything alive in it?
+
+122
+00:07:38,766 --> 00:07:39,899
+Next on the log.
+
+123
+00:07:40,366 --> 00:07:44,269
+What lives in a dark lake under four kilometres of ice?
+
+124
+00:07:44,269 --> 00:07:49,166
+The answer, so far, is: very little, and nothing we can prove is new.
+
+125
+00:07:49,633 --> 00:07:54,618
+In twenty twelve, Russian teams ran DNA tests on the drill-bit water.
+
+126
+00:07:54,618 --> 00:07:58,014
+They found only about ten cells per millilitre.
+
+127
+00:07:58,014 --> 00:08:00,687
+Very few, and four types of bacteria.
+
+128
+00:08:00,687 --> 00:08:04,300
+Three of them came from the drilling fluid itself.
+
+129
+00:08:04,766 --> 00:08:07,255
+So the first result was disappointing.
+
+130
+00:08:07,255 --> 00:08:08,631
+Mostly contamination.
+
+131
+00:08:08,631 --> 00:08:16,033
+That is science working properly: reporting what looks like life, and then showing it came in with the equipment.
+
+132
+00:08:16,500 --> 00:08:18,980
+Later work was more interesting.
+
+133
+00:08:18,980 --> 00:08:29,678
+A few years on, a research paper reported DNA of unknown groups, close to families of bacteria such as Burkholderia and Janthinobacterium.
+
+134
+00:08:29,678 --> 00:08:33,399
+Real hints, but not proof of a Vostok ecosystem.
+
+135
+00:08:33,866 --> 00:08:34,849
+Why not proof?
+
+136
+00:08:34,849 --> 00:08:39,270
+Samples were tiny, mixed with fluid, and handled by many hands.
+
+137
+00:08:39,270 --> 00:08:42,077
+Skeptics said it could all be stray DNA.
+
+138
+00:08:42,077 --> 00:08:45,866
+The lake had not been shown to be a living world, yet.
+
+139
+00:08:46,333 --> 00:08:47,866
+There is another clue.
+
+140
+00:08:47,866 --> 00:08:57,206
+Studies of the ice suggest the lake could hold a lot of oxygen, released as air bubbles in melting ice slowly dissolve into the water.
+
+141
+00:08:57,206 --> 00:08:59,366
+That is good news for any life.
+
+142
+00:08:59,833 --> 00:09:01,252
+Extreme conditions.
+
+143
+00:09:01,252 --> 00:09:01,925
+No light.
+
+144
+00:09:01,925 --> 00:09:03,867
+Cold, just below freezing.
+
+145
+00:09:03,867 --> 00:09:04,913
+Huge pressure.
+
+146
+00:09:04,913 --> 00:09:05,810
+Little food.
+
+147
+00:09:05,810 --> 00:09:12,833
+Yet life has been found in places almost like it, from deep ocean vents to other buried lakes.
+
+148
+00:09:13,299 --> 00:09:15,351
+That is the real excitement.
+
+149
+00:09:15,351 --> 00:09:24,654
+If life can live in a lake like this on Earth, it could live in ice-covered oceans on other worlds, like Jupiter's moon Europa.
+
+150
+00:09:24,654 --> 00:09:26,266
+Vostok is a rehearsal.
+
+151
+00:09:26,733 --> 00:09:29,131
+That is the honest alien angle.
+
+152
+00:09:29,131 --> 00:09:37,177
+Not creatures in Antarctica, but a test run for how to explore hidden oceans without contaminating them.
+
+153
+00:09:37,177 --> 00:09:41,199
+Space agencies study Vostok for exactly that reason.
+
+154
+00:09:41,666 --> 00:09:42,200
+So life?
+
+155
+00:09:42,200 --> 00:09:42,933
+Maybe tiny.
+
+156
+00:09:42,933 --> 00:09:43,866
+Maybe nothing.
+
+157
+00:09:43,866 --> 00:09:45,266
+The evidence is thin.
+
+158
+00:09:45,266 --> 00:09:47,200
+And then there are the myths.
+
+159
+00:09:47,200 --> 00:09:48,266
+Next on the log.
+
+160
+00:09:48,733 --> 00:09:49,924
+Now the stories.
+
+161
+00:09:49,924 --> 00:09:51,190
+Hidden Nazi base.
+
+162
+00:09:51,190 --> 00:09:52,158
+Alien bunker.
+
+163
+00:09:52,158 --> 00:09:54,093
+A lost world of dinosaurs.
+
+164
+00:09:54,093 --> 00:09:58,933
+They all say the same thing: something is being hidden at Vostok.
+
+165
+00:09:59,399 --> 00:10:07,472
+The Nazi base story grows from a real German expedition to Antarctica in nineteen thirty-eight and thirty-nine.
+
+166
+00:10:07,472 --> 00:10:09,436
+It claimed a patch of land.
+
+167
+00:10:09,436 --> 00:10:13,800
+It did not build a secret city under four kilometres of ice.
+
+168
+00:10:14,266 --> 00:10:20,021
+The monster version says a creature lives in the lake, left from an earlier age.
+
+169
+00:10:20,021 --> 00:10:20,885
+No evidence.
+
+170
+00:10:20,885 --> 00:10:26,999
+A lake of near-freezing water, under that pressure, offers no food for large animals.
+
+171
+00:10:27,466 --> 00:10:31,731
+The cover-up version says officials stopped science from looking.
+
+172
+00:10:31,731 --> 00:10:33,963
+In reality, the opposite happened.
+
+173
+00:10:33,963 --> 00:10:40,000
+Teams from several countries studied it, published papers, and argued in public for decades.
+
+174
+00:10:40,466 --> 00:10:41,984
+And the alien story?
+
+175
+00:10:41,984 --> 00:10:48,509
+It draws on the lake's strangeness and a few bad satellite pictures of ice formations.
+
+176
+00:10:48,509 --> 00:10:51,544
+There is no craft, no signal, no object.
+
+177
+00:10:51,544 --> 00:10:54,200
+Only a very remote scientific site.
+
+178
+00:10:54,666 --> 00:10:57,539
+The truth is stranger in a quieter way.
+
+179
+00:10:57,539 --> 00:11:01,738
+A hidden lake, real water, real pressure, almost no life.
+
+180
+00:11:01,738 --> 00:11:03,433
+Time to score the lake.
+
+181
+00:11:03,899 --> 00:11:06,016
+The drill is back on the surface.
+
+182
+00:11:06,016 --> 00:11:07,170
+The log is closed.
+
+183
+00:11:07,170 --> 00:11:08,966
+Let us look at what we have.
+
+184
+00:11:09,433 --> 00:11:10,037
+Debrief.
+
+185
+00:11:10,037 --> 00:11:12,000
+Time to score Lake Vostok.
+
+186
+00:11:12,466 --> 00:11:16,845
+A huge liquid lake under four kilometres of ice: evidence.
+
+187
+00:11:16,845 --> 00:11:22,583
+Reached by drilling in twenty twelve, and again in twenty fifteen: evidence.
+
+188
+00:11:22,583 --> 00:11:25,000
+Oxygen-rich, dark, cold: likely.
+
+189
+00:11:25,466 --> 00:11:28,616
+A thriving hidden ecosystem: unproven.
+
+190
+00:11:28,616 --> 00:11:31,434
+A Nazi or alien base: no evidence.
+
+191
+00:11:31,434 --> 00:11:34,086
+A monster in the lake: debunked.
+
+192
+00:11:34,086 --> 00:11:37,733
+A cover-up: contradicted by the open record.
+
+193
+00:11:38,200 --> 00:11:39,037
+The verdict.
+
+194
+00:11:39,037 --> 00:11:42,038
+The lake is real and the discovery is real.
+
+195
+00:11:42,038 --> 00:11:44,759
+The aliens, bases and monsters are not.
+
+196
+00:11:44,759 --> 00:11:52,366
+But the real question, whether anything lives there, is still open, and that is more thrilling than any myth.
+
+197
+00:11:52,833 --> 00:11:59,158
+Somewhere under that ice, dark water is moving, slowly, in a place no light has ever reached.
+
+198
+00:11:59,158 --> 00:12:02,423
+We keep hunting for strange worlds out in space.
+
+199
+00:12:02,423 --> 00:12:04,600
+This one is right here on Earth.
+
+200
+00:12:05,066 --> 00:12:11,432
+Next case: a lump of polished crystal, three thousand years old, found in an Assyrian palace.
+
+201
+00:12:11,432 --> 00:12:12,733
+Was it a telescope?
+
+202
+00:12:13,200 --> 00:12:16,021
+Do you think anything lives in Lake Vostok?
+
+203
+00:12:16,021 --> 00:12:21,533
+Tell us in the comments, and subscribe for the next ancient mystery put to the test.
