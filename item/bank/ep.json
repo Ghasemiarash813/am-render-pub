@@ -1,0 +1,1423 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small weathered white wooden farmhouse on a rural Kentucky farm at night, one lit window, dark fields and trees around it, 1950s. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "August nineteen fifty-five. A farmhouse in Kentucky. Eleven people inside, and something outside the windows. For about four hours, the family fired shotguns at small glowing figures that would not die."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "August nineteen fifty-five. A farmhouse in Kentucky. Eleven people inside, and something outside the windows. For about four hours, the family fired shotguns at small glowing figures that would not die.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.688
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small glowing silvery humanoid creature about three feet tall with a large round head, big pointed ears, huge round yellow eyes, long thin arms and clawed hands, thin legs, standing in a dark farmyard. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They described a creature about three feet tall, silvery, with huge ears, enormous eyes, and arms that nearly touched the ground. They said bullets rang off it like hitting a bucket."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They described a creature about three feet tall, silvery, with huge ears, enormous eyes, and arms that nearly touched the ground. They said bullets rang off it like hitting a bucket.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 12.12
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a police radio and a lantern on a rustic wooden table beside a rifle, dim warm light. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Police came. Soldiers came. They found bullet holes, a terrified family, and no bodies. And the family never made a cent from the story."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Police came. Soldiers came. They found bullet holes, a terrified family, and no bodies. And the family never made a cent from the story.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dark Kentucky gully with a faint streak of light in the sky above bare trees at dusk. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we keep a night watch. Hour by hour, we log every claim, sort the evidence from the theory, and ask what really happened at Kelly."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we keep a night watch. Hour by hour, we log every claim, sort the evidence from the theory, and ask what really happened at Kelly.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a lonely Kentucky country road at night leading to a distant farmhouse light. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Little men from space, or owls in the dark? Let's begin the log."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Little men from space, or owls in the dark? Let's begin the log.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 4.44
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a quiet rural Kentucky landscape of tobacco fields and farmhouses on a summer afternoon in 1955. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Log entry one. The place. Kelly is a tiny farming community in Christian County, Kentucky, about seven miles north of the town of Hopkinsville."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 THE FARM",
+   "The Place",
+   "KELLY \u00b7 KENTUCKY \u00b7 1955"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Log entry one. The place. Kelly is a tiny farming community in Christian County, Kentucky, about seven miles north of the town of Hopkinsville.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 10.824
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small weathered white wooden farmhouse on a rural Kentucky farm at night, one lit window, dark fields and trees around it, 1950s in daylight, with a dry well and an outhouse in the yard. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Sutton farmhouse was a rented, run-down home with no running water. It stood at the end of a dirt road, surrounded by woods and a gully."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Sutton farmhouse was a rented, run-down home with no running water. It stood at the end of a dirt road, surrounded by woods and a gully.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a 1950s Kentucky farm family in simple work clothes sitting on a porch, ordinary and tired, documentary style. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inside lived Glennie Lankford, her sons, and her children, with guests visiting. Elmer, called Lucky, Sutton rented the house. Eleven people were there that Sunday."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inside lived Glennie Lankford, her sons, and her children, with guests visiting. Elmer, called Lucky, Sutton rented the house. Eleven people were there that Sunday.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old farm family kitchen with a kerosene lamp, a wooden table and rifles leaning by the door, 1950s. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "These were poor, hard-working country people. They kept guns, as most rural families did, for hunting and for the foxes. That detail matters later."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "These were poor, hard-working country people. They kept guns, as most rural families did, for hunting and for the foxes. That detail matters later.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a hand-drawn style map-like aerial view of a farm, a house, a well and a gully at dusk, no labels. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The layout matters too. A well at the back. A gully beyond the fence. A few big trees. And nothing but dark fields in every direction."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The layout matters too. A well at the back. A gully beyond the fence. A few big trees. And nothing but dark fields in every direction.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 9.048
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a bright streak of light crossing a dusky summer sky over farm fields, a meteor. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That evening, around seven, a visitor named Billy Ray Taylor went out to the well for water. He came running back, saying he had seen a bright object in the sky."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That evening, around seven, a visitor named Billy Ray Taylor went out to the well for water. He came running back, saying he had seen a bright object in the sky.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.872
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a silvery disc-like glowing object with a faint rainbow trail descending into a dark gully at dusk. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Taylor said it was bright, with a rainbow-coloured exhaust, and that it landed in the gully beyond the fence. Nobody believed him. They laughed."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Taylor said it was bright, with a rainbow-coloured exhaust, and that it landed in the gully beyond the fence. Nobody believed him. They laughed.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 8.976
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a farm dog hiding under a wooden porch at night looking scared, only its eyes visible. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the dogs began barking, then hid under the house and would not come out. Dogs are good alarms. Something had frightened them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the dogs began barking, then hid under the house and would not come out. Dogs are good alarms. Something had frightened them.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 8.256
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dark farmyard seen from a lit kitchen doorway at night, a faint glow far in the field. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Log, seven forty-five. A glow appears in the yard, coming slowly toward the house. Taylor and Lucky Sutton go to the door."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 THE SIEGE",
+   "The First Hours",
+   "NIGHT WATCH \u00b7 ENCOUNTER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Log, seven forty-five. A glow appears in the yard, coming slowly toward the house. Taylor and Lucky Sutton go to the door.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small glowing silvery humanoid creature about three feet tall with a large round head, big pointed ears, huge round yellow eyes, long thin arms and clawed hands, thin legs, standing in a dark farmyard approaching a house with its hands raised. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They said a small glowing figure walked toward them with its hands raised. Three feet tall, a big head, ears like a bat, a silver shine."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They said a small glowing figure walked toward them with its hands raised. Three feet tall, a big head, ears like a bat, a silver shine.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 9.408
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a man in work clothes raising a shotgun in a dark doorway at night, silhouette, tense. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The men did not wait to be polite. Lucky fired a shotgun. Taylor fired a twenty-two rifle. They hit it, they said, and it flipped over."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The men did not wait to be polite. Lucky fired a shotgun. Taylor fired a twenty-two rifle. They hit it, they said, and it flipped over.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 8.952
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small dark shape tumbling across a farmyard at night, motion blur. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The creature somersaulted, then scampered off into the dark. They said it did not fall like an animal. It floated, almost, and got up unhurt."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The creature somersaulted, then scampered off into the dark. They said it did not fall like an animal. It floated, almost, and got up unhurt.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of old brass shotgun shells scattered on a wooden floor, warm lamp light, close-up. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The men said the shots rang like hitting a metal bucket. That is an odd detail. A shotgun blast against a living thing does not make that sound."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The men said the shots rang like hitting a metal bucket. That is an odd detail. A shotgun blast against a living thing does not make that sound.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small pair of large glowing yellow eyes looking in through a farmhouse window at night. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Minutes later, a face appeared at the window. Taylor fired through the screen. Another creature climbed onto the roof. A hand reached down toward a child."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Minutes later, a face appeared at the window. Taylor fired through the screen. Another creature climbed onto the roof. A hand reached down toward a child.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a farmhouse roof silhouette against the night sky with a small figure sitting on the ridge. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the roof, said the family, a figure crouched in the starlight. Lucky stepped outside and a clawed hand grabbed at his hair. He felt it, he said."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the roof, said the family, a figure crouched in the starlight. Lucky stepped outside and a clawed hand grabbed at his hair. He felt it, he said.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a family huddled together on the floor of a dark farmhouse room, a kerosene lamp low, tense. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inside, the women gathered the children in the middle of the house. Glennie Lankford tried to keep order. Her youngest was seven years old."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inside, the women gathered the children in the middle of the house. Glennie Lankford tried to keep order. Her youngest was seven years old.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 8.832
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a rural dirt road at night with car headlights and fields, fleeing. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hours passed in a loop. Creatures appeared. Men shot them. They vanished. They came back. The family had no phone, no neighbours, and no escape but the car."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hours passed in a loop. Creatures appeared. Men shot them. They vanished. They came back. The family had no phone, no neighbours, and no escape but the car.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a 1950s car driving fast along a dark country road at night, headlights glaring. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Around eleven that night, all eleven crammed into two cars and drove to the Hopkinsville police station, seven miles away, ashen and out of breath."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around eleven that night, all eleven crammed into two cars and drove to the Hopkinsville police station, seven miles away, ashen and out of breath.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.104
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small-town 1950s police station at night with a desk, a lamp and a telephone, empty. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Police chief Greg Russell later said he had never seen people so frightened. They were not drunk, he noted, and not joking."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Police chief Greg Russell later said he had never seen people so frightened. They were not drunk, he noted, and not joking.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 8.136
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a night road leading toward the dark farmhouse with police headlights approaching. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Within minutes, more than a dozen officers and soldiers were on the road to the farm."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Within minutes, more than a dozen officers and soldiers were on the road to the farm.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 5.4
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of police officers and state troopers in 1950s uniforms walking with flashlights across a dark farmyard. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Log, eleven thirty. Police from the state, the county, and the city arrive, joined by four military police from nearby Fort Campbell."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 THE SEARCH",
+   "Police Arrive",
+   "LAW ENFORCEMENT \u00b7 SOLDIERS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Log, eleven thirty. Police from the state, the county, and the city arrive, joined by four military police from nearby Fort Campbell.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of flashlight beams sweeping over bullet-pierced window screens and a splintered wooden wall, close-up. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They found the evidence the family promised. Bullet holes in the screens. Shotgun damage on the walls. Spent shells all over the yard."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They found the evidence the family promised. Bullet holes in the screens. Shotgun damage on the walls. Spent shells all over the yard.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a flashlight beam crossing a dark gully with brush and leaves at night, empty. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What they did not find was a creature. No bodies, no blood, no tracks, no spacecraft. The gully was empty."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What they did not find was a creature. No bodies, no blood, no tracks, no spacecraft. The gully was empty.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 7.536
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small patch of grass in a field at night with a faint pale shine, flashlights nearby. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One officer noticed a faint glow on the ground near the fence. It looked, he said, like a strange shine. He could not say what it was."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One officer noticed a faint glow on the ground near the fence. It looked, he said, like a strange shine. He could not say what it was.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 9.0
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a night sky with a few faint shooting stars over a rural horizon. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some theories later said it was a meteor. The Perseid showers and a bright fireball were seen across Kentucky that night."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some theories later said it was a meteor. The Perseid showers and a bright fireball were seen across Kentucky that night.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 7.632
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of police officers leaving a farmhouse yard at night in their cars, tail lights in the dark. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By two in the morning, the police gave up and left. Chief Russell said he had seen enough to know the family truly believed their story."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By two in the morning, the police gave up and left. Chief Russell said he had seen enough to know the family truly believed their story.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.808
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small glowing figure peeking around the corner of a farmhouse at night. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then, say the Suttons, the creatures came back. Barely had the cars disappeared before a face looked in at the window again."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then, say the Suttons, the creatures came back. Barely had the cars disappeared before a face looked in at the window again.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 8.256
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a tired farm family at dawn sitting outside a house under a pink sky, ragged and exhausted. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The shooting began again. It went on until about five that morning, when the first grey light arrived and the figures finally stopped coming."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The shooting began again. It went on until about five that morning, when the first grey light arrived and the figures finally stopped coming.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "sand",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a pale dawn sky over a quiet Kentucky farmhouse with empty fields. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At dawn, the family left. The farm stood quiet. The siege, by their count, had lasted about four hours, on and off, across the night."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At dawn, the family left. The farm stood quiet. The siege, by their count, had lasted about four hours, on and off, across the night.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a 1950s reporter at a typewriter at a wooden desk beside a lamp, newspaper office. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Log, Monday. The press arrive. Reporters from the Kentucky New Era and others filled the town, and the story went national within hours."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV \u00b7 THE FILE",
+   "Investigators",
+   "INTERVIEWS \u00b7 REPORTS \u00b7 DRAWINGS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Log, Monday. The press arrive. Reporters from the Kentucky New Era and others filled the town, and the story went national within hours.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of two researchers in 1950s clothes interviewing a family on a farmhouse porch with notebooks. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two civilian investigators, Isabel Davis and Ted Bloecher, interviewed the family in nineteen fifty-six and wrote a long report for the Civilian Saucer Intelligence."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two civilian investigators, Isabel Davis and Ted Bloecher, interviewed the family in nineteen fifty-six and wrote a long report for the Civilian Saucer Intelligence.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a stack of old typed reports and a notebook on a desk with a lamp, 1950s office. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They found the accounts remarkably consistent. The family told the same core story separately, and the details barely changed between tellings."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They found the accounts remarkably consistent. The family told the same core story separately, and the details barely changed between tellings.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a hand-drawn pencil sketch of a small big-eared creature on old paper, blank background, no text. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Sketches were drawn from the descriptions. A small body, a round head, large pointed ears, long arms, and clawed hands. Not a classic little green man at all."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Sketches were drawn from the descriptions. A small body, a round head, large pointed ears, long arms, and clawed hands. Not a classic little green man at all.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a scholarly astronomer in a 1960s suit looking thoughtfully at a night sky, observatory dome behind. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later, the astronomer J. Allen Hynek, the man who coined the term close encounter, studied the case and thought it deserved serious attention."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later, the astronomer J. Allen Hynek, the man who coined the term close encounter, studied the case and thought it deserved serious attention.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 9.504
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a smiling humble farm family in Sunday clothes refusing a roll of cash, old photograph style. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notably, the family never sought fame or money. They had no book deal and no film. The Suttons mostly wanted to be left alone."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notably, the family never sought fame or money. They had no book deal and no film. The Suttons mostly wanted to be left alone.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 8.712
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a quiet farm field at night with mist rising and a faint distant star. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is what we have. A sincere family. Bullet holes. Dozens of witnesses to their fear. And no physical trace of anything else."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is what we have. A sincere family. Bullet holes. Dozens of witnesses to their fear. And no physical trace of anything else.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 9.0
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a great horned owl perched on a dead branch at night with huge yellow eyes, sharp talons. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Log, the skeptic's file. A simpler idea: great horned owls. Check the facts. They stand about two feet tall, with a wingspan of four or five feet."
+   ]
+  ],
+  "tag": "P",
+  "ch": [
+   "V \u00b7 THE OWL FILE",
+   "Natural Explanations",
+   "OWLS \u00b7 METEOR \u00b7 PANIC"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Log, the skeptic's file. A simpler idea: great horned owls. Check the facts. They stand about two feet tall, with a wingspan of four or five feet.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.776
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a great horned owl's face close up with yellow eyes and ear tufts like horns. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They have big round yellow eyes. Ear tufts that look like pointed ears. Sharp talons. And they nest in the woods of Kentucky."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They have big round yellow eyes. Ear tufts that look like pointed ears. Sharp talons. And they nest in the woods of Kentucky.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a great horned owl swooping silently in dim light with wings wide, motion blur. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Mother owls defend their nests fiercely and glow faintly in light. A pair near the farm might have been drawn by the lights and noise."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Mother owls defend their nests fiercely and glow faintly in light. A pair near the farm might have been drawn by the lights and noise.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 8.76
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dim farmhouse porch light attracting moths and an owl silhouette on a post at night. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Skeptoid and investigators like Joe Nickell argue that the family, already scared by the meteor, mistook owls on the roof and in the trees for monsters."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Skeptoid and investigators like Joe Nickell argue that the family, already scared by the meteor, mistook owls on the roof and in the trees for monsters.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a shotgun pellet hitting a feathered bird in thick branches at night, dramatic. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What of bullets that did nothing? The men fired through screens and darkness, probably missing, and sometimes hitting thick feathers, not bone."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What of bullets that did nothing? The men fired through screens and darkness, probably missing, and sometimes hitting thick feathers, not bone.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a night photograph of a farm yard with deep shadows and leaves moving in the wind. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The 'bucket' sound could have been pellets striking the tin roof or metal rim of the well. And the 'floating' walk? Shadows, wind, panic and lamps."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The 'bucket' sound could have been pellets striking the tin roof or metal rim of the well. And the 'floating' walk? Shadows, wind, panic and lamps.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 9.336
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a crowded 1950s farmhouse room, family members startled and shouting, lamp flickering. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Add fear, exhaustion, and a hot August night. A group under stress can build the same story together, each person confirming the last."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Add fear, exhaustion, and a hot August night. A group under stress can build the same story together, each person confirming the last.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a magnifying glass over a map of Kentucky on an old table, investigator style. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But some details still resist. The creatures' behaviour, the long hours, and the way adults and children described the same face. Owls do not explain everything."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But some details still resist. The creatures' behaviour, the long hours, and the way adults and children described the same face. Owls do not explain everything.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a mysterious silver craft hovering silently over a dark farm field at night, cinematic. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Log, the alien file. The theory: a small craft landed in the gully and its crew, small beings, approached the house. Let's test it."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VI \u00b7 THE ALIEN FILE",
+   "Evidence vs Theory",
+   "CRAFT \u00b7 BEINGS \u00b7 COVER-UP"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Log, the alien file. The theory: a small craft landed in the gully and its crew, small beings, approached the house. Let's test it.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 9.288
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an empty muddy gully with ordinary grass and bushes at dawn, no marks. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First, the craft. Investigators searched the gully the next day and found no landing marks, no burns, and no metal. Not a trace."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First, the craft. Investigators searched the gully the next day and found no landing marks, no burns, and no metal. Not a trace.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 8.88
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a military jeep and uniformed soldiers searching a Kentucky field in daylight 1955. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Second, the military. Four MPs from Fort Campbell did visit that night. There are reports the Air Force looked in. But no official file says what they found."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second, the military. Four MPs from Fort Campbell did visit that night. There are reports the Air Force looked in. But no official file says what they found.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 10.728
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a locked filing cabinet in a dim government office with a single desk lamp, mysterious. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Third, the cover-up claim. Some say the case was quietly buried. But burying a case with dozens of police and reporters as witnesses would be a clumsy job."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Third, the cover-up claim. Some say the case was quietly buried. But burying a case with dozens of police and reporters as witnesses would be a clumsy job.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 11.136
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small pale creature with large dark eyes in a spacecraft corridor, cinematic sci-fi. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Fourth, the beings. They do not match later alien claims. They had claws, ears, and glowing skin. A very different description from the grey aliens of the sixties."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fourth, the beings. They do not match later alien claims. They had claws, ears, and glowing skin. A very different description from the grey aliens of the sixties.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a silver-grey cartoon-free realistic model of a spacecraft as used in 1950s films, on a stand. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the 'spaceship' came from one man, Billy Ray Taylor, and he saw it at dusk, at a distance, before anything else happened."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the 'spaceship' came from one man, Billy Ray Taylor, and he saw it at dusk, at a distance, before anything else happened.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 7.896
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a night sky with a fireball meteor streaking across the stars in August. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It fits a bright meteor, the kind seen across the region that week. A fireball with sparks might read as a rainbow-coloured exhaust to a startled eye."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It fits a bright meteor, the kind seen across the region that week. A fireball with sparks might read as a rainbow-coloured exhaust to a startled eye.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 10.2
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a lone farm road leading toward bright stars with a sense of mystery. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the alien theory has a landing, no landing site. It has beings, no bodies. It has a cover-up, no cover. It rests entirely on testimony."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the alien theory has a landing, no landing site. It has beings, no bodies. It has a cover-up, no cover. It rests entirely on testimony.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "sand",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a thoughtful investigator sitting at a desk with notes and a lamp at night. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But testimony from eleven people, repeated for decades without a profit, is evidence of something. The question is only what."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But testimony from eleven people, repeated for decades without a profit, is evidence of something. The question is only what.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 8.664
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a vintage analogue scoreboard with blank cards on a wall, dim warm light. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Closing the log. Time to score the Kelly case."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Closing the log. Time to score the Kelly case.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 3.024
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark rural Kentucky farmhouse at night under stars far on the right edge, a faint silver glow in the field, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A frightened family, bullet holes, dozens of police and soldiers on the scene: all evidence. A sincere, unpaid witness group over decades: evidence, and unusual."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A frightened family, bullet holes, dozens of police and soldiers on the scene: all evidence. A sincere, unpaid witness group over decades: evidence, and unusual.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 11.904
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark rural Kentucky farmhouse at night under stars far on the right edge, a faint silver glow in the field, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "An object in the sky, probably a meteor: likely. Great horned owls explaining the figures: partial, with real gaps. Little men from space: no landing site, no bodies, no proof."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "An object in the sky, probably a meteor: likely. Great horned owls explaining the figures: partial, with real gaps. Little men from space: no landing site, no bodies, no proof.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark rural Kentucky farmhouse at night under stars far on the right edge, a faint silver glow in the field, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A government cover-up: unverified. Alien visitation: unproven. Mass panic and misidentification: the strongest fit, though not perfect."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A government cover-up: unverified. Alien visitation: unproven. Mass panic and misidentification: the strongest fit, though not perfect.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a small weathered white wooden farmhouse on a rural Kentucky farm at night, one lit window, dark fields and trees around it, 1950s. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Probably not aliens. Most likely a group of frightened people, a meteor, and a pair of very large owls. But the testimony, and the four-hour night, remain remarkable."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Probably not aliens. Most likely a group of frightened people, a meteor, and a pair of very large owls. But the testimony, and the four-hour night, remain remarkable.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a family walking away from a farmhouse in the early morning light, long shadows, quiet and sad. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Because whatever was in that yard, eleven people believed they were fighting for their lives. And that belief never faded for any of them."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Because whatever was in that yard, eleven people believed they were fighting for their lives. And that belief never faded for any of them.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 8.736
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dark highway at night in Mississippi marshes with a faint blue glow over the water, a shipyard in the distance. Photoreal, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: two shipyard workers, a river bank, and creatures with claws for hands. What happened to them in nineteen seventy-three?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: two shipyard workers, a river bank, and creatures with claws for hands. What happened to them in nineteen seventy-three?",
+    "file": "ep/audio/s65.mp3",
+    "dur": 8.376
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small silver glowing figure with big eyes faintly lit in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Owls or aliens? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Owls or aliens? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 6.84
+   }
+  ]
+ }
+]

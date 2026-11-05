@@ -1,0 +1,1356 @@
+{
+ "fps": 30,
+ "total": 19972,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 473,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "August nineteen fifty-five. A farmhouse in Kentucky. Eleven people inside, and something outside the windows. For about four hours, the family fired shotguns at small glowing figures that would not die.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.688,
+     "start": 10,
+     "end": 451
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 455,
+   "end": 851,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They described a creature about three feet tall, silvery, with huge ears, enormous eyes, and arms that nearly touched the ground. They said bullets rang off it like hitting a bucket.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 12.12,
+     "start": 465,
+     "end": 829
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 833,
+   "end": 1152,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Police came. Soldiers came. They found bullet holes, a terrified family, and no bodies. And the family never made a cent from the story.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 9.552,
+     "start": 843,
+     "end": 1130
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1134,
+   "end": 1454,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight we keep a night watch. Hour by hour, we log every claim, sort the evidence from the theory, and ask what really happened at Kelly.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 9.576,
+     "start": 1144,
+     "end": 1432
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1436,
+   "end": 1722,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Little men from space, or owls in the dark? Let's begin the log.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 4.44,
+     "start": 1446,
+     "end": 1580
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 THE FARM",
+    "The Place",
+    "KELLY \u00b7 KENTUCKY \u00b7 1955"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1704,
+   "end": 2061,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Log entry one. The place. Kelly is a tiny farming community in Christian County, Kentucky, about seven miles north of the town of Hopkinsville.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 10.824,
+     "start": 1714,
+     "end": 2039
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2043,
+   "end": 2377,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Sutton farmhouse was a rented, run-down home with no running water. It stood at the end of a dirt road, surrounded by woods and a gully.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.056,
+     "start": 2053,
+     "end": 2355
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2359,
+   "end": 2734,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside lived Glennie Lankford, her sons, and her children, with guests visiting. Elmer, called Lucky, Sutton rented the house. Eleven people were there that Sunday.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 11.424,
+     "start": 2369,
+     "end": 2712
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2716,
+   "end": 3055,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "These were poor, hard-working country people. They kept guns, as most rural families did, for hunting and for the foxes. That detail matters later.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 10.224,
+     "start": 2726,
+     "end": 3033
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3037,
+   "end": 3341,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The layout matters too. A well at the back. A gully beyond the fence. A few big trees. And nothing but dark fields in every direction.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 9.048,
+     "start": 3047,
+     "end": 3319
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3323,
+   "end": 3682,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That evening, around seven, a visitor named Billy Ray Taylor went out to the well for water. He came running back, saying he had seen a bright object in the sky.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 10.872,
+     "start": 3333,
+     "end": 3660
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3664,
+   "end": 3966,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Taylor said it was bright, with a rainbow-coloured exhaust, and that it landed in the gully beyond the fence. Nobody believed him. They laughed.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 8.976,
+     "start": 3674,
+     "end": 3944
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 3948,
+   "end": 4228,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the dogs began barking, then hid under the house and would not come out. Dogs are good alarms. Something had frightened them.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 8.256,
+     "start": 3958,
+     "end": 4206
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II \u00b7 THE SIEGE",
+    "The First Hours",
+    "NIGHT WATCH \u00b7 ENCOUNTER"
+   ],
+   "img": "ep/img/shot_14.jpg",
+   "start": 4210,
+   "end": 4517,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Log, seven forty-five. A glow appears in the yard, coming slowly toward the house. Taylor and Lucky Sutton go to the door.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 9.144,
+     "start": 4220,
+     "end": 4495
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4499,
+   "end": 4814,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They said a small glowing figure walked toward them with its hands raised. Three feet tall, a big head, ears like a bat, a silver shine.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 9.408,
+     "start": 4509,
+     "end": 4792
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 4796,
+   "end": 5097,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The men did not wait to be polite. Lucky fired a shotgun. Taylor fired a twenty-two rifle. They hit it, they said, and it flipped over.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 8.952,
+     "start": 4806,
+     "end": 5075
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5079,
+   "end": 5391,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The creature somersaulted, then scampered off into the dark. They said it did not fall like an animal. It floated, almost, and got up unhurt.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 9.312,
+     "start": 5089,
+     "end": 5369
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5373,
+   "end": 5704,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The men said the shots rang like hitting a metal bucket. That is an odd detail. A shotgun blast against a living thing does not make that sound.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.96,
+     "start": 5383,
+     "end": 5682
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 5686,
+   "end": 6032,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Minutes later, a face appeared at the window. Taylor fired through the screen. Another creature climbed onto the roof. A hand reached down toward a child.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 10.44,
+     "start": 5696,
+     "end": 6010
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6014,
+   "end": 6329,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the roof, said the family, a figure crouched in the starlight. Lucky stepped outside and a clawed hand grabbed at his hair. He felt it, he said.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 9.432,
+     "start": 6024,
+     "end": 6307
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6311,
+   "end": 6608,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside, the women gathered the children in the middle of the house. Glennie Lankford tried to keep order. Her youngest was seven years old.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 8.832,
+     "start": 6321,
+     "end": 6586
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 6590,
+   "end": 6941,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hours passed in a loop. Creatures appeared. Men shot them. They vanished. They came back. The family had no phone, no neighbours, and no escape but the car.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.608,
+     "start": 6600,
+     "end": 6919
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 6923,
+   "end": 7259,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Around eleven that night, all eleven crammed into two cars and drove to the Hopkinsville police station, seven miles away, ashen and out of breath.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.104,
+     "start": 6933,
+     "end": 7237
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 7241,
+   "end": 7518,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Police chief Greg Russell later said he had never seen people so frightened. They were not drunk, he noted, and not joking.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 8.136,
+     "start": 7251,
+     "end": 7496
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 7500,
+   "end": 7694,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Within minutes, more than a dozen officers and soldiers were on the road to the farm.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 5.4,
+     "start": 7510,
+     "end": 7672
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III \u00b7 THE SEARCH",
+    "Police Arrive",
+    "LAW ENFORCEMENT \u00b7 SOLDIERS"
+   ],
+   "img": "ep/img/shot_26.jpg",
+   "start": 7676,
+   "end": 7986,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Log, eleven thirty. Police from the state, the county, and the city arrive, joined by four military police from nearby Fort Campbell.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 9.264,
+     "start": 7686,
+     "end": 7964
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 7968,
+   "end": 8280,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They found the evidence the family promised. Bullet holes in the screens. Shotgun damage on the walls. Spent shells all over the yard.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 9.312,
+     "start": 7978,
+     "end": 8258
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 8262,
+   "end": 8521,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What they did not find was a creature. No bodies, no blood, no tracks, no spacecraft. The gully was empty.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 7.536,
+     "start": 8272,
+     "end": 8499
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 8503,
+   "end": 8805,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One officer noticed a faint glow on the ground near the fence. It looked, he said, like a strange shine. He could not say what it was.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 9.0,
+     "start": 8513,
+     "end": 8783
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 8787,
+   "end": 9048,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some theories later said it was a meteor. The Perseid showers and a bright fireball were seen across Kentucky that night.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 7.632,
+     "start": 8797,
+     "end": 9026
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 9030,
+   "end": 9327,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By two in the morning, the police gave up and left. Chief Russell said he had seen enough to know the family truly believed their story.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 8.808,
+     "start": 9040,
+     "end": 9305
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 9309,
+   "end": 9589,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then, say the Suttons, the creatures came back. Barely had the cars disappeared before a face looked in at the window again.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 8.256,
+     "start": 9319,
+     "end": 9567
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 9571,
+   "end": 9870,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The shooting began again. It went on until about five that morning, when the first grey light arrived and the figures finally stopped coming.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 8.88,
+     "start": 9581,
+     "end": 9848
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 9852,
+   "end": 10162,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At dawn, the family left. The farm stood quiet. The siege, by their count, had lasted about four hours, on and off, across the night.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 9.264,
+     "start": 9862,
+     "end": 10140
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 THE FILE",
+    "Investigators",
+    "INTERVIEWS \u00b7 REPORTS \u00b7 DRAWINGS"
+   ],
+   "img": "ep/img/shot_35.jpg",
+   "start": 10144,
+   "end": 10449,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Log, Monday. The press arrive. Reporters from the Kentucky New Era and others filled the town, and the story went national within hours.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 9.072,
+     "start": 10154,
+     "end": 10427
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 10431,
+   "end": 10805,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two civilian investigators, Isabel Davis and Ted Bloecher, interviewed the family in nineteen fifty-six and wrote a long report for the Civilian Saucer Intelligence.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 11.376,
+     "start": 10441,
+     "end": 10783
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 10787,
+   "end": 11109,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They found the accounts remarkably consistent. The family told the same core story separately, and the details barely changed between tellings.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 9.648,
+     "start": 10797,
+     "end": 11087
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 11091,
+   "end": 11471,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sketches were drawn from the descriptions. A small body, a round head, large pointed ears, long arms, and clawed hands. Not a classic little green man at all.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 11.568,
+     "start": 11101,
+     "end": 11449
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 11453,
+   "end": 11771,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Later, the astronomer J. Allen Hynek, the man who coined the term close encounter, studied the case and thought it deserved serious attention.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 9.504,
+     "start": 11463,
+     "end": 11749
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 11753,
+   "end": 12047,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notably, the family never sought fame or money. They had no book deal and no film. The Suttons mostly wanted to be left alone.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 8.712,
+     "start": 11763,
+     "end": 12025
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 12029,
+   "end": 12331,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is what we have. A sincere family. Bullet holes. Dozens of witnesses to their fear. And no physical trace of anything else.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 9.0,
+     "start": 12039,
+     "end": 12309
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": [
+    "V \u00b7 THE OWL FILE",
+    "Natural Explanations",
+    "OWLS \u00b7 METEOR \u00b7 PANIC"
+   ],
+   "img": "ep/img/shot_42.jpg",
+   "start": 12313,
+   "end": 12669,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Log, the skeptic's file. A simpler idea: great horned owls. Check the facts. They stand about two feet tall, with a wingspan of four or five feet.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 10.776,
+     "start": 12323,
+     "end": 12647
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 12651,
+   "end": 12944,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They have big round yellow eyes. Ear tufts that look like pointed ears. Sharp talons. And they nest in the woods of Kentucky.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 8.688,
+     "start": 12661,
+     "end": 12922
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 12926,
+   "end": 13221,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Mother owls defend their nests fiercely and glow faintly in light. A pair near the farm might have been drawn by the lights and noise.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 8.76,
+     "start": 12936,
+     "end": 13199
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 13203,
+   "end": 13536,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Skeptoid and investigators like Joe Nickell argue that the family, already scared by the meteor, mistook owls on the roof and in the trees for monsters.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 10.008,
+     "start": 13213,
+     "end": 13514
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 13518,
+   "end": 13825,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What of bullets that did nothing? The men fired through screens and darkness, probably missing, and sometimes hitting thick feathers, not bone.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 9.144,
+     "start": 13528,
+     "end": 13803
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 13807,
+   "end": 14120,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The 'bucket' sound could have been pellets striking the tin roof or metal rim of the well. And the 'floating' walk? Shadows, wind, panic and lamps.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 9.336,
+     "start": 13817,
+     "end": 14098
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 14102,
+   "end": 14418,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Add fear, exhaustion, and a hot August night. A group under stress can build the same story together, each person confirming the last.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 9.456,
+     "start": 14112,
+     "end": 14396
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 14400,
+   "end": 14768,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But some details still resist. The creatures' behaviour, the long hours, and the way adults and children described the same face. Owls do not explain everything.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 11.184,
+     "start": 14410,
+     "end": 14746
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "VI \u00b7 THE ALIEN FILE",
+    "Evidence vs Theory",
+    "CRAFT \u00b7 BEINGS \u00b7 COVER-UP"
+   ],
+   "img": "ep/img/shot_50.jpg",
+   "start": 14750,
+   "end": 15061,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Log, the alien file. The theory: a small craft landed in the gully and its crew, small beings, approached the house. Let's test it.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 9.288,
+     "start": 14760,
+     "end": 15039
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 15043,
+   "end": 15342,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First, the craft. Investigators searched the gully the next day and found no landing marks, no burns, and no metal. Not a trace.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 8.88,
+     "start": 15053,
+     "end": 15320
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 15324,
+   "end": 15678,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Second, the military. Four MPs from Fort Campbell did visit that night. There are reports the Air Force looked in. But no official file says what they found.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 10.728,
+     "start": 15334,
+     "end": 15656
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 15660,
+   "end": 16027,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Third, the cover-up claim. Some say the case was quietly buried. But burying a case with dozens of police and reporters as witnesses would be a clumsy job.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 11.136,
+     "start": 15670,
+     "end": 16005
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 16009,
+   "end": 16383,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Fourth, the beings. They do not match later alien claims. They had claws, ears, and glowing skin. A very different description from the grey aliens of the sixties.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 11.376,
+     "start": 16019,
+     "end": 16361
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 16365,
+   "end": 16634,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the 'spaceship' came from one man, Billy Ray Taylor, and he saw it at dusk, at a distance, before anything else happened.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 7.896,
+     "start": 16375,
+     "end": 16612
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 16616,
+   "end": 16954,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It fits a bright meteor, the kind seen across the region that week. A fireball with sparks might read as a rainbow-coloured exhaust to a startled eye.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 10.2,
+     "start": 16626,
+     "end": 16932
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 16936,
+   "end": 17280,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the alien theory has a landing, no landing site. It has beings, no bodies. It has a cover-up, no cover. It rests entirely on testimony.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 10.368,
+     "start": 16946,
+     "end": 17258
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "sand",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 17262,
+   "end": 17554,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But testimony from eleven people, repeated for decades without a profit, is evidence of something. The question is only what.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 8.664,
+     "start": 17272,
+     "end": 17532
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 17536,
+   "end": 17659,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Closing the log. Time to score the Kelly case.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 3.024,
+     "start": 17546,
+     "end": 17637
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 17641,
+   "end": 18031,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A frightened family, bullet holes, dozens of police and soldiers on the scene: all evidence. A sincere, unpaid witness group over decades: evidence, and unusual.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 11.904,
+     "start": 17651,
+     "end": 18009
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 18013,
+   "end": 18434,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "An object in the sky, probably a meteor: likely. Great horned owls explaining the figures: partial, with real gaps. Little men from space: no landing site, no bodies, no proof.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 12.936,
+     "start": 18023,
+     "end": 18412
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 18416,
+   "end": 18755,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A government cover-up: unverified. Alien visitation: unproven. Mass panic and misidentification: the strongest fit, though not perfect.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 10.224,
+     "start": 18426,
+     "end": 18733
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 18737,
+   "end": 19134,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Probably not aliens. Most likely a group of frightened people, a meteor, and a pair of very large owls. But the testimony, and the four-hour night, remain remarkable.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 12.144,
+     "start": 18747,
+     "end": 19112
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 19116,
+   "end": 19411,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Because whatever was in that yard, eleven people believed they were fighting for their lives. And that belief never faded for any of them.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 8.736,
+     "start": 19126,
+     "end": 19389
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 19393,
+   "end": 19677,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: two shipyard workers, a river bank, and creatures with claws for hands. What happened to them in nineteen seventy-three?",
+     "file": "ep/audio/s65.mp3",
+     "dur": 8.376,
+     "start": 19403,
+     "end": 19655
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 19659,
+   "end": 19897,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Owls or aliens? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 6.84,
+     "start": 19669,
+     "end": 19875
+    }
+   ]
+  }
+ ]
+}
