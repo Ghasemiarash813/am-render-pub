@@ -1,0 +1,1480 @@
+{
+ "fps": 30,
+ "total": 21339,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 333,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Peru, the coast, one of the driest deserts on Earth. And buried in the sand here is a ring of stone that may be five thousand five hundred years old.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 10.032,
+     "start": 10,
+     "end": 311
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 315,
+   "end": 653,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Older than Stonehenge. Older than the pyramids of Giza. Some websites say it was built by a lost civilization, or by visitors from the sky.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 10.176,
+     "start": 325,
+     "end": 631
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 635,
+   "end": 915,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight we keep a dig diary. Day by day, trench by trench, we ask what is really in the ground at Sechin Bajo.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 8.256,
+     "start": 645,
+     "end": 893
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 897,
+   "end": 1028,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Day one. Arrival. Let us begin with where we are.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 3.288,
+     "start": 907,
+     "end": 1006
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1010,
+   "end": 1348,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And what they found here in two thousand eight changed the timeline of the Americas. Or did it?",
+     "file": "ep/audio/s05.mp3",
+     "dur": 6.192,
+     "start": 1020,
+     "end": 1206
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 ARRIVAL",
+    "Day 1",
+    "CASMA VALLEY \u00b7 ANCASH \u00b7 PERU"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1330,
+   "end": 1746,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter one. Arrival. The Casma valley lies in the Ancash region of northern Peru, about three hundred kilometres north of Lima, and about twelve kilometres from the Pacific coast.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 12.792,
+     "start": 1340,
+     "end": 1724
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 1728,
+   "end": 2089,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here it almost never rains. Less than ten millimetres a year. Life hugs the river, in narrow green oases that cut across the sand like green threads.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.944,
+     "start": 1738,
+     "end": 2067
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2071,
+   "end": 2371,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Fifty-seven rivers cross the Peruvian coast. Each one carried water to the desert, and each valley became a place where people could settle.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 8.904,
+     "start": 2081,
+     "end": 2349
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2353,
+   "end": 2750,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today the valley holds a cluster of ancient sites. Cerro Sechin. Sechin Alto. Taukachi-Konkan. And the one we came for, Sechin Bajo, on the far bank of the river.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 12.144,
+     "start": 2363,
+     "end": 2728
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 2732,
+   "end": 3166,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The first big name here is the Peruvian archaeologist Julio Tello. On the first of July, nineteen thirty-seven, he and Toribio Mejia Xesspe found the carved stones of Cerro Sechin.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 13.392,
+     "start": 2742,
+     "end": 3144
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3148,
+   "end": 3511,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tello thought it was the capital of a whole culture. We now call it the Casma-Sechin culture. And for decades, the story stopped there, around sixteen hundred B C.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 11.016,
+     "start": 3158,
+     "end": 3489
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3493,
+   "end": 3732,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, in the nineteen-nineties, a team started digging deeper at Sechin Bajo. Deeper than anyone had.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 6.888,
+     "start": 3503,
+     "end": 3710
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II \u00b7 TRENCH ONE",
+    "Days 2 to 9",
+    "LAYERS \u00b7 STONE \u00b7 ADOBE"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 3714,
+   "end": 4134,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter two. Trench one. The team was led by the German-Peruvian archaeologist Peter Fuchs. Their method was the oldest one there is: dig a square, record each layer, and go down.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.912,
+     "start": 3724,
+     "end": 4112
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4116,
+   "end": 4444,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Each layer is a page in a book. Ash from a hearth. Sand blown in by wind. Clay, laid by hand. The deeper you go, the older it gets.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 9.864,
+     "start": 4126,
+     "end": 4422
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4426,
+   "end": 4763,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Under the later buildings, they found a wall. Curved. Made of stone, and of rectangular adobe bricks. Older than the pyramid they were standing next to.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 10.152,
+     "start": 4436,
+     "end": 4741
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 4745,
+   "end": 5014,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "As they cleared the sand, the curve closed into a circle. A sunken circular plaza, ten to twelve metres across.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 7.872,
+     "start": 4755,
+     "end": 4992
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 4996,
+   "end": 5308,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Not a house. Not a grave. A public space. A place where people gathered, and where someone planned the shape before the first stone was laid.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 9.312,
+     "start": 5006,
+     "end": 5286
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5290,
+   "end": 5597,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The stones are not giant. They are fitted by hand, bound with mud. This matters, because the internet loves to call it megalithic.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.144,
+     "start": 5300,
+     "end": 5575
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 5579,
+   "end": 5937,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Real building needs real people: someone to carry stone, someone to mix mud, someone to plan. That is already a society, even if we know nothing about its name.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 10.848,
+     "start": 5589,
+     "end": 5915
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III \u00b7 DATING",
+    "Days 10 to 14",
+    "CARBON \u00b7 CHARCOAL \u00b7 3500 BCE"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 5919,
+   "end": 6097,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter three. Dating. How do we know how old a wall is? We ask the charcoal.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 4.848,
+     "start": 5929,
+     "end": 6075
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6079,
+   "end": 6372,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Every living thing takes in carbon. When it dies, a tiny part of it decays at a known rate. A lab can measure what is left.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 8.688,
+     "start": 6089,
+     "end": 6350
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 6354,
+   "end": 6696,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At Sechin Bajo, the samples came from burned plant material in the layers of the plaza. Radiocarbon put them around thirty-five hundred B C.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.32,
+     "start": 6364,
+     "end": 6674
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 6678,
+   "end": 7016,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is about fifty-five hundred years ago. Five hundred years older than Caral, the famous city of Peru, built around twenty-six hundred B C.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.2,
+     "start": 6688,
+     "end": 6994
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 6998,
+   "end": 7246,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Older than the Great Pyramid of Giza by roughly nine hundred years. Older than Stonehenge's first ditch.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 7.2,
+     "start": 7008,
+     "end": 7224
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 7228,
+   "end": 7622,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But careful. Radiocarbon gives a range, not one date. And the team itself announced these results in two thousand nine, in a journal. Not everyone has seen the full data yet.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 12.048,
+     "start": 7238,
+     "end": 7600
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 7604,
+   "end": 7950,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The report: Fuchs and colleagues, Boletin de Arqueologia, Catholic University of Peru, two thousand nine. It is a real paper, and a careful one.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 10.464,
+     "start": 7614,
+     "end": 7928
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 7932,
+   "end": 8250,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some Andean specialists say: promising, but we need more dates from more layers. That is fair. One strong claim needs more than one trench.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 9.528,
+     "start": 7942,
+     "end": 8228
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV \u00b7 THE FRIEZE",
+    "Days 15 to 20",
+    "RELIEF \u00b7 ART \u00b7 3600 BCE"
+   ],
+   "img": "ep/img/shot_28.jpg",
+   "start": 8232,
+   "end": 8553,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter four. The frieze. Nearby, the team also reported a stone frieze, two metres tall, dated around thirty-six hundred B C.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 9.624,
+     "start": 8242,
+     "end": 8531
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 8535,
+   "end": 8812,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If that date holds, it would be some of the earliest monumental art in the Americas. Before any pottery in this region.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 8.136,
+     "start": 8545,
+     "end": 8790
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 8794,
+   "end": 9120,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the odd thing. At this time, people here did not make pots. Archaeologists call it the pre-ceramic period. Yet they built plazas.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 9.768,
+     "start": 8804,
+     "end": 9098
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 9102,
+   "end": 9388,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They had baskets. They had cotton, and fishing nets. They fished on the coast and farmed in the valley. No pots, but great buildings.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 8.448,
+     "start": 9112,
+     "end": 9366
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 9370,
+   "end": 9761,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now compare Cerro Sechin, just across the river, around sixteen hundred B C. A wall of upright granite slabs, carved with warriors, and the bodies of their victims.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 11.952,
+     "start": 9380,
+     "end": 9739
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 9743,
+   "end": 10102,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Dramatic art, almost two thousand years after Sechin Bajo. These are the carvings that appear in documentaries. They are not the oldest part of the story.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 10.872,
+     "start": 9753,
+     "end": 10080
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 10084,
+   "end": 10356,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which is a trap for the casual viewer. Cerro Sechin is famous. Sechin Bajo is older and almost unknown.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 7.968,
+     "start": 10094,
+     "end": 10334
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "V \u00b7 THE NEIGHBOURS",
+    "Days 21 to 25",
+    "SECHIN ALTO \u00b7 CARAL \u00b7 SCALE"
+   ],
+   "img": "ep/img/shot_35.jpg",
+   "start": 10338,
+   "end": 10699,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter five. The neighbours. Look at Sechin Alto, right beside it. A temple platform three hundred and fifty metres by three hundred, thirty-five metres high.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 10.944,
+     "start": 10348,
+     "end": 10677
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 10681,
+   "end": 10977,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Five plazas stretch two kilometres. The whole complex covers three to four hundred hectares: five times the size of Caral.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 8.784,
+     "start": 10691,
+     "end": 10955
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 10959,
+   "end": 11243,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside, large stones alternate with small ones. Conical adobe bricks fill the core. Careful, ordered, planned work.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 8.376,
+     "start": 10969,
+     "end": 11221
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 11225,
+   "end": 11525,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tello called it the largest building of the Americas. So when someone says: the people here were primitive, ask them to stand at its foot.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 8.904,
+     "start": 11235,
+     "end": 11503
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 11507,
+   "end": 11827,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The region also links to Caral, Norte Chico, a chain of early cities that grew along the Peruvian coast, with no writing and no wheels.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 9.576,
+     "start": 11517,
+     "end": 11805
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 11809,
+   "end": 12121,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So Sechin Bajo is not alone. It is the oldest piece of a big landscape, one that grew in complexity over two thousand years.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 9.312,
+     "start": 11819,
+     "end": 12099
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 12103,
+   "end": 12345,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And much of it is still under farmland and sand. Whole zones around Sechin Alto have never been dug.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 6.984,
+     "start": 12113,
+     "end": 12323
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "VI \u00b7 THE CLAIM",
+    "Days 26 to 29",
+    "LOST CIVILIZATION \u00b7 ASTRONAUTS"
+   ],
+   "img": "ep/img/shot_42.jpg",
+   "start": 12327,
+   "end": 12677,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter six. The claim. Search online, and you will find posts saying Sechin Bajo is proof of a lost civilization, or of ancient astronauts.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 10.584,
+     "start": 12337,
+     "end": 12655
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 12659,
+   "end": 12892,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The argument is always the same. Too old. Too big. Too perfect. So someone else must have built it.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 6.672,
+     "start": 12669,
+     "end": 12870
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 12874,
+   "end": 13153,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Take them one by one. Too old? The dates are real, from charcoal. Hammer stones, baskets, and mud were all this took.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 8.232,
+     "start": 12884,
+     "end": 13131
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 13135,
+   "end": 13422,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Too perfect? A circle is easy. A cord, a stake, and a person walking around it. Archaeologists have found cords like this.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 8.496,
+     "start": 13145,
+     "end": 13400
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 13404,
+   "end": 13749,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Anything alien? No object. No metal. No machine. No unexplained tool. Not one thing in the trench that people of that time could not have made.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 10.416,
+     "start": 13414,
+     "end": 13727
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 13731,
+   "end": 13977,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What remains is a feeling, that ancient people could not have done it. That feeling says more about us than about them.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 7.104,
+     "start": 13741,
+     "end": 13955
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 13959,
+   "end": 14275,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And it is also quietly unfair to the real builders, the people of the Peruvian coast, who invented monumental architecture on their own.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 9.456,
+     "start": 13969,
+     "end": 14253
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VII \u00b7 WHO WERE THEY?",
+    "Days 30 to 33",
+    "FISH \u00b7 COTTON \u00b7 CEREMONY"
+   ],
+   "img": "ep/img/shot_49.jpg",
+   "start": 14257,
+   "end": 14526,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter seven. Who were they? Honestly, we do not know. We have no name, no language, no writing. Only what they built.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 7.896,
+     "start": 14267,
+     "end": 14504
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 14508,
+   "end": 14808,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their food was anchovies from the sea, and beans and squash from the valley. Their trade was cotton, which they spun into nets and cloth.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 8.904,
+     "start": 14518,
+     "end": 14786
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 14790,
+   "end": 15077,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The circular plaza suggests rituals. A shared fire. A shared story. Maybe a ruler, maybe a council, maybe both.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 8.496,
+     "start": 14800,
+     "end": 15055
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 15059,
+   "end": 15313,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some scholars think early temples here tracked the sun and the seasons. That is a theory, with hints, not proof.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 7.368,
+     "start": 15069,
+     "end": 15291
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 15295,
+   "end": 15576,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We only know about one hundredth of the site. A future trench could change the story again. That is the thrill of this season.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 8.28,
+     "start": 15305,
+     "end": 15554
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 15558,
+   "end": 15927,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Back in the trench, nothing is thrown away. Every bucket of sand goes through a sieve, because the smallest thing, a bead, a seed, a fish bone, can tell us how people lived.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 11.208,
+     "start": 15568,
+     "end": 15905
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 15909,
+   "end": 16215,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "From those scraps, the team can count what people ate. Anchovies. Sea snails. Squash. A diet of the coast, not of the stars.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 9.12,
+     "start": 15919,
+     "end": 16193
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 16197,
+   "end": 16530,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And every layer is drawn by hand, to scale, before it is removed. Once a layer is dug, it is gone forever. The drawing is all that is left.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 10.032,
+     "start": 16207,
+     "end": 16508
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 16512,
+   "end": 16839,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Evening in the camp. Wind. Dust in the lamp. This is the part of archaeology that documentaries skip: the slow, careful, quiet work.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 9.816,
+     "start": 16522,
+     "end": 16817
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 16821,
+   "end": 17152,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One of the quiet treasures is cloth. Woven cotton, preserved by the dry desert for thousands of years. Ordinary people, with ordinary skill.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 9.936,
+     "start": 16831,
+     "end": 17130
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 17134,
+   "end": 17468,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The valley is still farmed today. The same river, the same sand, the same sun. That continuity is why the ground here keeps its secrets so well.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 10.056,
+     "start": 17144,
+     "end": 17446
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 17450,
+   "end": 17769,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some videos claim the site is far older, tens of thousands of years. There is no radiocarbon date, no layer, and no paper that says so.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 9.552,
+     "start": 17460,
+     "end": 17747
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 17751,
+   "end": 18061,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A good rule from the field: the further a claim goes beyond the data, the more careful you must be. Charcoal can be dated. A feeling cannot.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 9.264,
+     "start": 17761,
+     "end": 18039
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 18043,
+   "end": 18382,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So here is the surprise. The real story is stranger than the myth. People with no pottery and no writing built public circles of stone, and it spread.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 10.224,
+     "start": 18053,
+     "end": 18360
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 18364,
+   "end": 18730,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the same idea, the sunken circular plaza, appears again and again along the coast, in Caral and beyond. A tradition, passed on for a thousand years.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 11.112,
+     "start": 18374,
+     "end": 18708
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 18712,
+   "end": 19014,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Today drones, ground radar and new dates are mapping the buried parts. Every year, the picture gets a little sharper, and a little older.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 9.0,
+     "start": 18722,
+     "end": 18992
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 18996,
+   "end": 19322,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And that is what a diary like this is for. Not to find a shortcut to an answer, but to watch slowly, honestly, as people stand up out of the sand.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 9.792,
+     "start": 19006,
+     "end": 19300
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "VERDICT",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_66.jpg",
+   "start": 19304,
+   "end": 19392,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score Sechin Bajo.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 1.848,
+     "start": 19314,
+     "end": 19370
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 19374,
+   "end": 19826,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A circular plaza of stone and mud: evidence. Radiocarbon near thirty-five hundred B C: evidence. Oldest monumental building in the Americas: partial, since it needs more dates.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 13.992,
+     "start": 19384,
+     "end": 19804
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_68.jpg",
+   "start": 19808,
+   "end": 20118,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A lost civilization or alien builders: no evidence. Impossible for ancient people: debunked. Who they were: still unknown.",
+     "file": "ep/audio/s68.mp3",
+     "dur": 9.24,
+     "start": 19818,
+     "end": 20096
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_69.jpg",
+   "start": 20100,
+   "end": 20515,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Real, and remarkable. Sechin Bajo is one of the oldest monuments in the Americas. And no aliens were needed. Just people, mud, stone, and a very good idea.",
+     "file": "ep/audio/s69.mp3",
+     "dur": 12.744,
+     "start": 20110,
+     "end": 20493
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_70.jpg",
+   "start": 20497,
+   "end": 20780,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Five and a half thousand years ago, someone pressed a stone into wet clay and began a circle. We are still reading what they started.",
+     "file": "ep/audio/s70.mp3",
+     "dur": 8.352,
+     "start": 20507,
+     "end": 20758
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_71.jpg",
+   "start": 20762,
+   "end": 21049,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a stone city in Africa, a name that means houses of stone, and a question that colonial writers tried to bury.",
+     "file": "ep/audio/s71.mp3",
+     "dur": 8.496,
+     "start": 20772,
+     "end": 21027
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_72.jpg",
+   "start": 21031,
+   "end": 21264,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Would you have kept digging? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s72.mp3",
+     "dur": 6.672,
+     "start": 21041,
+     "end": 21242
+    }
+   ]
+  }
+ ]
+}

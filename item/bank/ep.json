@@ -1,0 +1,1554 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal aerial view of a dry desert valley in coastal Peru with a pale circular stone ring half buried in sand, golden light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Peru, the coast, one of the driest deserts on Earth. And buried in the sand here is a ring of stone that may be five thousand five hundred years old."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Peru, the coast, one of the driest deserts on Earth. And buried in the sand here is a ring of stone that may be five thousand five hundred years old.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal ancient megalithic temple of huge stones glowing over a Peruvian desert under stars, concept art, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Older than Stonehenge. Older than the pyramids of Giza. Some websites say it was built by a lost civilization, or by visitors from the sky."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Older than Stonehenge. Older than the pyramids of Giza. Some websites say it was built by a lost civilization, or by visitors from the sky.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 10.176
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an archaeologist's field notebook with blank pages, a pencil and a brush on a dusty wooden table in a canvas tent, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight we keep a dig diary. Day by day, trench by trench, we ask what is really in the ground at Sechin Bajo."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight we keep a dig diary. Day by day, trench by trench, we ask what is really in the ground at Sechin Bajo.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 8.256
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a lone archaeologist walking through a desert valley in Peru at dawn with green farm fields far behind, long shadows, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Day one. Arrival. Let us begin with where we are."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Day one. Arrival. Let us begin with where we are.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 3.288
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a dusty excavation trench in coastal Peru with a smooth curved stone wall emerging from the sand, dramatic raking light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And what they found here in two thousand eight changed the timeline of the Americas. Or did it?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And what they found here in two thousand eight changed the timeline of the Americas. Or did it?",
+    "file": "ep/audio/s05.mp3",
+    "dur": 6.192
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal map-like aerial view of the Casma valley in Peru, a green river strip cutting through pale desert to the Pacific ocean, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter one. Arrival. The Casma valley lies in the Ancash region of northern Peru, about three hundred kilometres north of Lima, and about twelve kilometres from the Pacific coast."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 ARRIVAL",
+   "Day 1",
+   "CASMA VALLEY \u00b7 ANCASH \u00b7 PERU"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter one. Arrival. The Casma valley lies in the Ancash region of northern Peru, about three hundred kilometres north of Lima, and about twelve kilometres from the Pacific coast.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal dry coastal desert in Peru with almost no vegetation and a thin green oasis line along a river, midday light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here it almost never rains. Less than ten millimetres a year. Life hugs the river, in narrow green oases that cut across the sand like green threads."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here it almost never rains. Less than ten millimetres a year. Life hugs the river, in narrow green oases that cut across the sand like green threads.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 10.944
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal view of a green river oasis with farm fields beside bare desert hills in Peru, warm afternoon light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Fifty-seven rivers cross the Peruvian coast. Each one carried water to the desert, and each valley became a place where people could settle."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Fifty-seven rivers cross the Peruvian coast. Each one carried water to the desert, and each valley became a place where people could settle.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 8.904
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal Peruvian desert hill with the weathered shapes of ancient mounds and low walls in the sand, wide landscape, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today the valley holds a cluster of ancient sites. Cerro Sechin. Sechin Alto. Taukachi-Konkan. And the one we came for, Sechin Bajo, on the far bank of the river."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today the valley holds a cluster of ancient sites. Cerro Sechin. Sechin Alto. Taukachi-Konkan. And the one we came for, Sechin Bajo, on the far bank of the river.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal portrait of Julio Tello style Peruvian archaeologist in 1930s clothing and hat standing in a desert valley, vintage photograph look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The first big name here is the Peruvian archaeologist Julio Tello. On the first of July, nineteen thirty-seven, he and Toribio Mejia Xesspe found the carved stones of Cerro Sechin."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The first big name here is the Peruvian archaeologist Julio Tello. On the first of July, nineteen thirty-seven, he and Toribio Mejia Xesspe found the carved stones of Cerro Sechin.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a long grey granite wall of upright carved stone slabs in a Peruvian desert under blue sky, no carvings visible, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tello thought it was the capital of a whole culture. We now call it the Casma-Sechin culture. And for decades, the story stopped there, around sixteen hundred B C."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tello thought it was the capital of a whole culture. We now call it the Casma-Sechin culture. And for decades, the story stopped there, around sixteen hundred B C.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a lone excavation site with string grid lines and wooden stakes in desert sand at sunrise, Peru, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, in the nineteen-nineties, a team started digging deeper at Sechin Bajo. Deeper than anyone had."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, in the nineteen-nineties, a team started digging deeper at Sechin Bajo. Deeper than anyone had.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 6.888
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal archaeologists in sun hats kneeling in a deep square trench in sand with brushes and trowels, Peru, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter two. Trench one. The team was led by the German-Peruvian archaeologist Peter Fuchs. Their method was the oldest one there is: dig a square, record each layer, and go down."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 TRENCH ONE",
+   "Days 2 to 9",
+   "LAYERS \u00b7 STONE \u00b7 ADOBE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter two. Trench one. The team was led by the German-Peruvian archaeologist Peter Fuchs. Their method was the oldest one there is: dig a square, record each layer, and go down.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal cross-section of a trench wall showing stacked layers of sand, ash and clay in different colours, side lighting, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Each layer is a page in a book. Ash from a hearth. Sand blown in by wind. Clay, laid by hand. The deeper you go, the older it gets."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Each layer is a page in a book. Ash from a hearth. Sand blown in by wind. Clay, laid by hand. The deeper you go, the older it gets.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 9.864
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a smooth curved wall made of fitted rough stones and rectangular mud bricks half uncovered in a trench, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Under the later buildings, they found a wall. Curved. Made of stone, and of rectangular adobe bricks. Older than the pyramid they were standing next to."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Under the later buildings, they found a wall. Curved. Made of stone, and of rectangular adobe bricks. Older than the pyramid they were standing next to.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 10.152
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a circular sunken plaza made of stone and mud brick, ten metres wide, empty, seen from above in desert, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "As they cleared the sand, the curve closed into a circle. A sunken circular plaza, ten to twelve metres across."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "As they cleared the sand, the curve closed into a circle. A sunken circular plaza, ten to twelve metres across.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 7.872
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an archaeologist's hand holding a measuring tape across a circular stone floor in a trench, close up, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Not a house. Not a grave. A public space. A place where people gathered, and where someone planned the shape before the first stone was laid."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Not a house. Not a grave. A public space. A place where people gathered, and where someone planned the shape before the first stone was laid.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal close-up of rough fitted stones and dried mud mortar in an ancient wall, macro, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The stones are not giant. They are fitted by hand, bound with mud. This matters, because the internet loves to call it megalithic."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The stones are not giant. They are fitted by hand, bound with mud. This matters, because the internet loves to call it megalithic.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.144
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a team of ancient Andean workers carrying baskets of stones and mud up a ramp at a construction site, historical reconstruction, desert background, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Real building needs real people: someone to carry stone, someone to mix mud, someone to plan. That is already a society, even if we know nothing about its name."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Real building needs real people: someone to carry stone, someone to mix mud, someone to plan. That is already a society, even if we know nothing about its name.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 10.848
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a small piece of charcoal in a clear sample tube beside a trowel on a wooden table, macro, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter three. Dating. How do we know how old a wall is? We ask the charcoal."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 DATING",
+   "Days 10 to 14",
+   "CARBON \u00b7 CHARCOAL \u00b7 3500 BCE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter three. Dating. How do we know how old a wall is? We ask the charcoal.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 4.848
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a laboratory with glass tubes and a mass spectrometer, a technician in white coat in the dark, cool light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every living thing takes in carbon. When it dies, a tiny part of it decays at a known rate. A lab can measure what is left."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every living thing takes in carbon. When it dies, a tiny part of it decays at a known rate. A lab can measure what is left.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal charred plant fibres and reeds found inside an archaeological hearth in sand, close up, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At Sechin Bajo, the samples came from burned plant material in the layers of the plaza. Radiocarbon put them around thirty-five hundred B C."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At Sechin Bajo, the samples came from burned plant material in the layers of the plaza. Radiocarbon put them around thirty-five hundred B C.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 10.32
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a timeline made of stones laid on sand in a row, from left to right, desert light, abstract, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is about fifty-five hundred years ago. Five hundred years older than Caral, the famous city of Peru, built around twenty-six hundred B C."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is about fifty-five hundred years ago. Five hundred years older than Caral, the famous city of Peru, built around twenty-six hundred B C.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.2
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal the great pyramid of Giza at dusk under a purple sky, calm, wide shot, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Older than the Great Pyramid of Giza by roughly nine hundred years. Older than Stonehenge's first ditch."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Older than the Great Pyramid of Giza by roughly nine hundred years. Older than Stonehenge's first ditch.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 7.2
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an analysis lab at night, a monitor showing an abstract graph curve, a scientist's silhouette, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But careful. Radiocarbon gives a range, not one date. And the team itself announced these results in two thousand nine, in a journal. Not everyone has seen the full data yet."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But careful. Radiocarbon gives a range, not one date. And the team itself announced these results in two thousand nine, in a journal. Not everyone has seen the full data yet.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.048
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a stack of scientific journals and a magnifying glass on a wooden desk in an archive, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The report: Fuchs and colleagues, Boletin de Arqueologia, Catholic University of Peru, two thousand nine. It is a real paper, and a careful one."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The report: Fuchs and colleagues, Boletin de Arqueologia, Catholic University of Peru, two thousand nine. It is a real paper, and a careful one.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal two archaeologists arguing quietly over a trench plan on a table in a tent, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some Andean specialists say: promising, but we need more dates from more layers. That is fair. One strong claim needs more than one trench."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some Andean specialists say: promising, but we need more dates from more layers. That is fair. One strong claim needs more than one trench.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 9.528
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a two metre tall carved stone frieze with abstract geometric reliefs partly buried in sand, desert dusk, no recognizable symbols, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter four. The frieze. Nearby, the team also reported a stone frieze, two metres tall, dated around thirty-six hundred B C."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV \u00b7 THE FRIEZE",
+   "Days 15 to 20",
+   "RELIEF \u00b7 ART \u00b7 3600 BCE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter four. The frieze. Nearby, the team also reported a stone frieze, two metres tall, dated around thirty-six hundred B C.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 9.624
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a stone relief carved with simple human figure outlines on a desert wall, weathered, raking light, no writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If that date holds, it would be some of the earliest monumental art in the Americas. Before any pottery in this region."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If that date holds, it would be some of the earliest monumental art in the Americas. Before any pottery in this region.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 8.136
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal ancient broken pottery shards in layers of earth in a trench, close up, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the odd thing. At this time, people here did not make pots. Archaeologists call it the pre-ceramic period. Yet they built plazas."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the odd thing. At this time, people here did not make pots. Archaeologists call it the pre-ceramic period. Yet they built plazas.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 9.768
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal woven reed baskets and cotton cord on desert sand in an ancient Andean setting, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They had baskets. They had cotton, and fishing nets. They fished on the coast and farmed in the valley. No pots, but great buildings."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They had baskets. They had cotton, and fishing nets. They fished on the coast and farmed in the valley. No pots, but great buildings.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.448
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal tall carved granite stones with warrior figures and strange faces at night lit by torchlight, Peruvian temple, dramatic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now compare Cerro Sechin, just across the river, around sixteen hundred B C. A wall of upright granite slabs, carved with warriors, and the bodies of their victims."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now compare Cerro Sechin, just across the river, around sixteen hundred B C. A wall of upright granite slabs, carved with warriors, and the bodies of their victims.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal upright granite slabs alternating tall and short around a temple platform in a Peruvian desert, no carvings visible, low sun, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dramatic art, almost two thousand years after Sechin Bajo. These are the carvings that appear in documentaries. They are not the oldest part of the story."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dramatic art, almost two thousand years after Sechin Bajo. These are the carvings that appear in documentaries. They are not the oldest part of the story.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 10.872
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an old black and white style photograph of a 1930s excavation of stones in a desert valley, vintage grain, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which is a trap for the casual viewer. Cerro Sechin is famous. Sechin Bajo is older and almost unknown."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which is a trap for the casual viewer. Cerro Sechin is famous. Sechin Bajo is older and almost unknown.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 7.968
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal aerial view of a huge stepped adobe pyramid platform in a Peruvian valley, farmland around, golden hour, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter five. The neighbours. Look at Sechin Alto, right beside it. A temple platform three hundred and fifty metres by three hundred, thirty-five metres high."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V \u00b7 THE NEIGHBOURS",
+   "Days 21 to 25",
+   "SECHIN ALTO \u00b7 CARAL \u00b7 SCALE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter five. The neighbours. Look at Sechin Alto, right beside it. A temple platform three hundred and fifty metres by three hundred, thirty-five metres high.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.944
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal wide view of long plazas and sunken circular courts in an ancient Peruvian complex seen from above, sand colour, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Five plazas stretch two kilometres. The whole complex covers three to four hundred hectares: five times the size of Caral."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Five plazas stretch two kilometres. The whole complex covers three to four hundred hectares: five times the size of Caral.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 8.784
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a stone wall of large stones alternating with smaller stones at an Andean temple, close up, desert light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inside, large stones alternate with small ones. Conical adobe bricks fill the core. Careful, ordered, planned work."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inside, large stones alternate with small ones. Conical adobe bricks fill the core. Careful, ordered, planned work.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 8.376
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a vast pyramid in a desert valley under stars with a faint glow in the sky, Peru, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tello called it the largest building of the Americas. So when someone says: the people here were primitive, ask them to stand at its foot."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tello called it the largest building of the Americas. So when someone says: the people here were primitive, ask them to stand at its foot.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 8.904
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal old rope bridge across a green Andean river valley with mountains behind, golden light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The region also links to Caral, Norte Chico, a chain of early cities that grew along the Peruvian coast, with no writing and no wheels."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The region also links to Caral, Norte Chico, a chain of early cities that grew along the Peruvian coast, with no writing and no wheels.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a quiet desert cemetery with simple mud brick tombs under sunset, Peru, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So Sechin Bajo is not alone. It is the oldest piece of a big landscape, one that grew in complexity over two thousand years."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So Sechin Bajo is not alone. It is the oldest piece of a big landscape, one that grew in complexity over two thousand years.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an eroded earthen mound being slowly buried by drifting sand in a Peruvian desert, wide shot, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And much of it is still under farmland and sand. Whole zones around Sechin Alto have never been dug."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And much of it is still under farmland and sand. Whole zones around Sechin Alto have never been dug.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 6.984
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an alien spacecraft hovering over a Peruvian desert pyramid at night, dramatic, concept art, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter six. The claim. Search online, and you will find posts saying Sechin Bajo is proof of a lost civilization, or of ancient astronauts."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VI \u00b7 THE CLAIM",
+   "Days 26 to 29",
+   "LOST CIVILIZATION \u00b7 ASTRONAUTS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter six. The claim. Search online, and you will find posts saying Sechin Bajo is proof of a lost civilization, or of ancient astronauts.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.584
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a computer screen in a dark room showing blurred abstract video thumbnails and glowing light, over the shoulder, no readable text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The argument is always the same. Too old. Too big. Too perfect. So someone else must have built it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The argument is always the same. Too old. Too big. Too perfect. So someone else must have built it.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 6.672
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal simple ancient stone tools, hammer stones and a bone needle on a cloth, macro, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Take them one by one. Too old? The dates are real, from charcoal. Hammer stones, baskets, and mud were all this took."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Take them one by one. Too old? The dates are real, from charcoal. Hammer stones, baskets, and mud were all this took.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 8.232
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a group of ancient people in cotton clothing building a circular plaza of stone by hand under a desert sun, historical reconstruction, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Too perfect? A circle is easy. A cord, a stake, and a person walking around it. Archaeologists have found cords like this."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Too perfect? A circle is easy. A cord, a stake, and a person walking around it. Archaeologists have found cords like this.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an empty dark sky with a single star over a quiet desert hill, minimal, calm, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Anything alien? No object. No metal. No machine. No unexplained tool. Not one thing in the trench that people of that time could not have made."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Anything alien? No object. No metal. No machine. No unexplained tool. Not one thing in the trench that people of that time could not have made.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a weathered rock wall in the desert with natural erosion patterns, soft evening light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What remains is a feeling, that ancient people could not have done it. That feeling says more about us than about them."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What remains is a feeling, that ancient people could not have done it. That feeling says more about us than about them.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 7.104
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a group of Peruvian schoolchildren visiting an archaeological site with a guide, sunny, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And it is also quietly unfair to the real builders, the people of the Peruvian coast, who invented monumental architecture on their own."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And it is also quietly unfair to the real builders, the people of the Peruvian coast, who invented monumental architecture on their own.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal small ancient fishing boats made of reeds on a Pacific beach in Peru at dawn, historical reconstruction, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter seven. Who were they? Honestly, we do not know. We have no name, no language, no writing. Only what they built."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII \u00b7 WHO WERE THEY?",
+   "Days 30 to 33",
+   "FISH \u00b7 COTTON \u00b7 CEREMONY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter seven. Who were they? Honestly, we do not know. We have no name, no language, no writing. Only what they built.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 7.896
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a dried anchovy pile and cotton seeds on a woven mat in sunlight, macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their food was anchovies from the sea, and beans and squash from the valley. Their trade was cotton, which they spun into nets and cloth."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their food was anchovies from the sea, and beans and squash from the valley. Their trade was cotton, which they spun into nets and cloth.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 8.904
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a gathering of ancient people sitting around a circular sunken plaza at dusk with a fire at the centre, historical reconstruction, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The circular plaza suggests rituals. A shared fire. A shared story. Maybe a ruler, maybe a council, maybe both."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The circular plaza suggests rituals. A shared fire. A shared story. Maybe a ruler, maybe a council, maybe both.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an astronomer silhouette watching the stars from a desert platform in ancient Peru, night sky full of stars, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some scholars think early temples here tracked the sun and the seasons. That is a theory, with hints, not proof."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some scholars think early temples here tracked the sun and the seasons. That is a theory, with hints, not proof.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 7.368
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a pale desert valley at night with the Milky Way above, ancient mound shapes below, long exposure look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "We only know about one hundredth of the site. A future trench could change the story again. That is the thrill of this season."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "We only know about one hundredth of the site. A future trench could change the story again. That is the thrill of this season.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 8.28
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal archaeologists sieving sand through a wooden frame screen in a desert trench, dust in sunlight, Peru, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Back in the trench, nothing is thrown away. Every bucket of sand goes through a sieve, because the smallest thing, a bead, a seed, a fish bone, can tell us how people lived."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Back in the trench, nothing is thrown away. Every bucket of sand goes through a sieve, because the smallest thing, a bead, a seed, a fish bone, can tell us how people lived.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a wooden tray of tiny fish bones and cotton seeds sorted on a cloth in a canvas tent, macro, warm lamp light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "From those scraps, the team can count what people ate. Anchovies. Sea snails. Squash. A diet of the coast, not of the stars."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "From those scraps, the team can count what people ate. Anchovies. Sea snails. Squash. A diet of the coast, not of the stars.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 9.12
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an archaeologist drawing a trench wall layer plan on graph paper in the field, desert light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And every layer is drawn by hand, to scale, before it is removed. Once a layer is dug, it is gone forever. The drawing is all that is left."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And every layer is drawn by hand, to scale, before it is removed. Once a layer is dug, it is gone forever. The drawing is all that is left.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal dark hillside with an ancient mud brick wall lit by a single lantern at night, Peru desert, atmospheric, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Evening in the camp. Wind. Dust in the lamp. This is the part of archaeology that documentaries skip: the slow, careful, quiet work."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Evening in the camp. Wind. Dust in the lamp. This is the part of archaeology that documentaries skip: the slow, careful, quiet work.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a hand holding a small clay-free woven cotton fragment with a simple pattern, macro, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One of the quiet treasures is cloth. Woven cotton, preserved by the dry desert for thousands of years. Ordinary people, with ordinary skill."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One of the quiet treasures is cloth. Woven cotton, preserved by the dry desert for thousands of years. Ordinary people, with ordinary skill.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 9.936
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal wide view of the Casma valley river with farmers irrigating fields beside the desert, midday light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The valley is still farmed today. The same river, the same sand, the same sun. That continuity is why the ground here keeps its secrets so well."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The valley is still farmed today. The same river, the same sand, the same sun. That continuity is why the ground here keeps its secrets so well.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a fortune teller style glowing hologram of a lost city above a Peruvian desert, concept art, dramatic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some videos claim the site is far older, tens of thousands of years. There is no radiocarbon date, no layer, and no paper that says so."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some videos claim the site is far older, tens of thousands of years. There is no radiocarbon date, no layer, and no paper that says so.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a skeptical scientist holding a rock sample under a bright lamp in a field tent, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A good rule from the field: the further a claim goes beyond the data, the more careful you must be. Charcoal can be dated. A feeling cannot."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A good rule from the field: the further a claim goes beyond the data, the more careful you must be. Charcoal can be dated. A feeling cannot.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an empty circular sunken plaza at dawn with soft mist and long shadows, desert Peru, calm, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So here is the surprise. The real story is stranger than the myth. People with no pottery and no writing built public circles of stone, and it spread."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So here is the surprise. The real story is stranger than the myth. People with no pottery and no writing built public circles of stone, and it spread.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a line of low desert hills with scattered ancient mounds and a rising sun, wide cinematic landscape, Peru, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the same idea, the sunken circular plaza, appears again and again along the coast, in Caral and beyond. A tradition, passed on for a thousand years."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the same idea, the sunken circular plaza, appears again and again along the coast, in Caral and beyond. A tradition, passed on for a thousand years.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 11.112
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a modern Peruvian archaeologist team photographing a trench from above with a drone, desert, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Today drones, ground radar and new dates are mapping the buried parts. Every year, the picture gets a little sharper, and a little older."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Today drones, ground radar and new dates are mapping the buried parts. Every year, the picture gets a little sharper, and a little older.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 9.0
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a crowd of ancient people raising their hands toward a rising sun over a circular plaza, historical reconstruction, golden light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that is what a diary like this is for. Not to find a shortcut to an answer, but to watch slowly, honestly, as people stand up out of the sand."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that is what a diary like this is for. Not to find a shortcut to an answer, but to watch slowly, honestly, as people stand up out of the sand.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal Dark archaeology tent at night, a small brown trowel and a charcoal sample tube on a wooden table far on the right edge lit by warm lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to score Sechin Bajo."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "VERDICT",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score Sechin Bajo.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 1.848
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal Dark archaeology tent at night, a small brown trowel and a charcoal sample tube on a wooden table far on the right edge lit by warm lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A circular plaza of stone and mud: evidence. Radiocarbon near thirty-five hundred B C: evidence. Oldest monumental building in the Americas: partial, since it needs more dates."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A circular plaza of stone and mud: evidence. Radiocarbon near thirty-five hundred B C: evidence. Oldest monumental building in the Americas: partial, since it needs more dates.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal Dark archaeology tent at night, a small brown trowel and a charcoal sample tube on a wooden table far on the right edge lit by warm lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A lost civilization or alien builders: no evidence. Impossible for ancient people: debunked. Who they were: still unknown."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A lost civilization or alien builders: no evidence. Impossible for ancient people: debunked. Who they were: still unknown.",
+    "file": "ep/audio/s68.mp3",
+    "dur": 9.24
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal an empty circular stone plaza in the Peruvian desert at sunset, glowing warm light, calm and majestic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Real, and remarkable. Sechin Bajo is one of the oldest monuments in the Americas. And no aliens were needed. Just people, mud, stone, and a very good idea."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Real, and remarkable. Sechin Bajo is one of the oldest monuments in the Americas. And no aliens were needed. Just people, mud, stone, and a very good idea.",
+    "file": "ep/audio/s69.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a close-up of a human hand pressing a stone into wet clay on an ancient wall, warm light, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Five and a half thousand years ago, someone pressed a stone into wet clay and began a circle. We are still reading what they started."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Five and a half thousand years ago, someone pressed a stone into wet clay and began a circle. We are still reading what they started.",
+    "file": "ep/audio/s70.mp3",
+    "dur": 8.352
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide 16:9 photoreal a lone sacred standing stone in a green meadow at night under stars, Easter Island style, moody, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a stone city in Africa, a name that means houses of stone, and a question that colonial writers tried to bury."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a stone city in Africa, a name that means houses of stone, and a question that colonial writers tried to bury.",
+    "file": "ep/audio/s71.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Cinematic wide 16:9 photoreal dark end card background with a faint glowing circle of stone in the centre on black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Would you have kept digging? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Would you have kept digging? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s72.mp3",
+    "dur": 6.672
+   }
+  ]
+ }
+]
