@@ -1,0 +1,1449 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Black and white style 1940s press photograph look, a young serious American fighter pilot in a leather flying helmet standing beside a propeller fighter plane at night, airfield lights behind, soft grain, photoreal portrait, face fully visible, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "October first, nineteen forty-eight. Second Lieutenant George Gorman, twenty-five, a wartime fighter pilot, flies a Mustang over Fargo, North Dakota. For the next twenty-seven minutes, he says, a light fights him in the dark."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "October first, nineteen forty-eight. Second Lieutenant George Gorman, twenty-five, a wartime fighter pilot, flies a Mustang over Fargo, North Dakota. For the next twenty-seven minutes, he says, a light fights him in the dark.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 15.624
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic wide night shot of a single small propeller fighter plane banking over dark flat prairie with a bright round white light darting just above it, long exposure feel, concept art, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Air Force would call it a balloon. Gorman never agreed. He called it a dogfight, and in his statement he wrote that its moves showed, quote, a definite thought behind its maneuvers."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Air Force would call it a balloon. Gorman never agreed. He called it a dogfight, and in his statement he wrote that its moves showed, quote, a definite thought behind its maneuvers.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A pilot's worn leather-bound flight logbook lying open and blank on a wooden desk beside a pair of goggles, a pencil and a small brass compass, warm lamp light, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So tonight, we fly the circuit. Every airfield has one, a pattern of laps in the sky. We take the dogfight one leg at a time, from downwind to the final stall."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So tonight, we fly the circuit. Every airfield has one, a pattern of laps in the sky. We take the dogfight one leg at a time, from downwind to the final stall.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 11.136
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A glowing instrument-panel-style brass compass with a blank dial face on dark cloth, dramatic side light, macro photograph, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At each leg, we ask what is evidence, and what is rumor. Then we put the suspects on trial: a lighted balloon, the planet Jupiter, and a craft nobody built."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At each leg, we ask what is evidence, and what is rumor. Then we put the suspects on trial: a lighted balloon, the planet Jupiter, and a craft nobody built.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of a small Midwestern airport at night, a lit runway, scattered amber lights, a bright football stadium glowing in the distance, clear dark sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the end, a verdict. Let's join the pattern, at nine o'clock on a Friday night."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the end, a verdict. Let's join the pattern, at nine o'clock on a Friday night.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 5.232
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide establishing photograph of a small 1940s airport at night, a lit runway, a bright football stadium glowing beyond it, clear sky full of stars, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Friday, October first. Hector Airport, Fargo. The North Dakota Air National Guard's squadron has flown in from a cross-country trip, and the other pilots have landed. Gorman stays up, to log some night flying time."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 DOWNWIND",
+   "9:00 PM",
+   "THE TAILLIGHT \u00b7 HECTOR AIRPORT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Friday, October first. Hector Airport, Fargo. The North Dakota Air National Guard's squadron has flown in from a cross-country trip, and the other pilots have landed. Gorman stays up, to log some night flying time.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 15.744
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "a North American F-51D Mustang propeller fighter of 1948, bare polished natural-metal skin, bubble canopy, four-bladed propeller, long nose, no markings, no numbers, no insignia, banking over a brightly lit small-town football stadium at night, seen from above and to the side, photoreal aerial photograph, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The sky is clear. He circles the lighted football stadium, a bright landmark in the dark, before turning for the field. Around nine o'clock, the tower clears him to land."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The sky is clear. He circles the lighted football stadium, a bright landmark in the dark, before turning for the field. Around nine o'clock, the tower clears him to land.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 11.232
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "a small 1940s Midwestern airport control tower with a glass-walled cab on a plain low brick building, night, North Dakota, glass cab lit from within, two controllers silhouetted at the windows, wide photograph, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He checks the traffic with the tower. The controllers work for the Civil Aeronautics Administration. They say the only other aircraft up is a Piper Cub. Gorman can see it, about five hundred feet below him."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He checks the traffic with the tower. The controllers work for the Civil Aeronautics Administration. They say the only other aircraft up is a Piper Cub. Gorman can see it, about five hundred feet below him.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 14.088
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A small yellow 1940s high-wing light plane flying low at night with its small cabin window glowing, seen from above, dark prairie below, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Remember that Cub. Its pilot and his passenger are about to become two of the witnesses."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Remember that Cub. Its pilot and his passenger are about to become two of the witnesses.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 5.568
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cockpit view at night of a pilot's gloved hands on the stick and a single small red-orange light passing on the right beyond the canopy, dim instruments, photoreal, no readable gauges, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, on his right, a light passes. Gorman takes it for the taillight of another plane. He asks the tower. The tower knows of no other aircraft."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, on his right, a light passes. Gorman takes it for the taillight of another plane. He asks the tower. The tower knows of no other aircraft.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A single small perfectly round sharp-edged clear white light hanging in a dark night sky above distant town lights, no halo, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He turns toward it. As he closes in, he sees what it is. A light, clear white, perfectly round, with sharp edges, and no fuzz. By his estimate, six to eight inches across at about a thousand yards."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He turns toward it. As he closes in, he sees what it is. A light, clear white, perfectly round, with sharp edges, and no fuzz. By his estimate, six to eight inches across at about a thousand yards.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 13.944
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "a single small perfectly round sharp-edged clear white light in a dark prairie night sky, caught in two moments of a long exposure, one bright and one fading, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is blinking on and off. Then, as he gets closer, the blinking stops. The light goes steady, and it banks sharply to the left."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is blinking on and off. Then, as he gets closer, the blinking stops. The light goes steady, and it banks sharply to the left.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 8.832
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cockpit view at night, a pilot's helmeted profile turned toward the canopy with a faint white glint on his goggles, determined, dim instrument glow, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Gorman is a fighter pilot. He does what a fighter pilot does. He decides to catch it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Gorman is a fighter pilot. He does what a fighter pilot does. He decides to catch it.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 6.0
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "a North American F-51D Mustang propeller fighter of 1948, bare polished natural-metal skin, bubble canopy, four-bladed propeller, long nose, no markings, no numbers, no insignia, diving steeply at night over dark flat farmland with its propeller blurred, a small bright white light ahead and above, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He pushes the throttle forward and dives, sixty inches of manifold pressure, all the Mustang has. He cannot close the distance. The light climbs away, and banks left again."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 BASE LEG",
+   "The Chase",
+   "THE FIRST DIVE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He pushes the throttle forward and dives, sixty inches of manifold pressure, all the Mustang has. He cannot close the distance. The light climbs away, and banks left again.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 12.048
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Night sky over a prairie, a small propeller plane in a hard banking turn and a single round white light on a different curved path, long-exposure trails, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He tries to cut it off, to turn inside its path and meet it on the far side. He cannot. Each time, the light is somewhere else."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He tries to cut it off, to turn inside its path and meet it on the far side. He cannot. Each time, the light is somewhere else.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 8.544
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Interior of a 1940s airport control tower cab at night with two uniformed men in civilian jackets looking up through large windows, one raising binoculars, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the tower, controllers Lloyd Jensen and H. E. Johnson look up. They see a fast light, and the Mustang beside it. Quote, a round light, perfectly formed, no fuzzy edges."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the tower, controllers Lloyd Jensen and H. E. Johnson look up. They see a fast light, and the Mustang beside it. Quote, a round light, perfectly formed, no fuzzy edges.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A glowing white round light far out in a dark sky and a small plane silhouette lower and behind it, the gap between them wide, wide cinematic photograph, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And they see the gap grow. The light increases its spacing from the fighter. It is not drifting. It is leaving."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And they see the gap grow. The light increases its spacing from the fighter. It is not drifting. It is leaving.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 7.152
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A small 1940s light plane landing on a lit runway at night, two men inside visible in the cabin window glow, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Cub's pilot, Dr. A. E. Cannon, and his passenger, Einar Nielson, also see it. The swift light passes above them, much faster, they say, than the fifty-one. They land and watch from the tower with binoculars."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Cub's pilot, Dr. A. E. Cannon, and his passenger, Einar Nielson, also see it. The swift light passes above them, much faster, they say, than the fifty-one. They land and watch from the tower with binoculars.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 14.952
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Three silhouettes of men in the glass cab of a small airport tower at night, one holding binoculars, looking upward, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So beyond Gorman, there are four civilian witnesses. Two more Civil Aeronautics employees report seeing it as well. Six witnesses besides the pilot, in the air and on the ground."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So beyond Gorman, there are four civilian witnesses. Two more Civil Aeronautics employees report seeing it as well. Six witnesses besides the pilot, in the air and on the ground.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of the dim cockpit of a 1948 propeller fighter at night, only a faint green instrument glow, the quiet of the dark, photoreal, no readable gauges, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No sound. No smell. No exhaust. And no change on any instrument in the cockpit. Gorman reports all of it afterward."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No sound. No smell. No exhaust. And no change on any instrument in the cockpit. Gorman reports all of it afterward.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Macro photograph of a vintage aircraft airspeed dial with a blank face, softly lit, brass bezel, dark background, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He puts the light's speed at up to four hundred miles an hour. That is fast, but not impossible in nineteen forty-eight. It is the turning that bothers him. Hold that thought."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He puts the light's speed at up to four hundred miles an hour. That is fast, but not impossible in nineteen forty-eight. It is the turning that bothers him. Hold that thought.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide dark prairie sky with a lone propeller plane small and tilted against a field of stars, a faint white point beside it, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the pattern tightens. Next leg: final approach, and the moment the light stops running away."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the pattern tightens. Next leg: final approach, and the moment the light stops running away.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 6.288
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Night sky, a single small propeller fighter plane on the left and a round white light approaching it head-on from the right, both small, symmetrical composition, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At about seven thousand feet, the chase changes. The light that has been running from him turns right, and comes straight at him. Head-on."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 FINAL",
+   "Head-On",
+   "TWO PASSES \u00b7 THE STALL"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At about seven thousand feet, the chase changes. The light that has been running from him turns right, and comes straight at him. Head-on.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 8.904
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "View from a fighter cockpit at night looking up through the bubble canopy at a round white light sweeping overhead, pilot's helmet edge in frame, motion blur, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Gorman does what any pilot would. He dives to avoid it. The light passes over his canopy, about five hundred feet above him, by his judgement."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Gorman does what any pilot would. He dives to avoid it. The light passes over his canopy, about five hundred feet above him, by his judgement.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "a North American F-51D Mustang propeller fighter of 1948, bare polished natural-metal skin, bubble canopy, four-bladed propeller, long nose, no markings, no numbers, no insignia, banking left in a tight circle at night, the pilot's silhouette in the canopy, a bright round white light high above, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He circles left. The light is now about a thousand feet above. He lines up on it again."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He circles left. The light is now about a thousand feet above. He lines up on it again.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 6.024
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of a pilot's face in an oxygen-less 1940s flying helmet, eyes half closing, grey-edged vignette like a faint blackout, cockpit glow, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In one of these hard turns, Gorman blacks out for a moment. Remember that when we weigh his account. A pilot who loses consciousness in a turn is not at his sharpest."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In one of these hard turns, Gorman blacks out for a moment. Remember that when we weigh his account. A pilot who loses consciousness in a turn is not at his sharpest.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Night sky, a bright round white light shooting straight up above a small propeller plane, vertical streak of trail, cinematic long-exposure photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A second head-on pass. This time the light does not slide away sideways. It shoots straight up."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A second head-on pass. This time the light does not slide away sideways. It shoots straight up.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 6.24
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "a North American F-51D Mustang propeller fighter of 1948, bare polished natural-metal skin, bubble canopy, four-bladed propeller, long nose, no markings, no numbers, no insignia, nose high in a steep climb at night, losing speed, tilting, stars behind, photoreal aerial photograph, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Gorman follows it into the climb. At about fourteen thousand feet, the Mustang stalls. The light keeps going."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Gorman follows it into the climb. At about fourteen thousand feet, the Mustang stalls. The light keeps going.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 7.632
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A vintage brass pocket watch lying on a dark cockpit dashboard, its hands blurred, dim green light, macro photograph, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nine twenty-seven p.m. Gorman loses sight of it. By the clock, the encounter has lasted twenty-seven minutes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nine twenty-seven p.m. Gorman loses sight of it. By the clock, the encounter has lasted twenty-seven minutes.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 8.208
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A small propeller plane taxiing slowly toward a hangar at night on a wet runway, amber light, a pilot walking away, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He lands, and reports. His statement goes to Major D. C. Jones. The whole thing is on paper before he goes to bed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He lands, and reports. His statement goes to Major D. C. Jones. The whole thing is on paper before he goes to bed.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 8.28
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Close-up of a typed one-page statement on a wooden desk lit by a lamp, a pen resting across it, all lines blurred and illegible, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In it, he says the moves showed, quote, a definite thought behind its maneuvers. But he also says the light was, quote, governed by the laws of inertia. Keep that second line in mind."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In it, he says the moves showed, quote, a definite thought behind its maneuvers. But he also says the light was, quote, governed by the laws of inertia. Keep that second line in mind.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1948 Air Force technical intelligence office with filing cabinets and a desk with a typewriter, two officers in uniform reading a thin file, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Within days, the Air Force's first UFO study, Project Sign, takes the case. Gorman's plane is checked, and a Geiger counter is run over it. It reads higher than normal."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV \u00b7 GO-AROUND",
+   "The Debrief",
+   "PROJECT SIGN \u00b7 THE WITNESS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Within days, the Air Force's first UFO study, Project Sign, takes the case. Gorman's plane is checked, and a Geiger counter is run over it. It reads higher than normal.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.216
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vintage Geiger counter with a blank dial on a workbench beside a propeller fighter's nose in a hangar, clinical lab light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Radioactive? No. The reading is later explained as cosmic rays, picked up during time at high altitude. Pilots do pick up a little."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Radioactive? No. The reading is later explained as cosmic rays, picked up during time at high altitude. Pilots do pick up a little.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Portrait of an Air Force major in a 1948 uniform behind a desk, writing, serious, calm office light, face turned slightly away, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The investigators judge the man. Quote, he did not make the impression of being a dreamer. A sincere and serious individual who was considerably puzzled."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The investigators judge the man. Quote, he did not make the impression of being a dreamer. A sincere and serious individual who was considerably puzzled.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 10.704
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A young man in a flight jacket in a 1940s construction company office, blueprints on the wall blurred, hardhat on a desk, window light, face turned away, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He is no fantasist. A wartime fighter pilot. A construction company manager by day. A Guard officer at night. He will retire as a lieutenant colonel in nineteen sixty-nine, and die in nineteen eighty-two."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He is no fantasist. A wartime fighter pilot. A construction company manager by day. A Guard officer at night. He will retire as a lieutenant colonel in nineteen sixty-nine, and die in nineteen eighty-two.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 15.0
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A mid-century Air Force officer's desk with a framed map of the United States and three thin case folders fanned out, lamp light, shallow depth of field, photoreal, no readable text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Edward Ruppelt, who later ran the Air Force's UFO project, calls it one of the three classics of nineteen forty-eight. The others are the Mantell crash, and the Chiles-Whitted airliner sighting."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Edward Ruppelt, who later ran the Air Force's UFO project, calls it one of the three classics of nineteen forty-eight. The others are the Mantell crash, and the Chiles-Whitted airliner sighting.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 13.536
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Empty airfield at night after a flight, a single lamp on a pole, a windsock hanging limp, quiet, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look at what is missing. No photograph. No wreckage. No physical trace on the ground. What we have is testimony."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look at what is missing. No photograph. No wreckage. No physical trace on the ground. What we have is testimony.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 7.248
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Six chairs of different kinds arranged in a loose circle in a dim room, empty, spotlighted from above, minimal, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But it is a lot of testimony. A pilot in the air, controllers in the tower, a doctor and his passenger in a small plane. All of them saw a fast, round light that night. Something was there."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But it is a lot of testimony. A pilot in the air, controllers in the tower, a doctor and his passenger in a small plane. All of them saw a fast, round light that night. Something was there.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dim control tower at night with a single weather balloon-like pale glow rising in the dark above it, quiet, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So what was it? The Air Force had an answer ready. And it was only ten minutes old."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So what was it? The Air Force had an answer ready. And it was only ten minutes old.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 5.592
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A rubber weather balloon being released by a crew member in a parka outside a small airport weather station at night, glowing small lamp attached, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The official explanation is a lighted weather balloon. The Air Weather Service released one from Fargo at about eight-fifty that evening. That is roughly ten minutes before Gorman's first sighting."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V \u00b7 TAXIWAY",
+   "The Official File",
+   "BLUE BOOK \u00b7 THE BALLOON ANSWER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The official explanation is a lighted weather balloon. The Air Weather Service released one from Fargo at about eight-fifty that evening. That is roughly ten minutes before Gorman's first sighting.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A small round weather balloon with a tiny lamp drifting silently high in a dark clear sky, tiny and calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A small balloon with a lamp drifts with the wind. At night, with no horizon and no sense of size, it looks like a steady point of light."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A small balloon with a lamp drifts with the wind. At night, with no horizon and no sense of size, it looks like a steady point of light.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 9.12
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A bright planet shining as a steady white point above a dark flat horizon with a few stars, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The early reviews add another suspect. Jupiter was bright in the sky that night. Project Sign and Project Grudge point to Jupiter and a balloon together."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The early reviews add another suspect. Jupiter was bright in the sky that night. Project Sign and Project Grudge point to Jupiter and a balloon together.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A mid-century university astronomer in a tweed jacket seated at an observatory desk, face turned away, lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Astronomer Donald Menzel later argues for a balloon, plus a mirage of Jupiter. The final Blue Book label is simply: lighted balloon."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Astronomer Donald Menzel later argues for a balloon, plus a mirage of Jupiter. The final Blue Book label is simply: lighted balloon.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 10.296
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dusty archive shelf with rows of identical grey Air Force case folders, shallow depth of field, photoreal, blank spines, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ruppelt gives a reason why the passes look so strange. When a fast plane overtakes a slow balloon, he explains, it can look like the object is rushing past head-on. The turns are all yours."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ruppelt gives a reason why the passes look so strange. When a fast plane overtakes a slow balloon, he explains, it can look like the object is rushing past head-on. The turns are all yours.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 14.232
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A scientist in a 1970s suit leafing through a thick file in a university office, soft daylight, face turned away, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Decades later, Dr. James McDonald reads the Blue Book file itself, in nineteen seventy. He finds explicit statements in it that discount the balloon."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Decades later, Dr. James McDonald reads the Blue Book file itself, in nineteen seventy. He finds explicit statements in it that discount the balloon.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Quiet portrait of an older man in a flight jacket seated in a plain living room by a window at dusk, face turned away, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And Gorman himself never accepted it. He told friends he was never convinced he had spent twenty-seven minutes dueling with a balloon. So let's put the balloon on trial."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And Gorman himself never accepted it. He told friends he was never convinced he had spent twenty-seven minutes dueling with a balloon. So let's put the balloon on trial.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 10.896
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A lone small glowing lamp-lit balloon rising over a flat snowless prairie town at night, tiny and delicate, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect one: the lighted weather balloon. The official answer. The one that sits on the paperwork."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI \u00b7 SUSPECT 1",
+   "The Lighted Balloon",
+   "TIMING \u00b7 ILLUSION \u00b7 SPEED"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect one: the lighted weather balloon. The official answer. The one that sits on the paperwork.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 5.976
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vintage wall clock reading around ten minutes to nine in a weather station office, lamp light, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is what favors it. A lighted balloon really was released from Fargo. The timing fits. And it is a small, round point of light, much like what he describes."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is what favors it. A lighted balloon really was released from Fargo. The timing fits. And it is a small, round point of light, much like what he describes.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "View out of a night cockpit at a single light over a black, featureless prairie, no horizon, no landmarks, only the glow of faint instruments, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Night flying is also a trap for the eyes. No horizon. No landmarks. A single light, with nothing to measure it against. Distance and speed are close to impossible to judge."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Night flying is also a trap for the eyes. No horizon. No landmarks. A single light, with nothing to measure it against. Distance and speed are close to impossible to judge.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A fighter plane's glowing propeller arc at night against a black sky with a single small light ahead, motion blur, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now what counts against it. Gorman followed the light for twenty-seven minutes, through dives, climbs and turns. A balloon drifts with the wind. It does not seem to turn away from a fighter."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now what counts against it. Gorman followed the light for twenty-seven minutes, through dives, climbs and turns. A balloon drifts with the wind. It does not seem to turn away from a fighter.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Two points of light on a dark sky with a growing gap between them, a long exposure trail behind the left one, minimal, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The controllers said the light increased its spacing from the Mustang. The pilot said it ran from him at up to four hundred miles an hour. A balloon cannot outrun an F-51."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The controllers said the light increased its spacing from the Mustang. The pilot said it ran from him at up to four hundred miles an hour. A balloon cannot outrun an F-51.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A quiet pilot's ready room with a desk and an open file folder, one lamp, a pilot's cap on the table, empty chair, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ruppelt's illusion is clever, and it can explain the head-on passes. But it asks us to believe the passes were Gorman's own turns, and that he and six others misjudged the speeds."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ruppelt's illusion is clever, and it can explain the head-on passes. But it asks us to believe the passes were Gorman's own turns, and that he and six others misjudged the speeds.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two thick archive folders on a table, one labeled with blank white label, one open, photographed in lamp light, shallow depth of field, no readable text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And McDonald's finding matters here. The very file that carries the balloon label also carries statements that discount it. The label is official. The reasoning is thin."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And McDonald's finding matters here. The very file that carries the balloon label also carries statements that discount it. The label is official. The reasoning is thin.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A lamp-lit balloon shape fading into dark sky over a prairie with a faint question-mark-like curve of cloud, quiet, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the balloon is real, and possibly part of the story. But it does not cleanly explain the speed. That leaves another suspect, and some stranger ones."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the balloon is real, and possibly part of the story. But it does not cleanly explain the speed. That leaves another suspect, and some stranger ones.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A very bright planet Jupiter-like white point low over a dark prairie horizon, clear and sharp, bare trees silhouette, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect two: Jupiter, and the others. Jupiter really was in the sky that night, bright and low. Sign and Grudge both pointed to it."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII \u00b7 SUSPECT 2",
+   "Jupiter and the Others",
+   "MIRAGE \u00b7 ROCKET \u00b7 CRAFT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect two: Jupiter, and the others. Jupiter really was in the sky that night, bright and low. Sign and Grudge both pointed to it.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 9.456
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A shimmering heat haze distorting a bright point of light above a dark horizon, wavy atmosphere, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Menzel argued a mirage could make Jupiter jump, and flicker, and seem to move. A mirage can change a light's position. It does not fly past a pilot's canopy."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Menzel argued a mirage could make Jupiter jump, and flicker, and seem to move. A mirage can change a light's position. It does not fly past a pilot's canopy.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 11.448
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A fighter pilot's glove hand raised toward a cockpit glass at night with a bright star beyond it, reflections, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Gorman flew at night for years. He knew a planet. Jupiter does not blink on and off, bank sharply, and shoot straight up. This one is a weak fit."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Gorman flew at night for years. He knew a planet. Jupiter does not blink on and off, bank sharply, and shoot straight up. This one is a weak fit.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A cold-war-era rocket test site on a flat desert plain at dawn, a tall slender 1940s rocket standing on a simple stand, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A third idea comes from the Cold War. A Soviet rocket test. Aerospace engineer Travis Taylor looks at it and rejects it. The range is wrong, and rockets of that era could not maneuver."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A third idea comes from the Cold War. A Soviet rocket test. Aerospace engineer Travis Taylor looks at it and rejects it. The range is wrong, and rockets of that era could not maneuver.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 13.44
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic concept art of a silent dark craft with a single small round white light gliding above a prairie airfield at night, subtle, atmospheric, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That leaves the last suspect: a craft that nobody built, an intelligence flying with, quote, a definite thought. It would explain the maneuvers. It has no hardware, no photograph, and no second witness who could say what it was."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That leaves the last suspect: a craft that nobody built, an intelligence flying with, quote, a definite thought. It would explain the maneuvers. It has no hardware, no photograph, and no second witness who could say what it was.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 14.784
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark airfield tower silhouette at midnight with a single lamp lit and a tilted chair, quiet, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to score the case. Not what we hope. What the file supports."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score the case. Not what we hope. What the file supports.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 4.032
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark vintage 1940s airfield tower radio desk at night, a single softly glowing green-shaded lamp at the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the Gorman case."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the Gorman case.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 2.496
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark vintage 1940s airfield tower radio desk at night, a single softly glowing green-shaded lamp at the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real flight and a real report: evidence. Six witnesses besides Gorman saw a fast, round light: evidence. A balloon was released ten minutes before: evidence. A balloon alone, fitting the speed: unlikely. A mirage of Jupiter: unlikely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real flight and a real report: evidence. Six witnesses besides Gorman saw a fast, round light: evidence. A balloon was released ten minutes before: evidence. A balloon alone, fitting the speed: unlikely. A mirage of Jupiter: unlikely.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 17.88
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark vintage 1940s airfield tower radio desk at night, a single softly glowing green-shaded lamp at the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A radioactive craft: debunked, it was cosmic rays. A Soviet rocket: debunked. A craft from elsewhere: no evidence at all."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A radioactive craft: debunked, it was cosmic rays. A Soviet rocket: debunked. A craft from elsewhere: no evidence at all.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 8.976
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A single small weathered historical marker beside a road in a flat North Dakota field at dusk, blank plaque, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. The sighting was real, and the witnesses were credible. A balloon is the best candidate, but it leaves the speed unexplained. Open case, narrowing but not closed."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. The sighting was real, and the witnesses were credible. A balloon is the best candidate, but it leaves the speed unexplained. Open case, narrowing but not closed.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 11.784
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An older man in an Air National Guard officer's dress uniform standing at attention in a quiet room, face turned away, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The strangest part is how ordinary it was. A pilot with time to spare, a clear Friday night, and a light that would not let him go. He never accepted the balloon answer."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The strangest part is how ordinary it was. A pilot with time to spare, a clear Friday night, and a light that would not let him go. He never accepted the balloon answer.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A dark Kentucky farm field at night with a small glowing light hovering over a lone farmhouse and a fence, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a farmhouse in Kentucky, nineteen fifty-five, a family, and little men at the window. A siege that lasted all night. Was it real?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a farmhouse in Kentucky, nineteen fifty-five, a family, and little men at the window. A siege that lasted all night. Was it real?",
+    "file": "ep/audio/s66.mp3",
+    "dur": 10.08
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small pale propeller fighter plane silhouette beside a single faint glowing round light in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think Gorman saw? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think Gorman saw? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 7.128
+   }
+  ]
+ }
+]

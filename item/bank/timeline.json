@@ -1,0 +1,1380 @@
+{
+ "fps": 30,
+ "total": 22245,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 501,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "October first, nineteen forty-eight. Second Lieutenant George Gorman, twenty-five, a wartime fighter pilot, flies a Mustang over Fargo, North Dakota. For the next twenty-seven minutes, he says, a light fights him in the dark.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 15.624,
+     "start": 10,
+     "end": 479
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 483,
+   "end": 878,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Air Force would call it a balloon. Gorman never agreed. He called it a dogfight, and in his statement he wrote that its moves showed, quote, a definite thought behind its maneuvers.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 12.072,
+     "start": 493,
+     "end": 856
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 860,
+   "end": 1227,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So tonight, we fly the circuit. Every airfield has one, a pattern of laps in the sky. We take the dogfight one leg at a time, from downwind to the final stall.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 11.136,
+     "start": 870,
+     "end": 1205
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1209,
+   "end": 1565,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At each leg, we ask what is evidence, and what is rumor. Then we put the suspects on trial: a lighted balloon, the planet Jupiter, and a craft nobody built.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 10.8,
+     "start": 1219,
+     "end": 1543
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1547,
+   "end": 1856,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the end, a verdict. Let's join the pattern, at nine o'clock on a Friday night.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 5.232,
+     "start": 1557,
+     "end": 1714
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 DOWNWIND",
+    "9:00 PM",
+    "THE TAILLIGHT \u00b7 HECTOR AIRPORT"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1838,
+   "end": 2343,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Friday, October first. Hector Airport, Fargo. The North Dakota Air National Guard's squadron has flown in from a cross-country trip, and the other pilots have landed. Gorman stays up, to log some night flying time.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 15.744,
+     "start": 1848,
+     "end": 2321
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2325,
+   "end": 2694,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The sky is clear. He circles the lighted football stadium, a bright landmark in the dark, before turning for the field. Around nine o'clock, the tower clears him to land.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 11.232,
+     "start": 2335,
+     "end": 2672
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2676,
+   "end": 3131,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He checks the traffic with the tower. The controllers work for the Civil Aeronautics Administration. They say the only other aircraft up is a Piper Cub. Gorman can see it, about five hundred feet below him.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 14.088,
+     "start": 2686,
+     "end": 3109
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 3113,
+   "end": 3313,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Remember that Cub. Its pilot and his passenger are about to become two of the witnesses.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 5.568,
+     "start": 3123,
+     "end": 3291
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3295,
+   "end": 3634,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, on his right, a light passes. Gorman takes it for the taillight of another plane. He asks the tower. The tower knows of no other aircraft.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 10.224,
+     "start": 3305,
+     "end": 3612
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3616,
+   "end": 4067,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He turns toward it. As he closes in, he sees what it is. A light, clear white, perfectly round, with sharp edges, and no fuzz. By his estimate, six to eight inches across at about a thousand yards.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 13.944,
+     "start": 3626,
+     "end": 4045
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4049,
+   "end": 4346,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is blinking on and off. Then, as he gets closer, the blinking stops. The light goes steady, and it banks sharply to the left.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 8.832,
+     "start": 4059,
+     "end": 4324
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4328,
+   "end": 4540,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Gorman is a fighter pilot. He does what a fighter pilot does. He decides to catch it.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 6.0,
+     "start": 4338,
+     "end": 4518
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "II \u00b7 BASE LEG",
+    "The Chase",
+    "THE FIRST DIVE"
+   ],
+   "img": "ep/img/shot_14.jpg",
+   "start": 4522,
+   "end": 4916,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He pushes the throttle forward and dives, sixty inches of manifold pressure, all the Mustang has. He cannot close the distance. The light climbs away, and banks left again.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 12.048,
+     "start": 4532,
+     "end": 4894
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4898,
+   "end": 5187,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He tries to cut it off, to turn inside its path and meet it on the far side. He cannot. Each time, the light is somewhere else.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 8.544,
+     "start": 4908,
+     "end": 5165
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5169,
+   "end": 5579,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the tower, controllers Lloyd Jensen and H. E. Johnson look up. They see a fast light, and the Mustang beside it. Quote, a round light, perfectly formed, no fuzzy edges.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 12.576,
+     "start": 5179,
+     "end": 5557
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5561,
+   "end": 5808,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And they see the gap grow. The light increases its spacing from the fighter. It is not drifting. It is leaving.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 7.152,
+     "start": 5571,
+     "end": 5786
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5790,
+   "end": 6271,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The Cub's pilot, Dr. A. E. Cannon, and his passenger, Einar Nielson, also see it. The swift light passes above them, much faster, they say, than the fifty-one. They land and watch from the tower with binoculars.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 14.952,
+     "start": 5800,
+     "end": 6249
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6253,
+   "end": 6673,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So beyond Gorman, there are four civilian witnesses. Two more Civil Aeronautics employees report seeing it as well. Six witnesses besides the pilot, in the air and on the ground.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 12.912,
+     "start": 6263,
+     "end": 6651
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6655,
+   "end": 6948,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No sound. No smell. No exhaust. And no change on any instrument in the cockpit. Gorman reports all of it afterward.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 8.688,
+     "start": 6665,
+     "end": 6926
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6930,
+   "end": 7306,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He puts the light's speed at up to four hundred miles an hour. That is fast, but not impossible in nineteen forty-eight. It is the turning that bothers him. Hold that thought.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 11.448,
+     "start": 6940,
+     "end": 7284
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7288,
+   "end": 7509,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the pattern tightens. Next leg: final approach, and the moment the light stops running away.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 6.288,
+     "start": 7298,
+     "end": 7487
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III \u00b7 FINAL",
+    "Head-On",
+    "TWO PASSES \u00b7 THE STALL"
+   ],
+   "img": "ep/img/shot_23.jpg",
+   "start": 7491,
+   "end": 7791,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At about seven thousand feet, the chase changes. The light that has been running from him turns right, and comes straight at him. Head-on.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 8.904,
+     "start": 7501,
+     "end": 7769
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 7773,
+   "end": 8103,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Gorman does what any pilot would. He dives to avoid it. The light passes over his canopy, about five hundred feet above him, by his judgement.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 9.912,
+     "start": 7783,
+     "end": 8081
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 8085,
+   "end": 8298,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He circles left. The light is now about a thousand feet above. He lines up on it again.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 6.024,
+     "start": 8095,
+     "end": 8276
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8280,
+   "end": 8654,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In one of these hard turns, Gorman blacks out for a moment. Remember that when we weigh his account. A pilot who loses consciousness in a turn is not at his sharpest.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.376,
+     "start": 8290,
+     "end": 8632
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 8636,
+   "end": 8856,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A second head-on pass. This time the light does not slide away sideways. It shoots straight up.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 6.24,
+     "start": 8646,
+     "end": 8834
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 8838,
+   "end": 9099,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Gorman follows it into the climb. At about fourteen thousand feet, the Mustang stalls. The light keeps going.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 7.632,
+     "start": 8848,
+     "end": 9077
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9081,
+   "end": 9360,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nine twenty-seven p.m. Gorman loses sight of it. By the clock, the encounter has lasted twenty-seven minutes.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 8.208,
+     "start": 9091,
+     "end": 9338
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 9342,
+   "end": 9623,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He lands, and reports. His statement goes to Major D. C. Jones. The whole thing is on paper before he goes to bed.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 8.28,
+     "start": 9352,
+     "end": 9601
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 9605,
+   "end": 10013,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In it, he says the moves showed, quote, a definite thought behind its maneuvers. But he also says the light was, quote, governed by the laws of inertia. Keep that second line in mind.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 12.528,
+     "start": 9615,
+     "end": 9991
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV \u00b7 GO-AROUND",
+    "The Debrief",
+    "PROJECT SIGN \u00b7 THE WITNESS"
+   ],
+   "img": "ep/img/shot_32.jpg",
+   "start": 9995,
+   "end": 10394,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Within days, the Air Force's first UFO study, Project Sign, takes the case. Gorman's plane is checked, and a Geiger counter is run over it. It reads higher than normal.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.216,
+     "start": 10005,
+     "end": 10372
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 10376,
+   "end": 10709,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Radioactive? No. The reading is later explained as cosmic rays, picked up during time at high altitude. Pilots do pick up a little.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 10.008,
+     "start": 10386,
+     "end": 10687
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 10691,
+   "end": 11045,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The investigators judge the man. Quote, he did not make the impression of being a dreamer. A sincere and serious individual who was considerably puzzled.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 10.704,
+     "start": 10701,
+     "end": 11023
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 11027,
+   "end": 11509,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He is no fantasist. A wartime fighter pilot. A construction company manager by day. A Guard officer at night. He will retire as a lieutenant colonel in nineteen sixty-nine, and die in nineteen eighty-two.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 15.0,
+     "start": 11037,
+     "end": 11487
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 11491,
+   "end": 11930,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Edward Ruppelt, who later ran the Air Force's UFO project, calls it one of the three classics of nineteen forty-eight. The others are the Mantell crash, and the Chiles-Whitted airliner sighting.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 13.536,
+     "start": 11501,
+     "end": 11908
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 11912,
+   "end": 12162,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look at what is missing. No photograph. No wreckage. No physical trace on the ground. What we have is testimony.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 7.248,
+     "start": 11922,
+     "end": 12140
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 12144,
+   "end": 12549,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But it is a lot of testimony. A pilot in the air, controllers in the tower, a doctor and his passenger in a small plane. All of them saw a fast, round light that night. Something was there.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 12.408,
+     "start": 12154,
+     "end": 12527
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 12531,
+   "end": 12731,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So what was it? The Air Force had an answer ready. And it was only ten minutes old.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 5.592,
+     "start": 12541,
+     "end": 12709
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "V \u00b7 TAXIWAY",
+    "The Official File",
+    "BLUE BOOK \u00b7 THE BALLOON ANSWER"
+   ],
+   "img": "ep/img/shot_40.jpg",
+   "start": 12713,
+   "end": 13132,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The official explanation is a lighted weather balloon. The Air Weather Service released one from Fargo at about eight-fifty that evening. That is roughly ten minutes before Gorman's first sighting.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.888,
+     "start": 12723,
+     "end": 13110
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 13114,
+   "end": 13420,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A small balloon with a lamp drifts with the wind. At night, with no horizon and no sense of size, it looks like a steady point of light.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 9.12,
+     "start": 13124,
+     "end": 13398
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 13402,
+   "end": 13762,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The early reviews add another suspect. Jupiter was bright in the sky that night. Project Sign and Project Grudge point to Jupiter and a balloon together.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 10.92,
+     "start": 13412,
+     "end": 13740
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 13744,
+   "end": 14085,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Astronomer Donald Menzel later argues for a balloon, plus a mirage of Jupiter. The final Blue Book label is simply: lighted balloon.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 10.296,
+     "start": 13754,
+     "end": 14063
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 14067,
+   "end": 14526,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ruppelt gives a reason why the passes look so strange. When a fast plane overtakes a slow balloon, he explains, it can look like the object is rushing past head-on. The turns are all yours.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 14.232,
+     "start": 14077,
+     "end": 14504
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 14508,
+   "end": 14857,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Decades later, Dr. James McDonald reads the Blue Book file itself, in nineteen seventy. He finds explicit statements in it that discount the balloon.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 10.56,
+     "start": 14518,
+     "end": 14835
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 14839,
+   "end": 15198,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And Gorman himself never accepted it. He told friends he was never convinced he had spent twenty-seven minutes dueling with a balloon. So let's put the balloon on trial.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 10.896,
+     "start": 14849,
+     "end": 15176
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VI \u00b7 SUSPECT 1",
+    "The Lighted Balloon",
+    "TIMING \u00b7 ILLUSION \u00b7 SPEED"
+   ],
+   "img": "ep/img/shot_47.jpg",
+   "start": 15180,
+   "end": 15392,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect one: the lighted weather balloon. The official answer. The one that sits on the paperwork.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 5.976,
+     "start": 15190,
+     "end": 15370
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 15374,
+   "end": 15736,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is what favors it. A lighted balloon really was released from Fargo. The timing fits. And it is a small, round point of light, much like what he describes.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 10.992,
+     "start": 15384,
+     "end": 15714
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 15718,
+   "end": 16134,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Night flying is also a trap for the eyes. No horizon. No landmarks. A single light, with nothing to measure it against. Distance and speed are close to impossible to judge.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 12.792,
+     "start": 15728,
+     "end": 16112
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 16116,
+   "end": 16537,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now what counts against it. Gorman followed the light for twenty-seven minutes, through dives, climbs and turns. A balloon drifts with the wind. It does not seem to turn away from a fighter.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 12.96,
+     "start": 16126,
+     "end": 16515
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 16519,
+   "end": 16922,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The controllers said the light increased its spacing from the Mustang. The pilot said it ran from him at up to four hundred miles an hour. A balloon cannot outrun an F-51.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 12.336,
+     "start": 16529,
+     "end": 16900
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 16904,
+   "end": 17301,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ruppelt's illusion is clever, and it can explain the head-on passes. But it asks us to believe the passes were Gorman's own turns, and that he and six others misjudged the speeds.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 12.144,
+     "start": 16914,
+     "end": 17279
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 17283,
+   "end": 17670,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And McDonald's finding matters here. The very file that carries the balloon label also carries statements that discount it. The label is official. The reasoning is thin.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 11.832,
+     "start": 17293,
+     "end": 17648
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 17652,
+   "end": 17982,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the balloon is real, and possibly part of the story. But it does not cleanly explain the speed. That leaves another suspect, and some stranger ones.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 9.912,
+     "start": 17662,
+     "end": 17960
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VII \u00b7 SUSPECT 2",
+    "Jupiter and the Others",
+    "MIRAGE \u00b7 ROCKET \u00b7 CRAFT"
+   ],
+   "img": "ep/img/shot_55.jpg",
+   "start": 17964,
+   "end": 18280,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect two: Jupiter, and the others. Jupiter really was in the sky that night, bright and low. Sign and Grudge both pointed to it.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 9.456,
+     "start": 17974,
+     "end": 18258
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 18262,
+   "end": 18638,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Menzel argued a mirage could make Jupiter jump, and flicker, and seem to move. A mirage can change a light's position. It does not fly past a pilot's canopy.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 11.448,
+     "start": 18272,
+     "end": 18616
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 18620,
+   "end": 18953,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Gorman flew at night for years. He knew a planet. Jupiter does not blink on and off, bank sharply, and shoot straight up. This one is a weak fit.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 10.032,
+     "start": 18630,
+     "end": 18931
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 18935,
+   "end": 19371,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A third idea comes from the Cold War. A Soviet rocket test. Aerospace engineer Travis Taylor looks at it and rejects it. The range is wrong, and rockets of that era could not maneuver.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 13.44,
+     "start": 18945,
+     "end": 19349
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 19353,
+   "end": 19829,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That leaves the last suspect: a craft that nobody built, an intelligence flying with, quote, a definite thought. It would explain the maneuvers. It has no hardware, no photograph, and no second witness who could say what it was.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 14.784,
+     "start": 19363,
+     "end": 19807
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 19811,
+   "end": 19964,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score the case. Not what we hope. What the file supports.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 4.032,
+     "start": 19821,
+     "end": 19942
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_61.jpg",
+   "start": 19946,
+   "end": 20053,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score the Gorman case.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 2.496,
+     "start": 19956,
+     "end": 20031
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 20035,
+   "end": 20604,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A real flight and a real report: evidence. Six witnesses besides Gorman saw a fast, round light: evidence. A balloon was released ten minutes before: evidence. A balloon alone, fitting the speed: unlikely. A mirage of Jupiter: unlikely.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 17.88,
+     "start": 20045,
+     "end": 20582
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 20586,
+   "end": 20888,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A radioactive craft: debunked, it was cosmic rays. A Soviet rocket: debunked. A craft from elsewhere: no evidence at all.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 8.976,
+     "start": 20596,
+     "end": 20866
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 20870,
+   "end": 21256,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. The sighting was real, and the witnesses were credible. A balloon is the best candidate, but it leaves the speed unexplained. Open case, narrowing but not closed.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 11.784,
+     "start": 20880,
+     "end": 21234
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 21238,
+   "end": 21625,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The strangest part is how ordinary it was. A pilot with time to spare, a clear Friday night, and a light that would not let him go. He never accepted the balloon answer.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 11.808,
+     "start": 21248,
+     "end": 21603
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 21607,
+   "end": 21942,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a farmhouse in Kentucky, nineteen fifty-five, a family, and little men at the window. A siege that lasted all night. Was it real?",
+     "file": "ep/audio/s66.mp3",
+     "dur": 10.08,
+     "start": 21617,
+     "end": 21920
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_67.jpg",
+   "start": 21924,
+   "end": 22170,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think Gorman saw? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s67.mp3",
+     "dur": 7.128,
+     "start": 21934,
+     "end": 22148
+    }
+   ]
+  }
+ ]
+}
