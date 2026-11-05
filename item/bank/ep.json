@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic night photograph of a huge bright pulsing object with flashing red, green, orange and blue lights hovering above Tehran at night in 1976, the Alborz mountains dark in the distance, city lights below, clear starry sky, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nineteen September, nineteen seventy-six. Two Iranian fighter jets are sent up over Tehran to chase a light in the sky. Both crews say their instruments died as they closed in. The case is still argued over today."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nineteen September, nineteen seventy-six. Two Iranian fighter jets are sent up over Tehran to chase a light in the sky. Both crews say their instruments died as they closed in. The case is still argued over today.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 15.912
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "a grey Iranian Air Force F-4 Phantom II fighter jet taking off at night in afterburner with orange flame from an air base runway, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The pilots were professionals. The radar was military. The report went to the Pentagon, the CIA and the White House. And still, nobody can say for sure what was up there."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The pilots were professionals. The radar was military. The report went to the Pentagon, the CIA and the White House. And still, nobody can say for sure what was up there.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 12.048
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dark air traffic control tower cabin at night in the 1970s, a controller silhouette at a window looking out, radar glow, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So was this a visitor from another world? Or a night when a planet, a meteor shower and a tired old jet conspired to look like one?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So was this a visitor from another world? Or a night when a planet, a meteor shower and a tired old jet conspired to look like one?",
+    "file": "ep/audio/s03.mp3",
+    "dur": 8.568
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A vintage 1970s black radio handset and a blank paper logbook on a metal desk under a lamp, photoreal, blank paper, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we run it like the tower did: a log, minute by minute. Every entry gets a label, and at the end, a score."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we run it like the tower did: a log, minute by minute. Every entry gets a label, and at the end, a score.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 7.872
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide view of Tehran at night in 1976, the Alborz mountains dark in the distance, city lights below, clear starry sky with a calm empty horizon glowing deep blue, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Facts first, theories labelled. Tower log opened."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Facts first, theories labelled. Tower log opened.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 3.264
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Mehrabad airport control tower in 1970s Tehran, dusk, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter one. The first call. Around midnight on the nineteenth of September, the phone rings at the Mehrabad air traffic control centre in Tehran."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "I \u00b7 FIRST CALL",
+   "The Night Shift",
+   "MEHRABAD \u00b7 19 SEP 1976"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter one. The first call. Around midnight on the nineteenth of September, the phone rings at the Mehrabad air traffic control centre in Tehran.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 9.936
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "1970s Iranian air traffic controller in a short-sleeved shirt on a telephone in a dim control room, serious, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Residents in Shemiran, the northern hills of the city, are reporting a strange light. The duty officer at the tower is a man named Hossein Pirouzi."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Residents in Shemiran, the northern hills of the city, are reporting a strange light. The duty officer at the tower is a man named Hossein Pirouzi.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 10.296
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A quiet Tehran residential street at night in 1976, people on rooftops pointing up at a bright light in the sky, backs to camera, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Callers describe a bright object in the sky. Not an aircraft, not a star. Pirouzi walks out to look for himself."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Callers describe a bright object in the sky. Not an aircraft, not a star. Pirouzi walks out to look for himself.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 8.088
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "View from a control tower balcony of a huge bright pulsing object with flashing red, green, orange and blue lights over a dark city, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He sees a rectangular shape, with flashing lights at each end and a smaller red light circling in the middle. It is night. It is far away. And it does not look like an aeroplane."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He sees a rectangular shape, with flashing lights at each end and a smaller red light circling in the middle. It is night. It is far away. And it does not look like an aeroplane.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A tall Iranian air force general in 1970s uniform standing on a house balcony at night, looking at the sky, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He tells the Air Force deputy commander, General Youssefi. The general comes out onto his balcony, and he sees it too. The decision is made: send a fighter up."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He tells the Air Force deputy commander, General Youssefi. The general comes out onto his balcony, and he sees it too. The decision is made: send a fighter up.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A military telephone line operator at a desk in a dim command room, 1970s, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Not a decision made lightly. It is the Cold War, the border with the Soviet Union is close, and an unknown object over the capital is a security problem first."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Not a decision made lightly. It is the Cold War, the border with the Soviet Union is close, and an unknown object over the capital is a security problem first.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A detailed paper map of northern Iran with a pencil mark near the capital, no readable writing, desk, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One more fact matters here. Everything so far is the testimony of people on the ground, at a distance, in the dark. Keep that in mind."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One more fact matters here. Everything so far is the testimony of people on the ground, at a distance, in the dark. Keep that in mind.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "A single bright steady star-like point low in a dark mountain sky, calm, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Entry logged. Shemiran, about half past midnight. Unknown light, several witnesses, one general. Label: evidence of an observation, not yet of a craft."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Entry logged. Shemiran, about half past midnight. Unknown light, several witnesses, one general. Label: evidence of an observation, not yet of a craft.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Iranian Air Force F-4 Phantom jets lined up in a hangar at night, crew running toward them, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter two. The launch. At about one thirty in the morning, an F-4 Phantom is scrambled from Shahrokhi air base in Hamadan."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 LAUNCH",
+   "First Scramble",
+   "SHAHROKHI \u00b7 01:30"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter two. The launch. At about one thirty in the morning, an F-4 Phantom is scrambled from Shahrokhi air base in Hamadan.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Iranian fighter pilot in 1970s flight suit and helmet climbing into an F-4 cockpit at night, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At the controls is Lieutenant Yadollah Nazeri. He takes off, and he can see the object from a staggering distance, about seventy miles away."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At the controls is Lieutenant Yadollah Nazeri. He takes off, and he can see the object from a staggering distance, about seventy miles away.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "View from a fighter cockpit at night of a bright flashing light on the horizon, instrument glow, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He flies toward it. At twenty-five nautical miles, something happens. His instruments fail. His radio dies. His intercom goes silent."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He flies toward it. At twenty-five nautical miles, something happens. His instruments fail. His radio dies. His intercom goes silent.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a dark fighter cockpit instrument panel with dead gauges and a pilot's gloved hand, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nazeri turns back. As he moves away, the instruments come back to life. He lands. That is the whole of the first intercept."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nazeri turns back. As he moves away, the instruments come back to life. He lands. That is the whole of the first intercept.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 8.352
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Iranian pilot in an old interview chair in the 1990s, speaking to a camera, soft light, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In a nineteen ninety-four interview, he adds a dramatic detail: the object accelerated past him at Mach two. That claim came eighteen years later, and we mark it as testimony."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In a nineteen ninety-four interview, he adds a dramatic detail: the object accelerated past him at Mach two. That claim came eighteen years later, and we mark it as testimony.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Philip Klass-style sceptic investigator at a desk with notes and a model aircraft, 1980s office, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The sceptic Philip Klass pointed at something odd. Only the first jet had trouble. And that F-4 had a long history of electrical faults, repaired a month earlier."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The sceptic Philip Klass pointed at something odd. Only the first jet had trouble. And that F-4 had a long history of electrical faults, repaired a month earlier.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "An old fighter jet's electrical wiring bundle in a maintenance bay, close-up, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A faulty jet can explain a dead radio. It does not explain what he was chasing. Entry logged. Label: partial."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A faulty jet can explain a dead radio. It does not explain what he was chasing. Entry logged. Label: partial.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 8.184
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Second F-4 Phantom taking off at night over mountains, afterburner glow, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter three. The second scramble. About ten minutes later, a second F-4 launches. This is the one that made the case famous."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III \u00b7 SECOND JET",
+   "Radar Lock",
+   "MAJOR JAFARI"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter three. The second scramble. About ten minutes later, a second F-4 launches. This is the one that made the case famous.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 8.544
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two Iranian Air Force officers in flight suits in an F-4 cockpit at night, one in front and one behind, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Major Parviz Jafari flies, with Lieutenant Jalal Damirian behind him. The radar picks up a target, twelve o'clock high, at twenty-seven miles."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Major Parviz Jafari flies, with Lieutenant Jalal Damirian behind him. The radar picks up a target, twelve o'clock high, at twenty-seven miles.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 10.896
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Close-up of a dark fighter radar scope with a single bright blip in the centre, no text, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They say the return was as big as a Boeing seven-oh-seven. A tanker-sized echo. They close at about a hundred and fifty knots, and then it begins to move away."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They say the return was as big as a Boeing seven-oh-seven. A tanker-sized echo. They close at about a hundred and fifty knots, and then it begins to move away.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cockpit view of a bright object ahead flashing red green orange blue lights in a night sky, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "At twenty-five miles the object backs off, exactly keeping its distance. The crew sees flashing lights, red, green, orange and blue, in a strobing pattern."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "At twenty-five miles the object backs off, exactly keeping its distance. The crew sees flashing lights, red, green, orange and blue, in a strobing pattern.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A small bright glowing sphere separating from a larger bright object in the night sky, long exposure, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, they say, a smaller bright sphere leaves the object and flies straight toward their jet, like a missile."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, they say, a smaller bright sphere leaves the object and flies straight toward their jet, like a missile.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 6.384
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Pilot's gloved hand reaching for a weapons switch panel in a fighter cockpit, red light, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Jafari tries to fire a Sidewinder missile. The moment he reaches for the switch, his weapons panel goes dead, and the radios fail too."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Jafari tries to fire a Sidewinder missile. The moment he reaches for the switch, his weapons panel goes dead, and the radios fail too.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An F-4 fighter diving steeply at night over dark mountains, motion blur, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He dives, hard, into negative-G, trying to evade. The sphere, they say, follows, turns inside his turn, then returns to the mother object."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He dives, hard, into negative-G, trying to evade. The sphere, they say, follows, turns inside his turn, then returns to the mother object.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A bright sphere dropping slowly toward a dark mountain valley at night, trailing soft glow, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One more thing. Another bright object, the crew reports, descends and appears to land gently on the ground. They mark the location, and fly home. Entry logged. Label: evidence, from the crew."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One more thing. Another bright object, the crew reports, descends and appears to land gently on the ground. They mark the location, and fly home. Entry logged. Label: evidence, from the crew.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.296
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Dawn light over rocky desert hills near Tehran with a lone dirt road, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter four. The ground search. At first light, a helicopter flies to the spot the pilots marked."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV \u00b7 GROUND SEARCH",
+   "Daylight",
+   "NEXT MORNING"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter four. The ground search. At first light, a helicopter flies to the spot the pilots marked.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 6.552
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A military helicopter flying low over dry hills near a dry lake bed at sunrise, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They find nothing. No craft, no scorch marks, nothing obvious on the ground. But the search team does get something else."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They find nothing. No craft, no scorch marks, nothing obvious on the ground. But the search team does get something else.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 8.04
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A military helicopter crew with a headset in the cockpit listening intently, instruments, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A beeping signal on their radio. A transponder, coming from somewhere near the dry lake. They follow it, as far as a small house."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A beeping signal on their radio. A transponder, coming from somewhere near the dry lake. They follow it, as far as a small house.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A small mud-brick house on the edge of a village with a dry lake in the background, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The people living there say that in the night they heard a loud noise and saw a bright flash of light. Their account is told, but not tested."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The people living there say that in the night they heard a loud noise and saw a bright flash of light. Their account is told, but not tested.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A lab technician in a white coat with a Geiger counter and clipboard, no readable writing, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Radiation tests were reportedly considered. The results, if they exist, were never published. That is an unverified gap."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Radiation tests were reportedly considered. The results, if they exist, were never published. That is an unverified gap.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 8.496
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A military cargo plane C-141 Starlifter flying high in the sky at dawn, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The skeptic Brian Dunning has a simple explanation for the beeper. It matches the signal of a beacon from an American C-141 transport, ejected by turbulence."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The skeptic Brian Dunning has a simple explanation for the beeper. It matches the signal of a beacon from an American C-141 transport, ejected by turbulence.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A small black emergency locator beacon lying in dry grass beside a stone, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If so, it was a coincidence, not a landing. We cannot test it today. Entry logged. Label: partial."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If so, it was a coincidence, not a landing. We cannot test it today. Entry logged. Label: partial.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 6.912
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A Western intelligence analyst in 1970s suit reading a thick report at a desk in Washington, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter five. The report. The incident is written up by an American military attach\u00e9 in Tehran, and sent to the US Air Force."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "V \u00b7 THE REPORT",
+   "The Memo",
+   "WASHINGTON \u00b7 1976"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter five. The report. The incident is written up by an American military attach\u00e9 in Tehran, and sent to the US Air Force.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A thick sealed brown envelope with a blank label on a wooden desk, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It goes to the Joint Chiefs of Staff, the CIA, the Defense Intelligence Agency, the State Department and the White House."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It goes to the Joint Chiefs of Staff, the CIA, the Defense Intelligence Agency, the State Department and the White House.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 8.112
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "1970s US Embassy building exterior with flags in warm light, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That sounds explosive, until you read why. Sensitive reports from the Middle East were routinely sent to a wide list. The long distribution is not a sign of alarm."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That sounds explosive, until you read why. Sensitive reports from the Middle East were routinely sent to a wide list. The long distribution is not a sign of alarm.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "An Iranian general in 1970s uniform sitting at a desk interviewing two pilots, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "General Shapour Azarbarzin interviews the crews himself. In January nineteen seventy-seven, he adds a claim: the object's speed was Mach three."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "General Shapour Azarbarzin interviews the crews himself. In January nineteen seventy-seven, he adds a claim: the object's speed was Mach three.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 10.824
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A heavily redacted-looking government report page with black bars and no readable text, close-up, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The report is real. The fighter chase happened as a recorded event. What the report cannot do is prove what the pilots were chasing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The report is real. The fighter chase happened as a recorded event. What the report cannot do is prove what the pilots were chasing.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A stack of declassified documents under a desk lamp, blank pages, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Entry logged. Label: evidence the case was taken seriously, not evidence of aliens."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Entry logged. Label: evidence the case was taken seriously, not evidence of aliens.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 6.096
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A bright Jupiter in a dark pre-dawn sky above mountain silhouette, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter six. The sceptics. Philip Klass offers a bold answer. The bright light that began it all, he says, was the planet Jupiter."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VI \u00b7 SCEPTICS",
+   "Jupiter and Meteors",
+   "KLASS \u00b7 DUNNING"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter six. The sceptics. Philip Klass offers a bold answer. The bright light that began it all, he says, was the planet Jupiter.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 8.784
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A skeptical astronomer with a star chart and telescope in an observatory at night, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In September nineteen seventy-six, Jupiter was bright, and in the right part of the sky. Witnesses at a distance, with no reference points, can easily mistake it for a craft."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In September nineteen seventy-six, Jupiter was bright, and in the right part of the sky. Witnesses at a distance, with no reference points, can easily mistake it for a craft.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Several bright meteors streaking across a dark sky over mountains, long exposure, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dunning adds a second ingredient. The nineteenth of September falls in the peak of three meteor showers, including the Southern Piscids and Eta Draconids."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dunning adds a second ingredient. The nineteenth of September falls in the peak of three meteor showers, including the Southern Piscids and Eta Draconids.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A fighter jet radar scope in manual tracking with scattered blips, abstract, no text, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Klass also suggests the radar lock may have been in a manual mode, which can cause false returns. A mistaken lock explains a target that keeps its distance."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Klass also suggests the radar lock may have been in a manual mode, which can cause false returns. A mistaken lock explains a target that keeps its distance.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "An engineer in a hangar looking at the avionics bay of a military jet, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So a mix: a bright planet, a few meteors, a jet with electrical faults, and crews on edge. It is a tidy answer. But does it cover everything?"
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So a mix: a bright planet, a few meteors, a jet with electrical faults, and crews on edge. It is a tidy answer. But does it cover everything?",
+    "file": "ep/audio/s46.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Two F-4 fighters flying in formation at night, one far ahead of the other, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the gap. A planet cannot explain two separate crews, two different jets, and a second set of failures. Sceptics reply that only the first jet really lost systems."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the gap. A planet cannot explain two separate crews, two different jets, and a second set of failures. Sceptics reply that only the first jet really lost systems.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A single bright light low over dark mountains next to a bright planet, calm, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The truth is that the second crew's account rests on their word alone. Entry logged. Label: unverified, with a plausible explanation."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The truth is that the second crew's account rests on their word alone. Entry logged. Label: unverified, with a plausible explanation.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 9.408
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A researcher with a laptop and a stack of printed Wikipedia style pages in a library, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter seven. The long shadow. Why does this case still hold on after almost fifty years?"
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VII \u00b7 AFTER",
+   "Why It Lasts",
+   "THE LONG SHADOW"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter seven. The long shadow. Why does this case still hold on after almost fifty years?",
+    "file": "ep/audio/s49.mp3",
+    "dur": 6.048
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1980s American television documentary studio with a presenter and a blank screen behind, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Because it was a military case. Trained pilots, a general, radar, and an official report. It is the case people cite when they say, serious people have seen these things."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Because it was a military case. Trained pilots, a general, radar, and an official report. It is the case people cite when they say, serious people have seen these things.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A pilot in his later years sitting calmly in a living room, holding a framed photograph of a fighter jet, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the pilots never changed their story. They were not hoaxers. It is likely they described what they truly experienced, in a frightening, confusing night."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the pilots never changed their story. They were not hoaxers. It is likely they described what they truly experienced, in a frightening, confusing night.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A glowing triangular silhouette of a UFO over a dark ridge, painterly, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Which is the lesson. A sincere witness is not the same as an accurate instrument. And an official report proves only that someone wrote it down."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Which is the lesson. A sincere witness is not the same as an accurate instrument. And an official report proves only that someone wrote it down.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A closed filing cabinet in a dim archive room, one drawer slightly open, soft light, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The records to settle it, the radar tapes and maintenance logs, were never made public. Without them, this case cannot be closed either way."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The records to settle it, the radar tapes and maintenance logs, were never made public. Without them, this case cannot be closed either way.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 8.952
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night sky over mountains, three small bright coloured lights far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to close the tower log, and score the night."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to close the tower log, and score the night.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 2.736
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night sky over mountains, three small bright coloured lights far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A bright light seen over Tehran by several witnesses: evidence. Two F-4s scrambled and a radar lock: evidence, from the crews. Instrument failures: partial, since the first jet had a faulty history. The helicopter search finding nothing: evidence against a landing."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A bright light seen over Tehran by several witnesses: evidence. Two F-4s scrambled and a radar lock: evidence, from the crews. Instrument failures: partial, since the first jet had a faulty history. The helicopter search finding nothing: evidence against a landing.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 18.144
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night sky over mountains, three small bright coloured lights far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The beeping transponder: debunked, a likely American C-141 beacon. Jupiter and meteors as the cause: partial. A Mach three alien craft: no evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The beeping transponder: debunked, a likely American C-141 beacon. Jupiter and meteors as the cause: partial. A Mach three alien craft: no evidence.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cinematic night photograph of three small distant coloured lights over dark mountains, calm, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Unexplained, but not alien. Something truly strange happened, at least to the people involved, but a craft that outflew a Phantom is a claim without a recording, a wreck or a test."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Unexplained, but not alien. Something truly strange happened, at least to the people involved, but a craft that outflew a Phantom is a claim without a recording, a wreck or a test.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 13.056
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A lone Iranian pilot's silhouette standing on a runway at dawn, soft golden light, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that is what makes it so good a story. Men who trusted their gauges watched them fail, and they never stopped asking why. That deserves respect, and it deserves proof."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that is what makes it so good a story. Men who trusted their gauges watched them fail, and they never stopped asking why. That deserves respect, and it deserves proof.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A silver cigar-shaped object floating low in a night sky above a calm sea with a small fishing boat, photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a glowing object that fell into the water off Nova Scotia in nineteen sixty-seven. Reports from fishermen, police, and the Canadian military."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a glowing object that fell into the water off Nova Scotia in nineteen sixty-seven. Reports from fishermen, police, and the Canadian military.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background with three small glowing coloured lights in the centre against black, minimal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think the pilots were chasing? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think the pilots were chasing? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 7.608
+   }
+  ]
+ }
+]

@@ -1,0 +1,1240 @@
+{
+ "fps": 30,
+ "total": 18738,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 510,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nineteen September, nineteen seventy-six. Two Iranian fighter jets are sent up over Tehran to chase a light in the sky. Both crews say their instruments died as they closed in. The case is still argued over today.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 15.912,
+     "start": 10,
+     "end": 488
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 492,
+   "end": 886,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The pilots were professionals. The radar was military. The report went to the Pentagon, the CIA and the White House. And still, nobody can say for sure what was up there.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 12.048,
+     "start": 502,
+     "end": 864
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 868,
+   "end": 1158,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So was this a visitor from another world? Or a night when a planet, a meteor shower and a tired old jet conspired to look like one?",
+     "file": "ep/audio/s03.mp3",
+     "dur": 8.568,
+     "start": 878,
+     "end": 1136
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1140,
+   "end": 1409,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we run it like the tower did: a log, minute by minute. Every entry gets a label, and at the end, a score.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 7.872,
+     "start": 1150,
+     "end": 1387
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1391,
+   "end": 1641,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Facts first, theories labelled. Tower log opened.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 3.264,
+     "start": 1401,
+     "end": 1499
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 FIRST CALL",
+    "The Night Shift",
+    "MEHRABAD \u00b7 19 SEP 1976"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1623,
+   "end": 1954,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter one. The first call. Around midnight on the nineteenth of September, the phone rings at the Mehrabad air traffic control centre in Tehran.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 9.936,
+     "start": 1633,
+     "end": 1932
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 1936,
+   "end": 2277,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Residents in Shemiran, the northern hills of the city, are reporting a strange light. The duty officer at the tower is a man named Hossein Pirouzi.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 10.296,
+     "start": 1946,
+     "end": 2255
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2259,
+   "end": 2534,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Callers describe a bright object in the sky. Not an aircraft, not a star. Pirouzi walks out to look for himself.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 8.088,
+     "start": 2269,
+     "end": 2512
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2516,
+   "end": 2896,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He sees a rectangular shape, with flashing lights at each end and a smaller red light circling in the middle. It is night. It is far away. And it does not look like an aeroplane.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 11.592,
+     "start": 2526,
+     "end": 2874
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 2878,
+   "end": 3249,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He tells the Air Force deputy commander, General Youssefi. The general comes out onto his balcony, and he sees it too. The decision is made: send a fighter up.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 11.28,
+     "start": 2888,
+     "end": 3227
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3231,
+   "end": 3606,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Not a decision made lightly. It is the Cold War, the border with the Soviet Union is close, and an unknown object over the capital is a security problem first.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 11.424,
+     "start": 3241,
+     "end": 3584
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3588,
+   "end": 3898,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One more fact matters here. Everything so far is the testimony of people on the ground, at a distance, in the dark. Keep that in mind.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 9.264,
+     "start": 3598,
+     "end": 3876
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "stars",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 3880,
+   "end": 4240,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Entry logged. Shemiran, about half past midnight. Unknown light, several witnesses, one general. Label: evidence of an observation, not yet of a craft.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 10.92,
+     "start": 3890,
+     "end": 4218
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 LAUNCH",
+    "First Scramble",
+    "SHAHROKHI \u00b7 01:30"
+   ],
+   "img": "ep/img/shot_14.jpg",
+   "start": 4222,
+   "end": 4509,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter two. The launch. At about one thirty in the morning, an F-4 Phantom is scrambled from Shahrokhi air base in Hamadan.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 8.496,
+     "start": 4232,
+     "end": 4487
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4491,
+   "end": 4801,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At the controls is Lieutenant Yadollah Nazeri. He takes off, and he can see the object from a staggering distance, about seventy miles away.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 9.264,
+     "start": 4501,
+     "end": 4779
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 4783,
+   "end": 5111,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He flies toward it. At twenty-five nautical miles, something happens. His instruments fail. His radio dies. His intercom goes silent.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 9.84,
+     "start": 4793,
+     "end": 5089
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5093,
+   "end": 5376,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nazeri turns back. As he moves away, the instruments come back to life. He lands. That is the whole of the first intercept.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 8.352,
+     "start": 5103,
+     "end": 5354
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5358,
+   "end": 5765,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In a nineteen ninety-four interview, he adds a dramatic detail: the object accelerated past him at Mach two. That claim came eighteen years later, and we mark it as testimony.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 12.48,
+     "start": 5368,
+     "end": 5743
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 5747,
+   "end": 6115,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The sceptic Philip Klass pointed at something odd. Only the first jet had trouble. And that F-4 had a long history of electrical faults, repaired a month earlier.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 11.184,
+     "start": 5757,
+     "end": 6093
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6097,
+   "end": 6375,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A faulty jet can explain a dead radio. It does not explain what he was chasing. Entry logged. Label: partial.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 8.184,
+     "start": 6107,
+     "end": 6353
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 SECOND JET",
+    "Radar Lock",
+    "MAJOR JAFARI"
+   ],
+   "img": "ep/img/shot_21.jpg",
+   "start": 6357,
+   "end": 6646,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter three. The second scramble. About ten minutes later, a second F-4 launches. This is the one that made the case famous.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 8.544,
+     "start": 6367,
+     "end": 6624
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 6628,
+   "end": 6987,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Major Parviz Jafari flies, with Lieutenant Jalal Damirian behind him. The radar picks up a target, twelve o'clock high, at twenty-seven miles.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.896,
+     "start": 6638,
+     "end": 6965
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 6969,
+   "end": 7331,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They say the return was as big as a Boeing seven-oh-seven. A tanker-sized echo. They close at about a hundred and fifty knots, and then it begins to move away.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 10.992,
+     "start": 6979,
+     "end": 7309
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 7313,
+   "end": 7681,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "At twenty-five miles the object backs off, exactly keeping its distance. The crew sees flashing lights, red, green, orange and blue, in a strobing pattern.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 11.184,
+     "start": 7323,
+     "end": 7659
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 7663,
+   "end": 7887,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, they say, a smaller bright sphere leaves the object and flies straight toward their jet, like a missile.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 6.384,
+     "start": 7673,
+     "end": 7865
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 7869,
+   "end": 8184,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Jafari tries to fire a Sidewinder missile. The moment he reaches for the switch, his weapons panel goes dead, and the radios fail too.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 9.432,
+     "start": 7879,
+     "end": 8162
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 8166,
+   "end": 8499,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He dives, hard, into negative-G, trying to evade. The sphere, they say, follows, turns inside his turn, then returns to the mother object.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 10.032,
+     "start": 8176,
+     "end": 8477
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 8481,
+   "end": 8912,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One more thing. Another bright object, the crew reports, descends and appears to land gently on the ground. They mark the location, and fly home. Entry logged. Label: evidence, from the crew.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 13.296,
+     "start": 8491,
+     "end": 8890
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 GROUND SEARCH",
+    "Daylight",
+    "NEXT MORNING"
+   ],
+   "img": "ep/img/shot_29.jpg",
+   "start": 8894,
+   "end": 9123,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter four. The ground search. At first light, a helicopter flies to the spot the pilots marked.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 6.552,
+     "start": 8904,
+     "end": 9101
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 9105,
+   "end": 9379,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They find nothing. No craft, no scorch marks, nothing obvious on the ground. But the search team does get something else.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 8.04,
+     "start": 9115,
+     "end": 9357
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 9361,
+   "end": 9654,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A beeping signal on their radio. A transponder, coming from somewhere near the dry lake. They follow it, as far as a small house.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 8.688,
+     "start": 9371,
+     "end": 9632
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 9636,
+   "end": 9929,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The people living there say that in the night they heard a loud noise and saw a bright flash of light. Their account is told, but not tested.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 8.688,
+     "start": 9646,
+     "end": 9907
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 9911,
+   "end": 10198,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Radiation tests were reportedly considered. The results, if they exist, were never published. That is an unverified gap.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 8.496,
+     "start": 9921,
+     "end": 10176
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 10180,
+   "end": 10564,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The skeptic Brian Dunning has a simple explanation for the beeper. It matches the signal of a beacon from an American C-141 transport, ejected by turbulence.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 11.712,
+     "start": 10190,
+     "end": 10542
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 10546,
+   "end": 10786,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If so, it was a coincidence, not a landing. We cannot test it today. Entry logged. Label: partial.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 6.912,
+     "start": 10556,
+     "end": 10764
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "V \u00b7 THE REPORT",
+    "The Memo",
+    "WASHINGTON \u00b7 1976"
+   ],
+   "img": "ep/img/shot_36.jpg",
+   "start": 10768,
+   "end": 11090,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter five. The report. The incident is written up by an American military attach\u00e9 in Tehran, and sent to the US Air Force.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 9.648,
+     "start": 10778,
+     "end": 11068
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 11072,
+   "end": 11348,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It goes to the Joint Chiefs of Staff, the CIA, the Defense Intelligence Agency, the State Department and the White House.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 8.112,
+     "start": 11082,
+     "end": 11326
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 11330,
+   "end": 11714,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That sounds explosive, until you read why. Sensitive reports from the Middle East were routinely sent to a wide list. The long distribution is not a sign of alarm.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 11.712,
+     "start": 11340,
+     "end": 11692
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 11696,
+   "end": 12053,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "General Shapour Azarbarzin interviews the crews himself. In January nineteen seventy-seven, he adds a claim: the object's speed was Mach three.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 10.824,
+     "start": 11706,
+     "end": 12031
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 12035,
+   "end": 12343,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The report is real. The fighter chase happened as a recorded event. What the report cannot do is prove what the pilots were chasing.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 9.168,
+     "start": 12045,
+     "end": 12321
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 12325,
+   "end": 12540,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Entry logged. Label: evidence the case was taken seriously, not evidence of aliens.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 6.096,
+     "start": 12335,
+     "end": 12518
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VI \u00b7 SCEPTICS",
+    "Jupiter and Meteors",
+    "KLASS \u00b7 DUNNING"
+   ],
+   "img": "ep/img/shot_42.jpg",
+   "start": 12522,
+   "end": 12818,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter six. The sceptics. Philip Klass offers a bold answer. The bright light that began it all, he says, was the planet Jupiter.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 8.784,
+     "start": 12532,
+     "end": 12796
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 12800,
+   "end": 13184,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In September nineteen seventy-six, Jupiter was bright, and in the right part of the sky. Witnesses at a distance, with no reference points, can easily mistake it for a craft.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 11.712,
+     "start": 12810,
+     "end": 13162
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 13166,
+   "end": 13510,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Dunning adds a second ingredient. The nineteenth of September falls in the peak of three meteor showers, including the Southern Piscids and Eta Draconids.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 10.368,
+     "start": 13176,
+     "end": 13488
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 13492,
+   "end": 13860,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Klass also suggests the radar lock may have been in a manual mode, which can cause false returns. A mistaken lock explains a target that keeps its distance.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 11.184,
+     "start": 13502,
+     "end": 13838
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 13842,
+   "end": 14157,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So a mix: a bright planet, a few meteors, a jet with electrical faults, and crews on edge. It is a tidy answer. But does it cover everything?",
+     "file": "ep/audio/s46.mp3",
+     "dur": 9.432,
+     "start": 13852,
+     "end": 14135
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 14139,
+   "end": 14530,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is the gap. A planet cannot explain two separate crews, two different jets, and a second set of failures. Sceptics reply that only the first jet really lost systems.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 11.952,
+     "start": 14149,
+     "end": 14508
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 14512,
+   "end": 14827,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The truth is that the second crew's account rests on their word alone. Entry logged. Label: unverified, with a plausible explanation.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 9.408,
+     "start": 14522,
+     "end": 14805
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VII \u00b7 AFTER",
+    "Why It Lasts",
+    "THE LONG SHADOW"
+   ],
+   "img": "ep/img/shot_49.jpg",
+   "start": 14809,
+   "end": 15023,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter seven. The long shadow. Why does this case still hold on after almost fifty years?",
+     "file": "ep/audio/s49.mp3",
+     "dur": 6.048,
+     "start": 14819,
+     "end": 15001
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 15005,
+   "end": 15380,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Because it was a military case. Trained pilots, a general, radar, and an official report. It is the case people cite when they say, serious people have seen these things.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 11.424,
+     "start": 15015,
+     "end": 15358
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 15362,
+   "end": 15695,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the pilots never changed their story. They were not hoaxers. It is likely they described what they truly experienced, in a frightening, confusing night.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 10.032,
+     "start": 15372,
+     "end": 15673
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 15677,
+   "end": 15999,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Which is the lesson. A sincere witness is not the same as an accurate instrument. And an official report proves only that someone wrote it down.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 9.648,
+     "start": 15687,
+     "end": 15977
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "none",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 15981,
+   "end": 16282,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The records to settle it, the radar tapes and maintenance logs, were never made public. Without them, this case cannot be closed either way.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 8.952,
+     "start": 15991,
+     "end": 16260
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_54.jpg",
+   "start": 16264,
+   "end": 16379,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to close the tower log, and score the night.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 2.736,
+     "start": 16274,
+     "end": 16357
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 16361,
+   "end": 16938,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A bright light seen over Tehran by several witnesses: evidence. Two F-4s scrambled and a radar lock: evidence, from the crews. Instrument failures: partial, since the first jet had a faulty history. The helicopter search finding nothing: evidence against a landing.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 18.144,
+     "start": 16371,
+     "end": 16916
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 16920,
+   "end": 17320,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The beeping transponder: debunked, a likely American C-141 beacon. Jupiter and meteors as the cause: partial. A Mach three alien craft: no evidence.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 12.264,
+     "start": 16930,
+     "end": 17298
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 17302,
+   "end": 17726,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Unexplained, but not alien. Something truly strange happened, at least to the people involved, but a craft that outflew a Phantom is a claim without a recording, a wreck or a test.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 13.056,
+     "start": 17312,
+     "end": 17704
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 17708,
+   "end": 18076,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And that is what makes it so good a story. Men who trusted their gauges watched them fail, and they never stopped asking why. That deserves respect, and it deserves proof.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 11.184,
+     "start": 17718,
+     "end": 18054
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 18058,
+   "end": 18420,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a glowing object that fell into the water off Nova Scotia in nineteen sixty-seven. Reports from fishermen, police, and the Canadian military.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 10.992,
+     "start": 18068,
+     "end": 18398
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 18402,
+   "end": 18663,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think the pilots were chasing? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 7.608,
+     "start": 18412,
+     "end": 18641
+    }
+   ]
+  }
+ ]
+}
