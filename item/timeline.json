@@ -1,0 +1,1340 @@
+{
+ "fps": 30,
+ "total": 18836,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 391,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Imagine a church with a roof, walls, windows and doors. Now imagine it was never built. Nobody stacked a single stone. It was cut out of the mountain, from the top down.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 11.952,
+     "start": 10,
+     "end": 369
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 373,
+   "end": 657,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Local tradition says angels helped. By day, men carved. By night, angels worked twice as fast. So who really did it?",
+     "file": "ep/audio/s02.mp3",
+     "dur": 8.376,
+     "start": 383,
+     "end": 635
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 639,
+   "end": 951,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we open a survey report. Eleven churches, one mountain, and one question: how do you build a cathedral by removing the rock around it?",
+     "file": "ep/audio/s03.mp3",
+     "dur": 9.312,
+     "start": 649,
+     "end": 929
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 933,
+   "end": 1208,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "We will check the legend, the dates, the method, and the alien version of the story. Every claim gets a score. Let's begin.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 8.088,
+     "start": 943,
+     "end": 1186
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1190,
+   "end": 1583,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eleven churches. One verdict at the end. Is Lalibela a miracle, a mystery, or something even more impressive?",
+     "file": "ep/audio/s05.mp3",
+     "dur": 8.016,
+     "start": 1200,
+     "end": 1441
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 THE SITE",
+    "Survey Sheet One",
+    "LOCATION \u00b7 ALTITUDE \u00b7 LAYOUT"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1565,
+   "end": 1934,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Survey sheet one. The site. Lalibela is a small town in northern Ethiopia, high in the mountains, about two thousand six hundred metres above sea level.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 11.208,
+     "start": 1575,
+     "end": 1912
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 1916,
+   "end": 2228,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It sits at the foot of Mount Abuna Yosef, roughly six hundred and forty kilometres from the capital, Addis Ababa. Far from everything.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 9.312,
+     "start": 1926,
+     "end": 2206
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2210,
+   "end": 2466,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A small river runs through it, named the Yordanos, after the Jordan. That name matters, and we will come back to it.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 7.44,
+     "start": 2220,
+     "end": 2444
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2448,
+   "end": 2718,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eleven churches stand here. Six in a northern group. Four in a southern group. And one alone, set apart from the rest.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 7.92,
+     "start": 2458,
+     "end": 2696
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 2700,
+   "end": 3037,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The groups are joined by tunnels, trenches and passages, all cut in the rock. Walking between them feels like walking through the inside of a mountain.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 10.152,
+     "start": 2710,
+     "end": 3015
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3019,
+   "end": 3365,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The stone itself is volcanic: red scoria on top of darker basalt. Soft enough to carve with iron tools. Hard enough to stand for centuries.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 10.464,
+     "start": 3029,
+     "end": 3343
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3347,
+   "end": 3647,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So far, simple. A mountain town, a river, eleven churches cut from stone. Now, the story people tell about who ordered them.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 8.928,
+     "start": 3357,
+     "end": 3625
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 THE KING",
+    "Survey Sheet Two",
+    "LEGEND \u00b7 DYNASTY \u00b7 NEW JERUSALEM"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 3629,
+   "end": 4044,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Survey sheet two. The king. Tradition names him Gebre Mesqel Lalibela, a ruler of the Zagwe dynasty who reigned around the year eleven eighty one, until twelve twenty one.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.744,
+     "start": 3639,
+     "end": 4022
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4026,
+   "end": 4368,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The story comes down in church tradition. As a child, a swarm of bees was said to circle him, and his mother saw it as a sign that he would be king.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 10.32,
+     "start": 4036,
+     "end": 4346
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4350,
+   "end": 4701,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then came a crisis. In that age, Muslim conquests had cut off the route to Jerusalem, and Christian pilgrims could no longer safely reach the holy city.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 10.608,
+     "start": 4360,
+     "end": 4679
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 4683,
+   "end": 5016,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The tradition says the king answered by building a new Jerusalem at home. Hence the river called Jordan, and hills and places given biblical names.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 10.032,
+     "start": 4693,
+     "end": 4994
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 4998,
+   "end": 5280,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One story says he was taken in a vision to see the real Jerusalem, and told to build its copy, in stone, for his people.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 8.304,
+     "start": 5008,
+     "end": 5258
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5262,
+   "end": 5568,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Whatever the truth, the site still works as that. More than a hundred thousand pilgrims come every year, especially at Ethiopian Christmas.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.12,
+     "start": 5272,
+     "end": 5546
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "none",
+   "motion": "out",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 5550,
+   "end": 5830,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Logged. A king, a crisis, a holy purpose. But a legend is not a date. Next, how the churches were actually made.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 8.256,
+     "start": 5560,
+     "end": 5808
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "III \u00b7 THE METHOD",
+    "Survey Sheet Three",
+    "TOP DOWN \u00b7 TRENCH \u00b7 INTERIOR"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 5812,
+   "end": 6085,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Survey sheet three. The method. This is the part that breaks people's brains. Normal buildings go up. These went down.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 8.016,
+     "start": 5822,
+     "end": 6063
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6067,
+   "end": 6353,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "First, workers cut a deep trench around a block of living rock, isolating it, like a giant island of stone in the mountain.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 8.448,
+     "start": 6077,
+     "end": 6331
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 6335,
+   "end": 6583,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then they shaped the outside: the roof, the walls, the cornice, the carved window frames, all from the top downward.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 7.176,
+     "start": 6345,
+     "end": 6561
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 6565,
+   "end": 6863,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, and only then, they tunnelled inward, hollowing the inside, leaving columns and arches standing exactly where they were needed.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 8.856,
+     "start": 6575,
+     "end": 6841
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 6845,
+   "end": 7121,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This method has a harsh rule. You cannot make a mistake. Cut too much, and the rock stays cut. There is no putting it back.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 8.112,
+     "start": 6855,
+     "end": 7099
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 7103,
+   "end": 7393,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The tools were simple: iron picks, chisels, hammers, and wedges. Nothing mysterious. What was extraordinary was the planning.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 8.568,
+     "start": 7113,
+     "end": 7371
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 7375,
+   "end": 7675,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the waste? Many thousands of tonnes of rock had to be carried out of those pits. Spoil heaps and terraces nearby show where it went.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 8.904,
+     "start": 7385,
+     "end": 7653
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 7657,
+   "end": 7976,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Look closely and the stone imitates timber. Carved beams, window frames and door posts copy the style of the great Aksumite buildings.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 9.552,
+     "start": 7667,
+     "end": 7954
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 7958,
+   "end": 8228,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The carvers copied architecture they knew, but in a medium that cannot be dismantled. It is architecture as sculpture.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 7.92,
+     "start": 7968,
+     "end": 8206
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 8210,
+   "end": 8450,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Method scored. Real, human, and astonishing. But the most famous church deserves a sheet of its own.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 6.912,
+     "start": 8220,
+     "end": 8428
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "IV \u00b7 THE CROSS",
+    "Survey Sheet Four",
+    "BET GIYORGIS \u00b7 PIT \u00b7 DESIGN"
+   ],
+   "img": "ep/img/shot_30.jpg",
+   "start": 8432,
+   "end": 8702,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Survey sheet four. Bet Giyorgis, the Church of Saint George. The one set apart, and the one every photograph shows.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 7.92,
+     "start": 8442,
+     "end": 8680
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 8684,
+   "end": 8966,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Its roof is a cross, and the church itself is a cross, cut from a single block, about fifteen metres deep inside a square pit.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 8.304,
+     "start": 8694,
+     "end": 8944
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 8948,
+   "end": 9248,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "You reach it by a narrow trench that slopes down into the pit. For a long moment you see nothing, then the roof appears below your feet.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 8.904,
+     "start": 8958,
+     "end": 9226
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 9230,
+   "end": 9507,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Three doors. Twelve windows. Crosses carved on the roof. Every proportion calculated, and cut without a second chance.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 8.16,
+     "start": 9240,
+     "end": 9485
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 9489,
+   "end": 9781,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The courtyard around it is about twenty two metres square. Smooth walls, straight corners. Cut by hand, in volcanic rock.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 8.664,
+     "start": 9499,
+     "end": 9759
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 9763,
+   "end": 10048,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tradition says Saint George rode his white horse here and insisted that his church be finished. It is the last church of the legend.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 8.424,
+     "start": 9773,
+     "end": 10026
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 10030,
+   "end": 10289,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the pit has a weakness: water. Rain collects, seeps, and erodes. Conservators have fought it for decades.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 7.56,
+     "start": 10040,
+     "end": 10267
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 10271,
+   "end": 10491,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scored. A masterpiece, and a very human one. Now the question that splits historians: when?",
+     "file": "ep/audio/s37.mp3",
+     "dur": 6.264,
+     "start": 10281,
+     "end": 10469
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": [
+    "V \u00b7 THE DATES",
+    "Survey Sheet Five",
+    "TWENTY-FOUR YEARS OR CENTURIES?"
+   ],
+   "img": "ep/img/shot_38.jpg",
+   "start": 10473,
+   "end": 10779,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Survey sheet five. The dating problem. The tradition says all eleven were made in just twenty four years. The ground says otherwise.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 9.12,
+     "start": 10483,
+     "end": 10757
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 10761,
+   "end": 11074,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In two thousand nine, a French team mapped the whole site in detail. They studied how the trenches cut into each other, like layers in a stack.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 9.336,
+     "start": 10771,
+     "end": 11052
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 11056,
+   "end": 11335,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If one trench cuts through another, the cut one is older. That simple rule can order the work, without any carbon dating at all.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 8.208,
+     "start": 11066,
+     "end": 11313
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 11317,
+   "end": 11584,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The result: several phases of work, four or five, spread across centuries. Some parts may be much older than the king.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 7.824,
+     "start": 11327,
+     "end": 11562
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 11566,
+   "end": 11879,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Scholars suggest early elements might date from the seventh century or even before, with the main burst of work around the twelfth and thirteenth.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 9.36,
+     "start": 11576,
+     "end": 11857
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 11861,
+   "end": 12131,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Honestly, the exact dates are not settled. No inscription says here is the year. The scholars say: undetermined.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 7.92,
+     "start": 11871,
+     "end": 12109
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 12113,
+   "end": 12395,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No contemporary account describes the building. The earliest stories were written down later, and written to praise a holy king.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 8.328,
+     "start": 12123,
+     "end": 12373
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 12377,
+   "end": 12700,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the king may have started, or expanded, or inherited. A legend can be a compressed memory of centuries of work, credited to one name.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 9.696,
+     "start": 12387,
+     "end": 12678
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 12682,
+   "end": 12946,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Dating scored. The twenty four year tale is unlikely. Phases across centuries is the best evidence we have.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 7.728,
+     "start": 12692,
+     "end": 12924
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": [
+    "VI \u00b7 THEORIES",
+    "Survey Sheet Six",
+    "ANGELS \u00b7 ALIENS \u00b7 LOST TECH"
+   ],
+   "img": "ep/img/shot_47.jpg",
+   "start": 12928,
+   "end": 13292,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Survey sheet six. The theories. Online, you will hear that human beings could never have done this. That it needed lost technology, or visitors from another world.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 11.04,
+     "start": 12938,
+     "end": 13270
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 13274,
+   "end": 13607,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Claim one: too perfect, too big. But the church is large for a rock carving, not impossible. Rock cut architecture exists across the world.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 10.008,
+     "start": 13284,
+     "end": 13585
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 13589,
+   "end": 13922,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Petra in Jordan, the Ajanta caves in India, Cappadocia in Turkey. People have been carving buildings from living rock for thousands of years.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 10.008,
+     "start": 13599,
+     "end": 13900
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 13904,
+   "end": 14230,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And here, the chisel marks are still visible. Tool strokes, corrections, and unfinished areas. That is the fingerprint of human work, not a machine.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 9.768,
+     "start": 13914,
+     "end": 14208
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 14212,
+   "end": 14530,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Claim two: no tools could cut it. But iron tools were certainly available in medieval Ethiopia, and the rock is soft when freshly cut.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 9.528,
+     "start": 14222,
+     "end": 14508
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 14512,
+   "end": 14843,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Claim three: no workforce could do it. Yet a community that large, over generations, with priests, masons and labourers, is entirely plausible.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 9.936,
+     "start": 14522,
+     "end": 14821
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 14825,
+   "end": 15109,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "As for angels, that is faith, not evidence. It is a beautiful way for a culture to say: this was too good to be only ours.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 8.4,
+     "start": 14835,
+     "end": 15087
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 15091,
+   "end": 15401,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is no trace of any alien object, tool, or technology here. The only mystery is how a human community pulled off the planning.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 9.264,
+     "start": 15101,
+     "end": 15379
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 15383,
+   "end": 15667,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Theories scored. Evidence is strong for human hands, and the alien claim has nothing to stand on. One sheet remains.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 8.376,
+     "start": 15393,
+     "end": 15645
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "VII \u00b7 THE LIVING SITE",
+    "Survey Sheet Seven",
+    "WORSHIP \u00b7 PRESERVATION"
+   ],
+   "img": "ep/img/shot_56.jpg",
+   "start": 15649,
+   "end": 15969,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Survey sheet seven. The living church. This is not a ruin. For more than eight hundred years, the churches have been used, almost without a break.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 9.6,
+     "start": 15659,
+     "end": 15947
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 15951,
+   "end": 16243,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is also their problem. Rain and heavy visits are wearing the soft stone, and huge shelters now protect some of the churches.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 8.664,
+     "start": 15961,
+     "end": 16221
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 16225,
+   "end": 16563,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "UNESCO listed Lalibela in nineteen seventy eight, among the very first World Heritage sites. It is a place of worship first, a mystery second.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 10.176,
+     "start": 16235,
+     "end": 16541
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_59.jpg",
+   "start": 16545,
+   "end": 16649,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score Lalibela.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 2.376,
+     "start": 16555,
+     "end": 16627
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_60.jpg",
+   "start": 16631,
+   "end": 17105,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Eleven churches carved from living rock, top down: evidence. Cut with iron tools by human hands: evidence. A working holy site for centuries: evidence. The king as organiser: plausible, undated.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 14.712,
+     "start": 16641,
+     "end": 17083
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 17087,
+   "end": 17500,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "All of it in twenty four years: unlikely. Built by angels or aliens: no evidence, and the chisel marks say otherwise. The exact date of each church: still an open question.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 12.696,
+     "start": 17097,
+     "end": 17478
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 17482,
+   "end": 17888,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Real, and human. Lalibela is not an alien site. It is something harder to believe: a community that planned a masterpiece they could never undo, and cut it perfectly.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 12.456,
+     "start": 17492,
+     "end": 17866
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 17870,
+   "end": 18198,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Somewhere, centuries ago, a mason made the first cut at the top of a block of mountain, knowing it could never be undone. That is faith, and it is real.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 9.84,
+     "start": 17880,
+     "end": 18176
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 18180,
+   "end": 18451,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a freight plane, a night sky off the coast of New Zealand, and a light that followed the crew. What did they film?",
+     "file": "ep/audio/s64.mp3",
+     "dur": 7.944,
+     "start": 18190,
+     "end": 18429
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 18433,
+   "end": 18761,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think is the greater miracle: the angels, or the masons? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s65.mp3",
+     "dur": 9.84,
+     "start": 18443,
+     "end": 18739
+    }
+   ]
+  }
+ ]
+}

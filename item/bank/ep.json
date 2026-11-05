@@ -1,0 +1,1407 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a huge cross-shaped church carved from red volcanic rock standing inside a deep square pit, seen from the rim at golden hour, Lalibela Ethiopia, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Imagine a church with a roof, walls, windows and doors. Now imagine it was never built. Nobody stacked a single stone. It was cut out of the mountain, from the top down."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Imagine a church with a roof, walls, windows and doors. Now imagine it was never built. Nobody stacked a single stone. It was cut out of the mountain, from the top down.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of glowing winged angels working at night with chisels beside a huge rock pit under stars, epic concept art, ethereal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Local tradition says angels helped. By day, men carved. By night, angels worked twice as fast. So who really did it?"
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Local tradition says angels helped. By day, men carved. By night, angels worked twice as fast. So who really did it?",
+    "file": "ep/audio/s02.mp3",
+    "dur": 8.376
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a surveyor's wooden table with a blank roll of paper, a brass compass and pencil, warm light, shallow depth of field, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we open a survey report. Eleven churches, one mountain, and one question: how do you build a cathedral by removing the rock around it?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we open a survey report. Eleven churches, one mountain, and one question: how do you build a cathedral by removing the rock around it?",
+    "file": "ep/audio/s03.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of the rocky highlands of northern Ethiopia at dawn, red-brown stone hills, a quiet town, mist, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "We will check the legend, the dates, the method, and the alien version of the story. Every claim gets a score. Let's begin."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "We will check the legend, the dates, the method, and the alien version of the story. Every claim gets a score. Let's begin.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 8.088
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a deep rock-cut trench with a carved red stone church roof seen from above, soft light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eleven churches. One verdict at the end. Is Lalibela a miracle, a mystery, or something even more impressive?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eleven churches. One verdict at the end. Is Lalibela a miracle, a mystery, or something even more impressive?",
+    "file": "ep/audio/s05.mp3",
+    "dur": 8.016
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of the town of Lalibela in Ethiopian highlands, stone houses on a high plateau, blue sky, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Survey sheet one. The site. Lalibela is a small town in northern Ethiopia, high in the mountains, about two thousand six hundred metres above sea level."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 THE SITE",
+   "Survey Sheet One",
+   "LOCATION \u00b7 ALTITUDE \u00b7 LAYOUT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Survey sheet one. The site. Lalibela is a small town in northern Ethiopia, high in the mountains, about two thousand six hundred metres above sea level.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a map table with a hand drawn topographic sketch of mountains and a river, no words, brass compass, warm light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It sits at the foot of Mount Abuna Yosef, roughly six hundred and forty kilometres from the capital, Addis Ababa. Far from everything."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It sits at the foot of Mount Abuna Yosef, roughly six hundred and forty kilometres from the capital, Addis Ababa. Far from everything.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 9.312
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dry riverbed in the Ethiopian highlands with stone steps and a rock cut cliff, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A small river runs through it, named the Yordanos, after the Jordan. That name matters, and we will come back to it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A small river runs through it, named the Yordanos, after the Jordan. That name matters, and we will come back to it.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 7.44
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a group of rock-hewn churches in a sunken courtyard, red stone, trenches and narrow tunnels, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eleven churches stand here. Six in a northern group. Four in a southern group. And one alone, set apart from the rest."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eleven churches stand here. Six in a northern group. Four in a southern group. And one alone, set apart from the rest.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 7.92
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a narrow dark tunnel carved through red rock leading to a bright opening, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The groups are joined by tunnels, trenches and passages, all cut in the rock. Walking between them feels like walking through the inside of a mountain."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The groups are joined by tunnels, trenches and passages, all cut in the rock. Walking between them feels like walking through the inside of a mountain.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 10.152
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of the red rock surface of a carved church wall showing volcanic texture, close view, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The stone itself is volcanic: red scoria on top of darker basalt. Soft enough to carve with iron tools. Hard enough to stand for centuries."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The stone itself is volcanic: red scoria on top of darker basalt. Soft enough to carve with iron tools. Hard enough to stand for centuries.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a surveyor's notebook page filled only with abstract grey lines and a pencil on a wooden desk, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So far, simple. A mountain town, a river, eleven churches cut from stone. Now, the story people tell about who ordered them."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So far, simple. A mountain town, a river, eleven churches cut from stone. Now, the story people tell about who ordered them.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 8.928
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a medieval Ethiopian king in a white robe and simple crown standing before a vast rocky landscape at sunrise, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Survey sheet two. The king. Tradition names him Gebre Mesqel Lalibela, a ruler of the Zagwe dynasty who reigned around the year eleven eighty one, until twelve twenty one."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 THE KING",
+   "Survey Sheet Two",
+   "LEGEND \u00b7 DYNASTY \u00b7 NEW JERUSALEM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Survey sheet two. The king. Tradition names him Gebre Mesqel Lalibela, a ruler of the Zagwe dynasty who reigned around the year eleven eighty one, until twelve twenty one.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 12.744
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old Ethiopian illuminated-style manuscript page with abstract coloured shapes and no text, lying on a wooden table, warm light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The story comes down in church tradition. As a child, a swarm of bees was said to circle him, and his mother saw it as a sign that he would be king."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The story comes down in church tradition. As a child, a swarm of bees was said to circle him, and his mother saw it as a sign that he would be king.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.32
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a lone pilgrim in white cloth walking a dusty path across a dry hill toward a distant city, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came a crisis. In that age, Muslim conquests had cut off the route to Jerusalem, and Christian pilgrims could no longer safely reach the holy city."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came a crisis. In that age, Muslim conquests had cut off the route to Jerusalem, and Christian pilgrims could no longer safely reach the holy city.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a pilgrim in white kneeling on red rock steps in front of a carved church entrance at dawn, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The tradition says the king answered by building a new Jerusalem at home. Hence the river called Jordan, and hills and places given biblical names."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The tradition says the king answered by building a new Jerusalem at home. Hence the river called Jordan, and hills and places given biblical names.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a bright beam of light falling from a night sky onto a carved rock courtyard, ethereal, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One story says he was taken in a vision to see the real Jerusalem, and told to build its copy, in stone, for his people."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One story says he was taken in a vision to see the real Jerusalem, and told to build its copy, in stone, for his people.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a modern pilgrim crowd dressed in white sitting quietly on rock terraces around a carved church, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Whatever the truth, the site still works as that. More than a hundred thousand pilgrims come every year, especially at Ethiopian Christmas."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Whatever the truth, the site still works as that. More than a hundred thousand pilgrims come every year, especially at Ethiopian Christmas.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.12
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a plain wooden gavel-like stamp beside a blank paper record on a desk, warm light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Logged. A king, a crisis, a holy purpose. But a legend is not a date. Next, how the churches were actually made."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Logged. A king, a crisis, a holy purpose. But a legend is not a date. Next, how the churches were actually made.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 8.256
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a rectangular trench being carved around a huge block of red rock, quarry style, workers far in the distance with simple tools, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Survey sheet three. The method. This is the part that breaks people's brains. Normal buildings go up. These went down."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 THE METHOD",
+   "Survey Sheet Three",
+   "TOP DOWN \u00b7 TRENCH \u00b7 INTERIOR"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Survey sheet three. The method. This is the part that breaks people's brains. Normal buildings go up. These went down.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 8.016
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of aerial view of a square trench cut in red rock surrounding an untouched central block, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "First, workers cut a deep trench around a block of living rock, isolating it, like a giant island of stone in the mountain."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "First, workers cut a deep trench around a block of living rock, isolating it, like a giant island of stone in the mountain.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 8.448
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a hand sketch diagram style drawing on aged paper of a block with a trench around it, drawn only with plain lines and arrows, no words, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then they shaped the outside: the roof, the walls, the cornice, the carved window frames, all from the top downward."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then they shaped the outside: the roof, the walls, the cornice, the carved window frames, all from the top downward.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 7.176
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of the dim interior of a rock cut church with massive square pillars cut from the same stone, warm light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, and only then, they tunnelled inward, hollowing the inside, leaving columns and arches standing exactly where they were needed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, and only then, they tunnelled inward, hollowing the inside, leaving columns and arches standing exactly where they were needed.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 8.856
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of close view of a carved rock cut arch with a worn smooth surface and chisel marks, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This method has a harsh rule. You cannot make a mistake. Cut too much, and the rock stays cut. There is no putting it back."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This method has a harsh rule. You cannot make a mistake. Cut too much, and the rock stays cut. There is no putting it back.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 8.112
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an iron pick and a chisel resting on red rock in the sunlight, ancient tools, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The tools were simple: iron picks, chisels, hammers, and wedges. Nothing mysterious. What was extraordinary was the planning."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The tools were simple: iron picks, chisels, hammers, and wedges. Nothing mysterious. What was extraordinary was the planning.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 8.568
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a heap of broken red stone rubble at the edge of a deep trench, workers' baskets, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the waste? Many thousands of tonnes of rock had to be carried out of those pits. Spoil heaps and terraces nearby show where it went."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the waste? Many thousands of tonnes of rock had to be carried out of those pits. Spoil heaps and terraces nearby show where it went.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 8.904
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a carved rock window frame in red stone with a cross shaped opening, sunlight, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Look closely and the stone imitates timber. Carved beams, window frames and door posts copy the style of the great Aksumite buildings."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Look closely and the stone imitates timber. Carved beams, window frames and door posts copy the style of the great Aksumite buildings.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a rock cut church ceiling with carved geometric patterns and an arch in warm lamplight, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The carvers copied architecture they knew, but in a medium that cannot be dismantled. It is architecture as sculpture."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The carvers copied architecture they knew, but in a medium that cannot be dismantled. It is architecture as sculpture.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 7.92
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a surveyor's measuring tape coiled on red stone, warm light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Method scored. Real, human, and astonishing. But the most famous church deserves a sheet of its own."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Method scored. Real, human, and astonishing. But the most famous church deserves a sheet of its own.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 6.912
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of Bet Giyorgis, a cross-shaped rock church, seen from above in its deep square pit, red stone, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Survey sheet four. Bet Giyorgis, the Church of Saint George. The one set apart, and the one every photograph shows."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV \u00b7 THE CROSS",
+   "Survey Sheet Four",
+   "BET GIYORGIS \u00b7 PIT \u00b7 DESIGN"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Survey sheet four. Bet Giyorgis, the Church of Saint George. The one set apart, and the one every photograph shows.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 7.92
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of the roof of a cross-shaped rock church with three tiers of crosses carved into it, aerial, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Its roof is a cross, and the church itself is a cross, cut from a single block, about fifteen metres deep inside a square pit."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Its roof is a cross, and the church itself is a cross, cut from a single block, about fifteen metres deep inside a square pit.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a stone staircase and narrow trench leading down into a pit from the rock surface, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "You reach it by a narrow trench that slopes down into the pit. For a long moment you see nothing, then the roof appears below your feet."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "You reach it by a narrow trench that slopes down into the pit. For a long moment you see nothing, then the roof appears below your feet.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 8.904
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a carved arched doorway of a rock church with twelve small window openings on the wall, warm light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three doors. Twelve windows. Crosses carved on the roof. Every proportion calculated, and cut without a second chance."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three doors. Twelve windows. Crosses carved on the roof. Every proportion calculated, and cut without a second chance.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 8.16
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a deep rock cut courtyard around a church, with smooth red walls and a few visitors tiny at the bottom, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The courtyard around it is about twenty two metres square. Smooth walls, straight corners. Cut by hand, in volcanic rock."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The courtyard around it is about twenty two metres square. Smooth walls, straight corners. Cut by hand, in volcanic rock.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 8.664
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a robed saint on a white horse in a vision above a rock church at sunrise, concept art, no text, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tradition says Saint George rode his white horse here and insisted that his church be finished. It is the last church of the legend."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tradition says Saint George rode his white horse here and insisted that his church be finished. It is the last church of the legend.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 8.424
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a close view of the Bet Giyorgis rock wall with water stains and weathering, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the pit has a weakness: water. Rain collects, seeps, and erodes. Conservators have fought it for decades."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the pit has a weakness: water. Rain collects, seeps, and erodes. Conservators have fought it for decades.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 7.56
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a surveyor's red pencil lying across a blank sheet of paper, warm light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scored. A masterpiece, and a very human one. Now the question that splits historians: when?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scored. A masterpiece, and a very human one. Now the question that splits historians: when?",
+    "file": "ep/audio/s37.mp3",
+    "dur": 6.264
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of layers of red rock in a cliff showing different cut surfaces and old tunnels, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Survey sheet five. The dating problem. The tradition says all eleven were made in just twenty four years. The ground says otherwise."
+   ]
+  ],
+  "tag": "P",
+  "ch": [
+   "V \u00b7 THE DATES",
+   "Survey Sheet Five",
+   "TWENTY-FOUR YEARS OR CENTURIES?"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Survey sheet five. The dating problem. The tradition says all eleven were made in just twenty four years. The ground says otherwise.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 9.12
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of archaeologists measuring a rock cut wall with a laser scanner on a tripod, Ethiopia, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In two thousand nine, a French team mapped the whole site in detail. They studied how the trenches cut into each other, like layers in a stack."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In two thousand nine, a French team mapped the whole site in detail. They studied how the trenches cut into each other, like layers in a stack.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 9.336
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a stratigraphy diagram style rock face with horizontal layers and cuts crossing, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If one trench cuts through another, the cut one is older. That simple rule can order the work, without any carbon dating at all."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If one trench cuts through another, the cut one is older. That simple rule can order the work, without any carbon dating at all.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 8.208
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old narrow tunnel carved through red rock with worn walls, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The result: several phases of work, four or five, spread across centuries. Some parts may be much older than the king."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The result: several phases of work, four or five, spread across centuries. Some parts may be much older than the king.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 7.824
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a very old stone wall with carved ancient Aksumite style stepped blocks, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Scholars suggest early elements might date from the seventh century or even before, with the main burst of work around the twelfth and thirteenth."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Scholars suggest early elements might date from the seventh century or even before, with the main burst of work around the twelfth and thirteenth.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 9.36
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a quiet empty rock hewn courtyard with warm afternoon light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Honestly, the exact dates are not settled. No inscription says here is the year. The scholars say: undetermined."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Honestly, the exact dates are not settled. No inscription says here is the year. The scholars say: undetermined.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 7.92
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old wax sealed bundle of papers on a wooden desk, warm light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No contemporary account describes the building. The earliest stories were written down later, and written to praise a holy king."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No contemporary account describes the building. The earliest stories were written down later, and written to praise a holy king.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 8.328
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a quiet monk in a white robe standing in a rock carved doorway, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the king may have started, or expanded, or inherited. A legend can be a compressed memory of centuries of work, credited to one name."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the king may have started, or expanded, or inherited. A legend can be a compressed memory of centuries of work, credited to one name.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 9.696
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a surveyor's stamp lying beside a blank page on a wooden table, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dating scored. The twenty four year tale is unlikely. Phases across centuries is the best evidence we have."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dating scored. The twenty four year tale is unlikely. Phases across centuries is the best evidence we have.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 7.728
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a silver disc-shaped craft hovering above a deep red rock pit at dusk, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Survey sheet six. The theories. Online, you will hear that human beings could never have done this. That it needed lost technology, or visitors from another world."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VI \u00b7 THEORIES",
+   "Survey Sheet Six",
+   "ANGELS \u00b7 ALIENS \u00b7 LOST TECH"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Survey sheet six. The theories. Online, you will hear that human beings could never have done this. That it needed lost technology, or visitors from another world.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 11.04
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a rock cut church with a plain flat roof against a bright blue sky, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim one: too perfect, too big. But the church is large for a rock carving, not impossible. Rock cut architecture exists across the world."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim one: too perfect, too big. But the church is large for a rock carving, not impossible. Rock cut architecture exists across the world.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of the rock cut temples of Petra in Jordan, sandstone facade, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Petra in Jordan, the Ajanta caves in India, Cappadocia in Turkey. People have been carving buildings from living rock for thousands of years."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Petra in Jordan, the Ajanta caves in India, Cappadocia in Turkey. People have been carving buildings from living rock for thousands of years.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 10.008
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a close view of tool marks on a carved red rock wall, chisel strokes visible, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And here, the chisel marks are still visible. Tool strokes, corrections, and unfinished areas. That is the fingerprint of human work, not a machine."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And here, the chisel marks are still visible. Tool strokes, corrections, and unfinished areas. That is the fingerprint of human work, not a machine.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 9.768
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a rock cut church with a small unfinished wall section showing rough rock, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim two: no tools could cut it. But iron tools were certainly available in medieval Ethiopia, and the rock is soft when freshly cut."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim two: no tools could cut it. But iron tools were certainly available in medieval Ethiopia, and the rock is soft when freshly cut.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 9.528
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a group of workers carving rock with simple chisels in a sunlit quarry, far view, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Claim three: no workforce could do it. Yet a community that large, over generations, with priests, masons and labourers, is entirely plausible."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Claim three: no workforce could do it. Yet a community that large, over generations, with priests, masons and labourers, is entirely plausible.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 9.936
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a faint night sky with stars over a sandstone gorge, quiet, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "As for angels, that is faith, not evidence. It is a beautiful way for a culture to say: this was too good to be only ours."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "As for angels, that is faith, not evidence. It is a beautiful way for a culture to say: this was too good to be only ours.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 8.4
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a lone question mark shaped shadow on a rock wall, abstract, no letters, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is no trace of any alien object, tool, or technology here. The only mystery is how a human community pulled off the planning."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is no trace of any alien object, tool, or technology here. The only mystery is how a human community pulled off the planning.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 9.264
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of a blank surveyor's report cover on a table in dim light, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Theories scored. Evidence is strong for human hands, and the alien claim has nothing to stand on. One sheet remains."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Theories scored. Evidence is strong for human hands, and the alien claim has nothing to stand on. One sheet remains.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 8.376
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of worshippers in white at sunrise praying outside a rock church while a priest holds a cross, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Survey sheet seven. The living church. This is not a ruin. For more than eight hundred years, the churches have been used, almost without a break."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VII \u00b7 THE LIVING SITE",
+   "Survey Sheet Seven",
+   "WORSHIP \u00b7 PRESERVATION"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Survey sheet seven. The living church. This is not a ruin. For more than eight hundred years, the churches have been used, almost without a break.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 9.6
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a huge protective roof shelter built over a rock cut church, steel structure above red stone, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is also their problem. Rain and heavy visits are wearing the soft stone, and huge shelters now protect some of the churches."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is also their problem. Rain and heavy visits are wearing the soft stone, and huge shelters now protect some of the churches.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 8.664
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of an old priest's hand holding a metal hand cross in warm lamplight, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "UNESCO listed Lalibela in nineteen seventy eight, among the very first World Heritage sites. It is a place of worship first, a mystery second."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "UNESCO listed Lalibela in nineteen seventy eight, among the very first World Heritage sites. It is a place of worship first, a mystery second.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 10.176
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night over a vast pit carved in red rock with a cross-shaped rock church far on the right lit by warm golden light, large empty dark space on the left, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score Lalibela."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score Lalibela.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 2.376
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night over a vast pit carved in red rock with a cross-shaped rock church far on the right lit by warm golden light, large empty dark space on the left, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Eleven churches carved from living rock, top down: evidence. Cut with iron tools by human hands: evidence. A working holy site for centuries: evidence. The king as organiser: plausible, undated."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Eleven churches carved from living rock, top down: evidence. Cut with iron tools by human hands: evidence. A working holy site for centuries: evidence. The king as organiser: plausible, undated.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 14.712
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark night over a vast pit carved in red rock with a cross-shaped rock church far on the right lit by warm golden light, large empty dark space on the left, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "All of it in twenty four years: unlikely. Built by angels or aliens: no evidence, and the chisel marks say otherwise. The exact date of each church: still an open question."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "All of it in twenty four years: unlikely. Built by angels or aliens: no evidence, and the chisel marks say otherwise. The exact date of each church: still an open question.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 12.696
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of Bet Giyorgis cross shaped rock church glowing in golden light, calm, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Real, and human. Lalibela is not an alien site. It is something harder to believe: a community that planned a masterpiece they could never undo, and cut it perfectly."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Real, and human. Lalibela is not an alien site. It is something harder to believe: a community that planned a masterpiece they could never undo, and cut it perfectly.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 12.456
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a quiet monk lighting a candle inside a dim rock church, warm light, photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Somewhere, centuries ago, a mason made the first cut at the top of a block of mountain, knowing it could never be undone. That is faith, and it is real."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Somewhere, centuries ago, a mason made the first cut at the top of a block of mountain, knowing it could never be undone. That is faith, and it is real.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a lone cargo plane in a night sky with a bright mysterious glowing light beside it over a dark ocean, cinematic photoreal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a freight plane, a night sky off the coast of New Zealand, and a light that followed the crew. What did they film?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a freight plane, a night sky off the coast of New Zealand, and a light that followed the crew. What did they film?",
+    "file": "ep/audio/s64.mp3",
+    "dur": 7.944
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small cross shaped rock church glowing faintly in the centre against black, minimal, no text, no letters, no numbers, no writing, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think is the greater miracle: the angels, or the masons? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think is the greater miracle: the angels, or the masons? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 9.84
+   }
+  ]
+ }
+]
