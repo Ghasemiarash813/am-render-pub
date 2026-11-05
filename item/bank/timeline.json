@@ -1,0 +1,1200 @@
+{
+ "fps": 30,
+ "total": 18797,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 461,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Christmas, nineteen eighty. A pine forest in Suffolk, England, next to two American air bases. In the dark, soldiers see a light come down between the trees. What happened next is still argued about today.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.28,
+     "start": 10,
+     "end": 439
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 443,
+   "end": 761,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some of the men who were there say they touched a craft from another world. Others, who wrote down what they saw within days, tell a much smaller story.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 9.528,
+     "start": 453,
+     "end": 739
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 743,
+   "end": 1139,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One officer put it all in a memo, and it became the most famous UFO document in Britain. Tonight we open the case file, and we compare it with every telling that came after.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 12.12,
+     "start": 753,
+     "end": 1117
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1121,
+   "end": 1481,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is a tape, recorded as events unfolded. There are written statements from the first days. And there are stories that grew for forty years. Which one do we trust?",
+     "file": "ep/audio/s04.mp3",
+     "dur": 10.92,
+     "start": 1131,
+     "end": 1459
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": [
+    "COLD OPEN",
+    "The Case File",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_05.jpg",
+   "start": 1463,
+   "end": 1867,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Evidence on one side, alien theory on the other, and a verdict at the end. This is the Rendlesham Forest incident.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 8.4,
+     "start": 1473,
+     "end": 1725
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 THE SETTING",
+    "Two Bases, One Forest",
+    "WOODBRIDGE \u00b7 BENTWATERS"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1849,
+   "end": 2321,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Item one. The setting. East Anglia, England, December nineteen eighty. Two NATO air bases, RAF Woodbridge and RAF Bentwaters, sit side by side, both run by the United States Air Force.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 14.64,
+     "start": 1859,
+     "end": 2299
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2303,
+   "end": 2593,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This was the Cold War. Fighter jets, a tense alert culture, and young airmen on night patrol, far from home, over the holidays.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 8.568,
+     "start": 2313,
+     "end": 2571
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2575,
+   "end": 2954,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Woodbridge sat right beside Rendlesham Forest, a large managed pine plantation. The base's east gate opened onto a track that led straight into the trees.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 11.544,
+     "start": 2585,
+     "end": 2932
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2936,
+   "end": 3313,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And beyond the forest, a few miles east, there was the coast. Remember that. Out there, a lighthouse on Orford Ness swept its beam across the sky every few seconds.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 11.472,
+     "start": 2946,
+     "end": 3291
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3295,
+   "end": 3722,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the night of the twenty-sixth of December, a little after three in the morning, security patrolmen were on duty at the east gate. Their names: Jim Penniston, John Burroughs, and Edward Cabansag.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 13.152,
+     "start": 3305,
+     "end": 3700
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3704,
+   "end": 4009,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Around that same time, a bright fireball crossed the sky over southern England. Astronomers recorded it. Keep that in your file too.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 9.072,
+     "start": 3714,
+     "end": 3987
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3991,
+   "end": 4259,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The guards saw lights drop into the forest. They thought an aircraft might have crashed. So they asked permission to go and look.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 7.848,
+     "start": 4001,
+     "end": 4237
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 NIGHT ONE",
+    "Into the Trees",
+    "26 DECEMBER 1980"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4241,
+   "end": 4596,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Item two. Night one. Penniston and Burroughs walked into the forest on foot. Cabansag stayed at the gate. The woods were cold, quiet, and full of fog.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 10.752,
+     "start": 4251,
+     "end": 4574
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4578,
+   "end": 4906,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What they described next depends heavily on when you ask. The men wrote their statements in the first days. So let us start with what those papers say.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 9.864,
+     "start": 4588,
+     "end": 4884
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4888,
+   "end": 5283,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The statements, from the airmen and the officers who followed, are dated around the second of January, nineteen eighty-one. They describe a light. They describe chasing it through the trees.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 12.072,
+     "start": 4898,
+     "end": 5261
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5265,
+   "end": 5678,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And in those original accounts, as the men came closer, the light seemed to move away. Eventually, they could see it was a beam, sweeping and flashing from a distance. The Orford Ness lighthouse.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 12.696,
+     "start": 5275,
+     "end": 5656
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5660,
+   "end": 6016,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Read that again. In their own first words, the thing they chased through the trees turned out to be the lighthouse. No landed craft. No missing time. No symbols.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 10.8,
+     "start": 5670,
+     "end": 5994
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5998,
+   "end": 6313,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Around four in the morning, the local Suffolk police were alerted. They looked around. According to the accounts, all they could see was the lighthouse.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.432,
+     "start": 6008,
+     "end": 6291
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6295,
+   "end": 6551,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But at first light, men went back and found something on the ground. Shallow depressions in the forest floor. They were photographed.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 7.44,
+     "start": 6305,
+     "end": 6529
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6533,
+   "end": 6837,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Marks like these can be made by many things. Animals digging. Rabbit scrapes. Tree roots. Nobody can say for sure what made them.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 9.048,
+     "start": 6543,
+     "end": 6815
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6819,
+   "end": 7115,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the first morning ended with a vague incident, some marks, and a stack of statements. Then, years later, the story started to change.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 8.784,
+     "start": 6829,
+     "end": 7093
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7097,
+   "end": 7461,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Jim Penniston, one of the two who went in, began to say much more. A craft, triangular, the size of a car, with a smooth black surface, and symbols he could touch.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 11.064,
+     "start": 7107,
+     "end": 7439
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7443,
+   "end": 7767,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He later described binary code, strings of ones and zeros, that he said was downloaded into his mind. This is the dramatic version.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 9.72,
+     "start": 7453,
+     "end": 7745
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 7749,
+   "end": 8123,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But here is the problem for the case file. None of this appears in the statements from nineteen eighty-one. It was added decades later. Evidence of a story, not of a craft.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 11.376,
+     "start": 7759,
+     "end": 8101
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 NIGHT TWO",
+    "The Halt Tape",
+    "27 \u00b7 28 DECEMBER"
+   ],
+   "img": "ep/img/shot_25.jpg",
+   "start": 8105,
+   "end": 8426,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Item three. Night two. The twenty-seventh into the twenty-eighth of December. Word reached the deputy base commander, Lieutenant Colonel Charles Halt.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 9.624,
+     "start": 8115,
+     "end": 8404
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8408,
+   "end": 8783,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Halt led a team into the forest to investigate. He carried a small handheld tape recorder and narrated what was happening as it happened. That is rare, and very valuable.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 11.424,
+     "start": 8418,
+     "end": 8761
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 8765,
+   "end": 9070,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the tape, the men describe a light between the trees. It seemed to pulse. At one point, they say, it looked like it was dripping molten metal.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 9.072,
+     "start": 8775,
+     "end": 9048
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9052,
+   "end": 9366,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Later the group moved to open fields beyond the trees. Lights appeared in the sky. On the tape, the voices become tense, then excited.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 9.384,
+     "start": 9062,
+     "end": 9344
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9348,
+   "end": 9653,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They also carried a radiation meter, and took readings near the marks in the ground. Reported as slightly above background, but not alarming.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 9.072,
+     "start": 9358,
+     "end": 9631
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 9635,
+   "end": 10009,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is a detail that matters. Researcher Ian Ridpath compared the tape with the lighthouse. The light in the distance flashes at the same rate as the lighthouse, over and over.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 11.376,
+     "start": 9645,
+     "end": 9987
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 9991,
+   "end": 10351,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Halt believed the lighthouse was to the south-east. In fact, it sits almost due east. Some critics suggest he confused it with another light, a lightship offshore.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 10.92,
+     "start": 10001,
+     "end": 10329
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 10333,
+   "end": 10700,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And the stars? On the tape, Halt describes three bright lights in the sky, moving in odd ways. Bright stars near the horizon can seem to dance in cold air.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 11.16,
+     "start": 10343,
+     "end": 10678
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 10682,
+   "end": 11028,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "None of that proves these men saw nothing. They saw lights. They were honest. The question is what produced them, and whether anyone could read the sky in the dark.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 10.44,
+     "start": 10692,
+     "end": 11006
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11010,
+   "end": 11279,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By dawn, the team went home. Everyone had been scared, excited, and tired. And somewhere, a report had to be written.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 7.896,
+     "start": 11020,
+     "end": 11257
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 THE MEMO",
+    "Fifteen Days Later",
+    "13 JANUARY 1981"
+   ],
+   "img": "ep/img/shot_35.jpg",
+   "start": 11261,
+   "end": 11663,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Item four. The memo. In Britain, anything unusual near a base was reported upward. A British liaison officer, Donald Moreland, urged Halt to put it in writing.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 12.312,
+     "start": 11271,
+     "end": 11641
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 11645,
+   "end": 12009,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Halt wrote it on the thirteenth of January, nineteen eighty-one. About two weeks after the events. Short, typed, official, and addressed to the Ministry of Defence.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 11.04,
+     "start": 11655,
+     "end": 11987
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 11991,
+   "end": 12317,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In it, he describes a strange glowing object in the forest, metallic in appearance, and later lights in the sky that seemed to send down beams.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 9.792,
+     "start": 12001,
+     "end": 12295
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 12299,
+   "end": 12686,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The memo stayed quiet until nineteen eighty-three. Then American researchers, using the Freedom of Information Act, got it released. It reached newspapers, and the case exploded.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 11.832,
+     "start": 12309,
+     "end": 12664
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 12668,
+   "end": 12928,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The press nicknamed it Britain's Roswell. Books and documentaries followed. Each added a little more to the story.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 7.584,
+     "start": 12678,
+     "end": 12906
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 12910,
+   "end": 13290,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Halt himself has never really backed away. He has said for decades that something extraordinary happened. That sincerity is part of the evidence. But sincerity is not proof.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 11.568,
+     "start": 12920,
+     "end": 13268
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "V \u00b7 THE SUSPECTS",
+    "Explanations on Trial",
+    "FIREBALL \u00b7 LIGHTHOUSE \u00b7 STARS"
+   ],
+   "img": "ep/img/shot_41.jpg",
+   "start": 13272,
+   "end": 13614,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Item five. The suspects. Over the decades, the case has been picked apart by researchers on both sides. Let us line up the main explanations.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 10.32,
+     "start": 13282,
+     "end": 13592
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 13596,
+   "end": 13970,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect one. The fireball. A bright meteor, or falling space debris, crossing the sky at the right time. It explains the lights the guards saw drop toward the trees.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.376,
+     "start": 13606,
+     "end": 13948
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 13952,
+   "end": 14282,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect two. The lighthouse. It explains the chase on night one, and the steady flashing on the tape on night two. Ridpath says the match is close.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 9.912,
+     "start": 13962,
+     "end": 14260
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 14264,
+   "end": 14597,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect three. The stars. Cold air makes bright stars twinkle and change colour. It explains lights in the sky that seem to move and flash.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 10.032,
+     "start": 14274,
+     "end": 14575
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 14579,
+   "end": 14872,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What none of them fully explains is the ground. The marks are small, and they are not proof of anything, but they are still there in the file.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 8.688,
+     "start": 14589,
+     "end": 14850
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 14854,
+   "end": 15195,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And then there is the human part. Tired men, a dark forest, a holiday, an officer under pressure, and a story told again and again until it hardens.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 10.272,
+     "start": 14864,
+     "end": 15173
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "M",
+   "ch": [
+    "VI \u00b7 THE STORIES THAT GREW",
+    "Forty Years of Retelling",
+    "1981 \u00b7 TODAY"
+   ],
+   "img": "ep/img/shot_47.jpg",
+   "start": 15177,
+   "end": 15528,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Item six. The stories that grew. Here is the crucial pattern. The first written statements are simple. The later books and interviews are far more dramatic.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 10.632,
+     "start": 15187,
+     "end": 15506
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 15510,
+   "end": 15824,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Each decade added a layer. Craft landings. Alien beings. Messages from the future. Some of these appear only in recent accounts.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 9.384,
+     "start": 15520,
+     "end": 15802
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 15806,
+   "end": 16097,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Most of the later claims cannot be checked, because they appear years afterwards, from memory, in interviews, with no paperwork from the time.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 8.616,
+     "start": 15816,
+     "end": 16075
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 16079,
+   "end": 16412,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Alien visitors? There is not a single piece of hard evidence. No debris. No photographs of a craft. No physical object anyone can test.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 10.032,
+     "start": 16089,
+     "end": 16390
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 16394,
+   "end": 16727,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What we have is a real, documented, odd night in the woods, and a gap between what was written and what was told later. That gap is the real mystery.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 10.032,
+     "start": 16404,
+     "end": 16705
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_52.jpg",
+   "start": 16709,
+   "end": 16853,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score the Rendlesham Forest incident.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 3.72,
+     "start": 16719,
+     "end": 16831
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 16835,
+   "end": 17210,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Real men, real forest, real lights, a real tape and a real memo: evidence. Fireball, lighthouse and stars fit much of it: likely. Ground marks: open.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 11.424,
+     "start": 16845,
+     "end": 17188
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 17192,
+   "end": 17543,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Landed craft, binary code, beings, messages from the future: later additions, not in the first statements. Alien spacecraft: no physical evidence.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 10.608,
+     "start": 17202,
+     "end": 17521
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 17525,
+   "end": 17956,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Probably misread. A fireball, a lighthouse, and bright stars, seen by honest, tired men in the dark. But the ground marks, and the way the story grew, are still worth asking about.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 13.272,
+     "start": 17535,
+     "end": 17934
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 17938,
+   "end": 18277,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Somewhere out there, a young man looked into a dark wood on Christmas night. What he saw was real to him. Understanding why takes patience, not belief.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 10.224,
+     "start": 17948,
+     "end": 18255
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 18259,
+   "end": 18544,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a book written in a language nobody can read, full of plants that do not exist. What is the Voynich manuscript?",
+     "file": "ep/audio/s57.mp3",
+     "dur": 8.424,
+     "start": 18269,
+     "end": 18522
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 18526,
+   "end": 18722,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think the guards saw? Tell us in the comments, and subscribe for the next case file.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 5.448,
+     "start": 18536,
+     "end": 18700
+    }
+   ]
+  }
+ ]
+}

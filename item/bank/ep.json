@@ -1,0 +1,1260 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A mysterious glowing orange light low between the trunks of a dark pine forest in Suffolk England at night with thick fog between the trunks, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Christmas, nineteen eighty. A pine forest in Suffolk, England, next to two American air bases. In the dark, soldiers see a light come down between the trees. What happened next is still argued about today."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Christmas, nineteen eighty. A pine forest in Suffolk, England, next to two American air bases. In the dark, soldiers see a light come down between the trees. What happened next is still argued about today.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.28
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A military policeman in a 1980s US Air Force winter uniform walking alone along a forest track with a torch, fog, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some of the men who were there say they touched a craft from another world. Others, who wrote down what they saw within days, tell a much smaller story."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some of the men who were there say they touched a craft from another world. Others, who wrote down what they saw within days, tell a much smaller story.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 9.528
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A single yellowed typed military memo lying on a dark desk under a lamp, text blurred and unreadable, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One officer put it all in a memo, and it became the most famous UFO document in Britain. Tonight we open the case file, and we compare it with every telling that came after."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One officer put it all in a memo, and it became the most famous UFO document in Britain. Tonight we open the case file, and we compare it with every telling that came after.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 12.12
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Close-up of an old reel-to-reel tape recorder with turning spools in a dim room, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is a tape, recorded as events unfolded. There are written statements from the first days. And there are stories that grew for forty years. Which one do we trust?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is a tape, recorded as events unfolded. There are written statements from the first days. And there are stories that grew for forty years. Which one do we trust?",
+    "file": "ep/audio/s04.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A rotating beam of a lighthouse sweeping across a foggy coastal night, long exposure, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Evidence on one side, alien theory on the other, and a verdict at the end. This is the Rendlesham Forest incident."
+   ]
+  ],
+  "tag": "",
+  "ch": [
+   "COLD OPEN",
+   "The Case File",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Evidence on one side, alien theory on the other, and a verdict at the end. This is the Rendlesham Forest incident.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 8.4
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Aerial view of a 1980s military airbase in flat English farmland with a long runway and fighter jets parked, grey sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item one. The setting. East Anglia, England, December nineteen eighty. Two NATO air bases, RAF Woodbridge and RAF Bentwaters, sit side by side, both run by the United States Air Force."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "I \u00b7 THE SETTING",
+   "Two Bases, One Forest",
+   "WOODBRIDGE \u00b7 BENTWATERS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item one. The setting. East Anglia, England, December nineteen eighty. Two NATO air bases, RAF Woodbridge and RAF Bentwaters, sit side by side, both run by the United States Air Force.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 14.64
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1980s A-10 attack jet parked in a hardened aircraft shelter on an English airbase, overcast, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This was the Cold War. Fighter jets, a tense alert culture, and young airmen on night patrol, far from home, over the holidays."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This was the Cold War. Fighter jets, a tense alert culture, and young airmen on night patrol, far from home, over the holidays.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 8.568
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide photo of the edge of a pine forest beside a military airbase perimeter fence in winter, flat light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Woodbridge sat right beside Rendlesham Forest, a large managed pine plantation. The base's east gate opened onto a track that led straight into the trees."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Woodbridge sat right beside Rendlesham Forest, a large managed pine plantation. The base's east gate opened onto a track that led straight into the trees.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.544
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A flat Suffolk coastline at dusk with a distant lighthouse beam over the North Sea, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And beyond the forest, a few miles east, there was the coast. Remember that. Out there, a lighthouse on Orford Ness swept its beam across the sky every few seconds."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And beyond the forest, a few miles east, there was the coast. Remember that. Out there, a lighthouse on Orford Ness swept its beam across the sky every few seconds.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.472
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Three young US airmen in 1980s winter coats standing at a base gate at night under a sodium lamp, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the night of the twenty-sixth of December, a little after three in the morning, security patrolmen were on duty at the east gate. Their names: Jim Penniston, John Burroughs, and Edward Cabansag."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the night of the twenty-sixth of December, a little after three in the morning, security patrolmen were on duty at the east gate. Their names: Jim Penniston, John Burroughs, and Edward Cabansag.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 13.152
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A single streak of fire crossing a dark winter sky over English fields, meteor fireball, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Around that same time, a bright fireball crossed the sky over southern England. Astronomers recorded it. Keep that in your file too."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around that same time, a bright fireball crossed the sky over southern England. Astronomers recorded it. Keep that in your file too.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A pale flickering light seen through dark trees from far away, night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The guards saw lights drop into the forest. They thought an aircraft might have crashed. So they asked permission to go and look."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The guards saw lights drop into the forest. They thought an aircraft might have crashed. So they asked permission to go and look.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 7.848
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two US airmen walking in single file between pine trees at night with torches, fog drifting, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item two. Night one. Penniston and Burroughs walked into the forest on foot. Cabansag stayed at the gate. The woods were cold, quiet, and full of fog."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 NIGHT ONE",
+   "Into the Trees",
+   "26 DECEMBER 1980"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item two. Night one. Penniston and Burroughs walked into the forest on foot. Cabansag stayed at the gate. The woods were cold, quiet, and full of fog.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 10.752
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A strange soft glow of white and orange light filling a forest clearing, mist, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What they described next depends heavily on when you ask. The men wrote their statements in the first days. So let us start with what those papers say."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What they described next depends heavily on when you ask. The men wrote their statements in the first days. So let us start with what those papers say.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 9.864
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of old handwritten witness statement pages with blurred writing on a wooden desk, warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The statements, from the airmen and the officers who followed, are dated around the second of January, nineteen eighty-one. They describe a light. They describe chasing it through the trees."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The statements, from the airmen and the officers who followed, are dated around the second of January, nineteen eighty-one. They describe a light. They describe chasing it through the trees.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An airman running through a dark forest toward a distant flashing light, motion blur, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And in those original accounts, as the men came closer, the light seemed to move away. Eventually, they could see it was a beam, sweeping and flashing from a distance. The Orford Ness lighthouse."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And in those original accounts, as the men came closer, the light seemed to move away. Eventually, they could see it was a beam, sweeping and flashing from a distance. The Orford Ness lighthouse.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.696
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A lighthouse on a flat coastline at night seen through trees, beam visible, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Read that again. In their own first words, the thing they chased through the trees turned out to be the lighthouse. No landed craft. No missing time. No symbols."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Read that again. In their own first words, the thing they chased through the trees turned out to be the lighthouse. No landed craft. No missing time. No symbols.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A British police officer standing beside a patrol car in a dark country lane at night, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Around four in the morning, the local Suffolk police were alerted. They looked around. According to the accounts, all they could see was the lighthouse."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around four in the morning, the local Suffolk police were alerted. They looked around. According to the accounts, all they could see was the lighthouse.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.432
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Shallow depressions in the pine needles of a dark forest floor lit by a torch, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But at first light, men went back and found something on the ground. Shallow depressions in the forest floor. They were photographed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But at first light, men went back and found something on the ground. Shallow depressions in the forest floor. They were photographed.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 7.44
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A forestry worker in a green jacket kneeling to examine marks in the soil of a pine forest in daylight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Marks like these can be made by many things. Animals digging. Rabbit scrapes. Tree roots. Nobody can say for sure what made them."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Marks like these can be made by many things. Animals digging. Rabbit scrapes. Tree roots. Nobody can say for sure what made them.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 9.048
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two men in a base office talking quietly over papers, 1980s, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the first morning ended with a vague incident, some marks, and a stack of statements. Then, years later, the story started to change."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the first morning ended with a vague incident, some marks, and a stack of statements. Then, years later, the story started to change.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 8.784
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A man in his fifties in a plain shirt sitting in a dark studio before a blurred background, documentary interview style, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Jim Penniston, one of the two who went in, began to say much more. A craft, triangular, the size of a car, with a smooth black surface, and symbols he could touch."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Jim Penniston, one of the two who went in, began to say much more. A craft, triangular, the size of a car, with a smooth black surface, and symbols he could touch.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A smooth black triangular object with soft rounded edges resting in a forest clearing at night, science fiction concept art, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He later described binary code, strings of ones and zeros, that he said was downloaded into his mind. This is the dramatic version."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He later described binary code, strings of ones and zeros, that he said was downloaded into his mind. This is the dramatic version.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 9.72
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A single empty page of a notebook with faint pencil marks on a dark table, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But here is the problem for the case file. None of this appears in the statements from nineteen eighty-one. It was added decades later. Evidence of a story, not of a craft."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But here is the problem for the case file. None of this appears in the statements from nineteen eighty-one. It was added decades later. Evidence of a story, not of a craft.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A US Air Force lieutenant colonel in a 1980s winter field jacket with a handheld tape recorder walking into a pine forest at night, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item three. Night two. The twenty-seventh into the twenty-eighth of December. Word reached the deputy base commander, Lieutenant Colonel Charles Halt."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III \u00b7 NIGHT TWO",
+   "The Halt Tape",
+   "27 \u00b7 28 DECEMBER"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item three. Night two. The twenty-seventh into the twenty-eighth of December. Word reached the deputy base commander, Lieutenant Colonel Charles Halt.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 9.624
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A group of airmen with torches gathering at a forest edge at night, fog, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Halt led a team into the forest to investigate. He carried a small handheld tape recorder and narrated what was happening as it happened. That is rare, and very valuable."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Halt led a team into the forest to investigate. He carried a small handheld tape recorder and narrated what was happening as it happened. That is rare, and very valuable.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A glowing red-orange light low behind trees in a dark forest, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the tape, the men describe a light between the trees. It seemed to pulse. At one point, they say, it looked like it was dripping molten metal."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the tape, the men describe a light between the trees. It seemed to pulse. At one point, they say, it looked like it was dripping molten metal.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Men in coats standing in a field at night pointing toward the sky, dim lights ahead, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later the group moved to open fields beyond the trees. Lights appeared in the sky. On the tape, the voices become tense, then excited."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later the group moved to open fields beyond the trees. Lights appeared in the sky. On the tape, the voices become tense, then excited.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 9.384
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A hand holding a small handheld radiation meter in a dark forest with a faint glow on its dial, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They also carried a radiation meter, and took readings near the marks in the ground. Reported as slightly above background, but not alarming."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They also carried a radiation meter, and took readings near the marks in the ground. Reported as slightly above background, but not alarming.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A rotating lighthouse beam crossing a dark horizon with small stars above, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is a detail that matters. Researcher Ian Ridpath compared the tape with the lighthouse. The light in the distance flashes at the same rate as the lighthouse, over and over."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is a detail that matters. Researcher Ian Ridpath compared the tape with the lighthouse. The light in the distance flashes at the same rate as the lighthouse, over and over.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Aerial view of a dark coastline with a forest inland and a lighthouse on a spit of land, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Halt believed the lighthouse was to the south-east. In fact, it sits almost due east. Some critics suggest he confused it with another light, a lightship offshore."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Halt believed the lighthouse was to the south-east. In fact, it sits almost due east. Some critics suggest he confused it with another light, a lightship offshore.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Three bright stars low on a night horizon with a soft glow, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the stars? On the tape, Halt describes three bright lights in the sky, moving in odd ways. Bright stars near the horizon can seem to dance in cold air."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the stars? On the tape, Halt describes three bright lights in the sky, moving in odd ways. Bright stars near the horizon can seem to dance in cold air.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A tired airman looking up at the sky from a forest clearing with a torch at his side, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "None of that proves these men saw nothing. They saw lights. They were honest. The question is what produced them, and whether anyone could read the sky in the dark."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "None of that proves these men saw nothing. They saw lights. They were honest. The question is what produced them, and whether anyone could read the sky in the dark.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark country road beside a forest at night with a faint distant light on the horizon, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By dawn, the team went home. Everyone had been scared, excited, and tired. And somewhere, a report had to be written."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By dawn, the team went home. Everyone had been scared, excited, and tired. And somewhere, a report had to be written.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 7.896
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A grey government office building in London in morning light, 1980s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item four. The memo. In Britain, anything unusual near a base was reported upward. A British liaison officer, Donald Moreland, urged Halt to put it in writing."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV \u00b7 THE MEMO",
+   "Fifteen Days Later",
+   "13 JANUARY 1981"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item four. The memo. In Britain, anything unusual near a base was reported upward. A British liaison officer, Donald Moreland, urged Halt to put it in writing.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.312
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A typed one page official memo beside an old typewriter, text unreadable, warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Halt wrote it on the thirteenth of January, nineteen eighty-one. About two weeks after the events. Short, typed, official, and addressed to the Ministry of Defence."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Halt wrote it on the thirteenth of January, nineteen eighty-one. About two weeks after the events. Short, typed, official, and addressed to the Ministry of Defence.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 11.04
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A colonel's hands signing a typed document with a pen at a metal desk in a military office, 1980s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In it, he describes a strange glowing object in the forest, metallic in appearance, and later lights in the sky that seemed to send down beams."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In it, he describes a strange glowing object in the forest, metallic in appearance, and later lights in the sky that seemed to send down beams.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A stack of declassified government papers with black censored bars on a desk, blurred, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The memo stayed quiet until nineteen eighty-three. Then American researchers, using the Freedom of Information Act, got it released. It reached newspapers, and the case exploded."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The memo stayed quiet until nineteen eighty-three. Then American researchers, using the Freedom of Information Act, got it released. It reached newspapers, and the case exploded.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A pile of 1980s British tabloid newspapers on a newsagent counter, headlines blurred, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The press nicknamed it Britain's Roswell. Books and documentaries followed. Each added a little more to the story."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The press nicknamed it Britain's Roswell. Books and documentaries followed. Each added a little more to the story.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 7.584
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A man sitting alone in a quiet British pub with a pint, evening, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Halt himself has never really backed away. He has said for decades that something extraordinary happened. That sincerity is part of the evidence. But sincerity is not proof."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Halt himself has never really backed away. He has said for decades that something extraordinary happened. That sincerity is part of the evidence. But sincerity is not proof.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An investigator's desk with printed documents, a notebook and a lamp, dark room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item five. The suspects. Over the decades, the case has been picked apart by researchers on both sides. Let us line up the main explanations."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "V \u00b7 THE SUSPECTS",
+   "Explanations on Trial",
+   "FIREBALL \u00b7 LIGHTHOUSE \u00b7 STARS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item five. The suspects. Over the decades, the case has been picked apart by researchers on both sides. Let us line up the main explanations.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 10.32
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A glowing fireball burning through the atmosphere with a long tail over dark fields, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect one. The fireball. A bright meteor, or falling space debris, crossing the sky at the right time. It explains the lights the guards saw drop toward the trees."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect one. The fireball. A bright meteor, or falling space debris, crossing the sky at the right time. It explains the lights the guards saw drop toward the trees.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A lighthouse beam sweeping across a misty wood from afar, long exposure, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect two. The lighthouse. It explains the chase on night one, and the steady flashing on the tape on night two. Ridpath says the match is close."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect two. The lighthouse. It explains the chase on night one, and the steady flashing on the tape on night two. Ridpath says the match is close.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Bright stars over a tree line on a cold clear night, sharp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect three. The stars. Cold air makes bright stars twinkle and change colour. It explains lights in the sky that seem to move and flash."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect three. The stars. Cold air makes bright stars twinkle and change colour. It explains lights in the sky that seem to move and flash.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Marks in a forest floor in pine needles and pale sand, daylight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What none of them fully explains is the ground. The marks are small, and they are not proof of anything, but they are still there in the file."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What none of them fully explains is the ground. The marks are small, and they are not proof of anything, but they are still there in the file.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A silhouetted man walking away down a forest track at dusk with fog, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And then there is the human part. Tired men, a dark forest, a holiday, an officer under pressure, and a story told again and again until it hardens."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And then there is the human part. Tired men, a dark forest, a holiday, an officer under pressure, and a story told again and again until it hardens.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 10.272
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "People around a table reading a thick report together in a library, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Item six. The stories that grew. Here is the crucial pattern. The first written statements are simple. The later books and interviews are far more dramatic."
+   ]
+  ],
+  "tag": "M",
+  "ch": [
+   "VI \u00b7 THE STORIES THAT GREW",
+   "Forty Years of Retelling",
+   "1981 \u00b7 TODAY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Item six. The stories that grew. Here is the crucial pattern. The first written statements are simple. The later books and interviews are far more dramatic.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 10.632
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A plain dark paperback book on a desk beside a cup of tea, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Each decade added a layer. Craft landings. Alien beings. Messages from the future. Some of these appear only in recent accounts."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Each decade added a layer. Craft landings. Alien beings. Messages from the future. Some of these appear only in recent accounts.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 9.384
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An empty hearing room with a long table, microphones and empty chairs, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Most of the later claims cannot be checked, because they appear years afterwards, from memory, in interviews, with no paperwork from the time."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Most of the later claims cannot be checked, because they appear years afterwards, from memory, in interviews, with no paperwork from the time.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 8.616
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "A simple pencil sketch of a flying saucer on pale paper lying on a table, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Alien visitors? There is not a single piece of hard evidence. No debris. No photographs of a craft. No physical object anyone can test."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Alien visitors? There is not a single piece of hard evidence. No debris. No photographs of a craft. No physical object anyone can test.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark forest at night with a faint orange glow far behind the trees, quiet, cinematic photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What we have is a real, documented, odd night in the woods, and a gap between what was written and what was told later. That gap is the real mystery."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What we have is a real, documented, odd night in the woods, and a gap between what was written and what was told later. That gap is the real mystery.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark investigation room at night, a corkboard of photographs and string far on the right edge lit by a warm lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the Rendlesham Forest incident."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the Rendlesham Forest incident.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 3.72
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark investigation room at night, a corkboard of photographs and string far on the right edge lit by a warm lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Real men, real forest, real lights, a real tape and a real memo: evidence. Fireball, lighthouse and stars fit much of it: likely. Ground marks: open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Real men, real forest, real lights, a real tape and a real memo: evidence. Fireball, lighthouse and stars fit much of it: likely. Ground marks: open.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark investigation room at night, a corkboard of photographs and string far on the right edge lit by a warm lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Landed craft, binary code, beings, messages from the future: later additions, not in the first statements. Alien spacecraft: no physical evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Landed craft, binary code, beings, messages from the future: later additions, not in the first statements. Alien spacecraft: no physical evidence.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "A dark Suffolk pine forest at dawn with soft golden light between the trunks, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Probably misread. A fireball, a lighthouse, and bright stars, seen by honest, tired men in the dark. But the ground marks, and the way the story grew, are still worth asking about."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Probably misread. A fireball, a lighthouse, and bright stars, seen by honest, tired men in the dark. But the ground marks, and the way the story grew, are still worth asking about.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 13.272
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A lone airman standing at a base gate at dawn looking into the forest with his breath visible, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Somewhere out there, a young man looked into a dark wood on Christmas night. What he saw was real to him. Understanding why takes patience, not belief."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Somewhere out there, a young man looked into a dark wood on Christmas night. What he saw was real to him. Understanding why takes patience, not belief.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A mysterious ancient manuscript page with strange unreadable plant drawings under candlelight, moody, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a book written in a language nobody can read, full of plants that do not exist. What is the Voynich manuscript?"
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a book written in a language nobody can read, full of plants that do not exist. What is the Voynich manuscript?",
+    "file": "ep/audio/s57.mp3",
+    "dur": 8.424
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small orange light glowing faintly between black pine trees, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think the guards saw? Tell us in the comments, and subscribe for the next case file."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think the guards saw? Tell us in the comments, and subscribe for the next case file.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 5.448
+   }
+  ]
+ }
+]
