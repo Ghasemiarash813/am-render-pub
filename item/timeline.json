@@ -1,0 +1,1140 @@
+{
+ "fps": 30,
+ "total": 18285,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 449,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two in the morning, the thirty-first of December, nineteen seventy-eight. A cargo plane is crossing the sea off New Zealand with a television crew on board. Outside the window, bright lights are keeping pace with it.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 13.872,
+     "start": 10,
+     "end": 427
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 431,
+   "end": 793,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The camera is rolling. The pilots can see the lights. Wellington air traffic control can see something on radar. And the whole thing is about to go around the world.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 10.968,
+     "start": 441,
+     "end": 771
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 775,
+   "end": 1075,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Was this an alien escort at thirty thousand feet? Or the most famous case of ordinary things looking extraordinary in the dark?",
+     "file": "ep/audio/s03.mp3",
+     "dur": 8.904,
+     "start": 785,
+     "end": 1053
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1057,
+   "end": 1358,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we run it as a flight log. Minute by minute, two flights, one verdict. Every claim gets checked, and every theory gets labelled.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 8.952,
+     "start": 1067,
+     "end": 1336
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1340,
+   "end": 1591,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Facts first. Then the theories. Cleared for take-off.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 3.288,
+     "start": 1350,
+     "end": 1449
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 TAKE-OFF",
+    "The First Flight",
+    "20 DEC 1978"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1573,
+   "end": 1983,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter one. The first flight. Late on the twentieth of December, nineteen seventy-eight, a Safe Air freighter, an Argosy, is flying freight over Cook Strait between Wellington and Christchurch.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 12.6,
+     "start": 1583,
+     "end": 1961
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 1965,
+   "end": 2403,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Captain Vern Powell and First Officer Ian Pirie see strange lights off the coast near Kaikoura. They watch them for a long while. The lights seem to follow the aircraft, twenty or thirty miles away.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.512,
+     "start": 1975,
+     "end": 2381
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2385,
+   "end": 2821,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Wellington radar shows returns in the same area. At an air base at Woodbourne, a Royal New Zealand Air Force officer, Warrant Officer Ian Uffindell, also sees lights from the ground.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 13.464,
+     "start": 2395,
+     "end": 2799
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2803,
+   "end": 3203,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Word leaks out. By the next day, newspapers are asking if something strange is flying over the Kaikoura coast. One reporter, an Australian, decides to go and see it for himself.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 12.264,
+     "start": 2813,
+     "end": 3181
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3185,
+   "end": 3562,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His name is Quentin Fogarty. He works for Channel Zero in Melbourne. With a cameraman, David Crockett, and Crockett's wife Ngaire on sound, he flies to New Zealand.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 11.472,
+     "start": 3195,
+     "end": 3540
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3544,
+   "end": 3808,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The plan is simple. Fly the same route, at the same hour. Film whatever turns up. Nobody expects it to work.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 7.728,
+     "start": 3554,
+     "end": 3786
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 CRUISE",
+    "The Second Flight",
+    "30 DEC 1978"
+   ],
+   "img": "ep/img/shot_12.jpg",
+   "start": 3790,
+   "end": 4180,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter two. The second flight. Just before midnight on the thirtieth of December, the Argosy leaves Wellington, with Captain Bill Startup and First Officer Bob Guard at the controls.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 11.904,
+     "start": 3800,
+     "end": 4158
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4162,
+   "end": 4562,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "For a while there is nothing. Then the crew report lights. Later, near twenty past two in the morning, the lights return, brighter, off the coast. The crew watch them for more than ten minutes.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 12.24,
+     "start": 4172,
+     "end": 4540
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4544,
+   "end": 4906,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Crockett films through the window. Fogarty talks to the microphone. In the recording he says the line that will become the title of his book: let us hope they are friendly.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 10.992,
+     "start": 4554,
+     "end": 4884
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4888,
+   "end": 5275,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Captain Startup turns the plane toward one of the lights. As he does, it appears to move away. Later he will say it behaved like nothing he had seen in a long flying career.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 11.832,
+     "start": 4898,
+     "end": 5253
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5257,
+   "end": 5616,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They land at Christchurch at dawn. The film is rushed to be developed. Within days it is on television in Australia, then America, then almost everywhere.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 10.896,
+     "start": 5267,
+     "end": 5594
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5598,
+   "end": 6012,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The footage is blurry, but vivid: glowing lights, flares, shapes that seem to pulse. It is exactly what people imagine a UFO to look like. And that, as we will see, is part of the problem.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 12.72,
+     "start": 5608,
+     "end": 5990
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5994,
+   "end": 6171,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Before we judge, let us collect the evidence. Five claims, one at a time.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 4.824,
+     "start": 6004,
+     "end": 6149
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 THE FILE",
+    "Muldoon Wants Answers",
+    "NEW ZEALAND \u00b7 JAN 1979"
+   ],
+   "img": "ep/img/shot_19.jpg",
+   "start": 6153,
+   "end": 6626,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter three. The official file. The New Zealand Prime Minister, Robert Muldoon, takes an interest. The Air Force opens an investigation, the only New Zealand UFO case ever investigated in full.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 14.688,
+     "start": 6163,
+     "end": 6604
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 6608,
+   "end": 6968,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Air Force officers, civil aviation staff and scientists from the government research department, the DSIR, go through the reports and the film, frame by frame.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 10.92,
+     "start": 6618,
+     "end": 6946
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6950,
+   "end": 7390,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Their report goes to the United Nations in January nineteen seventy-nine. The conclusion is not alien. It is a combination of ordinary causes, and the report names them one by one.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 13.584,
+     "start": 6960,
+     "end": 7368
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7372,
+   "end": 7716,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Those causes include the planet Venus, bright car and train lights on the coast, meteors, odd effects of radar, and a fleet of fishing boats far offshore.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.368,
+     "start": 7382,
+     "end": 7694
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7698,
+   "end": 8094,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The files were made public in December twenty-ten, more than thirty years after the flights. Reading them is surprisingly fair. The investigators admit what they could not explain.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 12.12,
+     "start": 7708,
+     "end": 8072
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8076,
+   "end": 8170,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So let us test the first suspect.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 2.04,
+     "start": 8086,
+     "end": 8148
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 SUSPECT ONE",
+    "Venus",
+    "THE BRIGHT PLANET"
+   ],
+   "img": "ep/img/shot_25.jpg",
+   "start": 8152,
+   "end": 8498,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter four. Suspect one, Venus. Venus can be extremely bright, and near the horizon it flickers and changes colour. Pilots have chased it before.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 10.464,
+     "start": 8162,
+     "end": 8476
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 8480,
+   "end": 8816,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some of the first-flight sightings fit that very well. A bright light low in the east, seen from a moving aeroplane, appears to follow it. That is how it works.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 10.128,
+     "start": 8490,
+     "end": 8794
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 8798,
+   "end": 9160,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But the film sighting has a timing problem. The lights were seen around two twenty-five in the morning. Venus rose at about three twenty-eight. An hour too late.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 10.968,
+     "start": 8808,
+     "end": 9138
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 9142,
+   "end": 9452,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So Venus explains some of the lights, but not all. The investigators knew it. The sceptics know it. Which is why the next suspect matters.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 9.24,
+     "start": 9152,
+     "end": 9430
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9434,
+   "end": 9528,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Suspect two. Out on the water.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 2.064,
+     "start": 9444,
+     "end": 9506
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "V \u00b7 SUSPECT TWO",
+    "The Squid Boats",
+    "JAPANESE FLEET OFFSHORE"
+   ],
+   "img": "ep/img/shot_30.jpg",
+   "start": 9510,
+   "end": 9962,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter five. Suspect two, the squid boats. Squid are lured at night by huge banks of lamps. In that season, about fifty Japanese squid boats were fishing roughly a hundred and twenty miles off the coast.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 13.968,
+     "start": 9520,
+     "end": 9940
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 9944,
+   "end": 10324,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "From the air, a boat under those lamps is a brilliant white blaze. It can look like a hovering craft. Under atmospheric conditions, the light can be bent, lifted and stretched.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 11.568,
+     "start": 9954,
+     "end": 10302
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 10306,
+   "end": 10659,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A DSIR scientist, William Ireland, later compared the film with the boats. He matched the pattern of lights to vessels roughly six kilometres from the aircraft.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 10.68,
+     "start": 10316,
+     "end": 10637
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "X",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 10641,
+   "end": 11010,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The DSIR also tested Crockett's window. Shining a torch at the glass, they reproduced the flaring lights that appear in the film. A reflection, in other words, not a craft.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 11.232,
+     "start": 10651,
+     "end": 10988
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 10992,
+   "end": 11351,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Any pilot knows this problem. A lit cabin and a dark sky turn a window into a mirror. A film made through glass, at night, is a poor measuring instrument.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 10.872,
+     "start": 11002,
+     "end": 11329
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 11333,
+   "end": 11723,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Captain Startup and Fogarty rejected this. The boats, they said, were too far away, and what they saw moved in ways boats could not. Honest witnesses, honestly disagreeing.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 11.904,
+     "start": 11343,
+     "end": 11701
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 11705,
+   "end": 11907,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Still, the crew were not the only ones watching. The next suspect is not a light at all.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 5.64,
+     "start": 11715,
+     "end": 11885
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VI \u00b7 SUSPECT THREE",
+    "The Radar",
+    "WELLINGTON \u00b7 ON BOARD"
+   ],
+   "img": "ep/img/shot_37.jpg",
+   "start": 11889,
+   "end": 12236,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter six. Suspect three, the radar. Wellington radar showed returns near the plane. For many people, that settled it: something solid was out there.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 10.488,
+     "start": 11899,
+     "end": 12214
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 12218,
+   "end": 12587,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But radar is not a camera. Under the right atmospheric conditions, beams bend and bounce, producing echoes from the sea, from distant ships or from layers of air.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 11.232,
+     "start": 12228,
+     "end": 12565
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 12569,
+   "end": 12887,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The aircraft's own radar was also in a mode designed to map the ground. That mode can show bright returns that are not aircraft at all.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 9.504,
+     "start": 12579,
+     "end": 12865
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 12869,
+   "end": 13281,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Air traffic controller Bill Frame reported what he saw. But the investigators noted the returns did not track the lights exactly. Venus, they added, does not appear on radar at all.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.648,
+     "start": 12879,
+     "end": 13259
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 13263,
+   "end": 13679,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is the part that keeps the case alive. Not one single factor explains everything. Several mundane things at once could, but they are harder to prove than a single dramatic answer.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.768,
+     "start": 13273,
+     "end": 13657
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 13661,
+   "end": 13911,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The investigators concluded that the radar data supported the natural explanation. Not everyone agreed.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 7.248,
+     "start": 13671,
+     "end": 13889
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VII \u00b7 THE DISSENT",
+    "Maccabee Disagrees",
+    "THE OTHER SIDE"
+   ],
+   "img": "ep/img/shot_43.jpg",
+   "start": 13893,
+   "end": 14335,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter seven. The dissenter. An American optical physicist, Bruce Maccabee, studied the film and the reports. He argued that at least one object was real, solid, and about five miles away.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 13.656,
+     "start": 13903,
+     "end": 14313
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 14317,
+   "end": 14610,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He suggested it may have been as large as a two-storey building. If he is right, it was far too big and too close to be a fishing boat.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 8.688,
+     "start": 14327,
+     "end": 14588
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_45.jpg",
+   "start": 14592,
+   "end": 14995,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The New Zealand investigators, and later sceptics such as those at the New Zealand Skeptics, disagreed. Their answer was the same. Several ordinary causes, misread in the dark.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 12.336,
+     "start": 14602,
+     "end": 14973
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 14977,
+   "end": 15403,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "When the files were released in twenty-ten, a New Zealand paper summed up the official finding with a headline saying the UFOs were all natural. But as we have seen, the story is more careful than that.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 13.128,
+     "start": 14987,
+     "end": 15381
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 15385,
+   "end": 15767,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Fogarty never fully accepted it. Neither did Startup. For them, what they felt in that cockpit was real, whatever the explanation. And that, too, is part of the evidence.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 11.664,
+     "start": 15395,
+     "end": 15745
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 15749,
+   "end": 15816,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Now the debrief.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 1.152,
+     "start": 15759,
+     "end": 15794
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_49.jpg",
+   "start": 15798,
+   "end": 15897,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score Kaikoura.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 2.232,
+     "start": 15808,
+     "end": 15875
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 15879,
+   "end": 16462,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Honest witnesses seeing real lights: evidence. Radar returns on ground and aircraft radar: partial, with known natural causes. The film: weak, since a window reflection reproduces its main flares. The Venus explanation: partial, it fails on timing.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 18.336,
+     "start": 15889,
+     "end": 16440
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 16444,
+   "end": 16835,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The squid boat match: evidence, but contested by the crew. An object five miles away and as large as a building: unverified. Extraterrestrial craft: no evidence.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 11.952,
+     "start": 16454,
+     "end": 16813
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 16817,
+   "end": 17322,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Not alien, but not trivial either. Venus, boats, a window and radar quirks together explain most of what was seen, though not every single detail. A fair verdict is natural causes, with a few honest loose ends.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 15.744,
+     "start": 16827,
+     "end": 17300
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 17304,
+   "end": 17704,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What stays with you is the lesson. At night, from a moving plane, even trained pilots can misjudge distance, speed and size. That is not a failure. It is how human eyes work.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 12.24,
+     "start": 17314,
+     "end": 17682
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 17686,
+   "end": 17983,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: the Taos Hum, a low sound that only some people hear. Is it a secret machine, or a mystery inside the human ear?",
+     "file": "ep/audio/s54.mp3",
+     "dur": 8.832,
+     "start": 17696,
+     "end": 17961
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 17965,
+   "end": 18210,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think those lights were? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 7.08,
+     "start": 17975,
+     "end": 18188
+    }
+   ]
+  }
+ ]
+}
