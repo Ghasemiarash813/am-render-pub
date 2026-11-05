@@ -1,0 +1,1200 @@
+{
+ "fps": 30,
+ "total": 19433,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 461,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "October eleventh, nineteen seventy-three. Two men walk into a Mississippi sheriff's office and say they were taken aboard a craft by creatures with claws for hands. Then the deputies leave them alone, and press record.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 14.28,
+     "start": 10,
+     "end": 439
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 443,
+   "end": 807,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The sheriff wanted them to slip. He wanted a laugh, a whisper, a crack in the story. What the tape caught is one of the strangest recordings in UFO history.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 11.064,
+     "start": 453,
+     "end": 785
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 789,
+   "end": 1127,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So did two shipyard workers meet real aliens? Or did something stranger happen inside their own heads, and the tape just caught two frightened men?",
+     "file": "ep/audio/s03.mp3",
+     "dur": 10.176,
+     "start": 799,
+     "end": 1105
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1109,
+   "end": 1381,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Tonight we treat it like a recording under analysis. We play it, we check it against the record, and we score every claim.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 7.992,
+     "start": 1119,
+     "end": 1359
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "none",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1363,
+   "end": 1597,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Facts first, theories labelled. Tape rolling.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 2.712,
+     "start": 1373,
+     "end": 1455
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "I \u00b7 THE PIER",
+    "Fishing at Dusk",
+    "PASCAGOULA \u00b7 11 OCT 1973"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1579,
+   "end": 2056,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter one. The pier. Pascagoula, Mississippi, a Gulf Coast shipbuilding town, nineteen seventy-three. The autumn was already strange. A wave of UFO reports had swept Louisiana and Mississippi.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 14.832,
+     "start": 1589,
+     "end": 2034
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2038,
+   "end": 2456,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "On the evening of the eleventh of October, Charles Hickson, forty-five, and his young relative Calvin Parker, seventeen, are fishing off an old pier on the west bank of the Pascagoula River.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 12.864,
+     "start": 2048,
+     "end": 2434
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2438,
+   "end": 2816,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Around eight that evening, a service station operator named Larry Booth had already phoned the sheriff. He reported a strange craft with a blinking coloured light passing overhead.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 11.52,
+     "start": 2448,
+     "end": 2794
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2798,
+   "end": 3172,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then, the men say, they hear a whirring, whizzing sound. They turn, and see two flashing blue lights, and an oval object, thirty to forty feet across, hovering close to the bank.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 11.376,
+     "start": 2808,
+     "end": 3150
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3154,
+   "end": 3488,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hickson says an opening appeared in the side. Three creatures came out. They had pincers instead of hands. And they floated him and Parker toward the craft.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 10.056,
+     "start": 3164,
+     "end": 3466
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3470,
+   "end": 3798,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His description is odd, and oddly specific. Grey, wrinkled skin. Claws like a crab. Something like a slit for a mouth, and no visible eyes.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 9.84,
+     "start": 3480,
+     "end": 3776
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 3780,
+   "end": 4108,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Inside, Hickson says a mechanical eye floated over his body and examined him. Parker, he said, fainted at the very start and remembered nothing.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 9.84,
+     "start": 3790,
+     "end": 4086
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_13.jpg",
+   "start": 4090,
+   "end": 4428,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then the creatures released them, and the craft shot away. Hickson was left on the pier with a boy who was barely conscious. That is the story. Now the tape.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 10.176,
+     "start": 4100,
+     "end": 4406
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 THE OFFICE",
+    "A Report at Midnight",
+    "JACKSON COUNTY SHERIFF \u00b7 11 PM"
+   ],
+   "img": "ep/img/shot_14.jpg",
+   "start": 4410,
+   "end": 4723,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter two. The sheriff's office. The men do not call police at first. They drive to the office of the local newspaper, The Mississippi Press.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 9.36,
+     "start": 4420,
+     "end": 4701
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 4705,
+   "end": 4984,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nobody is there. So, around eleven that night, they go to the Jackson County sheriff's office instead and ask to make a report.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 8.232,
+     "start": 4715,
+     "end": 4962
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 4966,
+   "end": 5363,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Captain Glenn Ryder later told reporters he suspected a prank. Then he looked at the two men. Hickson was shaking. Parker was in a state of what officers described as terror.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 12.144,
+     "start": 4976,
+     "end": 5341
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5345,
+   "end": 5673,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ryder did smell alcohol on Hickson's breath. Hickson said he drank whiskey after they were released. Ryder told the press the men were not drunk.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 9.84,
+     "start": 5355,
+     "end": 5651
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 5655,
+   "end": 5963,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then came the trick. The officers left the two men alone in a room, and secretly recorded what they said, hoping to catch them in a lie.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 9.192,
+     "start": 5665,
+     "end": 5941
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 5945,
+   "end": 6108,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "If it was a hoax, this was the moment it should have collapsed. Chapter three.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 4.344,
+     "start": 5955,
+     "end": 6086
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 THE TAPE",
+    "What the Recorder Heard",
+    "SECRET RECORDING \u00b7 11 OCT"
+   ],
+   "img": "ep/img/shot_20.jpg",
+   "start": 6090,
+   "end": 6475,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter three. The tape. Here is what the recording reportedly contains. Two men who sound frightened. Parker is heard saying he feels sick. Hickson tells him to calm down.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 11.76,
+     "start": 6100,
+     "end": 6453
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_21.jpg",
+   "start": 6457,
+   "end": 6777,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They talk about what they saw and what they will say. The accounts match. There is no laughter, no rehearsal, no sign of a joke being enjoyed.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 9.6,
+     "start": 6467,
+     "end": 6755
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 6759,
+   "end": 7110,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Ryder said afterwards that they did everything they knew to break the stories. Later he told The Washington Post that if the men were lying, they should be in Hollywood.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 10.608,
+     "start": 6769,
+     "end": 7088
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 7092,
+   "end": 7479,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is the strongest card the case holds. Sincere fear is hard to fake. But sincere fear is also what you would hear from a man who truly believes something happened to him.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 11.808,
+     "start": 7102,
+     "end": 7457
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 7461,
+   "end": 7805,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What a tape cannot do is tell us what happened. It proves emotion, not an object in the sky. Evidence of fear: yes. Evidence of aliens: none.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 10.368,
+     "start": 7471,
+     "end": 7783
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 7787,
+   "end": 8013,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the tape stands. A real recording of real distress. Next, the doctors and the experts.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 6.456,
+     "start": 7797,
+     "end": 7991
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 THE EXPERTS",
+    "Doctors, Hypnosis, Hynek",
+    "KEESLER AFB \u00b7 12 OCT 1973"
+   ],
+   "img": "ep/img/shot_26.jpg",
+   "start": 7995,
+   "end": 8449,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter four. The experts. The next day, the story hits the wire services. The Associated Press and United Press International carry it nationwide. The men are examined at Keesler Air Force Base.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 14.04,
+     "start": 8005,
+     "end": 8427
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 8431,
+   "end": 8779,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Doctors find no radiation exposure. The men are released. Local people call for federal investigators, but federal investigators do not arrive.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 10.512,
+     "start": 8441,
+     "end": 8757
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 8761,
+   "end": 9153,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Instead come two famous UFO men. Astronomer J. Allen Hynek, once the Air Force's debunker, now a believer in serious study. And researcher James Harder.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 12.0,
+     "start": 8771,
+     "end": 9131
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_29.jpg",
+   "start": 9135,
+   "end": 9543,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They interview the two men separately, under hypnosis. They tell the press the accounts are likely based on fact. It sounds convincing. It is also a method we now treat with great caution.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 12.528,
+     "start": 9145,
+     "end": 9521
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "none",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 9525,
+   "end": 9970,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Hypnosis does not unlock a perfect memory. It can make you more confident in what you say, including details you assembled during the session. Hynek's endorsement is real. His method is weak.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 13.752,
+     "start": 9535,
+     "end": 9948
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 9952,
+   "end": 10314,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A local polygraph examiner is also brought in. He concludes Hickson told the truth as to what he believed. He adds that he is not saying a spaceship landed.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 10.992,
+     "start": 9962,
+     "end": 10292
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "none",
+   "motion": "out",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 10296,
+   "end": 10667,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And that is the catch. A polygraph measures stress, not truth. By the nineteen eighties it was largely discredited. And Parker, through his lawyer, declined to take one.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 11.28,
+     "start": 10306,
+     "end": 10645
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "V \u00b7 THE SPOTLIGHT",
+    "From Pier to Prime Time",
+    "NOV 1973 \u2013 1974"
+   ],
+   "img": "ep/img/shot_33.jpg",
+   "start": 10649,
+   "end": 11047,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter five. The celebrity. Within weeks, Hickson is on national television. The Dick Cavett Show on the second of November. The Mike Douglas Show. The Tonight Show with Johnny Carson.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 12.192,
+     "start": 10659,
+     "end": 11025
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 11029,
+   "end": 11378,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Local journalists note that the men are not showing up for work. That fuels talk they are being paid. There is no proof of that, but the questions will not go away.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 10.56,
+     "start": 11039,
+     "end": 11356
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 11360,
+   "end": 11776,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In January nineteen seventy-four, Hickson is arrested for public drunkenness after being found wandering along a highway. In April he says he is in ongoing contact with the beings.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 12.792,
+     "start": 11370,
+     "end": 11754
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 11758,
+   "end": 12138,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He tells a UFO group in Detroit that more encounters happened. He says a message and proof will come, to be delivered to Washington. No such proof ever arrives.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 11.592,
+     "start": 11768,
+     "end": 12116
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_37.jpg",
+   "start": 12120,
+   "end": 12527,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In April, he even meets Erich von Daniken, the best-known ancient astronauts writer. The Pascagoula story becomes part of a larger myth: that visitors shaped our past.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 12.48,
+     "start": 12130,
+     "end": 12505
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "none",
+   "motion": "out",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 12509,
+   "end": 12894,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In nineteen eighty-three, Hickson self-publishes a book, UFO Contact at Pascagoula. Parker, for his part, stays quiet for decades. That contrast matters.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 11.736,
+     "start": 12519,
+     "end": 12872
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VI \u00b7 THE SKEPTICS",
+    "Klass and Nickell",
+    "THE CASE FOR A HOAX"
+   ],
+   "img": "ep/img/shot_39.jpg",
+   "start": 12876,
+   "end": 13365,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter six. The skeptics. Aviation journalist Philip Klass investigates and finds discrepancies in the story. He notes that Hickson refused a polygraph by an experienced examiner. His conclusion is a hoax.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 15.216,
+     "start": 12886,
+     "end": 13343
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 13347,
+   "end": 13750,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Investigator Joe Nickell suggests something different. Not a hoax, a waking dream. A hypnagogic state, where the mind drifts between waking and sleep and invents vivid scenes.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 12.336,
+     "start": 13357,
+     "end": 13728
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 13732,
+   "end": 14114,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Nickell points out that Hickson changed and embellished details over time. And that Parker's agreement could come from suggestibility. Parker first said he passed out at the start.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 11.664,
+     "start": 13742,
+     "end": 14092
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 14096,
+   "end": 14459,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That last point is key. If Parker was unconscious from the beginning, he cannot corroborate anything. He can only confirm that he was frightened and that something happened.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.016,
+     "start": 14106,
+     "end": 14437
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 14441,
+   "end": 14803,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Others have suggested ordinary explanations for the lights: a boat on the river, a helicopter, a swamp gas effect. None of those has been proved either.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 10.992,
+     "start": 14451,
+     "end": 14781
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 14785,
+   "end": 15112,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the sceptics have a lot of questions. But they also lack a smoking gun. No confession. No fake. No evidence of a plan. Chapter seven.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 9.816,
+     "start": 14795,
+     "end": 15090
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "VII \u00b7 AFTERMATH",
+    "The Men Who Stayed",
+    "1993 \u2013 2023"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 15094,
+   "end": 15404,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Chapter seven. The aftermath. Hickson dies in September twenty eleven of a heart attack, aged eighty. He never changed his story.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 9.24,
+     "start": 15104,
+     "end": 15382
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 15386,
+   "end": 15816,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Parker lived with it for the rest of his life. In ninety-three he started a company called UFO Investigations. In twenty eighteen he published his own book, Pascagoula: The Closest Encounter.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 13.248,
+     "start": 15396,
+     "end": 15794
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 15798,
+   "end": 16146,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In June twenty nineteen, a historical marker is unveiled at the site. Parker attends. He says he wished he could be buried right there, underneath the plaque.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 10.512,
+     "start": 15808,
+     "end": 16124
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 16128,
+   "end": 16456,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The city of Pascagoula now holds a festival every October to mark the anniversary. A frightening night has become part of the town's identity.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 9.84,
+     "start": 16138,
+     "end": 16434
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 16438,
+   "end": 16784,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Parker died of kidney cancer in August twenty twenty-three, aged sixty-eight. Netflix covered the case the year after in Files of the Unexplained.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 10.44,
+     "start": 16448,
+     "end": 16762
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "P",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 16766,
+   "end": 17147,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Both men told essentially the same core story for the rest of their lives. That consistency is a point of evidence. It is also exactly what a shared belief looks like.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 11.616,
+     "start": 16776,
+     "end": 17125
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "none",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 17129,
+   "end": 17246,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score the case. Tape off. Lights on.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 2.808,
+     "start": 17139,
+     "end": 17224
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "THE SCORE",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_52.jpg",
+   "start": 17228,
+   "end": 17308,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to score Pascagoula.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 1.584,
+     "start": 17238,
+     "end": 17286
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_53.jpg",
+   "start": 17290,
+   "end": 17749,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Two men reporting a frightening event, consistent for decades: evidence. The tape showing real fear: evidence. Officers believing they were sincere: partial. Hypnosis by Hynek and Harder: weak.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 14.208,
+     "start": 17300,
+     "end": 17727
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 17731,
+   "end": 17980,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The polygraph: discredited. A hoax for money: unproven. Creatures from another world: no evidence at all.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 7.224,
+     "start": 17741,
+     "end": 17958
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "glow",
+   "motion": "out",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 17962,
+   "end": 18426,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The verdict. Unexplained experience, not proven aliens. Something frightened two men badly that night. But there is no craft, no trace, no object. The story remains a testimony, and testimony is not proof.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 14.4,
+     "start": 17972,
+     "end": 18404
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 18408,
+   "end": 18803,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "And that is what makes Pascagoula so human. No mastermind, no money trail, no wreckage. Just two men, a river, and a night that neither of them ever stopped talking about.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 12.096,
+     "start": 18418,
+     "end": 18781
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 18785,
+   "end": 19122,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: nineteen forty-seven, Maury Island. The first UFO story to be called a cover-up, and the first to be called a hoax. Which one was true?",
+     "file": "ep/audio/s57.mp3",
+     "dur": 10.152,
+     "start": 18795,
+     "end": 19100
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 19104,
+   "end": 19358,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think happened on that pier? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 7.392,
+     "start": 19114,
+     "end": 19336
+    }
+   ]
+  }
+ ]
+}

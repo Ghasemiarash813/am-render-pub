@@ -1,0 +1,1260 @@
+[
+ {
+  "id": 1,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic night photograph of an oval glowing object hovering low over a river, two flashing blue lights, above the marshy bank, reeds in foreground, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "October eleventh, nineteen seventy-three. Two men walk into a Mississippi sheriff's office and say they were taken aboard a craft by creatures with claws for hands. Then the deputies leave them alone, and press record."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "October eleventh, nineteen seventy-three. Two men walk into a Mississippi sheriff's office and say they were taken aboard a craft by creatures with claws for hands. Then the deputies leave them alone, and press record.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.28
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vintage 1970s reel-to-reel tape recorder with spinning reels on a wooden desk, a microphone hidden behind a desk lamp, dim light, photoreal, blank labels, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The sheriff wanted them to slip. He wanted a laugh, a whisper, a crack in the story. What the tape caught is one of the strangest recordings in UFO history."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The sheriff wanted them to slip. He wanted a laugh, a whisper, a crack in the story. What the tape caught is one of the strangest recordings in UFO history.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 11.064
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two silhouettes of men sitting at a table in a dim 1970s room, one with head in hands, moody, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So did two shipyard workers meet real aliens? Or did something stranger happen inside their own heads, and the tape just caught two frightened men?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So did two shipyard workers meet real aliens? Or did something stranger happen inside their own heads, and the tape just caught two frightened men?",
+    "file": "ep/audio/s03.mp3",
+    "dur": 10.176
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Close-up of a pair of weathered hands holding a fishing rod at night by a river, blue light reflecting on the water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we treat it like a recording under analysis. We play it, we check it against the record, and we score every claim."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we treat it like a recording under analysis. We play it, we check it against the record, and we score every claim.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 7.992
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide Mississippi river delta at dusk, flat marsh, calm water, orange horizon, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Facts first, theories labelled. Tape rolling."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Facts first, theories labelled. Tape rolling.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 2.712
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Pascagoula Mississippi in 1973, a Gulf Coast shipbuilding town, shipyard cranes and small wooden houses with palm trees at dusk, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter one. The pier. Pascagoula, Mississippi, a Gulf Coast shipbuilding town, nineteen seventy-three. The autumn was already strange. A wave of UFO reports had swept Louisiana and Mississippi."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "I \u00b7 THE PIER",
+   "Fishing at Dusk",
+   "PASCAGOULA \u00b7 11 OCT 1973"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter one. The pier. Pascagoula, Mississippi, a Gulf Coast shipbuilding town, nineteen seventy-three. The autumn was already strange. A wave of UFO reports had swept Louisiana and Mississippi.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 14.832
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A middle-aged shipyard worker in 1970s work clothes and a teenage boy sitting on an old wooden pier fishing at dusk, seen from behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the evening of the eleventh of October, Charles Hickson, forty-five, and his young relative Calvin Parker, seventeen, are fishing off an old pier on the west bank of the Pascagoula River."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the evening of the eleventh of October, Charles Hickson, forty-five, and his young relative Calvin Parker, seventeen, are fishing off an old pier on the west bank of the Pascagoula River.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.864
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "The wooden pier at night with the river dark and still, a faint pulsing blue light in the distance, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Around eight that evening, a service station operator named Larry Booth had already phoned the sheriff. He reported a strange craft with a blinking coloured light passing overhead."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around eight that evening, a service station operator named Larry Booth had already phoned the sheriff. He reported a strange craft with a blinking coloured light passing overhead.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 11.52
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Cinematic night photograph of two flashing blue lights over a dark river, reflected in the water, a fisherman silhouette on a pier, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, the men say, they hear a whirring, whizzing sound. They turn, and see two flashing blue lights, and an oval object, thirty to forty feet across, hovering close to the bank."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, the men say, they hear a whirring, whizzing sound. They turn, and see two flashing blue lights, and an oval object, thirty to forty feet across, hovering close to the bank.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.376
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A glowing oval craft hovering above a marshy riverbank, a hatch of soft light opening, mist on the water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hickson says an opening appeared in the side. Three creatures came out. They had pincers instead of hands. And they floated him and Parker toward the craft."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hickson says an opening appeared in the side. Three creatures came out. They had pincers instead of hands. And they floated him and Parker toward the craft.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A tall humanoid figure with grey wrinkled skin, a conical head and crab-like claw hands, standing in dim light, 1970s monster photograph style, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His description is odd, and oddly specific. Grey, wrinkled skin. Claws like a crab. Something like a slit for a mouth, and no visible eyes."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His description is odd, and oddly specific. Grey, wrinkled skin. Claws like a crab. Something like a slit for a mouth, and no visible eyes.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Interior of a bright empty white metal room with a floating scanning device like a large eye, no people, sci-fi, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Inside, Hickson says a mechanical eye floated over his body and examined him. Parker, he said, fainted at the very start and remembered nothing."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Inside, Hickson says a mechanical eye floated over his body and examined him. Parker, he said, fainted at the very start and remembered nothing.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "The pier at night, a figure sitting alone on the planks, the river empty and quiet, a dim glow fading in the sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then the creatures released them, and the craft shot away. Hickson was left on the pier with a boy who was barely conscious. That is the story. Now the tape."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then the creatures released them, and the craft shot away. Hickson was left on the pier with a boy who was barely conscious. That is the story. Now the tape.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 10.176
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A dark country road with a pickup truck's headlights at night in rural Mississippi, 1970s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter two. The sheriff's office. The men do not call police at first. They drive to the office of the local newspaper, The Mississippi Press."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 THE OFFICE",
+   "A Report at Midnight",
+   "JACKSON COUNTY SHERIFF \u00b7 11 PM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter two. The sheriff's office. The men do not call police at first. They drive to the office of the local newspaper, The Mississippi Press.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 9.36
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A dark closed newspaper office door at night in a small Southern town, 1970s, a single street lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nobody is there. So, around eleven that night, they go to the Jackson County sheriff's office instead and ask to make a report."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nobody is there. So, around eleven that night, they go to the Jackson County sheriff's office instead and ask to make a report.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 8.232
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A 1970s American county sheriff, heavyset man in a tan uniform and cowboy hat, standing in an office at night looking sceptical, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Captain Glenn Ryder later told reporters he suspected a prank. Then he looked at the two men. Hickson was shaking. Parker was in a state of what officers described as terror."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Captain Glenn Ryder later told reporters he suspected a prank. Then he looked at the two men. Hickson was shaking. Parker was in a state of what officers described as terror.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "a small 1970s American county sheriff's office interior at night, wood panelling, a metal desk, fluorescent light, close-up of a whiskey bottle and a glass on a desk, photoreal, blank label, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ryder did smell alcohol on Hickson's breath. Hickson said he drank whiskey after they were released. Ryder told the press the men were not drunk."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ryder did smell alcohol on Hickson's breath. Hickson said he drank whiskey after they were released. Ryder told the press the men were not drunk.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "a small 1970s American county sheriff's office interior at night, wood panelling, a metal desk, fluorescent light, two empty chairs facing each other at a table, a ceiling microphone, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came the trick. The officers left the two men alone in a room, and secretly recorded what they said, hoping to catch them in a lie."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came the trick. The officers left the two men alone in a room, and secretly recorded what they said, hoping to catch them in a lie.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.192
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "a small 1970s American county sheriff's office interior at night, wood panelling, a metal desk, fluorescent light, the door closing on a dim empty room, a thin strip of light underneath, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If it was a hoax, this was the moment it should have collapsed. Chapter three."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If it was a hoax, this was the moment it should have collapsed. Chapter three.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 4.344
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Close-up of the two spinning reels of an old tape recorder in a dark room, red recording light, photoreal, no labels, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter three. The tape. Here is what the recording reportedly contains. Two men who sound frightened. Parker is heard saying he feels sick. Hickson tells him to calm down."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III \u00b7 THE TAPE",
+   "What the Recorder Heard",
+   "SECRET RECORDING \u00b7 11 OCT"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter three. The tape. Here is what the recording reportedly contains. Two men who sound frightened. Parker is heard saying he feels sick. Hickson tells him to calm down.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 11.76
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Two silhouettes of men whispering at a table in a dark 1970s office, one anxious, the other comforting him, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They talk about what they saw and what they will say. The accounts match. There is no laughter, no rehearsal, no sign of a joke being enjoyed."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They talk about what they saw and what they will say. The accounts match. There is no laughter, no rehearsal, no sign of a joke being enjoyed.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 9.6
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A sheriff's deputy listening to headphones with a thoughtful expression, 1970s, dim office, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ryder said afterwards that they did everything they knew to break the stories. Later he told The Washington Post that if the men were lying, they should be in Hollywood."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ryder said afterwards that they did everything they knew to break the stories. Later he told The Washington Post that if the men were lying, they should be in Hollywood.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Cinematic close-up of a man's face in shadow, sweat on his forehead, frightened eyes, 1970s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is the strongest card the case holds. Sincere fear is hard to fake. But sincere fear is also what you would hear from a man who truly believes something happened to him."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is the strongest card the case holds. Sincere fear is hard to fake. But sincere fear is also what you would hear from a man who truly believes something happened to him.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A diagram-like empty chalkboard in a classroom with a single circle drawn, abstract, photoreal, blank, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What a tape cannot do is tell us what happened. It proves emotion, not an object in the sky. Evidence of fear: yes. Evidence of aliens: none."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What a tape cannot do is tell us what happened. It proves emotion, not an object in the sky. Evidence of fear: yes. Evidence of aliens: none.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 10.368
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "A reel of magnetic tape unspooling in dim light, abstract and quiet, photoreal, no labels, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the tape stands. A real recording of real distress. Next, the doctors and the experts."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the tape stands. A real recording of real distress. Next, the doctors and the experts.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 6.456
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A 1970s United States Air Force base entrance gate in Mississippi at dawn, palm trees, plain unmarked gate, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter four. The experts. The next day, the story hits the wire services. The Associated Press and United Press International carry it nationwide. The men are examined at Keesler Air Force Base."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV \u00b7 THE EXPERTS",
+   "Doctors, Hypnosis, Hynek",
+   "KEESLER AFB \u00b7 12 OCT 1973"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter four. The experts. The next day, the story hits the wire services. The Associated Press and United Press International carry it nationwide. The men are examined at Keesler Air Force Base.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 14.04
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A 1970s military doctor in a white coat examining a worried man in a plain medical room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Doctors find no radiation exposure. The men are released. Local people call for federal investigators, but federal investigators do not arrive."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Doctors find no radiation exposure. The men are released. Local people call for federal investigators, but federal investigators do not arrive.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A professor in his fifties with a pipe and glasses sitting at a table in a 1970s Southern living room, taking notes, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Instead come two famous UFO men. Astronomer J. Allen Hynek, once the Air Force's debunker, now a believer in serious study. And researcher James Harder."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Instead come two famous UFO men. Astronomer J. Allen Hynek, once the Air Force's debunker, now a believer in serious study. And researcher James Harder.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 12.0
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A man lying on a couch with eyes closed in a dim 1970s room, a hypnotist's silhouette beside him, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They interview the two men separately, under hypnosis. They tell the press the accounts are likely based on fact. It sounds convincing. It is also a method we now treat with great caution."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They interview the two men separately, under hypnosis. They tell the press the accounts are likely based on fact. It sounds convincing. It is also a method we now treat with great caution.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A brain made of soft glowing threads against a dark background, memory concept, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Hypnosis does not unlock a perfect memory. It can make you more confident in what you say, including details you assembled during the session. Hynek's endorsement is real. His method is weak."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Hypnosis does not unlock a perfect memory. It can make you more confident in what you say, including details you assembled during the session. Hynek's endorsement is real. His method is weak.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 13.752
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A polygraph machine on a desk with paper strips and needles, 1970s, dim light, photoreal, blank paper, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A local polygraph examiner is also brought in. He concludes Hickson told the truth as to what he believed. He adds that he is not saying a spaceship landed."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A local polygraph examiner is also brought in. He concludes Hickson told the truth as to what he believed. He adds that he is not saying a spaceship landed.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "An empty polygraph chair with sensors lying on the seat, neutral light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that is the catch. A polygraph measures stress, not truth. By the nineteen eighties it was largely discredited. And Parker, through his lawyer, declined to take one."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that is the catch. A polygraph measures stress, not truth. By the nineteen eighties it was largely discredited. And Parker, through his lawyer, declined to take one.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A crowd of newspaper reporters and a television camera in a small town hall in 1973, photoreal, no signage, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter five. The celebrity. Within weeks, Hickson is on national television. The Dick Cavett Show on the second of November. The Mike Douglas Show. The Tonight Show with Johnny Carson."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "V \u00b7 THE SPOTLIGHT",
+   "From Pier to Prime Time",
+   "NOV 1973 \u2013 1974"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter five. The celebrity. Within weeks, Hickson is on national television. The Dick Cavett Show on the second of November. The Mike Douglas Show. The Tonight Show with Johnny Carson.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 12.192
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A 1970s television studio talk show set with two armchairs and a desk, warm lighting, empty, photoreal, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Local journalists note that the men are not showing up for work. That fuels talk they are being paid. There is no proof of that, but the questions will not go away."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Local journalists note that the men are not showing up for work. That fuels talk they are being paid. There is no proof of that, but the questions will not go away.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 10.56
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A man standing alone on a dark highway at night with headlights approaching, 1970s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In January nineteen seventy-four, Hickson is arrested for public drunkenness after being found wandering along a highway. In April he says he is in ongoing contact with the beings."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In January nineteen seventy-four, Hickson is arrested for public drunkenness after being found wandering along a highway. In April he says he is in ongoing contact with the beings.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 12.792
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A lecture hall in 1970s Detroit with a speaker at a podium and an audience of men in suits, photoreal, no signs, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He tells a UFO group in Detroit that more encounters happened. He says a message and proof will come, to be delivered to Washington. No such proof ever arrives."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He tells a UFO group in Detroit that more encounters happened. He says a message and proof will come, to be delivered to Washington. No such proof ever arrives.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 11.592
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A cluttered writer's desk with a typewriter, books and a lamp, 1970s, European author's study, photoreal, blank paper, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In April, he even meets Erich von Daniken, the best-known ancient astronauts writer. The Pascagoula story becomes part of a larger myth: that visitors shaped our past."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In April, he even meets Erich von Daniken, the best-known ancient astronauts writer. The Pascagoula story becomes part of a larger myth: that visitors shaped our past.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A self-published paperback book lying on a table with a blank plain cover, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In nineteen eighty-three, Hickson self-publishes a book, UFO Contact at Pascagoula. Parker, for his part, stays quiet for decades. That contrast matters."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In nineteen eighty-three, Hickson self-publishes a book, UFO Contact at Pascagoula. Parker, for his part, stays quiet for decades. That contrast matters.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.736
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A skeptical investigator with a magnifying glass studying papers and newspaper clippings at a desk, 1970s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter six. The skeptics. Aviation journalist Philip Klass investigates and finds discrepancies in the story. He notes that Hickson refused a polygraph by an experienced examiner. His conclusion is a hoax."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VI \u00b7 THE SKEPTICS",
+   "Klass and Nickell",
+   "THE CASE FOR A HOAX"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter six. The skeptics. Aviation journalist Philip Klass investigates and finds discrepancies in the story. He notes that Hickson refused a polygraph by an experienced examiner. His conclusion is a hoax.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 15.216
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Two overlapping circles of light on a dark wall, abstract, one blue one orange, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Investigator Joe Nickell suggests something different. Not a hoax, a waking dream. A hypnagogic state, where the mind drifts between waking and sleep and invents vivid scenes."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Investigator Joe Nickell suggests something different. Not a hoax, a waking dream. A hypnagogic state, where the mind drifts between waking and sleep and invents vivid scenes.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A man asleep upright on a chair on a river pier at dusk with a fishing rod, dreamy glow around him, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Nickell points out that Hickson changed and embellished details over time. And that Parker's agreement could come from suggestibility. Parker first said he passed out at the start."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Nickell points out that Hickson changed and embellished details over time. And that Parker's agreement could come from suggestibility. Parker first said he passed out at the start.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Two men sitting on a pier at night with one slumped asleep or unconscious, wide shot, quiet river, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That last point is key. If Parker was unconscious from the beginning, he cannot corroborate anything. He can only confirm that he was frightened and that something happened."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That last point is key. If Parker was unconscious from the beginning, he cannot corroborate anything. He can only confirm that he was frightened and that something happened.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.016
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A gentle foggy river at dawn with a small fishing boat and mist, quiet natural light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Others have suggested ordinary explanations for the lights: a boat on the river, a helicopter, a swamp gas effect. None of those has been proved either."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Others have suggested ordinary explanations for the lights: a boat on the river, a helicopter, a swamp gas effect. None of those has been proved either.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "A blank courtroom bench with a single gavel on a wooden table, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the sceptics have a lot of questions. But they also lack a smoking gun. No confession. No fake. No evidence of a plan. Chapter seven."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the sceptics have a lot of questions. But they also lack a smoking gun. No confession. No fake. No evidence of a plan. Chapter seven.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "An older man in his sixties with a worn face standing before a historical marker on a Southern riverbank, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Chapter seven. The aftermath. Hickson dies in September twenty eleven of a heart attack, aged eighty. He never changed his story."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "VII \u00b7 AFTERMATH",
+   "The Men Who Stayed",
+   "1993 \u2013 2023"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Chapter seven. The aftermath. Hickson dies in September twenty eleven of a heart attack, aged eighty. He never changed his story.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 9.24
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A middle-aged Southern man sitting at a kitchen table writing in a notebook, warm lamp, emotional mood, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Parker lived with it for the rest of his life. In ninety-three he started a company called UFO Investigations. In twenty eighteen he published his own book, Pascagoula: The Closest Encounter."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Parker lived with it for the rest of his life. In ninety-three he started a company called UFO Investigations. In twenty eighteen he published his own book, Pascagoula: The Closest Encounter.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.248
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "A new stone historical marker beside a Mississippi riverbank at golden hour, blank plaque face, flowers beside it, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In June twenty nineteen, a historical marker is unveiled at the site. Parker attends. He says he wished he could be buried right there, underneath the plaque."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In June twenty nineteen, a historical marker is unveiled at the site. Parker attends. He says he wished he could be buried right there, underneath the plaque.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A small Southern town festival with colourful paper alien decorations and families in the evening, photoreal, no text, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The city of Pascagoula now holds a festival every October to mark the anniversary. A frightening night has become part of the town's identity."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The city of Pascagoula now holds a festival every October to mark the anniversary. A frightening night has become part of the town's identity.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A wide quiet river at night with distant shipyard cranes lit by sodium lamps, reflections on water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Parker died of kidney cancer in August twenty twenty-three, aged sixty-eight. Netflix covered the case the year after in Files of the Unexplained."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Parker died of kidney cancer in August twenty twenty-three, aged sixty-eight. Netflix covered the case the year after in Files of the Unexplained.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A small pier at night with a single lantern and the river blurred behind, lonely, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Both men told essentially the same core story for the rest of their lives. That consistency is a point of evidence. It is also exactly what a shared belief looks like."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Both men told essentially the same core story for the rest of their lives. That consistency is a point of evidence. It is also exactly what a shared belief looks like.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 11.616
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark empty riverside at night, a very faint blue shimmer on the water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to score the case. Tape off. Lights on."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score the case. Tape off. Lights on.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 2.808
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark Mississippi riverbank at night, a single faint blue glow far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to score Pascagoula."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "THE SCORE",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to score Pascagoula.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 1.584
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark Mississippi riverbank at night, a single faint blue glow far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two men reporting a frightening event, consistent for decades: evidence. The tape showing real fear: evidence. Officers believing they were sincere: partial. Hypnosis by Hynek and Harder: weak."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two men reporting a frightening event, consistent for decades: evidence. The tape showing real fear: evidence. Officers believing they were sincere: partial. Hypnosis by Hynek and Harder: weak.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 14.208
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark Mississippi riverbank at night, a single faint blue glow far on the right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The polygraph: discredited. A hoax for money: unproven. Creatures from another world: no evidence at all."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The polygraph: discredited. A hoax for money: unproven. Creatures from another world: no evidence at all.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 7.224
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Cinematic night photograph of a faint blue glow over a dark Mississippi river with reeds, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Unexplained experience, not proven aliens. Something frightened two men badly that night. But there is no craft, no trace, no object. The story remains a testimony, and testimony is not proof."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Unexplained experience, not proven aliens. Something frightened two men badly that night. But there is no craft, no trace, no object. The story remains a testimony, and testimony is not proof.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "A lone fisherman's rod resting on an empty pier at sunrise, soft golden light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that is what makes Pascagoula so human. No mastermind, no money trail, no wreckage. Just two men, a river, and a night that neither of them ever stopped talking about."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that is what makes Pascagoula so human. No mastermind, no money trail, no wreckage. Just two men, a river, and a night that neither of them ever stopped talking about.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "A lone small airplane-like craft shape in a 1947 cloud-filled sky over a Washington State harbor with a rocky shoreline, vintage photograph look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: nineteen forty-seven, Maury Island. The first UFO story to be called a cover-up, and the first to be called a hoax. Which one was true?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: nineteen forty-seven, Maury Island. The first UFO story to be called a cover-up, and the first to be called a hoax. Which one was true?",
+    "file": "ep/audio/s57.mp3",
+    "dur": 10.152
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background with a single faint blue light in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think happened on that pier? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think happened on that pier? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 7.392
+   }
+  ]
+ }
+]
