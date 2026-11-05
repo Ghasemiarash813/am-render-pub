@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a battered brown 1940s case file folder lying open on a dark wooden desk under a single lamp, loose black and white photographs and a pencil, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two crew members dead. A bomber in flames. Metal debris that no one could explain. And a man in a black suit who knocked on a door and told a witness to stay quiet. This is the case file nobody wanted you to open."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two crew members dead. A bomber in flames. Metal debris that no one could explain. And a man in a black suit who knocked on a door and told a witness to stay quiet. This is the case file nobody wanted you to open.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 14.976
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of six dark doughnut-shaped metallic discs hovering above a grey Puget Sound bay under heavy cloud, 1940s Pacific Northwest, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "June nineteen forty-seven. Six doughnut-shaped craft above Puget Sound, Washington. One of them in trouble. Falling debris. And three days later, the whole world would get a name for what people were seeing."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "June nineteen forty-seven. Six doughnut-shaped craft above Puget Sound, Washington. One of them in trouble. Falling debris. And three days later, the whole world would get a name for what people were seeing.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a detective's desk with a vintage typewriter, a coffee cup and a stack of yellowed folders, warm lamp light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we reopen it as a cold case. Every witness, every fragment, every claim, put on the table and tested against the evidence."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we reopen it as a cold case. Every witness, every fragment, every claim, put on the table and tested against the evidence.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 8.736
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a grainy black and white style 1947 photograph of a small wooden harbor patrol boat on calm grey water, mist, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "We will meet the witnesses. We will follow the bomber to its crash site. And we will ask the question investigators asked at the time: was this the first great UFO cover-up, or the first great hoax?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "We will meet the witnesses. We will follow the bomber to its crash site. And we will ask the question investigators asked at the time: was this the first great UFO cover-up, or the first great hoax?",
+    "file": "ep/audio/s04.mp3",
+    "dur": 13.464
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 photograph of Maury Island in Puget Sound at dawn, forested shoreline with a gravel beach and a calm bay, soft mist, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every claim gets a score. At the end, a verdict. Case solved, or case still open. Let's begin."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every claim gets a score. At the end, a verdict. Case solved, or case still open. Let's begin.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 6.624
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of Tacoma waterfront in 1947, wooden docks, cranes and log booms over grey water, vintage atmosphere, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "File one. The complaint. Tacoma, Washington, nineteen forty-seven, a busy port of timber, steel and smelters. The Pacific Northwest had just come out of the war, and it was full of men who knew boats and engines."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 THE COMPLAINT",
+   "A Boat on Puget Sound",
+   "JUN 21 \u00b7 1947 \u00b7 TACOMA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "File one. The complaint. Tacoma, Washington, nineteen forty-seven, a busy port of timber, steel and smelters. The Pacific Northwest had just come out of the war, and it was full of men who knew boats and engines.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 14.832
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a middle-aged 1940s man in a work jacket and cap standing on the deck of a small wooden patrol boat, looking up at the sky, grey water behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Harold Dahl worked harbor patrol, and he salvaged floating logs for a living. On the twenty-first of June he took his boat out near Maury Island with his young son, his dog, and two crewmen."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Harold Dahl worked harbor patrol, and he salvaged floating logs for a living. On the twenty-first of June he took his boat out near Maury Island with his young son, his dog, and two crewmen.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a low grey overcast sky above a calm bay with six pale ring-shaped objects in a loose formation about two thousand feet up, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Around two in the afternoon, Dahl said, he saw six large doughnut-shaped objects about two thousand feet above the boat. Five circled a sixth. Each looked like a ring, with a hole through the middle."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Around two in the afternoon, Dahl said, he saw six large doughnut-shaped objects about two thousand feet above the boat. Five circled a sixth. Each looked like a ring, with a hole through the middle.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a large metallic ring-shaped craft hovering low above grey water, round portholes along its rim, hazy light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dahl said they were around one hundred feet across. Portholes along the rim. Metallic. And the middle one seemed to be in trouble. It slowed. It hovered. And the others came down to it."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dahl said they were around one hundred feet across. Portholes along the rim. Metallic. And the middle one seemed to be in trouble. It slowed. It hovered. And the others came down to it.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of dark grey flakes and lumps of hot slag falling through the air toward a small wooden boat on water, motion blur, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, Dahl said, the damaged craft began to throw out debris. Thin white metal, like aluminium sheet, and heavy grey lumps that looked like lava rock or slag. It rained on the boat."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, Dahl said, the damaged craft began to throw out debris. Thin white metal, like aluminium sheet, and heavy grey lumps that looked like lava rock or slag. It rained on the boat.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 12.888
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of the splintered wooden cabin of a small patrol boat deck, scorched marks and scattered grey rocks, a dog bowl, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dahl said his son's arm was hurt. His dog was killed by the falling pieces. The radio was dead. Then the objects rose, and left toward the open sea."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dahl said his son's arm was hurt. His dog was killed by the falling pieces. The radio was dead. Then the objects rose, and left toward the open sea.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.728
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small dockside shed with a wooden table, a man placing a bucket of grey rocks on it, early morning light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dahl came back to shore. He took his son to the doctor. And he buried the dog. The next day, he told his boss, a man named Fred Crisman, what had happened."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dahl came back to shore. He took his son to the doctor. And he buried the dog. The next day, he told his boss, a man named Fred Crisman, what had happened.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 10.44
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a stocky 1940s man in a rumpled suit standing beside a small plane on a grass airfield, serious expression, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "File two. The witnesses. Fred Crisman was Dahl's superior, and he said he had seen it too. He went out in a boat the next day and said he found more of the same wreckage on the beach."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 THE WITNESSES",
+   "Two Men, One Story",
+   "DAHL \u00b7 CRISMAN \u00b7 ARNOLD"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "File two. The witnesses. Fred Crisman was Dahl's superior, and he said he had seen it too. He went out in a boat the next day and said he found more of the same wreckage on the beach.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dim 1940s office with a ringing black telephone on a desk and a typewriter, venetian blind shadows, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is what makes this case unusual. Dahl was not a drifter. He had a job, a boat and a family. And at first, he did not want to talk to anyone about it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is what makes this case unusual. Dahl was not a drifter. He had a job, a boat and a family. And at first, he did not want to talk to anyone about it.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 10.296
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of Mount Rainier at golden hour with a small single-engine airplane in the foreground sky, clear day, 1940s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then, on the twenty-fourth of June, something happened that changed everything. A pilot named Kenneth Arnold was flying near Mount Rainier, and he saw nine bright shapes skimming through the sky."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then, on the twenty-fourth of June, something happened that changed everything. A pilot named Kenneth Arnold was flying near Mount Rainier, and he saw nine bright shapes skimming through the sky.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of nine small bright silver crescent-shaped objects flying in a chain past a snowy mountain, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Arnold said they moved like saucers skipping on water. A reporter turned that into two words, and they spread around the planet. Flying saucers. The modern UFO era had begun."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Arnold said they moved like saucers skipping on water. A reporter turned that into two words, and they spread around the planet. Flying saucers. The modern UFO era had begun.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.696
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a stack of vintage 1940s newspapers with abstract grey bars instead of text, lying on a wooden table, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Within days, newspapers across America were full of sightings. And in Tacoma, Dahl's story, which had been a private secret, suddenly looked like part of a wave."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Within days, newspapers across America were full of sightings. And in Tacoma, Dahl's story, which had been a private secret, suddenly looked like part of a wave.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 10.968
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a cluttered 1940s magazine publisher's office in Chicago, pulp magazines stacked on shelves with blank covers, cigarette smoke, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One man in particular was listening. Ray Palmer edited Amazing Stories, a pulp magazine of science fiction, and he had a habit of printing the strangest claims he could find."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One man in particular was listening. Ray Palmer edited Amazing Stories, a pulp magazine of science fiction, and he had a habit of printing the strangest claims he could find.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 11.808
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a man's hand sliding an envelope and a telegram form across a wooden desk, warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "On the twenty-eighth of July, Palmer wired two hundred dollars to Kenneth Arnold, to go to Tacoma and investigate. Remember that detail. Money was now part of the story."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "On the twenty-eighth of July, Palmer wired two hundred dollars to Kenneth Arnold, to go to Tacoma and investigate. Remember that detail. Money was now part of the story.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 11.712
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a pilot in a 1940s flight jacket stepping out of a small plane at a rural airstrip, hat and sunglasses, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "File three. The debris. Arnold flew to Tacoma, and he brought a second witness, a United Airlines pilot named Captain Emil Smith. Both men were skeptical, but both wanted to see the evidence."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 THE DEBRIS",
+   "Slag from the Sky",
+   "SAMPLES \u00b7 JULY 31 \u00b7 TACOMA"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "File three. The debris. Arnold flew to Tacoma, and he brought a second witness, a United Airlines pilot named Captain Emil Smith. Both men were skeptical, but both wanted to see the evidence.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a cardboard box on a hotel room bed filled with dark grey porous lava-like rocks and thin metallic flakes, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dahl showed them a cardboard box. Inside were chunks of grey porous stone, and some thin metallic scraps. He said these came from the doughnut that fell apart over the bay."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dahl showed them a cardboard box. Inside were chunks of grey porous stone, and some thin metallic scraps. He said these came from the doughnut that fell apart over the bay.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 12.048
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a close-up of a lump of rough grey porous slag with a silvery metallic sheen on a white cloth, macro, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Anyone who has seen slag will know it. Volcanic looking, bubbled, heavy, a waste product of smelting. And Tacoma was home to one of the biggest smelters on the Pacific coast."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Anyone who has seen slag will know it. Volcanic looking, bubbled, heavy, a waste product of smelting. And Tacoma was home to one of the biggest smelters on the Pacific coast.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a smoking industrial smelter chimney and slag heaps at the edge of a harbor in Tacoma, 1940s, hazy, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That fact is a problem for the story. Slag was everywhere around Puget Sound. It was used in construction. And a gravel pit sat close to Maury Island."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That fact is a problem for the story. Slag was everywhere around Puget Sound. It was used in construction. And a gravel pit sat close to Maury Island.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 10.872
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a gravel pit with piles of grey rock and a conveyor belt beside a shoreline, morning light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The skeptic's reading is simple. Take ordinary waste rock from a local pit, show it to a pilot who is hungry for a sensation, and let the imagination do the rest."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The skeptic's reading is simple. Take ordinary waste rock from a local pit, show it to a pilot who is hungry for a sensation, and let the imagination do the rest.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a hotel room on a rainy night in Tacoma, two men leaning over a table covered with grey rocks, dim lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But Arnold was not sure. He and Smith spent two tense days with Dahl and Crisman. By the end, something had unsettled them, and he sent a message to two Army officers he trusted."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But Arnold was not sure. He and Smith spent two tense days with Dahl and Crisman. By the end, something had unsettled them, and he sent a message to two Army officers he trusted.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of two United States Army Air Forces intelligence officers in 1947 uniforms in a military office, one holding a briefcase, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Captain William Davidson and Lieutenant Frank Brown, from Army Air Forces intelligence at Hamilton Field in California, flew north. They interviewed the men, and they took a box of fragments back with them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Captain William Davidson and Lieutenant Frank Brown, from Army Air Forces intelligence at Hamilton Field in California, flew north. They interviewed the men, and they took a box of fragments back with them.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 13.68
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a Boeing B-25 Mitchell bomber parked on a wartime airfield at dusk, olive drab paint, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They loaded the samples into a B-25 bomber. A twin-engine plane that had served in the war. It was the last time those two men would ever fly."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They loaded the samples into a B-25 bomber. A twin-engine plane that had served in the war. It was the last time those two men would ever fly.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a Boeing B-25 Mitchell bomber flying at night with smoke trailing from its left engine, dark forested hills below, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "File four. The crash. Early in the morning of the first of August, nineteen forty-seven, the B-25 was flying home to California. Near Kelso, Washington, the left engine caught fire."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "IV \u00b7 THE CRASH",
+   "Kelso, Washington",
+   "AUG 1 \u00b7 B-25 \u00b7 TWO LOST"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "File four. The crash. Early in the morning of the first of August, nineteen forty-seven, the B-25 was flying home to California. Near Kelso, Washington, the left engine caught fire.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 13.728
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of burning wreckage of a bomber scattered across a dark pine forest hillside at night, fire glow, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The fire spread. A wing came apart. The crew chief and a passenger jumped, and they landed safely. But Davidson and Brown, the officers carrying the fragments, were killed in the wreck."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The fire spread. A wing came apart. The crew chief and a passenger jumped, and they landed safely. But Davidson and Brown, the officers carrying the fragments, were killed in the wreck.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 12.24
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a sheriff and soldiers in 1940s uniforms walking through a smoking forest crash site at dawn, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Army moved fast. Investigators sealed the site. And the box of samples that had been aboard was never officially accounted for. That gap in the paperwork is where the legend was born."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Army moved fast. Investigators sealed the site. And the box of samples that had been aboard was never officially accounted for. That gap in the paperwork is where the legend was born.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a 1940s newsroom with reporters at typewriters and a ringing telephone, smoky light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came the phone calls. Reporters in Tacoma said an anonymous man rang them hours before the news was public, and named the dead officers. Some said he claimed the plane had been shot down."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came the phone calls. Reporters in Tacoma said an anonymous man rang them hours before the news was public, and named the dead officers. Some said he claimed the plane had been shot down.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.368
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a close-up of a hand holding a black rotary telephone receiver in a dark room, a thin line of light from a window, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If that is true, it is chilling. But here is the catch. That claim comes from later retellings. In nineteen forty-seven, nobody wrote down who the caller was, or how he got his information."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If that is true, it is chilling. But here is the catch. That claim comes from later retellings. In nineteen forty-seven, nobody wrote down who the caller was, or how he got his information.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a military investigation board of officers around a table with a broken engine part in front of them, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The official finding was dull and sad. An exhaust stack on the left engine had overheated and set fire to the wing, and the wing failed. B-25s of that type had a known problem with exactly that."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The official finding was dull and sad. An exhaust stack on the left engine had overheated and set fire to the wing, and the wing failed. B-25s of that type had a known problem with exactly that.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 14.568
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a close-up of a corroded aircraft engine exhaust stack with burn marks on a workshop table, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two later investigators have argued the plane was fine. Others have noted that the same flaw had grounded or damaged other B-25s. The cause was ordinary, and sadly well documented."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two later investigators have argued the plane was fine. Others have noted that the same flaw had grounded or damaged other B-25s. The cause was ordinary, and sadly well documented.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 14.016
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a military funeral for two airmen, rows of soldiers and flag-draped coffins in a quiet cemetery, grey sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Whatever happened that night, two officers died doing their job, and that should not be forgotten. It is also the only part of this story that everyone agrees on."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Whatever happened that night, two officers died doing their job, and that should not be forgotten. It is also the only part of this story that everyone agrees on.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 10.488
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dark 1940s sedan parked on a quiet street at dusk in front of a small house, long shadows, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "File five. The man in black. Dahl said that the morning after the incident, a stranger in a black suit took him to breakfast in a diner in Tacoma, and calmly told him what had happened, down to the detail."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "V \u00b7 THE MAN IN BLACK",
+   "A Stranger at Breakfast",
+   "JUN 22 \u00b7 TACOMA \u00b7 THE WARNING"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "File five. The man in black. Dahl said that the morning after the incident, a stranger in a black suit took him to breakfast in a diner in Tacoma, and calmly told him what had happened, down to the detail.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a tall silhouetted man in a black suit and hat seated across a diner booth, face in shadow, black and white feel, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The man, Dahl said, warned him not to talk. Told him bad things would happen to him and his family if he did. Then he left. It is the earliest man in black story we have."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The man, Dahl said, warned him not to talk. Told him bad things would happen to him and his family if he did. Then he left. It is the earliest man in black story we have.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 11.736
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an empty roadside diner at dawn with a coffee cup on a counter and morning sun in the window, 1940s, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Pop culture later turned the men in black into sleek agents with sunglasses and memory-wiping devices. But the first one is just a man, a suit, a breakfast, and a threat."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Pop culture later turned the men in black into sleek agents with sunglasses and memory-wiping devices. But the first one is just a man, a suit, a breakfast, and a threat.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small stack of 1950s paperback UFO books with blank covers on a wooden shelf, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And this is the problem for the evidence. We have only Dahl's word. There is no diner receipt, no witness, no description of a face. The first telling that survives came years later."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And this is the problem for the evidence. We have only Dahl's word. There is no diner receipt, no witness, no description of a face. The first telling that survives came years later.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 12.36
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a pair of FBI agents in grey 1940s suits and fedoras at a front door with a notebook, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What we do have is an FBI file. Agents interviewed Dahl and Crisman in August, after the crash, because the Army wanted to know what the two men had really said and why."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What we do have is an FBI file. Agents interviewed Dahl and Crisman in August, after the crash, because the Army wanted to know what the two men had really said and why.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 12.336
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dim interview room with a metal desk and two chairs under a bare lightbulb, papers and a cigarette ashtray, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "According to the report, Dahl and Crisman admitted the fragments were just slag. They said the story had been a hoax, that they had embellished it for Palmer, and that they gave him what he wanted."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "According to the report, Dahl and Crisman admitted the fragments were just slag. They said the story had been a hoax, that they had embellished it for Palmer, and that they gave him what he wanted.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a grey archive box of old government files on a shelf in a records room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Dahl later disputed the confession and said the FBI had it wrong. He kept to his story for the rest of his life. And that brings us to the question every cold case reaches."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Dahl later disputed the confession and said the FBI had it wrong. He kept to his story for the rest of his life. And that brings us to the question every cold case reaches.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a pair of scales on a desk holding a stone on one side and a banknote on the other, courtroom feel, dramatic light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "File six. The hoax question. Let's weigh it plainly. On one side, a story told by two salvage men. On the other, a magazine editor with a budget, and a market hungry for flying saucers."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "VI \u00b7 THE HOAX QUESTION",
+   "Who Gained, Who Lost",
+   "MOTIVE \u00b7 MONEY \u00b7 RECORD"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "File six. The hoax question. Let's weigh it plainly. On one side, a story told by two salvage men. On the other, a magazine editor with a budget, and a market hungry for flying saucers.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 13.464
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a cover of a vintage pulp science fiction magazine with a abstract rocket illustration and no title text, on a newsstand, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Ray Palmer sold stories of strange wonders. The saucer craze was the best news his readers had ever had, and a witness who had been hit by falling saucer wreckage was a perfect headline."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Ray Palmer sold stories of strange wonders. The saucer craze was the best news his readers had ever had, and a witness who had been hit by falling saucer wreckage was a perfect headline.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 12.936
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of the cabin of a tiny patrol boat showing a small neat repair mark and old weathered paint on the wooden hull, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Now the physical evidence. A military counter-intelligence agent inspected Dahl's boat. He found old, weathered paint, and no fresh damage. No dents from falling rocks. No sign of a disaster."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Now the physical evidence. A military counter-intelligence agent inspected Dahl's boat. He found old, weathered paint, and no fresh damage. No dents from falling rocks. No sign of a disaster.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 14.136
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a person kneeling to examine a small mound of earth in a backyard garden, soft morning light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then there is the dog. The story says it was killed by the debris. But nobody found a grave that anyone could verify, and nobody saw the animal alive or dead. A story with no body."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then there is the dog. The story says it was killed by the debris. But nobody found a grave that anyone could verify, and nobody saw the animal alive or dead. A story with no body.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 13.344
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an airplane view of Puget Sound with islands and forested shoreline under broken cloud, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next, the sightings. Were there other reports of ring-shaped craft that day? None in the records. In an age when thousands of people phoned police about saucers, nobody else on that bay saw anything."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next, the sightings. Were there other reports of ring-shaped craft that day? None in the records. In an age when thousands of people phoned police about saucers, nobody else on that bay saw anything.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 13.656
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a tall stack of folders on a metal desk in a government office, one labeled with a blank tab, harsh light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The Army and the FBI looked, and wrote it off. The Air Force's own Project Blue Book later listed it as a hoax. It was among the first cases in the program to be so named."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The Army and the FBI looked, and wrote it off. The Air Force's own Project Blue Book later listed it as a hoax. It was among the first cases in the program to be so named.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.264
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a smoky 1950s office where two men in suits shake hands over a desk, one holding an envelope, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But hoax does not mean nothing happened. Something did frighten Arnold and Smith. And the bomber crashed. The mistake many retellings make is to join those two facts, as if one caused the other."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But hoax does not mean nothing happened. Something did frighten Arnold and Smith. And the bomber crashed. The mistake many retellings make is to join those two facts, as if one caused the other.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a bridge of string linking photographs pinned to a corkboard in a dark room, detective board, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real crash. A fake sighting. The web that links them is drawn by people who wanted a story. The evidence draws no such line."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real crash. A fake sighting. The web that links them is drawn by people who wanted a story. The evidence draws no such line.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a late 1960s New Orleans street with old brick buildings and a streetcar, humid dusk light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "File seven. The legacy. Years later, Fred Crisman reappeared in the news, this time in nineteen sixty-eight, when a New Orleans prosecutor named Jim Garrison summoned a Tacoma man of that name as a witness in the Kennedy investigation."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "VII \u00b7 THE LEGACY",
+   "Ghost of the Case",
+   "1968 \u00b7 GARRISON \u00b7 MIB"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "File seven. The legacy. Years later, Fred Crisman reappeared in the news, this time in nineteen sixty-eight, when a New Orleans prosecutor named Jim Garrison summoned a Tacoma man of that name as a witness in the Kennedy investigation.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 16.368
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a corkboard conspiracy map with photographs and red string, a lamp, dim room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Was it the same Crisman? Some say yes, some say no. Either way, a legend grew: the man from the Maury Island incident, now tied to the most famous assassination of the century. That is a theory, with no proof."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Was it the same Crisman? Some say yes, some say no. Either way, a legend grew: the man from the Maury Island incident, now tied to the most famous assassination of the century. That is a theory, with no proof.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 14.904
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a row of black SUVs and men in black suits and sunglasses walking across a desert road at dusk, cinematic, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And the men in black never went away. They became movie stars, then a joke, then a brand. All of it trails back, in part, to one breakfast in Tacoma that nobody witnessed."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And the men in black never went away. They became movie stars, then a joke, then a brand. All of it trails back, in part, to one breakfast in Tacoma that nobody witnessed.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a lone researcher at a desk with old photographs and a magnifying glass, a laptop glowing, modern archive room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Modern researchers have kept digging. Some argue the Army did hide something about the crash. Others, like the investigators who combed the FBI papers, found a story that collapses under its own documents."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Modern researchers have kept digging. Some argue the Army did hide something about the crash. Others, like the investigators who combed the FBI papers, found a story that collapses under its own documents.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 14.328
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a sunrise over Maury Island coastline with a small boat on calm water, peaceful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If aliens did visit Puget Sound in nineteen forty-seven, they left behind a lot of slag, a dead plane, and not one clear photograph. No craft. No fragment that any lab ever tied to something unknown."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If aliens did visit Puget Sound in nineteen forty-seven, they left behind a lot of slag, a dead plane, and not one clear photograph. No craft. No fragment that any lab ever tied to something unknown.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 14.496
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a scientist holding a rock sample under a microscope in a bright geology laboratory, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is the test that would settle it. A single piece of the box, in a lab. The bomber crash made that impossible, and ever since, the missing samples have kept the legend alive."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is the test that would settle it. A single piece of the box, in a lab. The bomber crash made that impossible, and ever since, the missing samples have kept the legend alive.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 11.664
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an empty wooden table with a single grey rock under a spotlight in a dark room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But think about it. If the samples are gone, the case can never be proven, and it can never be disproven. That is exactly the shape of a perfect myth."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But think about it. If the samples are gone, the case can never be proven, and it can never be disproven. That is exactly the shape of a perfect myth.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark detective's office at night, a single old file folder on a desk far on the right edge lit by a warm golden lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Case review. Time to score the Maury Island incident."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Case Verdict",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Case review. Time to score the Maury Island incident.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 3.696
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark detective's office at night, a single old file folder on a desk far on the right edge lit by a warm golden lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A B-twenty-five that crashed near Kelso, killing two officers: evidence. Dahl and Crisman telling a story to Ray Palmer: evidence. A Dahl and Crisman statement to the FBI calling the debris slag: documented."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A B-twenty-five that crashed near Kelso, killing two officers: evidence. Dahl and Crisman telling a story to Ray Palmer: evidence. A Dahl and Crisman statement to the FBI calling the debris slag: documented.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 16.128
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark detective's office at night, a single old file folder on a desk far on the right edge lit by a warm golden lamp, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Six craft over the bay: no second witness. A man in black at breakfast: unverified. A cover-up of alien metal: no evidence. The truth lies in the slag, the money and the single, tragic crash."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Six craft over the bay: no second witness. A man in black at breakfast: unverified. A cover-up of alien metal: no evidence. The truth lies in the slag, the money and the single, tragic crash.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 14.184
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of Maury Island seen from the water at dusk with a thin line of fog, calm, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Verdict. Case closed, with one open door. The sighting was almost certainly a hoax, but the crash was real, and the story it started still shapes how we picture a government cover-up."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Verdict. Case closed, with one open door. The sighting was almost certainly a hoax, but the crash was real, and the story it started still shapes how we picture a government cover-up.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 12.24
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a detective closing a battered case file and switching off a desk lamp, dark office, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the end, Maury Island is not a story about aliens. It is a story about how fast a rumour can grow when the world is ready to believe it."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the end, Maury Island is not a story about aliens. It is a story about how fast a rumour can grow when the world is ready to believe it.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 9.816
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small boat's wake spreading across grey calm water at dusk, quiet mood, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two men died in nineteen forty-seven, and their names deserve better than a legend. Davidson and Brown. Remember them."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two men died in nineteen forty-seven, and their names deserve better than a legend. Davidson and Brown. Remember them.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 8.16
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old unreadable handwritten manuscript page with strange abstract plants and swirling symbols, aged vellum, no readable text, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a book nobody has ever read. Hundreds of pages, written in a script no one can decode, and every cracker who tried has failed. The Voynich manuscript."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a book nobody has ever read. Hundreds of pages, written in a script no one can decode, and every cracker who tried has failed. The Voynich manuscript.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 11.352
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dim library with an open ancient book glowing softly on a stand, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Was it a hoax, a cipher, a lost language, or something stranger? The next file is already open."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Was it a hoax, a cipher, a lost language, or something stranger? The next file is already open.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 6.672
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a battered file folder glowing faintly in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think happened over Maury Island? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think happened over Maury Island? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 7.944
+   }
+  ]
+ }
+]
