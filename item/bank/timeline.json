@@ -1,0 +1,1360 @@
+{
+ "fps": 30,
+ "total": 24953,
+ "xf": 18,
+ "titleAfter": 5,
+ "shots": [
+  {
+   "id": 1,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_01.jpg",
+   "start": 0,
+   "end": 451,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Every year, thousands of people drive to this mountain in northern California. Some come to hike. Some come to meditate. And some come because they believe a hidden city of ancient survivors lives inside it.",
+     "file": "ep/audio/s01.mp3",
+     "dur": 13.944,
+     "start": 10,
+     "end": 429
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_02.jpg",
+   "start": 433,
+   "end": 823,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "They say its people are tall, wise, and robed in white. That they escaped a continent that sank beneath the Pacific. That they have been waiting under Shasta for twelve thousand years.",
+     "file": "ep/audio/s02.mp3",
+     "dur": 11.904,
+     "start": 443,
+     "end": 801
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_03.jpg",
+   "start": 805,
+   "end": 1138,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It is a wonderful story. So tonight we will not argue with it. We will draw its map, one layer at a time, and ask who first put each line on the paper.",
+     "file": "ep/audio/s03.mp3",
+     "dur": 10.032,
+     "start": 815,
+     "end": 1116
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_04.jpg",
+   "start": 1120,
+   "end": 1451,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some layers will turn out to be real science. Some will be pure legend. And one will lead us to a teenage boy with a pencil in eighteen eighty-three.",
+     "file": "ep/audio/s04.mp3",
+     "dur": 9.96,
+     "start": 1130,
+     "end": 1429
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_05.jpg",
+   "start": 1433,
+   "end": 1878,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "This is the case of Mount Shasta and the lost land of Lemuria. Evidence on one side. Theory on the other. And a verdict at the end.",
+     "file": "ep/audio/s05.mp3",
+     "dur": 9.744,
+     "start": 1443,
+     "end": 1736
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": [
+    "I \u00b7 TERRAIN",
+    "The Mountain",
+    "VOLCANO \u00b7 GLACIERS \u00b7 ISOLATION"
+   ],
+   "img": "ep/img/shot_06.jpg",
+   "start": 1860,
+   "end": 2286,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer one. The terrain. Mount Shasta is real, and it is enormous. A volcano rising to about forty-three hundred metres, standing alone above the forests of Siskiyou County.",
+     "file": "ep/audio/s06.mp3",
+     "dur": 13.128,
+     "start": 1870,
+     "end": 2264
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_07.jpg",
+   "start": 2268,
+   "end": 2712,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It has two main cones, active glaciers, and hot springs. It has erupted many times in the last few thousand years. Geologists call it one of the most impressive volcanoes in the Cascades.",
+     "file": "ep/audio/s07.mp3",
+     "dur": 13.704,
+     "start": 2278,
+     "end": 2690
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_08.jpg",
+   "start": 2694,
+   "end": 3013,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Because it stands alone, it makes its own weather. Lens-shaped clouds often sit on the summit, and in the right light they look like something landed there.",
+     "file": "ep/audio/s08.mp3",
+     "dur": 9.552,
+     "start": 2704,
+     "end": 2991
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_09.jpg",
+   "start": 2995,
+   "end": 3367,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Long before any city legend, the mountain was sacred. The peoples of the region, including the Shasta, Modoc and Klamath, held it as a place of spirit and power.",
+     "file": "ep/audio/s09.mp3",
+     "dur": 11.328,
+     "start": 3005,
+     "end": 3345
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_10.jpg",
+   "start": 3349,
+   "end": 3759,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "One Klamath story tells of two spirit chiefs. Skell, who lived on Shasta, and Llao, who lived under what is now Crater Lake. Their war threw fire and hot rock across the land.",
+     "file": "ep/audio/s10.mp3",
+     "dur": 12.576,
+     "start": 3359,
+     "end": 3737
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_11.jpg",
+   "start": 3741,
+   "end": 4175,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Many scholars think that story remembers a real eruption, the collapse of Mount Mazama, nearly eight thousand years ago. A myth that carried a memory. That is evidence of something remarkable.",
+     "file": "ep/audio/s11.mp3",
+     "dur": 13.392,
+     "start": 3751,
+     "end": 4153
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_12.jpg",
+   "start": 4157,
+   "end": 4519,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "But notice what is missing from these stories. There is no hidden city. No white robes. No sunken continent. Those lines are not on the oldest layer of the map.",
+     "file": "ep/audio/s12.mp3",
+     "dur": 10.968,
+     "start": 4167,
+     "end": 4497
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "II \u00b7 LEMURIA",
+    "A Scientist's Guess",
+    "SCLATER \u00b7 FOSSILS \u00b7 BRIDGE"
+   ],
+   "img": "ep/img/shot_13.jpg",
+   "start": 4501,
+   "end": 4809,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer two. Lemuria. And here is the twist: it began as respectable science, and it began with a monkey-like animal. The lemur.",
+     "file": "ep/audio/s13.mp3",
+     "dur": 9.168,
+     "start": 4511,
+     "end": 4787
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_14.jpg",
+   "start": 4791,
+   "end": 5166,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "In the eighteen sixties, the British zoologist Philip Sclater noticed something odd. Lemur fossils turned up in Madagascar and in India, but nowhere in between.",
+     "file": "ep/audio/s14.mp3",
+     "dur": 11.424,
+     "start": 4801,
+     "end": 5144
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_15.jpg",
+   "start": 5148,
+   "end": 5565,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "His explanation: a lost land that once joined them, now under the Indian Ocean. He called it Lemuria. It was a fair guess for a time before anyone knew continents could move.",
+     "file": "ep/audio/s15.mp3",
+     "dur": 12.816,
+     "start": 5158,
+     "end": 5543
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "fx": "none",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_16.jpg",
+   "start": 5547,
+   "end": 5957,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Other Victorians liked the idea. Darwin's circle used land bridges to explain how animals crossed oceans. For a few decades, Lemuria sat comfortably in textbooks.",
+     "file": "ep/audio/s16.mp3",
+     "dur": 12.6,
+     "start": 5557,
+     "end": 5935
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_17.jpg",
+   "start": 5939,
+   "end": 6395,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Then plate tectonics arrived. Continents drift. India broke from Madagascar about eighty-eight million years ago and sailed north. Lemurs probably crossed from Africa on floating mats of vegetation.",
+     "file": "ep/audio/s17.mp3",
+     "dur": 14.112,
+     "start": 5949,
+     "end": 6373
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_18.jpg",
+   "start": 6377,
+   "end": 6774,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sonar mapping of the Indian Ocean floor found no sunken continent, no drowned bridge. As science, Lemuria was finished. As a name, it was just getting started.",
+     "file": "ep/audio/s18.mp3",
+     "dur": 12.144,
+     "start": 6387,
+     "end": 6752
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_19.jpg",
+   "start": 6756,
+   "end": 7058,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Because a name that sounds ancient and lost is irresistible. And in the eighteen eighties, a new movement was hunting for exactly that.",
+     "file": "ep/audio/s19.mp3",
+     "dur": 9.0,
+     "start": 6766,
+     "end": 7036
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_20.jpg",
+   "start": 7040,
+   "end": 7504,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Theosophy, the spiritual society founded by Helena Blavatsky, took the dead scientific idea and gave it a new life. Lemuria became a lost root race, and a lost homeland of spirit.",
+     "file": "ep/audio/s20.mp3",
+     "dur": 14.4,
+     "start": 7050,
+     "end": 7482
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "III \u00b7 THE BOY",
+    "Yreka, 1883",
+    "OLIVER \u00b7 PHYLOS \u00b7 THE BOOK"
+   ],
+   "img": "ep/img/shot_21.jpg",
+   "start": 7486,
+   "end": 7913,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer three. The boy. Yreka, California, eighteen eighty-three. A seventeen-year-old named Frederick Spencer Oliver was working with a surveying crew near the foot of Mount Shasta.",
+     "file": "ep/audio/s21.mp3",
+     "dur": 13.152,
+     "start": 7496,
+     "end": 7891
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_22.jpg",
+   "start": 7895,
+   "end": 8286,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "By his own account, he climbed the slopes one evening and met a robed stranger who led him through a door in the mountain. Inside, he said, lay a secret brotherhood and its sacred temple.",
+     "file": "ep/audio/s22.mp3",
+     "dur": 11.952,
+     "start": 7905,
+     "end": 8264
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_23.jpg",
+   "start": 8268,
+   "end": 8673,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "He claimed the spirit of an ancient teacher, who called himself Phylos the Thibetan, then dictated a long story through his hand. Over three years, Oliver filled hundreds of pages.",
+     "file": "ep/audio/s23.mp3",
+     "dur": 12.408,
+     "start": 8278,
+     "end": 8651
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_24.jpg",
+   "start": 8655,
+   "end": 9094,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The result was a novel-like book, A Dweller on Two Planets. It tells of a past life in Atlantis, and of survivors hiding under a western mountain. It was not finished until eighteen eighty-six.",
+     "file": "ep/audio/s24.mp3",
+     "dur": 13.536,
+     "start": 8665,
+     "end": 9072
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_25.jpg",
+   "start": 9076,
+   "end": 9402,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Oliver died young, in eighteen ninety-nine. It was his mother, Mary, who finally published the book in nineteen oh five. He never saw it in print.",
+     "file": "ep/audio/s25.mp3",
+     "dur": 9.792,
+     "start": 9086,
+     "end": 9380
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_26.jpg",
+   "start": 9384,
+   "end": 9805,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Here is what matters. In that book, Lemuria is mentioned only in passing. The big idea, a Lemurian city, is not there yet. But Shasta as a place of hidden masters is.",
+     "file": "ep/audio/s26.mp3",
+     "dur": 12.96,
+     "start": 9394,
+     "end": 9783
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_27.jpg",
+   "start": 9787,
+   "end": 10185,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Is that evidence? It is evidence of a story. A real book, a real author, a real date. It shows exactly where the Shasta secret-brotherhood legend first appears in print.",
+     "file": "ep/audio/s27.mp3",
+     "dur": 12.168,
+     "start": 9797,
+     "end": 10163
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_28.jpg",
+   "start": 10167,
+   "end": 10554,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What it is not is evidence of a city. Oliver described a dream-like vision, written by automatic writing. No survey, no artifact, no photograph. Just pages.",
+     "file": "ep/audio/s28.mp3",
+     "dur": 11.832,
+     "start": 10177,
+     "end": 10532
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "C",
+   "ch": [
+    "IV \u00b7 THE MERGE",
+    "Two Legends, One Mountain",
+    "LEWIS \u00b7 TELOS \u00b7 1931"
+   ],
+   "img": "ep/img/shot_29.jpg",
+   "start": 10536,
+   "end": 10881,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer four. The merge. By the nineteen twenties, the Shasta story and the Lemuria story were still separate. One writer was about to join them.",
+     "file": "ep/audio/s29.mp3",
+     "dur": 10.416,
+     "start": 10546,
+     "end": 10859
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "C",
+   "ch": null,
+   "img": "ep/img/shot_30.jpg",
+   "start": 10863,
+   "end": 11289,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Harvey Spencer Lewis led a mystical order in San Jose, California. In nineteen thirty-one, writing under the pen name Wishar Spenle Cerve, he published a small book on Lemuria.",
+     "file": "ep/audio/s30.mp3",
+     "dur": 13.104,
+     "start": 10873,
+     "end": 11267
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_31.jpg",
+   "start": 11271,
+   "end": 11705,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "It described a lost Pacific continent, and survivors who fled to Mount Shasta. They built a city there, he wrote, with jewelled walls and golden-lit halls. Later followers named it Telos.",
+     "file": "ep/audio/s31.mp3",
+     "dur": 13.392,
+     "start": 11281,
+     "end": 11683
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_32.jpg",
+   "start": 11687,
+   "end": 12089,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Lewis said the survivors were tall, calm and robed in white, and sometimes came out at dusk to buy supplies in nearby towns. This is where the modern legend gets its picture.",
+     "file": "ep/audio/s32.mp3",
+     "dur": 12.312,
+     "start": 11697,
+     "end": 12067
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_33.jpg",
+   "start": 12071,
+   "end": 12539,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Notice the order of events. Science invented Lemuria in the eighteen sixties. A teenager's book put hidden masters on Shasta in eighteen eighty-six. A mystic joined them in nineteen thirty-one.",
+     "file": "ep/audio/s33.mp3",
+     "dur": 14.52,
+     "start": 12081,
+     "end": 12517
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "L",
+   "ch": null,
+   "img": "ep/img/shot_34.jpg",
+   "start": 12521,
+   "end": 12872,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Soon the story spread. Shasta locals began telling visitors about lights on the mountain, strange hikers in white, and Lemurian bells heard at night.",
+     "file": "ep/audio/s34.mp3",
+     "dur": 10.608,
+     "start": 12531,
+     "end": 12850
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_35.jpg",
+   "start": 12854,
+   "end": 13239,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some of those lights are real. Lenticular clouds, headlights on distant roads, and campfires all look odd at altitude. But each is explained by something ordinary.",
+     "file": "ep/audio/s35.mp3",
+     "dur": 11.736,
+     "start": 12864,
+     "end": 13217
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_36.jpg",
+   "start": 13221,
+   "end": 13603,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Over the following decades, other authors repeated Lewis, and repeated each other. It is a closed loop. Each retelling cites an earlier retelling, and the trail ends at one pen.",
+     "file": "ep/audio/s36.mp3",
+     "dur": 11.64,
+     "start": 13231,
+     "end": 13581
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "fx": "none",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "V \u00b7 THE SEARCH",
+    "Looking Inside",
+    "GEOLOGY \u00b7 CAVES \u00b7 SURVEYS"
+   ],
+   "img": "ep/img/shot_37.jpg",
+   "start": 13585,
+   "end": 13974,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer five. The search. If a city lived inside Mount Shasta, would anyone have found it? Plenty of people have looked, and the mountain is one of the best-studied in the Cascades.",
+     "file": "ep/audio/s37.mp3",
+     "dur": 11.88,
+     "start": 13595,
+     "end": 13952
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_38.jpg",
+   "start": 13956,
+   "end": 14397,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The United States Geological Survey has mapped Shasta's rocks, vents and lava flows in detail. They describe a stratovolcano built from layers of andesite and ash. Not a hollow shell.",
+     "file": "ep/audio/s38.mp3",
+     "dur": 13.608,
+     "start": 13966,
+     "end": 14375
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_39.jpg",
+   "start": 14379,
+   "end": 14791,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There are real caves nearby. Lava tubes carved by flows, some quite long. Cavers have mapped them. They are cold, rough, and empty, with no walls, no doors and no carvings.",
+     "file": "ep/audio/s39.mp3",
+     "dur": 12.648,
+     "start": 14389,
+     "end": 14769
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_40.jpg",
+   "start": 14773,
+   "end": 15140,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Earthquake sensors, gravity surveys and heat-flow studies would reveal large hidden chambers. A city big enough to house thousands would show up. None of them show one.",
+     "file": "ep/audio/s40.mp3",
+     "dur": 11.16,
+     "start": 14783,
+     "end": 15118
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_41.jpg",
+   "start": 15122,
+   "end": 15519,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What they do show is a living volcano. The government lists Shasta as a high-threat Cascade volcano. A hidden city on an active vent would be an unusual choice of address.",
+     "file": "ep/audio/s41.mp3",
+     "dur": 12.144,
+     "start": 15132,
+     "end": 15497
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_42.jpg",
+   "start": 15501,
+   "end": 15892,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Forest rangers, climbers and loggers have worked these slopes for over a hundred and fifty years. If a robed civilisation were commuting through the woods, someone would have photographed them.",
+     "file": "ep/audio/s42.mp3",
+     "dur": 11.952,
+     "start": 15511,
+     "end": 15870
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_43.jpg",
+   "start": 15874,
+   "end": 16281,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Believers answer that the city exists in another dimension, hidden from ordinary sight. That claim is impossible to test. And a claim that cannot be tested cannot be evidence.",
+     "file": "ep/audio/s43.mp3",
+     "dur": 12.48,
+     "start": 15884,
+     "end": 16259
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_44.jpg",
+   "start": 16263,
+   "end": 16583,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the fair line for a detective. We cannot disprove a hidden dimension. We can only say no measurement has ever found a trace of one.",
+     "file": "ep/audio/s44.mp3",
+     "dur": 9.576,
+     "start": 16273,
+     "end": 16561
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "M",
+   "ch": [
+    "VI \u00b7 THE PILGRIMS",
+    "The Living Legend",
+    "CONVERGENCE \u00b7 TELOS \u00b7 TOWN"
+   ],
+   "img": "ep/img/shot_45.jpg",
+   "start": 16565,
+   "end": 17017,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer six. The pilgrims. Whatever the truth, the legend became real in one sense. In the nineteen eighties, thousands came to Shasta for the Harmonic Convergence, a world-wide spiritual event.",
+     "file": "ep/audio/s45.mp3",
+     "dur": 13.968,
+     "start": 16575,
+     "end": 16995
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "M",
+   "ch": null,
+   "img": "ep/img/shot_46.jpg",
+   "start": 16999,
+   "end": 17396,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "The nearby town of Mount Shasta now has crystal shops, retreat centres and guided hikes. For many people, the mountain is a sacred place regardless of what is inside.",
+     "file": "ep/audio/s46.mp3",
+     "dur": 12.144,
+     "start": 17009,
+     "end": 17374
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_47.jpg",
+   "start": 17378,
+   "end": 17765,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Some visitors say they feel calm, energised or visited. Those feelings are real, and altitude, silence and beauty are powerful. Science does not claim they are fake.",
+     "file": "ep/audio/s47.mp3",
+     "dur": 11.832,
+     "start": 17388,
+     "end": 17743
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "fx": "none",
+   "motion": "in",
+   "tag": "T",
+   "ch": null,
+   "img": "ep/img/shot_48.jpg",
+   "start": 17747,
+   "end": 18142,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Since the nineteen nineties, a few speakers have claimed to be in contact with Telos and its leader, called Adama. Their messages repeat Lewis's images almost exactly.",
+     "file": "ep/audio/s48.mp3",
+     "dur": 12.072,
+     "start": 17757,
+     "end": 18120
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_49.jpg",
+   "start": 18124,
+   "end": 18534,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Stories of white-robed strangers are the oldest of the lot. But a robe, a beard and a walking stick describe a hundred hikers. Not one has ever been identified as Lemurian.",
+     "file": "ep/audio/s49.mp3",
+     "dur": 12.576,
+     "start": 18134,
+     "end": 18512
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "fx": "none",
+   "motion": "in",
+   "tag": "U",
+   "ch": null,
+   "img": "ep/img/shot_50.jpg",
+   "start": 18516,
+   "end": 18878,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Even the claim of Lemurians buying groceries has no named store, no receipt, and no photograph. It spreads as a story told about someone, never by someone.",
+     "file": "ep/audio/s50.mp3",
+     "dur": 10.992,
+     "start": 18526,
+     "end": 18856
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_51.jpg",
+   "start": 18860,
+   "end": 19199,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "There is nothing wrong with loving a story. The problem comes only when a story is presented as history. And that is where a detective has to hold the line.",
+     "file": "ep/audio/s51.mp3",
+     "dur": 10.224,
+     "start": 18870,
+     "end": 19177
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "fx": "none",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_52.jpg",
+   "start": 19181,
+   "end": 19470,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So let us put the last layer of the map in place. The one that decides whether Lemuria, as a place, ever existed at all.",
+     "file": "ep/audio/s52.mp3",
+     "dur": 8.544,
+     "start": 19191,
+     "end": 19448
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "fx": "sand",
+   "motion": "in",
+   "tag": "X",
+   "ch": [
+    "VII \u00b7 THE OCEAN",
+    "The Sunken Land",
+    "CRUST \u00b7 DENSITY \u00b7 TIME"
+   ],
+   "img": "ep/img/shot_53.jpg",
+   "start": 19452,
+   "end": 19847,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Layer seven. The ocean. Could a continent big enough for a civilisation have sunk in the Pacific within the span of human history? Geologists say no, for one simple reason.",
+     "file": "ep/audio/s53.mp3",
+     "dur": 12.096,
+     "start": 19462,
+     "end": 19825
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "fx": "none",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_54.jpg",
+   "start": 19829,
+   "end": 20235,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Continents are made of light granite and sit high. Ocean floor is dense basalt and sits low. A continent cannot simply sink into the sea. It would have to turn into something else.",
+     "file": "ep/audio/s54.mp3",
+     "dur": 12.456,
+     "start": 19839,
+     "end": 20213
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "E",
+   "ch": null,
+   "img": "ep/img/shot_55.jpg",
+   "start": 20217,
+   "end": 20700,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Sunken land does exist, but on small scales. Volcanic islands subside, and ice-age coastlines flooded about twelve thousand years ago. Those events were real, but they were slow, local and recorded in rock.",
+     "file": "ep/audio/s55.mp3",
+     "dur": 15.024,
+     "start": 20227,
+     "end": 20678
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "fx": "none",
+   "motion": "in",
+   "tag": "D",
+   "ch": null,
+   "img": "ep/img/shot_56.jpg",
+   "start": 20682,
+   "end": 21061,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "No drowned continent in the Pacific. Seafloor dating shows the ocean crust is far younger than any human culture. Nothing that large vanished while people watched.",
+     "file": "ep/audio/s56.mp3",
+     "dur": 11.544,
+     "start": 20692,
+     "end": 21039
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_57.jpg",
+   "start": 21043,
+   "end": 21494,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "So the geological Lemuria is debunked. The city beneath Shasta is untested. And the white-robed visitors are unverified. But one thing is solid: the story has a traceable author.",
+     "file": "ep/audio/s57.mp3",
+     "dur": 13.944,
+     "start": 21053,
+     "end": 21472
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_58.jpg",
+   "start": 21476,
+   "end": 21870,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "That is the deepest finding of this case. Not a lost civilisation, but a paper trail. A zoologist, a teenage writer and a mystic. Three people, three books, one mountain.",
+     "file": "ep/audio/s58.mp3",
+     "dur": 12.048,
+     "start": 21486,
+     "end": 21848
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "fx": "none",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_59.jpg",
+   "start": 21852,
+   "end": 22050,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Time to read the scorecard. We will score each layer of the map, one claim at a time.",
+     "file": "ep/audio/s59.mp3",
+     "dur": 5.52,
+     "start": 21862,
+     "end": 22028
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": [
+    "DEBRIEF",
+    "The Scorecard",
+    "EVIDENCE VS THEORY"
+   ],
+   "img": "ep/img/shot_60.jpg",
+   "start": 22032,
+   "end": 22201,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Debrief. Time to score the legend of Mount Shasta and Lemuria.",
+     "file": "ep/audio/s60.mp3",
+     "dur": 4.56,
+     "start": 22042,
+     "end": 22179
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_61.jpg",
+   "start": 22183,
+   "end": 22808,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A real, towering, active volcano: evidence. A sacred mountain to its first peoples, and a myth that remembers an eruption: evidence. Sclater's Lemuria as a scientific guess: true, and since replaced. Oliver's book as the first Shasta secret-brotherhood story: evidence.",
+     "file": "ep/audio/s61.mp3",
+     "dur": 19.752,
+     "start": 22193,
+     "end": 22786
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "fx": "score",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_62.jpg",
+   "start": 22790,
+   "end": 23355,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "A sunken Pacific continent: debunked. A Lemurian city inside Shasta: no trace in any survey. White-robed survivors, jewelled halls and Telos: unverified, and traced to nineteen thirty-one. The truth about Shasta is more human than the myth.",
+     "file": "ep/audio/s62.mp3",
+     "dur": 17.736,
+     "start": 22800,
+     "end": 23333
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "fx": "glow",
+   "motion": "in",
+   "tag": "V",
+   "ch": null,
+   "img": "ep/img/shot_63.jpg",
+   "start": 23337,
+   "end": 23803,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Verdict. Mounted on a real volcano, built on a real guess, and told through a real book. The lost city of Lemuria is a legend, not a place. But the way it was built is a fascinating human story.",
+     "file": "ep/audio/s63.mp3",
+     "dur": 14.448,
+     "start": 23347,
+     "end": 23781
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "fx": "dust",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_64.jpg",
+   "start": 23785,
+   "end": 24193,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Maybe that is the real power of Shasta. It is a mountain so big that people have always needed to put something inside it. Stories, mostly. And a few pencil lines on a map.",
+     "file": "ep/audio/s64.mp3",
+     "dur": 12.528,
+     "start": 23795,
+     "end": 24171
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "fx": "stars",
+   "motion": "in",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_65.jpg",
+   "start": 24175,
+   "end": 24540,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "Next case: a stone city in Africa, built with no mortar, and a long argument about who built it. Why did colonial explorers refuse to believe Africans did it?",
+     "file": "ep/audio/s65.mp3",
+     "dur": 11.088,
+     "start": 24185,
+     "end": 24518
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "fx": "none",
+   "motion": "out",
+   "tag": "",
+   "ch": null,
+   "img": "ep/img/shot_66.jpg",
+   "start": 24522,
+   "end": 24878,
+   "lines": [
+    {
+     "who": "narrator",
+     "text": "What do you think? Is Lemuria a legend, or a clue to something we are missing? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+     "file": "ep/audio/s66.mp3",
+     "dur": 10.776,
+     "start": 24532,
+     "end": 24856
+    }
+   ]
+  }
+ ]
+}

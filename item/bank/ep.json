@@ -1,0 +1,1428 @@
+[
+ {
+  "id": 1,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of Mount Shasta, a huge snow-covered volcano glowing pink at sunrise above pine forest, northern California, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Every year, thousands of people drive to this mountain in northern California. Some come to hike. Some come to meditate. And some come because they believe a hidden city of ancient survivors lives inside it."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Every year, thousands of people drive to this mountain in northern California. Some come to hike. Some come to meditate. And some come because they believe a hidden city of ancient survivors lives inside it.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.944
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a lone figure in a white robe standing on a mountain ridge at night under a vast starry sky, seen from behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They say its people are tall, wise, and robed in white. That they escaped a continent that sank beneath the Pacific. That they have been waiting under Shasta for twelve thousand years."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They say its people are tall, wise, and robed in white. That they escaped a continent that sank beneath the Pacific. That they have been waiting under Shasta for twelve thousand years.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 11.904
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "A vintage cartographer's desk with a blank parchment map, brass compass and a pencil under a warm lamp, shallow depth of field, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It is a wonderful story. So tonight we will not argue with it. We will draw its map, one layer at a time, and ask who first put each line on the paper."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It is a wonderful story. So tonight we will not argue with it. We will draw its map, one layer at a time, and ask who first put each line on the paper.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old antique world map pinned on a wall with a missing region left blank, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some layers will turn out to be real science. Some will be pure legend. And one will lead us to a teenage boy with a pencil in eighteen eighty-three."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some layers will turn out to be real science. Some will be pure legend. And one will lead us to a teenage boy with a pencil in eighteen eighty-three.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of Mount Shasta towering over a quiet lake at dawn, mist on the water, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is the case of Mount Shasta and the lost land of Lemuria. Evidence on one side. Theory on the other. And a verdict at the end."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is the case of Mount Shasta and the lost land of Lemuria. Evidence on one side. Theory on the other. And a verdict at the end.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 9.744
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of aerial view of Mount Shasta, a 4,300 metre stratovolcano with two cones and glaciers, northern California, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer one. The terrain. Mount Shasta is real, and it is enormous. A volcano rising to about forty-three hundred metres, standing alone above the forests of Siskiyou County."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 TERRAIN",
+   "The Mountain",
+   "VOLCANO \u00b7 GLACIERS \u00b7 ISOLATION"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer one. The terrain. Mount Shasta is real, and it is enormous. A volcano rising to about forty-three hundred metres, standing alone above the forests of Siskiyou County.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 13.128
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a close view of glaciers and rocky lava ridges on the upper slopes of Mount Shasta, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It has two main cones, active glaciers, and hot springs. It has erupted many times in the last few thousand years. Geologists call it one of the most impressive volcanoes in the Cascades."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It has two main cones, active glaciers, and hot springs. It has erupted many times in the last few thousand years. Geologists call it one of the most impressive volcanoes in the Cascades.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 13.704
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a dramatic cloud shaped like a lens hovering over a snowy mountain peak at sunset, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Because it stands alone, it makes its own weather. Lens-shaped clouds often sit on the summit, and in the right light they look like something landed there."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Because it stands alone, it makes its own weather. Lens-shaped clouds often sit on the summit, and in the right light they look like something landed there.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 9.552
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a Native American cedar bark lodge among tall pine trees in a misty northern California forest, historical reenactment look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Long before any city legend, the mountain was sacred. The peoples of the region, including the Shasta, Modoc and Klamath, held it as a place of spirit and power."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Long before any city legend, the mountain was sacred. The peoples of the region, including the Shasta, Modoc and Klamath, held it as a place of spirit and power.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 11.328
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of two volcanic peaks at dusk with a great crater lake below, fiery orange sky, Oregon, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One Klamath story tells of two spirit chiefs. Skell, who lived on Shasta, and Llao, who lived under what is now Crater Lake. Their war threw fire and hot rock across the land."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One Klamath story tells of two spirit chiefs. Skell, who lived on Shasta, and Llao, who lived under what is now Crater Lake. Their war threw fire and hot rock across the land.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a volcanic eruption glowing at night with lava fountains and ash plumes, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Many scholars think that story remembers a real eruption, the collapse of Mount Mazama, nearly eight thousand years ago. A myth that carried a memory. That is evidence of something remarkable."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Many scholars think that story remembers a real eruption, the collapse of Mount Mazama, nearly eight thousand years ago. A myth that carried a memory. That is evidence of something remarkable.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a weathered stone cairn on a mountain ridge with a view of a distant volcano, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But notice what is missing from these stories. There is no hidden city. No white robes. No sunken continent. Those lines are not on the oldest layer of the map."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But notice what is missing from these stories. There is no hidden city. No white robes. No sunken continent. Those lines are not on the oldest layer of the map.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 10.968
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a ring-tailed lemur sitting on a rock in Madagascar, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer two. Lemuria. And here is the twist: it began as respectable science, and it began with a monkey-like animal. The lemur."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "II \u00b7 LEMURIA",
+   "A Scientist's Guess",
+   "SCLATER \u00b7 FOSSILS \u00b7 BRIDGE"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer two. Lemuria. And here is the twist: it began as respectable science, and it began with a monkey-like animal. The lemur.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a Victorian zoologist's study with fossil bones, brass instruments and a pen on a desk, warm lamp, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the eighteen sixties, the British zoologist Philip Sclater noticed something odd. Lemur fossils turned up in Madagascar and in India, but nowhere in between."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the eighteen sixties, the British zoologist Philip Sclater noticed something odd. Lemur fossils turned up in Madagascar and in India, but nowhere in between.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 11.424
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an antique Victorian map of the Indian Ocean with a faint sketched land bridge, photoreal, map without any writing, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "His explanation: a lost land that once joined them, now under the Indian Ocean. He called it Lemuria. It was a fair guess for a time before anyone knew continents could move."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "His explanation: a lost land that once joined them, now under the Indian Ocean. He called it Lemuria. It was a fair guess for a time before anyone knew continents could move.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 12.816
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a geologist in the field holding a rock sample beside a coastal cliff, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Other Victorians liked the idea. Darwin's circle used land bridges to explain how animals crossed oceans. For a few decades, Lemuria sat comfortably in textbooks."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Other Victorians liked the idea. Darwin's circle used land bridges to explain how animals crossed oceans. For a few decades, Lemuria sat comfortably in textbooks.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 12.6
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an ocean ridge seen from a research ship at sunset, deep blue sea, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then plate tectonics arrived. Continents drift. India broke from Madagascar about eighty-eight million years ago and sailed north. Lemurs probably crossed from Africa on floating mats of vegetation."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then plate tectonics arrived. Continents drift. India broke from Madagascar about eighty-eight million years ago and sailed north. Lemurs probably crossed from Africa on floating mats of vegetation.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 14.112
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a sea floor map shown on a dark research monitor with colourful depth contours, no text, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Sonar mapping of the Indian Ocean floor found no sunken continent, no drowned bridge. As science, Lemuria was finished. As a name, it was just getting started."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Sonar mapping of the Indian Ocean floor found no sunken continent, no drowned bridge. As science, Lemuria was finished. As a name, it was just getting started.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a Victorian lecture hall at night with a lantern projecting a glowing map on a wall, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Because a name that sounds ancient and lost is irresistible. And in the eighteen eighties, a new movement was hunting for exactly that."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Because a name that sounds ancient and lost is irresistible. And in the eighteen eighties, a new movement was hunting for exactly that.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 9.0
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a candlelit Victorian parlour with a round table and mysterious shadows, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Theosophy, the spiritual society founded by Helena Blavatsky, took the dead scientific idea and gave it a new life. Lemuria became a lost root race, and a lost homeland of spirit."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Theosophy, the spiritual society founded by Helena Blavatsky, took the dead scientific idea and gave it a new life. Lemuria became a lost root race, and a lost homeland of spirit.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 14.4
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small town of wooden houses in northern California in the 1880s, dusty street, film photo look, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer three. The boy. Yreka, California, eighteen eighty-three. A seventeen-year-old named Frederick Spencer Oliver was working with a surveying crew near the foot of Mount Shasta."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "III \u00b7 THE BOY",
+   "Yreka, 1883",
+   "OLIVER \u00b7 PHYLOS \u00b7 THE BOOK"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer three. The boy. Yreka, California, eighteen eighty-three. A seventeen-year-old named Frederick Spencer Oliver was working with a surveying crew near the foot of Mount Shasta.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 13.152
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a teenage boy in 1880s clothes with a surveyor's tripod standing at the base of a huge mountain, seen from behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By his own account, he climbed the slopes one evening and met a robed stranger who led him through a door in the mountain. Inside, he said, lay a secret brotherhood and its sacred temple."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By his own account, he climbed the slopes one evening and met a robed stranger who led him through a door in the mountain. Inside, he said, lay a secret brotherhood and its sacred temple.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an antique wooden writing desk with a quill pen and scattered handwritten pages blurred into abstract grey lines, candlelight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "He claimed the spirit of an ancient teacher, who called himself Phylos the Thibetan, then dictated a long story through his hand. Over three years, Oliver filled hundreds of pages."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "He claimed the spirit of an ancient teacher, who called himself Phylos the Thibetan, then dictated a long story through his hand. Over three years, Oliver filled hundreds of pages.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 12.408
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a leather bound antique book with a plain cover lying open on a wooden table, soft window light, blank pages, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The result was a novel-like book, A Dweller on Two Planets. It tells of a past life in Atlantis, and of survivors hiding under a western mountain. It was not finished until eighteen eighty-six."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The result was a novel-like book, A Dweller on Two Planets. It tells of a past life in Atlantis, and of survivors hiding under a western mountain. It was not finished until eighteen eighty-six.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 13.536
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an elderly woman in 1900s clothes holding a manuscript at a wooden table in a plain room, film photo look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Oliver died young, in eighteen ninety-nine. It was his mother, Mary, who finally published the book in nineteen oh five. He never saw it in print."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Oliver died young, in eighteen ninety-nine. It was his mother, Mary, who finally published the book in nineteen oh five. He never saw it in print.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 9.792
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a stack of old books in a library with warm dust in the light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Here is what matters. In that book, Lemuria is mentioned only in passing. The big idea, a Lemurian city, is not there yet. But Shasta as a place of hidden masters is."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Here is what matters. In that book, Lemuria is mentioned only in passing. The big idea, a Lemurian city, is not there yet. But Shasta as a place of hidden masters is.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 12.96
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a lone camper's fire at the foot of a snow covered mountain at night, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Is that evidence? It is evidence of a story. A real book, a real author, a real date. It shows exactly where the Shasta secret-brotherhood legend first appears in print."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Is that evidence? It is evidence of a story. A real book, a real author, a real date. It shows exactly where the Shasta secret-brotherhood legend first appears in print.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 12.168
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a surveyor's measuring chain lying on grass with a mountain behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What it is not is evidence of a city. Oliver described a dream-like vision, written by automatic writing. No survey, no artifact, no photograph. Just pages."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What it is not is evidence of a city. Oliver described a dream-like vision, written by automatic writing. No survey, no artifact, no photograph. Just pages.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a 1920s American office with typewriter, filing cabinets and a man in a suit at a desk, film photo look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer four. The merge. By the nineteen twenties, the Shasta story and the Lemuria story were still separate. One writer was about to join them."
+   ]
+  ],
+  "tag": "C",
+  "ch": [
+   "IV \u00b7 THE MERGE",
+   "Two Legends, One Mountain",
+   "LEWIS \u00b7 TELOS \u00b7 1931"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer four. The merge. By the nineteen twenties, the Shasta story and the Lemuria story were still separate. One writer was about to join them.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a Spanish-style mission building and palm trees in San Jose California, 1930s film look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Harvey Spencer Lewis led a mystical order in San Jose, California. In nineteen thirty-one, writing under the pen name Wishar Spenle Cerve, he published a small book on Lemuria."
+   ]
+  ],
+  "tag": "C",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Harvey Spencer Lewis led a mystical order in San Jose, California. In nineteen thirty-one, writing under the pen name Wishar Spenle Cerve, he published a small book on Lemuria.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 13.104
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a conceptual painting of an ancient glowing crystal city with white towers inside a mountain cavern, cinematic, painterly, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It described a lost Pacific continent, and survivors who fled to Mount Shasta. They built a city there, he wrote, with jewelled walls and golden-lit halls. Later followers named it Telos."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It described a lost Pacific continent, and survivors who fled to Mount Shasta. They built a city there, he wrote, with jewelled walls and golden-lit halls. Later followers named it Telos.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of tall figures in white robes walking in a circle at night near a mountain with a lantern, long exposure, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Lewis said the survivors were tall, calm and robed in white, and sometimes came out at dusk to buy supplies in nearby towns. This is where the modern legend gets its picture."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Lewis said the survivors were tall, calm and robed in white, and sometimes came out at dusk to buy supplies in nearby towns. This is where the modern legend gets its picture.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 12.312
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a newspaper archive drawer filled with folded yellow papers, shallow depth of field, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Notice the order of events. Science invented Lemuria in the eighteen sixties. A teenager's book put hidden masters on Shasta in eighteen eighty-six. A mystic joined them in nineteen thirty-one."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Notice the order of events. Science invented Lemuria in the eighteen sixties. A teenager's book put hidden masters on Shasta in eighteen eighty-six. A mystic joined them in nineteen thirty-one.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 14.52
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a roadside American diner and gas station in the 1930s near a mountain town, film photo look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Soon the story spread. Shasta locals began telling visitors about lights on the mountain, strange hikers in white, and Lemurian bells heard at night."
+   ]
+  ],
+  "tag": "L",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Soon the story spread. Shasta locals began telling visitors about lights on the mountain, strange hikers in white, and Lemurian bells heard at night.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 10.608
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a mysterious beam of light shining through trees at dusk on a mountain trail, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some of those lights are real. Lenticular clouds, headlights on distant roads, and campfires all look odd at altitude. But each is explained by something ordinary."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some of those lights are real. Lenticular clouds, headlights on distant roads, and campfires all look odd at altitude. But each is explained by something ordinary.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 11.736
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a stack of paperback occult books on a shelf in a dim shop, photoreal, blurred spines without lettering, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Over the following decades, other authors repeated Lewis, and repeated each other. It is a closed loop. Each retelling cites an earlier retelling, and the trail ends at one pen."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Over the following decades, other authors repeated Lewis, and repeated each other. It is a closed loop. Each retelling cites an earlier retelling, and the trail ends at one pen.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 11.64
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a team of hikers and a park ranger on a mountain trail with backpacks, bright day, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer five. The search. If a city lived inside Mount Shasta, would anyone have found it? Plenty of people have looked, and the mountain is one of the best-studied in the Cascades."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "V \u00b7 THE SEARCH",
+   "Looking Inside",
+   "GEOLOGY \u00b7 CAVES \u00b7 SURVEYS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer five. The search. If a city lived inside Mount Shasta, would anyone have found it? Plenty of people have looked, and the mountain is one of the best-studied in the Cascades.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 11.88
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a geologist with a hammer and clipboard on volcanic rock slopes of a big mountain, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The United States Geological Survey has mapped Shasta's rocks, vents and lava flows in detail. They describe a stratovolcano built from layers of andesite and ash. Not a hollow shell."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The United States Geological Survey has mapped Shasta's rocks, vents and lava flows in detail. They describe a stratovolcano built from layers of andesite and ash. Not a hollow shell.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 13.608
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of the narrow dark entrance of a lava tube cave with a headlamp beam inside, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There are real caves nearby. Lava tubes carved by flows, some quite long. Cavers have mapped them. They are cold, rough, and empty, with no walls, no doors and no carvings."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There are real caves nearby. Lava tubes carved by flows, some quite long. Cavers have mapped them. They are cold, rough, and empty, with no walls, no doors and no carvings.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 12.648
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a seismologist's monitor showing wavy lines on dark background, no numbers, in a quiet lab, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Earthquake sensors, gravity surveys and heat-flow studies would reveal large hidden chambers. A city big enough to house thousands would show up. None of them show one."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Earthquake sensors, gravity surveys and heat-flow studies would reveal large hidden chambers. A city big enough to house thousands would show up. None of them show one.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 11.16
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a spectacular frozen waterfall on a mountainside in winter at golden hour, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What they do show is a living volcano. The government lists Shasta as a high-threat Cascade volcano. A hidden city on an active vent would be an unusual choice of address."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What they do show is a living volcano. The government lists Shasta as a high-threat Cascade volcano. A hidden city on an active vent would be an unusual choice of address.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old forest service wooden lookout cabin on a ridge, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Forest rangers, climbers and loggers have worked these slopes for over a hundred and fifty years. If a robed civilisation were commuting through the woods, someone would have photographed them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Forest rangers, climbers and loggers have worked these slopes for over a hundred and fifty years. If a robed civilisation were commuting through the woods, someone would have photographed them.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 11.952
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a thick dark pine forest at night with fog between the trunks and one tiny glowing window, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Believers answer that the city exists in another dimension, hidden from ordinary sight. That claim is impossible to test. And a claim that cannot be tested cannot be evidence."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Believers answer that the city exists in another dimension, hidden from ordinary sight. That claim is impossible to test. And a claim that cannot be tested cannot be evidence.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 12.48
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a surveyor with a theodolite measuring the land with a snowy mountain behind, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the fair line for a detective. We cannot disprove a hidden dimension. We can only say no measurement has ever found a trace of one."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the fair line for a detective. We cannot disprove a hidden dimension. We can only say no measurement has ever found a trace of one.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 9.576
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a crowd of people sitting on grass in a circle at sunrise in a mountain meadow, seen from far away, peaceful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer six. The pilgrims. Whatever the truth, the legend became real in one sense. In the nineteen eighties, thousands came to Shasta for the Harmonic Convergence, a world-wide spiritual event."
+   ]
+  ],
+  "tag": "M",
+  "ch": [
+   "VI \u00b7 THE PILGRIMS",
+   "The Living Legend",
+   "CONVERGENCE \u00b7 TELOS \u00b7 TOWN"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer six. The pilgrims. Whatever the truth, the legend became real in one sense. In the nineteen eighties, thousands came to Shasta for the Harmonic Convergence, a world-wide spiritual event.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 13.968
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small mountain town main street with a crystal and gift shop, colourful awnings, photoreal, no signs, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The nearby town of Mount Shasta now has crystal shops, retreat centres and guided hikes. For many people, the mountain is a sacred place regardless of what is inside."
+   ]
+  ],
+  "tag": "M",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The nearby town of Mount Shasta now has crystal shops, retreat centres and guided hikes. For many people, the mountain is a sacred place regardless of what is inside.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 12.144
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a woman meditating on a flat rock beside a mountain stream, soft light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some visitors say they feel calm, energised or visited. Those feelings are real, and altitude, silence and beauty are powerful. Science does not claim they are fake."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some visitors say they feel calm, energised or visited. Those feelings are real, and altitude, silence and beauty are powerful. Science does not claim they are fake.",
+    "file": "ep/audio/s47.mp3",
+    "dur": 11.832
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a lecture stage with a spotlight on a podium and an audience in silhouette, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Since the nineteen nineties, a few speakers have claimed to be in contact with Telos and its leader, called Adama. Their messages repeat Lewis's images almost exactly."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Since the nineteen nineties, a few speakers have claimed to be in contact with Telos and its leader, called Adama. Their messages repeat Lewis's images almost exactly.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 12.072
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a person in a white robe walking along a quiet road at night with a flashlight, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stories of white-robed strangers are the oldest of the lot. But a robe, a beard and a walking stick describe a hundred hikers. Not one has ever been identified as Lemurian."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stories of white-robed strangers are the oldest of the lot. But a robe, a beard and a walking stick describe a hundred hikers. Not one has ever been identified as Lemurian.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 12.576
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of an old rusty car from the 1950s on a lonely forest road at dusk, film photo look, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Even the claim of Lemurians buying groceries has no named store, no receipt, and no photograph. It spreads as a story told about someone, never by someone."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Even the claim of Lemurians buying groceries has no named store, no receipt, and no photograph. It spreads as a story told about someone, never by someone.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 10.992
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a beautiful alpine meadow with wildflowers and a huge volcano behind under a cloudy sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There is nothing wrong with loving a story. The problem comes only when a story is presented as history. And that is where a detective has to hold the line."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There is nothing wrong with loving a story. The problem comes only when a story is presented as history. And that is where a detective has to hold the line.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 10.224
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a detective's magnifying glass resting on a blank map of a mountain, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So let us put the last layer of the map in place. The one that decides whether Lemuria, as a place, ever existed at all."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So let us put the last layer of the map in place. The one that decides whether Lemuria, as a place, ever existed at all.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 8.544
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of the deep Pacific Ocean at sunrise with a tiny research ship on the horizon, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Layer seven. The ocean. Could a continent big enough for a civilisation have sunk in the Pacific within the span of human history? Geologists say no, for one simple reason."
+   ]
+  ],
+  "tag": "X",
+  "ch": [
+   "VII \u00b7 THE OCEAN",
+   "The Sunken Land",
+   "CRUST \u00b7 DENSITY \u00b7 TIME"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Layer seven. The ocean. Could a continent big enough for a civilisation have sunk in the Pacific within the span of human history? Geologists say no, for one simple reason.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 12.096
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a cross-section style layered rock cliff on a coastline, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Continents are made of light granite and sit high. Ocean floor is dense basalt and sits low. A continent cannot simply sink into the sea. It would have to turn into something else."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Continents are made of light granite and sit high. Ocean floor is dense basalt and sits low. A continent cannot simply sink into the sea. It would have to turn into something else.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 12.456
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a rocky volcanic island rising from a calm blue sea, Hawaii-like, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Sunken land does exist, but on small scales. Volcanic islands subside, and ice-age coastlines flooded about twelve thousand years ago. Those events were real, but they were slow, local and recorded in rock."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Sunken land does exist, but on small scales. Volcanic islands subside, and ice-age coastlines flooded about twelve thousand years ago. Those events were real, but they were slow, local and recorded in rock.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 15.024
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a cargo ship drifting on a calm ocean with a pale sky, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "No drowned continent in the Pacific. Seafloor dating shows the ocean crust is far younger than any human culture. Nothing that large vanished while people watched."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "No drowned continent in the Pacific. Seafloor dating shows the ocean crust is far younger than any human culture. Nothing that large vanished while people watched.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 11.544
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a scientist looking at a glowing globe in a dark office, photoreal, globe without any labels, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So the geological Lemuria is debunked. The city beneath Shasta is untested. And the white-robed visitors are unverified. But one thing is solid: the story has a traceable author."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So the geological Lemuria is debunked. The city beneath Shasta is untested. And the white-robed visitors are unverified. But one thing is solid: the story has a traceable author.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 13.944
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a hand turning the pages of an old open journal in a quiet library, warm light, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "That is the deepest finding of this case. Not a lost civilisation, but a paper trail. A zoologist, a teenage writer and a mystic. Three people, three books, one mountain."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "That is the deepest finding of this case. Not a lost civilisation, but a paper trail. A zoologist, a teenage writer and a mystic. Three people, three books, one mountain.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 12.048
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a small wooden table with a lit candle, an old compass and a rolled map, dark room, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Time to read the scorecard. We will score each layer of the map, one claim at a time."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Time to read the scorecard. We will score each layer of the map, one claim at a time.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 5.52
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark surveyor's desk at night, a snow-capped volcano model lit by a warm lamp on the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the legend of Mount Shasta and Lemuria."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the legend of Mount Shasta and Lemuria.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 4.56
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark surveyor's desk at night, a snow-capped volcano model lit by a warm lamp on the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A real, towering, active volcano: evidence. A sacred mountain to its first peoples, and a myth that remembers an eruption: evidence. Sclater's Lemuria as a scientific guess: true, and since replaced. Oliver's book as the first Shasta secret-brotherhood story: evidence."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A real, towering, active volcano: evidence. A sacred mountain to its first peoples, and a myth that remembers an eruption: evidence. Sclater's Lemuria as a scientific guess: true, and since replaced. Oliver's book as the first Shasta secret-brotherhood story: evidence.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 19.752
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark surveyor's desk at night, a snow-capped volcano model lit by a warm lamp on the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A sunken Pacific continent: debunked. A Lemurian city inside Shasta: no trace in any survey. White-robed survivors, jewelled halls and Telos: unverified, and traced to nineteen thirty-one. The truth about Shasta is more human than the myth."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A sunken Pacific continent: debunked. A Lemurian city inside Shasta: no trace in any survey. White-robed survivors, jewelled halls and Telos: unverified, and traced to nineteen thirty-one. The truth about Shasta is more human than the myth.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 17.736
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of Mount Shasta at golden dusk with a single faint light in a forest below, peaceful, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Verdict. Mounted on a real volcano, built on a real guess, and told through a real book. The lost city of Lemuria is a legend, not a place. But the way it was built is a fascinating human story."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Verdict. Mounted on a real volcano, built on a real guess, and told through a real book. The lost city of Lemuria is a legend, not a place. But the way it was built is a fascinating human story.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 14.448
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of a camper writing in a notebook beside a campfire in front of a snow-covered mountain at dusk, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Maybe that is the real power of Shasta. It is a mountain so big that people have always needed to put something inside it. Stories, mostly. And a few pencil lines on a map."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Maybe that is the real power of Shasta. It is a mountain so big that people have always needed to put something inside it. Stories, mostly. And a few pencil lines on a map.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 12.528
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 photograph of huge ancient stone walls of a ruined city in Africa at dusk, granite towers and a curved enclosure, no people, photoreal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: a stone city in Africa, built with no mortar, and a long argument about who built it. Why did colonial explorers refuse to believe Africans did it?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: a stone city in Africa, built with no mortar, and a long argument about who built it. Why did colonial explorers refuse to believe Africans did it?",
+    "file": "ep/audio/s65.mp3",
+    "dur": 11.088
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a small glowing snow-covered volcano in the centre against black, minimal, no text, no letters, no numbers, no writing, no labels, no signage, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "What do you think? Is Lemuria a legend, or a clue to something we are missing? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "What do you think? Is Lemuria a legend, or a clue to something we are missing? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s66.mp3",
+    "dur": 10.776
+   }
+  ]
+ }
+]
