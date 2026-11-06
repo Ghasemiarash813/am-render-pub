@@ -1,0 +1,843 @@
+1
+00:00:00,333 --> 00:00:02,708
+Imagine a sound you cannot escape.
+
+2
+00:00:02,708 --> 00:00:07,318
+A low, steady rumble, like a truck idling somewhere down the road.
+
+3
+00:00:07,318 --> 00:00:08,505
+You step outside.
+
+4
+00:00:08,505 --> 00:00:09,064
+Nothing.
+
+5
+00:00:09,064 --> 00:00:10,112
+You drive away.
+
+6
+00:00:10,112 --> 00:00:10,880
+It follows.
+
+7
+00:00:10,880 --> 00:00:14,233
+And the person next to you hears nothing at all.
+
+8
+00:00:14,699 --> 00:00:16,128
+This is the Taos Hum.
+
+9
+00:00:16,128 --> 00:00:18,645
+Hundreds of people have described it.
+
+10
+00:00:18,645 --> 00:00:24,086
+Scientists spent a week hunting for it with the best instruments in the country.
+
+11
+00:00:24,086 --> 00:00:28,100
+And the answer they found is stranger than any alien story.
+
+12
+00:00:28,566 --> 00:00:31,391
+Tonight we run it as a listening survey.
+
+13
+00:00:31,391 --> 00:00:32,379
+Five stations.
+
+14
+00:00:32,379 --> 00:00:35,133
+Every claim gets measured, then scored.
+
+15
+00:00:35,600 --> 00:00:37,205
+Station one, the town.
+
+16
+00:00:37,205 --> 00:00:39,321
+Station two, the instruments.
+
+17
+00:00:39,321 --> 00:00:41,510
+Three, the people who hear it.
+
+18
+00:00:41,510 --> 00:00:42,896
+Four, the suspects.
+
+19
+00:00:42,896 --> 00:00:44,866
+Five, the real explanation.
+
+20
+00:00:45,333 --> 00:00:46,925
+The question is simple.
+
+21
+00:00:46,925 --> 00:00:52,600
+Is the hum a secret machine, a signal from something else, or something inside us?
+
+22
+00:00:52,600 --> 00:00:53,499
+Let's listen.
+
+23
+00:00:57,966 --> 00:00:58,903
+Station one.
+
+24
+00:00:58,903 --> 00:00:59,606
+The town.
+
+25
+00:00:59,606 --> 00:01:05,854
+Taos, New Mexico, a high desert town of artists, adobe walls and mountain light.
+
+26
+00:01:05,854 --> 00:01:08,666
+Not a place anyone would call noisy.
+
+27
+00:01:09,133 --> 00:01:15,357
+In the spring of nineteen ninety-one, residents began to complain of a low droning sound.
+
+28
+00:01:15,357 --> 00:01:16,476
+Not every night.
+
+29
+00:01:16,476 --> 00:01:17,665
+Not every person.
+
+30
+00:01:17,665 --> 00:01:19,833
+But enough to get talked about.
+
+31
+00:01:20,299 --> 00:01:24,083
+They described it as a diesel engine idling far away.
+
+32
+00:01:24,083 --> 00:01:26,082
+Some felt it in their chest.
+
+33
+00:01:26,082 --> 00:01:30,366
+Some said it made them dizzy, or kept them awake for months.
+
+34
+00:01:30,833 --> 00:01:33,223
+Local papers picked up the story.
+
+35
+00:01:33,223 --> 00:01:35,107
+Neighbours compared notes.
+
+36
+00:01:35,107 --> 00:01:41,700
+A pattern emerged: the sound was louder indoors, louder at night, and worse in quiet rooms.
+
+37
+00:01:42,166 --> 00:01:45,522
+Some people had heard hums elsewhere before.
+
+38
+00:01:45,522 --> 00:01:46,895
+Hueytown, Alabama.
+
+39
+00:01:46,895 --> 00:01:48,116
+Kokomo, Indiana.
+
+40
+00:01:48,116 --> 00:01:51,167
+Even England, in the nineteen seventies.
+
+41
+00:01:51,167 --> 00:01:54,599
+But Taos was the first to make national news.
+
+42
+00:01:55,066 --> 00:01:59,131
+By nineteen ninety-three, the complaints reached Washington.
+
+43
+00:01:59,131 --> 00:02:05,500
+Members of Congress asked for an official investigation into a sound that nobody could record.
+
+44
+00:02:05,966 --> 00:02:07,705
+The request was granted.
+
+45
+00:02:07,705 --> 00:02:12,633
+A real, funded, scientific hunt for the Taos Hum was about to begin.
+
+46
+00:02:13,099 --> 00:02:23,233
+Teams from the University of New Mexico, Sandia National Laboratories, Los Alamos and an Air Force research lab arrived in Taos that summer.
+
+47
+00:02:23,699 --> 00:02:29,782
+Their plan: surround the town with every instrument that could hear, feel or detect a signal.
+
+48
+00:02:29,782 --> 00:02:32,333
+If the hum existed, they would find it.
+
+49
+00:02:32,800 --> 00:02:33,633
+Station two.
+
+50
+00:02:33,633 --> 00:02:34,744
+The instruments.
+
+51
+00:02:34,744 --> 00:02:36,064
+First, microphones.
+
+52
+00:02:36,064 --> 00:02:44,400
+Sensitive enough to pick up sounds far below the quietest whisper, set up in the homes of people who said they heard it.
+
+53
+00:02:44,866 --> 00:02:49,552
+The signal they were hunting would sit between thirty and eighty hertz.
+
+54
+00:02:49,552 --> 00:02:54,833
+That is deep bass, the range of a distant engine or a big speaker's lowest note.
+
+55
+00:02:55,300 --> 00:03:01,061
+Second, geophones, buried in the ground, to catch vibrations travelling through rock.
+
+56
+00:03:01,061 --> 00:03:05,400
+If the hum came from underground machinery, these would feel it.
+
+57
+00:03:05,866 --> 00:03:13,424
+Third, electromagnetic detectors, in case it was a radio signal, a power line, or something transmitting.
+
+58
+00:03:13,424 --> 00:03:15,800
+They swept every band they could.
+
+59
+00:03:16,266 --> 00:03:18,477
+A week of nights in the field.
+
+60
+00:03:18,477 --> 00:03:22,750
+Teams working in shifts, in homes, in yards, on hillsides.
+
+61
+00:03:22,750 --> 00:03:24,666
+Hundreds of hours of data.
+
+62
+00:03:25,133 --> 00:03:26,627
+The results came back.
+
+63
+00:03:26,627 --> 00:03:29,683
+No sound at the frequencies people described.
+
+64
+00:03:29,683 --> 00:03:36,066
+Nothing above the background noise, even with a detector able to see far below normal hearing.
+
+65
+00:03:36,533 --> 00:03:40,022
+Seismic sensors recorded no unusual vibration.
+
+66
+00:03:40,022 --> 00:03:43,662
+Electromagnetic sweeps found no matching signal.
+
+67
+00:03:43,662 --> 00:03:45,938
+The instruments heard nothing.
+
+68
+00:03:45,938 --> 00:03:47,000
+Not a whisper.
+
+69
+00:03:47,466 --> 00:03:52,140
+The geophones did catch something once: a gopher, digging nearby.
+
+70
+00:03:52,140 --> 00:03:56,166
+That was the most dramatic discovery of the field study.
+
+71
+00:03:56,633 --> 00:04:00,367
+The team published their findings in a scientific journal.
+
+72
+00:04:00,367 --> 00:04:06,033
+Their conclusion was careful: no source found, but the people reporting it were sincere.
+
+73
+00:04:06,500 --> 00:04:10,142
+So if the machines heard nothing, who was hearing something?
+
+74
+00:04:10,142 --> 00:04:13,300
+That is the part of the story that gets interesting.
+
+75
+00:04:13,766 --> 00:04:14,673
+Station three.
+
+76
+00:04:14,673 --> 00:04:15,451
+The hearers.
+
+77
+00:04:15,451 --> 00:04:22,966
+The researchers mailed out a survey, eight thousand forms, to find out who was hearing the hum, and what they heard.
+
+78
+00:04:23,433 --> 00:04:26,033
+About fourteen hundred people answered.
+
+79
+00:04:26,033 --> 00:04:29,233
+A hundred and sixty one said they heard the hum.
+
+80
+00:04:29,233 --> 00:04:32,233
+That is about two percent of the respondents.
+
+81
+00:04:32,699 --> 00:04:36,747
+Most hearers were between thirty and fifty-nine years old.
+
+82
+00:04:36,747 --> 00:04:38,841
+Most said they heard it daily.
+
+83
+00:04:38,841 --> 00:04:43,866
+Nearly three quarters described the same thing: an idling diesel engine.
+
+84
+00:04:44,333 --> 00:04:45,264
+One surprise.
+
+85
+00:04:45,264 --> 00:04:49,491
+About one in five heard it more than fifty miles from Taos.
+
+86
+00:04:49,491 --> 00:04:50,852
+It was not a place.
+
+87
+00:04:50,852 --> 00:04:52,500
+It followed the person.
+
+88
+00:04:52,966 --> 00:04:54,537
+Then came a clever test.
+
+89
+00:04:54,537 --> 00:04:59,970
+Hearers listened to a tone generator and tuned it until it matched what they heard.
+
+90
+00:04:59,970 --> 00:05:03,766
+The matches clustered between thirty-two and eighty hertz.
+
+91
+00:05:04,233 --> 00:05:09,613
+The sound also pulsed, slowly, between half a beat and two beats every second.
+
+92
+00:05:09,613 --> 00:05:14,166
+A slow throb, like breathing, or a heartbeat, or a distant engine.
+
+93
+00:05:14,633 --> 00:05:17,884
+Some hearers said the hum drove them to despair.
+
+94
+00:05:17,884 --> 00:05:19,036
+Some moved house.
+
+95
+00:05:19,036 --> 00:05:23,033
+A few said it was the worst thing they had ever lived with.
+
+96
+00:05:23,500 --> 00:05:26,750
+Stories spread that dogs reacted to it too.
+
+97
+00:05:26,750 --> 00:05:29,622
+We could find no solid record of that.
+
+98
+00:05:29,622 --> 00:05:33,100
+It remains an unverified legend, not evidence.
+
+99
+00:05:33,566 --> 00:05:36,463
+Meanwhile, doctors noticed something else.
+
+100
+00:05:36,463 --> 00:05:38,739
+Many hearers had no hearing loss.
+
+101
+00:05:38,739 --> 00:05:40,533
+Some had trouble sleeping.
+
+102
+00:05:40,533 --> 00:05:42,533
+Some were under heavy stress.
+
+103
+00:05:43,000 --> 00:05:47,569
+A sound that is real to the person, but invisible to the machines.
+
+104
+00:05:47,569 --> 00:05:48,815
+Hold that thought.
+
+105
+00:05:48,815 --> 00:05:50,199
+Now to the suspects.
+
+106
+00:05:50,666 --> 00:05:51,621
+Station four.
+
+107
+00:05:51,621 --> 00:05:52,576
+The suspects.
+
+108
+00:05:52,576 --> 00:05:54,633
+Every theory gets a line-up.
+
+109
+00:05:54,633 --> 00:05:58,233
+Evidence in one column, imagination in the other.
+
+110
+00:05:58,699 --> 00:05:59,591
+Suspect one.
+
+111
+00:05:59,591 --> 00:06:00,558
+The military.
+
+112
+00:06:00,558 --> 00:06:08,733
+The favourite theory said the hum came from very low frequency radio that the navy uses to talk to submarines.
+
+113
+00:06:09,199 --> 00:06:10,809
+The idea sounds neat.
+
+114
+00:06:10,809 --> 00:06:13,798
+But those signals are radio, not sound.
+
+115
+00:06:13,798 --> 00:06:21,233
+Radio waves cannot be heard by human ears, and the survey found no matching radio signal in Taos.
+
+116
+00:06:21,699 --> 00:06:22,553
+Suspect two.
+
+117
+00:06:22,553 --> 00:06:24,901
+HAARP, the Alaska research array.
+
+118
+00:06:24,901 --> 00:06:26,893
+People love it as a culprit.
+
+119
+00:06:26,893 --> 00:06:33,366
+But it sits more than three thousand miles away, and its output does not make audible bass.
+
+120
+00:06:33,833 --> 00:06:34,951
+Suspect three.
+
+121
+00:06:34,951 --> 00:06:35,669
+Industry.
+
+122
+00:06:35,669 --> 00:06:40,619
+Factories, pipelines, pumps and power plants do make low hums.
+
+123
+00:06:40,619 --> 00:06:46,766
+In Kokomo, Indiana, investigators found real machines behind some complaints.
+
+124
+00:06:47,233 --> 00:06:49,001
+Taos has no big factory.
+
+125
+00:06:49,001 --> 00:06:58,800
+But low frequency sound travels very far, and a distant compressor can sound like nothing at all to a microphone, yet loud in a room.
+
+126
+00:06:59,266 --> 00:07:00,126
+Suspect four.
+
+127
+00:07:00,126 --> 00:07:02,044
+The one you were waiting for.
+
+128
+00:07:02,044 --> 00:07:07,599
+An alien base, a hidden underground facility, a craft humming beneath the mountains.
+
+129
+00:07:08,066 --> 00:07:08,852
+We checked.
+
+130
+00:07:08,852 --> 00:07:12,638
+No record, no photograph, no measurement, no witness.
+
+131
+00:07:12,638 --> 00:07:16,638
+It is a story, told because the hum has no known source.
+
+132
+00:07:16,638 --> 00:07:17,566
+Nothing more.
+
+133
+00:07:18,033 --> 00:07:19,988
+And think about the logic.
+
+134
+00:07:19,988 --> 00:07:24,049
+A secret alien base would be heard by everyone nearby.
+
+135
+00:07:24,049 --> 00:07:25,253
+Not two percent.
+
+136
+00:07:25,253 --> 00:07:26,456
+Not a few dozen.
+
+137
+00:07:26,456 --> 00:07:27,133
+Everyone.
+
+138
+00:07:27,600 --> 00:07:28,541
+Suspect five.
+
+139
+00:07:28,541 --> 00:07:30,063
+The human ear itself.
+
+140
+00:07:30,063 --> 00:07:32,164
+And this one is not a theory.
+
+141
+00:07:32,164 --> 00:07:36,366
+It is a medical fact that the ear can make its own sounds.
+
+142
+00:07:36,833 --> 00:07:38,768
+Tinnitus is the best known.
+
+143
+00:07:38,768 --> 00:07:42,711
+A ringing, or a hum, or a buzz, with no outside source.
+
+144
+00:07:42,711 --> 00:07:47,300
+Millions of people live with it, and it can sound like anything.
+
+145
+00:07:47,766 --> 00:07:54,449
+There are also spontaneous otoacoustic emissions: tiny sounds the inner ear itself produces.
+
+146
+00:07:54,449 --> 00:07:58,300
+In a quiet room at night, some people can sense them.
+
+147
+00:07:58,766 --> 00:08:01,257
+But the ear cannot explain everything.
+
+148
+00:08:01,257 --> 00:08:05,191
+Others heard it far from home, and some had perfect hearing.
+
+149
+00:08:05,191 --> 00:08:06,633
+So what else is there?
+
+150
+00:08:07,100 --> 00:08:08,035
+Station five.
+
+151
+00:08:08,035 --> 00:08:09,546
+The real explanation.
+
+152
+00:08:09,546 --> 00:08:11,345
+And it is not one answer.
+
+153
+00:08:11,345 --> 00:08:14,800
+It is a stack of small ones, each with evidence.
+
+154
+00:08:15,266 --> 00:08:15,565
+One.
+
+155
+00:08:15,565 --> 00:08:22,583
+Real low frequency noise exists in the world, and some people are simply more sensitive to it.
+
+156
+00:08:22,583 --> 00:08:26,466
+Traffic, pumps, wind turbines, even electrical gear.
+
+157
+00:08:26,933 --> 00:08:32,075
+Low bass travels through walls and ground, and hardly fades with distance.
+
+158
+00:08:32,075 --> 00:08:36,799
+A noise made miles away can appear in your bedroom and nowhere else.
+
+159
+00:08:37,266 --> 00:08:37,534
+Two.
+
+160
+00:08:37,534 --> 00:08:40,212
+In silence, the brain turns up its gain.
+
+161
+00:08:40,212 --> 00:08:44,899
+A hum you could not hear at noon becomes loud at three in the morning.
+
+162
+00:08:45,366 --> 00:08:45,787
+Three.
+
+163
+00:08:45,787 --> 00:08:47,189
+Attention and worry.
+
+164
+00:08:47,189 --> 00:08:50,555
+Once you notice a sound, you cannot unnotice it.
+
+165
+00:08:50,555 --> 00:08:53,430
+The more you listen, the louder it seems.
+
+166
+00:08:53,430 --> 00:08:56,866
+Researchers see this loop in many chronic sounds.
+
+167
+00:08:57,333 --> 00:08:57,686
+Four.
+
+168
+00:08:57,686 --> 00:08:59,239
+Stress and poor sleep.
+
+169
+00:08:59,239 --> 00:09:03,123
+Many hearers were under pressure, and many slept badly.
+
+170
+00:09:03,123 --> 00:09:05,877
+That does not make the sound imaginary.
+
+171
+00:09:05,877 --> 00:09:09,266
+It makes it a real experience with a real cause.
+
+172
+00:09:09,733 --> 00:09:10,385
+And five.
+
+173
+00:09:10,385 --> 00:09:11,255
+Taos itself.
+
+174
+00:09:11,255 --> 00:09:17,346
+A quiet town in a deep valley, where distant sounds carry and nights are very still.
+
+175
+00:09:17,346 --> 00:09:19,666
+A perfect place to notice a hum.
+
+176
+00:09:20,133 --> 00:09:23,362
+None of this proves the answer for every case.
+
+177
+00:09:23,362 --> 00:09:28,066
+A few hearers may be picking up a real industrial source somewhere.
+
+178
+00:09:28,066 --> 00:09:31,366
+The honest word is, mostly solved, partly open.
+
+179
+00:09:31,833 --> 00:09:38,591
+Later studies elsewhere found the same pattern: hearers, no source, nothing on the instruments.
+
+180
+00:09:38,591 --> 00:09:42,433
+The Taos hum became a model case in acoustic research.
+
+181
+00:09:42,899 --> 00:09:44,888
+It also taught a hard lesson.
+
+182
+00:09:44,888 --> 00:09:49,481
+When science finds nothing, that does not mean the person is lying.
+
+183
+00:09:49,481 --> 00:09:52,566
+It can mean we are measuring the wrong thing.
+
+184
+00:09:53,033 --> 00:09:57,822
+If you hear a hum yourself, you are not crazy, and you are not alone.
+
+185
+00:09:57,822 --> 00:10:03,166
+A doctor and a quiet, steady sleep routine can help more than any conspiracy.
+
+186
+00:10:03,633 --> 00:10:05,702
+So now we score every claim.
+
+187
+00:10:05,702 --> 00:10:08,805
+Evidence on one side, theory on the other.
+
+188
+00:10:08,805 --> 00:10:10,800
+The Taos Hum, put on trial.
+
+189
+00:10:11,266 --> 00:10:13,732
+One last thing before the scorecard.
+
+190
+00:10:13,732 --> 00:10:17,432
+The most chilling part of the hum was never the sound.
+
+191
+00:10:17,432 --> 00:10:19,966
+It was how alone it made people feel.
+
+192
+00:10:20,433 --> 00:10:20,966
+Debrief.
+
+193
+00:10:20,966 --> 00:10:22,766
+Time to score the Taos Hum.
+
+194
+00:10:23,233 --> 00:10:28,304
+People report a real hum, hundreds of cases, in many places: evidence.
+
+195
+00:10:28,304 --> 00:10:31,999
+No source found by a week of instruments: evidence.
+
+196
+00:10:31,999 --> 00:10:36,997
+The same pattern in a survey, about two percent hearing it: evidence.
+
+197
+00:10:36,997 --> 00:10:39,533
+Ear and brain explanations: likely.
+
+198
+00:10:40,000 --> 00:10:43,398
+Navy submarine radio: debunked as sound.
+
+199
+00:10:43,398 --> 00:10:44,757
+HAARP: debunked.
+
+200
+00:10:44,757 --> 00:10:47,561
+A secret alien base: no evidence.
+
+201
+00:10:47,561 --> 00:10:51,299
+Industrial noise in some cases: partly open.
+
+202
+00:10:51,766 --> 00:10:52,674
+The verdict.
+
+203
+00:10:52,674 --> 00:10:54,566
+Not aliens, not a weapon.
+
+204
+00:10:54,566 --> 00:11:02,966
+A real experience, from real ears and minds, probably helped along by distant low noise and a very quiet night.
+
+205
+00:11:02,966 --> 00:11:05,766
+Mostly explained, never fully closed.
+
+206
+00:11:06,233 --> 00:11:09,353
+And that may be the most human mystery of all.
+
+207
+00:11:09,353 --> 00:11:14,033
+A sound that only some of us can hear, and that no machine can prove.
+
+208
+00:11:14,500 --> 00:11:21,767
+Next case: an ancient stone circle, a vanished builders' secret, and the strange sounds people say echo through it.
+
+209
+00:11:21,767 --> 00:11:23,600
+What were they listening for?
+
+210
+00:11:24,066 --> 00:11:25,160
+Do you hear a hum?
+
+211
+00:11:25,160 --> 00:11:30,266
+Tell us in the comments, and subscribe for the next ancient mystery put to the test.

@@ -1,0 +1,1439 @@
+[
+ {
+  "id": 1,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a quiet New Mexico desert town street at night under stars, adobe houses, one lit window, a lonely man standing outside listening. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Imagine a sound you cannot escape. A low, steady rumble, like a truck idling somewhere down the road. You step outside. Nothing. You drive away. It follows. And the person next to you hears nothing at all."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Imagine a sound you cannot escape. A low, steady rumble, like a truck idling somewhere down the road. You step outside. Nothing. You drive away. It follows. And the person next to you hears nothing at all.",
+    "file": "ep/audio/s01.mp3",
+    "dur": 13.896
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a bedroom at night with a person lying awake in bed pressing a pillow over one ear, blue moonlight through the window. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "This is the Taos Hum. Hundreds of people have described it. Scientists spent a week hunting for it with the best instruments in the country. And the answer they found is stranger than any alien story."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "This is the Taos Hum. Hundreds of people have described it. Scientists spent a week hunting for it with the best instruments in the country. And the answer they found is stranger than any alien story.",
+    "file": "ep/audio/s02.mp3",
+    "dur": 13.392
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a spectrum analyser style oscilloscope screen glowing green with a flat line, in a dark laboratory. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tonight we run it as a listening survey. Five stations. Every claim gets measured, then scored."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tonight we run it as a listening survey. Five stations. Every claim gets measured, then scored.",
+    "file": "ep/audio/s03.mp3",
+    "dur": 6.552
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a microphone on a tripod standing alone in a desert at dusk, mountains behind. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station one, the town. Station two, the instruments. Three, the people who hear it. Four, the suspects. Five, the real explanation."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station one, the town. Station two, the instruments. Three, the people who hear it. Four, the suspects. Five, the real explanation.",
+    "file": "ep/audio/s04.mp3",
+    "dur": 9.24
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 cinematic photograph of the Sangre de Cristo mountains above Taos New Mexico at sunrise, golden haze, empty high desert. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The question is simple. Is the hum a secret machine, a signal from something else, or something inside us? Let's listen."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The question is simple. Is the hum a secret machine, a signal from something else, or something inside us? Let's listen.",
+    "file": "ep/audio/s05.mp3",
+    "dur": 8.16
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of the high desert plateau around Taos New Mexico with sagebrush and distant mountains, wide landscape, late afternoon. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station one. The town. Taos, New Mexico, a high desert town of artists, adobe walls and mountain light. Not a place anyone would call noisy."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "I \u00b7 THE TOWN",
+   "The Complaint",
+   "1991 \u00b7 TAOS \u00b7 NEW MEXICO"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station one. The town. Taos, New Mexico, a high desert town of artists, adobe walls and mountain light. Not a place anyone would call noisy.",
+    "file": "ep/audio/s06.mp3",
+    "dur": 10.68
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a small adobe house at dusk with a porch light and a dirt road, New Mexico, quiet. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "In the spring of nineteen ninety-one, residents began to complain of a low droning sound. Not every night. Not every person. But enough to get talked about."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "In the spring of nineteen ninety-one, residents began to complain of a low droning sound. Not every night. Not every person. But enough to get talked about.",
+    "file": "ep/audio/s07.mp3",
+    "dur": 10.68
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a woman in her fifties sitting at a kitchen table at night with a cup of tea, looking tired and worried, warm lamp. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "They described it as a diesel engine idling far away. Some felt it in their chest. Some said it made them dizzy, or kept them awake for months."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "They described it as a diesel engine idling far away. Some felt it in their chest. Some said it made them dizzy, or kept them awake for months.",
+    "file": "ep/audio/s08.mp3",
+    "dur": 10.056
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a small town newspaper office desk with stacked papers and a rotary phone, warm light, abstract grey bars instead of words. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Local papers picked up the story. Neighbours compared notes. A pattern emerged: the sound was louder indoors, louder at night, and worse in quiet rooms."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Local papers picked up the story. Neighbours compared notes. A pattern emerged: the sound was louder indoors, louder at night, and worse in quiet rooms.",
+    "file": "ep/audio/s09.mp3",
+    "dur": 10.848
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a town hall meeting room in a small American town with rows of empty chairs and a flag, evening light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some people had heard hums elsewhere before. Hueytown, Alabama. Kokomo, Indiana. Even England, in the nineteen seventies. But Taos was the first to make national news."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some people had heard hums elsewhere before. Hueytown, Alabama. Kokomo, Indiana. Even England, in the nineteen seventies. But Taos was the first to make national news.",
+    "file": "ep/audio/s10.mp3",
+    "dur": 12.432
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a United States Capitol building at dusk, dome lit, dramatic sky. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "By nineteen ninety-three, the complaints reached Washington. Members of Congress asked for an official investigation into a sound that nobody could record."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "By nineteen ninety-three, the complaints reached Washington. Members of Congress asked for an official investigation into a sound that nobody could record.",
+    "file": "ep/audio/s11.mp3",
+    "dur": 10.416
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a government office desk with a thick folder and a telephone, washington style, grey bars instead of words. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The request was granted. A real, funded, scientific hunt for the Taos Hum was about to begin."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The request was granted. A real, funded, scientific hunt for the Taos Hum was about to begin.",
+    "file": "ep/audio/s12.mp3",
+    "dur": 6.648
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a convoy of white scientific field trucks driving on a desert road toward mountains, dust trail, golden light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Teams from the University of New Mexico, Sandia National Laboratories, Los Alamos and an Air Force research lab arrived in Taos that summer."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Teams from the University of New Mexico, Sandia National Laboratories, Los Alamos and an Air Force research lab arrived in Taos that summer.",
+    "file": "ep/audio/s13.mp3",
+    "dur": 10.128
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "fx": "glow",
+  "motion": "out",
+  "prompt": "Wide 16:9 cinematic photograph of scientists in field jackets unloading metal equipment cases from a truck on a desert plain at dawn. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Their plan: surround the town with every instrument that could hear, feel or detect a signal. If the hum existed, they would find it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Their plan: surround the town with every instrument that could hear, feel or detect a signal. If the hum existed, they would find it.",
+    "file": "ep/audio/s14.mp3",
+    "dur": 8.616
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a very sensitive scientific microphone with a large foam windscreen on a tripod in a desert, dawn. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station two. The instruments. First, microphones. Sensitive enough to pick up sounds far below the quietest whisper, set up in the homes of people who said they heard it."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "II \u00b7 THE INSTRUMENTS",
+   "The Search",
+   "MICROPHONES \u00b7 GEOPHONES \u00b7 EM"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station two. The instruments. First, microphones. Sensitive enough to pick up sounds far below the quietest whisper, set up in the homes of people who said they heard it.",
+    "file": "ep/audio/s15.mp3",
+    "dur": 11.568
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a laboratory rack of old analog audio recording equipment with glowing dials and reels, dark room. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The signal they were hunting would sit between thirty and eighty hertz. That is deep bass, the range of a distant engine or a big speaker's lowest note."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The signal they were hunting would sit between thirty and eighty hertz. That is deep bass, the range of a distant engine or a big speaker's lowest note.",
+    "file": "ep/audio/s16.mp3",
+    "dur": 9.96
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a small metal seismometer sensor buried in dry desert soil, close-up, dusk light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Second, geophones, buried in the ground, to catch vibrations travelling through rock. If the hum came from underground machinery, these would feel it."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Second, geophones, buried in the ground, to catch vibrations travelling through rock. If the hum came from underground machinery, these would feel it.",
+    "file": "ep/audio/s17.mp3",
+    "dur": 10.08
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a researcher holding a handheld radio frequency antenna in an empty field at sunset. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Third, electromagnetic detectors, in case it was a radio signal, a power line, or something transmitting. They swept every band they could."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Third, electromagnetic detectors, in case it was a radio signal, a power line, or something transmitting. They swept every band they could.",
+    "file": "ep/audio/s18.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a wide desert field at night with several scientific instruments glowing in the dark and a bright full moon. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A week of nights in the field. Teams working in shifts, in homes, in yards, on hillsides. Hundreds of hours of data."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A week of nights in the field. Teams working in shifts, in homes, in yards, on hillsides. Hundreds of hours of data.",
+    "file": "ep/audio/s19.mp3",
+    "dur": 8.4
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a dark laboratory with a researcher looking at a large monitor showing a waveform, silhouette, blue glow. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The results came back. No sound at the frequencies people described. Nothing above the background noise, even with a detector able to see far below normal hearing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The results came back. No sound at the frequencies people described. Nothing above the background noise, even with a detector able to see far below normal hearing.",
+    "file": "ep/audio/s20.mp3",
+    "dur": 10.92
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a flat green line on a vintage oscilloscope screen in a dark room. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Seismic sensors recorded no unusual vibration. Electromagnetic sweeps found no matching signal. The instruments heard nothing. Not a whisper."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Seismic sensors recorded no unusual vibration. Electromagnetic sweeps found no matching signal. The instruments heard nothing. Not a whisper.",
+    "file": "ep/audio/s21.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a small gopher peeking out of a burrow in dry soil, close-up, dusk. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The geophones did catch something once: a gopher, digging nearby. That was the most dramatic discovery of the field study."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The geophones did catch something once: a gopher, digging nearby. That was the most dramatic discovery of the field study.",
+    "file": "ep/audio/s22.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a thick printed scientific report with a plain cover on a wooden desk, grey bars instead of words, warm light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The team published their findings in a scientific journal. Their conclusion was careful: no source found, but the people reporting it were sincere."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The team published their findings in a scientific journal. Their conclusion was careful: no source found, but the people reporting it were sincere.",
+    "file": "ep/audio/s23.mp3",
+    "dur": 9.384
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "fx": "dust",
+  "motion": "out",
+  "prompt": "Wide 16:9 cinematic photograph of a lone person walking in the New Mexico desert at dusk with long shadow. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So if the machines heard nothing, who was hearing something? That is the part of the story that gets interesting."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So if the machines heard nothing, who was hearing something? That is the part of the story that gets interesting.",
+    "file": "ep/audio/s24.mp3",
+    "dur": 6.768
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a stack of paper survey forms and envelopes on a desk in an office, warm light, grey bars instead of words. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station three. The hearers. The researchers mailed out a survey, eight thousand forms, to find out who was hearing the hum, and what they heard."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "III \u00b7 THE HEARERS",
+   "The Survey",
+   "8,000 FORMS \u00b7 161 HEARERS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station three. The hearers. The researchers mailed out a survey, eight thousand forms, to find out who was hearing the hum, and what they heard.",
+    "file": "ep/audio/s25.mp3",
+    "dur": 9.168
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a mailbox at the end of a dirt road in the New Mexico desert at sunset. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "About fourteen hundred people answered. A hundred and sixty one said they heard the hum. That is about two percent of the respondents."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "About fourteen hundred people answered. A hundred and sixty one said they heard the hum. That is about two percent of the respondents.",
+    "file": "ep/audio/s26.mp3",
+    "dur": 8.784
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a diverse group of middle aged people sitting in a circle of chairs in a community hall, warm light, calm. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Most hearers were between thirty and fifty-nine years old. Most said they heard it daily. Nearly three quarters described the same thing: an idling diesel engine."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Most hearers were between thirty and fifty-nine years old. Most said they heard it daily. Nearly three quarters described the same thing: an idling diesel engine.",
+    "file": "ep/audio/s27.mp3",
+    "dur": 11.136
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a car driving on an empty desert highway at dusk with headlights on, wide shot. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One surprise. About one in five heard it more than fifty miles from Taos. It was not a place. It followed the person."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One surprise. About one in five heard it more than fifty miles from Taos. It was not a place. It followed the person.",
+    "file": "ep/audio/s28.mp3",
+    "dur": 8.16
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a person sitting in a quiet room wearing headphones in front of a computer, tone generator concept, blue light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Then came a clever test. Hearers listened to a tone generator and tuned it until it matched what they heard. The matches clustered between thirty-two and eighty hertz."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Then came a clever test. Hearers listened to a tone generator and tuned it until it matched what they heard. The matches clustered between thirty-two and eighty hertz.",
+    "file": "ep/audio/s29.mp3",
+    "dur": 10.8
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a sine wave drawn on a dark chalkboard-like screen, glowing amber line, minimal. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The sound also pulsed, slowly, between half a beat and two beats every second. A slow throb, like breathing, or a heartbeat, or a distant engine."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The sound also pulsed, slowly, between half a beat and two beats every second. A slow throb, like breathing, or a heartbeat, or a distant engine.",
+    "file": "ep/audio/s30.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a man holding his ear and frowning in a quiet living room, daytime. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Some hearers said the hum drove them to despair. Some moved house. A few said it was the worst thing they had ever lived with."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Some hearers said the hum drove them to despair. Some moved house. A few said it was the worst thing they had ever lived with.",
+    "file": "ep/audio/s31.mp3",
+    "dur": 8.376
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a vet comforting a calm dog in a clinic, warm light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Stories spread that dogs reacted to it too. We could find no solid record of that. It remains an unverified legend, not evidence."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Stories spread that dogs reacted to it too. We could find no solid record of that. It remains an unverified legend, not evidence.",
+    "file": "ep/audio/s32.mp3",
+    "dur": 9.6
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a doctor in a clinic looking at a medical chart, shallow depth of field, grey bars instead of words. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Meanwhile, doctors noticed something else. Many hearers had no hearing loss. Some had trouble sleeping. Some were under heavy stress."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Meanwhile, doctors noticed something else. Many hearers had no hearing loss. Some had trouble sleeping. Some were under heavy stress.",
+    "file": "ep/audio/s33.mp3",
+    "dur": 8.952
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Wide 16:9 cinematic photograph of a quiet empty room with a single chair and a window at night, calm and lonely. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "A sound that is real to the person, but invisible to the machines. Hold that thought. Now to the suspects."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "A sound that is real to the person, but invisible to the machines. Hold that thought. Now to the suspects.",
+    "file": "ep/audio/s34.mp3",
+    "dur": 7.2
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a police style evidence board with pinned photos and red string in a dark room, no readable writing. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station four. The suspects. Every theory gets a line-up. Evidence in one column, imagination in the other."
+   ]
+  ],
+  "tag": "T",
+  "ch": [
+   "IV \u00b7 THE SUSPECTS",
+   "The Line-Up",
+   "SUBMARINES \u00b7 HAARP \u00b7 UFOS"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station four. The suspects. Every theory gets a line-up. Evidence in one column, imagination in the other.",
+    "file": "ep/audio/s35.mp3",
+    "dur": 7.536
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a United States navy submarine surfacing in open ocean at sunrise. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect one. The military. The favourite theory said the hum came from very low frequency radio that the navy uses to talk to submarines."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect one. The military. The favourite theory said the hum came from very low frequency radio that the navy uses to talk to submarines.",
+    "file": "ep/audio/s36.mp3",
+    "dur": 10.032
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a tall military radio antenna tower in a flat desert at sunset. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The idea sounds neat. But those signals are radio, not sound. Radio waves cannot be heard by human ears, and the survey found no matching radio signal in Taos."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The idea sounds neat. But those signals are radio, not sound. Radio waves cannot be heard by human ears, and the survey found no matching radio signal in Taos.",
+    "file": "ep/audio/s37.mp3",
+    "dur": 12.024
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a vast field of antenna towers in a remote snowy landscape, wide aerial, cold light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect two. HAARP, the Alaska research array. People love it as a culprit. But it sits more than three thousand miles away, and its output does not make audible bass."
+   ]
+  ],
+  "tag": "D",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect two. HAARP, the Alaska research array. People love it as a culprit. But it sits more than three thousand miles away, and its output does not make audible bass.",
+    "file": "ep/audio/s38.mp3",
+    "dur": 11.64
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a drone view of a large industrial plant with pipes and cooling towers at dusk. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect three. Industry. Factories, pipelines, pumps and power plants do make low hums. In Kokomo, Indiana, investigators found real machines behind some complaints."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect three. Industry. Factories, pipelines, pumps and power plants do make low hums. In Kokomo, Indiana, investigators found real machines behind some complaints.",
+    "file": "ep/audio/s39.mp3",
+    "dur": 12.912
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an underground natural gas pipeline compressor station in the desert, pipes and valves, dusk. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Taos has no big factory. But low frequency sound travels very far, and a distant compressor can sound like nothing at all to a microphone, yet loud in a room."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Taos has no big factory. But low frequency sound travels very far, and a distant compressor can sound like nothing at all to a microphone, yet loud in a room.",
+    "file": "ep/audio/s40.mp3",
+    "dur": 11.544
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a night sky with a bright glowing disc shaped light above a desert mountain, cinematic, soft glow. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect four. The one you were waiting for. An alien base, a hidden underground facility, a craft humming beneath the mountains."
+   ]
+  ],
+  "tag": "T",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect four. The one you were waiting for. An alien base, a hidden underground facility, a craft humming beneath the mountains.",
+    "file": "ep/audio/s41.mp3",
+    "dur": 8.304
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a mountain cave entrance in the desert at night with a faint glow inside, moody. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "We checked. No record, no photograph, no measurement, no witness. It is a story, told because the hum has no known source. Nothing more."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "We checked. No record, no photograph, no measurement, no witness. It is a story, told because the hum has no known source. Nothing more.",
+    "file": "ep/audio/s42.mp3",
+    "dur": 9.48
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a wide empty desert at night with the milky way overhead, silent. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And think about the logic. A secret alien base would be heard by everyone nearby. Not two percent. Not a few dozen. Everyone."
+   ]
+  ],
+  "tag": "U",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And think about the logic. A secret alien base would be heard by everyone nearby. Not two percent. Not a few dozen. Everyone.",
+    "file": "ep/audio/s43.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a human ear in extreme close-up with soft skin and light, macro, warm studio light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Suspect five. The human ear itself. And this one is not a theory. It is a medical fact that the ear can make its own sounds."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Suspect five. The human ear itself. And this one is not a theory. It is a medical fact that the ear can make its own sounds.",
+    "file": "ep/audio/s44.mp3",
+    "dur": 8.736
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an audiologist's soundproof booth with headphones on a chair, clinical light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Tinnitus is the best known. A ringing, or a hum, or a buzz, with no outside source. Millions of people live with it, and it can sound like anything."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Tinnitus is the best known. A ringing, or a hum, or a buzz, with no outside source. Millions of people live with it, and it can sound like anything.",
+    "file": "ep/audio/s45.mp3",
+    "dur": 10.464
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a cross-section style anatomical model of the inner ear on a table, clinical light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "There are also spontaneous otoacoustic emissions: tiny sounds the inner ear itself produces. In a quiet room at night, some people can sense them."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "There are also spontaneous otoacoustic emissions: tiny sounds the inner ear itself produces. In a quiet room at night, some people can sense them.",
+    "file": "ep/audio/s46.mp3",
+    "dur": 10.512
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "fx": "stars",
+  "motion": "out",
+  "prompt": "Wide 16:9 cinematic photograph of a quiet dark bedroom at night, one clock on a bedside table glowing softly, calm. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "But the ear cannot explain everything. Others heard it far from home, and some had perfect hearing. So what else is there?"
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "But the ear cannot explain everything. Others heard it far from home, and some had perfect hearing. So what else is there?",
+    "file": "ep/audio/s47.mp3",
+    "dur": 7.848
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a researcher in a lab with headphones adjusting a mixing desk, soft amber light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Station five. The real explanation. And it is not one answer. It is a stack of small ones, each with evidence."
+   ]
+  ],
+  "tag": "E",
+  "ch": [
+   "V \u00b7 THE EXPLANATION",
+   "The Stack",
+   "BODY \u00b7 SOUND \u00b7 MIND"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Station five. The real explanation. And it is not one answer. It is a stack of small ones, each with evidence.",
+    "file": "ep/audio/s48.mp3",
+    "dur": 7.68
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a modern quiet city apartment at night with window light and a distant highway, calm. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One. Real low frequency noise exists in the world, and some people are simply more sensitive to it. Traffic, pumps, wind turbines, even electrical gear."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One. Real low frequency noise exists in the world, and some people are simply more sensitive to it. Traffic, pumps, wind turbines, even electrical gear.",
+    "file": "ep/audio/s49.mp3",
+    "dur": 11.184
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a long straight highway at night with truck trails of light, long exposure. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Low bass travels through walls and ground, and hardly fades with distance. A noise made miles away can appear in your bedroom and nowhere else."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Low bass travels through walls and ground, and hardly fades with distance. A noise made miles away can appear in your bedroom and nowhere else.",
+    "file": "ep/audio/s50.mp3",
+    "dur": 9.84
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a quiet bedroom at night with a person lying awake and staring at the ceiling, moonlight. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Two. In silence, the brain turns up its gain. A hum you could not hear at noon becomes loud at three in the morning."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Two. In silence, the brain turns up its gain. A hum you could not hear at noon becomes loud at three in the morning.",
+    "file": "ep/audio/s51.mp3",
+    "dur": 7.608
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a brain scan style glowing neural network in a dark background, blue and amber, abstract. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Three. Attention and worry. Once you notice a sound, you cannot unnotice it. The more you listen, the louder it seems. Researchers see this loop in many chronic sounds."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Three. Attention and worry. Once you notice a sound, you cannot unnotice it. The more you listen, the louder it seems. Researchers see this loop in many chronic sounds.",
+    "file": "ep/audio/s52.mp3",
+    "dur": 11.496
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a person sitting on a bed rubbing their forehead at night, tired, dim light. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Four. Stress and poor sleep. Many hearers were under pressure, and many slept badly. That does not make the sound imaginary. It makes it a real experience with a real cause."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Four. Stress and poor sleep. Many hearers were under pressure, and many slept badly. That does not make the sound imaginary. It makes it a real experience with a real cause.",
+    "file": "ep/audio/s53.mp3",
+    "dur": 11.928
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "fx": "sand",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a small town in the mountains at night with only a few lit windows, still air. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And five. Taos itself. A quiet town in a deep valley, where distant sounds carry and nights are very still. A perfect place to notice a hum."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And five. Taos itself. A quiet town in a deep valley, where distant sounds carry and nights are very still. A perfect place to notice a hum.",
+    "file": "ep/audio/s54.mp3",
+    "dur": 9.912
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of two scientists talking beside a large old speaker in a lab, thoughtful. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "None of this proves the answer for every case. A few hearers may be picking up a real industrial source somewhere. The honest word is, mostly solved, partly open."
+   ]
+  ],
+  "tag": "P",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "None of this proves the answer for every case. A few hearers may be picking up a real industrial source somewhere. The honest word is, mostly solved, partly open.",
+    "file": "ep/audio/s55.mp3",
+    "dur": 11.208
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an open book of old scientific papers with a magnifying glass on a wooden desk, warm light, grey bars instead of words. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Later studies elsewhere found the same pattern: hearers, no source, nothing on the instruments. The Taos hum became a model case in acoustic research."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Later studies elsewhere found the same pattern: hearers, no source, nothing on the instruments. The Taos hum became a model case in acoustic research.",
+    "file": "ep/audio/s56.mp3",
+    "dur": 10.584
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a quiet snowy mountain valley at dawn with soft mist. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "It also taught a hard lesson. When science finds nothing, that does not mean the person is lying. It can mean we are measuring the wrong thing."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "It also taught a hard lesson. When science finds nothing, that does not mean the person is lying. It can mean we are measuring the wrong thing.",
+    "file": "ep/audio/s57.mp3",
+    "dur": 9.648
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "fx": "none",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a lone person with headphones standing in a field at sunset, listening, peaceful. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "If you hear a hum yourself, you are not crazy, and you are not alone. A doctor and a quiet, steady sleep routine can help more than any conspiracy."
+   ]
+  ],
+  "tag": "E",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "If you hear a hum yourself, you are not crazy, and you are not alone. A doctor and a quiet, steady sleep routine can help more than any conspiracy.",
+    "file": "ep/audio/s58.mp3",
+    "dur": 10.104
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "fx": "sand",
+  "motion": "out",
+  "prompt": "Wide 16:9 cinematic photograph of a glowing amber speaker cone in a dark room, close-up, moody. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "So now we score every claim. Evidence on one side, theory on the other. The Taos Hum, put on trial."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "So now we score every claim. Evidence on one side, theory on the other. The Taos Hum, put on trial.",
+    "file": "ep/audio/s59.mp3",
+    "dur": 7.152
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a long empty hall in an old observatory building with a single shaft of light, calm. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "One last thing before the scorecard. The most chilling part of the hum was never the sound. It was how alone it made people feel."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "One last thing before the scorecard. The most chilling part of the hum was never the sound. It was how alone it made people feel.",
+    "file": "ep/audio/s60.mp3",
+    "dur": 8.688
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark empty sound laboratory at night, a single large old speaker cone glowing faintly amber on the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Debrief. Time to score the Taos Hum."
+   ]
+  ],
+  "tag": "V",
+  "ch": [
+   "DEBRIEF",
+   "The Scorecard",
+   "EVIDENCE VS THEORY"
+  ],
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Debrief. Time to score the Taos Hum.",
+    "file": "ep/audio/s61.mp3",
+    "dur": 2.328
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark empty sound laboratory at night, a single large old speaker cone glowing faintly amber on the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "People report a real hum, hundreds of cases, in many places: evidence. No source found by a week of instruments: evidence. The same pattern in a survey, about two percent hearing it: evidence. Ear and brain explanations: likely."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "People report a real hum, hundreds of cases, in many places: evidence. No source found by a week of instruments: evidence. The same pattern in a survey, about two percent hearing it: evidence. Ear and brain explanations: likely.",
+    "file": "ep/audio/s62.mp3",
+    "dur": 16.272
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "fx": "score",
+  "motion": "in",
+  "prompt": "Dark empty sound laboratory at night, a single large old speaker cone glowing faintly amber on the far right edge, large empty dark space on the left, cinematic, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Navy submarine radio: debunked as sound. HAARP: debunked. A secret alien base: no evidence. Industrial noise in some cases: partly open."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Navy submarine radio: debunked as sound. HAARP: debunked. A secret alien base: no evidence. Industrial noise in some cases: partly open.",
+    "file": "ep/audio/s63.mp3",
+    "dur": 11.28
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "fx": "glow",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a calm lone figure standing on a hill above a quiet town at night, stars, peaceful. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "The verdict. Not aliens, not a weapon. A real experience, from real ears and minds, probably helped along by distant low noise and a very quiet night. Mostly explained, never fully closed."
+   ]
+  ],
+  "tag": "V",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "The verdict. Not aliens, not a weapon. A real experience, from real ears and minds, probably helped along by distant low noise and a very quiet night. Mostly explained, never fully closed.",
+    "file": "ep/audio/s64.mp3",
+    "dur": 13.992
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "fx": "dust",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of a simple old speaker in an empty room playing a soft glow, dust in light beams, cinematic. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "And that may be the most human mystery of all. A sound that only some of us can hear, and that no machine can prove."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "And that may be the most human mystery of all. A sound that only some of us can hear, and that no machine can prove.",
+    "file": "ep/audio/s65.mp3",
+    "dur": 7.8
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "fx": "stars",
+  "motion": "in",
+  "prompt": "Wide 16:9 cinematic photograph of an enormous ancient stone circle in a green field under a night sky with a faint aurora, moody. Photoreal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Next case: an ancient stone circle, a vanished builders' secret, and the strange sounds people say echo through it. What were they listening for?"
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Next case: an ancient stone circle, a vanished builders' secret, and the strange sounds people say echo through it. What were they listening for?",
+    "file": "ep/audio/s66.mp3",
+    "dur": 9.072
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "fx": "none",
+  "motion": "out",
+  "prompt": "Dark end card background, a glowing amber speaker cone in the centre against black, minimal, no text, no letters, no numbers, no writing, no logos, no watermark",
+  "lines": [
+   [
+    "narrator",
+    "Do you hear a hum? Tell us in the comments, and subscribe for the next ancient mystery put to the test."
+   ]
+  ],
+  "tag": "",
+  "audio": [
+   {
+    "who": "narrator",
+    "text": "Do you hear a hum? Tell us in the comments, and subscribe for the next ancient mystery put to the test.",
+    "file": "ep/audio/s67.mp3",
+    "dur": 6.192
+   }
+  ]
+ }
+]
