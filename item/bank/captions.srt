@@ -1,0 +1,879 @@
+1
+00:00:00,333 --> 00:00:01,300
+Delhi, India.
+
+2
+00:00:01,300 --> 00:00:08,443
+In the courtyard of a ruined mosque, a dark iron column rises about six meters above the ground.
+
+3
+00:00:08,443 --> 00:00:12,833
+It has been out in the open for some sixteen hundred years.
+
+4
+00:00:12,833 --> 00:00:16,033
+Monsoons, heat, and the smog of a megacity.
+
+5
+00:00:16,500 --> 00:00:19,155
+And the internet says it never rusted.
+
+6
+00:00:19,155 --> 00:00:19,993
+Not a flake.
+
+7
+00:00:19,993 --> 00:00:23,347
+Some say ancient smiths knew a lost super-metal.
+
+8
+00:00:23,347 --> 00:00:27,400
+Others say the metal did not come from this planet at all.
+
+9
+00:00:27,866 --> 00:00:32,780
+Tonight we handle it like an insurance adjuster handles a warranty.
+
+10
+00:00:32,780 --> 00:00:36,226
+Sixteen hundred years, no rust, no maintenance.
+
+11
+00:00:36,226 --> 00:00:41,066
+A claim that big needs paperwork, and every clause gets inspected.
+
+12
+00:00:41,533 --> 00:00:42,197
+Approved.
+
+13
+00:00:42,197 --> 00:00:42,714
+Denied.
+
+14
+00:00:42,714 --> 00:00:44,782
+Or approved with conditions.
+
+15
+00:00:44,782 --> 00:00:52,166
+No opinions and no mood, only what the laboratory, the inscription, and the iron itself can back up.
+
+16
+00:00:52,633 --> 00:01:01,843
+And by the end, you will know exactly why this pillar survived, and why the real answer is a better story than the one with the aliens.
+
+17
+00:01:01,843 --> 00:01:02,866
+File the claim.
+
+18
+00:01:07,333 --> 00:01:07,958
+Item one.
+
+19
+00:01:07,958 --> 00:01:08,445
+Intake.
+
+20
+00:01:08,445 --> 00:01:14,490
+From its top to the bottom of its base, the pillar measures seven point two one meters.
+
+21
+00:01:14,490 --> 00:01:19,423
+It is about forty centimeters wide, and it weighs more than six tonnes.
+
+22
+00:01:19,423 --> 00:01:22,133
+More than a meter of it is underground.
+
+23
+00:01:22,599 --> 00:01:27,288
+It stands in the Qutb complex, in Mehrauli, in the south of Delhi.
+
+24
+00:01:27,288 --> 00:01:33,113
+Right beside it, a minaret and the ruins of a mosque built in the eleven hundreds.
+
+25
+00:01:33,113 --> 00:01:35,599
+The pillar is older than all of it.
+
+26
+00:01:36,066 --> 00:01:41,320
+At the top, a carved bell-shaped capital, about thirty centimeters tall.
+
+27
+00:01:41,320 --> 00:01:48,033
+The shaft below it is smooth, dark, and almost black, with a faint shine like old gun metal.
+
+28
+00:01:48,500 --> 00:01:51,076
+Millions of people have come to see it.
+
+29
+00:01:51,076 --> 00:01:54,644
+And the claim they carry with them is always the same.
+
+30
+00:01:54,644 --> 00:01:56,428
+This iron has never rusted.
+
+31
+00:01:56,428 --> 00:01:59,600
+So that is clause one, and it is where we begin.
+
+32
+00:02:00,066 --> 00:02:00,776
+Clause one.
+
+33
+00:02:00,776 --> 00:02:02,455
+Does it really never rust?
+
+34
+00:02:02,455 --> 00:02:04,133
+Let's inspect the surface.
+
+35
+00:02:04,599 --> 00:02:05,377
+Clause one.
+
+36
+00:02:05,377 --> 00:02:07,002
+The pillar never rusts.
+
+37
+00:02:07,002 --> 00:02:08,345
+First, the surface.
+
+38
+00:02:08,345 --> 00:02:12,020
+Look closely and you do not see bare, shining metal.
+
+39
+00:02:12,020 --> 00:02:16,966
+You see a dark skin of corrosion, thin and smooth, covering all of it.
+
+40
+00:02:17,433 --> 00:02:19,377
+This is the first correction.
+
+41
+00:02:19,377 --> 00:02:21,655
+The pillar does rust, very slowly.
+
+42
+00:02:21,655 --> 00:02:29,966
+What it does not do is what ordinary iron does out in the weather, which is keep rusting, flake by flake, until it crumbles.
+
+43
+00:02:30,433 --> 00:02:36,894
+Ordinary iron makes a loose, flaky rust that holds water and lets the damage move deeper.
+
+44
+00:02:36,894 --> 00:02:42,266
+A little rain, a little oxygen, and a few decades later, the post is gone.
+
+45
+00:02:42,733 --> 00:02:44,778
+The pillar's skin is different.
+
+46
+00:02:44,778 --> 00:02:50,058
+It is compact, tightly stuck to the metal, and it protects what lies underneath.
+
+47
+00:02:50,058 --> 00:02:51,575
+How thick has it grown?
+
+48
+00:02:51,575 --> 00:02:52,565
+Sources differ.
+
+49
+00:02:52,565 --> 00:02:57,448
+Estimates run from about a twentieth of a millimeter to half a millimeter.
+
+50
+00:02:57,448 --> 00:02:58,966
+Either way, it is thin.
+
+51
+00:02:59,433 --> 00:03:10,972
+Much of what we know comes from Professor R Balasubramaniam of the Indian Institute of Technology, Kanpur, who spent years studying the rust of the pillar.
+
+52
+00:03:10,972 --> 00:03:12,833
+We will keep meeting him.
+
+53
+00:03:13,300 --> 00:03:14,944
+There is also a tradition.
+
+54
+00:03:14,944 --> 00:03:21,523
+For generations, visitors stood with their backs to the pillar and tried to clasp their hands behind it.
+
+55
+00:03:21,523 --> 00:03:24,433
+If your fingers met, you would have good luck.
+
+56
+00:03:24,900 --> 00:03:34,220
+In nineteen ninety-seven, India's Archaeological Survey built an iron grill around the pillar to protect it from all those hands.
+
+57
+00:03:34,220 --> 00:03:37,833
+And that gave scientists an accidental experiment.
+
+58
+00:03:38,300 --> 00:03:42,457
+The rubbing had polished a bright patch about five feet up.
+
+59
+00:03:42,457 --> 00:03:52,745
+According to a study Balasubramaniam published in two thousand, within about a year of the fence, that bright patch had turned a thin, dark brown.
+
+60
+00:03:52,745 --> 00:03:54,999
+Fresh iron, rebuilding its skin.
+
+61
+00:03:55,466 --> 00:03:57,056
+Verdict on clause one.
+
+62
+00:03:57,056 --> 00:04:00,235
+Denied as written, approved with conditions.
+
+63
+00:04:00,235 --> 00:04:04,426
+It rusts, slowly, and then the rust stops being a problem.
+
+64
+00:04:04,426 --> 00:04:06,233
+The real question is how.
+
+65
+00:04:06,699 --> 00:04:07,423
+Clause two.
+
+66
+00:04:07,423 --> 00:04:09,067
+Nobody knows who made it.
+
+67
+00:04:09,067 --> 00:04:14,000
+Most of the claims say it is a mystery, but the pillar is signed, in a way.
+
+68
+00:04:14,000 --> 00:04:16,433
+On the shaft there is an inscription.
+
+69
+00:04:16,899 --> 00:04:21,437
+A short poem in Sanskrit, cut into the iron in Gupta-era script.
+
+70
+00:04:21,437 --> 00:04:25,265
+The letters are small, and they are still clear today.
+
+71
+00:04:25,265 --> 00:04:26,966
+The iron kept them safe.
+
+72
+00:04:27,433 --> 00:04:32,618
+In J F Fleet's classic translation, the text praises a king named Chandra.
+
+73
+00:04:32,618 --> 00:04:41,307
+It says he conquered enemies in Bengal, that his fame reached the southern ocean, and that he was devoted to the god Vishnu.
+
+74
+00:04:41,307 --> 00:04:43,199
+It never names his dynasty.
+
+75
+00:04:43,666 --> 00:04:51,328
+Scholars match him to Chandragupta the Second, who ruled around three seventy-five to four fifteen C E.
+
+76
+00:04:51,328 --> 00:04:55,568
+His gold coins show an archer and the short name Chandra.
+
+77
+00:04:55,568 --> 00:04:58,766
+The script and the poetry fit the same age.
+
+78
+00:04:59,233 --> 00:05:03,858
+An East India Company officer copied the text in eighteen thirty-one.
+
+79
+00:05:03,858 --> 00:05:12,640
+James Prinsep printed an incomplete version in eighteen thirty-four, and his full reading and translation in eighteen thirty-eight.
+
+80
+00:05:12,640 --> 00:05:17,333
+It took until eighteen seventy-five to read the king's name correctly.
+
+81
+00:05:17,800 --> 00:05:22,981
+The inscription says the pillar was raised on a hill called Vishnupada.
+
+82
+00:05:22,981 --> 00:05:32,833
+Researchers think that was Udayagiri, a hill of rock-cut caves in central India, where Chandragupta's own inscriptions have been found.
+
+83
+00:05:33,300 --> 00:05:35,412
+So how did it end up in Delhi?
+
+84
+00:05:35,412 --> 00:05:37,173
+Honestly, we do not know.
+
+85
+00:05:37,173 --> 00:05:42,173
+One view says the Tomar king Anangpal moved it in the eleventh century.
+
+86
+00:05:42,173 --> 00:05:52,033
+Another, argued by historian Finbarr Barry Flood, says the sultan Iltutmish carried it off after sacking Vidisha, in the thirteenth century.
+
+87
+00:05:52,500 --> 00:06:00,191
+If it really came from Udayagiri, someone moved more than six tonnes of iron across hundreds of kilometers.
+
+88
+00:06:00,191 --> 00:06:05,366
+And in the courtyard of a mosque, historians read it as a trophy of war.
+
+89
+00:06:05,833 --> 00:06:07,425
+Verdict on clause two.
+
+90
+00:06:07,425 --> 00:06:08,076
+Approved.
+
+91
+00:06:08,076 --> 00:06:12,057
+A real king, a real date range, and a real inscription.
+
+92
+00:06:12,057 --> 00:06:15,024
+The pillar is not an orphan from nowhere.
+
+93
+00:06:15,024 --> 00:06:16,399
+It has a signature.
+
+94
+00:06:16,866 --> 00:06:17,694
+Clause three.
+
+95
+00:06:17,694 --> 00:06:22,086
+Nobody could have built something this big sixteen hundred years ago.
+
+96
+00:06:22,086 --> 00:06:23,168
+We can test that.
+
+97
+00:06:23,168 --> 00:06:26,733
+Because the pillar carries the marks of how it was made.
+
+98
+00:06:27,199 --> 00:06:30,682
+Ancient Indian iron was never melted and poured.
+
+99
+00:06:30,682 --> 00:06:40,766
+Ore was reduced with charcoal in small furnaces, and what came out was a spongy lump of iron, called a bloom, that still held bits of slag.
+
+100
+00:06:41,233 --> 00:06:48,467
+To build something bigger, you joined lumps while they were white hot, and hammered them until they fused into one.
+
+101
+00:06:48,467 --> 00:06:49,851
+That is forge welding.
+
+102
+00:06:49,851 --> 00:06:52,933
+And this pillar is made of that, lump after lump.
+
+103
+00:06:53,399 --> 00:07:03,286
+According to Balasubramaniam, the pillar was probably built lying on its side, with lumps of hot iron added from the side and hammered in.
+
+104
+00:07:03,286 --> 00:07:06,366
+The joints still leave traces on the shaft.
+
+105
+00:07:06,833 --> 00:07:14,441
+In his observations, those forge-welded joints rust darker than the rest, which is how researchers can see them.
+
+106
+00:07:14,441 --> 00:07:17,566
+The finished surface was then hammered smooth.
+
+107
+00:07:18,033 --> 00:07:19,339
+It was a huge job.
+
+108
+00:07:19,339 --> 00:07:23,838
+It took a team, a lot of charcoal, and an organised workforce.
+
+109
+00:07:23,838 --> 00:07:24,999
+Remarkable, yes.
+
+110
+00:07:24,999 --> 00:07:31,166
+But it is exactly the kind of organised effort that empires of that age were good at.
+
+111
+00:07:31,633 --> 00:07:33,225
+And Delhi is not alone.
+
+112
+00:07:33,225 --> 00:07:41,394
+At Dhar, in central India, lie the broken pieces of another iron pillar, traditionally linked to the eleventh century.
+
+113
+00:07:41,394 --> 00:07:45,133
+Together the pieces measure more than thirteen meters.
+
+114
+00:07:45,600 --> 00:07:51,013
+That is about twice the height of Delhi's, and heavier, at around seven tonnes.
+
+115
+00:07:51,013 --> 00:07:55,056
+It was probably the largest forged iron pillar of its time.
+
+116
+00:07:55,056 --> 00:07:56,633
+It was never a one-off.
+
+117
+00:07:56,633 --> 00:07:57,866
+The skill existed.
+
+118
+00:07:58,333 --> 00:08:00,033
+Verdict on clause three.
+
+119
+00:08:00,033 --> 00:08:00,529
+Denied.
+
+120
+00:08:00,529 --> 00:08:07,754
+Ancient smiths could and did forge massive iron, and the pillar still wears the marks of their method.
+
+121
+00:08:07,754 --> 00:08:09,666
+The how is not the mystery.
+
+122
+00:08:10,133 --> 00:08:11,027
+Clause four.
+
+123
+00:08:11,027 --> 00:08:15,200
+The metal itself has a secret chemistry, a lost formula.
+
+124
+00:08:15,200 --> 00:08:18,256
+Here, at last, the claim has a real core.
+
+125
+00:08:18,256 --> 00:08:23,100
+Because the iron is unusual, and the lab can tell us exactly how.
+
+126
+00:08:23,566 --> 00:08:28,000
+The pillar is almost pure wrought iron, with very little carbon.
+
+127
+00:08:28,000 --> 00:08:30,978
+But it has an unusual amount of phosphorus.
+
+128
+00:08:30,978 --> 00:08:33,126
+About a quarter of one percent.
+
+129
+00:08:33,126 --> 00:08:36,866
+Modern iron usually carries less than a fifth of that.
+
+130
+00:08:37,333 --> 00:08:37,609
+Why?
+
+131
+00:08:37,609 --> 00:08:43,194
+In a modern furnace, limestone is added to carry the phosphorus away in the slag.
+
+132
+00:08:43,194 --> 00:08:46,022
+The ancient smiths did not use limestone.
+
+133
+00:08:46,022 --> 00:08:50,366
+They used wood and ore, and the phosphorus stayed in the metal.
+
+134
+00:08:50,833 --> 00:08:53,493
+Some researchers add another detail.
+
+135
+00:08:53,493 --> 00:09:00,957
+The fuel may have included phosphorus-rich woods, such as Cassia auriculata, a common shrub in India.
+
+136
+00:09:00,957 --> 00:09:04,799
+Charcoal from it would push even more phosphorus in.
+
+137
+00:09:05,266 --> 00:09:10,889
+The iron also holds tiny specks of slag, glassy leftovers from the smelting.
+
+138
+00:09:10,889 --> 00:09:13,035
+Normally, impurities are bad.
+
+139
+00:09:13,035 --> 00:09:18,066
+Here, they turn out to matter, because they change how rust behaves.
+
+140
+00:09:18,533 --> 00:09:21,833
+Balasubramaniam's team proposed the sequence.
+
+141
+00:09:21,833 --> 00:09:24,033
+At first, ordinary rust forms.
+
+142
+00:09:24,033 --> 00:09:33,200
+But the slag specks and the phosphorus stack up at the boundary between metal and rust, and a different layer begins to grow.
+
+143
+00:09:33,666 --> 00:09:36,913
+First an amorphous layer called misawite.
+
+144
+00:09:36,913 --> 00:09:42,456
+Then, slowly, a thin crystal layer of iron hydrogen phosphate hydrate.
+
+145
+00:09:42,456 --> 00:09:47,445
+That crystal layer is dense and it hardly lets in water or air.
+
+146
+00:09:47,445 --> 00:09:49,266
+Rust has nowhere to go.
+
+147
+00:09:49,733 --> 00:09:51,840
+It needs help from the weather.
+
+148
+00:09:51,840 --> 00:09:56,869
+Alternate wetting and drying drives the formation of that phosphate layer.
+
+149
+00:09:56,869 --> 00:09:59,180
+It cannot be switched on in a day.
+
+150
+00:09:59,180 --> 00:10:03,666
+The crystal form grows slowly, which makes it a sign of great age.
+
+151
+00:10:04,133 --> 00:10:05,749
+Verdict on clause four.
+
+152
+00:10:05,749 --> 00:10:07,506
+Approved with conditions.
+
+153
+00:10:07,506 --> 00:10:12,004
+The chemistry is real, but it is not lost, and it is not secret.
+
+154
+00:10:12,004 --> 00:10:15,729
+It came from local ore, local wood, and no limestone.
+
+155
+00:10:15,729 --> 00:10:18,400
+They did not need to know the formula.
+
+156
+00:10:18,866 --> 00:10:19,746
+Clause five.
+
+157
+00:10:19,746 --> 00:10:21,139
+The weather did it.
+
+158
+00:10:21,139 --> 00:10:25,540
+An older theory says Delhi's climate is the deciding factor.
+
+159
+00:10:25,540 --> 00:10:33,166
+In nineteen seventy, the Swedish corrosion scientist Gosta Wranglen argued exactly that: dry, clean air.
+
+160
+00:10:33,633 --> 00:10:38,754
+Rust runs faster when the air stays above about seventy percent humidity.
+
+161
+00:10:38,754 --> 00:10:41,841
+Delhi, for most of the year, stays below it.
+
+162
+00:10:41,841 --> 00:10:47,033
+Dry air really does slow iron down, and the pillar stands in the open air.
+
+163
+00:10:47,500 --> 00:10:50,407
+But the weather cannot be the whole story.
+
+164
+00:10:50,407 --> 00:10:54,561
+Look at Konark, on the Odisha coast, with sea salt and damp.
+
+165
+00:10:54,561 --> 00:10:58,646
+Its temple uses big iron beams from the thirteenth century.
+
+166
+00:10:58,646 --> 00:11:00,099
+They are still there.
+
+167
+00:11:00,566 --> 00:11:09,478
+Or Kollur, in the Kodachadri hills near India's humid west coast, where an old iron pillar stands at the Mookambika temple.
+
+168
+00:11:09,478 --> 00:11:15,346
+Balasubramaniam counts it in the same family of corrosion-resistant ancient iron.
+
+169
+00:11:15,346 --> 00:11:17,013
+Very different weather.
+
+170
+00:11:17,013 --> 00:11:18,100
+Still standing.
+
+171
+00:11:18,566 --> 00:11:20,952
+So, climate and metal work together.
+
+172
+00:11:20,952 --> 00:11:25,858
+The dry air helps the pillar, and the phosphoric iron helps it everywhere.
+
+173
+00:11:25,858 --> 00:11:30,166
+Neither explains the pillar alone, and neither needs a spaceship.
+
+174
+00:11:30,633 --> 00:11:33,999
+There is one more catch for the miracle story.
+
+175
+00:11:33,999 --> 00:11:46,731
+As Balasubramaniam noted in a study published in two thousand, no samples could be taken from the pillar, so lab work relied on rust samples, and an old Gupta-era iron clamp.
+
+176
+00:11:46,731 --> 00:11:49,000
+The pillar itself is protected.
+
+177
+00:11:49,466 --> 00:11:51,121
+Verdict on clause five.
+
+178
+00:11:51,121 --> 00:11:52,920
+Approved with conditions.
+
+179
+00:11:52,920 --> 00:11:55,582
+The climate is a helper, not a trick.
+
+180
+00:11:55,582 --> 00:12:02,633
+It explains why Delhi is a lucky home, and why the damp coast iron beams are even more impressive.
+
+181
+00:12:03,100 --> 00:12:03,907
+Clause six.
+
+182
+00:12:03,907 --> 00:12:05,670
+Extraterrestrial origin.
+
+183
+00:12:05,670 --> 00:12:08,021
+This one has a traceable author.
+
+184
+00:12:08,021 --> 00:12:20,066
+Erich von Daniken's Chariots of the Gods, published in German in nineteen sixty-eight and in English in nineteen sixty-nine, used the pillar as proof of alien help.
+
+185
+00:12:20,533 --> 00:12:30,448
+In nineteen seventy-four, an interviewer from Playboy told him that the column was not rust-free, and that its method of manufacture was understood.
+
+186
+00:12:30,448 --> 00:12:34,266
+His answer: he no longer considered the pillar a mystery.
+
+187
+00:12:34,733 --> 00:12:36,963
+One more mark deserves a mention.
+
+188
+00:12:36,963 --> 00:12:40,881
+Partway up the shaft is a deep dent, made by a cannonball.
+
+189
+00:12:40,881 --> 00:12:49,733
+There is no record from the time, but historians think it was probably fired in seventeen thirty-nine, on the orders of Nadir Shah.
+
+190
+00:12:50,200 --> 00:12:52,919
+The pillar took the hit and did not break.
+
+191
+00:12:52,919 --> 00:12:55,186
+That is a stronger story than rust.
+
+192
+00:12:55,186 --> 00:12:59,266
+Whatever this iron is, it took a cannon, and it stayed upright.
+
+193
+00:12:59,733 --> 00:13:01,360
+Verdict on clause six.
+
+194
+00:13:01,360 --> 00:13:01,878
+Denied.
+
+195
+00:13:01,878 --> 00:13:06,537
+Its main advocate gave it up himself, in nineteen seventy-four.
+
+196
+00:13:06,537 --> 00:13:11,566
+The rust, the metal, and the method all have published explanations.
+
+197
+00:13:12,033 --> 00:13:12,665
+Case file.
+
+198
+00:13:12,665 --> 00:13:15,133
+Time to score the Iron Pillar of Delhi.
+
+199
+00:13:15,600 --> 00:13:19,787
+A Gupta-era inscription naming King Chandra: evidence.
+
+200
+00:13:19,787 --> 00:13:24,130
+Forge-welded wrought iron, high in phosphorus: evidence.
+
+201
+00:13:24,130 --> 00:13:27,542
+A thin, protective phosphate film: evidence.
+
+202
+00:13:27,542 --> 00:13:30,799
+Delhi's dry climate as a helper: evidence.
+
+203
+00:13:31,266 --> 00:13:33,997
+Never rusts: false, it rusts slowly.
+
+204
+00:13:33,997 --> 00:13:37,714
+A lost super-metal: no, local ore and local wood.
+
+205
+00:13:37,714 --> 00:13:40,899
+An alien alloy: dropped by its own author.
+
+206
+00:13:41,366 --> 00:13:42,273
+The verdict.
+
+207
+00:13:42,273 --> 00:13:44,088
+Human genius, not alien.
+
+208
+00:13:44,088 --> 00:13:51,271
+A sixteen-hundred-year warranty honoured by phosphorus, slag, dry air, and a skilled workforce.
+
+209
+00:13:51,271 --> 00:13:52,027
+Not magic.
+
+210
+00:13:52,027 --> 00:13:53,766
+Not an accident either.
+
+211
+00:13:54,233 --> 00:13:57,543
+And here is the part the aliens cannot match.
+
+212
+00:13:57,543 --> 00:14:00,411
+This craft did not end with one pillar.
+
+213
+00:14:00,411 --> 00:14:09,899
+According to Balasubramaniam and later studies, the iron at Dhar and the beams at Konark show the same phosphorus-rich signature.
+
+214
+00:14:10,366 --> 00:14:12,680
+It is a monument to patient craft.
+
+215
+00:14:12,680 --> 00:14:23,366
+People who never heard of phosphates built a pillar that outlasted empires, and it is still standing because they paid attention to what their materials did.
+
+216
+00:14:23,833 --> 00:14:27,526
+Next case: a stone lid in a Maya tomb at Palenque.
+
+217
+00:14:27,526 --> 00:14:32,844
+An astronaut at the controls of a rocket, or the world tree of the Maya?
+
+218
+00:14:32,844 --> 00:14:34,100
+We open the tomb.
+
+219
+00:14:34,566 --> 00:14:37,425
+Did you ever hear the rustless pillar story?
+
+220
+00:14:37,425 --> 00:14:43,466
+Tell us in the comments, and subscribe for the next ancient mystery, tested clause by clause.
